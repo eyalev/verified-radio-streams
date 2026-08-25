@@ -1,0 +1,26 @@
+WHAT THE CC0 DEDICATION IN LICENSE COVERS
+
+It covers the DATA in this repository: the station records, the schema, the
+index and the generated playlists. Public domain, no attribution required.
+
+IT DOES NOT COVER THE AUDIO STREAMS THE URLs POINT AT
+
+Those are operated by third-party broadcasters. They are not ours, they are
+not ours to license, and they may be geo-blocked, rate-limited, moved or
+withdrawn at any time.
+
+A "verified" date means the stream answered with audio bytes on that day. It
+is a statement about reachability and nothing else -- not an endorsement, not
+a claim about who owns the audio, and not a grant of any right to rebroadcast
+it. If you intend to redistribute a stream rather than link to it, that is
+between you and the broadcaster.
+
+SOURCE
+
+Station discovery comes from Radio Browser (https://www.radio-browser.info),
+a community directory whose collected data its author placed in the public
+domain. Attribution is not required by either project and is the right thing
+to do anyway: the directory exists only because people kept adding to it.
+
+Verification, filtering, normalisation and the schema are the work of
+globalradio.app (https://globalradio.app).

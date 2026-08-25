@@ -163,7 +163,8 @@ thing to do, because the directory only exists because people kept adding to it.
 
 **Stream URLs are not ours and are not licensed by us.** They point at
 third-party broadcasters who may geo-block, rate-limit, move or withdraw them
-at any time. Verified means it answered on the date recorded — nothing more.
+at any time. Verified means it answered on the date recorded — nothing more, and
+in particular not a right to rebroadcast it. See [`NOTICE`](NOTICE).
 
 ## Corrections
 
