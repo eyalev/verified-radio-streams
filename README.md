@@ -9,7 +9,7 @@ date that happened.
 **[→ Browse radio by country](countries/)** — no code, no download. Or press play
 at **[globalradio.app](https://globalradio.app)**, which is built from this same data.
 
-Browsable country pages exist so far for 🇵🇹 **[Portugal](countries/portugal/)**, with 12 station pages inside. The other 187 countries are listed there too and link to the site.
+**172 countries** have a page here, with 961 station pages inside them — [Europe](countries/europe/) · [Americas](countries/americas/) · [Asia](countries/asia/) · [Africa](countries/africa/) · [Oceania](countries/oceania/) · [Antarctica](countries/antarctica/) · [Elsewhere](countries/other/).
 
 ## Or take the data
 

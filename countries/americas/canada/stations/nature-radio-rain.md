@@ -1,0 +1,51 @@
+# Nature Radio Rain
+
+🇨🇦 Radio from **[Canada](../README.md)** · Toronto
+
+## Listen
+
+- ▶︎ **[Play it on globalradio.app](https://globalradio.app/canada/nature-radio-rain/)** — plays in the browser, nothing to install
+- 🌐 [The station's own website](https://radiosuitenetwork.torontocast.stream/nature-radio-rain/)
+- 🎧 Direct stream: [`https://maggie.torontocast.com:2020/stream/natureradiorain`](https://maggie.torontocast.com:2020/stream/natureradiorain) — paste into VLC, mpv, or any player
+
+```bash
+mpv "https://maggie.torontocast.com:2020/stream/natureradiorain"
+```
+
+## What we know about it
+
+| | |
+|---|---|
+| Country | 🇨🇦 [Canada](../README.md) |
+| Region | Toronto |
+| Genre | `ambient` `relax` `relaxing` |
+| Language | english |
+| Quality | 128 kbps MP3 |
+| Format | `music` |
+| Votes | 3,369 |
+| Plays (24h) | 9 |
+| Stream last answered | **2026-08-24** |
+
+**Stream last answered 2026-08-24** means exactly that: on that day the URL
+above was opened and returned audio bytes. It is not a promise about today, and
+it is not an endorsement — just the last time anybody checked.
+
+**No broadcast frequency is listed** for this station. That means nobody wrote
+one into its name — the only place frequencies here come from. It is not
+evidence that the station is internet-only, and for a national broadcaster it
+usually means the opposite: too many transmitters to name one.
+
+## More from Canada
+
+- [REGGAE CHILL CAFE](reggae-chill-cafe.md) — chillout, reggae, relax, relaxing
+- [Labgate - Progressive Rock](labgate-progressive-rock.md)
+- [# RdMix Classic Rock 70s 80s 90s](rdmix-classic-rock-70s-80s-90s.md) — 60s, 70s, 80s, 90s, blues, classic-hits, classic-rock, country, hits, music, musica, oldies, pop-rock, rock
+- [100 GREATEST OF THE 80'S](100-greatest-of-the-80-s.md) — 80s
+- [70 80 90 Vibrazioni Rock Radio](70-80-90-vibrazioni-rock-radio.md) — 70s, 80s, 90s, blues, classic-rock, pop-rock, rock
+- [Ancient FM](ancient-fm.md) — classical, folk
+
+[**All 152 stations in Canada →**](../README.md)
+
+---
+
+[← Canada](../README.md) · [Americas](../../README.md) · [All countries](../../../README.md) · [Repo home](../../../../README.md) · [globalradio.app](https://globalradio.app)
