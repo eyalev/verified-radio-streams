@@ -1,0 +1,505 @@
+{
+ "countryCode": "SA",
+ "country": "Saudi Arabia",
+ "slug": "saudi-arabia",
+ "continent": "asia",
+ "stationCount": 27,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/saudi-arabia/",
+ "stations": [
+  {
+   "id": "qurango",
+   "name": "تفسير القرآن الكريم",
+   "url": "",
+   "stream": "https://qurango.net/radio/tafseer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2952,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango-2",
+   "name": ".ماهر المعيقلي",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/maher",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1921,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio",
+   "name": ".Quran radio",
+   "url": "",
+   "stream": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 726,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "101-7-your-love-fm",
+   "name": "101.7 Your Love FM",
+   "url": "https://www.1017yourlovefm.com/",
+   "stream": "https://radio.905heartfm.com:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "filipino"
+   ],
+   "state": "Dammam",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 318,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "saudi-aramco-studio-x-80s-and-90s",
+   "name": "Saudi Aramco Studio X 80s and 90s",
+   "url": "https://saudiaramco.com/",
+   "stream": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Eastern Province",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-hits"
+   ],
+   "votes": 305,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ufm-ksa-90s-105-9-fm",
+   "name": "UFM KSA 90s 105.9 FM",
+   "url": "https://www.ufmradio.com/",
+   "stream": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mecca",
+   "genre": [
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 37,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ufm-ksa-80s-95-5-fm",
+   "name": "UFM KSA 80s 95.5 FM",
+   "url": "https://www.ufmradio.com/",
+   "stream": "https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mecca",
+   "genre": [
+    "80s",
+    "pop",
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "skyradio-105-5-fm",
+   "name": "SkyRadio 105.5 FM",
+   "url": "https://www.skyradio105.com/",
+   "stream": "https://cast.skyradio105.com/proxy/skyradio105/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english"
+   ],
+   "langCodes": [
+    "ar",
+    "en"
+   ],
+   "state": "Riyadh",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 19,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "105-5-soft-rock-fm-ksa",
+   "name": "105.5 Soft Rock FM KSA",
+   "url": "https://radiospinner.com/stations/soft-rock-102768/#google_vignette",
+   "stream": "https://drive.uber.radio/uber/starboxsoftrock/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english"
+   ],
+   "langCodes": [
+    "ar",
+    "en"
+   ],
+   "state": "Mecca",
+   "genre": [
+    "music",
+    "rock"
+   ],
+   "votes": 10,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "105-5-afn-radio-one",
+   "name": "105.5 AFN RADIO ONE",
+   "url": "https://afngo.net/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mecca",
+   "genre": [
+    "music",
+    "top-40"
+   ],
+   "votes": 9,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mp3quran-tarateel",
+   "name": "Mp3Quran Tarateel",
+   "url": "https://www.mp3quran.net/",
+   "stream": "https://qurango.net/radio/tarateel",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6470,
+   "clicks": 33,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mp3quran-main",
+   "name": "Mp3Quran Main",
+   "url": "https://www.mp3quran.net/",
+   "stream": "https://qurango.net/radio/mix",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 4306,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alifalif-fm",
+   "name": "AlifAlif FM",
+   "url": "https://www.alifaliffm.com/",
+   "stream": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 3787,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fred-film-radio",
+   "name": "Fred Film Radio(لغة عربية)",
+   "url": "http://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradioar/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1611,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mixlr",
+   "name": "إذاعة القرآن الكريم (مكة المكرمة)",
+   "url": "https://edge.mixlr.com/channel/rwumx",
+   "stream": "https://edge.mixlr.com/channel/rwumx",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 969,
+   "clicks": 21,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "asharqbusiness",
+   "name": "راديو الشرق مع بلومبرغ",
+   "url": "https://www.asharqbusiness.com/radio",
+   "stream": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+   "codec": "aac",
+   "bitrate": 256,
+   "state": "Riyadh",
+   "genre": [],
+   "votes": 859,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "1",
+   "name": "مقدمة رسالة ابن أبي زيد القيرواني1",
+   "url": "https://www.al-badr.net/",
+   "stream": "https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "العربية"
+   ],
+   "genre": [],
+   "votes": 621,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "5-replay-news",
+   "name": "إذاعة الأخبار كل 5 دقائق REPLAY NEWS - العربية",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Riyadh",
+   "genre": [],
+   "votes": 595,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sba-saudia-radio-103-6-fm",
+   "name": "SBA Saudia Radio 103.6 FM",
+   "url": "https://www.aloula.sa/en/live/saudiaradio",
+   "stream": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dammam",
+   "genre": [],
+   "votes": 432,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "voice-of-grace",
+   "name": "Voice Of Grace",
+   "url": "https://antiochpatriarchate.org/radio.php",
+   "stream": "https://securestreams5.reliastream.com:1820/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 426,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiojar",
+   "name": "إذاعة القرآن الكريم (مكة المكرمة)",
+   "url": "https://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABlo7vOaoAkavc0CM0frQ6zQ",
+   "stream": "https://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABlo7vOaoAkavc0CM0frQ6zQ",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 350,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ufm-95-5",
+   "name": "UFM 95.5",
+   "url": "https://ufmradio.com/",
+   "stream": "https://stream.ufmradio.com:8003/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 253,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "islamic-tagalog-radio",
+   "name": "Islamic Tagalog Radio",
+   "url": "https://salafwayfm.ly/",
+   "stream": "https://islamicbulletin.site:8030/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "arabic",
+    "filipino"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Mecca",
+   "genre": [],
+   "votes": 217,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "old-time-radio-ksa-720-am",
+   "name": "Old Time Radio KSA 720 AM",
+   "url": "https://www.wotrradionetwork.com/",
+   "stream": "https://ais-sa3.cdnstream1.com/2607_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mecca",
+   "genre": [],
+   "votes": 179,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "v81-radio-ksa-101-8-fm",
+   "name": "V81 Radio KSA 101.8 FM",
+   "url": "https://www.v81radio.com/player/?kuid=579faf22-13eb-4102-b0e5-9f7d7dbedda8&kref=https%3A%2F%2Fwww.v81radio.com%2F",
+   "stream": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "filipino"
+   ],
+   "state": "Mecca",
+   "genre": [],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jeddah",
+   "name": "Jeddah",
+   "url": "",
+   "stream": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 10,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "universal-health-radio",
+   "name": "Universal Health Radio (العربية)",
+   "url": "https://universalhealthradio.org/",
+   "stream": "https://radio.universalhealthradio.org/uhr-ar.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  }
+ ]
+}

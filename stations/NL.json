@@ -1,0 +1,3304 @@
+{
+ "countryCode": "NL",
+ "country": "Netherlands",
+ "slug": "netherlands",
+ "continent": "europe",
+ "stationCount": 160,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/netherlands/",
+ "stations": [
+  {
+   "id": "intense-radio-we-love-dance-256k",
+   "name": "Intense Radio - We love Dance 256K",
+   "url": "https://www.intenseradio.net/",
+   "stream": "https://intenseradio.live-streams.nl:18000/main",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "belarusian",
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "be",
+    "en",
+    "nl"
+   ],
+   "state": "Burgenland",
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 47904,
+   "clicks": 172,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arrow-classic-rock",
+   "name": "Arrow Classic Rock",
+   "url": "https://www.arrow.nl/",
+   "stream": "https://stream.player.arrow.nl/arrowcr",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 6253,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-radio-5",
+   "name": "NPO Radio 5",
+   "url": "https://www.nporadio5.nl/",
+   "stream": "https://icecast.omroep.nl/radio5-bb-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s"
+   ],
+   "votes": 5524,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fantasy-italo-dance-90s-radio",
+   "name": "Fantasy Italo Dance 90s radio",
+   "url": "https://italo.dance/",
+   "stream": "https://mscp2.live-streams.nl:8152/italodance",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Zuid-Holland",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 3908,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sky-radio-hits",
+   "name": "Sky Radio Hits",
+   "url": "https://www.skyradio.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 2684,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "grolloo-radio",
+   "name": "Grolloo Radio",
+   "url": "https://grollooradio.nl/",
+   "stream": "https://uk1.streamingpulse.com/ssl/grollooradio",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "blues",
+    "country",
+    "soul"
+   ],
+   "votes": 2522,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-de-ville-chill",
+   "name": "Jazz de Ville - Chill",
+   "url": "https://www.jazzdeville.com/",
+   "stream": "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 1866,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-klassiek",
+   "name": "NPO Klassiek",
+   "url": "https://www.nporadio4.nl/",
+   "stream": "https://icecast.omroep.nl/radio4-bb-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 1459,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pinguin-blues",
+   "name": "Pinguin Blues",
+   "url": "https://pinguinradio.com/",
+   "stream": "https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "blues"
+   ],
+   "votes": 1141,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-70s-80s",
+   "name": "Joe 70s & 80s",
+   "url": "https://joe.nl/",
+   "stream": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+   "codec": "aac",
+   "bitrate": 95,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "70s",
+    "80s"
+   ],
+   "votes": 1007,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe",
+   "name": "JOE",
+   "url": "https://joe.nl/",
+   "stream": "https://stream.joe.nl/joe/aachigh",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 969,
+   "clicks": 39,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pure-lounge-radio-flac",
+   "name": "Pure Lounge Radio FLAC",
+   "url": "https://www.pureloungeradio.com/",
+   "stream": "https://mscp4.live-streams.nl:8142/lounge.ogg",
+   "codec": "ogg",
+   "bitrate": 1411,
+   "format": "music",
+   "genre": [
+    "70s",
+    "80s",
+    "disco",
+    "funk",
+    "soul"
+   ],
+   "votes": 892,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "perfectmoods-24-7-quality-lounge",
+   "name": "PerfectMoods – 24/7 Quality Lounge",
+   "url": "https://perfectmoods.nl/",
+   "stream": "https://www.radioking.com/play/perfectmoods/104227",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 865,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soulradio",
+   "name": "SoulRadio",
+   "url": "http://www.soulradio.nl/",
+   "stream": "https://28983.live.streamtheworld.com/SOULRADIOAAC_SC",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "soul"
+   ],
+   "votes": 845,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-3fm",
+   "name": "NPO 3FM",
+   "url": "https://www.npo3fm.nl/",
+   "stream": "https://icecast.omroep.nl/3fm-bb-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 739,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-de-ville-jazz",
+   "name": "Jazz de Ville - Jazz",
+   "url": "https://www.jazzdeville.com/",
+   "stream": "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 736,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tukker-fm",
+   "name": "Tukker FM",
+   "url": "https://www.tukker.fm/",
+   "stream": "https://stream.tukkerfm.nl/tukkerfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "folk",
+    "oldies"
+   ],
+   "votes": 624,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-de-ville-dance",
+   "name": "Jazz de Ville - Dance",
+   "url": "https://www.jazzdeville.com/",
+   "stream": "https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 604,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "celtcast",
+   "name": "Celtcast",
+   "url": "http://celtcast.com/",
+   "stream": "https://caster04.streampakket.com/proxy/8982/CeltCast",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 523,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-mp3",
+   "name": "JOE mp3",
+   "url": "https://joe.nl/",
+   "stream": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 523,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classicnl-opera",
+   "name": "Classicnl Opera",
+   "url": "https://www.classic.nl/",
+   "stream": "https://classic.nl/streams/?s=opera",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Utrecht",
+   "genre": [
+    "classical",
+    "opera"
+   ],
+   "votes": 509,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iskc-old-men-s-rock",
+   "name": "ISKC Old Men's Rock",
+   "url": "https://iskcrocks.com/?page_id=1898",
+   "stream": "https://443-1.autopo.st/79/OldMenRock",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "oldies",
+    "rock"
+   ],
+   "votes": 453,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kink-128k-aac",
+   "name": "KINK 128k aac",
+   "url": "https://kink.nl/",
+   "stream": "https://22533.live.streamtheworld.com/KINKAAC_SC",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 432,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kx-classics",
+   "name": "KX Classics",
+   "url": "https://www.kxclassics.nl/",
+   "stream": "https://mcp-1.streampanel.nl:8020/kxclassics_mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 431,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-radio-6-soul-jazz",
+   "name": "NPO Radio 6 Soul & Jazz",
+   "url": "https://www.npostart.nl/",
+   "stream": "https://icecast.omroep.nl/radio6-bb-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Noord-Holland",
+   "genre": [
+    "jazz",
+    "soul"
+   ],
+   "votes": 365,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-10-non-stop",
+   "name": "Radio 10 non-stop",
+   "url": "https://www.radio10.nl/non-stop",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 349,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caroline-259-mp3-320",
+   "name": "Radio Caroline 259 MP3 320",
+   "url": "https://www.radiocaroline.nl/",
+   "stream": "https://happy.radiocaroline.nl/listen/classic_rock/radio320.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 329,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-nl-soundtracks",
+   "name": "classic nl soundtracks",
+   "url": "https://www.classic.nl/",
+   "stream": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "flammish"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 269,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kink-90-s",
+   "name": "Kink 90's",
+   "url": "https://kink.nl/kink90s",
+   "stream": "https://25233.live.streamtheworld.com/KINK_90S_SC",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 245,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "only-80-s-radio",
+   "name": "Only 80's Radio",
+   "url": "https://www.only80sradio.nl/",
+   "stream": "https://server-28.stream-server.nl:8850/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "80s",
+    "disco",
+    "pop-music"
+   ],
+   "votes": 239,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caroline-259-gold",
+   "name": "Radio Caroline 259 Gold",
+   "url": "https://radiocaroline259.nl/",
+   "stream": "https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-rock"
+   ],
+   "votes": 232,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-nl",
+   "name": "Classic NL",
+   "url": "https://classic.nl/",
+   "stream": "https://classic.nl/streams/?s=main",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 214,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amsterdam-funk-channel-afc",
+   "name": "Amsterdam Funk Channel (AFC)",
+   "url": "https://www.afc.fm/",
+   "stream": "https://stream.afc.fm/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Noord-Holland, Amsterdam",
+   "genre": [
+    "funk"
+   ],
+   "votes": 199,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cream",
+   "name": "Cream",
+   "url": "https://creamradio.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 185,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "groot-nieuws-radio",
+   "name": "Groot Nieuws Radio",
+   "url": "https://www.grootnieuwsradio.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 178,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-campus-radio",
+   "name": "NPO Campus Radio",
+   "url": "https://www.npocampus.nl/",
+   "stream": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 160,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "00s-alive",
+   "name": "00s Alive",
+   "url": "https://alive.radio/00s/",
+   "stream": "https://stream.00sa.live/00s-alive.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 153,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ice-radio",
+   "name": "ICE RADIO",
+   "url": "",
+   "stream": "https://stream.iceradio.nl/iceradiohq?ver=30283",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 149,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "538-classics",
+   "name": "538 Classics",
+   "url": "https://www.538.nl/classics",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 148,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-monique-963-gold",
+   "name": "Radio Monique 963 Gold",
+   "url": "http://www.radiomonique.nl/",
+   "stream": "https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "oldies"
+   ],
+   "votes": 145,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "simone-fm",
+   "name": "Simone FM",
+   "url": "https://www.simone.nl/",
+   "stream": "https://stream.simone.nl/simone",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 144,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-radio-4-concerten",
+   "name": "NPO Radio 4 Concerten",
+   "url": "https://www.nporadio4.nl/",
+   "stream": "https://icecast.omroep.nl/radio4-eigentijds-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 142,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "npo-blend",
+   "name": "NPO BLEND",
+   "url": "https://npoblend.nl/",
+   "stream": "https://icecast.omroep.nl/npoblend-bb-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "r&b",
+    "soul"
+   ],
+   "votes": 133,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "studio040",
+   "name": "Studio040",
+   "url": "https://studio040.nl/",
+   "stream": "https://stream.studio040.nl/studio040.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Noord Brabant",
+   "genre": [
+    "pop"
+   ],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alternative-rock-radio",
+   "name": "Alternative Rock Radio",
+   "url": "https://kink.nl/",
+   "stream": "https://25243.live.streamtheworld.com/KINK_SC",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 121,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wgrv-fm",
+   "name": "WGRV.FM",
+   "url": "https://wgrv.fm/",
+   "stream": "https://caster08.streampakket.com/proxy/wgrv/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "funk",
+    "r&b",
+    "soul"
+   ],
+   "votes": 112,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pinguin-pop",
+   "name": "Pinguin Pop",
+   "url": "https://pinguinradio.com/",
+   "stream": "https://samcloud.spacial.com/api/listen?sid=98586&m=sc&rid=174409",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 109,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caroline-259-aac-96",
+   "name": "Radio Caroline 259 AAC 96",
+   "url": "https://www.radiocaroline.nl/",
+   "stream": "https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 101,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "omroep-zeeland-radio",
+   "name": "Omroep Zeeland Radio",
+   "url": "https://www.omroepzeeland.nl/radio-zeeland",
+   "stream": "https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "zeelandic"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "folk",
+    "pop",
+    "rock"
+   ],
+   "votes": 100,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-90-s-00-s-64k-aac",
+   "name": "Qmusic 90's & 00's (64k aac)",
+   "url": "https://qmusic.nl/",
+   "stream": "https://stream.qmusic.nl/90s-00s/aaclow",
+   "codec": "aac",
+   "bitrate": 95,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "hits"
+   ],
+   "votes": 98,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caroline-319-gold",
+   "name": "Radio Caroline 319 Gold",
+   "url": "http://radiocaroline319.nl/",
+   "stream": "https://happy.radiomonique.nl/listen/happy_oldies/radio64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "60s",
+    "70s"
+   ],
+   "votes": 98,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "538-classics-aac",
+   "name": "538 Classics AAC",
+   "url": "https://www.538.nl/classics",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "groot-nieuws-radio-non-stop",
+   "name": "Groot Nieuws Radio Non-Stop",
+   "url": "https://www.grootnieuwsradio.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "worship"
+   ],
+   "votes": 94,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nixxfm",
+   "name": "NixxFM",
+   "url": "https://www.nixxfm.nl/",
+   "stream": "https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "flevoland",
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "pop",
+    "trance"
+   ],
+   "votes": 91,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dance-90s-dance-music",
+   "name": "radio.DANCE 90s dance music",
+   "url": "https://www.radio.dance/",
+   "stream": "https://radiodance.streamingmedia.it/audio.aac",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Amsterdam",
+   "genre": [
+    "90s",
+    "dance",
+    "dance-music"
+   ],
+   "votes": 91,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "538-90s-aac",
+   "name": "538 90s AAC",
+   "url": "https://www.538.nl/538-90s-de-lekkerste-hits-uit-de-jaren-90-hoor-je-op-het-themastation-90s-op",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "90s",
+    "dance",
+    "hits"
+   ],
+   "votes": 87,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sky-lovesongs",
+   "name": "Sky LoveSongs",
+   "url": "https://skyradio.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 85,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-monique-918",
+   "name": "RADIO MONIQUE 918",
+   "url": "https://radiomonique.am/",
+   "stream": "https://radiomonique918.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 83,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-dance-radio",
+   "name": "Cool Dance Radio",
+   "url": "https://www.cooldanceradio.com/",
+   "stream": "https://stream.cooldanceradio.com/stream1/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "downtempo",
+    "music"
+   ],
+   "votes": 78,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-unique-fm-hi-res",
+   "name": "RADIO UNIQUE FM /HI-RES",
+   "url": "https://radiouniquefm.nl/",
+   "stream": "https://hilversumdrie.beheerstream.nl/8038/stream",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Noord-Holland",
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "top-40"
+   ],
+   "votes": 78,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classicnl-mind-radio",
+   "name": "Classicnl Mind Radio",
+   "url": "https://classic.nl/",
+   "stream": "https://classic.nl/streams/?s=mindradio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english",
+    "french",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "fr",
+    "it"
+   ],
+   "genre": [
+    "chillout",
+    "relax"
+   ],
+   "votes": 73,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-time-out-trance",
+   "name": "Radio Time Out Trance",
+   "url": "https://rto-online.pl/",
+   "stream": "https://s3.slotex.pl/shoutcast/7056/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wild-fm",
+   "name": "WILD FM",
+   "url": "https://www.wildfm.nl/",
+   "stream": "https://stream.wildfm.nl/wildfm.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioachterhoek-nl",
+   "name": "Radioachterhoek.nl",
+   "url": "https://radioachterhoek.nl/",
+   "stream": "https://stream.radioachterhoek.nl/index.html?sid=1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "nl"
+   ],
+   "state": "Gelderland",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 70,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "baars-classic-rock",
+   "name": "Baars Classic Rock",
+   "url": "http://www.baarsclassicrock.nl/",
+   "stream": "https://stream.iceradio.nl/baarsclassicrock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-nl-original",
+   "name": "Classic nl original",
+   "url": "https://classic.nl/",
+   "stream": "https://stream.classic.nl/classicnl.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "flammish"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 68,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "247spice-radio-amsterdam",
+   "name": "247Spice Radio Amsterdam",
+   "url": "https://247spice.com/",
+   "stream": "https://stream.247streaming.live/247spice.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Noord-Holland, Amsterdam",
+   "genre": [
+    "music"
+   ],
+   "votes": 61,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amsterdam-funk-channel",
+   "name": "Amsterdam Funk Channel",
+   "url": "https://www.afc.fm/",
+   "stream": "https://live.afc.fm/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Noord-Holland",
+   "genre": [
+    "80s",
+    "90s",
+    "funk",
+    "r&b",
+    "soul"
+   ],
+   "votes": 61,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-thema",
+   "name": "QMUSIC THEMA",
+   "url": "https://stream.qmusic.nl/",
+   "stream": "https://stream.qmusic.nl/thema/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Noord-Holland",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 57,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caroline-259-gold-64kbps",
+   "name": "Radio Caroline 259 Gold 64kbps",
+   "url": "https://radiocaroline259.nl/",
+   "stream": "https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-rock"
+   ],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80-s-hitradio",
+   "name": "80's Hitradio",
+   "url": "https://s22.myradiostream.com/7728/listen.mp3",
+   "stream": "https://s22.myradiostream.com/7728/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 55,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "glow-fm",
+   "name": "Glow FM",
+   "url": "https://glowfm.nl/",
+   "stream": "https://stream.glowfm.nl/glowfm.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Eindhoven",
+   "genre": [
+    "pop"
+   ],
+   "votes": 53,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sublime-jazz",
+   "name": "Sublime Jazz",
+   "url": "https://www.sublime.nl/",
+   "stream": "https://stream.sublime.nl/web21_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 53,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4ever49radio",
+   "name": "4ever49radio",
+   "url": "http://4ever49radio.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 52,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "grunn-fm",
+   "name": "Grunn FM",
+   "url": "https://www.grunn.fm/",
+   "stream": "https://stream.grunnfm.nl/grunnfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Groningen",
+   "genre": [
+    "pop"
+   ],
+   "votes": 48,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitzzz-das-radio",
+   "name": "Hitzzz das radio",
+   "url": "https://hitzzz.nl/",
+   "stream": "https://stream.hitzzz.nl/hitzzz",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kink-distortion-2",
+   "name": "KINK Distortion",
+   "url": "",
+   "stream": "https://22603.live.streamtheworld.com/KINK_DISTORTION_SC",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 48,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oldskoolradio",
+   "name": "Oldskoolradio",
+   "url": "https://www.oldskoolradio.nl/",
+   "stream": "https://caster08.streampakket.com/proxy/arjanhoo?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Utrecht, Utrecht",
+   "genre": [
+    "70s",
+    "disco",
+    "soul"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "world-music-radio-classic",
+   "name": "World Music Radio Classic",
+   "url": "https://www.wmrclassic.com/",
+   "stream": "https://server-67.stream-server.nl:8792/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "pop",
+    "r&b",
+    "soul"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-regenboog",
+   "name": "Radio Regenboog",
+   "url": "https://radioregenboog.nl/",
+   "stream": "https://server-28.stream-server.nl:18828/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 42,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kink-64kbps",
+   "name": "KINK 64kbps",
+   "url": "https://kink.nl/",
+   "stream": "https://22553.live.streamtheworld.com/KINKAAC2_SC",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "alternative",
+    "rock"
+   ],
+   "votes": 39,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-monique-963-aac-96",
+   "name": "Radio Monique 963 AAC 96",
+   "url": "https://www.radiomonique.nl/",
+   "stream": "https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "oldies"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-twente-gold",
+   "name": "Radio Twente Gold",
+   "url": "https://www.twentegold.nl/",
+   "stream": "https://c18.radioboss.fm:8403/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Overijssel",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 37,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hulchul",
+   "name": "Radio Hulchul",
+   "url": "https://everestcast.live-streams.nl:18010/stream",
+   "stream": "https://everestcast.live-streams.nl:18010/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-fm-online",
+   "name": "Relax FM Online",
+   "url": "https://www.relaxfmonline.nl/",
+   "stream": "https://caster04.streampakket.com/proxy/8009/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "South-Holland",
+   "genre": [
+    "80s",
+    "disco",
+    "funk",
+    "r&b"
+   ],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tiesto-in-concert",
+   "name": "Tiësto in Concert",
+   "url": "https://www.tiesto.com/",
+   "stream": "https://ia801804.us.archive.org/33/items/tiesto-tiesto-in-concert-2003/Tiesto%20-%20Tiesto%20In%20Concert%20%282003%29.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "techno",
+    "trance"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "haarlem-shuffle",
+   "name": "Haarlem Shuffle",
+   "url": "http://haarlemshuffle.radio/",
+   "stream": "https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "oldies"
+   ],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "40up-radio",
+   "name": "40up Radio",
+   "url": "https://dev.40upradio.nl/",
+   "stream": "https://stream.40upradio.nl/40up",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-10-60-s-70-s-hits",
+   "name": "Radio 10 60's & 70's Hits",
+   "url": "https://www.radio10.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "60s",
+    "70s"
+   ],
+   "votes": 32,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1224",
+   "name": "Radio 1224",
+   "url": "https://radio1224.nl/",
+   "stream": "https://stream.radio1224.nl/1224",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Gelderland",
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibe-radio",
+   "name": "Vibe Radio",
+   "url": "https://viberadio.nl/",
+   "stream": "https://stream.viberadio.nl/viberadio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "pop"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dancevibes-radio",
+   "name": "Dancevibes Radio",
+   "url": "https://dancevibesradio.eu/",
+   "stream": "https://everestcast.live-streams.nl:8025/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pinguin-vintage",
+   "name": "Pinguin Vintage",
+   "url": "https://pinguinradio.com/player/pinguinvintage",
+   "stream": "https://samcloud.spacial.com/api/listen?sid=131111",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "oldies",
+    "pop-music"
+   ],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-078",
+   "name": "Radio 078",
+   "url": "https://radio078.fm/",
+   "stream": "https://cc6.beheerstream.com/proxy/radio078?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amsterdam-funk-channel-afc-low-bandwidth",
+   "name": "Amsterdam Funk Channel (AFC) low bandwidth",
+   "url": "https://www.afc.fm/",
+   "stream": "https://stream.afc.fm/index.html?sid=2",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Noord-Holland, Amsterdam",
+   "genre": [
+    "80s",
+    "90s",
+    "funk",
+    "r&b",
+    "soul"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "piratenradio-nl-24-7-de-beste-piratenhits-vanuit",
+   "name": "PiratenRadio.nl - 24/7 de Beste PiratenHits vanuit Twente",
+   "url": "https://piratenradio.nl/",
+   "stream": "https://stream.piratenradio.nl/listen/piratenradio/prradio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Overijssel",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 29,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veronica-rock-radio",
+   "name": "Veronica Rock Radio",
+   "url": "https://www.radioveronica.nl/",
+   "stream": "https://21223.live.streamtheworld.com/VERONICAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 29,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "538-hitzone",
+   "name": "538 Hitzone",
+   "url": "https://www.538.nl/hitzone",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits"
+   ],
+   "votes": 28,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hofstad-radio",
+   "name": "Hofstad radio",
+   "url": "",
+   "stream": "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "keizerstad-classic",
+   "name": "keizerstad classic",
+   "url": "",
+   "stream": "https://stream.keizerstad.nl/classics.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 27,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veronica-goud-van-oud",
+   "name": "Veronica Goud van oud",
+   "url": "https://www.radioveronica.nl/",
+   "stream": "https://21633.live.streamtheworld.com/DAB01_AAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Netherlands",
+   "genre": [
+    "classic-rock",
+    "hits",
+    "rock",
+    "top-40"
+   ],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ah-fm-electronic-dance-music-trance",
+   "name": "AH.FM: Electronic Dance Music | Trance",
+   "url": "https://ah.fm/",
+   "stream": "https://eu.ah.fm/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "electronic",
+    "trance"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maxhitradio24",
+   "name": "Maxhitradio24",
+   "url": "https://www.maxhitradii24.nl/",
+   "stream": "https://streaming.shoutcast.com/maxhitradio24",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "n.brabant",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 25,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bredanu",
+   "name": "BredaNu",
+   "url": "https://bredanu.nl/radio/luisteren/",
+   "stream": "https://icecast.bredanu.nl/high",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-radio-classics",
+   "name": "Hot radio Classics",
+   "url": "https://hotradio.fm/",
+   "stream": "https://443-1.autopo.st/191/hrc",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Flevoland, Emmeloord",
+   "genre": [
+    "music"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iskc-only-live",
+   "name": "ISKC Only Live",
+   "url": "https://iskcrocks.com/",
+   "stream": "https://mediaserv68.live-streams.nl:18012/OnlyLive",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Rotterdam",
+   "genre": [
+    "rock"
+   ],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vahonfm-vahon-hindustani-radio",
+   "name": "VahonFM - Vahon Hindustani Radio",
+   "url": "https://vahonfm.nl/",
+   "stream": "https://onlineradio.websoftitnepal.com/8030/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "hindi",
+    "urdu"
+   ],
+   "langCodes": [
+    "hi",
+    "nl",
+    "ur"
+   ],
+   "state": "Zuid-Holland, Den Haag",
+   "genre": [
+    "bollywood",
+    "music"
+   ],
+   "votes": 24,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rijnmond",
+   "name": "Radio Rijnmond",
+   "url": "https://www.rijnmond.nl/radio",
+   "stream": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Zuid-Holland, Rotterdam",
+   "genre": [
+    "80s",
+    "90s",
+    "music"
+   ],
+   "votes": 23,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veronica-non-stop",
+   "name": "Veronica Non-stop",
+   "url": "http://www.radioveronica.nl/",
+   "stream": "https://21633.live.streamtheworld.com/DAB02_AAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "alternative",
+    "classic-hits",
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 23,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-goldenwave",
+   "name": "Radio-Goldenwave",
+   "url": "https://radiogoldenwave.nl/",
+   "stream": "https://mscp3.live-streams.nl:8072/radio",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-unique-fm-mobile",
+   "name": "RADIO UNIQUE FM /mobile",
+   "url": "https://radiouniquefm.nl/",
+   "stream": "https://hilversumdrie.beheerstream.nl/8038/mobile",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Noord-Holland",
+   "genre": [
+    "adult-contemporary",
+    "oldies",
+    "pop",
+    "top-40"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alswin-ambient-music",
+   "name": "Alswin Ambient Music",
+   "url": "https://alswin.nl/music.aspx",
+   "stream": "https://server7.radio-streams.net/proxy/jwoiiktx/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "ambient",
+    "instrumental",
+    "relaxing"
+   ],
+   "votes": 18,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fomix",
+   "name": "Fomix",
+   "url": "https://fomix.nl/",
+   "stream": "https://stream.radiofomix.nl/listen/fomix/stream.mp3",
+   "codec": "aac",
+   "bitrate": 328,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Zeeland",
+   "genre": [
+    "90s"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "non-stop-alexfm",
+   "name": "Non Stop AlexFM",
+   "url": "https://laut.fm/radioalexfmhits",
+   "stream": "https://radioalexfmhits.stream.laut.fm/radioalexfmhits?ref=web-app&start_time=1709718823255",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "dance",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtv-love-volendam-edam",
+   "name": "RTV Love Volendam Edam",
+   "url": "https://www.rtvlove.nl/",
+   "stream": "https://webstream.rtvlove.nl/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Noord-Holland",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "omroep-land-van-cuijk",
+   "name": "Omroep Land van Cuijk",
+   "url": "https://omroeplvc.nl/",
+   "stream": "https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Noord-Brabant",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "food-and-lounge",
+   "name": "Food and Lounge",
+   "url": "https://laut.fm/",
+   "stream": "https://stream.laut.fm/food-and-lounge",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lelystad",
+   "genre": [
+    "chillout",
+    "jazz",
+    "lounge"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sangam",
+   "name": "Radio Sangam",
+   "url": "https://www.radiosangam.nl/",
+   "stream": "https://mediaserv68.live-streams.nl:8067/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "hindi",
+    "urdu"
+   ],
+   "langCodes": [
+    "hi",
+    "nl",
+    "ur"
+   ],
+   "state": "Zuid-Holland, Den Haag",
+   "genre": [
+    "bollywood",
+    "music"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fryslan-strijders-piratenhits-op-volle-toeren",
+   "name": "Fryslan Strijders - Piratenhits op volle toeren",
+   "url": "https://fryslanstrijders.nl/",
+   "stream": "https://streambeheer.fryslanstrijders.nl/proxy/fryslanstrijders/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english",
+    "holland",
+    "nederland"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Kingdom of the Netherlands",
+   "genre": [
+    "folk"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "god-radio",
+   "name": "GOD Radio",
+   "url": "https://god.radio/",
+   "stream": "https://stream.wildfm.nl/GOD_Radio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "koekstad-radio-deventer",
+   "name": "Koekstad Radio Deventer",
+   "url": "https://www.koekstadradio.nl/",
+   "stream": "https://server-67.stream-server.nl:8788/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bergeijk-flac",
+   "name": "Radio Bergeijk FLAC",
+   "url": "https://www.radiobergeijk.nl/",
+   "stream": "https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arrow",
+   "name": "Arrow",
+   "url": "https://stream.player.arrow.nl/arrow",
+   "stream": "https://stream.player.arrow.nl/arrow",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "amsterdam",
+   "genre": [
+    "rock"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abbaradio-com",
+   "name": "ABBAradio.com",
+   "url": "https://abbaradio.com/",
+   "stream": "https://stream.radio.co/s0489f8245/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "state": "North Holland",
+   "genre": [
+    "70s",
+    "80s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 12,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hermax",
+   "name": "Radio Hermax",
+   "url": "https://radiohermax.nl/",
+   "stream": "https://stream.radiohermax.nl/listen/hermax/hermax",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Overijssel",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hulchul-2",
+   "name": "Radio Hulchul",
+   "url": "https://radiohulchul.nl/",
+   "stream": "https://everestcast.live-streams.nl:18015/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "hindi",
+    "urdu"
+   ],
+   "langCodes": [
+    "hi",
+    "nl",
+    "ur"
+   ],
+   "state": "Flevoland, Lelystad",
+   "genre": [
+    "bollywood",
+    "music"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reformatorische-omroep-1",
+   "name": "Reformatorische Omroep 1",
+   "url": "https://reformatorischeomroep.nl/",
+   "stream": "https://stream01.sthhost.nl:8003/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Gelderland",
+   "genre": [
+    "music"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christelijke-omroep",
+   "name": "Christelijke Omroep",
+   "url": "",
+   "stream": "https://stream.christelijkeomroep.nl/192?_gl=1*tymsna*_ga*MTEwODM5OTM1MC4xNjgxMDcyNjUx*_ga_1717X15JX8*MTY4MTEwMjQ5OC4yLjAuMTY4MTEwMjQ5OC4wLjAuMA..",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kribberadio-nl-24-7-de-beste-piratenmix",
+   "name": "KribbeRadio.nl 24/7 de beste PiratenMix",
+   "url": "https://kribberadio.nl/",
+   "stream": "https://azura.kribberadio.nl/listen/kribberadio/kribberadio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Overijssel",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "noise-radio",
+   "name": "Noise Radio",
+   "url": "https://noise-radio.com/",
+   "stream": "https://a2.asurahosting.com:7890/radio.mp3?refresh=1769858154192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-apeldoorn",
+   "name": "Radio Apeldoorn",
+   "url": "https://www.rtv-apeldoorn.nl/",
+   "stream": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Gelderland, Apeldoorn",
+   "genre": [
+    "music"
+   ],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rijnmond-aac",
+   "name": "Radio Rijnmond (AAC+)",
+   "url": "https://www.rijnmond.nl/radio",
+   "stream": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Zuid-Holland, Rotterdam",
+   "genre": [
+    "80s",
+    "90s",
+    "music"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vera-radio",
+   "name": "Vera Radio",
+   "url": "https://www.vera-radio.nl/",
+   "stream": "https://mscp3.live-streams.nl:8082/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Limburg",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deventer-radio",
+   "name": "Deventer Radio",
+   "url": "https://www.deventerrtv.nl/",
+   "stream": "https://stream.deventerrtv.nl:8443/stream",
+   "codec": "aac",
+   "bitrate": 88,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Overijssel",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alex-fm-christmas-nl-de",
+   "name": "RADIO ALEX FM CHRISTMAS NL/DE",
+   "url": "https://alexfm.nl/",
+   "stream": "https://stream.laut.fm/radioalexfmchristmas",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-finest-amsterdam",
+   "name": "The Finest Amsterdam",
+   "url": "https://thefinest.amsterdam/",
+   "stream": "https://live.thefinest.amsterdam/hq",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Noord holland Amsterdam",
+   "genre": [
+    "disco",
+    "funk",
+    "reggae",
+    "soul"
+   ],
+   "votes": 10,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amorfm",
+   "name": "AmorFM",
+   "url": "https://amorfm.eu/",
+   "stream": "https://amorfm_192.streampartner.nl/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "hindi",
+    "urdu"
+   ],
+   "langCodes": [
+    "hi",
+    "nl",
+    "ur"
+   ],
+   "state": "Zuid-Holland, Rotterdam",
+   "genre": [
+    "bollywood",
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chathotelradio",
+   "name": "ChathotelRadio",
+   "url": "https://chathotelradio.com/",
+   "stream": "https://a5.asurahosting.com:7410/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Netherlands",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "echobox-radio",
+   "name": "Echobox Radio",
+   "url": "https://www.echobox.radio/",
+   "stream": "https://play.streamnerd.nl/echobox/echobox/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Amsterdam",
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-powerradio",
+   "name": "Magic-PowerRadio",
+   "url": "https://www.magic-powerradio.nl/",
+   "stream": "https://server-28.stream-server.nl:8904/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Limburg, Tegelen, Fazantenpad",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixstream-radio-nederlandstalig",
+   "name": "MixStream Radio - Nederlandstalig",
+   "url": "https://mixstream.info/",
+   "stream": "https://radio.mixstream.nl/nl.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Noord-Brabant",
+   "genre": [
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-4-brainport-192-k-mp3",
+   "name": "Radio 4 Brainport (192 k MP3)",
+   "url": "https://www.radio4brainport.org/",
+   "stream": "https://server-67.stream-server.nl:8774/rbij.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Noord-Brabant, Eindhoven",
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-4-brainport-eindhoven-64-k-aac",
+   "name": "Radio 4 Brainport, Eindhoven (64 k AAC)",
+   "url": "https://www.radio4brainport.org/",
+   "stream": "https://server-67.stream-server.nl:8770/listen",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Noord-Brabant, Eindhoven",
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-apeldoorn-high-bandwidth",
+   "name": "Radio Apeldoorn (high bandwidth)",
+   "url": "https://www.rtv-apeldoorn.nl/",
+   "stream": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornhigh.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Gelderland, Apeldoorn",
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-texel",
+   "name": "Radio Texel",
+   "url": "https://www.radiotexel.nl/",
+   "stream": "https://cast6.asurahosting.com/proxy/radiotex/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Noord-Holland, Texel",
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "free-radio-rotterdam",
+   "name": "Free Radio Rotterdam",
+   "url": "https://www.freeradiorotterdam.nl/2020/site/",
+   "stream": "https://streams.freeradiorotterdam.nl:9443/freeradiorotterdam",
+   "codec": "mp3",
+   "bitrate": 32,
+   "format": "music",
+   "state": "ZH",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "powerstation-buddha",
+   "name": "Powerstation Buddha",
+   "url": "https://powerstationbuddha.com/",
+   "stream": "https://a11.asurahosting.com:7110/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zo-nws",
+   "name": "Radio ZO-NWS",
+   "url": "https://www.zo-nws.nl/",
+   "stream": "https://nlpo.stream.vip/zonws/mp3-192/nlpo/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Limburg, Schinveld",
+   "genre": [
+    "music"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alexfm-nonstop",
+   "name": "AlexFM Nonstop",
+   "url": "https://mobileplayer.alexfm.nl/",
+   "stream": "https://radioalexfmhits.stream.laut.fm/radioalexfmhits?t302=2024-03-06_08-21-40&uuid=25a57695-a22f-4083-b348-b104684576af",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anzoradio",
+   "name": "AnZoRadio",
+   "url": "http://www.anzoradio.com/",
+   "stream": "https://anzoradio.stream.laut.fm/anzoradio?pl=m3u&t302=2026-08-21_15-36-53&uuid=e653ed9a-7765-493e-b300-4960b59409ec",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Utrecht",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic",
+   "name": "Qmusic",
+   "url": "https://qmusic.nl/live",
+   "stream": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 4023,
+   "clicks": 59,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kink",
+   "name": "KINK",
+   "url": "https://kink.nl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 1836,
+   "clicks": 42,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sjeffm",
+   "name": "Sjeffm",
+   "url": "https://sjeffm.jouwweb.nl/",
+   "stream": "https://caster05.streampakket.com/proxy/8112/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Weert",
+   "genre": [],
+   "votes": 1591,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "real-hardstyle-radio",
+   "name": "Real Hardstyle Radio",
+   "url": "https://realhardstyle.nl/",
+   "stream": "https://stream.realhardstyle.nl/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "genre": [],
+   "votes": 1389,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "golden-oldies-radio",
+   "name": "Golden Oldies Radio",
+   "url": "",
+   "stream": "https://sonic.magicdragon.nl/8034/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Rotterdam",
+   "genre": [],
+   "votes": 1040,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-de-ville-groove",
+   "name": "Jazz de Ville - Groove",
+   "url": "https://www.jazzdeville.com/",
+   "stream": "https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 992,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "slow-radio-gold",
+   "name": "Slow Radio Gold",
+   "url": "https://en.slowradio.com/",
+   "stream": "https://stream11.slowradio.com/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 975,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "q-dance-radio",
+   "name": "Q-Dance Radio",
+   "url": "https://radio.q-dance.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 734,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-het-foute-uur",
+   "name": "Qmusic Het Foute Uur",
+   "url": "https://qmusic.nl/",
+   "stream": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 712,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-nederland",
+   "name": "QMUSIC NEDERLAND",
+   "url": "https://qmusic.nl/",
+   "stream": "https://stream.qmusic.nl/qmusic/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 523,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  }
+ ]
+}

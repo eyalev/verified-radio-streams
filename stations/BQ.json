@@ -1,0 +1,174 @@
+{
+ "countryCode": "BQ",
+ "country": "Caribbean Netherlands",
+ "slug": "caribbean-netherlands",
+ "continent": "americas",
+ "stationCount": 9,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/caribbean-netherlands/",
+ "stations": [
+  {
+   "id": "non-stop-hits-alex-fm",
+   "name": "Non Stop Hits Alex FM",
+   "url": "https://laut.fm/radioalexfm",
+   "stream": "https://radioalexfm.stream.laut.fm/radioalexfm?ref=web-app&start_time=1709718045653",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "nl"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 144,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mega-hit-fm",
+   "name": "Mega Hit FM",
+   "url": "https://www.megahitfm.com/",
+   "stream": "https://megahitfm.krioyohosting.com:1012/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Bonaire",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 35,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kiss-fm-nederland",
+   "name": "KISS FM Nederland",
+   "url": "http://www.kissfm.nl/",
+   "stream": "https://stream.kissfm.nl/kissfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Noord-Holland, Amsterdam",
+   "genre": [
+    "hits",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-transmundial-bonaire-800-khz",
+   "name": "Radio Transmundial Bonaire 800 Khz",
+   "url": "https://www.twr360.org/",
+   "stream": "https://cdn.instream.audio/:9050/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bonaire",
+   "genre": [],
+   "votes": 826,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tropical-spice-radio",
+   "name": "TROPICAL SPICE RADIO",
+   "url": "https://tropicalspiceradio.com/",
+   "stream": "https://auds1.intacs.com/tropicalspiceradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "studio-de-groene-knuppel",
+   "name": "Studio De Groene Knuppel",
+   "url": "https://www.studiodegroeneknuppel.nl/",
+   "stream": "https://mars.streamerr.co/8238/studiodegroeneknuppel",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dalfsen",
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "solid-fm-93-1",
+   "name": "Solid FM 93.1",
+   "url": "https://solidfm.com/",
+   "stream": "https://caribspy.com/proxy/solidfm/stream/;?type=http&amp;nocache=107036",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "club-de-daltons",
+   "name": "Club De Daltons",
+   "url": "https://clubdedaltons.nl/",
+   "stream": "https://proxy1.audiostreamen.nl/clubdedaltons.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

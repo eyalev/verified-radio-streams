@@ -1,0 +1,2696 @@
+{
+ "countryCode": "CL",
+ "country": "Chile",
+ "slug": "chile",
+ "continent": "americas",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/chile/",
+ "stations": [
+  {
+   "id": "la-retro-80s-chile",
+   "name": "La Retro 80s Chile",
+   "url": "https://www.laretro.cl/",
+   "stream": "https://s2.radio.co:80/s9ecef4f68/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 6281,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sonar-105-3-fm",
+   "name": "Sonar 105.3 FM",
+   "url": "https://sonarfm.cl/",
+   "stream": "https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 1817,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cooperativa",
+   "name": "RADIO COOPERATIVA",
+   "url": "",
+   "stream": "https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1618,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "digital-fm",
+   "name": "Digital FM",
+   "url": "https://www.digitalfm.cl/",
+   "stream": "https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Concepción",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1439,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "distorsion-fm",
+   "name": "Distorsión FM",
+   "url": "http://distorsion.fm/",
+   "stream": "https://tunein.radiomaniacos.cl/distorsion.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 702,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40-chile",
+   "name": "LOS40 Chile",
+   "url": "https://los40.cl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [
+    "latin-pop",
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 639,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-retro-online",
+   "name": "Radio Retro Online",
+   "url": "https://radiofmdance.cl/",
+   "stream": "https://sonic.streamingchilenos.com/8138/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [
+    "80s",
+    "dance",
+    "pop"
+   ],
+   "votes": 525,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bio-bio-concepcion-98-1",
+   "name": "Bío-Bío Concepción 98.1",
+   "url": "https://www.biobiochile.cl/",
+   "stream": "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Concepción",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 514,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiomix",
+   "name": "RadioMiX",
+   "url": "https://www.patodj.com/",
+   "stream": "https://video.mediawebchile.com:2000/stream/radiomixsc/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Iquique",
+   "genre": [
+    "80s"
+   ],
+   "votes": 441,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-club-80-trance-flac",
+   "name": "Radio Club 80 Trance FLAC",
+   "url": "https://www.radioclub80.cl/",
+   "stream": "https://stream.radioclub80.cl:8052/trance80.flac",
+   "codec": "ogg",
+   "bitrate": 6144,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 440,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-interamericana",
+   "name": "Radio Interamericana",
+   "url": "https://www.radiointeramericana.cl/",
+   "stream": "https://sonando-us.digitalproserver.com/radiointeramericana.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Concepción",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 389,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-9-play-fm",
+   "name": "100.9 Play FM",
+   "url": "https://playfm.cl/",
+   "stream": "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 357,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-futuro",
+   "name": "Radio Futuro",
+   "url": "http://envivo.futuro.cl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 341,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ritoque-fm",
+   "name": "Ritoque FM",
+   "url": "https://ritoquefm.cl/",
+   "stream": "https://archi-us.digitalproserver.com/ritoquefm_aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-chile"
+   ],
+   "state": "Valparaíso",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 302,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-stereo-5",
+   "name": "Super Stereo 5",
+   "url": "http://www.superstereo24bit.com/",
+   "stream": "https://streams.radiomast.io/radioblues-flac",
+   "codec": "ogg",
+   "bitrate": 1500,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 273,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super45-fm",
+   "name": "Super45.fm",
+   "url": "https://super45.fm/",
+   "stream": "https://s4.radio.co/s421105570/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "indie"
+   ],
+   "votes": 229,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "codigo-metal-radio",
+   "name": "Código Metal Radio",
+   "url": "https://www.codigometal.cl/",
+   "stream": "https://streaming.viphosting.cl/8012/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 174,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "isla-negra-slowbeat",
+   "name": "Isla Negra Slowbeat",
+   "url": "https://radioislanegra.com/",
+   "stream": "https://radioislanegra.org/radio/8010/basic.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [
+    "indie"
+   ],
+   "votes": 156,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bio-bio-los-angeles-96-7",
+   "name": "Bío-Bío Los Ángeles 96.7",
+   "url": "https://www.biobiochile.cl/",
+   "stream": "https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Los Ángeles",
+   "genre": [
+    "music"
+   ],
+   "votes": 142,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-pop-chile",
+   "name": "Rock&Pop Chile",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 122,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-las-nieves",
+   "name": "Radio Las Nieves",
+   "url": "http://www.rln.cl/",
+   "stream": "https://audio2.tustreaming.cl:10987/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Aysén",
+   "genre": [
+    "80s",
+    "90s",
+    "latin-music",
+    "pop"
+   ],
+   "votes": 111,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-voz-del-cipres-de-las-guaitecas",
+   "name": "La Voz del Cipres de las Guaitecas",
+   "url": "https://lavozdelcipres.cl/",
+   "stream": "https://live.lavozdelcipres.cl/radiomelinka.ogv",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Aysén",
+   "genre": [
+    "baladas",
+    "pop"
+   ],
+   "votes": 76,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "isla-negra-upbeat",
+   "name": "Isla Negra Upbeat",
+   "url": "https://radioislanegra.com/",
+   "stream": "https://radioislanegra.org/radio/8030/basic.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [
+    "indie"
+   ],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-24-7-chile",
+   "name": "RADIO 24-7 CHILE",
+   "url": "https://radio247.net/",
+   "stream": "https://broadcast.radio247.net/radio/8000/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-udec-universidad-de-concepcion",
+   "name": "Radio UdeC - Universidad de Concepción",
+   "url": "https://www.radioudec.cl/",
+   "stream": "https://audio.divalstream.com:7019/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Concepción",
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "distorsion-fm-flac",
+   "name": "Distorsion FM FLAC",
+   "url": "https://distorsion.fm/",
+   "stream": "https://radioemisoras.cl/distorsion.flac",
+   "codec": "ogg",
+   "bitrate": 1200,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "rock"
+   ],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-edelweiss",
+   "name": "Radio Edelweiss",
+   "url": "https://edelweiss.fm/",
+   "stream": "https://encoder.stationlink.cl/listen/edelweiss/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Temuco, Araucanía",
+   "genre": [
+    "90s",
+    "adult-contemporary",
+    "pop",
+    "rock"
+   ],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-melinkana-fm",
+   "name": "La Melinkana FM",
+   "url": "https://lamelinkanafm.cl/",
+   "stream": "https://audio3.tustreaming.cl/7050/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Aysén",
+   "genre": [
+    "folk",
+    "pop-music"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marisol",
+   "name": "Radio Marisol",
+   "url": "https://www.radiomarisol.cl/",
+   "stream": "https://audio0.tustreaming.cl/7620/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "región del maule",
+   "genre": [
+    "80s"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-picados-musica-24-7-chile",
+   "name": "Radio Picados Música 24/7 - Chile 🇨🇱",
+   "url": "https://radio.cervezapicados.cl/public/radio",
+   "stream": "https://stream.picados.beer/radio/live",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Valparaíso",
+   "genre": [
+    "80s",
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-colombina",
+   "name": "Radio Colombina",
+   "url": "https://colombinafm.cl/",
+   "stream": "https://cast.radioservicios.cl:8314/radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Ohiggins",
+   "genre": [
+    "classic-rock",
+    "pop-rock"
+   ],
+   "votes": 29,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chillout-fm",
+   "name": "Chillout FM",
+   "url": "",
+   "stream": "https://listen2.myradio24.com/8795?f8f9356c",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-plus",
+   "name": "FM Plus",
+   "url": "https://www.fmplus.cl/",
+   "stream": "https://conectapp.misradios.cl/radio/fmplus.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antofagasta",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "dance",
+    "pop"
+   ],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "punto7",
+   "name": "punto7",
+   "url": "",
+   "stream": "https://unlimited11-cl.dps.live/p7concepcion/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "silens-clamor",
+   "name": "Silens Clamor",
+   "url": "https://www.silensclamor.com/",
+   "stream": "https://www.silensclamor.com/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "alternative",
+    "metal",
+    "rock"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "clg-radio-93-5-fm",
+   "name": "CLG Radio 93.5 FM",
+   "url": "https://clgradio.cl/",
+   "stream": "https://sonic.portalfoxmix.club/8012/streamstream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "adult-contemporary",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-arcoiris-fm-99-3",
+   "name": "Radio arcoiris FM 99.3",
+   "url": "https://fmarcoiris.cl/",
+   "stream": "https://audio2.tustreaming.cl/7210/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "90s",
+    "hits"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunrise-dance",
+   "name": "Sunrise Dance",
+   "url": "https://sunrisedancemix.blogspot.com/",
+   "stream": "https://sonic-cl.arkeo.cl/8054/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "dance",
+    "house",
+    "techno"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fm-centro-91-7",
+   "name": "Radio FM Centro 91.7",
+   "url": "https://fmcentro.cl/",
+   "stream": "https://s02.azuracast.cl/radio/8210/fmcentro",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "latin-pop",
+    "musica"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunrise-lounge",
+   "name": "Sunrise Lounge",
+   "url": "https://radiosunriselounge.blogspot.com/",
+   "stream": "https://sonic-cl.arkeo.cl/8098/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-13c-102-1-fm",
+   "name": "Radio 13c 102.1 FM",
+   "url": "https://radio13c.cl/",
+   "stream": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "venus-radio-fm-chile",
+   "name": "Venus Radio Fm Chile",
+   "url": "https://www.venusradiofm.cl/",
+   "stream": "https://streaming.audiplay.cl/listen/venus_radio_fm_chile/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Biobío",
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dinamica-100-7-fm",
+   "name": "Radio Dinámica 100.7 FM",
+   "url": "https://www.facebook.com/radiodinamica100.7",
+   "stream": "https://streaming.comunicacioneschile.net/8030/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiorara",
+   "name": "radiorara",
+   "url": "https://radiorara.cl/",
+   "stream": "https://sonicpanel.chileservidores.cl/8004/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Valparaíso",
+   "genre": [
+    "ambient",
+    "folk",
+    "indie",
+    "jazz"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "happy-radio-chile",
+   "name": "Happy Radio Chile",
+   "url": "https://www.happyradio.cl/",
+   "stream": "https://a6.asurahosting.com:8840/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "español-chile"
+   ],
+   "state": "Valparaíso",
+   "genre": [
+    "kpop",
+    "latin-pop"
+   ],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunrise",
+   "name": "Sunrise",
+   "url": "https://radiosunrisechile.blogspot.com/",
+   "stream": "https://sonic-cl.arkeo.cl/8044/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-diferencia",
+   "name": "Radio Diferencia",
+   "url": "https://www.diferencia.cl/",
+   "stream": "https://sp002.servidoresph.com:8026/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Región de Los Ríos",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fernanda",
+   "name": "Radio Fernanda",
+   "url": "https://linktr.ee/fernandamusica",
+   "stream": "https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "espaňol",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "rock",
+    "top-hits"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-urbana-fm",
+   "name": "Radio Urbana FM",
+   "url": "https://www.radiourbanafm.cl/",
+   "stream": "https://sonic-us.arkeo.cl/8574/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "merengue",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "echobeat-fm",
+   "name": "EchoBeat FM",
+   "url": "https://www.echobeatfm.cl/",
+   "stream": "https://as100.globalhost1.com/8004/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [
+    "indie"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "imagina-88-1",
+   "name": "Imagina 88.1",
+   "url": "http://www.radioimagina.cl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 3,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ancoa-la-radio-de-linares",
+   "name": "Radio Ancoa La Radio de Linares",
+   "url": "https://www.radioancoa.cl/",
+   "stream": "https://audio2.tustreaming.cl:10991/;",
+   "codec": "mp3",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Linares,",
+   "genre": [
+    "music"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jazz-y-mas",
+   "name": "Radio Jazz y Mas",
+   "url": "https://www.radios-chilenas.com/radio-jazz-y-mas",
+   "stream": "https://sonic-us.arkeo.cl/8208/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kambio",
+   "name": "Radio Kambio",
+   "url": "https://www.radiokambio.cl/",
+   "stream": "https://sonic.streamingchilenos.com/8048/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "español-chile"
+   ],
+   "state": "Valparaíso",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "uc-radio-beethoven",
+   "name": "UC Radio Beethoven",
+   "url": "https://www.beethovenfm.cl/",
+   "stream": "https://unlimited5-us.dps.live/beethovenfm/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago, Región Metropolitana",
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-7-tazas-de-molina-fm",
+   "name": "Radio 7 Tazas de Molina FM",
+   "url": "https://radio7tazasdemolina.cl/",
+   "stream": "https://miradio.f96.cl/8006/streaming",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "state": "Maule",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fm-latina-89-1",
+   "name": "Radio FM Latina 89.1",
+   "url": "https://www.radiofmlatina.com/",
+   "stream": "https://jm8n.com/proxy/radiofmlatina/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tropiconce",
+   "name": "Radio TropiConce",
+   "url": "https://www.radiotropiconce.cl/",
+   "stream": "https://sonic.mistreamingtv.uno/8044/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Biobío",
+   "genre": [
+    "90s",
+    "cumbia"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-usm",
+   "name": "Radio USM",
+   "url": "https://radio.usm.cl/",
+   "stream": "https://stream99.usastreams.com:8012/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "español-chile",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Valparaíso",
+   "genre": [
+    "classical",
+    "easy-listening"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zumbale-radio",
+   "name": "Zumbale Radio",
+   "url": "https://www.zumbaleradio.cl/",
+   "stream": "https://archi-us.digitalproserver.com/caramelo-fm-angol.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canal-sur-patagonia",
+   "name": "Canal Sur Patagonia",
+   "url": "https://www.canalsurpatagonia.cl/",
+   "stream": "https://audio2.tustreaming.cl:10979/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop-music"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "congreso",
+   "name": "congreso",
+   "url": "https://radiocongreso.cl/",
+   "stream": "https://sonando-us.digitalproserver.com/congreso.aac",
+   "codec": "aac",
+   "bitrate": 24,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "cumbia",
+    "salsa"
+   ],
+   "votes": 0,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cassette",
+   "name": "Radio Cassette",
+   "url": "https://radiocassette.cl/",
+   "stream": "https://sonic.mistreamingtv.uno/8020/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-movida",
+   "name": "Radio La Movida",
+   "url": "https://www.radios-chilenas.com/radio-la-movida",
+   "stream": "https://server01.heplayer.com/9900/stream",
+   "codec": "aac",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-naval",
+   "name": "Radio Naval",
+   "url": "https://www.armada.cl/armada/site/edic/base/port/radio_naval_v4.html",
+   "stream": "https://s4.radio.co/s740f80d28/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "español-chile"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-radio-80-90",
+   "name": "Retro Radio 80 & 90",
+   "url": "https://www.radios-chilenas.com/retro-radio-80-90",
+   "stream": "https://sonic.portalfoxmix.club/8394/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "biobio-chile",
+   "name": "BioBio Chile",
+   "url": "https://www.biobiochile.cl/",
+   "stream": "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 4811,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sol-classic",
+   "name": "Radio Sol Classic",
+   "url": "https://radiosol.cl/",
+   "stream": "https://us9.maindigitalstream.com/ssl/radiosol",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antofagasta",
+   "genre": [],
+   "votes": 4731,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bio-bio",
+   "name": "Radio Bio Bio",
+   "url": "https://www.biobiochile.cl/",
+   "stream": "https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Santiago",
+   "genre": [],
+   "votes": 2951,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sol-97-7",
+   "name": "Radio Sol 97.7",
+   "url": "https://us9.maindigitalstream.com/ssl/7389",
+   "stream": "https://us9.maindigitalstream.com/ssl/7389",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antofagasta",
+   "genre": [],
+   "votes": 2117,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-el-conquistador-fm-santiago",
+   "name": "Radio El Conquistador FM (Santiago)",
+   "url": "https://www.elconquistadorfm.cl/",
+   "stream": "https://stream10.usastreams.com/9314/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Región Metropolitana",
+   "genre": [],
+   "votes": 1303,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "adn",
+   "name": "ADN",
+   "url": "https://www.adnradio.cl/",
+   "stream": "https://27413.live.streamtheworld.com/ADNAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 1083,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "festival",
+   "name": "Festival",
+   "url": "https://www.radiofestival.cl/",
+   "stream": "https://stream.festival.cl/1",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Viña del Mar",
+   "genre": [],
+   "votes": 945,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-contexto-nuble",
+   "name": "Radio Contexto Ñuble",
+   "url": "https://contextonuble.cl/",
+   "stream": "https://streaming.viphosting.cl/8028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chillán",
+   "genre": [],
+   "votes": 582,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bbn",
+   "name": "Radio BBN",
+   "url": "https://bbn1.bbnradio.org/spanish/",
+   "stream": "https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 510,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "futuro-chile",
+   "name": "FUTURO Chile",
+   "url": "https://futuro.cl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 389,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-colocolo",
+   "name": "Radio ColoColo",
+   "url": "https://radiocolocolo.cl/",
+   "stream": "https://audio2.tustreaming.cl:10997/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 323,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-okey",
+   "name": "FM Okey",
+   "url": "https://www.fmokey.cl/",
+   "stream": "https://streaming.fmokey.cl/moviles.mp3",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Atacama",
+   "genre": [],
+   "votes": 313,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-club-80-euro-flac",
+   "name": "Radio Club 80 Euro FLAC",
+   "url": "https://www.radioclub80.cl/",
+   "stream": "https://stream.radioclub80.cl:8032/stream.euro80flac",
+   "codec": "ogg",
+   "bitrate": 3072,
+   "genre": [],
+   "votes": 309,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mi-radio",
+   "name": "Mi Radio",
+   "url": "https://miradiols.cl/",
+   "stream": "https://audio1.tustreaming.cl/9020/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 261,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-club-80",
+   "name": "Radio Club 80",
+   "url": "https://streaminghires.cl/",
+   "stream": "https://stream.radioclub80.cl:8002/clasicos80.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 220,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-iglesia-cristiana-la-serena",
+   "name": "Radio Iglesia Cristiana La Serena",
+   "url": "https://iglesiacristianalaserena.cl/",
+   "stream": "https://servidor32.brlogic.com:7050/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 194,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vln-radio",
+   "name": "VLN Radio",
+   "url": "https://www.vlnradio.cl/",
+   "stream": "https://sonando-us.digitalproserver.com/vln_lo",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 163,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "beethoven-santiago-fm",
+   "name": "Beethoven - Santiago FM",
+   "url": "https://www.beethovenfm.cl/player2/",
+   "stream": "https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 157,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "isadora",
+   "name": "Isadora",
+   "url": "https://www.radioisadorafm.cl/",
+   "stream": "https://streaming.comunicacioneschile.net/9326/stream.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chillán, Ñuble",
+   "genre": [],
+   "votes": 129,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mexicana-chile",
+   "name": "La Mexicana Chile",
+   "url": "https://radiolamexicana.cl/",
+   "stream": "https://audio0.tustreaming.cl/7170/casablanca",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-concierto-chile",
+   "name": "Radio Concierto Chile",
+   "url": "https://www.concierto.cl/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 111,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bonita",
+   "name": "Bonita",
+   "url": "https://bonitafm.cl/",
+   "stream": "https://sonicpanel.chileservidores.cl/8032/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Rancagua",
+   "genre": [],
+   "votes": 108,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-el-conquistador",
+   "name": "Radio El Conquistador",
+   "url": "https://www.elconquistadorfm.net/",
+   "stream": "https://stream10.usastreams.com/9314/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 87,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rtl-curico",
+   "name": "Radio rtl Curico",
+   "url": "https://radiortl.cl/player-curico/",
+   "stream": "https://radio.mediadev.cl/radio/8070/rtlcurico",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-chile"
+   ],
+   "state": "curico",
+   "genre": [],
+   "votes": 82,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bio-bio-puerto-montt",
+   "name": "Radio Bio-Bio Puerto Montt",
+   "url": "https://www.biobiochile.cl/",
+   "stream": "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 79,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alternativa-fm",
+   "name": "Alternativa FM",
+   "url": "https://www.alternativafm.cl/?m=0",
+   "stream": "https://radio.tvstream.cl/8056/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Atacama",
+   "genre": [],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paloma",
+   "name": "Radio Paloma",
+   "url": "https://radiopaloma.cl/",
+   "stream": "https://audio3.tustreaming.cl/7320/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Talca",
+   "genre": [],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ritmo-fm",
+   "name": "Ritmo FM",
+   "url": "https://www.radioritmo.cl/",
+   "stream": "https://sonic.portalfoxmix.cl/9976/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 66,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-el-carbon",
+   "name": "Radio El Carbón",
+   "url": "https://www.elcarbon.cl/",
+   "stream": "https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lota",
+   "genre": [],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-xqa5",
+   "name": "Radio XQA5",
+   "url": "https://radioxqa5.cl/",
+   "stream": "https://archi-us.digitalproserver.com/xqa-5.aac",
+   "codec": "aac",
+   "bitrate": 40,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Atacama",
+   "genre": [],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "positiva",
+   "name": "Positiva",
+   "url": "https://www.positivafm.cl/",
+   "stream": "https://unlimited4-us.dps.live/positiva/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago",
+   "genre": [],
+   "votes": 61,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-carabineros",
+   "name": "Radio Carabineros",
+   "url": "https://www.carabineros.cl/radio/",
+   "stream": "https://streaming.prositel.cl/8374/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 59,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ucv-radio-vivan-los-lentos",
+   "name": "UCV radio vivan los lentos",
+   "url": "",
+   "stream": "https://sonando-us.digitalproserver.com/ucvradio2",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 59,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "universal-pitrufquen-chile",
+   "name": "Universal Pitrufquen Chile",
+   "url": "https://www.radiouniversal.cl/",
+   "stream": "https://s02.azuracast.cl/listen/radio_universal/universal",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mega-fm",
+   "name": "la mega fm",
+   "url": "https://lamegafm.cl/",
+   "stream": "https://sonic.portalfoxmix.club/8478/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musicoop",
+   "name": "Musicoop",
+   "url": "https://www.musicoop.cl/",
+   "stream": "https://sonic.portalfoxmix.club/8486/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Los Lagos",
+   "genre": [],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bio-bio-temuco",
+   "name": "Radio Bio Bio Temuco",
+   "url": "https://vivo.biobiochile.cl/player/new.html?r=temuco",
+   "stream": "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Araucanía",
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-carinosa",
+   "name": "Radio Cariñosa",
+   "url": "https://www.radiocarinosa.cl/",
+   "stream": "https://archi-us.digitalproserver.com/carinosa-fm.aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Chillán, Ñuble",
+   "genre": [],
+   "votes": 38,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "estrella-del-mar",
+   "name": "ESTRELLA DEL MAR",
+   "url": "https://www.estrelladelmar.cl/",
+   "stream": "https://streaming.chiloestreaming.com/9626/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mas-kaliente",
+   "name": "La Más Kaliente",
+   "url": "https://lamaskaliente.com/",
+   "stream": "https://audio1stream.com/8002/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español",
+    "español-chile",
+    "español-internacional"
+   ],
+   "genre": [],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "carnaval-antofagasta",
+   "name": "CARNAVAL ANTOFAGASTA",
+   "url": "https://envivo.radiocarnaval.cl/antofagasta/#",
+   "stream": "https://sonando-us.digitalproserver.com/carnaval_antofagasta.aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "conexion-radio",
+   "name": "Conexion Radio",
+   "url": "http://conexionradio.cl/",
+   "stream": "https://tunein.radiomaniacos.cl/conexionradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Los Vilos",
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kawaii-anime-radio",
+   "name": "Kawaii Anime Radio",
+   "url": "https://www.150141.xyz/?m=1",
+   "stream": "https://canada1.reliastream.com/proxy/danser?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paulina",
+   "name": "RADIO PAULINA",
+   "url": "https://radiopaulina.cl/",
+   "stream": "https://sp1.streamingssl.com/8058/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blufm",
+   "name": "BLUFM",
+   "url": "https://www.blufm.cl/",
+   "stream": "https://sonic.nnw.cl:7009/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-guayacan",
+   "name": "Radio Guayacán",
+   "url": "https://radioguayacan.cl/",
+   "stream": "https://sonic.mallocohosting.cl/8038/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Coquimbo",
+   "genre": [],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-isla-negra",
+   "name": "Radio Isla Negra",
+   "url": "https://radioislanegra.com/",
+   "stream": "https://radioislanegra.org/radio/8000/basic.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rural-chile",
+   "name": "Radio Rural Chile",
+   "url": "https://www.radiosfull.com/radio/136/radio-rural-chile",
+   "stream": "https://stm7.voxhd.com.br:10788/stream",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "español-chile"
+   ],
+   "state": "Santa Juana",
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "biobio-valdivia",
+   "name": "Biobio Valdivia",
+   "url": "https://www.biobiochile.cl/lista/tags/valdivia",
+   "stream": "https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-picarona",
+   "name": "Radio picarona",
+   "url": "https://radiopicaronachile.cl/",
+   "stream": "https://sonic.portalfoxmix.cl:7045/;",
+   "codec": "aac",
+   "bitrate": 36,
+   "langs": [
+    "español-chile"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ucv-radio",
+   "name": "UCV Radio",
+   "url": "https://ucvradio.cl/",
+   "stream": "https://sonando-us.digitalproserver.com/ucvradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-encanto-88-5-fm",
+   "name": "Radio Encanto 88.5 FM",
+   "url": "https://radioencanto.cl/",
+   "stream": "https://archi-us.digitalproserver.com/encanto_ovalle.aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ovalle",
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-manantial-de-vida",
+   "name": "RADIO MANANTIAL DE VIDA",
+   "url": "https://radiomdv.cl/",
+   "stream": "https://audio3.tustreaming.cl/7080/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sintonizados-con-cristo-radio-impch-san-miguel",
+   "name": "Sintonizados con Cristo Radio - IMPCH San Miguel",
+   "url": "https://web.impsanmiguel.cl/",
+   "stream": "https://audio.streaminghd.cl:9130/live",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-violeta-la-musica-de-ayer-y-hoy-las-24-h-d",
+   "name": "Radio Violeta - La música de ayer y hoy las 24 h/d",
+   "url": "https://radiovioleta.cl/",
+   "stream": "https://server01.heplayer.com/9390/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "carnaval-vina-del-mar",
+   "name": "CARNAVAL VINA DEL MAR",
+   "url": "https://envivo.radiocarnaval.cl/vinadelmar/#",
+   "stream": "https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "universal-malleco-chile",
+   "name": "Universal Malleco Chile",
+   "url": "https://www.radiouniversal.cl/malleco",
+   "stream": "https://s02.azuracast.cl/listen/radio_universal_victoria/victoria",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-amiga-fm-100-7",
+   "name": "Radio Amiga Fm 100.7",
+   "url": "https://amigafm.cl/wp/",
+   "stream": "https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caricia-fm",
+   "name": "RADIO CARICIA FM",
+   "url": "https://www.radioprensa.cl/radiosonline/radiocaricia.html",
+   "stream": "https://sonic.portalfoxmix.club/8244/stream/",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-carnaval-104-5-fm",
+   "name": "Radio Carnaval 104.5 FM",
+   "url": "https://radiocarnavalfm.cl/",
+   "stream": "https://cp2.streamchileno.cl//listen//radiocarnaval//radio.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Coquimbo",
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vilas-radio-100-1",
+   "name": "Vilas Radio 100.1",
+   "url": "https://vilasradio.cl/wp-content/themes/jannah/popup/content/",
+   "stream": "https://sonic.streamingchilenos.com/8072/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maray",
+   "name": "maray",
+   "url": "http://www.almyda.cl/",
+   "stream": "https://video.mediawebchile.com:2000/stream/8212/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "español-chile"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vilas-radio-98-1",
+   "name": "Vilas Radio 98.1",
+   "url": "https://vilasradio.cl/wp-content/themes/jannah/popup/contentArica/",
+   "stream": "https://sonic.portalfoxmix.club/8042/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-jaula-del-mono-radioactiva-19-03-2023-tramo-d",
+   "name": "La jaula del Mono RadioActiva (19/03/2023 - Tramo de 02:00 a 03:00)",
+   "url": "",
+   "stream": "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3?dist=radioactiva_cl-web-aod_play",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cobremar-chanaral-fm-89-9",
+   "name": "Radio Cobremar - Chañaral FM 89.9",
+   "url": "https://radiocobremar.cl/",
+   "stream": "https://audio.bitsur.cl/8066/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rebuena-95-7fm",
+   "name": "Radio Rebuena 95.7FM",
+   "url": "https://www.radiorebuena.cl/",
+   "stream": "https://audio5.tustreaming.cl/7930/stream",
+   "codec": "aac",
+   "bitrate": 320,
+   "state": "Huasco -Freirina",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alta-fidelidad-radio",
+   "name": "Alta Fidelidad Radio",
+   "url": "https://www.altafidelidadradio.com/site/",
+   "stream": "https://s21.myradiostream.com/14464/;?type=http&nocache=1724080980?0.022147003328686576",
+   "codec": "mp3",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europa-beat",
+   "name": "Europa Beat",
+   "url": "https://europabeat.com/",
+   "stream": "https://s4.radio.co/s13e4f2090/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Viña del Mar",
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caramelo-san-vicente",
+   "name": "Radio Caramelo San Vicente",
+   "url": "https://www.caramelofm.cl/",
+   "stream": "https://cast.radioservicios.cl:8316/sanvicente",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-genoveva-valdivia",
+   "name": "Radio Genoveva Valdivia",
+   "url": "https://radiogenoveva.cl/",
+   "stream": "https://audio.bitsur.cl/8032/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "state": "Valdivia",
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-voz-del-mar",
+   "name": "Radio la Voz del Mar",
+   "url": "https://www.radiolavozdelmar.cl/web/",
+   "stream": "https://sonic.streamingchilenos.com/8186/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lautaro-talca",
+   "name": "Radio Lautaro Talca",
+   "url": "https://radiolautarotalca.cl/",
+   "stream": "https://audio2.tustreaming.cl/7320/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "romantica-fm",
+   "name": "Romántica FM",
+   "url": "http://romantica.cl/",
+   "stream": "https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio",
+   "codec": "aac",
+   "bitrate": 125,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-siete-rock",
+   "name": "FM Siete Rock",
+   "url": "https://www.fm7.cl/",
+   "stream": "https://sp1.streamingssl.com/8036/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-zarzamora",
+   "name": "La Zarzamora",
+   "url": "https://lazarzamora.cl/",
+   "stream": "https://radio.latina.red/lazarzamora.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-club-80-retro",
+   "name": "Radio Club 80: Retro",
+   "url": "https://stations.radioclub80.cl/",
+   "stream": "https://stream.radioclub80.cl:8022/retro80.flac",
+   "codec": "ogg",
+   "bitrate": 6144,
+   "genre": [],
+   "votes": 9,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-poder-pentecostal",
+   "name": "RADIO PODER PENTECOSTAL",
+   "url": "https://www.radiopoderpentecostal.com/",
+   "stream": "https://streaming2.locucionar.com/proxy/poderpentecostal?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-isla-online",
+   "name": "RADIO ISLA ONLINE",
+   "url": "https://radioisla.cl/Online/",
+   "stream": "https://sp.totalstreaming.net:8018/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "almeyda",
+   "name": "Almeyda",
+   "url": "http://radioalmeyda.cl/",
+   "stream": "https://sonic.streamingchilenos.com/9974/stream.aac",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "español-chile"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tropikal-ranchera",
+   "name": "Radio Tropikal Ranchera",
+   "url": "https://radiotropikalrancheras.multidato.cl/",
+   "stream": "https://streaming.viphosting.cl/8034/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Cañete",
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ignacio-serrano",
+   "name": "Radio Ignacio Serrano",
+   "url": "https://www.radioprensa.cl/radiosonline/radioserrano.html",
+   "stream": "https://sonic.portalfoxmix.club/8242/stream/",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-mega",
+   "name": "Radio La Mega",
+   "url": "https://vivo.lamega.cl/",
+   "stream": "https://sonic.portalfoxmix.cl:7066/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-palabra-fm",
+   "name": "Radio la Palabra FM",
+   "url": "https://radiolapalabra.cl/",
+   "stream": "https://sonic.streamingchilenos.com/8126/stream:8000/;?download=false",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

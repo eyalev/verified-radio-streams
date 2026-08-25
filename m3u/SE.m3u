@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sweden" tvg-genre="oldies",Retro FM Skåne
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@
+#EXTINF:-1 group-title="Sweden" tvg-genre="50s,60s,70s,80s,90s",Sveriges Radio - P4 Plus
+https://live1.sr.se/p4plus-aac-320
+#EXTINF:-1 group-title="Sweden" tvg-genre="jazz",Polushon
+https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
+#EXTINF:-1 group-title="Sweden" tvg-genre="classic-rock",Bandit Classic Rock
+https://wr11-ice.stream.khz.se/wr11_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="country",Go Country
+https://wr14-ice.stream.khz.se/wr14_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="pop",RIX FM 106,7
+https://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="disco",Disco 54
+https://wr15-ice.stream.khz.se/wr15_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="country",Dansbandskanalen.se*
+https://stream.dbmedia.se/dbkMP3
+#EXTINF:-1 group-title="Sweden" tvg-genre="metal",Bandit Metal
+https://wr03-ice.stream.khz.se/wr03_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="pop",Mix Megapol 104,3
+https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="folk,jazz",Sveriges Radio P2 flac
+https://edge1.sr.se/p2-flac
+#EXTINF:-1 group-title="Sweden" tvg-genre="music",Sveriges Radio P4 Göteborg
+https://live1.sr.se/p4gbg-aac-320
+#EXTINF:-1 group-title="Sweden" tvg-genre="rock",Bandit ÍRock
+https://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="music",Sveriges Radio - P2 Språk och musik
+https://live1.sr.se/p2sm-aac-320
+#EXTINF:-1 group-title="Sweden" tvg-genre="rock",Bandit Ballads
+https://wr21-ice.stream.khz.se/wr21_aac
+#EXTINF:-1 group-title="Sweden" tvg-genre="rap",Sveriges Radio - P3 Din gata
+https://live1.sr.se/dingata-aac-320
+#EXTINF:-1 group-title="Sweden" tvg-genre="classical,folk,jazz",Sveriges Radio P2 flac
+https://live1.sr.se/p2-flac
+#EXTINF:-1 group-title="Sweden" tvg-genre="classical",. Al quran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 group-title="Sweden" tvg-genre="pop",STAR FM 107,1
+https://fm05-ice.stream.khz.se/fm05_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="rock",Dagnys Jukebox
+https://stream.dagnysjukebox.se/dagny
+#EXTINF:-1 group-title="Sweden" tvg-genre="electronic",The ERICADE Radio Network
+https://radio.ericade.net/sc/stream/1/
+#EXTINF:-1 group-title="Sweden" tvg-genre="music",Sveriges Radion P4 Östergötland
+https://live1.sr.se/p4ostg-mp3-96
+#EXTINF:-1 group-title="Sweden" tvg-genre="80s",Radio Nostalgi
+https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp
+#EXTINF:-1 group-title="Sweden" tvg-genre="dance",Dansbandskanalen
+https://fm09-ice.stream.khz.se/fm09_mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="dance,house",Radio Rainbow
+https://wr20-ice.stream.khz.se/wr20_mp3?platform=web
+#EXTINF:-1 group-title="Sweden" tvg-genre="music",Sveriges Radio - P4 Blekinge
+https://live1.sr.se/p4blek-mp3-96
+#EXTINF:-1 group-title="Sweden" tvg-genre="edm",Workout
+https://mml2.prostream.se/listen/workout/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="kpop",Kpop
+https://mml2.prostream.se/listen/kpop/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="80s,hits,pop",Back to the 80s
+https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="hits,pop,top-40",Radio 163
+https://mml1.prostream.se/listen/radio_163/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="ambient",Relax & Meditation
+https://mml1.prostream.se/listen/relax_meditation/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="bollywood",Bollywood Bangers
+https://mml2.prostream.se/listen/bollywood_bangers/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="orchestral",Epic Soundtracks Only
+https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="classic-rock,rock",Rock
+https://mml1.prostream.se/listen/rock/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="hits",Mad Mix Curated
+https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="90s,hits,pop",90s Rewind
+https://mml1.prostream.se/listen/90s_rewind/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="hits,pop,top-40",PopBurst
+https://mml1.prostream.se/listen/popburst/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="country,rock",American Truckers
+https://mml2.prostream.se/listen/american_truckers/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="dance,edm,electronic",EDM
+https://mml2.prostream.se/listen/edm_/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="rock",Guldkanalen 60-tal
+https://stream.dbmedia.se/gk60tal96
+#EXTINF:-1 group-title="Sweden" tvg-genre="hits,pop",Mad Mix Beats
+https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="reggae",Reggae
+https://mml1.prostream.se/listen/reggae/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="blues,soul",Blues
+https://mml1.prostream.se/listen/blues/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="disco,funk,soul",Groove Revival Radio
+https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="dance,edm,electronic",Party 247
+https://mml2.prostream.se/listen/party_247/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="metal",Metal Mayhem
+https://mml2.prostream.se/listen/metal_mayhem/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="alternative,indie",Alt Edge Radio
+https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="jazz",Jazz
+https://mml1.prostream.se/listen/jazz/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="hits,oldies,rock",Radio 789
+https://mml1.prostream.se/listen/radio_789/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="ambient,chillout,downtempo,electronic,lounge,relax,smooth-jazz",Auralis Radio
+https://auralis-radio.com/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="classical,orchestral",Classical
+https://mml2.prostream.se/listen/classical/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="90s,alternative,hip-hop,rock",Gen X
+https://mml1.prostream.se/listen/gen_x/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="dance,edm,electronic,house",House
+https://mml1.prostream.se/listen/house/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="rock",Pain
+https://stream.pcradio.ru/Pain-hi
+#EXTINF:-1 group-title="Sweden" tvg-genre="classic-rock,rock,soul",Radio 567
+https://mml1.prostream.se/listen/radio_567/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="60s,70s,disco,oldies",Stars on 45
+https://mml2.prostream.se/listen/stars_on_45/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="country",Country
+https://mml1.prostream.se/listen/country/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="60s,70s,oldies",Decades
+https://mml1.prostream.se/listen/decades/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="80s,90s,pop-music,techno",HITCITY
+https://stream.hitcity.se/live.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="oldies",Retro FM Sverige
+https://stream.rcs.revma.com/25knctp5vepwv
+#EXTINF:-1 group-title="Sweden" tvg-genre="ambient,instrumental",Aftab
+https://mml1.prostream.se/listen/aftab/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="ambient",Harmony Frequencies
+https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="latin,reggaeton,salsa",Latin
+https://mml2.prostream.se/listen/latin/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="hits,pop,rock",Mad Mix Main
+https://mml1.prostream.se/listen/mad_mix_main/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="pop,rock",Radio Svea
+https://mml2.prostream.se/listen/radio_svea/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="country,folk",Swedish Truckers
+https://mml1.prostream.se/listen/swedish_truckers/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="electronic",The ModStation - Amiga ProTracker Modules
+https://broadcast.sonologic.net/modstation.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="hip-hop,rap",Urban Flow
+https://mml2.prostream.se/listen/urban_flow/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="dance,electronic,hits",VIBE Radio
+https://streamer.radio.co/s0c62f7351/listen
+#EXTINF:-1 group-title="Sweden" tvg-genre="country",Wolf FM
+https://sstream.ueteknik.se/listen/wolffm/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="gospel,worship",Faith Beats Radio
+https://mml2.prostream.se/listen/faith_beats_radio/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="ambient,classical,instrumental",Ivory Echoes
+https://mml1.prostream.se/listen/ivory_echoes/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="r&b,romantic,soul",Midnight Silk Eros
+https://mml1.prostream.se/listen/midnight_silk_eros/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="rock",Tjenamors Radio!
+https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="alternative,indie",Melancholy
+https://mml2.prostream.se/listen/melancholy/radio.mp3
+#EXTINF:-1 group-title="Sweden" tvg-genre="country,easy-listening,pop,rock",Radio 94,3
+https://stream.radio943.se/stream
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P1
+https://live1.sr.se/p1-aac-320
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P3
+https://live1.sr.se/p3-aac-320
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P2
+https://live1.sr.se/p2-aac-320
+#EXTINF:-1 group-title="Sweden",Vinyl FM
+https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?
+#EXTINF:-1 group-title="Sweden",SVT P1 192kps
+https://live1.sr.se/p1-mp3-96
+#EXTINF:-1 group-title="Sweden",Soul Classics
+https://wr08-ice.stream.khz.se/wr08_mp3
+#EXTINF:-1 group-title="Sweden",Northern Metal Radio Extreme
+https://s2.free-shoutcast.com/stream/18092
+#EXTINF:-1 group-title="Sweden",HitMix90's
+https://wr19-ice.stream.khz.se/wr19_mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - Ekot sänder direkt
+https://live1.sr.se/ekotdirekt-aac-320
+#EXTINF:-1 group-title="Sweden",Radio Rivendell
+https://play.radiorivendell.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Sweden",Northern Metal Radio
+https://dc5.serverse.com/proxy/lvzgnvcj/stream
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P6
+https://live1.sr.se/p6-aac-320
+#EXTINF:-1 group-title="Sweden",Gamla Favoritter
+https://wr09-ice.stream.khz.se/wr09_mp3
+#EXTINF:-1 group-title="Sweden",Sveiges Radio - P4 Malmöhus
+https://sverigesradio.se/topsy/direkt/207-hi.mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio P4 Stockholm
+https://edge1.sr.se/p4sth-aac-320
+#EXTINF:-1 group-title="Sweden",Guldkanalen (80-tal)
+https://stream.dbmedia.se/gk80tal96
+#EXTINF:-1 group-title="Sweden",Power Hit Radio
+https://fm04-ice.stream.khz.se/fm04_mp3
+#EXTINF:-1 group-title="Sweden",Power Club
+https://wr06-ice.stream.khz.se/wr06_mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio P1
+https://edge1.sr.se/p1-aac-320
+#EXTINF:-1 group-title="Sweden",Radio bubb.la
+https://live.radio.bubb.la/stream.mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P4 Väst
+https://live1.sr.se/p4vast-mp3-96
+#EXTINF:-1 group-title="Sweden",Radio 88 Partille - Golden Hits
+https://streaming.943.se/radio88dans
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P4 Halland
+https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3
+#EXTINF:-1 group-title="Sweden",Sveiges Radio - P4 Kristianstad
+https://live1.sr.se/p4krist-mp3-96
+#EXTINF:-1 group-title="Sweden",Radio Gbg Sevdah
+https://stream.radiogbg.se:8050/relay4
+#EXTINF:-1 group-title="Sweden",Roxette
+https://stream.pcradio.ru/Roxette-hi
+#EXTINF:-1 group-title="Sweden",Radio Orinoco
+https://icecast.radio-orinoco.com/orinoco
+#EXTINF:-1 group-title="Sweden",P4 Kalmar
+https://live1.sr.se/p4kalm-mp3-96
+#EXTINF:-1 group-title="Sweden",P4 Västerbotten
+https://live1.sr.se/p4vbtn-mp3-96
+#EXTINF:-1 group-title="Sweden",Radio Nostalgi SE
+https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3
+#EXTINF:-1 group-title="Sweden",Best of ericade.radio
+https://radio.ericade.net/sc/stream/2/
+#EXTINF:-1 group-title="Sweden",Radio Hope
+https://s2.radio.co/sfbf5f5b85/listen
+#EXTINF:-1 group-title="Sweden",SR P4 Malmöhus
+https://live1.sr.se/p4malm-mp3-96
+#EXTINF:-1 group-title="Sweden",Redback Radio
+https://redback.mywire.org/stream.mp3
+#EXTINF:-1 group-title="Sweden",Punk Classics
+https://mml2.prostream.se/listen/punk_classics/radio.mp3
+#EXTINF:-1 group-title="Sweden",Linköpings närradio
+https://stream.linkopingsnarradio.se:8005/radioprogram
+#EXTINF:-1 group-title="Sweden",ZERGAN RADYO (47an)
+https://sslyayin.netyayin.net/radyozergan/;
+#EXTINF:-1 group-title="Sweden",Guldkanalen (90-tal)
+https://stream.dbmedia.se/gk90tal96
+#EXTINF:-1 group-title="Sweden",P4 Jämtland
+https://live1.sr.se/p4jmtl-aac-320
+#EXTINF:-1 group-title="Sweden",Radio Sandviken
+https://shout.rs8990.com/;
+#EXTINF:-1 group-title="Sweden",REPLAY NEWS - Svenska
+https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
+#EXTINF:-1 group-title="Sweden",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Sweden",P4 Värmland
+https://live1.sr.se/p4vrml-aac-320
+#EXTINF:-1 group-title="Sweden",Power Street
+https://wr07-ice.stream.khz.se/wr07_mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio P4 Dalarna
+https://live1.sr.se/p4dala-aac-320
+#EXTINF:-1 group-title="Sweden",Tyresöradion
+https://s5.radio.co/s8ace52d32/listen
+#EXTINF:-1 group-title="Sweden",P4 Västernorrland
+https://live1.sr.se/p4vnrl-mp3-96
+#EXTINF:-1 group-title="Sweden",P4 Västmanland
+https://live1.sr.se/p4vstm-mp3-96
+#EXTINF:-1 group-title="Sweden",Hello Africa
+https://mml1.prostream.se/listen/hello_africa/radio.mp3
+#EXTINF:-1 group-title="Sweden",Vinylgodis
+https://fwd.autopo.st/runedervall
+#EXTINF:-1 group-title="Sweden",BANANRADION
+https://lyssna.bananradion.se/listen/bananradion/128aac
+#EXTINF:-1 group-title="Sweden",DansBandsRadio.se
+https://sc.dansbandsradio.se/dbr64.aac
+#EXTINF:-1 group-title="Sweden",Radio Båstad
+https://audio-edge-hy4wy.blr.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
+#EXTINF:-1 group-title="Sweden",Radio45 (Dalsland Sweden)
+https://streaming.943.se/radio45
+#EXTINF:-1 group-title="Sweden",Skärgårdsradion
+https://fm06-ice.stream.khz.se/fm06_mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio P4 Malmöhus
+https://live1.sr.se/p4malm-aac-32
+#EXTINF:-1 group-title="Sweden",Sveriges Radio P4 Uppland
+https://live1.sr.se/p4uppl-aac-320
+#EXTINF:-1 group-title="Sweden",24/7 Cotinuous Music
+https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio - P4 Sjuhärad
+https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3
+#EXTINF:-1 group-title="Sweden",Sveriges Radio P4 Gävleborg
+https://live1.sr.se/p4gavl-mp3-96

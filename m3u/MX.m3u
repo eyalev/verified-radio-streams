@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Mexico" tvg-genre="romantic",Café Romántico Radio (Monterrey) - Online - www.caferomanticoradio.com - Grupo D
+https://panel.retrolandigital.com/radio/8110/listen
+#EXTINF:-1 group-title="Mexico" tvg-genre="cumbia",Cumbias Inmortales Radio (Monterrey) - Online - www.cumbiasinmortales.com - Grup
+https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,salsa",SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de M
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas",Amor Ciudad de México - 95.3 FM - XHSH-FM - Grupo ACIR - Ciudad de México
+https://16613.live.streamtheworld.com:443/XHSHFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s,pop",MIX Ciudad de México - 106.5 FM - XHDFM-FM - Grupo ACIR - Ciudad de México
+https://29325.live.streamtheworld.com:443/XHDFMFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music",El Fonógrafo, Música las 24 horas (elfonografo.mx) - Online - Grupo Radio Centro
+https://14553.live.streamtheworld.com:443/XEJP_AM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="adult-contemporary,music,oldies",UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop,pop-music",ALFA 91.3 (Ciudad de México) - 91.3 FM - XHFAJ-FM - Grupo Radio Centro - Ciudad
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="60s,70s,80s,baladas,oldies",Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="60s,70s,80s,baladas",Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de Mé
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC_SC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",Llegó El Mariachi (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad
+https://29320.live.streamtheworld.com:443/ACIR34_S01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="80s",Estrellas de los 80s Radio (Monterrey) - Online - www.estrellasdelos80s.com - Gr
+https://panel.retrolandigital.com/listen/estrellas_de_los_80s/listen
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-rock,latin-music,rock",Convoy en vivo
+https://live.convoynetwork.com/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="dance,dance-music,edm,electronic,music,oldies",90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad d
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music",El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://17553.live.streamtheworld.com:443/XEN_AM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="romantic",Amor de Divas (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR01_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas,pop,pop-music,pop-rock,romantic",Amor Solo Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",La Comadre Pa Que Duela (iHeart Radio) - Online - ACIR Online / iHeart Radio - C
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR05_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,oldies,pop-music",MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="dance,dance-music,electronic,electronica",BEAT 100.9 FM - XHSON-FM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s,classic-hits,oldies",Stereo Cien - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="70s,80s,adult-contemporary,classic-hits,classic-rock,love-songs,oldies",Oldies Internet Radio - Online - www.oldiesinternetradio.com - Grupo Digital Ret
+https://panel.retrolandigital.com/listen/oldies_internet_radio/listen
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Siempre Gruperos de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart Ra
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR07_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop",LOS40 Ciudad de México - 101.7 FM - XEX-FM - Radiópolis - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas,music,musica,romantic",Fórmula Melódica (Guadalajara) - 97.9 FM - XETIA-FM - Grupo Unidifusión - Guadal
+https://s2.yesstreaming.net:9085/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,top-40",Match Ciudad de México - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
+https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Historia y Corridos de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR06_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="80s,90s,alternative,rock",Alternativa by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="romantic",Amor de mis Amores (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR21_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="disco,musica",Disco by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Mé
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR14_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",EL FONÓGRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://26423.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="popular",La Mejor Monterrey - 92.5 FM - XHSRO-FM - MVS Radio - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="cumbia,music",La Comadre Pa Bailar (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciud
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR08_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="cumbia,music",Cumbia Total (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Mé
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR40_S01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica,pop,pop-music",iHeartRadio Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR31_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-rock,metal,rock",BOLLOCKS Rock & Metal Radio
+https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777
+#EXTINF:-1 group-title="Mexico" tvg-genre="oldies",Azul 89 (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Next FM (Ciudad de México) - Online - Next FM Radio - Ciudad de México
+https://s5.radio.co/seec9ed903/listen
+#EXTINF:-1 group-title="Mexico" tvg-genre="adult-contemporary,classic-hits,music,oldies",UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de Méxi
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",Fitness Music (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR32_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="romantic",Amor de Dos (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Méx
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR02_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-rock,music,oldies",Stereorey (Ciudad de México) - Online - www.stereorey.com - MVS Radio - Ciudad d
+https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Monterrey) - 1230 AM [Monterrey, Nuevo León]
+https://stream.radiojar.com/nk2k3a84xp8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Bestia Grupera (León) - 90.3 FM - XHML-FM - Grupo Audiorama Comunicaciones -
+https://ss1.audiorama.com.mx:6636/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Llegó el Mariachi (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad
+https://13743.live.streamtheworld.com:443/ACIR34_S01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="adult-contemporary,music,oldies",LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas",Amor Puebla - 103.3 FM - XHRH-FM - Grupo ACIR - Puebla, PU
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRHFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-hits,classic-rock,oldies",Sounds of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciuda
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",Radio Ranchito (Morelia) - 102.5 FM - XHRPA-FM - Grupo ULTRA - Morelia, MI
+https://ranchito.b-cdn.net/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Invasora (San Diego) - XHTY-FM - 99.7 FM - Uniradio - Tijuana, Baja Californi
+https://streamingcwsradio30.com:7022/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music",Radio Centro y El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de M
+https://15693.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s",MIX Querétaro - 106.5 FM - XHGV-FM - Grupo ACIR - Querétaro, QT
+https://18373.live.streamtheworld.com:443/XHGVAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Monterrey) - 89.3 FM [Monterrey, Nuevo León]
+https://stream.radiojar.com/332kkh84xp8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas,music,musica,romantic",La Buena Onda (Guadalajara) - 101.9 FM - XEAD-FM - Grupo Unidifusión - Guadalaja
+https://s2.yesstreaming.net:9094/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas,musica,romantic",La Inolvidable (Perote) - 101.1 FM - XHPER-FM - RRADIOTL, A.C. - Perote, VE
+https://streaming.servicioswebmx.com/8078/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop,pop-music",Exa FM Ciudad de México - 104.9 FM - XHEXA-FM - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXAAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas,hits,latin-pop,pop,pop-music,romantic",FM Globo Mexicali - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="romantic",Amor en Concierto (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR39_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-hits,musica,oldies",ABC Noticias (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey,
+https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AM.mp3
+#EXTINF:-1 group-title="Mexico" tvg-genre="cumbia,latin-music,music,musica",Antología Vallenata, XEH 14-20 (Monterrey) - 1420 AM - XEH-AM - Grupo Radio Cent
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music",Radio Disney Ciudad de México - 92.1 FM - XHFO-FM - Grupo Siete - Ciudad de Méxi
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="60s,70s",Let It Beat (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Méx
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR27_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop,pop-music,pop-rock",EXA FM: En Todas Partes Ponte Exa
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,rock",MIX Hard Rock (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Tabasco) - 94.1 FM [Villahermosa, Tabasco]
+https://stream.radiojar.com/ft4qrfff3p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s,pop",MIX Cancún - 93.1 FM - XHYI-FM - Grupo ACIR - Cancún, QR
+https://29318.live.streamtheworld.com:443/XHYIFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",760 AM (Ciudad de México) - 760 AM - XEABC-AM - Radio Cañón / NTR Medios de Comu
+https://streamingcwsradio30.com/8292/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,music,musica,pop,pop-music,pop-rock",PREMIER 91.7 (Monterrey) - 91.7 FM - XHXL-FM - Grupo Radio Alegría - Monterrey,
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_917AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music",Match Puebla - 90.1 FM - XHRS-FM - Grupo ACIR - Puebla, PU
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Q - 940 AM - XEQ-AM - Radiópolis - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music,pop-rock",Exa FM Mexicali - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop,pop-music,pop-rock",VOX FM 94.5 (El Salvador) - 94.5 FM - YSEC - San Salvador, El Salvador
+https://cast3.asurahosting.com/proxy/gabriel/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="hits,latin-pop,music,musica,pop,pop-music",FM Globo Monterrey - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,music,musica,pop,pop-music,pop-rock,top-100,top-40,top-hits",LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,top-100,top-40,top-hits",Éxitos (Matamoros) - 91.3 FM - XHMLS-FM - Grupo Radio Avanzado - Matamoros, Tama
+https://ice8.securenetsystems.net/EXITO913
+#EXTINF:-1 group-title="Mexico" tvg-genre="hits,music,pop,pop-music,pop-rock,top-40,top-hits",PULSAR (Tijuana) - 107.3 FM - XHFG-FM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7021/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="popular",La Tremenda (Durango) - 96.5 FM - XHDNG-FM - Grupo Garza Limón - Durango, DG
+https://radio.latremenda.com.mx/Durango
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,top-100,top-40,top-hits",OYE (Ciudad de México) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de Méx
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,pop,pop-music,pop-rock,top-100,top-40,top-hits",Ultra (Huauchinango) - 91.7 FM - XHPHBP-FM - Grupo ULTRA - Huauchinango, Puebla
+https://icecastultra.duckdns.org/livehua
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s",La Zeta (Navojoa) - 88.9 FM - XHENS-FM - Uniradio - Navojoa, SO
+https://streamingcwsradio30.com:7032/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas,hits,latin-pop,pop,pop-music,romantic",FM Globo Guadalajara - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,pop,pop-music,pop-rock,top-100,top-40,top-hits",LOS40 Querétaro - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, GT
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="80s,90s",W Radio Querétaro - 1310 AM - XEQRMD-AM - GlobalMedia - Querétaro, QT
+https://playradio.mx/proxy/wqueretaro?mp=/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="adult-contemporary,classic-hits,oldies",ABC NOTICIAS - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas",Amor Toluca - 92.5 FM - XHRJ-FM - Grupo ACIR - Toluca, EM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRJFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="popular",La Gigante (Piedras Negras, Ver.) - 95.3 FM - XHGN-FM - Piedras Negras, VE
+https://s2.yesstreaming.net:17103/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s",MIX Puebla - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, PU
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music",OYE 89.7 - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Guadalajara) - 790 AM [Guadalajara, Jalisco]
+https://stream.radiojar.com/8a7k0514xp8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music,pop-rock,top-40",SUPER (Mexicali) - 89.9 FM - XHSOL-FM - Grupo Audiorama Comunicaciones - Mexical
+https://ss1.audiorama.com.mx:6590/super
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Tampico) - 103.9 FM [Tampico, Tamaulipas]
+https://stream.radiojar.com/ympb8vef3p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,pop-rock,top-100,top-40,top-hits",Radio Disney Toluca - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de Méxi
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Baja California) - 950 AM [Tijuana, Baja California]
+https://stream.radiojar.com/nce1peen3p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Invasora (Tijuana) - XHA-FM - 94.5 FM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7023/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music,pop-rock,top-40",Exa FM Veracruz - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, VE
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,music,pop,pop-music,pop-rock",K Digital - 102.7 FM - XHPQUI-FM - Tequisquiapan, Querétaro
+https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,pop,pop-music,pop-rock,top-100,top-40,top-hits",Exa FM San Juan del Río - 99.1 FM - XHVI-FM - San Juan del Río, Querétaro
+https://tv.radiohosting.online:8352/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="musica",La Mejor Puerto Vallarta - 99.9 FM - XHCJX-FM - MVS Radio - Puerto Vallarta, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="alternative,indie,music",Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México
+https://stream.radiojar.com/4f89tufzv9duv
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music",Exa FM Guadalajara - 101.1 FM - XHMA-FM - MVS Radio - Guadalajara, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="70s,80s,classic-hits",Classic 106.9 FM Monterrey
+https://mdstrm.com/audio/673788019b826f0dc1842750/icecast.audio
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop",Rclasicos 96.9 FM
+https://s5.mexside.net:8100/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",Radio Esperanza (Monterrey) - 1140 AM - XEMR-AM - Grupo Radio Alegría - Apodaca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ESPERANZA_1140AM.mp3
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Monterrey) - 770 AM [Monterrey, Nuevo León]
+https://stream.radiojar.com/9f7h8d84xp8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,oldies",Señal 90 - 90.7 FM - XHOY-FM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:17042/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="hits,music,musica,pop,pop-music,pop-rock",New Century by Match (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciud
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,pop-rock,top-40,top-hits",RADAR 107.5 (Querétaro) - 107.5 FM - XHQRO-FM - Grupo Radar - Querétaro, Queréta
+https://radios.radiohd.com.mx/8268/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,oldies",Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guada
+https://ss1.audiorama.com.mx:6574/vibefm
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Bestia Grupera (Ciudad de México) - 540 AM - XEWF-AM - Radiorama / Grupo Audi
+https://ss1.audiorama.com.mx:6584/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music,pop-rock,top-100,top-40,top-hits",Exa FM Tijuana - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",Radio Lobo (San José Iturbide) - 88.3 FM - XHSJI-FM - Corporación Bajío Comunica
+https://radios.radiohd.com.mx/8270/;
+#EXTINF:-1 group-title="Mexico" tvg-genre="anime,jpop,kpop",Radio Anime Nexus
+https://cast.animenexusla.com/radio/8000/animenexus
+#EXTINF:-1 group-title="Mexico" tvg-genre="musica",Lupe (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, ZA
+https://cast.zuperdns.net/8010/stream/
+#EXTINF:-1 group-title="Mexico" tvg-genre="hits,latin-music,latin-pop,music,musica,pop,pop-music,top-40",Digital 102-9 (Monterrey) - 102.9 FM - XHMG-FM - Grupo Radio Alegría - Monterrey
+https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop,pop-music",+Exclusively Dua Lipa
+https://streaming.exclusive.radio/er-app/dualipa/icecast.audio
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-hits,classic-rock,oldies",La Poderosa (Mexicali) - 96.9 FM / 1050 AM - XHMUG-FM / XED-AM - Radiorama - Mex
+https://sg.centrocibernetico.com/poderosa969
+#EXTINF:-1 group-title="Mexico" tvg-genre="80s,baladas,music,musica,romantic",Mundo (Cuernavaca) - 96.5 FM - XHJMG-FM - Grupo Mundo Comunicaciones - Cuernavac
+https://tv.radiohosting.online:8556/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Bajío) - 101.1 FM [León, Guanajuato]
+https://stream.radiojar.com/x1fttddn3p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Mérida) - 94.5 FM [Mérida, Yucatán]
+https://stream.radiojar.com/pp6pmybp3p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s",MIX Pachuca - 92.5 FM - XHPK-FM - Grupo ACIR - Pachuca, HG
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPKFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Stereo Cristal (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar / Corporación Baj
+https://radios.radiohd.com.mx/8274/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="alternative,indie,music",Trión San Luis - 90.1 FM - XHSMR-FM - GlobalMedia - San Luis Potosí, SL
+https://trion.b-cdn.net/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="classic-hits,music",Clasics (Morelia) - 99.1 FM - XHMOM-FM - Medios Radiofónicos de Michoacán - More
+https://s4.voscast.com:8759/morelia.mp3
+#EXTINF:-1 group-title="Mexico" tvg-genre="bachata,latin,latin-music,latin-pop,salsa",MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,pop-rock,top-40,top-hits",Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica,oldies,pop-music",Canal 58 (Guadalajara) - 580 AM - XEAV-AM - Radio Cañón / NTR Medios de Comunica
+https://streaming.servicioswebmx.com/8266/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="musica",La Mejor Torreón (Estéreo Gallito) - 97.1 FM - XHPE-FM - Grupo Radio Estéreo May
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPE_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Cd. Juarez) - 1460 AM [Cd. Juarez, Chihuahua]
+https://stream.radiojar.com/fh5c5rmr2p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,80s,90s",MIX León - 103.1 FM - XHXF-FM - Grupo ACIR - León, GT
+https://14623.live.streamtheworld.com:443/XHXFAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,oldies",VOX Love Station San Luis Potosí - 96.9 FM - XHOD-FM - GlobalMedia - San Luis Po
+https://voxfm.b-cdn.net/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="80s,90s,pop-rock,rock",ROCK EN ESPAÑOL: Rock de México, España y Argentina
+https://17843.live.streamtheworld.com:443/ACIR20_S01AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="oldies",Noticias MVS (Mexicali) - 1120 AM - XEMX-AM - MVS Radio - Mexicali, Baja Califor
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEMXAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="alternative,music",Radio Chilango (CDMX) - 105.3 FM - XHINFO-FM - Ciudad de México
+https://stream.radio.co/s938b68214/listen
+#EXTINF:-1 group-title="Mexico" tvg-genre="2000s,70s,80s,90s,oldies",Más FM (San Luis Potosí) - 99.3 FM - XHTL-FM - MG Radio - San Luis Potosí, SL
+https://masfm.b-cdn.net/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop-music",LOS40 Mexicali - 90.7 FM - XHMOE-FM - Radiópolis - Mexicali, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="90s,pop,pop-music,top-40",Match Guadalajara - 90.3 FM - XHEMIA-FM - Grupo ACIR - Guadalajara, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEMIAAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="baladas",Amor Querétaro - 97.9 FM - XHQTO-FM - Grupo ACIR - Querétaro, QT
+https://14613.live.streamtheworld.com:443/XHQTOAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,musica,pop,pop-music",1030 AM (Ciudad de México) - 1030 AM - XEQR-AM - Grupo Radio Centro - Ciudad de
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM_SC
+#EXTINF:-1 group-title="Mexico" tvg-genre="adult-contemporary,hits,pop,pop-music,top-40",D99 98.9 FM Monterrey
+https://mdstrm.com/audio/662800a9c30cbb3e2e61f44b/icecast.audio
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-music,latin-pop,music,oldies,pop,pop-music",EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad
+https://18423.live.streamtheworld.com:443/XEJP_AMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Poderosa (Tijuana) - 860 AM - XEMO-AM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7024/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music",LOS40 San Luis Potosí - 103.9 FM - XHEWA-FM - GlobalMedia - San Luis Potosí, SL
+https://los40.b-cdn.net/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,musica",RadioMás (Orizaba) - 105.5 FM - XHOBA-FM - RTV (Radio Televisión de Veracruz) -
+https://streamingcwsradio30.com/8228/laperlaorizaba
+#EXTINF:-1 group-title="Mexico" tvg-genre="latin-pop,pop,pop-music,pop-rock,top-100,top-40,top-hits",Ultra (Puebla) - 92.5 FM - XHZM-FM - Grupo ULTRA - Puebla, Puebla
+https://icecastultra.duckdns.org/livepue
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",La Jefa (Camargo) - 96.1 FM - XHEOH-FM - Camargo, Chihuahua
+https://dattavolt.com/8266/stream
+#EXTINF:-1 group-title="Mexico" tvg-genre="pop,pop-music,top-40",Match Morelia - 93.9 FM - XHMO-FM - Morelia, MI
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMOFMAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Radio fórmula (Mérida) - 105.1 FM [Mérida, Yucatán]
+https://stream.radiojar.com/f7zt43bp3p8uv
+#EXTINF:-1 group-title="Mexico" tvg-genre="music,pop,pop-music",Exa FM Tampico - 95.3 FM - XHOX-FM - MVS Radio - Tampico, TM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOXAAC.aac
+#EXTINF:-1 group-title="Mexico" tvg-genre="music",Kiuu - 91.1 FM [Torreón, Coahuila]
+https://streamingcwsradio30.com/8232/stream

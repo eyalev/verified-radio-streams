@@ -1,0 +1,537 @@
+{
+ "countryCode": "MA",
+ "country": "Morocco",
+ "slug": "morocco",
+ "continent": "africa",
+ "stationCount": 28,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/morocco/",
+ "stations": [
+  {
+   "id": "skyrock-casablanca",
+   "name": "Skyrock Casablanca",
+   "url": "https://skyrock.fm/news/nouvelle-radio-skyrock-casablanca/6714",
+   "stream": "https://icecast.skyrock.net/s/casa_aac_64k",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "state": "Casablanca",
+   "genre": [
+    "hits",
+    "rap"
+   ],
+   "votes": 2826,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "aswat-fm",
+   "name": "Aswat FM",
+   "url": "https://radioaswat.ma/",
+   "stream": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english"
+   ],
+   "langCodes": [
+    "ar",
+    "en"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "pop"
+   ],
+   "votes": 2488,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".. مختصر التفسير",
+   "url": "",
+   "stream": "https://qurango.net/radio/mukhtasartafsir",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2360,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mrc-radio-plus",
+   "name": "MRC:-Radio plus",
+   "url": "https://stream.radio.co/s8cc7a5da4/listen",
+   "stream": "https://stream.radio.co/s8cc7a5da4/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "country"
+   ],
+   "votes": 2284,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango-2",
+   "name": ".إذاعة ماهر المعيقلي",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/maher",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1854,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": "Al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1453,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "capradio",
+   "name": "Capradio",
+   "url": "https://capradiotv.com/",
+   "stream": "https://listen.radioking.com/radio/710810/stream/776366",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 671,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-radio-morocco",
+   "name": "Hit Radio (Morocco)",
+   "url": "https://www.hitradio.ma/",
+   "stream": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "state": "Rabat-Salé-Kénitra",
+   "genre": [
+    "hits",
+    "rap"
+   ],
+   "votes": 518,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-star-maroc-fm",
+   "name": "Radio Star Maroc FM",
+   "url": "https://radiolive.ma/station/radio-star-maroc-fm",
+   "stream": "https://a2.asurahosting.com:6100/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "french",
+    "moroccan-arabic"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 70,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "medina-fm",
+   "name": "MEDINA FM",
+   "url": "https://radiolive.ma/station/medina-fm",
+   "stream": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "french",
+    "moroccan-arabic"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 64,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "u-radio",
+   "name": "U RADIO",
+   "url": "https://radiolive.ma/station/u-radio/",
+   "stream": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "french",
+    "moroccan-arabic"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "hits",
+    "music",
+    "pop-music"
+   ],
+   "votes": 23,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "medina-fm-amazigh-128-kbps",
+   "name": "Medina FM Amazigh (128 kbps)",
+   "url": "https://medinafm.ma/",
+   "stream": "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langCodes": [
+    "zgh"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 14,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "medina-fm-128-kbps",
+   "name": "Medina FM (128 kbps)",
+   "url": "https://medinafm.ma/",
+   "stream": "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 8,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-azawan-192-kbps",
+   "name": "Radio Azawan (192 kbps)",
+   "url": "https://radioazawan.ma/",
+   "stream": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 8,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mars",
+   "name": "Radio Mars",
+   "url": "https://www.radiomars.ma/ar/",
+   "stream": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Casablanca",
+   "genre": [],
+   "votes": 5681,
+   "clicks": 29,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-manarat",
+   "name": "Radio Manarat",
+   "url": "https://fm6education.ma/prestations/culture-education-et-formation/radio-manarat/",
+   "stream": "https://listen.radioking.com/radio/252934/stream/297385",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 3453,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yabiladi-chaabi-maroc",
+   "name": "Yabiladi Chaabi Maroc",
+   "url": "https://www.yabiladi.com/radio/",
+   "stream": "https://radio.yabiladi.com:8102/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "francaise"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 2431,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "aziz-mustaphi",
+   "name": "Aziz Mustaphi",
+   "url": "https://infoplus60.blogspot.com/",
+   "stream": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1600,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "atlantic-radio",
+   "name": "Atlantic Radio",
+   "url": "https://atlanticradio.ma/",
+   "stream": "https://atlantic-sonic.nindohost.net:9300/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1423,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "marrakechplus",
+   "name": "Marrakechplus",
+   "url": "https://webradio.marrakechplus.ma/",
+   "stream": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "state": "marrakech",
+   "genre": [],
+   "votes": 907,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mfm",
+   "name": "Radio MFM",
+   "url": "https://www.mfmradio.ma/",
+   "stream": "https://a5.asurahosting.com:7980/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Casablanca",
+   "genre": [],
+   "votes": 875,
+   "clicks": 20,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yabiladi-radio",
+   "name": "Yabiladi Radio",
+   "url": "https://www.yabiladi.com/radio/",
+   "stream": "https://radio.yabiladi.com:8002/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "francaise"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 637,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yabiladi-azawan-amazigh",
+   "name": "Yabiladi Azawan Amazigh",
+   "url": "https://www.yabiladi.com/radio/",
+   "stream": "https://radio.yabiladi.com:9002/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "francaise"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 616,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ness-radio",
+   "name": "Ness Radio",
+   "url": "https://nessradio.com/",
+   "stream": "https://radio.nessradio.net:8212/nessradio-hd",
+   "codec": "mp3",
+   "bitrate": 256,
+   "state": "Marrakech",
+   "genre": [],
+   "votes": 189,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "medi1-hits",
+   "name": "Medi1 Hits",
+   "url": "https://www.medi1.com/",
+   "stream": "https://cdn.live.easybroadcast.io/medi1radio/Hits",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 90,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-azawan",
+   "name": "Radio Azawan",
+   "url": "https://radioazawan.ma/",
+   "stream": "https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "medina-fm-tarab-128-kbps",
+   "name": "Medina FM Tarab (128 kbps)",
+   "url": "https://medinafm.ma/",
+   "stream": "https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "medina-fm-andalou-128-kbps",
+   "name": "Medina FM Andalou (128 kbps)",
+   "url": "https://medinafm.ma/",
+   "stream": "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

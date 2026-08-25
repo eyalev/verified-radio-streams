@@ -1,0 +1,78 @@
+{
+ "countryCode": "BM",
+ "country": "Bermuda",
+ "slug": "bermuda",
+ "continent": "americas",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/bermuda/",
+ "stations": [
+  {
+   "id": "dr-dick-s-dub-shack",
+   "name": "dr_dick's dub shack",
+   "url": "http://drdicksdubshack.com/",
+   "stream": "https://streamer.radio.co/s0635c8b0d/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Hamilton",
+   "genre": [
+    "downtempo"
+   ],
+   "votes": 327,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "irie-98-fm",
+   "name": "Irie 98 FM",
+   "url": "https://www.irie98.com/",
+   "stream": "https://usa19.fastcast4u.com:7430/;?type=http&nocache=1711133099",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 98,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ocean-89",
+   "name": "Ocean 89",
+   "url": "https://bbc.bm/radio__trashed/ocean-89",
+   "stream": "https://us2.internet-radio.com/proxy/ocean89?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

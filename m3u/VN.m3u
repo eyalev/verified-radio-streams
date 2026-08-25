@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Vietnam",RFI Tiếng Việt
+https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+#EXTINF:-1 group-title="Vietnam",CRI Tiếng Việt
+https://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1 group-title="Vietnam",TNT Atlanta Radio
+https://cast4.servcast.net/proxy/longpham2/stream
+#EXTINF:-1 group-title="Vietnam",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Vietnam",Hà Nội Community Radio
+https://ha-noi-community-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="Vietnam",REPLAY NEWS - Tiếng Việt Radio tin tức mỗi 5 phút
+https://replaynewsvi.ice.infomaniak.ch/replaynewsve-128.mp3
+#EXTINF:-1 group-title="Vietnam",RVA Vietnamese
+https://livestream.rvasia.org:8443/Vietnamese.mp3
+#EXTINF:-1 group-title="Vietnam",KC Radio Asia 80s & 90s
+https://kcradio.asia/stream/80s90s

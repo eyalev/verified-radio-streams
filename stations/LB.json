@@ -1,0 +1,445 @@
+{
+ "countryCode": "LB",
+ "country": "Lebanon",
+ "slug": "lebanon",
+ "continent": "asia",
+ "stationCount": 25,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/lebanon/",
+ "stations": [
+  {
+   "id": "anghamy",
+   "name": "Anghamy",
+   "url": "http://www.angamy.com/",
+   "stream": "https://radio.avazfarsi.com:8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 620,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiojar",
+   "name": ".إذاعة القرآن الكريم",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 496,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tripoli-fm-lebanon",
+   "name": "Tripoli FM Lebanon",
+   "url": "https://tripolifm.org/",
+   "stream": "https://cast4.my-control-panel.com/proxy/tripolifm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Beirut",
+   "genre": [
+    "music"
+   ],
+   "votes": 442,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".. مختصر التفسير",
+   "url": "",
+   "stream": "https://qurango.net/radio/mukhtasartafsir",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 368,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "albalradio",
+   "name": "راديو عالبال",
+   "url": "https://www.albalradio.com/",
+   "stream": "https://albal-lbnet2.radioca.st/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "oldies"
+   ],
+   "votes": 314,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sawt-el-ghad",
+   "name": "Sawt El Ghad",
+   "url": "https://www.sawtelghad.com/",
+   "stream": "https://l3.itworkscdn.net/itwaudio/9030/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 151,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-liban-96-2fm",
+   "name": "Radio Liban 96.2FM",
+   "url": "https://fr.radioliban.gov.lb/",
+   "stream": "https://media2.streambrothers.com:8202/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Beyrouth",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 11,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "3j-radio",
+   "name": "3j Radio",
+   "url": "https://3jradio.com/",
+   "stream": "https://de1.streamingpulse.com/ssl/9085",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 9,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "voice-of-lebanon-sawtlebnan-radio",
+   "name": "Voice of Lebanon (Sawtlebnan) Radio",
+   "url": "https://www.vdl.me/",
+   "stream": "https://l3.itworkscdn.net/itwaudio/9054/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 9316,
+   "clicks": 39,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-liban-libre",
+   "name": "Radio Liban Libre",
+   "url": "https://www.rll.com.lb/",
+   "stream": "https://edge.mixlr.com/channel/qtqeb",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 8043,
+   "clicks": 29,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-bal-radio",
+   "name": "Al Bal Radio",
+   "url": "https://lbiradio.com/albal/",
+   "stream": "https://albal-lbnet2.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Beirut",
+   "genre": [],
+   "votes": 4052,
+   "clicks": 29,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fame-fm-lebanon",
+   "name": "Fame FM Lebanon",
+   "url": "https://www.instagram.com/famefmlb",
+   "stream": "https://l3.itworkscdn.net/itwaudio/9044/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1976,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "osina",
+   "name": "صوت كل لبنان",
+   "url": "https://audio.osina.cloud:9323/stream",
+   "stream": "https://audio.osina.cloud:9323/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1741,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "adeem",
+   "name": "Adeem",
+   "url": "https://tunein.com/radio/ADEEM-s251693",
+   "stream": "https://usa19.fastcast4u.com/adeem",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1139,
+   "clicks": 25,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sawt-el-ghad-fm-96-7",
+   "name": "Sawt El Ghad - FM 96.7",
+   "url": "http://www.sawtelghad.com/",
+   "stream": "https://l3.itworkscdn.net/itwaudio/9030/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 899,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "naim-halawe",
+   "name": "Naim Halawe",
+   "url": "https://www.radionaim.com/",
+   "stream": "https://streamer.radio.co/sf2fa6ce9d/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 623,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-liban",
+   "name": "Radio Liban",
+   "url": "https://radioliban.gov.lb/",
+   "stream": "https://media2.streambrothers.com:2020/stream/8194",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 491,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "voice-of-grace",
+   "name": "voice of Grace",
+   "url": "",
+   "stream": "https://securestreams5.reliastream.com:1820/;l",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 395,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "montcarlo",
+   "name": "montcarlo",
+   "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+   "stream": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english-uk"
+   ],
+   "genre": [],
+   "votes": 260,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rama",
+   "name": "Radio Rama",
+   "url": "https://radioramalb.com/",
+   "stream": "https://radiorama-lbnet2.radioca.st/rama",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Beirut",
+   "genre": [],
+   "votes": 115,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sawt-el-shaeb",
+   "name": "Sawt El Shaeb",
+   "url": "https://sawtachaab.com/web/",
+   "stream": "https://audio.osina.cloud:9320/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 111,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lbi-radio",
+   "name": "LBI Radio",
+   "url": "https://lbiradio.com/",
+   "stream": "https://live.lbiradio.com/listen/station_1/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "state": "Beirut",
+   "genre": [],
+   "votes": 53,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "voice-of-grace-radio",
+   "name": "Voice of Grace Radio",
+   "url": "https://antiochpatriarchate.org/radio.php",
+   "stream": "https://securestreams5.reliastream.com:1820/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Beirut",
+   "genre": [],
+   "votes": 13,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "libano",
+   "name": "Libano",
+   "url": "https://libanohayazkitsayn.wixsite.com/index",
+   "stream": "https://c7.radioboss.fm:18299/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "armenian"
+   ],
+   "langCodes": [
+    "hy"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  }
+ ]
+}

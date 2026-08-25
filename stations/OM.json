@@ -1,0 +1,51 @@
+{
+ "countryCode": "OM",
+ "country": "Oman",
+ "slug": "oman",
+ "continent": "asia",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/oman/",
+ "stations": [
+  {
+   "id": "hala-fm",
+   "name": "Hala FM",
+   "url": "https://halafm.com/",
+   "stream": "https://listen-halafm.sharp-stream.com/halafmlow.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Muscat",
+   "genre": [],
+   "votes": 512,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  }
+ ]
+}

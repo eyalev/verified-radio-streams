@@ -1,0 +1,138 @@
+{
+ "countryCode": "SR",
+ "country": "Suriname",
+ "slug": "suriname",
+ "continent": "americas",
+ "stationCount": 7,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/suriname/",
+ "stations": [
+  {
+   "id": "radio-sangeetmala",
+   "name": "Radio Sangeetmala",
+   "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+   "stream": "https://rs.suricloud.com/radio/8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 200,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-shruti",
+   "name": "Radio Shruti",
+   "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+   "stream": "https://rs.suricloud.com/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 169,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ishara",
+   "name": "Radio ishara",
+   "url": "https://a8.asurahosting.com:7030/radio.mp3",
+   "stream": "https://a8.asurahosting.com:7030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 130,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-10-magic-fm",
+   "name": "Radio 10 Magic FM",
+   "url": "https://www.radio10.sr/",
+   "stream": "https://s5.radio.co/s85a633f73/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "dutch",
+    "sranan-tongo"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 1959,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mpb-radio-suriname",
+   "name": "MPB Radio Suriname",
+   "url": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3",
+   "stream": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "genre": [],
+   "votes": 147,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-apintie",
+   "name": "Radio Apintie",
+   "url": "https://www.apintie.sr/radio",
+   "stream": "https://surilive.com:8000/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,593 @@
+{
+ "countryCode": "GH",
+ "country": "Ghana",
+ "slug": "ghana",
+ "continent": "africa",
+ "stationCount": 29,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/ghana/",
+ "stations": [
+  {
+   "id": "oroko-radio",
+   "name": "Oroko Radio",
+   "url": "https://oroko.live/",
+   "stream": "https://oroko-radio.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Accra",
+   "genre": [
+    "alternative",
+    "music"
+   ],
+   "votes": 194,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "peace-fm",
+   "name": "Peace FM",
+   "url": "https://www.peacefmonline.com/",
+   "stream": "https://peacefm-atunwadigital.streamguys1.com/peacefm?amsparams=playerid%3ASGplayer%3Bskey%3A1611468493100%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&us_privacy=1YNN&us_privacy=1YNN&us_privacy=1YNN",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "akan"
+   ],
+   "langCodes": [
+    "ak"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 113,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "parousia-radio",
+   "name": "Parousia Radio",
+   "url": "https://radio.parousiaempire.org/public/parousia_radio",
+   "stream": "https://radio.parousiaempire.org:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "ak",
+    "en",
+    "fr"
+   ],
+   "state": "Western Region",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 68,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ghana-music-radio",
+   "name": "Ghana Music Radio",
+   "url": "http://www.ghanamusicradio.com/",
+   "stream": "https://streaming.radio.co/s92f890821/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 63,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sunny-fm",
+   "name": "Sunny FM",
+   "url": "https://sunnygh.com/",
+   "stream": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Accra",
+   "genre": [
+    "gospel",
+    "music"
+   ],
+   "votes": 33,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hello-fm",
+   "name": "Hello Fm",
+   "url": "https://hellofm.peacefmonline.com/",
+   "stream": "https://atunwadigital.streamguys1.com/hellofm",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "akan"
+   ],
+   "langCodes": [
+    "ak"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 23,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ahenfie-fm-106-1mhz",
+   "name": "Ahenfie FM 106.1MHz",
+   "url": "https://www.facebook.com/profile.php?id=61585644356322",
+   "stream": "https://radio.localstreamgh.com/listen/ahenfie_radio_/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Ashanti Region",
+   "genre": [
+    "music"
+   ],
+   "votes": 22,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yfm-accra",
+   "name": "YFm Accra",
+   "url": "https://www.yfmghana.com/",
+   "stream": "https://atunwadigital.streamguys1.com/yfm1079accra",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "opemsuo-fm",
+   "name": "Opemsuo FM",
+   "url": "https://www.facebook.com/asaase99.5/",
+   "stream": "https://opemsuofm-atunwadigital.streamguys1.com/opemsuofm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Kumasi",
+   "genre": [
+    "music"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sankofa-radio",
+   "name": "Sankofa Radio",
+   "url": "https://www.sankofaradio.com/",
+   "stream": "https://ssl.nexuscast.com:8060/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "akan"
+   ],
+   "langCodes": [
+    "ak"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 10,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zuria-fm",
+   "name": "Zuria Fm",
+   "url": "",
+   "stream": "https://atunwadigital.streamguys1.com/yfm1025kumasi",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "hausa"
+   ],
+   "langCodes": [
+    "ha"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "evangelist-oduro-radio",
+   "name": "Evangelist Oduro Radio",
+   "url": "https://soundcloud.com/evangelistoduro/",
+   "stream": "https://listen.openstream.co/4103/audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Ashanti Region",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "moonlite-fm",
+   "name": "Moonlite Fm",
+   "url": "https://www.moonlitefm.com/",
+   "stream": "https://stream.lensnetworks.com/proxy/moonlite?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "citi-fm",
+   "name": "citi fm",
+   "url": "https://citinewsroom.com/livestream/",
+   "stream": "https://citi973fm.radioca.st/index.html:80/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4687,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "adom-fm",
+   "name": "Adom Fm",
+   "url": "https://www.adomonline.com/",
+   "stream": "https://mmg.streamguys1.com/AdomFM-mp3?key=9099965b0e49394af3be11b42a71f0faa90378311d2d85f5983495217e350f0a4636df5ecf5ea3f63e53cb9026d89102&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609841442537%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "akan"
+   ],
+   "langCodes": [
+    "ak"
+   ],
+   "genre": [],
+   "votes": 99,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "joy-fm",
+   "name": "Joy Fm",
+   "url": "https://www.myjoyonline.com/",
+   "stream": "https://mmg.streamguys1.com/JoyFM-mp3?key=8689cc761932e3151f94ddbdbfdf4aa0f4000234b5caeaaa179a2fc0d59a4be9b8b774c3653cb14d1fd76f5cbf80e482&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609840716923%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 96,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "057-radio",
+   "name": "057 radio",
+   "url": "https://www.057info.hr/emisije/",
+   "stream": "https://audio.alter-media.hr/9052/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Banana state",
+   "genre": [],
+   "votes": 92,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 77,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "torq-radio",
+   "name": "Torq Radio",
+   "url": "https://www.torqradio.com/",
+   "stream": "https://s4.radio.co/se63becd16/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nhyira-104-5-fm",
+   "name": "Nhyira 104.5 FM",
+   "url": "https://www.facebook.com/nhyira104.5fm",
+   "stream": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Ashanti Region",
+   "genre": [],
+   "votes": 34,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "asempa-fm",
+   "name": "Asempa Fm",
+   "url": "https://www.myjoyonline.com/",
+   "stream": "https://mmg.streamguys1.com/AsempaFM-mp3?key=23f81ad063fc94d769b3f56668d742562a0645bb7ba0f5633dbce7d73d151195adfd4a7b4b2afeeff7fb81cf4ef6e790&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609843961148%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "akan"
+   ],
+   "langCodes": [
+    "ak"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nhyira-fm",
+   "name": "Nhyira Fm",
+   "url": "https://www.myjoyonline.com/",
+   "stream": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=b37c365ed033b3e65a85fc860f6611ee8562838eeb6e0489764968a4153d826217219cfacc395f2cc2389573fb59870a&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844395217%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "akan"
+   ],
+   "langCodes": [
+    "ak"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hitz-103-9-fm",
+   "name": "Hitz 103.9 FM",
+   "url": "http://www.myjoyonline.com/",
+   "stream": "https://mmg.streamguys1.com/HitzFM-mp3?",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Accra",
+   "genre": [],
+   "votes": 20,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "luv-fm",
+   "name": "Luv Fm",
+   "url": "https://www.myjoyonline.com/",
+   "stream": "https://mmg.streamguys1.com/LuvFM-mp3?key=64c68f3397eadf448520da5c47847f30b48defff1ca52821a9d5817e516774af24fe51fe4829d41ccf1b4b9d0eca1eec&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844133655%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "genre": [],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "agoo-96-9-fm",
+   "name": "Agoo 96.9 FM",
+   "url": "https://www.facebook.com/agoofm/",
+   "stream": "https://agoofm-atunwadigital.streamguys1.com/agoofm",
+   "codec": "mp3",
+   "bitrate": 112,
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Eastern Region",
+   "genre": [],
+   "votes": 13,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gbc-uniiq-95-7fm",
+   "name": "GBC Uniiq 95.7FM",
+   "url": "https://www.facebook.com/UniiqFM",
+   "stream": "https://mediagh.us:2000/stream/uniiqfm",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Accra",
+   "genre": [],
+   "votes": 12,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "atl-fm-100-5mhz",
+   "name": "ATL FM 100.5MHz",
+   "url": "https://atlfmnews.com/",
+   "stream": "https://atlfm1005.radioca.st/stream?type=http&nocache=231",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "state": "Central Region",
+   "genre": [],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kente-radio",
+   "name": "Kente Radio",
+   "url": "https://www.kenteradio.com/",
+   "stream": "https://streamer.radio.co:80/s362651905/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "akan",
+    "english"
+   ],
+   "langCodes": [
+    "ak",
+    "en"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "amen-fm",
+   "name": "Amen FM",
+   "url": "https://www.amenfm.com/",
+   "stream": "https://ice7.securenetsystems.net/AMENFM",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

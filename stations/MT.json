@@ -1,0 +1,116 @@
+{
+ "countryCode": "MT",
+ "country": "Malta",
+ "slug": "malta",
+ "continent": "europe",
+ "stationCount": 7,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/malta/",
+ "stations": [
+  {
+   "id": "calypso-radio",
+   "name": "Calypso Radio",
+   "url": "https://www.calypsomalta.com/",
+   "stream": "https://s4.radio.co/sf3aa4c25a/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "maltese"
+   ],
+   "langCodes": [
+    "mt"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1376,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "maltin-biss",
+   "name": "MALTIN BISS",
+   "url": "",
+   "stream": "https://s4.voscast.com:8837/default",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "country"
+   ],
+   "votes": 226,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bay-easy-100-2",
+   "name": "Bay Easy 100.2",
+   "url": "https://bayeasy.mt/",
+   "stream": "https://stream.v3.network/proxy/easy/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 178,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bay-89-7",
+   "name": "Bay 89.7",
+   "url": "https://www.bay.com.mt/",
+   "stream": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 174,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "campus-103-7",
+   "name": "Campus 103.7",
+   "url": "https://www.um.edu.mt/services/campus1037/",
+   "stream": "https://campusfm.radioca.st/campusfm_live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 68,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "89-7-bay",
+   "name": "89.7 Bay",
+   "url": "https://bay.com.mt/",
+   "stream": "https://stream.v3.network/proxy/897bay/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 11,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

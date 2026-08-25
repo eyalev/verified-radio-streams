@@ -1,0 +1,392 @@
+{
+ "countryCode": "AL",
+ "country": "Albania",
+ "slug": "albania",
+ "continent": "europe",
+ "stationCount": 24,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/albania/",
+ "stations": [
+  {
+   "id": "best-pro-electronic",
+   "name": "Best Pro Electronic",
+   "url": "https://bestproradio.com/",
+   "stream": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "albanian",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "sq"
+   ],
+   "state": "Tirana",
+   "genre": [
+    "electronic",
+    "techno"
+   ],
+   "votes": 386,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chill-radio",
+   "name": "Chill Radio",
+   "url": "https://sites.google.com/view/chillradioal",
+   "stream": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Tirana",
+   "genre": [
+    "adult-contemporary",
+    "hits",
+    "top-40"
+   ],
+   "votes": 337,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiojar",
+   "name": "إذاعة القرآن الكريم",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 323,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".القرآن",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 137,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-saranda",
+   "name": "Radio Saranda",
+   "url": "https://radio.saranda.love/",
+   "stream": "https://s64.radiolize.com/radio/8050/radio.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "albanian",
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en",
+    "sq"
+   ],
+   "genre": [
+    "electronic",
+    "pop"
+   ],
+   "votes": 86,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-shqip-tirana-92-0-mhz",
+   "name": "Radio Shqip - Tirana 92.0 MHz",
+   "url": "http://shqipfm.al/",
+   "stream": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4256,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "my-music-radio-tirana-97-3-fm",
+   "name": "My Music Radio - Tirana 97.3 FM",
+   "url": "http://www.topalbaniaradio.com/v7/live/mymusicradio/",
+   "stream": "https://live.top-media.al/mmr",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3560,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radioone",
+   "name": "RadioOne",
+   "url": "https://radioone.al/",
+   "stream": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "albanian",
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it",
+    "sq"
+   ],
+   "genre": [],
+   "votes": 3270,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-albanian-radio",
+   "name": "Top Albanian Radio",
+   "url": "https://www.topalbaniaradio.com/",
+   "stream": "https://live.top-media.al/tar",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1771,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-club-fm-tirana-100-4-mhz",
+   "name": "Radio Club FM - Tirana 100.4 MHz",
+   "url": "http://clubfm.al/",
+   "stream": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1680,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "phish-radio",
+   "name": "Phish Radio",
+   "url": "http://www.jempradio.com/",
+   "stream": "https://streaming.radio.co/sd71de59b3/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 868,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm-muzike-pop-ne-anglisht-dhe-spanjisht",
+   "name": "EXA FM: Muzikë pop në anglisht dhe spanjisht",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 635,
+   "clicks": 34,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-plus-102-2-fm",
+   "name": "Radio plus 102.2 FM",
+   "url": "https://www.radioplus.fm/",
+   "stream": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 348,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chili-moje",
+   "name": "chili moje",
+   "url": "https://media-ssl.musicradio.com/ChillMP3",
+   "stream": "https://media-ssl.musicradio.com/ChillMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 225,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sophie-caffe-radio",
+   "name": "Sophie Caffe Radio",
+   "url": "https://sophiecafferadio.live/",
+   "stream": "https://sophiecafferadio.live/sophie.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 65,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "club-fm-kosova",
+   "name": "Club FM Kosova",
+   "url": "https://clubfm.al/",
+   "stream": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 64,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 38,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ipda-canete",
+   "name": "ipda cañete",
+   "url": "https://radio.gisslive.com:8254/stream",
+   "stream": "https://radio.gisslive.com:8254/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "español-peruano"
+   ],
+   "genre": [],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-logos",
+   "name": "Radio Logos",
+   "url": "https://radiologos.al/#",
+   "stream": "https://s2.stationplaylist.com:9280/listen.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tirana-jazz-radio",
+   "name": "Tirana Jazz Radio",
+   "url": "https://tiranajazzradio.com/#",
+   "stream": "https://live.tiranajazzradio.com:8443/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-gold-radio",
+   "name": "Top Gold Radio",
+   "url": "https://www.topalbaniaradio.com/",
+   "stream": "https://live.topgold.al/topgold",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "albania-360-radio",
+   "name": "Albania 360 Radio",
+   "url": "https://albania360.net/",
+   "stream": "https://radio.albania360.net/listen/albania_360_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 5,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "windowradio-de",
+   "name": "WindowRadio.de",
+   "url": "https://windowradio.de/",
+   "stream": "https://a8.asurahosting.com:8570/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Shkodra",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "pendimi-kanali-2",
+   "name": "Pendimi Kanali 2",
+   "url": "https://www.rtvpendimi.com/",
+   "stream": "https://www.rtvpendimi.com:8020/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "albanian"
+   ],
+   "langCodes": [
+    "sq"
+   ],
+   "state": "Yerel",
+   "genre": [],
+   "votes": 3,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

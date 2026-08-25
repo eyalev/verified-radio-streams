@@ -1,0 +1,148 @@
+{
+ "countryCode": "MG",
+ "country": "Madagascar",
+ "slug": "madagascar",
+ "continent": "africa",
+ "stationCount": 9,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/madagascar/",
+ "stations": [
+  {
+   "id": "hopefy-radio-mg",
+   "name": "Hopefy Radio MG",
+   "url": "https://radio.fanantenanahoanao.org/",
+   "stream": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "malagasy"
+   ],
+   "langCodes": [
+    "mg"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 499,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esdes-radio",
+   "name": "ESDES Radio",
+   "url": "https://esdesmada.com/",
+   "stream": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Antananarivo",
+   "genre": [
+    "hits",
+    "jazz"
+   ],
+   "votes": 313,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rock-madagascar",
+   "name": "Radio Rock Madagascar",
+   "url": "https://www.once.mg/",
+   "stream": "https://tanjona.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 351,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-radio-102-8",
+   "name": "Top Radio 102.8",
+   "url": "https://www.facebook.com/topradio1028fm/",
+   "stream": "https://listen.radioking.com/radio/309053/stream/356036",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 327,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vazo-gasy",
+   "name": "Radio Vazo Gasy",
+   "url": "https://radiovazogasy.com/",
+   "stream": "https://stream.radiovazogasy.com/stream?1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 291,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-oasis",
+   "name": "Radio Oasis",
+   "url": "https://www.fanantenanahoanao.org/",
+   "stream": "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 226,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 194,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-hifi",
+   "name": "Radio HIFI",
+   "url": "https://hifi-madanet.org/",
+   "stream": "https://listen.radioking.com/radio/52108/stream/89122",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 140,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-feon-ny-filazantsara",
+   "name": "Radio Feon'ny Filazantsara",
+   "url": "https://www.flm-rff.org/",
+   "stream": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 11,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "countryCode": "GP",
+ "country": "Guadeloupe",
+ "slug": "guadeloupe",
+ "continent": "americas",
+ "stationCount": 3,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/guadeloupe/",
+ "stations": [
+  {
+   "id": "guadeloupe-1ere",
+   "name": "Guadeloupe 1ère",
+   "url": "https://la1ere.francetvinfo.fr/guadeloupe/",
+   "stream": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3207,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "antilles-media-kompa-gold",
+   "name": "Antilles Média - Kompa Gold",
+   "url": "https://ca.radio.net/s/antillesmediakompa",
+   "stream": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "creole"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  }
+ ]
+}

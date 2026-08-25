@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",BG Estrada
+https://play.global.audio/bgestrada
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="metal,rock",BadRock Hard & Heavy
+https://play-radio0.jump.bg:7049/live
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="folk",Radio Jugomania
+https://s8.yesstreaming.net:17051/autodj
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="dance",Metro DANCE Radio
+https://eu1.reliastream.com/proxy/mdr?mp=/MDR
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="hits,pop,top-40",Metro HITS Radio
+https://eu1.reliastream.com/proxy/mhr?mp=/MHR
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Metro Love 90s Plus
+https://eu1.reliastream.com/proxy/love80?mp=/MLR90S
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="90s,classic-rock",Radio 1 Bulgaria
+https://play.global.audio:80/radio164
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="dance",SWEET RADIO - BULGARIA
+https://stream.sweetradio.online:8001/HD
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="electronic",onlineDJradio
+https://play.onlinedjradio.com:7000/live
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Metro Love 80s
+https://eu1.reliastream.com/proxy/love80?mp=/MLR80S
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="rock",Bad Rock Radio 1
+https://play-radio0.jump.bg:7028/live
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="latin",City Latin
+https://play.global.audio/citylatin.aac
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="hits",City Radio Bulgaria
+https://play.global.audio/city.opus
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="techno",EILO Techno Radio
+https://eilo.org/streamer.php?ch=techno
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="folk",Radio Party Mix
+https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="ambient,chillout,lounge",Deluxe Radio Bulgaria | HQ
+https://play.radiomaxxfm.com/deluxe-high
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="dance,pop",Радио Зиг Заг - Най-яките парчета
+https://play.global.audio/radio1-koledahi.aac
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="dance,electronic",Maxx FM Bulgaria | HQ
+https://play.radiomaxxfm.com/maxx-high
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="alternative",Dark Wave Radomir
+https://dwrstream.eu/
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",N-Joy BG
+https://cdn.bweb.bg/radio/njoy.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Metro Top Radio
+https://eu1.reliastream.com/proxy/mgr?mp=/MGR
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="2000s,pop-music,pop,dance",Radio Nostalgia
+https://sc.mpbnl.nl/radionostalgia.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="oldies,funk",XRaydio 2 – Your Vintage Jukebox
+https://xraydio.ddns.net/jukebox
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="rock",Metro Country Rock
+https://eu1.reliastream.com/proxy/feedb?mp=/CRR64
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="trance",EILO Trance Radio
+https://eilo.org/streamer.php?ch=trance
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="classic-rock,rock",Badrock Golden Era
+https://streams.badrockradio.net/golden-era
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="classical",Easy Radio
+https://live.easyradio.bg/aac?type=.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="disco,indie,techno",XRaydio 1 – Your Kaleidoscope Of Sounds
+https://xraydio.ddns.net/live
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop-music,pop,dance,dance-music",Note FM
+https://sc.mpbnl.nl/notefm.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="country,rock",Metro Country Rock HD
+https://radio.jump.bg/proxy/feed104?mp=/MSRR
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Metro Love
+https://eu1.reliastream.com/proxy/service?mp=/service
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="classical",Metro Virtuoso
+https://eu1.reliastream.com/proxy/mvr?mp=/MVR
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="folk",Balkan Radio
+https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="classic-rock,rock",Badrock Classic Rock
+https://streams.badrockradio.net/classic-rock
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="rap",Metro Urban Hits
+https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Metro Love 00s
+https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="blues,dance,electronic,funk,jazz,pop,rock",Muzaica Radio
+https://radio.muzaica.fm:9000/stream
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="dance,pop",Victoria Radio
+https://play.radiomaxxfm.com/victoriafm
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="music",Darik Nostalgie
+https://a10.asurahosting.com:7600/radio.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио Bulgaria ON AIR Русе 103.9 FM
+https://live.radio.bgonair.bg/RadioBOA
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="music",Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM
+https://28933.live.streamtheworld.com/RADIO_1AAC_H.aac
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио Вероника Русе 99.0 FM
+https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио Energy Болгария Русе 100.5 FM
+https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио FM+ Русе 94.4 FM
+https://pulsar.atlantis.bg:8443/fmplusnew
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио Фокус Русе 99.7 FM
+https://focusradio.dataserv.cc/1
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио N-JOY Русе 101.6 FM
+https://cdn.btv.bg/radio/njoy.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop",Радио БГ Русе 97.4 FM
+https://27913.live.streamtheworld.com/BG_RADIOAAC_H.aac
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="music",bTV Radio Русе 89.9 FM
+https://cdn.btv.bg/radio/btv-radio.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-genre="pop,rock",Radio Fresh -Ruse 93,6 FM
+https://streamer2.atlantis.bg:8443/fresh
+#EXTINF:-1 group-title="Bulgaria",Extreme Deep House Radio
+https://whsh4u-panel.com/proxy/yfryujzw/stream
+#EXTINF:-1 group-title="Bulgaria",Vanilla
+https://play.global.audio/vanillahi.aac
+#EXTINF:-1 group-title="Bulgaria",City HipHop R&B
+https://play.global.audio/cityrabhi.aac
+#EXTINF:-1 group-title="Bulgaria",BadRock Classic Rock
+https://play-radio0.jump.bg:7489/live
+#EXTINF:-1 group-title="Bulgaria",Radio Nova Bulgaria
+https://play.global.audio/nova.opus
+#EXTINF:-1 group-title="Bulgaria",Radioplay Cafe
+https://play.global.audio/cafehi.aac
+#EXTINF:-1 group-title="Bulgaria",BNR Horizont
+https://play.global.audio/testb.aac?dist=RADIOPLAY
+#EXTINF:-1 group-title="Bulgaria",Radio Zorana Sofia
+https://radio.jump.bg/proxy/radio12/stream
+#EXTINF:-1 group-title="Bulgaria",radio Maia
+https://radio.rn-tv.com:8000/stream/1/
+#EXTINF:-1 group-title="Bulgaria",Avto Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac
+#EXTINF:-1 group-title="Bulgaria",bTV Radio
+https://cdn.bweb.bg/radio/btv-radio.mp3
+#EXTINF:-1 group-title="Bulgaria",Hot Hits FM
+https://live.hothitsfm.com/stream
+#EXTINF:-1 group-title="Bulgaria",RADIO VERONIKA
+https://play.global.audio/veronika64
+#EXTINF:-1 group-title="Bulgaria",City HipHop RaB
+https://play.global.audio/cityrab.aac
+#EXTINF:-1 group-title="Bulgaria",RADIO BGRADIO
+https://play.global.audio/bgradio128
+#EXTINF:-1 group-title="Bulgaria",Jazz FM
+https://cdn.bweb.bg/radio/jazz-fm.mp3
+#EXTINF:-1 group-title="Bulgaria",folk mix
+https://listen.radiofolkmix.com/folkmixios
+#EXTINF:-1 group-title="Bulgaria",NovaNews Bulgaria
+https://play.global.audio/novanews.aac
+#EXTINF:-1 group-title="Bulgaria",Radio Strimonika
+https://play-radio0.jump.bg:7666/stream
+#EXTINF:-1 group-title="Bulgaria",Sunny Beach Radio
+https://sunny-beachradio.stream.laut.fm/sunny-beachradio
+#EXTINF:-1 group-title="Bulgaria",Darik
+https://a12.asurahosting.com/listen/darik_radio/radio.mp3
+#EXTINF:-1 group-title="Bulgaria",EasyRadio.Bg (FLAC)
+https://c30.radioboss.fm:8758/live
+#EXTINF:-1 group-title="Bulgaria",XRaydio 3 – Your Rock & Roll Partner In Crime
+https://xraydio.ddns.net/xraydio3
+#EXTINF:-1 group-title="Bulgaria",Radio Contact
+https://listen.radioking.com/radio/490082/stream/546899
+#EXTINF:-1 group-title="Bulgaria",Radio Ruse
+https://radio.ruse.bg:8010/radioruse
+#EXTINF:-1 group-title="Bulgaria",Classic FM
+https://cdn.bweb.bg/radio/classic-fm.mp3
+#EXTINF:-1 group-title="Bulgaria",Fred Film Radio(Български език)
+https://s10.webradio-hosting.com/proxy/fredradiobg/stream
+#EXTINF:-1 group-title="Bulgaria",KOLEDNOTO RADIO
+https://play.global.audio/radio1-koleda.aac
+#EXTINF:-1 group-title="Bulgaria",Metro Dance Radio HD
+https://radio.jump.bg/proxy/predp?mp=/MDR
+#EXTINF:-1 group-title="Bulgaria",Metro Love Xmas Radio
+https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S
+#EXTINF:-1 group-title="Bulgaria",Easy Radio BG
+https://live.easyradio.bg/192?type=.mp3
+#EXTINF:-1 group-title="Bulgaria",Radio Nova
+https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac
+#EXTINF:-1 group-title="Bulgaria",Fusion7
+https://radio.palamarka.com/listen/fusion7/radio.mp3
+#EXTINF:-1 group-title="Bulgaria",NJS Radio - New Jack Swing
+https://stream.njsradio.com/njs
+#EXTINF:-1 group-title="Bulgaria",Energy 90s
+https://play.global.audio/energy-90s
+#EXTINF:-1 group-title="Bulgaria",Radio Lagoshevtsi
+https://radio.vidinlan.com/mp3
+#EXTINF:-1 group-title="Bulgaria",Veronika 6 bez 10
+https://play.global.audio/6bez10.aac
+#EXTINF:-1 group-title="Bulgaria",Glarus Retro FM
+https://radio.comnet.bg:12301/radio-glarus-retro.mp3
+#EXTINF:-1 group-title="Bulgaria",EYE SEE CHAOS RADIO STATION
+https://radio.eyeseechaos.net/listen/eye_see_chaos_radio/radio.mp3
+#EXTINF:-1 group-title="Bulgaria",KATRA FM
+https://live.katrafm.com/
+#EXTINF:-1 group-title="Bulgaria",Radio ZARA
+https://www.radiozara.bg/play
+#EXTINF:-1 group-title="Bulgaria",Veselina Retro
+https://nova-radio.neterra.tv/veselinaretro
+#EXTINF:-1 group-title="Bulgaria",DJ ZONE HOUSE RADIO 24/7
+https://stream.djzone.mobi/djzone
+#EXTINF:-1 group-title="Bulgaria",KISS LOUNGE RADIO
+https://nova-radio.neterra.tv/kiss
+#EXTINF:-1 group-title="Bulgaria",Lozenets Radio
+https://c18.radioboss.fm/stream/784

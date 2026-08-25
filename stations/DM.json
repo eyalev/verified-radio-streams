@@ -1,0 +1,97 @@
+{
+ "countryCode": "DM",
+ "country": "Dominica",
+ "slug": "dominica",
+ "continent": "americas",
+ "stationCount": 5,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/dominica/",
+ "stations": [
+  {
+   "id": "fabulosa-96-7",
+   "name": "Fabulosa 96.7",
+   "url": "https://fabulosafm.com/",
+   "stream": "https://bostonstreaminge.net/8006/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 202,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "voice-of-life-radio",
+   "name": "Voice of Life Radio",
+   "url": "https://voiceofliferadio.dm/",
+   "stream": "https://cdn.comeseetv.com:8000/vol",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 50,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dbs-radio",
+   "name": "DBS Radio",
+   "url": "https://dbcradio.net/",
+   "stream": "https://stream.dbcradio.net:8005/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Roseau",
+   "genre": [],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "en-ba-mango",
+   "name": "En Ba Mango",
+   "url": "https://www.facebook.com/oobinmmani/",
+   "stream": "https://s10.myradiostream.com/:4212/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "creole",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

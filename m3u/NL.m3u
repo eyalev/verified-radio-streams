@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1 group-title="Netherlands" tvg-genre="dance,electronic,house,techno,trance",Intense Radio - We love Dance 256K
+https://intenseradio.live-streams.nl:18000/main
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-rock,rock",Arrow Classic Rock
+https://stream.player.arrow.nl/arrowcr
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s",NPO Radio 5
+https://icecast.omroep.nl/radio5-bb-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s,dance",Fantasy Italo Dance 90s radio
+https://mscp2.live-streams.nl:8152/italodance
+#EXTINF:-1 group-title="Netherlands" tvg-genre="hits",Sky Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
+#EXTINF:-1 group-title="Netherlands" tvg-genre="blues,country,soul",Grolloo Radio
+https://uk1.streamingpulse.com/ssl/grollooradio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="chillout,jazz,smooth-jazz",Jazz de Ville - Chill
+https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",NPO Klassiek
+https://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="blues",Pinguin Blues
+https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s",Joe 70s & 80s
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s,90s,hits",JOE
+https://stream.joe.nl/joe/aachigh
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s,disco,funk,soul",Pure Lounge Radio FLAC
+https://mscp4.live-streams.nl:8142/lounge.ogg
+#EXTINF:-1 group-title="Netherlands" tvg-genre="chillout,lounge,smooth-jazz",PerfectMoods – 24/7 Quality Lounge
+https://www.radioking.com/play/perfectmoods/104227
+#EXTINF:-1 group-title="Netherlands" tvg-genre="soul",SoulRadio
+https://28983.live.streamtheworld.com/SOULRADIOAAC_SC
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",NPO 3FM
+https://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="jazz,smooth-jazz",Jazz de Ville - Jazz
+https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="folk,oldies",Tukker FM
+https://stream.tukkerfm.nl/tukkerfm
+#EXTINF:-1 group-title="Netherlands" tvg-genre="dance",Jazz de Ville - Dance
+https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="folk",Celtcast
+https://caster04.streampakket.com/proxy/8982/CeltCast
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s,90s,hits",JOE mp3
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical,opera",Classicnl Opera
+https://classic.nl/streams/?s=opera
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-rock,oldies,rock",ISKC Old Men's Rock
+https://443-1.autopo.st/79/OldMenRock
+#EXTINF:-1 group-title="Netherlands" tvg-genre="alternative,indie",KINK 128k aac
+https://22533.live.streamtheworld.com/KINKAAC_SC
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,classic-hits",KX Classics
+https://mcp-1.streampanel.nl:8020/kxclassics_mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="jazz,soul",NPO Radio 6 Soul & Jazz
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="top-hits",Radio 10 non-stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-rock",Radio Caroline 259 MP3 320
+https://happy.radiocaroline.nl/listen/classic_rock/radio320.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",classic nl soundtracks
+https://stream.classic.nl/classicnl-soundtracks.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s",Kink 90's
+https://25233.live.streamtheworld.com/KINK_90S_SC
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,disco,pop-music",Only 80's Radio
+https://server-28.stream-server.nl:8850/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,90s,classic-rock",Radio Caroline 259 Gold
+https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",Classic NL
+https://classic.nl/streams/?s=main
+#EXTINF:-1 group-title="Netherlands" tvg-genre="funk",Amsterdam Funk Channel (AFC)
+https://stream.afc.fm/
+#EXTINF:-1 group-title="Netherlands" tvg-genre="jazz",Cream
+https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="christian-music",Groot Nieuws Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",NPO Campus Radio
+https://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="dance,hits,pop",00s Alive
+https://stream.00sa.live/00s-alive.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",ICE RADIO
+https://stream.iceradio.nl/iceradiohq?ver=30283
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s",538 Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,oldies",Radio Monique 963 Gold
+https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop,rock",Simone FM
+https://stream.simone.nl/simone
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",NPO Radio 4 Concerten
+https://icecast.omroep.nl/radio4-eigentijds-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="r&b,soul",NPO BLEND
+https://icecast.omroep.nl/npoblend-bb-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",Studio040
+https://stream.studio040.nl/studio040.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",Alternative Rock Radio
+https://25243.live.streamtheworld.com/KINK_SC
+#EXTINF:-1 group-title="Netherlands" tvg-genre="funk,r&b,soul",WGRV.FM
+https://caster08.streampakket.com/proxy/wgrv/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",Pinguin Pop
+https://samcloud.spacial.com/api/listen?sid=98586&m=sc&rid=174409
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-rock",Radio Caroline 259 AAC 96
+https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc
+#EXTINF:-1 group-title="Netherlands" tvg-genre="folk,pop,rock",Omroep Zeeland Radio
+https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s,hits",Qmusic 90's & 00's (64k aac)
+https://stream.qmusic.nl/90s-00s/aaclow
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s",Radio Caroline 319 Gold
+https://happy.radiomonique.nl/listen/happy_oldies/radio64.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s,dance",538 Classics AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="worship",Groot Nieuws Radio Non-Stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,90s,dance,pop,trance",NixxFM
+https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s,dance,dance-music",radio.DANCE 90s dance music
+https://radiodance.streamingmedia.it/audio.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s,dance,hits",538 90s AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="love-songs",Sky LoveSongs
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="oldies",RADIO MONIQUE 918
+https://radiomonique918.radioca.st/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="downtempo,music",Cool Dance Radio
+https://stream.cooldanceradio.com/stream1/stream.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="adult-contemporary,pop,top-40",RADIO UNIQUE FM /HI-RES
+https://hilversumdrie.beheerstream.nl/8038/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="chillout,relax",Classicnl Mind Radio
+https://classic.nl/streams/?s=mindradio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="trance",Radio Time Out Trance
+https://s3.slotex.pl/shoutcast/7056/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="dance,pop,rock",WILD FM
+https://stream.wildfm.nl/wildfm.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="schlager",Radioachterhoek.nl
+https://stream.radioachterhoek.nl/index.html?sid=1
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-rock",Baars Classic Rock
+https://stream.iceradio.nl/baarsclassicrock
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",Classic nl original
+https://stream.classic.nl/classicnl.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",247Spice Radio Amsterdam
+https://stream.247streaming.live/247spice.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,90s,funk,r&b,soul",Amsterdam Funk Channel
+https://live.afc.fm/
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop-music",QMUSIC THEMA
+https://stream.qmusic.nl/thema/mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,90s,classic-rock",Radio Caroline 259 Gold 64kbps
+https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s",80's Hitradio
+https://s22.myradiostream.com/7728/listen.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",Glow FM
+https://stream.glowfm.nl/glowfm.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="jazz,smooth-jazz",Sublime Jazz
+https://stream.sublime.nl/web21_mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s,90s",4ever49radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",Grunn FM
+https://stream.grunnfm.nl/grunnfm
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",Hitzzz das radio
+https://stream.hitzzz.nl/hitzzz
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",KINK Distortion
+https://22603.live.streamtheworld.com/KINK_DISTORTION_SC
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,disco,soul",Oldskoolradio
+https://caster08.streampakket.com/proxy/arjanhoo?mp=/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,pop,r&b,soul",World Music Radio Classic
+https://server-67.stream-server.nl:8792/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="alternative",Radio Regenboog
+https://server-28.stream-server.nl:18828/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="alternative,rock",KINK 64kbps
+https://22553.live.streamtheworld.com/KINKAAC2_SC
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,oldies",Radio Monique 963 AAC 96
+https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc
+#EXTINF:-1 group-title="Netherlands" tvg-genre="jazz",Radio Twente Gold
+https://c18.radioboss.fm:8403/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio Hulchul
+https://everestcast.live-streams.nl:18010/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,disco,funk,r&b",Relax FM Online
+https://caster04.streampakket.com/proxy/8009/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="techno,trance",Tiësto in Concert
+https://ia801804.us.archive.org/33/items/tiesto-tiesto-in-concert-2003/Tiesto%20-%20Tiesto%20In%20Concert%20%282003%29.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-hits,hits,oldies",Haarlem Shuffle
+https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",40up Radio
+https://stream.40upradio.nl/40up
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s",Radio 10 60's & 70's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="instrumental",Radio 1224
+https://stream.radio1224.nl/1224
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-hits,hits,pop",Vibe Radio
+https://stream.viberadio.nl/viberadio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="dance,house,techno,trance",Dancevibes Radio
+https://everestcast.live-streams.nl:8025/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="oldies,pop-music",Pinguin Vintage
+https://samcloud.spacial.com/api/listen?sid=131111
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,classic-hits",Radio 078
+https://cc6.beheerstream.com/proxy/radio078?mp=/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,90s,funk,r&b,soul",Amsterdam Funk Channel (AFC) low bandwidth
+https://stream.afc.fm/index.html?sid=2
+#EXTINF:-1 group-title="Netherlands" tvg-genre="oldies",PiratenRadio.nl - 24/7 de Beste PiratenHits vanuit Twente
+https://stream.piratenradio.nl/listen/piratenradio/prradio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",Veronica Rock Radio
+https://21223.live.streamtheworld.com/VERONICAAAC.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="hits",538 Hitzone
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",Hofstad radio
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",keizerstad classic
+https://stream.keizerstad.nl/classics.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classic-rock,hits,rock,top-40",Veronica Goud van oud
+https://21633.live.streamtheworld.com/DAB01_AAC.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="electronic,trance",AH.FM: Electronic Dance Music | Trance
+https://eu.ah.fm/live
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,90s,pop-music,top-40",Maxhitradio24
+https://streaming.shoutcast.com/maxhitradio24
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop",BredaNu
+https://icecast.bredanu.nl/high
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Hot radio Classics
+https://443-1.autopo.st/191/hrc
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",ISKC Only Live
+https://mediaserv68.live-streams.nl:18012/OnlyLive
+#EXTINF:-1 group-title="Netherlands" tvg-genre="bollywood,music",VahonFM - Vahon Hindustani Radio
+https://onlineradio.websoftitnepal.com/8030/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,90s,music",Radio Rijnmond
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="alternative,classic-hits,dance,pop,rock",Veronica Non-stop
+https://21633.live.streamtheworld.com/DAB02_AAC.aac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",Radio-Goldenwave
+https://mscp3.live-streams.nl:8072/radio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="adult-contemporary,oldies,pop,top-40",RADIO UNIQUE FM /mobile
+https://hilversumdrie.beheerstream.nl/8038/mobile
+#EXTINF:-1 group-title="Netherlands" tvg-genre="ambient,instrumental,relaxing",Alswin Ambient Music
+https://server7.radio-streams.net/proxy/jwoiiktx/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="90s",Fomix
+https://stream.radiofomix.nl/listen/fomix/stream.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s,90s,dance,hits,pop,rock",Non Stop AlexFM
+https://radioalexfmhits.stream.laut.fm/radioalexfmhits?ref=web-app&start_time=1709718823255
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop-music",RTV Love Volendam Edam
+https://webstream.rtvlove.nl/live
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,90s,pop",Omroep Land van Cuijk
+https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/
+#EXTINF:-1 group-title="Netherlands" tvg-genre="chillout,jazz,lounge",Food and Lounge
+https://stream.laut.fm/food-and-lounge
+#EXTINF:-1 group-title="Netherlands" tvg-genre="bollywood,music",Radio Sangam
+https://mediaserv68.live-streams.nl:8067/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="folk",Fryslan Strijders - Piratenhits op volle toeren
+https://streambeheer.fryslanstrijders.nl/proxy/fryslanstrijders/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="gospel",GOD Radio
+https://stream.wildfm.nl/GOD_Radio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop-music",Koekstad Radio Deventer
+https://server-67.stream-server.nl:8788/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop,pop-music",Radio Bergeijk FLAC
+https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
+#EXTINF:-1 group-title="Netherlands" tvg-genre="rock",Arrow
+https://stream.player.arrow.nl/arrow
+#EXTINF:-1 group-title="Netherlands" tvg-genre="70s,80s,classic-hits,oldies",ABBAradio.com
+https://stream.radio.co/s0489f8245/listen
+#EXTINF:-1 group-title="Netherlands" tvg-genre="oldies",Radio Hermax
+https://stream.radiohermax.nl/listen/hermax/hermax
+#EXTINF:-1 group-title="Netherlands" tvg-genre="bollywood,music",Radio Hulchul
+https://everestcast.live-streams.nl:18015/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Reformatorische Omroep 1
+https://stream01.sthhost.nl:8003/live
+#EXTINF:-1 group-title="Netherlands" tvg-genre="classical",Christelijke Omroep
+https://stream.christelijkeomroep.nl/192?_gl=1*tymsna*_ga*MTEwODM5OTM1MC4xNjgxMDcyNjUx*_ga_1717X15JX8*MTY4MTEwMjQ5OC4yLjAuMTY4MTEwMjQ5OC4wLjAuMA..
+#EXTINF:-1 group-title="Netherlands" tvg-genre="oldies",KribbeRadio.nl 24/7 de beste PiratenMix
+https://azura.kribberadio.nl/listen/kribberadio/kribberadio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="ambient",Noise Radio
+https://a2.asurahosting.com:7890/radio.mp3?refresh=1769858154192
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio Apeldoorn
+https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="80s,90s,music",Radio Rijnmond (AAC+)
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp
+#EXTINF:-1 group-title="Netherlands" tvg-genre="schlager",Vera Radio
+https://mscp3.live-streams.nl:8082/live
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,90s,pop",Deventer Radio
+https://stream.deventerrtv.nl:8443/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="folk",RADIO ALEX FM CHRISTMAS NL/DE
+https://stream.laut.fm/radioalexfmchristmas
+#EXTINF:-1 group-title="Netherlands" tvg-genre="disco,funk,reggae,soul",The Finest Amsterdam
+https://live.thefinest.amsterdam/hq
+#EXTINF:-1 group-title="Netherlands" tvg-genre="bollywood,music",AmorFM
+https://amorfm_192.streampartner.nl/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="top-hits",ChathotelRadio
+https://a5.asurahosting.com:7410/radio.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Echobox Radio
+https://play.streamnerd.nl/echobox/echobox/icecast.audio
+#EXTINF:-1 group-title="Netherlands" tvg-genre="dance,pop",Magic-PowerRadio
+https://server-28.stream-server.nl:8904/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="hits,music,pop",MixStream Radio - Nederlandstalig
+https://radio.mixstream.nl/nl.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio 4 Brainport (192 k MP3)
+https://server-67.stream-server.nl:8774/rbij.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio 4 Brainport, Eindhoven (64 k AAC)
+https://server-67.stream-server.nl:8770/listen
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio Apeldoorn (high bandwidth)
+https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornhigh.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio Texel
+https://cast6.asurahosting.com/proxy/radiotex/stream
+#EXTINF:-1 group-title="Netherlands" tvg-genre="pop-music",Free Radio Rotterdam
+https://streams.freeradiorotterdam.nl:9443/freeradiorotterdam
+#EXTINF:-1 group-title="Netherlands" tvg-genre="chillout",Powerstation Buddha
+https://a11.asurahosting.com:7110/radio.mp3
+#EXTINF:-1 group-title="Netherlands" tvg-genre="music",Radio ZO-NWS
+https://nlpo.stream.vip/zonws/mp3-192/nlpo/
+#EXTINF:-1 group-title="Netherlands" tvg-genre="hits",AlexFM Nonstop
+https://radioalexfmhits.stream.laut.fm/radioalexfmhits?t302=2024-03-06_08-21-40&uuid=25a57695-a22f-4083-b348-b104684576af
+#EXTINF:-1 group-title="Netherlands" tvg-genre="60s,70s,80s,90s,pop-music,top-40",AnZoRadio
+https://anzoradio.stream.laut.fm/anzoradio?pl=m3u&t302=2026-08-21_15-36-53&uuid=e653ed9a-7765-493e-b300-4960b59409ec
+#EXTINF:-1 group-title="Netherlands",Qmusic
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
+#EXTINF:-1 group-title="Netherlands",KINK
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
+#EXTINF:-1 group-title="Netherlands",Sjeffm
+https://caster05.streampakket.com/proxy/8112/stream
+#EXTINF:-1 group-title="Netherlands",Real Hardstyle Radio
+https://stream.realhardstyle.nl/
+#EXTINF:-1 group-title="Netherlands",Golden Oldies Radio
+https://sonic.magicdragon.nl/8034/stream
+#EXTINF:-1 group-title="Netherlands",Jazz de Ville - Groove
+https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
+#EXTINF:-1 group-title="Netherlands",Slow Radio Gold
+https://stream11.slowradio.com/
+#EXTINF:-1 group-title="Netherlands",Q-Dance Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
+#EXTINF:-1 group-title="Netherlands",Qmusic Het Foute Uur
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
+#EXTINF:-1 group-title="Netherlands",QMUSIC NEDERLAND
+https://stream.qmusic.nl/qmusic/mp3

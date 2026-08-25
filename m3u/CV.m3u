@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cape Verde" tvg-genre="music",Crioula FM
+https://nl.digitalrm.pt:8098/stream
+#EXTINF:-1 group-title="Cape Verde",Caboradio
+https://listen.radioking.com/radio/281506/stream/327253
+#EXTINF:-1 group-title="Cape Verde",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Cape Verde",Radio Maria - Cabo Verde
+https://dreamsiteradiocp4.com/proxy/rmcapover?mp=/stream
+#EXTINF:-1 group-title="Cape Verde",Radio Atlantico
+https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3
+#EXTINF:-1 group-title="Cape Verde",RCV+ Radio Cabo Verde Jovem
+https://a8.my-control-panel.com:8670/radio.mp3
+#EXTINF:-1 group-title="Cape Verde",Kriola
+https://stream.laut.fm/kriola
+#EXTINF:-1 group-title="Cape Verde",Ribeira Brava FM - Ilha de Sao Nicolau
+https://sc1.xdevel.com/ribeirabrava
+#EXTINF:-1 group-title="Cape Verde",Praia FM
+https://mpc1.mediacp.eu:8030/stream
+#EXTINF:-1 group-title="Cape Verde",Radio Morabeza
+https://sp0.redeaudio.com:10988/9798/stream
+#EXTINF:-1 group-title="Cape Verde",Radio de Santo Antao - RSA
+https://stream.cvhosting.uk/listen/radio_santo_antao/radio.mp3?refresh=1781085695418
+#EXTINF:-1 group-title="Cape Verde",RCV Radio Cabo Verde direct
+https://a3.asurahosting.com/listen/rcv/radio.mp3
+#EXTINF:-1 group-title="Cape Verde",RTE – Radio Educativa
+https://a13.my-control-panel.com/listen/rte/radio.mp3

@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,folk,oldies,pop",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s,classic-hits",CLASSIC HITS RADIO Italia
+https://classichitsradio.streamingmedia.it/play
+#EXTINF:-1 group-title="Italy" tvg-genre="70s",ITALIA Italia 70
+https://icy.unitedradio.it/um020.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="80s",ITALIA Italia 80
+https://icy.unitedradio.it/um016.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="hits",NEW HITS RADIO Italia
+https://newhitsradio.streamingmedia.it/play
+#EXTINF:-1 group-title="Italy" tvg-genre="love-songs",ITALIAN RADIO - Only (romantic) Italian Music
+https://italianradio.streamingmedia.it/play
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Virgin Radio Rockstar: Rolling Stones
+https://icy.unitedradio.it/VirginSpecialEvent.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s",70 80 Disco Funk ModernSoul e Boogie
+https://discofunk.streamingmedia.it/play
+#EXTINF:-1 group-title="Italy" tvg-genre="classical",Venice Classic Radio
+https://uk2.streamingpulse.com/ssl/vcr1
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-rock",RTR 99 Canale Pooh
+https://rtr99.fluidstream.eu/rtr99_pooh.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s,90s",Radio 70 80 90 Marche
+https://rblive.it:8020/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="disco,funk,r&b,soul",Radio 80 Afro
+https://sphera.fluidstream.eu/r80_afro.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="alternative,ambient,electronic,funk,house,jazz,music,reggae,soul",NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,reggaeton",One Dance
+https://ice04.fluidstream.net/rn1_2.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,house",Lolli Radio Dance
+https://stream.lolliradio.net/lolli_dance.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="90s",ITALIA Italia 90
+https://icy.unitedradio.it/um018.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-rock,rock",Virgin Radio Rockstar: Queen
+https://icy.unitedradio.it/Virgin_05.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",RMC Music Star George Michael
+https://icy.unitedradio.it/MusicStarPrince.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="hits",Radio Company
+https://sphera.fluidstream.eu/company.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-hits",Gamma Radio - Golden Hits
+https://rn2.fluidstream.eu/gammaradio.mp3?FLID=1&type=.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="60s",ITALIA Italia 60
+https://icy.unitedradio.it/um014.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="80s,dance",FOREVER 80
+https://stream.laut.fm/forever80
+#EXTINF:-1 group-title="Italy" tvg-genre="80s,90s,easy-listening,relax,relaxing,romantic",RADIO RELAX Italia
+https://radiorelax.streamingmedia.it/play
+#EXTINF:-1 group-title="Italy" tvg-genre="electronic,pop,rock",Radio Cavolo
+https://radiocavolo.org/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",RMC Music Star Pino Daniele
+https://icy.unitedradio.it/Daniele.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Music Star Franco Battiato
+https://icy.unitedradio.it/um057.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,oldies",Radio 70 80 90 Dance Marche
+https://rblive.it:8060/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="r&b",RMC R&B
+https://icy.unitedradio.it/rmcweb003
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s,90s,classic-hits",Globo Vintage
+https://m100.newradio.it/m100-64
+#EXTINF:-1 group-title="Italy" tvg-genre="ambient,easy-listening,relax",NATURE RADIO SLEEP
+https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Virgin Radio Rockstar: Bon Jovi
+https://icy.unitedradio.it/um1027.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,pop",DeeGay Pop & Dance
+https://stream.deegay.fm/deegay1.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s,90s",70 80 90
+https://rblive.it:8170/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="hits,top-40",Lolli Radio Hits
+https://stream.lolliradio.net/lolli_hits.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",ITALIA Rock Italiano
+https://icy.unitedradio.it/um076.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-hits",DeeGay Classic
+https://stream.deegay.fm/deegay2.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Rai RadioDue
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-rock,rock",Radio Easy Rock
+https://sphera.fluidstream.eu/easyrock.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="electronic,house",DeeGay Club
+https://stream.deegay.fm/deegay3.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",RMC Music Star Coldplay
+https://icy.unitedradio.it/ColdPlay.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="60s,70s,80s,90s",Radio Italia Anni 60 (Emilia-Romagna e Marche)
+https://ice04.fluidstream.net/ria60_bo.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-rock,rock",Milano XR
+https://milanoxr.gatesweb.info:8443/live
+#EXTINF:-1 group-title="Italy" tvg-genre="music,oldies",华夏之声China FM·意大利罗马FM89.5
+https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="jazz,soul",Easy Network Jazz & Soul
+https://sphera.fluidstream.eu/easy_jazz.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Rai Isoradio
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,dance,pop",FOREVER 70
+https://stream.laut.fm/forever70
+#EXTINF:-1 group-title="Italy" tvg-genre="dance",Italo Disco
+https://italo-disco.stream.laut.fm/italo-disco
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",RMC Music Star Tiziano Ferro
+https://icy.unitedradio.it/Ferro.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="ambient,chillout,jazz,lounge,relax,smooth-jazz",RADIO DIMENSIONE RELAX
+https://az1.mediacp.eu/listen/radiodimensionerelax/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="soundtrack",United Music Cinema
+https://icy.unitedradio.it/um058.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Radio International
+https://ice08.fluidstream.net/fluid813.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="greatest-hits,top-40",NBC Milano
+https://nr7.newradio.it:19350/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="90s,dance,pop,rock",FOREVER 90
+https://stream.laut.fm/forever90
+#EXTINF:-1 group-title="Italy" tvg-genre="60s,70s,80s,90s,classic-hits,classic-rock,greatest-hits,love-songs,pop,rock,top-hits",Radio Volami nel Cuore
+https://rci.canaleitalia.tv:8009/;
+#EXTINF:-1 group-title="Italy" tvg-genre="60s,70s,oldies",Radio Digitalia - Ricordi
+https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258
+#EXTINF:-1 group-title="Italy" tvg-genre="dance",Italo Sound Radio
+https://icecast.italosound.com/italosound
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Radio Marte
+https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="reggaeton",Radio Company Reggaetown
+https://sphera.fluidstream.eu/companyreggaetown.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="chillout,electronic,lounge",Electrolounge Milano
+https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2026-08-22_00-01-09&uuid=af2e6bb8-a259-4e30-bf7a-1aceeaf302c9
+#EXTINF:-1 group-title="Italy" tvg-genre="music",Italia News 24
+https://stream6.xdevel.com/audio6s975889-649/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,house,rap",105 Miami
+https://icy.unitedradio.it/105Miami.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="r&b,soul",Lolli Radio Soul
+https://stream.lolliradio.net/lolli_soul.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="60s,70s,80s",Radio 60 70 80
+https://ice.studiopiu.net/607080.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="80s,pop",FOREVER 80-POP
+https://stream.laut.fm/forever80-pop
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music,pop-rock",Radio Legends
+https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Radio Rock 106.6
+https://rrock.fluidstream.eu/radiorock.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="classical",Radio Classica
+https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-rock,pop-rock,rock",Virgin Radio Italy
+https://icy.unitedradio.it/Virgin.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s,funk",Funky Radio - Classic Funk Only
+https://my.streamingmedia.it/listen/discofunk/play
+#EXTINF:-1 group-title="Italy" tvg-genre="country",Radio Rouge Country Hits
+https://uk1.streamingpulse.com/ssl/RadioRougeCountry
+#EXTINF:-1 group-title="Italy" tvg-genre="latin",Radio Mambo
+https://mambo.newradio.it/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="80s",Futura FM (HD OGG)
+https://futura.fm/stream.ogg
+#EXTINF:-1 group-title="Italy" tvg-genre="2000s,70s,80s,90s,classic-hits,oldies",RADIO PRECISA I più trasmessi dal 1975 ad oggi
+https://rprecisa.radioca.st/radioprecisa
+#EXTINF:-1 group-title="Italy" tvg-genre="hits",Radio Stella Toscana
+https://stream4.xdevel.com/audio0s975906-620/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="r&b,rap,soul",Radio WoW Black
+https://sphera.fluidstream.eu/rwow_black.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="jazz",Skyline Jazz
+https://rblive.it:8030/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Subasio XL
+https://icy.unitedradio.it/SubasioXL.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Radio Saba Sound
+https://stream3.xdevel.com/audio0s975496-187/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-hits",Radio Padova History
+https://sphera.fluidstream.eu/rpd_history.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="electronic,house",Radio Company Global House
+https://sphera.fluidstream.eu/companyhouse.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Radio Esercito
+https://radio.esercito.difesa.it:8000/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-rock,rock",Rock'n'Roll Radio
+https://nr14.newradio.it:8643/stream?ext=.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="oldies",Radio Delfino
+https://nr8.newradio.it/proxy/emaamo00?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="hits,schlager",Radio Tirol
+https://stream.radiotirol.it/live/aac-64/app/
+#EXTINF:-1 group-title="Italy" tvg-genre="house,lounge",Viniles Radio
+https://s3.radio.co/sfaf3f1f4a/listen
+#EXTINF:-1 group-title="Italy" tvg-genre="dance",Time Dance FM
+https://eu8.fastcast4u.com/proxy/timedancefm?mp=/1
+#EXTINF:-1 group-title="Italy" tvg-genre="music",Radio Dreamland
+https://dreamsiteradiocp3.com/proxy/dreamland?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="70s,80s",70-80.it
+https://onair18.xdevel.com/proxy/7080it?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="music",Canale Italia+
+https://rci.canaleitalia.tv:8005/;
+#EXTINF:-1 group-title="Italy" tvg-genre="jazz",Musica Jazz Radio
+https://ice03.fluidstream.net/mjr.aac?FLID=1
+#EXTINF:-1 group-title="Italy" tvg-genre="lounge",MC2
+https://stream.rcs.revma.com/fxp289cp81uvv.xspf
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Radio 70 80 90 Rock
+https://rblive.it:8090/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="easy-listening",easy and italy
+https://futura.fm/stream.ogg?ts=1723791202.627
+#EXTINF:-1 group-title="Italy" tvg-genre="90s",Radio Company 90
+https://sphera.fluidstream.eu/company90.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Radio Rock Italia
+https://rrock.fluidstream.eu/radiorock_ita.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",RMC Radio Bau & Co
+https://icy.unitedradio.it/RadioBAU.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,rock",Radio Sintony
+https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="80s",Radio Studio Nord 80 Energia
+https://nr6.newradio.it:19393/;
+#EXTINF:-1 group-title="Italy" tvg-genre="ambient,downtempo,electronica,funk,hip-hop,house,techno",Rocket Radio 1
+https://stream.radiojar.com/nvvyes7gud5tv
+#EXTINF:-1 group-title="Italy" tvg-genre="music",Radio News
+https://stream5.xdevel.com/audio5s975889-479/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="country",Radio Padova Country
+https://sphera.fluidstream.eu/rpd_country.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="adult-contemporary",Radio Mantova
+https://onair20.xdevel.com/proxy/radiomantova?mp=/stream/;
+#EXTINF:-1 group-title="Italy" tvg-genre="classical",Easy Network Classic
+https://sphera.fluidstream.eu/easy_classica.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="folk,pop",Radio Core de Roma
+https://sr14.inmystream.it:8210/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",RSC Radio Studio Centrale
+https://stream.studiocentrale.it/radio/8020/radio.mp3?_=1
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,pop-rock,rock",RTR 99 Radio Pop e Rock
+https://rtr99.fluidstream.eu/rtr99_poprock.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Radio Bruno Brescia
+https://stream1.xdevel.com/audio1s975758-318/stream/icecast.audio
+#EXTINF:-1 group-title="Italy" tvg-genre="electronic",Radio Company Fitness
+https://sphera.fluidstream.eu/companyfitness.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="90s,dance",RADIO DANCE anni 90
+https://radiodance.streamingmedia.it/it.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="gospel",RADIO EVANGELO PIEMONTE
+https://dreamsiteradiocp3.com/proxy/radioevangelo?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="ambient,downtempo,electronic,hip-hop,latin,pop",Radio Raheem
+https://radioraheem.out.airtime.pro/radioraheem_a
+#EXTINF:-1 group-title="Italy" tvg-genre="dance-music,musica",m2o originals radio
+https://stream.laut.fm/m2o-originals-radio
+#EXTINF:-1 group-title="Italy" tvg-genre="60s,70s,80s,90s,pop-rock",FOREVER ROCK
+https://stream.laut.fm/foreverrock
+#EXTINF:-1 group-title="Italy" tvg-genre="anime",Radio Cron
+https://cron.stream.laut.fm/cron
+#EXTINF:-1 group-title="Italy" tvg-genre="love-songs",Radio Linea Love
+https://rblive.it:8120//radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Radio Skyline
+https://rblive.it:8010/radio.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="blues,hip-hop,jazz,metal,rap,reggae,rnb,soul",Radio Furgoncino
+https://stream.radiojar.com/sf65dpxy9vzuv
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Veneto Radio
+https://sr11.inmystream.it/proxy/paolo1?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-rock,rock",Virgin Radio Classic Rock
+https://icy.unitedradio.it/VirginRockClassics.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Radio Firenze 95.4
+https://sr14.inmystream.it/stream/radiofirenze/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="electronic,house,techno",Radio Romeo & Juliet
+https://onair7.xdevel.com/proxy/xautocloud_vovi_2030?mp=/;1/
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,rock,soul,jazz,funk",Radio Studio 104
+https://onair7.xdevel.com/proxy/xautocloud_v8ss_1328?mp=/;1/
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,rock",_Antenna Web Assisi
+https://italiavera.radioca.st/stream?type=http&nocache=296
+#EXTINF:-1 group-title="Italy" tvg-genre="musica",Radio San Luchino
+https://ssl.audio1.meway.tv/proxy/sanluchino?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="hits,pop",Radio Gioconda
+https://eu7.fastcast4u.com/proxy/radiofvg?mp=/;
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Radio Centrale - Montorio al Vomano
+https://s1.forstream.it:8070/radiocentrale.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Radio Fresh
+https://radiofresh.radioca.st/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="adult-contemporary",Radio Rouge FM
+https://nl1.streamingpulse.com/ssl/radiorouge993
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,top-40",TOradio
+https://nr5.newradio.it/proxy/fsrls?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Radio Company Rock
+https://sphera.fluidstream.eu/companyrock.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,edm,electronic",EDM RADIO Electronic Dance Music
+https://edm.streamingmedia.it/play
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,rock",Radio Monte Carlo FM
+https://icy.unitedradio.it/RMC.aac
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-hits,pop-music",RADIO TOUR
+https://radiotour.streamingmedia.it/play.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Virgin Radio Rock Ballads
+https://icy.unitedradio.it/Virgin_06.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="dance,electronic",Radio Dancefloor 90s
+https://audio.radiodancefloor.it/dancefloor.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="pop,rock",Radio Supersound
+https://ssl2.azotosolutions.com:1010/1.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="music",RDR Rainbow Diversamente Radio
+https://rdrtv.radioca.st/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="alternative",Radio Base Venezia
+https://sr11.inmystream.it/proxy/radiobase?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="pop-music",Margherita Giovane
+https://streaming.radiomargherita.com/stream/radiomargheritagiovane
+#EXTINF:-1 group-title="Italy" tvg-genre="jazz",Radio X
+https://eu2.fastcast4u.com/proxy/radiox?mp=/1
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",Radio Utopia Firenze
+https://nr12.newradio.it:8624/stream?ext=.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="70s",Disco Inferno Channel
+https://stream.rcs.revma.com/7akzxppp81uvv.xspf
+#EXTINF:-1 group-title="Italy" tvg-genre="latin",Radio WoW Latin
+https://sphera.fluidstream.eu/rwow_latin.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="blues,jazz,rock,soul",Controradio
+https://s4.yesstreaming.net:17199/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="hits",Radio Cittadella
+https://nr14.newradio.it:8960/stream?ext=.mp3
+#EXTINF:-1 group-title="Italy" tvg-genre="classic-hits,hits",Radio Station One
+https://sr10.inmystream.it/proxy/bwrso?mp=/stream
+#EXTINF:-1 group-title="Italy" tvg-genre="rock",Radio Studio Nord Rock Cafè
+https://nr6.newradio.it:19363/;
+#EXTINF:-1 group-title="Italy" tvg-genre="pop",RVS Radio Villa Sound
+https://eu4.fastcast4u.com/proxy/lmarengo?mp=/;
+#EXTINF:-1 group-title="Italy" tvg-genre="oldies,schlager",Radio 2000
+https://stream.radio2000.it/
+#EXTINF:-1 group-title="Italy" tvg-genre="adult-contemporary",Radio Antenna Petrignano
+https://italiavera.radioca.st/stream

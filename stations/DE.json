@@ -1,0 +1,3695 @@
+{
+ "countryCode": "DE",
+ "country": "Germany",
+ "slug": "germany",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/germany/",
+ "stations": [
+  {
+   "id": "mangoradio",
+   "name": "MANGORADIO",
+   "url": "https://mangoradio.de/",
+   "stream": "https://mangoradio.stream.laut.fm/mangoradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Rheinland-Pfalz",
+   "genre": [
+    "music"
+   ],
+   "votes": 821917,
+   "clicks": 724,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swr3",
+   "name": "SWR3",
+   "url": "https://swr3.de/",
+   "stream": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Baden-Württemberg",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 18790,
+   "clicks": 305,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-classic-rock-on-radio",
+   "name": "- 0 N - Classic Rock on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 17736,
+   "clicks": 45,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "0-n-70s-on-radio",
+   "name": "- 0 N - 70s on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-70s.radionetz.de/0n-70s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "70s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 10710,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-of-rock-fm-alternative-rock",
+   "name": "Best Of Rock.FM Alternative Rock",
+   "url": "https://www.best-of-rock.fm/",
+   "stream": "https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 8343,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-80s-on-radio",
+   "name": "- 0 N - 80s on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-80s.radionetz.de/0n-80s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "80s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 8204,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trance-by-rautemusik-rm-fm",
+   "name": "__TRANCE__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/trance",
+   "stream": "https://trance-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "electronic",
+    "hits",
+    "trance"
+   ],
+   "votes": 6044,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-90s-on-radio",
+   "name": "- 0 N - 90s on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-90s.radionetz.de/0n-90s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "90s",
+    "dance",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 5863,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-deep-house",
+   "name": "Technolovers DEEP HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/deep-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 5620,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0nlineradio-soft-rock",
+   "name": "0nlineradio SOFT ROCK",
+   "url": "https://0nlineradio.com/",
+   "stream": "https://stream.0nlineradio.com/soft-rock?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 5582,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-indie-on-radio",
+   "name": "- 0 N - Indie on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-indie.radionetz.de/0n-indie.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "alternative",
+    "hip-hop",
+    "indie",
+    "rock"
+   ],
+   "votes": 5550,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-smooth-jazz-on-radio",
+   "name": "- 0 N - Smooth Jazz on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "chillout",
+    "easy-listening",
+    "jazz"
+   ],
+   "votes": 5311,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-chillout-on-radio",
+   "name": "- 0 N - Chillout on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-chillout.radionetz.de/0n-chillout.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "ambient",
+    "chillout",
+    "easy-listening"
+   ],
+   "votes": 5180,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bayern-3",
+   "name": "Bayern 3",
+   "url": "https://www.bayern3.de/",
+   "stream": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4743,
+   "clicks": 174,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ndr-2",
+   "name": "NDR 2",
+   "url": "https://www.ndr.de/ndr2/index.html",
+   "stream": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Hamburg",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4720,
+   "clicks": 40,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-edm",
+   "name": "Technolovers EDM",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "electronica",
+    "house"
+   ],
+   "votes": 4598,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technobase-fm",
+   "name": "TechnoBase.FM",
+   "url": "",
+   "stream": "https://listener3.mp3.tb-group.fm/tb.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 4356,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-100-club-charts-dance-dj-mix-radio-24-hours-",
+   "name": "# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok ",
+   "url": "https://rm.fm/breakz/team",
+   "stream": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Deutschland (Germany)",
+   "genre": [
+    "90s",
+    "chillout",
+    "edm",
+    "electronic",
+    "hip-hop",
+    "house",
+    "latin",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "r&b",
+    "reggaeton",
+    "techno",
+    "top-40"
+   ],
+   "votes": 4145,
+   "clicks": 125,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-heavy-metal",
+   "name": "Rock Antenne Heavy Metal",
+   "url": "",
+   "stream": "https://mp3channels.webradio.rockantenne.de/heavy-metal",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 3769,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-2000s-on-radio",
+   "name": "- 0 N - 2000s on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-2000s.radionetz.de/0n-2000s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "2000s",
+    "dance",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 3742,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-100-dj-charts-dj-remix-charts-radio-tiktok-c",
+   "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music,",
+   "url": "https://rm.fm/breakz",
+   "stream": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "deutsch-fränkisch",
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "gsw"
+   ],
+   "state": "Deutschland (Germany)",
+   "genre": [
+    "2000s",
+    "chillout",
+    "dance-music",
+    "edm",
+    "house",
+    "latin-music",
+    "lounge",
+    "pop",
+    "reggaeton",
+    "rnb",
+    "techno",
+    "top-hits"
+   ],
+   "votes": 3474,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klassik-radio-live",
+   "name": "Klassik Radio - Live",
+   "url": "https://klassikradio.de/",
+   "stream": "https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 3365,
+   "clicks": 36,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-60s-on-radio",
+   "name": "- 0 N - 60s on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-60s.radionetz.de/0n-60s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "60s",
+    "funk",
+    "oldies",
+    "pop",
+    "soul"
+   ],
+   "votes": 3212,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-electro-house",
+   "name": "Technolovers ELECTRO HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/electro-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "electronica",
+    "house"
+   ],
+   "votes": 3017,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italo-disco",
+   "name": "Italo Disco",
+   "url": "",
+   "stream": "https://italo-disco.stream.laut.fm/italo-disco",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 2794,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wdr4",
+   "name": "WDR4",
+   "url": "https://www1.wdr.de/index.html",
+   "stream": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2707,
+   "clicks": 72,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0nlineradio-remix",
+   "name": "0nlineradio REMIX",
+   "url": "https://0nlineradio.com/",
+   "stream": "https://stream.0nlineradio.com/remix?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "hits",
+    "latin",
+    "pop",
+    "reggaeton",
+    "rnb"
+   ],
+   "votes": 2664,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oldie-antenne",
+   "name": "OLDIE ANTENNE",
+   "url": "https://www.oldie-antenne.de/",
+   "stream": "https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Bavaria",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 2576,
+   "clicks": 60,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deejay-remixe-your-radio-for-finest-house-edm-el",
+   "name": "_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypert",
+   "url": "https://breakz.fm/",
+   "stream": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english",
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "gsw"
+   ],
+   "state": "Deutschland und NRW",
+   "genre": [
+    "chillout",
+    "dance",
+    "edm",
+    "electronic",
+    "house",
+    "latin-pop",
+    "lounge",
+    "reggaeton",
+    "rnb",
+    "techno",
+    "top-40"
+   ],
+   "votes": 2545,
+   "clicks": 39,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bytefm-192k",
+   "name": "ByteFM (192k)",
+   "url": "https://www.byte.fm/",
+   "stream": "https://bytefm.cast.addradio.de/bytefm/main/high/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Hamburg",
+   "genre": [
+    "indie",
+    "pop",
+    "rock"
+   ],
+   "votes": 2447,
+   "clicks": 41,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-live-vocal-trance",
+   "name": "sunshine live - Vocal Trance",
+   "url": "https://www.sunshine-live.de/",
+   "stream": "https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=6n884960%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1787316576",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 2425,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bayern-1-oberbayern",
+   "name": "Bayern 1 Oberbayern",
+   "url": "https://www.br.de/radio/bayern1/index.html",
+   "stream": "https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2388,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "schlagerparadies",
+   "name": "Schlagerparadies",
+   "url": "http://www.schlagerparadies.de/",
+   "stream": "https://webstream.schlagerparadies.de/schlager30842",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Saarland",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 2377,
+   "clicks": 28,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-106-8-berlin",
+   "name": "JazzRadio 106.8 Berlin",
+   "url": "http://www.jazzradio.net/",
+   "stream": "https://streaming.radio.co/s774887f7b/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Berlin",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 2029,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-classical-classical-music-for-sleep",
+   "name": "EPIC CLASSICAL - Classical Music For Sleep",
+   "url": "https://epic-classical.com/",
+   "stream": "https://stream.epic-classical.com/classical-music-for-sleep",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "british-english",
+    "deutsch-fränkisch",
+    "english"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north rhine westphalia",
+   "genre": [
+    "ambient",
+    "chillout",
+    "classical",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 2021,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bayern-1-franken",
+   "name": "Bayern 1 Franken",
+   "url": "https://www.br.de/radio/bayern1/index.html",
+   "stream": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2009,
+   "clicks": 54,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aktuelle-hits-24h-non-stop-music-dance-dj-mix-ra",
+   "name": "# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza",
+   "url": "https://rm.fm/breakz/team",
+   "stream": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "adult-contemporary",
+    "chillout",
+    "dance",
+    "dance-music",
+    "edm",
+    "electronic",
+    "hits",
+    "house",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "popular",
+    "reggaeton",
+    "rnb",
+    "techno",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 1965,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-electro-on-radio",
+   "name": "- 0 N - Electro on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-electro.radionetz.de/0n-electro.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "dance",
+    "electronic",
+    "techno"
+   ],
+   "votes": 1918,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-lounge-sleep-meditation",
+   "name": "Epic Lounge - SLEEP & MEDITATION",
+   "url": "https://epic-lounge.com/",
+   "stream": "https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "chillout",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 1855,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-eurodance",
+   "name": "Technolovers EURODANCE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/eurodance?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "dance-music"
+   ],
+   "votes": 1787,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-heavy-metal-2",
+   "name": "Rock Antenne Heavy Metal",
+   "url": "https://www.rockantenne.de/",
+   "stream": "https://stream.rockantenne.de/heavy-metal/stream/aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 1783,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-by-rautemusik-rm-fm",
+   "name": "__CLUB__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/club",
+   "stream": "https://club-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "hits",
+    "techno",
+    "trance"
+   ],
+   "votes": 1722,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-greatest-hits-on-radio",
+   "name": "- 0 N - Greatest Hits on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "dance",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 1719,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-of-rock-fm-ac-dc",
+   "name": "Best Of Rock.FM AC DC",
+   "url": "https://www.best-of-rock.fm/",
+   "stream": "https://bestofrockfm.stream.vip/acdc/mp3-256/bestofrock.fm/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1719,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nightride-fm-chillsynth",
+   "name": "Nightride FM - Chillsynth",
+   "url": "https://nightride.fm/",
+   "stream": "https://stream.nightride.fm/chillsynth.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 1645,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-hair-metal-2",
+   "name": "Rock Antenne Hair Metal",
+   "url": "",
+   "stream": "https://stream.rockantenne.de/hair-metal/stream/aacp",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 1615,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-rock-radio",
+   "name": "Epic Rock Radio",
+   "url": "https://www.epicrockradio.com/",
+   "stream": "https://securestreams6.autopo.st:2222/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 1565,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "remix-partybreaks-your-house-edm-hiphop-rnb-tech",
+   "name": "# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - T",
+   "url": "https://rm.fm/breakz",
+   "stream": "https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "dance",
+    "house",
+    "latin",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "techno",
+    "top-40"
+   ],
+   "votes": 1561,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-bayern-coffeemusic",
+   "name": "Antenne Bayern - CoffeeMusic",
+   "url": "https://www.webradio.de/antenne-bayern/coffeemusic",
+   "stream": "https://mp3channels.webradio.de/coffee",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bavaria",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1547,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sex-by-rautemusik-rm-fm",
+   "name": "__SEX__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/sex",
+   "stream": "https://sex-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hits",
+    "rnb"
+   ],
+   "votes": 1491,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-lounge-ibiza-chillout-lounge",
+   "name": "Epic Lounge - IBIZA CHILLOUT LOUNGE",
+   "url": "https://epic-lounge.com/",
+   "stream": "https://stream.epic-lounge.com/ibiza-chillout-lounge?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "ambient",
+    "chillout",
+    "lounge",
+    "relax"
+   ],
+   "votes": 1489,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-disco-on-radio",
+   "name": "- 0 N - Disco on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-disco.radionetz.de/0n-disco.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "70s",
+    "80s",
+    "disco",
+    "funk",
+    "oldies",
+    "pop",
+    "soul"
+   ],
+   "votes": 1464,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chillout-piano-by-epic-piano",
+   "name": "CHILLOUT PIANO by Epic Piano",
+   "url": "https://epic-piano.com/",
+   "stream": "https://stream.epic-piano.com/chillout-piano?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "deutsch-fränkisch",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "chillout",
+    "classical",
+    "instrumental"
+   ],
+   "votes": 1457,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-psytrance",
+   "name": "Technolovers - PSYTRANCE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/psytrance?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "electronic",
+    "trance"
+   ],
+   "votes": 1424,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-techno",
+   "name": "Technolovers - TECHNO",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/techno?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "electronic",
+    "techno"
+   ],
+   "votes": 1424,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-movies-on-radio",
+   "name": "- 0 N - Movies on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-movies.radionetz.de/0n-movies.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "classical",
+    "soundtrack"
+   ],
+   "votes": 1422,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-dance-on-radio",
+   "name": "- 0 N - Dance on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-dance.radionetz.de/0n-dance.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "dance"
+   ],
+   "votes": 1387,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-minimal",
+   "name": "Technolovers - MINIMAL",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/minimal?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "house"
+   ],
+   "votes": 1368,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-funky-house",
+   "name": "Technolovers - FUNKY HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/funky-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "house"
+   ],
+   "votes": 1294,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s-by-rautemusik-rm-fm",
+   "name": "__90S__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/90s",
+   "stream": "https://90s-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "90s",
+    "dance",
+    "hits",
+    "oldies",
+    "pop",
+    "rap"
+   ],
+   "votes": 1260,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-vocal-trance",
+   "name": "Technolovers VOCAL TRANCE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/vocal-trance?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "trance"
+   ],
+   "votes": 1256,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "charivari-munchen-lounge-music",
+   "name": "Charivari München - Lounge Music",
+   "url": "https://www.charivari.de/",
+   "stream": "https://rs24.stream24.net/lounge.aac?ref=charivari.de&aw_0_1st.playerid=radioplayer.de",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bavaria",
+   "genre": [
+    "lounge"
+   ],
+   "votes": 1245,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-country-on-radio",
+   "name": "- 0 N - Country on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-country.radionetz.de/0n-country.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "country",
+    "pop",
+    "rock"
+   ],
+   "votes": 1240,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swr4-bw-48-aac",
+   "name": "SWR4 BW [48 aac]",
+   "url": "https://www.swr.de/swr4/index.html",
+   "stream": "https://liveradio.swr.de/sw890cl/swr4bw/",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Baden-Württemberg",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 1195,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0nlineradio-bach",
+   "name": "0nlineradio BACH",
+   "url": "https://0nlineradio.com/",
+   "stream": "https://stream.0nlineradio.com/bach?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1192,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-seefunk",
+   "name": "Radio Seefunk",
+   "url": "https://www.dasneueradioseefunk.de/",
+   "stream": "https://webradio.radio-seefunk.de/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Baden-Württemberg",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "oldies",
+    "pop-music"
+   ],
+   "votes": 1172,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-of-rock-fm-hard-rock",
+   "name": "Best Of Rock.FM Hard Rock",
+   "url": "https://www.best-of-rock.fm/",
+   "stream": "https://bestofrockfm.stream.vip/hardrock/mp3-256/bestofrock.fm/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 1152,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "br-klassik",
+   "name": "BR-Klassik",
+   "url": "https://www.br-klassik.de/index.html",
+   "stream": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1141,
+   "clicks": 44,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deutschrap-charts-by-rautemusik-rm-fm",
+   "name": "__DEUTSCHRAP CHARTS__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/deutschrap-charts",
+   "stream": "https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hip-hop",
+    "hits",
+    "rap",
+    "rnb"
+   ],
+   "votes": 1133,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "schlager-oldies-by-rautemusik-rm-fm",
+   "name": "__SCHLAGER OLDIES__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/schlager-oldies",
+   "stream": "https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "hits",
+    "oldies",
+    "schlager"
+   ],
+   "votes": 1104,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-by-rautemusik-rm-fm",
+   "name": "__LOUNGE__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/lounge",
+   "stream": "https://lounge-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "ambient",
+    "chillout",
+    "lounge"
+   ],
+   "votes": 1095,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-bass-house",
+   "name": "Technolovers - BASS HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/bass-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 1090,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-a-ndw-neue-deutsche-welle-von-1a-radio",
+   "name": "- 1 A - NDW (Neue Deutsche Welle) von 1A Radio",
+   "url": "http://www.1aradio.com/",
+   "stream": "https://1a-ndw.radionetz.de/1a-ndw.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "80s",
+    "alternative",
+    "oldies",
+    "pop"
+   ],
+   "votes": 1081,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trap-by-rautemusik-rm-fm",
+   "name": "__TRAP__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/",
+   "stream": "https://trap-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 1074,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-of-schlager-by-rautemusik-rm-fm",
+   "name": "__BEST OF SCHLAGER__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/best-of-schlager",
+   "stream": "https://best-of-schlager-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "disco",
+    "hits",
+    "schlager"
+   ],
+   "votes": 1062,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-a-oldies-von-1a-radio",
+   "name": "- 1 A - Oldies von 1A Radio",
+   "url": "http://www.1aradio.com/",
+   "stream": "https://1a-oldies.radionetz.de/1a-oldies.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 1039,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-80er-rock-aac",
+   "name": "ROCK ANTENNE 80er Rock (AAC)",
+   "url": "https://www.rockantenne.de/",
+   "stream": "https://stream.rockantenne.de/80er-rock/stream/aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "80s",
+    "classic-rock"
+   ],
+   "votes": 1026,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-pop-on-radio",
+   "name": "- 0 N - Pop on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-pop.radionetz.de/0n-pop.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "dance",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 1024,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swr2",
+   "name": "SWR2",
+   "url": "https://www.swr.de/swr2/index.html",
+   "stream": "https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "BW",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1006,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melodic-house-techno-technolovers-fm-chillout-be",
+   "name": "Melodic House & Techno @ Technolovers.FM (Chillout, Beach, Festival, Sundowner, ",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "electronic",
+    "lounge",
+    "relax",
+    "techno"
+   ],
+   "votes": 993,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-handsup",
+   "name": "Technolovers HANDSUP",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/handsup?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "techno",
+    "trance"
+   ],
+   "votes": 987,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dj-club-charts-club-classics-festival-hits-remix",
+   "name": "- DJ & CLUB CHARTS ---> Club Classics, Festival-Hits, Remixes, Single Charts, Ma",
+   "url": "https://breakz.fm/trackliste/",
+   "stream": "https://breakz-2012-high.rautemusik.fm/?ref=rb-djclubcharts",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Bavaria",
+   "genre": [
+    "edm",
+    "hits",
+    "lounge",
+    "techno",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 968,
+   "clicks": 60,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-by-rautemusik-rm-fm",
+   "name": "__HOUSE__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/house",
+   "stream": "https://house-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house",
+    "techno"
+   ],
+   "votes": 964,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-oldies-on-radio",
+   "name": "- 0 N - Oldies on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-oldies.radionetz.de/0n-oldies.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 962,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bass-by-rautemusik-rm-fm",
+   "name": "__BASS__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/bass",
+   "stream": "https://bass-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 960,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-ibiza-house",
+   "name": "Technolovers - IBIZA HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/ibiza-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "chillout",
+    "house"
+   ],
+   "votes": 957,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "romantic-piano-by-epic-piano",
+   "name": "ROMANTIC PIANO by Epic Piano",
+   "url": "https://epic-piano.com/",
+   "stream": "https://stream.epic-piano.com/romantic-piano?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "deutsch-fränkisch",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "classical",
+    "instrumental",
+    "romantic"
+   ],
+   "votes": 951,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "goldies-by-rautemusik-rm-fm",
+   "name": "__GOLDIES__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/goldies",
+   "stream": "https://goldies-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "dance",
+    "disco",
+    "hits",
+    "music",
+    "oldies"
+   ],
+   "votes": 946,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-live-classic-vocal-house",
+   "name": "sunshine live - Classic & Vocal House",
+   "url": "https://sunshine-live.de/",
+   "stream": "https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 931,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-100-dj-charts-remix-radio-tiktok-promo-chart",
+   "name": "#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM,",
+   "url": "https://rm.fm/breakz/team",
+   "stream": "https://stream.breakz.fm/?ref=top100radio-browser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Deutschland und NRW",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "chillout",
+    "funk",
+    "house",
+    "reggaeton",
+    "rnb",
+    "rock",
+    "techno",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 925,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-lounge-chillout-lounge",
+   "name": "Epic Lounge - CHILLOUT LOUNGE",
+   "url": "https://epic-lounge.com/",
+   "stream": "https://stream.epic-lounge.com/chillout-lounge?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "ambient",
+    "chillout",
+    "lounge",
+    "relax"
+   ],
+   "votes": 917,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-uplifting-trance",
+   "name": "Technolovers - UPLIFTING TRANCE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/uplifting-trance?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "trance"
+   ],
+   "votes": 916,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "schwarzwaldradio",
+   "name": "Schwarzwaldradio",
+   "url": "https://schwarzwaldradio.com/",
+   "stream": "https://edge01.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Baden-Württemberg",
+   "genre": [
+    "oldies",
+    "rock"
+   ],
+   "votes": 895,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "partyvibe-drum-and-bass",
+   "name": "Partyvibe - Drum and Bass",
+   "url": "https://www.partyvibe.com/",
+   "stream": "https://www.partyviberadio.com:8061/;listen.pls?sid=1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Rheinland-Pfalz",
+   "genre": [
+    "rap"
+   ],
+   "votes": 878,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "countryhits-fm-by-rautemusik-rm-fm",
+   "name": "__COUNTRYHITS.FM__ by rautemusik (rm.fm)",
+   "url": "https://countryhits.fm/",
+   "stream": "https://country-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "classic-rock",
+    "country",
+    "hits",
+    "rock"
+   ],
+   "votes": 850,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s90s-hits-love-songs",
+   "name": "90s90s Hits Love Songs",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://streams.90s90s.de/love/mp3-192/homepage/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 844,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-200-dj-charts-just-music-dj-remix-charts-rad",
+   "name": "#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Elect",
+   "url": "https://www.breakz.fm/",
+   "stream": "https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "chillout",
+    "dance",
+    "electronic",
+    "electronica",
+    "house",
+    "lounge",
+    "pop",
+    "pop-music",
+    "reggae",
+    "reggaeton",
+    "rnb",
+    "schlager",
+    "techno",
+    "top-100",
+    "top-40"
+   ],
+   "votes": 823,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-radio-ibiza",
+   "name": "Lounge Radio Ibiza",
+   "url": "https://lounge-radio-ibiza.com/",
+   "stream": "https://stream.laut.fm/lounge-radio-ibiza",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bremen",
+   "genre": [
+    "ambient",
+    "electronic"
+   ],
+   "votes": 818,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-classical-classical-pan-flute",
+   "name": "EPIC CLASSICAL - Classical Pan Flute",
+   "url": "https://epic-classical.com/",
+   "stream": "https://stream.epic-classical.com/classical-pan-flute?ref=liveradio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "british-english",
+    "deutsch-fränkisch",
+    "english"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north rhine westphalia",
+   "genre": [
+    "ambient",
+    "classical",
+    "instrumental",
+    "relax"
+   ],
+   "votes": 814,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bob-ac-dc",
+   "name": "RADIO BOB AC/DC",
+   "url": "",
+   "stream": "https://streams.radiobob.de/bob-acdc/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671324640&cb=215511618&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 807,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "partyhits-dein-musikmix-aus-ballermann-apres-ski",
+   "name": "# PartyHits - Dein Musikmix aus Ballermann, Apres Ski, Wiesn, Karneval, Silveste",
+   "url": "https://rm.fm/partyhits",
+   "stream": "https://partyhits-high.rautemusik.fm/?ref=radio-browser-ph2",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 806,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-top-40-on-radio",
+   "name": "- 0 N - Top 40 on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-top40.radionetz.de/0n-top40.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "dance",
+    "hits",
+    "house",
+    "pop",
+    "rock"
+   ],
+   "votes": 784,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bob-rock-80s",
+   "name": "RADIO BOB ROCK 80S",
+   "url": "",
+   "stream": "https://streams.radiobob.de/bob-80srock/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671494599&cb=299137260&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 759,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-new-wave-on-radio",
+   "name": "- 0 N - New Wave on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-newwave.radionetz.de/0n-newwave.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "80s",
+    "alternative",
+    "oldies"
+   ],
+   "votes": 726,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "charthits-fm-by-rautemusik-rm-fm",
+   "name": "__CHARTHITS.FM__ by rautemusik (rm.fm)",
+   "url": "https://www.charthits.fm/",
+   "stream": "https://charthits-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "electronica",
+    "hits",
+    "house"
+   ],
+   "votes": 707,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-a-70er-von-1a-radio",
+   "name": "- 1 A - 70er von 1A Radio",
+   "url": "http://www.1aradio.com/",
+   "stream": "https://1a-70er.radionetz.de/1a-70er.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "70s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 705,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chopin-by-epic-piano",
+   "name": "CHOPIN by Epic Piano",
+   "url": "https://epic-piano.com/",
+   "stream": "https://stream.epic-piano.com/chopin?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english",
+    "german",
+    "low-german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "nds"
+   ],
+   "state": "NRW",
+   "genre": [
+    "classical",
+    "instrumental"
+   ],
+   "votes": 699,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-rock-on-radio",
+   "name": "- 0 N - Rock on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-rock.radionetz.de/0n-rock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "alternative",
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 685,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fritz",
+   "name": "Radio Fritz",
+   "url": "https://www.fritz.de/",
+   "stream": "https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Berlin/Brandenburg",
+   "genre": [
+    "pop",
+    "pop-music",
+    "rap"
+   ],
+   "votes": 669,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-future-house",
+   "name": "Technolovers FUTURE HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/future-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Nrw",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house"
+   ],
+   "votes": 667,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-jazz-on-radio",
+   "name": "- 0 N - Jazz on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-jazz.radionetz.de/0n-jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 665,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0nlineradio-vivaldi",
+   "name": "0nlineradio VIVALDI",
+   "url": "https://0nlineradio.com/",
+   "stream": "https://stream.0nlineradio.com/vivaldi?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "classical",
+    "instrumental"
+   ],
+   "votes": 655,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "juka-radio-kpop",
+   "name": "juka radio kpop",
+   "url": "https://juka-radio.de/",
+   "stream": "https://juka-kpop.stream.laut.fm/juka-kpop?t302=2021-04-01_09-03-35&uuid=6aa06ca0-9a01-407d-91af-155d24c5c405",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german",
+    "korean"
+   ],
+   "langCodes": [
+    "de",
+    "ko"
+   ],
+   "genre": [
+    "kpop"
+   ],
+   "votes": 650,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-soft-rock-on-radio",
+   "name": "- 0 N - Soft Rock on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-softrock.radionetz.de/0n-softrock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "rock"
+   ],
+   "votes": 646,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nordseewelle-ostfriesland",
+   "name": "Radio Nordseewelle (Ostfriesland)",
+   "url": "https://radio-nordseewelle.de/",
+   "stream": "https://stream.radio-nordseewelle.de/live/mp3-192/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Niedersachsen (Ostfriesland)",
+   "genre": [
+    "pop"
+   ],
+   "votes": 643,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-vs-hip-hop-rap-deutschrap-r-b-trap-techno-",
+   "name": "House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, H",
+   "url": "https://www.breakz.fm/",
+   "stream": "https://breakz-office.rautemusik.fm/?ref=rb-festival",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [
+    "house",
+    "latin",
+    "rap",
+    "rnb",
+    "techno",
+    "top-40"
+   ],
+   "votes": 637,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "day-dee-eurodance",
+   "name": "Day Dee Eurodance",
+   "url": "http://eurodance.ga/",
+   "stream": "https://daydeeeurodance.stream.laut.fm/daydeeeurodance",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Germany",
+   "genre": [
+    "90s"
+   ],
+   "votes": 636,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-christmas-channel-by-rautemusik-rm-fm",
+   "name": "__THE CHRISTMAS CHANNEL__ by rautemusik (rm.fm)",
+   "url": "https://christmas-channel.com/",
+   "stream": "https://christmas-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 634,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swr-dasding",
+   "name": "SWR dasding",
+   "url": "https://dasding.de/",
+   "stream": "https://liveradio.swr.de/d9zadj3/dasding/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Baden-Württemberg",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 623,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-hardcore",
+   "name": "Technolovers HARDCORE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/hardcore?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "electronic",
+    "electronica"
+   ],
+   "votes": 618,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-gothic",
+   "name": "Rock Antenne Gothic",
+   "url": "https://www.rockantenne.de/webradio/gothic",
+   "stream": "https://s6-webradio.rockantenne.de/gothic/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 616,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-lounge-piano-jazz-bar",
+   "name": "Epic Lounge - PIANO & JAZZ BAR",
+   "url": "https://epic-lounge.com/",
+   "stream": "https://stream.epic-lounge.com/piano-jazz-bar?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "jazz",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 610,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0nlineradio-country",
+   "name": "0nlineradio COUNTRY",
+   "url": "https://0nlineradio.com/",
+   "stream": "https://stream.0nlineradio.com/country?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "classic-rock",
+    "country",
+    "rock"
+   ],
+   "votes": 606,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "progressive-trance-mix",
+   "name": "Progressive Trance Mix",
+   "url": "https://www.laut.fm/progressive-trance-mix",
+   "stream": "https://stream.laut.fm/progressive-trance-mix",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "trance"
+   ],
+   "votes": 605,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-k-pop-on-radio",
+   "name": "- 0 N - K-Pop on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-kpop.radionetz.de/0n-kpop.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "kpop"
+   ],
+   "votes": 604,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eurodance",
+   "name": "Eurodance",
+   "url": "",
+   "stream": "https://eurodance.stream.laut.fm/eurodance",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 604,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oriental-by-rautemusik-rm-fm",
+   "name": "__ORIENTAL__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/oriental",
+   "stream": "https://oriental-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "german"
+   ],
+   "langCodes": [
+    "ar",
+    "de"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hits"
+   ],
+   "votes": 592,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-heavy-metal-on-radio",
+   "name": "- 0 N - Heavy Metal on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-heavymetal.radionetz.de/0n-heavymetal.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 592,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s90s-trance",
+   "name": "90s90s Trance",
+   "url": "https://www.90s90s.de/radios/trance",
+   "stream": "https://regiocast.streamabc.net/regc-90s90strance-mp3-192-2383645",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 589,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ffn",
+   "name": "ffn",
+   "url": "https://www.ffn.de/",
+   "stream": "https://ffn-de-hz-fal-stream04-cluster01.radiohost.de/ffn_mp3-192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 588,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-classical-classical-piano",
+   "name": "EPIC CLASSICAL - Classical Piano",
+   "url": "https://epic-classical.com/",
+   "stream": "https://stream.epic-classical.com/classical-piano",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "british-english",
+    "deutsch-fränkisch",
+    "english"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north rhine westphalia",
+   "genre": [
+    "ambient",
+    "chillout",
+    "classical",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 582,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-electro",
+   "name": "Technolovers ELECTRO",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/electro?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "dance",
+    "dance-music",
+    "edm",
+    "electronic"
+   ],
+   "votes": 581,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-relax-on-radio",
+   "name": "- 0 N - Relax on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-relax.radionetz.de/0n-relax.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "80s",
+    "90s",
+    "easy-listening",
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 578,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-hardstyle",
+   "name": "Technolovers HARDSTYLE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/hardstyle?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "NRW",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 576,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-classical-classical-meditation",
+   "name": "EPIC CLASSICAL - Classical Meditation",
+   "url": "https://epic-classical.com/",
+   "stream": "https://stream.epic-classical.com/classical-meditation",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "british-english",
+    "deutsch-fränkisch",
+    "english"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north rhine westphalia",
+   "genre": [
+    "chillout",
+    "classical",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 571,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mainstage-charts-your-festival-radio-edm-techno-",
+   "name": "# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE - L",
+   "url": "https://rm.fm/breakz/",
+   "stream": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "gsw"
+   ],
+   "state": "Deutschland und NRW",
+   "genre": [
+    "dance",
+    "edm",
+    "house",
+    "latin",
+    "lounge",
+    "pop",
+    "pop-music",
+    "reggaeton",
+    "rnb",
+    "soul",
+    "techno"
+   ],
+   "votes": 569,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "laut-fm-chillharmonie",
+   "name": "Laut.FM Chillharmonie",
+   "url": "http://laut.fm/chillharmonie",
+   "stream": "https://chillharmonie.stream.laut.fm/chillharmonie",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "classical",
+    "jazz",
+    "soundtrack"
+   ],
+   "votes": 568,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "filmradio",
+   "name": "Filmradio",
+   "url": "https://laut.fm/filmradio",
+   "stream": "https://filmradio.stream.laut.fm/filmradio?t302=2018-03-10_04-44-05&uuid=59ca68e0-84a4-492d-9b0b-36c45690cd59",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 564,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-techhouse",
+   "name": "Technolovers - TECHHOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/techhouse?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "electronic",
+    "techno"
+   ],
+   "votes": 564,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0-n-50s-on-radio",
+   "name": "- 0 N - 50s on Radio",
+   "url": "http://www.0nradio.com/",
+   "stream": "https://0n-50s.radionetz.de/0n-50s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Bayern",
+   "genre": [
+    "50s",
+    "oldies"
+   ],
+   "votes": 562,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "happy-hardcore-by-rautemusik-rm-fm",
+   "name": "__HAPPY HARDCORE__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/happyhardcore",
+   "stream": "https://happyhardcore-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hits"
+   ],
+   "votes": 561,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-afro-house",
+   "name": "Technolovers - AFRO HOUSE",
+   "url": "https://technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/afro-house?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "house"
+   ],
+   "votes": 561,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebm",
+   "name": "EBM",
+   "url": "https://flatlinesradio.de/",
+   "stream": "https://stream.laut.fm/ebm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "electronic",
+    "electronica"
+   ],
+   "votes": 560,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wackenradio-by-rautemusik-rm-fm",
+   "name": "__WACKENRADIO__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/wacken",
+   "stream": "https://wackenradio-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 555,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-classical-classical-coffee-bar",
+   "name": "EPIC CLASSICAL - Classical Coffee Bar",
+   "url": "https://epic-classical.com/",
+   "stream": "https://stream.epic-classical.com/classical-coffee-bar",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "british-english",
+    "deutsch-fränkisch",
+    "english"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north rhine westphalia",
+   "genre": [
+    "ambient",
+    "chillout",
+    "classical",
+    "relax"
+   ],
+   "votes": 552,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deutschrap-classic-by-rautemusik-rm-fm",
+   "name": "__DEUTSCHRAP CLASSIC__ by rautemusik (rm.fm)",
+   "url": "https://www.rm.fm/deutschrap-classic",
+   "stream": "https://deutschrap-classic-high.rautemusik.fm/?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "hip-hop",
+    "rap",
+    "rnb"
+   ],
+   "votes": 551,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wdr-2-ruhrgebiet",
+   "name": "WDR 2 Ruhrgebiet",
+   "url": "https://www1.wdr.de/radio/wdr2/wdrzwei-startseite-102.html",
+   "stream": "https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 548,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "breakz-fm-by-rm-fm-rautemusik",
+   "name": "__BREAKZ.FM__ by rm.fm (rautemusik)",
+   "url": "https://breakz.fm/",
+   "stream": "https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "North Rhine-Westphalia",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house",
+    "reggaeton",
+    "rnb"
+   ],
+   "votes": 547,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-lounge-nature-sounds",
+   "name": "Epic Lounge - NATURE SOUNDS",
+   "url": "https://epic-lounge.com/",
+   "stream": "https://stream.epic-lounge.com/nature-sounds?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "north-rhine-westphalia",
+   "genre": [
+    "chillout",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 547,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dresden",
+   "name": "Radio Dresden",
+   "url": "https://radiodresden.de/",
+   "stream": "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "sachsen",
+   "genre": [
+    "pop"
+   ],
+   "votes": 547,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  }
+ ]
+}

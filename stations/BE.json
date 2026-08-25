@@ -1,0 +1,2632 @@
+{
+ "countryCode": "BE",
+ "country": "Belgium",
+ "slug": "belgium",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/belgium/",
+ "stations": [
+  {
+   "id": "rtbf-classic-21",
+   "name": "RTBF Classic 21",
+   "url": "https://www.rtbf.be/classic21/",
+   "stream": "https://radios.rtbf.be/classic21-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Wallonia",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 6103,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nostalgie-80-s",
+   "name": "Nostalgie 80's",
+   "url": "http://www.nostalgie.be/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2588,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrj-belgie",
+   "name": "NRJ België",
+   "url": "https://nl.nrj.be/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "hits",
+    "top-40"
+   ],
+   "votes": 1881,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pure-fm",
+   "name": "Pure (FM)",
+   "url": "https://www.rtbf.be/pure/",
+   "stream": "https://radios.rtbf.be/pure-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1665,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mynoise-pure-nature",
+   "name": "MyNoise Pure Nature",
+   "url": "https://mynoise.net/",
+   "stream": "https://purenature-mynoise.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient"
+   ],
+   "votes": 1602,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgie-vlaanderen",
+   "name": "Nostalgie Vlaanderen",
+   "url": "https://nl.nostalgie.be/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "oldies"
+   ],
+   "votes": 1528,
+   "clicks": 31,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-60-s",
+   "name": "RTBF Classic 21 - 60's",
+   "url": "http://www.rtbf.be/radio/liveradio/webradio-classic21-60",
+   "stream": "https://radios.rtbf.be/wr-c21-60-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "60s"
+   ],
+   "votes": 1365,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-80-s-90-s",
+   "name": "Joe 80's & 90's",
+   "url": "https://joe.be/",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 1347,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-route-66",
+   "name": "RTBF Classic 21 - Route 66",
+   "url": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-classic21-66",
+   "stream": "https://radios.rtbf.be/wr-c21-route66-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 1075,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-80-s",
+   "name": "RTBF Classic 21 - 80's",
+   "url": "http://www.rtbf.be/radio/liveradio/webradio-classic21-80",
+   "stream": "https://radios.rtbf.be/wr-c21-80-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 892,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-musiq3",
+   "name": "RTBF Musiq3",
+   "url": "https://www.rtbf.be/musiq3/",
+   "stream": "https://radios.rtbf.be/musiq3-128.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 818,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-70-s",
+   "name": "RTBF Classic 21 - 70's",
+   "url": "http://www.rtbf.be/radio/liveradio/webradio-classic21-70",
+   "stream": "https://radios.rtbf.be/wr-c21-70-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "70s"
+   ],
+   "votes": 773,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-21-80-s-new-wave",
+   "name": "Classic 21 80's New Wave",
+   "url": "https://www.rtbf.be/classic21",
+   "stream": "https://radio.rtbf.be/c21-80nw/mp3-128/me",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 719,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-tarmac",
+   "name": "RTBF Tarmac",
+   "url": "http://www.rtbfradioplayer.be/radio/liveradio/tarmac",
+   "stream": "https://radios.rtbf.be/tarmac-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "rap"
+   ],
+   "votes": 646,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-metal",
+   "name": "RTBF Classic 21 - Metal",
+   "url": "http://www.rtbf.be/radio/liveradio/webradio-classic21-metal",
+   "stream": "https://radios.rtbf.be/wr-c21-metal-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 630,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-panik",
+   "name": "Radio Panik",
+   "url": "https://www.radiopanik.org/",
+   "stream": "https://streaming.domainepublic.net/radiopanik.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Brussels",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 605,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe",
+   "name": "JOE",
+   "url": "https://joe.be/",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 561,
+   "clicks": 49,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-90-s",
+   "name": "RTBF Classic 21 - 90's",
+   "url": "http://www.rtbf.be/radio/liveradio/webradio-classic21-90",
+   "stream": "https://radios.rtbf.be/wr-c21-90-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 489,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-reggae",
+   "name": "RTBF Classic 21 - Reggae",
+   "url": "http://www.rtbf.be/radio/liveradio/wr-eventradio",
+   "stream": "https://radios.rtbf.be/wr-eventradio-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "reggae"
+   ],
+   "votes": 438,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgie-extra-what-a-feeling",
+   "name": "Nostalgie Extra (What a Feeling)",
+   "url": "https://nl.nostalgie.be/radio-player/nostalgie-classics-top-2021",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "easy-listening",
+    "pop"
+   ],
+   "votes": 432,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "willy-class-x",
+   "name": "Willy Class X",
+   "url": "https://www.willy.radio/",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
+   "codec": "aac",
+   "bitrate": 95,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "rock"
+   ],
+   "votes": 405,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiosk-radio",
+   "name": "Kiosk Radio",
+   "url": "https://kioskradio.com/",
+   "stream": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Brussels",
+   "genre": [
+    "music"
+   ],
+   "votes": 356,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "willy",
+   "name": "Willy",
+   "url": "https://www.willy.radio/",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 297,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "instrumentals-forever-aac-64-kbit",
+   "name": "Instrumentals Forever [AAC 64 kbit]",
+   "url": "https://instrumentalsforever.eu/",
+   "stream": "https://quincy.torontocast.com:1925/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "easy-listening",
+    "instrumental"
+   ],
+   "votes": 203,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-viva",
+   "name": "RTBF Viva+",
+   "url": "https://www.rtbf.be/vivaplus",
+   "stream": "https://radios.rtbf.be/vivaplus-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Wallonia",
+   "genre": [
+    "60s",
+    "70s",
+    "oldies"
+   ],
+   "votes": 198,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-soul-power",
+   "name": "RTBF Classic 21 - Soul Power",
+   "url": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-classic21-soul",
+   "stream": "https://radios.rtbf.be/wr-c21-soul-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "soul"
+   ],
+   "votes": 178,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "topradio-topretroarena",
+   "name": "Topradio TopRetroArena",
+   "url": "https://www.topradio.be/player/topretroarena",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "90s",
+    "dance",
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 172,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgie-belgique",
+   "name": "Nostalgie Belgique",
+   "url": "https://www.nostalgie.be/",
+   "stream": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 146,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-21-80-s-hits",
+   "name": "Classic 21 80’s Hits",
+   "url": "https://www.rtbf.be/classic21",
+   "stream": "https://radio.rtbf.be/c21-80s/mp3-128/me",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "80s",
+    "pop",
+    "rock"
+   ],
+   "votes": 136,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-all-the-way",
+   "name": "Joe - All the way",
+   "url": "https://www.joe.be/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "pop"
+   ],
+   "votes": 123,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-jam",
+   "name": "RTBF Jam.",
+   "url": "https://www.rtbf.be/jam",
+   "stream": "https://radios.rtbf.be/jam-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Wallonia",
+   "genre": [
+    "alternative",
+    "folk",
+    "pop",
+    "rock"
+   ],
+   "votes": 122,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-campus-bxl-92-1-ogg-hq",
+   "name": "Radio Campus BXL 92.1 [Ogg HQ]",
+   "url": "https://www.radiocampus.be/",
+   "stream": "https://www.radiocampus.be/stream/stream_hi.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "folk",
+    "hip-hop",
+    "indie",
+    "jazz",
+    "rock"
+   ],
+   "votes": 105,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrj-belgique",
+   "name": "NRJ Belgique",
+   "url": "https://www.nrj.be/",
+   "stream": "https://stream.rcs.revma.com/xh00fwuptg0uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 87,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zoe-radio",
+   "name": "ZOE.radio",
+   "url": "https://www.zoe.radio/",
+   "stream": "https://icecast.movemedia.be/zoe128",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "flemish"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 63,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-q-allstars",
+   "name": "Qmusic Q-Allstars",
+   "url": "https://qmusic.be/",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "flemish"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 59,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgie-new-wave",
+   "name": "Nostalgie New Wave",
+   "url": "https://www.nostalgie.be/radioplayer/newwave",
+   "stream": "https://n03.rcs.revma.com/52g2hx43ehuvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "flemish",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 50,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "contact-max",
+   "name": "Contact MAX",
+   "url": "http://contactmax.be/",
+   "stream": "https://contactmax.ice.infomaniak.ch/contactmax-192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 40,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-campus-bxl-92-1-aac",
+   "name": "Radio Campus BXL 92.1 [AAC+]",
+   "url": "https://www.radiocampus.be/",
+   "stream": "https://www.radiocampus.be/stream/stream.aacplus",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "folk",
+    "hip-hop",
+    "indie",
+    "jazz",
+    "rock"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tradcan",
+   "name": "TradCan",
+   "url": "http://www.canardfolk.be/tradcan/",
+   "stream": "https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vlaamse-wonderjaren",
+   "name": "Vlaamse Wonderjaren",
+   "url": "https://vlaamsewonderjaren.be/",
+   "stream": "https://cast1.torontocast.com:3305/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-cible",
+   "name": "La Cible",
+   "url": "http://www.lacibleradio.net/",
+   "stream": "https://quincy.torontocast.com:3195/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "music",
+    "oldies",
+    "pop"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pros",
+   "name": "PROS",
+   "url": "https://radiopros.be/",
+   "stream": "https://stream4.audiostreamen.nl/radiopros",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-gold",
+   "name": "Joe Gold",
+   "url": "https://www.joe.be/",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova",
+   "name": "Radio Nova",
+   "url": "https://www.radionova.be/",
+   "stream": "https://nova.dzradio.nl/nova",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Oost-Vlaanderen",
+   "genre": [
+    "oldies",
+    "schlager"
+   ],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgie-plus",
+   "name": "Nostalgie Plus",
+   "url": "https://nostalgieplus.eu/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "60s",
+    "70s",
+    "80s"
+   ],
+   "votes": 16,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "grandprix-radio-be",
+   "name": "Grandprix Radio - BE",
+   "url": "https://grandprixradio.be/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-4910",
+   "name": "Radio 4910",
+   "url": "https://radio4910.be/",
+   "stream": "https://radio7.pro-fhi.net:19073/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-oost-west",
+   "name": "Radio Oost-West",
+   "url": "https://www.radiooostwest.be/",
+   "stream": "https://icecast.movemedia.be/oostwest",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ck-radio",
+   "name": "CK Radio",
+   "url": "http://www.ck-radio.com/",
+   "stream": "https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "techno"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ck-bleu",
+   "name": "CK Bleu",
+   "url": "https://www.ck-radio.com/",
+   "stream": "https://mixmyday.ice.infomaniak.ch/ckbleu.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "popular"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ck-deejay",
+   "name": "CK Deejay",
+   "url": "https://www.ckradio.be/",
+   "stream": "https://radio-pub.be/CKDJ/ckdjmix.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "disco"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiospinner-atmospheric-breaks",
+   "name": "RadioSpinner - Atmospheric Breaks",
+   "url": "https://radiospinner.com/stations/atmospheric-breaks-102756/",
+   "stream": "https://tower.hayva.ru/5jwuo-96",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-maximum-hits",
+   "name": "Qmusic Maximum Hits",
+   "url": "https://qmusic.be/",
+   "stream": "https://audio-streaming.qmusic.be/q-maximum-hits.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-continu-the-original",
+   "name": "Radio Continu - the original",
+   "url": "https://radiocontinu.com/",
+   "stream": "https://streams.dutchmediacenter.nl/listen/radiocontinu/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Antwerpen",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "studio-brussel-de-jaren-nul",
+   "name": "Studio Brussel De Jaren Nul",
+   "url": "https://www.vrt.be/vrtmax/livestream/audio/studio-brussel-de-jaren-nul/",
+   "stream": "https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "2000s",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bnl",
+   "name": "BNL",
+   "url": "https://bnlradio.be/",
+   "stream": "https://stream.bnlradio.be/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Limburg",
+   "genre": [
+    "alternative",
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-victoria",
+   "name": "Radio Victoria",
+   "url": "https://www.radiovictoria.be/",
+   "stream": "https://streamer1.radiovictoria.be/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Vlaanderen",
+   "genre": [
+    "80s",
+    "90s",
+    "pop-music"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-2",
+   "name": "Top 2",
+   "url": "https://www.topradio.be/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "de-geluidsfabriek",
+   "name": "De Geluidsfabriek",
+   "url": "https://www.degeluidsfabriek.com/",
+   "stream": "https://s5.radio.co/s4674a3b1c/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Vlaanderen",
+   "genre": [
+    "blues",
+    "classic-rock",
+    "jazz",
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic",
+   "name": "Qmusic",
+   "url": "https://qmusic.be/",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ninove",
+   "name": "Radio Ninove",
+   "url": "https://www.radioninove.be/",
+   "stream": "https://radioninove.streamer.radioninove.be/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Oost-Vlaanderen",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tomorrowland-one-world-radio-anthems",
+   "name": "Tomorrowland One World Radio - Anthems",
+   "url": "https://www.tomorrowland.com/home/radio",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-foute-radio",
+   "name": "Qmusic Foute Radio",
+   "url": "https://qmusic.be/",
+   "stream": "https://audio-streaming.qmusic.be/q-foute-radio.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ninove-non-stop-hits",
+   "name": "Radio Ninove Non-Stop Hits",
+   "url": "https://www.radioninove.be/",
+   "stream": "https://nonstophits.streamer.radioninove.be/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vintage-plus",
+   "name": "Radio Vintage Plus",
+   "url": "https://www.rvplus.be/",
+   "stream": "https://radio2.pro-fhi.net/radio/9039/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-la-premiere",
+   "name": "RTBF La Première",
+   "url": "https://www.rtbf.be/lapremiere/",
+   "stream": "https://radios.rtbf.be/laprem1ere-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 7149,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tomorrowland-one-world-radio",
+   "name": "Tomorrowland One World Radio",
+   "url": "https://www.tomorrowland.com/home/radio",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 2991,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fun-radio",
+   "name": "Fun Radio",
+   "url": "http://funradio.be/",
+   "stream": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Forest",
+   "genre": [],
+   "votes": 2875,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-radio-retro",
+   "name": "top radio retro",
+   "url": "https://www.topradio.be/",
+   "stream": "https://str.topradio.be/topradioretroarena.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1503,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-vivacite-bruxelles",
+   "name": "RTBF VivaCité Bruxelles",
+   "url": "https://www.rtbf.be/vivacite/",
+   "stream": "https://radios.rtbf.be/vivabxl-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 1440,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qmusic-belgium",
+   "name": "Qmusic Belgium",
+   "url": "https://qmusic.be/",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
+   "codec": "aac",
+   "bitrate": 95,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 1001,
+   "clicks": 52,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tommorowland-one-world-radio-daybreak-sessions",
+   "name": "Tommorowland One World Radio - Daybreak Sessions",
+   "url": "https://www.tomorrowland.com/home/radio",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 707,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mint",
+   "name": "Mint",
+   "url": "https://mint.be/player/",
+   "stream": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3",
+   "codec": "aac",
+   "bitrate": 144,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 627,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-pure-fm",
+   "name": "RTBF Pure FM",
+   "url": "http://www.rtbf.be/purefm/",
+   "stream": "https://radios.rtbf.be/pure-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 594,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-vivacite-liege",
+   "name": "RTBF VivaCité Liège",
+   "url": "https://www.rtbf.be/vivacite/",
+   "stream": "https://radios.rtbf.be/vivaliege-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 518,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-funky-channel",
+   "name": "The Funky Channel",
+   "url": "https://thefunkychannel.com/",
+   "stream": "https://cast3.asurahosting.com/proxy/breakou1/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 506,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musiq3-baroque",
+   "name": "Musiq3 Baroque",
+   "url": "https://www.rtbf.be/radio/liveradio/musiq3-baroque",
+   "stream": "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 476,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "q-foute-radio",
+   "name": "Q-Foute Radio",
+   "url": "https://qmusic.be/kanalen/q-foute-radio",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 414,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-vivacite-hainaut",
+   "name": "RTBF VivaCité Hainaut",
+   "url": "https://www.rtbf.be/vivacite/",
+   "stream": "https://radios.rtbf.be/vivahainaut-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 382,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "depechemode-be",
+   "name": "depechemode.be",
+   "url": "https://www.depechemode.be/webradio",
+   "stream": "https://c2.radioboss.fm:8494/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 377,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-vivacite-luxembourg",
+   "name": "RTBF VivaCité Luxembourg",
+   "url": "https://www.rtbf.be/vivacite/",
+   "stream": "https://radios.rtbf.be/vivalux-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 321,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-21-blues",
+   "name": "Classic 21 Blues",
+   "url": "http://www.rtbfradioplayer.be/",
+   "stream": "https://radios.rtbf.be/wr-c21-blues-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 315,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-vivacite-namur-brabant-wallon",
+   "name": "RTBF VivaCité Namur & Brabant Wallon",
+   "url": "https://www.rtbf.be/vivacite/",
+   "stream": "https://radios.rtbf.be/vivanamurbw-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 304,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brf2-radio",
+   "name": "BRF2 Radio",
+   "url": "https://2.brf.be/",
+   "stream": "https://streaming.brf.be/brf2-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dutch",
+    "flemish",
+    "french",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "fr",
+    "nl"
+   ],
+   "genre": [],
+   "votes": 296,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yolo-life-is-like-a-dance",
+   "name": "YOLO - Life is like a dance",
+   "url": "https://www.yoloradio.be/",
+   "stream": "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Limburg",
+   "genre": [],
+   "votes": 233,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-retro",
+   "name": "100% Retro",
+   "url": "https://www.starradio.online/",
+   "stream": "https://server.musicstars.online/radio/8000/listen",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 201,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-vivacite-charleroi",
+   "name": "RTBF VivaCité Charleroi",
+   "url": "https://www.rtbf.be/vivacite/",
+   "stream": "https://radios.rtbf.be/vivacharleroi-64.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 198,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rgr-classic-hits",
+   "name": "RGR Classic Hits",
+   "url": "https://www.rgrfm.be/rgr-classic-hits",
+   "stream": "https://stream1.rgrfm.be/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 166,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-easy",
+   "name": "joe easy",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 157,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brf1-radio",
+   "name": "BRF1 Radio",
+   "url": "https://1.brf.be/",
+   "stream": "https://streaming.brf.be/brf1-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dutch",
+    "flemish",
+    "french",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "fr",
+    "nl"
+   ],
+   "genre": [],
+   "votes": 146,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "topradio-topbam",
+   "name": "Topradio TopBam",
+   "url": "https://www.topradio.be/player/topbam",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 115,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rbl",
+   "name": "RBL",
+   "url": "https://www.static.rtbf.be/radio/lapremiere/m3u/lapremiere-mp3.m3u",
+   "stream": "https://radios.rtbf.be/laprem1ere-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "scorpio",
+   "name": "scorpio",
+   "url": "http://radioscorpio.be/",
+   "stream": "https://stream.radioscorpio.be/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 92,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "impact-fm",
+   "name": "Impact FM",
+   "url": "http://www.impact-fm.be/fr/impact.htm",
+   "stream": "https://impactfm.ice.infomaniak.ch/impactfm-64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtbf-classic-21-underground",
+   "name": "RTBF Classic 21 - Underground",
+   "url": "https://www.rtbf.be/radio/liveradio/webradio-classic21-underground",
+   "stream": "https://radios.rtbf.be/wr-c21-underground-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 85,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bruzz",
+   "name": "Bruzz",
+   "url": "https://www.bruzz.be/",
+   "stream": "https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 83,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pink",
+   "name": "PINK",
+   "url": "http://www.pinkradio.be/",
+   "stream": "https://www.clubfmserver.be/pink.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "West-Vlaanderen",
+   "genre": [],
+   "votes": 73,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-oldies-radio-bor",
+   "name": "BEST OLDIES RADIO (BOR)",
+   "url": "https://www.bestoldiesstation.com/",
+   "stream": "https://a8.asurahosting.com:8090/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Oost Vlaanderen",
+   "genre": [],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zen-garden-mynoise-radio",
+   "name": "Zen Garden (myNoise Radio)",
+   "url": "https://mynoise.net/",
+   "stream": "https://zengarden-mynoise.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bonheur-be",
+   "name": "Radio Bonheur (BE)",
+   "url": "https://www.radiobonheur.be/",
+   "stream": "https://france1.coollabel-productions.com/proxy/radiobonheur317/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-emotion-belgique",
+   "name": "Radio Emotion Belgique",
+   "url": "https://www.radioemotion.be/",
+   "stream": "https://stream1.dgnet.be/1",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "willy-classix",
+   "name": "Willy Classix",
+   "url": "https://www.willy.radio/",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "toptechno",
+   "name": "Toptechno",
+   "url": "https://topradio.be/player/toptechno",
+   "stream": "https://27913.live.streamtheworld.com/TOPSPINNING.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 40,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cherie-belgique",
+   "name": "Chérie Belgique",
+   "url": "https://www.cheriebelgique.be/",
+   "stream": "https://stream.rcs.revma.com/r3cprzsqtg0uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 38,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-top-2000",
+   "name": "Joe - Top 2000",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 37,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joe-lage-landen",
+   "name": "Joe Lage Landen",
+   "url": "https://joe.be/luister/joe_lage_landen",
+   "stream": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixx-fm-charleroi",
+   "name": "Mixx FM Charleroi",
+   "url": "https://mixxfm.be/",
+   "stream": "https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-valencia-105-fm-meer-be",
+   "name": "Radio Valencia 105 FM - Meer, Be",
+   "url": "https://www.radiovalencia.be/",
+   "stream": "https://stream.radiovalencia.be/",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "villa-bota",
+   "name": "Villa Bota",
+   "url": "https://villabota.be/",
+   "stream": "https://caster04.streampakket.com/proxy/8186/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "West-Vlaanderen",
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-700",
+   "name": "Radio 700",
+   "url": "https://radio700.eu/",
+   "stream": "https://stream.radio700.eu/radio700-live/mp3-192?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "België",
+   "genre": [],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-apollo",
+   "name": "Radio Apollo",
+   "url": "https://www.radioapollo.be/",
+   "stream": "https://radioapollo.beheerstream.nl/8004/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "versuz",
+   "name": "Versuz",
+   "url": "https://www.versuzradio.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "accent-radio",
+   "name": "Accent Radio",
+   "url": "https://www.radioaccent.be/",
+   "stream": "https://www.clubfmserver.be/accent.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Oost-Vlaanderen",
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "phare-fm-belgique",
+   "name": "PHARE FM Belgique",
+   "url": "https://pharefm.com/",
+   "stream": "https://str0.creacast.com/pharefm_mons",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-air-libre",
+   "name": "Radio Air Libre",
+   "url": "https://radioairlibre.net/",
+   "stream": "https://streaming.domainepublic.net/radioairlibre.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "state": "Brussels",
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xbeat",
+   "name": "XBeat",
+   "url": "https://www.xbeat.org/",
+   "stream": "https://radio.xbeat.org/stream1",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musiq3-jazz-rtbf",
+   "name": "Musiq3 Jazz RTBF",
+   "url": "https://www.rtbf.be/radio/liveradio/webradio-musiq3-jazz",
+   "stream": "https://radios.rtbf.be/wr-m3-jazz-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 22,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ck-radio-belgique",
+   "name": "CK RADIO Belgique",
+   "url": "https://www.ck-radio.com/",
+   "stream": "https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ketnet-hits",
+   "name": "Ketnet Hits",
+   "url": "https://www.vrt.be/vrtmax/livestream/audio/ketnethits/",
+   "stream": "https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onib-dj-radio",
+   "name": "ONIB Dj RADIO",
+   "url": "https://onibradio.com/#",
+   "stream": "https://listen.radioking.com/radio/583019/stream/643364?ver=699277",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c-dance-retro",
+   "name": "c-dance retro",
+   "url": "https://s45.myradiostream.com/:18304/;",
+   "stream": "https://s45.myradiostream.com/:18304/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "belge"
+   ],
+   "genre": [],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oilsjt-mjoezik",
+   "name": "Oilsjt Mjoezik",
+   "url": "https://www.oilsjtmjoezik.be/",
+   "stream": "https://stream.oilsjtmjoezik.be/?1739170252723",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Oost-Vlaanderen",
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gold-fm",
+   "name": "GOLD FM",
+   "url": "https://goldfm.be/#!",
+   "stream": "https://onair.goldfm.be:8000/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-chevaucoir",
+   "name": "Radio Chevaucoir",
+   "url": "https://www.radiochevauchoir.be/",
+   "stream": "https://radio10.pro-fhi.net/flux-nqjpklks/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vrt-verkeer",
+   "name": "VRT Verkeer",
+   "url": "https://www.vrt.be/",
+   "stream": "https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-goud-tenerife",
+   "name": "FM Goud Tenerife",
+   "url": "https://www.fmgoud.be/",
+   "stream": "https://stream.fmgoud.be/fm-goud-tenerife",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "instrumentals-forever",
+   "name": "Instrumentals Forever",
+   "url": "https://instrumentalsforever.eu/",
+   "stream": "https://c30.radioboss.fm/stream/1031",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lorali",
+   "name": "Radio Lorali",
+   "url": "https://lorali.be/",
+   "stream": "https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls",
+   "codec": "unknown",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-parkies-meise-be",
+   "name": "Radio Parkies - Meise, be",
+   "url": "https://www.radioparkies.com/",
+   "stream": "https://stream.radioparkies.com/listen/parkies/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Brussels",
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-opsinjoor",
+   "name": "Radio Opsinjoor",
+   "url": "https://www.opsinjoor.be/",
+   "stream": "https://icecast.movemedia.be/opsinjoor",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ajoin-music",
+   "name": "Ajoin Music",
+   "url": "https://www.ajoinmusic.be/",
+   "stream": "https://play.ajoinmusic.be/ajoinmusic.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "oilsjters"
+   ],
+   "state": "Oost-Vlaanderen",
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fiesta-radio",
+   "name": "Fiësta Radio",
+   "url": "https://www.fiestaradio.be/",
+   "stream": "https://media1.hostin.cc/fiestaradio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-memory",
+   "name": "Radio Memory",
+   "url": "https://www.radiomemory.be/index.html",
+   "stream": "https://live.radiostudio.be/radiomemory",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-gar",
+   "name": "Radyo Gar",
+   "url": "https://radyogar.com/",
+   "stream": "https://gargara.net/listen/zana/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Brussels",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "grand-prix-radio",
+   "name": "Grand Prix Radio",
+   "url": "https://grandprixradio.be/",
+   "stream": "https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "q-allstars",
+   "name": "Q-Allstars",
+   "url": "https://qmusic.be/",
+   "stream": "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "goeiedag-radio",
+   "name": "Goeiedag Radio",
+   "url": "https://www.goeiedagradio.be/",
+   "stream": "https://stream.goeiedagradio.be/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onib-disco",
+   "name": "ONIB Disco",
+   "url": "https://onibradio.com/#",
+   "stream": "https://play.radioking.io/onib-disco/698749?ver=487018",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "buzz-radio",
+   "name": "BUZZ RADIO",
+   "url": "https://www.buzzradio.be/",
+   "stream": "https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3?ua=Buzz%20Radio%20-%20audio%20player%201",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onib-radio",
+   "name": "ONIB Radio",
+   "url": "https://onibradio.com/",
+   "stream": "https://www.radioking.com/play/galaxieradio-belgium-1/356660",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-goud-limburg",
+   "name": "FM Goud Limburg",
+   "url": "https://www.fmgoud.be/",
+   "stream": "https://stream.fmgoud.be/fm-goud-noord-limburg",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mooyzo-mp3",
+   "name": "MOOYZO (MP3)",
+   "url": "https://mooyzo.be/",
+   "stream": "https://play.mooyzo.be/mooyzo.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "opsinjoor-volksradio",
+   "name": "Opsinjoor Volksradio",
+   "url": "https://www.opsinjoor.be/volksradio",
+   "stream": "https://media2.hostin.cc/volksradio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "state": "Flanders",
+   "genre": [],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yujen-briag",
+   "name": "Yujen Briag",
+   "url": "https://yujenbriag.be/",
+   "stream": "https://play.radioking.io/iujenbriagburgas/524027",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "afrikana-radio-live-african",
+   "name": "Afrikana Radio – Live African",
+   "url": "https://www.afrikanabestsounds.com/",
+   "stream": "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "lingala",
+    "swahili",
+    "twi"
+   ],
+   "langCodes": [
+    "en",
+    "ln",
+    "sw",
+    "tw"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-i-f",
+   "name": "K I F",
+   "url": "https://kif.be/#",
+   "stream": "https://broadcast.sksgroup.com/kif_aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paradise",
+   "name": "Radio Paradise",
+   "url": "https://www.radioparadise.eu/",
+   "stream": "https://phoebe.streamerr.co:3445/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rbs-gold-radio",
+   "name": "RBS gold radio",
+   "url": "https://www.rbsradio.be/radiochannel/rbs-gold/",
+   "stream": "https://caster04.streampakket.com/proxy/8090/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "candie",
+   "name": "Candie",
+   "url": "https://candie.eu/",
+   "stream": "https://clubfmserver.be/pink.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-goud-maasland",
+   "name": "FM Goud Maasland",
+   "url": "https://www.fmgoud.be/",
+   "stream": "https://stream.fmgoud.be/fm-goud-maasland",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

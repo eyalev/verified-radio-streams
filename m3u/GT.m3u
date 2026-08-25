@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="Guatemala" tvg-genre="latin-pop",Stereo 100, Quetzaltenango
+https://sh1.radioonlinehd.com:8056/stream?type=.mp3
+#EXTINF:-1 group-title="Guatemala" tvg-genre="merengue,music,reggaeton,salsa",Caribean FM 105.1
+https://sh4.radioonlinehd.com:8547/stream
+#EXTINF:-1 group-title="Guatemala" tvg-genre="gospel",Hacker por Cristo Network
+https://radio.forensedigital.gt:8010/stream
+#EXTINF:-1 group-title="Guatemala" tvg-genre="techno",Observatorio OGDI Guatemala
+https://radio.forensedigital.gt:8000/stream
+#EXTINF:-1 group-title="Guatemala" tvg-genre="musica,reggaeton",Azúcar FM 99.9
+https://radiostreamingaac.com:8570/azucarjutiapa
+#EXTINF:-1 group-title="Guatemala" tvg-genre="gospel",Estéreo Santa Sion
+https://radio015.gt.gt/radio/8000/live.mp3
+#EXTINF:-1 group-title="Guatemala" tvg-genre="hits,reggaeton",Estéreo Solar 98.3 FM
+https://radiostreamingaac.com:8562/solarjutiapa
+#EXTINF:-1 group-title="Guatemala",Radio Infinita
+https://streams.radio.co/see730c7ab/listen
+#EXTINF:-1 group-title="Guatemala",EMAUS RADIO
+https://sh2.radioonlinehd.com:8141/;
+#EXTINF:-1 group-title="Guatemala",Radio Cultural TGN
+https://stream.infinityhdstream.com/7054/stream
+#EXTINF:-1 group-title="Guatemala",Rhema Stereo
+https://radio.fiberstreams.com:2000/stream/8710
+#EXTINF:-1 group-title="Guatemala",Radio Guate digital
+https://radioguatedigital.com/live/
+#EXTINF:-1 group-title="Guatemala",Gaiteros de Guatemala
+https://radio.forensedigital.gt:8030/stream
+#EXTINF:-1 group-title="Guatemala",Radio Activa 95.1 FM. En linea católica
+https://sh4.radioonlinehd.com:8557/stream
+#EXTINF:-1 group-title="Guatemala",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

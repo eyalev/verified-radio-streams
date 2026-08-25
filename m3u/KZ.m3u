@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="90s",Radio 90s Eurodance
+https://listen1.myradio24.com/5967
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="electronic",Russian Dance Radio
+https://lux-radio.com:8015/stream
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="folk",Qazaq radiosy
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="pop",Radio Nostalgie (Kazakhstan)
+https://listen7.myradio24.com/alexx333
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="pop",Радио SANA
+https://listen4.myradio24.com/radiosana
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="hits",Pioner FM
+https://live.zhanafm.kz:8443/pionerfm
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="dance",ВАШЕ РАДИО
+https://live.zhanafm.kz:8443/vasheradio
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="pop",Radio Azamat
+https://listen4.myradio24.com/8162
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="pop",Жаңа MIX
+https://live.zhanafm.kz:8443/zhanamix
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="classic-rock,pop-rock,rock",Жаңа Rock
+https://live.zhanafm.kz:8443/zhanarock
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="relax",Radio TMK
+https://a4.radioheart.ru:9036/RH13170
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="pop",((beu))
+https://stream.beufm.kz/beufm
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="lounge",Жаңа Lounge
+https://live.zhanafm.kz:8443/zhanalounge
+#EXTINF:-1 group-title="Kazakhstan" tvg-genre="chillout,downtempo,lounge",Palmera Blanca radio - Daystream
+https://daystream.palmerablanca.com/daystream-128.mp3
+#EXTINF:-1 group-title="Kazakhstan",Shalqar
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+#EXTINF:-1 group-title="Kazakhstan",ЖАНА FM
+https://live.zhanafm.kz:8443/zhanafm_onair
+#EXTINF:-1 group-title="Kazakhstan",NS-Rock
+https://icecast.ns.kz/radions
+#EXTINF:-1 group-title="Kazakhstan",Радио Талап
+https://okeyradio.ru/okey
+#EXTINF:-1 group-title="Kazakhstan",Radio Bulbul
+https://radiobulbul.stream.laut.fm/radiobulbul
+#EXTINF:-1 group-title="Kazakhstan",Радио Рауан
+https://listen4.myradio24.com/rauan
+#EXTINF:-1 group-title="Kazakhstan",Радио Classic
+https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+#EXTINF:-1 group-title="Kazakhstan",The Holy Quran by Sheikh Mahmoud Al-Husari
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1 group-title="Kazakhstan",Радио NS Павлодар
+https://service.ns.kz/bc/live
+#EXTINF:-1 group-title="Kazakhstan",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Kazakhstan",SVETILO.ONLINE - духовно - осознанное
+https://streams.svetilo.online/listen/svetilo.online/radio.mp3
+#EXTINF:-1 group-title="Kazakhstan",Радио 7 Семей
+https://listen2.myradio24.com/8334
+#EXTINF:-1 group-title="Kazakhstan",Darhan Radio
+https://stream.darhanradio.com/live

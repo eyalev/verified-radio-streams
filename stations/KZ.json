@@ -1,0 +1,558 @@
+{
+ "countryCode": "KZ",
+ "country": "Kazakhstan",
+ "slug": "kazakhstan",
+ "continent": "asia",
+ "stationCount": 27,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/kazakhstan/",
+ "stations": [
+  {
+   "id": "radio-90s-eurodance",
+   "name": "Radio 90s Eurodance",
+   "url": "http://90s-eurodance.ru/",
+   "stream": "https://listen1.myradio24.com/5967",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Semey",
+   "genre": [
+    "90s"
+   ],
+   "votes": 12537,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "russian-dance-radio",
+   "name": "Russian Dance Radio",
+   "url": "",
+   "stream": "https://lux-radio.com:8015/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 4096,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qazaq-radiosy",
+   "name": "Qazaq radiosy",
+   "url": "https://qazradio.fm/kz/",
+   "stream": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "kazakh"
+   ],
+   "langCodes": [
+    "kk"
+   ],
+   "state": "Almaty",
+   "genre": [
+    "folk"
+   ],
+   "votes": 1823,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nostalgie-kazakhstan",
+   "name": "Radio Nostalgie (Kazakhstan)",
+   "url": "http://www.resurs.kz/catalog/radionostalgie",
+   "stream": "https://listen7.myradio24.com/alexx333",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 603,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sana",
+   "name": "Радио SANA",
+   "url": "http://hordelo.kz/radio",
+   "stream": "https://listen4.myradio24.com/radiosana",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 328,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "pioner-fm",
+   "name": "Pioner FM",
+   "url": "http://zhanafm.kz/",
+   "stream": "https://live.zhanafm.kz:8443/pionerfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "kk",
+    "ru"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 320,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vashe",
+   "name": "ВАШЕ РАДИО",
+   "url": "https://vashe.kz/",
+   "stream": "https://live.zhanafm.kz:8443/vasheradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "kk",
+    "ru"
+   ],
+   "state": "Karaganda",
+   "genre": [
+    "dance"
+   ],
+   "votes": 317,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-azamat",
+   "name": "Radio Azamat",
+   "url": "https://myradio24.com/8162",
+   "stream": "https://listen4.myradio24.com/8162",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "kk",
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 283,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mix",
+   "name": "Жаңа MIX",
+   "url": "https://zhanafm.kz/",
+   "stream": "https://live.zhanafm.kz:8443/zhanamix",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "kk",
+    "ru"
+   ],
+   "state": "Karaganda",
+   "genre": [
+    "pop"
+   ],
+   "votes": 240,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock",
+   "name": "Жаңа Rock",
+   "url": "https://zhanafm.kz/",
+   "stream": "https://live.zhanafm.kz:8443/zhanarock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "kk",
+    "ru"
+   ],
+   "state": "Karaganda",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 96,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tmk",
+   "name": "Radio TMK",
+   "url": "https://radiotmk.ru/",
+   "stream": "https://a4.radioheart.ru:9036/RH13170",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "tatar"
+   ],
+   "langCodes": [
+    "tt"
+   ],
+   "genre": [
+    "relax"
+   ],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beu",
+   "name": "((beu))",
+   "url": "https://beufm.kz/",
+   "stream": "https://stream.beufm.kz/beufm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "kk",
+    "ru"
+   ],
+   "state": "Almaty",
+   "genre": [
+    "pop"
+   ],
+   "votes": 83,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lounge",
+   "name": "Жаңа Lounge",
+   "url": "https://zhanafm.kz/",
+   "stream": "https://live.zhanafm.kz:8443/zhanalounge",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "kk",
+    "ru"
+   ],
+   "state": "Karaganda",
+   "genre": [
+    "lounge"
+   ],
+   "votes": 76,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "palmera-blanca-radio-daystream",
+   "name": "Palmera Blanca radio - Daystream",
+   "url": "https://palmerablanca.com/",
+   "stream": "https://daystream.palmerablanca.com/daystream-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Almaty",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "lounge"
+   ],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "shalqar",
+   "name": "Shalqar",
+   "url": "https://qazradio.fm/",
+   "stream": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kazakh"
+   ],
+   "langCodes": [
+    "kk"
+   ],
+   "genre": [],
+   "votes": 1538,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm",
+   "name": "ЖАНА FM",
+   "url": "https://zhanafm.kz/",
+   "stream": "https://live.zhanafm.kz:8443/zhanafm_onair",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "kk",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 565,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ns-rock",
+   "name": "NS-Rock",
+   "url": "http://www.ns.kz/",
+   "stream": "https://icecast.ns.kz/radions",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "kk",
+    "ru"
+   ],
+   "state": "Almaty",
+   "genre": [],
+   "votes": 561,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "talap",
+   "name": "Радио Талап",
+   "url": "https://talap.com/",
+   "stream": "https://okeyradio.ru/okey",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "kazakh",
+    "russian"
+   ],
+   "langCodes": [
+    "kk",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 368,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bulbul",
+   "name": "Radio Bulbul",
+   "url": "https://www.facebook.com/radiobulbul/",
+   "stream": "https://radiobulbul.stream.laut.fm/radiobulbul",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kazakh"
+   ],
+   "langCodes": [
+    "kk"
+   ],
+   "genre": [],
+   "votes": 245,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hordelo",
+   "name": "Радио Рауан",
+   "url": "http://hordelo.kz/radiorauan/",
+   "stream": "https://listen4.myradio24.com/rauan",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 195,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "classic",
+   "name": "Радио Classic",
+   "url": "https://qazradio.fm/kz/",
+   "stream": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kazakh"
+   ],
+   "langCodes": [
+    "kk"
+   ],
+   "genre": [],
+   "votes": 180,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "the-holy-quran-by-sheikh-mahmoud-al-husari",
+   "name": "The Holy Quran by Sheikh Mahmoud Al-Husari",
+   "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "stream": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 132,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ns",
+   "name": "Радио NS Павлодар",
+   "url": "https://www.ns.kz/",
+   "stream": "https://service.ns.kz/bc/live",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Pawlodar",
+   "genre": [],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "svetilo-online",
+   "name": "SVETILO.ONLINE - духовно - осознанное",
+   "url": "https://svetilo.online/",
+   "stream": "https://streams.svetilo.online/listen/svetilo.online/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "7",
+   "name": "Радио 7 Семей",
+   "url": "https://radio7.kz/",
+   "stream": "https://listen2.myradio24.com/8334",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Semey",
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "darhan-radio",
+   "name": "Darhan Radio",
+   "url": "https://darhanradio.com/",
+   "stream": "https://stream.darhanradio.com/live",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Almaty",
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

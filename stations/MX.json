@@ -1,0 +1,3625 @@
+{
+ "countryCode": "MX",
+ "country": "Mexico",
+ "slug": "mexico",
+ "continent": "americas",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/mexico/",
+ "stations": [
+  {
+   "id": "cafe-romantico-radio-monterrey-online-www-cafero",
+   "name": "Café Romántico Radio (Monterrey) - Online - www.caferomanticoradio.com - Grupo D",
+   "url": "https://caferomanticoradio.com/",
+   "stream": "https://panel.retrolandigital.com/radio/8110/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 14521,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cumbias-inmortales-radio-monterrey-online-www-cu",
+   "name": "Cumbias Inmortales Radio (Monterrey) - Online - www.cumbiasinmortales.com - Grup",
+   "url": "http://www.cumbiasinmortales.com/",
+   "stream": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 12756,
+   "clicks": 30,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sabrosita-ciudad-de-mexico-590-am-xeph-am-nrm-co",
+   "name": "SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de M",
+   "url": "https://www.sabrosita590am.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "salsa"
+   ],
+   "votes": 10893,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-ciudad-de-mexico-95-3-fm-xhsh-fm-grupo-acir",
+   "name": "Amor Ciudad de México - 95.3 FM - XHSH-FM - Grupo ACIR - Ciudad de México",
+   "url": "https://www.iheart.com/live/amor-953-cdmx-6532/",
+   "stream": "https://16613.live.streamtheworld.com:443/XHSHFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 9676,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-ciudad-de-mexico-106-5-fm-xhdfm-fm-grupo-aci",
+   "name": "MIX Ciudad de México - 106.5 FM - XHDFM-FM - Grupo ACIR - Ciudad de México",
+   "url": "https://www.iheart.com/live/1065-mix-6533/",
+   "stream": "https://29325.live.streamtheworld.com:443/XHDFMFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 7417,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "el-fonografo-musica-las-24-horas-elfonografo-mx-",
+   "name": "El Fonógrafo, Música las 24 horas (elfonografo.mx) - Online - Grupo Radio Centro",
+   "url": "https://www.elfonografo.mx/",
+   "stream": "https://14553.live.streamtheworld.com:443/XEJP_AM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 7102,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "universal-ciudad-de-mexico-88-1-fm-xhred-fm-grup",
+   "name": "UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de",
+   "url": "https://www.universal881.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "adult-contemporary",
+    "music",
+    "oldies"
+   ],
+   "votes": 7025,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alfa-91-3-ciudad-de-mexico-91-3-fm-xhfaj-fm-grup",
+   "name": "ALFA 91.3 (Ciudad de México) - 91.3 FM - XHFAJ-FM - Grupo Radio Centro - Ciudad ",
+   "url": "https://www.alfaenlinea.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 6549,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-felicidad-1180-am-xefr-am-grupo-acir-ciuda",
+   "name": "Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México",
+   "url": "https://www.iheart.com/live/radio-felicidad-1180-6534/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "baladas",
+    "oldies"
+   ],
+   "votes": 6330,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "banda-93-3-monterrey-93-3-fm-xhqq-fm-grupo-radio",
+   "name": "BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL",
+   "url": "http://www.banda933.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 5749,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-felicidad-ciudad-de-mexico-1180-am-xefr-am",
+   "name": "Radio Felicidad Ciudad de México - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de Mé",
+   "url": "https://www.iheart.com/live/radio-felicidad-1180-6534/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC_SC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "baladas"
+   ],
+   "votes": 4869,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "llego-el-mariachi-iheart-radio-online-acir-onlin",
+   "name": "Llegó El Mariachi (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad ",
+   "url": "https://www.iheart.com/live/mariachi-llego-el-mariachi-8278/",
+   "stream": "https://29320.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 4336,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "estrellas-de-los-80s-radio-monterrey-online-www-",
+   "name": "Estrellas de los 80s Radio (Monterrey) - Online - www.estrellasdelos80s.com - Gr",
+   "url": "https://estrellasdelos80s.com/",
+   "stream": "https://panel.retrolandigital.com/listen/estrellas_de_los_80s/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "80s"
+   ],
+   "votes": 3573,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "convoy-en-vivo",
+   "name": "Convoy en vivo",
+   "url": "http://convoynetwork.com/",
+   "stream": "https://live.convoynetwork.com/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "classic-rock",
+    "latin-music",
+    "rock"
+   ],
+   "votes": 3302,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s-dance-by-mix-iheart-radio-online-acir-online",
+   "name": "90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad d",
+   "url": "https://acironline.mx/radio-online/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "dance",
+    "dance-music",
+    "edm",
+    "electronic",
+    "music",
+    "oldies"
+   ],
+   "votes": 3263,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "el-fonografo-690-am-xen-am-grupo-radio-centro-ci",
+   "name": "El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México",
+   "url": "https://www.radiocentroelfonografo.com/",
+   "stream": "https://17553.live.streamtheworld.com:443/XEN_AM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 3135,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-de-divas-iheart-radio-online-acir-online-ih",
+   "name": "Amor de Divas (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M",
+   "url": "https://www.iheart.com/live/amor-de-divas-8042/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR01_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 2733,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-solo-pop-iheart-radio-online-acir-online-ih",
+   "name": "Amor Solo Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M",
+   "url": "https://www.iheart.com/live/amor-solo-pop-8044/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "baladas",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "romantic"
+   ],
+   "votes": 2636,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-comadre-pa-que-duela-iheart-radio-online-acir",
+   "name": "La Comadre Pa Que Duela (iHeart Radio) - Online - ACIR Online / iHeart Radio - C",
+   "url": "https://www.iheart.com/live/la-comadre-pa-que-duela-8046/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR05_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 2615,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mvs-noticias-102-5-fm-xhmvs-fm-mvs-radio-ciudad-",
+   "name": "MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México",
+   "url": "https://www.mvsnoticias.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "oldies",
+    "pop-music"
+   ],
+   "votes": 2578,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beat-100-9-fm-xhson-fm-nrm-comunicaciones-ciudad",
+   "name": "BEAT 100.9 FM - XHSON-FM - NRM Comunicaciones - Ciudad de México",
+   "url": "https://www.beat1009.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "dance",
+    "dance-music",
+    "electronic",
+    "electronica"
+   ],
+   "votes": 2336,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "stereo-cien-100-1-fm-xhmm-fm-nrm-comunicaciones-",
+   "name": "Stereo Cien - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México",
+   "url": "https://www.stereocien.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 2177,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "oldies-internet-radio-online-www-oldiesinternetr",
+   "name": "Oldies Internet Radio - Online - www.oldiesinternetradio.com - Grupo Digital Ret",
+   "url": "https://oldiesinternetradio.com/",
+   "stream": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "70s",
+    "80s",
+    "adult-contemporary",
+    "classic-hits",
+    "classic-rock",
+    "love-songs",
+    "oldies"
+   ],
+   "votes": 1896,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "siempre-gruperos-de-la-comadre-iheart-radio-onli",
+   "name": "Siempre Gruperos de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart Ra",
+   "url": "https://www.iheart.com/live/siempre-gruperos-8048/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR07_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 1852,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "los40-ciudad-de-mexico-101-7-fm-xex-fm-radiopoli",
+   "name": "LOS40 Ciudad de México - 101.7 FM - XEX-FM - Radiópolis - Ciudad de México",
+   "url": "https://www.los40.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1782,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "formula-melodica-guadalajara-97-9-fm-xetia-fm-gr",
+   "name": "Fórmula Melódica (Guadalajara) - 97.9 FM - XETIA-FM - Grupo Unidifusión - Guadal",
+   "url": "https://www.notisistema.com/formulamelodica/",
+   "stream": "https://s2.yesstreaming.net:9085/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "baladas",
+    "music",
+    "musica",
+    "romantic"
+   ],
+   "votes": 1761,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "match-ciudad-de-mexico-99-3-fm-xhpop-fm-grupo-ac",
+   "name": "Match Ciudad de México - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México",
+   "url": "https://www.iheart.com/live/match-993-ciudad-de-mexico-6251/",
+   "stream": "https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "pop",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 1709,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "historia-y-corridos-de-la-comadre-iheart-radio-o",
+   "name": "Historia y Corridos de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart",
+   "url": "https://www.iheart.com/live/historias-y-corridos-8047/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR06_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 1543,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alternativa-by-mix-iheart-radio-online-acir-onli",
+   "name": "Alternativa by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad",
+   "url": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "80s",
+    "90s",
+    "alternative",
+    "rock"
+   ],
+   "votes": 1514,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-de-mis-amores-iheart-radio-online-acir-onli",
+   "name": "Amor de mis Amores (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad",
+   "url": "https://www.iheart.com/live/amor-de-mis-amores-8062/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR21_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 1491,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-by-mix-iheart-radio-online-acir-online-ihe",
+   "name": "Disco by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Mé",
+   "url": "https://www.iheart.com/live/disco-by-mix-8055/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR14_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "disco",
+    "musica"
+   ],
+   "votes": 1443,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "el-fonografo-690-am-xen-am-grupo-radio-centro-ci-2",
+   "name": "EL FONÓGRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México",
+   "url": "https://elfonografo.mx/",
+   "stream": "https://26423.live.streamtheworld.com:443/XEN_AMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 1209,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-mejor-monterrey-92-5-fm-xhsro-fm-mvs-radio-mo",
+   "name": "La Mejor Monterrey - 92.5 FM - XHSRO-FM - MVS Radio - Monterrey, NL",
+   "url": "https://www.lamejor.com.mx/monterrey/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "popular"
+   ],
+   "votes": 1204,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-comadre-pa-bailar-iheart-radio-online-acir-on",
+   "name": "La Comadre Pa Bailar (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciud",
+   "url": "https://www.iheart.com/live/la-comadre-pa-bailar-8049/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR08_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "cumbia",
+    "music"
+   ],
+   "votes": 1177,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cumbia-total-iheart-radio-online-acir-online-ihe",
+   "name": "Cumbia Total (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Mé",
+   "url": "https://www.iheart.com/live/cumbia-total-8370/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR40_S01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "cumbia",
+    "music"
+   ],
+   "votes": 1171,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iheartradio-pop-iheart-radio-online-acir-online-",
+   "name": "iHeartRadio Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de",
+   "url": "https://www.iheart.com/live/iheartradio-pop-8167/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR31_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "musica",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 1153,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollocks-rock-metal-radio",
+   "name": "BOLLOCKS Rock & Metal Radio",
+   "url": "http://bollocksradio.com/",
+   "stream": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
+   "codec": "mp3",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 1024,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "azul-89-iheart-radio-online-acir-online-iheart-r",
+   "name": "Azul 89 (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
+   "url": "https://www.iheart.com/live/azul-89-7874/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 1007,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "next-fm-ciudad-de-mexico-online-next-fm-radio-ci",
+   "name": "Next FM (Ciudad de México) - Online - Next FM Radio - Ciudad de México",
+   "url": "https://nextfm.mx/",
+   "stream": "https://s5.radio.co/seec9ed903/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 962,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "universal-88-1-cdmx-88-1-fm-xhred-fm-grupo-radio",
+   "name": "UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de Méxi",
+   "url": "https://www.universal881.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "music",
+    "oldies"
+   ],
+   "votes": 954,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fitness-music-iheart-radio-online-acir-online-ih",
+   "name": "Fitness Music (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M",
+   "url": "https://www.iheart.com/live/fitness-music-8180/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR32_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 950,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-de-dos-iheart-radio-online-acir-online-ihea",
+   "name": "Amor de Dos (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Méx",
+   "url": "https://www.iheart.com/live/amor-de-dos-8043/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR02_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 945,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "stereorey-ciudad-de-mexico-online-www-stereorey-",
+   "name": "Stereorey (Ciudad de México) - Online - www.stereorey.com - MVS Radio - Ciudad d",
+   "url": "https://www.stereorey.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "classic-rock",
+    "music",
+    "oldies"
+   ],
+   "votes": 944,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-monterrey-1230-am-monterrey-nuevo-",
+   "name": "Radio fórmula (Monterrey) - 1230 AM [Monterrey, Nuevo León]",
+   "url": "https://radioformulamonterrey.com/",
+   "stream": "https://stream.radiojar.com/nk2k3a84xp8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "music"
+   ],
+   "votes": 783,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-bestia-grupera-leon-90-3-fm-xhml-fm-grupo-aud",
+   "name": "La Bestia Grupera (León) - 90.3 FM - XHML-FM - Grupo Audiorama Comunicaciones - ",
+   "url": "http://www.audioramabajio.mx/labestiagrupera/",
+   "stream": "https://ss1.audiorama.com.mx:6636/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guanajuato",
+   "genre": [
+    "music"
+   ],
+   "votes": 702,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "llego-el-mariachi-iheart-radio-online-acir-onlin-2",
+   "name": "Llegó el Mariachi (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad ",
+   "url": "https://acironline.mx/",
+   "stream": "https://13743.live.streamtheworld.com:443/ACIR34_S01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 657,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-octava-ciudad-de-mexico-88-1-fm-xhred-fm-grup",
+   "name": "LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad ",
+   "url": "https://www.laoctava.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "adult-contemporary",
+    "music",
+    "oldies"
+   ],
+   "votes": 628,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-puebla-103-3-fm-xhrh-fm-grupo-acir-puebla-p",
+   "name": "Amor Puebla - 103.3 FM - XHRH-FM - Grupo ACIR - Puebla, PU",
+   "url": "https://www.iheart.com/live/amor-1033-6572/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRHFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Puebla",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 624,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sounds-of-yesterday-iheart-radio-online-acir-onl",
+   "name": "Sounds of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciuda",
+   "url": "https://www.iheart.com/live/sounds-of-yesterday-8070/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "classic-hits",
+    "classic-rock",
+    "oldies"
+   ],
+   "votes": 616,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ranchito-morelia-102-5-fm-xhrpa-fm-grupo-u",
+   "name": "Radio Ranchito (Morelia) - 102.5 FM - XHRPA-FM - Grupo ULTRA - Morelia, MI",
+   "url": "https://tunein.com/radio/Radio-Ranchito-1025-s169172/",
+   "stream": "https://ranchito.b-cdn.net/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Michoacán",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 590,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-invasora-san-diego-xhty-fm-99-7-fm-uniradio-t",
+   "name": "La Invasora (San Diego) - XHTY-FM - 99.7 FM - Uniradio - Tijuana, Baja Californi",
+   "url": "https://www.uniradioinforma.com/lainvasora997/inicio",
+   "stream": "https://streamingcwsradio30.com:7022/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "music"
+   ],
+   "votes": 579,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-centro-y-el-fonografo-690-am-xen-am-grupo-",
+   "name": "Radio Centro y El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de M",
+   "url": "https://www.radiocentroelfonografo.com/",
+   "stream": "https://15693.live.streamtheworld.com:443/XEN_AMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 559,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-queretaro-106-5-fm-xhgv-fm-grupo-acir-queret",
+   "name": "MIX Querétaro - 106.5 FM - XHGV-FM - Grupo ACIR - Querétaro, QT",
+   "url": "https://www.iheart.com/live/mix-1065-8080/",
+   "stream": "https://18373.live.streamtheworld.com:443/XHGVAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 499,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-monterrey-89-3-fm-monterrey-nuevo-",
+   "name": "Radio fórmula (Monterrey) - 89.3 FM [Monterrey, Nuevo León]",
+   "url": "https://radioformulamonterrey.com/",
+   "stream": "https://stream.radiojar.com/332kkh84xp8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "music"
+   ],
+   "votes": 493,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-buena-onda-guadalajara-101-9-fm-xead-fm-grupo",
+   "name": "La Buena Onda (Guadalajara) - 101.9 FM - XEAD-FM - Grupo Unidifusión - Guadalaja",
+   "url": "https://www.notisistema.com/buenaonda/",
+   "stream": "https://s2.yesstreaming.net:9094/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "baladas",
+    "music",
+    "musica",
+    "romantic"
+   ],
+   "votes": 454,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-inolvidable-perote-101-1-fm-xhper-fm-rradiotl",
+   "name": "La Inolvidable (Perote) - 101.1 FM - XHPER-FM - RRADIOTL, A.C. - Perote, VE",
+   "url": "https://www.lainolvidabledeperote.com/",
+   "stream": "https://streaming.servicioswebmx.com/8078/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Veracruz",
+   "genre": [
+    "baladas",
+    "musica",
+    "romantic"
+   ],
+   "votes": 451,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-ciudad-de-mexico-104-9-fm-xhexa-fm-mvs-ra",
+   "name": "Exa FM Ciudad de México - 104.9 FM - XHEXA-FM - MVS Radio - Ciudad de México",
+   "url": "https://www.exafm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXAAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 419,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-globo-mexicali-101-9-fm-xhpf-fm-mvs-radio-mex",
+   "name": "FM Globo Mexicali - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, BC",
+   "url": "https://www.fmglobo.com/mexicali/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "baladas",
+    "hits",
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "romantic"
+   ],
+   "votes": 417,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-en-concierto-iheart-radio-online-acir-onlin",
+   "name": "Amor en Concierto (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad ",
+   "url": "https://www.iheart.com/live/amor-en-concierto-8316/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR39_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 415,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abc-noticias-monterrey-570-am-xebjb-am-grupo-rad",
+   "name": "ABC Noticias (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, ",
+   "url": "http://abcnoticias.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AM.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "classic-hits",
+    "musica",
+    "oldies"
+   ],
+   "votes": 392,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antologia-vallenata-xeh-14-20-monterrey-1420-am-",
+   "name": "Antología Vallenata, XEH 14-20 (Monterrey) - 1420 AM - XEH-AM - Grupo Radio Cent",
+   "url": "https://www.radiocentro.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "cumbia",
+    "latin-music",
+    "music",
+    "musica"
+   ],
+   "votes": 390,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-ciudad-de-mexico-92-1-fm-xhfo-fm-gr",
+   "name": "Radio Disney Ciudad de México - 92.1 FM - XHFO-FM - Grupo Siete - Ciudad de Méxi",
+   "url": "https://tunein.com/radio/Radio-Disney-Ciudad-de-Mxico-921-s88449/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 386,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "let-it-beat-iheart-radio-online-acir-online-ihea",
+   "name": "Let It Beat (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de Méx",
+   "url": "https://www.iheart.com/live/let-it-beat-8067/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR27_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "60s",
+    "70s"
+   ],
+   "votes": 376,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-en-todas-partes-ponte-exa",
+   "name": "EXA FM: En Todas Partes Ponte Exa",
+   "url": "https://www.exafm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 365,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-hard-rock-iheart-radio-online-acir-online-ih",
+   "name": "MIX Hard Rock (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M",
+   "url": "https://www.iheart.com/live/mix-hard-rock-8051/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 364,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-tabasco-94-1-fm-villahermosa-tabas",
+   "name": "Radio fórmula (Tabasco) - 94.1 FM [Villahermosa, Tabasco]",
+   "url": "https://radioformulatabasco.com/",
+   "stream": "https://stream.radiojar.com/ft4qrfff3p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tabasco",
+   "genre": [
+    "music"
+   ],
+   "votes": 358,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-cancun-93-1-fm-xhyi-fm-grupo-acir-cancun-qr",
+   "name": "MIX Cancún - 93.1 FM - XHYI-FM - Grupo ACIR - Cancún, QR",
+   "url": "https://www.iheart.com/live/mix-931-8108/",
+   "stream": "https://29318.live.streamtheworld.com:443/XHYIFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Quintana Roo",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 338,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "760-am-ciudad-de-mexico-760-am-xeabc-am-radio-ca",
+   "name": "760 AM (Ciudad de México) - 760 AM - XEABC-AM - Radio Cañón / NTR Medios de Comu",
+   "url": "https://radiocanion.com/xeabc/",
+   "stream": "https://streamingcwsradio30.com/8292/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 334,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "premier-91-7-monterrey-91-7-fm-xhxl-fm-grupo-rad",
+   "name": "PREMIER 91.7 (Monterrey) - 91.7 FM - XHXL-FM - Grupo Radio Alegría - Monterrey, ",
+   "url": "https://www.premier917.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_917AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 328,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "match-puebla-90-1-fm-xhrs-fm-grupo-acir-puebla-p",
+   "name": "Match Puebla - 90.1 FM - XHRS-FM - Grupo ACIR - Puebla, PU",
+   "url": "https://www.iheart.com/live/match-901-puebla-8041/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Puebla",
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 323,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-q-940-am-xeq-am-radiopolis-ciudad-de-mexico",
+   "name": "La Q - 940 AM - XEQ-AM - Radiópolis - Ciudad de México",
+   "url": "http://www.laq940.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 317,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-mexicali-91-5-fm-xhjc-fm-mvs-radio-mexica",
+   "name": "Exa FM Mexicali - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, BC",
+   "url": "https://www.exafm.com/mexicali/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 315,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vox-fm-94-5-el-salvador-94-5-fm-ysec-san-salvado",
+   "name": "VOX FM 94.5 (El Salvador) - 94.5 FM - YSEC - San Salvador, El Salvador",
+   "url": "https://www.voxfm.com/",
+   "stream": "https://cast3.asurahosting.com/proxy/gabriel/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Salvador",
+   "genre": [
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 306,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-globo-monterrey-88-1-fm-xhjm-fm-mvs-radio-mon",
+   "name": "FM Globo Monterrey - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, NL",
+   "url": "https://www.fmglobo.com/monterrey/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "hits",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 300,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40",
+   "name": "LOS40",
+   "url": "https://www.los40.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 288,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exitos-matamoros-91-3-fm-xhmls-fm-grupo-radio-av",
+   "name": "Éxitos (Matamoros) - 91.3 FM - XHMLS-FM - Grupo Radio Avanzado - Matamoros, Tama",
+   "url": "https://www.exitos913.com/",
+   "stream": "https://ice8.securenetsystems.net/EXITO913",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tamaulipas",
+   "genre": [
+    "pop",
+    "pop-music",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 281,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pulsar-tijuana-107-3-fm-xhfg-fm-uniradio-tijuana",
+   "name": "PULSAR (Tijuana) - 107.3 FM - XHFG-FM - Uniradio - Tijuana, Baja California",
+   "url": "https://www.uniradioinforma.com/pulsar/inicio",
+   "stream": "https://streamingcwsradio30.com:7021/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "hits",
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 264,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-tremenda-durango-96-5-fm-xhdng-fm-grupo-garza",
+   "name": "La Tremenda (Durango) - 96.5 FM - XHDNG-FM - Grupo Garza Limón - Durango, DG",
+   "url": "https://durango.latremenda.com.mx/",
+   "stream": "https://radio.latremenda.com.mx/Durango",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Durango",
+   "genre": [
+    "popular"
+   ],
+   "votes": 260,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oye-ciudad-de-mexico-89-7-fm-xeoye-fm-nrm-comuni",
+   "name": "OYE (Ciudad de México) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de Méx",
+   "url": "https://www.oyedigital.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "pop",
+    "pop-music",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 249,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ultra-huauchinango-91-7-fm-xhphbp-fm-grupo-ultra",
+   "name": "Ultra (Huauchinango) - 91.7 FM - XHPHBP-FM - Grupo ULTRA - Huauchinango, Puebla",
+   "url": "https://huauchinango.ultralaradio.mx/",
+   "stream": "https://icecastultra.duckdns.org/livehua",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Puebla",
+   "genre": [
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 245,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-zeta-navojoa-88-9-fm-xhens-fm-uniradio-navojo",
+   "name": "La Zeta (Navojoa) - 88.9 FM - XHENS-FM - Uniradio - Navojoa, SO",
+   "url": "https://www.uniradio.com/radio/navojoa/z889",
+   "stream": "https://streamingcwsradio30.com:7032/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Sonora",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 241,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-globo-guadalajara-98-7-fm-xhlc-fm-mvs-radio-g",
+   "name": "FM Globo Guadalajara - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, JC",
+   "url": "https://www.fmglobo.com/guadalajara/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "baladas",
+    "hits",
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "romantic"
+   ],
+   "votes": 239,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40-queretaro-90-1-fm-xhpsji-fm-globalmedia-sa",
+   "name": "LOS40 Querétaro - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, GT",
+   "url": "https://www.globalmedia.mx/LOS40QUERETARO",
+   "stream": "https://playradio.mx/proxy/los40jose?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guanajuato",
+   "genre": [
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 237,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "w-radio-queretaro-1310-am-xeqrmd-am-globalmedia-",
+   "name": "W Radio Querétaro - 1310 AM - XEQRMD-AM - GlobalMedia - Querétaro, QT",
+   "url": "https://www.globalmedia.mx/stations/WRADIOQUERETARO",
+   "stream": "https://playradio.mx/proxy/wqueretaro?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 232,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abc-noticias-1310-am-xevb-am-grupo-radio-alegria",
+   "name": "ABC NOTICIAS - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+   "url": "http://abcnoticias.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 231,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-toluca-92-5-fm-xhrj-fm-grupo-acir-toluca-em",
+   "name": "Amor Toluca - 92.5 FM - XHRJ-FM - Grupo ACIR - Toluca, EM",
+   "url": "https://www.iheart.com/live/amor-925-6573/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRJFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Estado de México",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 230,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-gigante-piedras-negras-ver-95-3-fm-xhgn-fm-pi",
+   "name": "La Gigante (Piedras Negras, Ver.) - 95.3 FM - XHGN-FM - Piedras Negras, VE",
+   "url": "http://www.lagigante953.net/",
+   "stream": "https://s2.yesstreaming.net:17103/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Veracruz",
+   "genre": [
+    "popular"
+   ],
+   "votes": 229,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-puebla-91-7-fm-xhrc-fm-grupo-acir-puebla-pu",
+   "name": "MIX Puebla - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, PU",
+   "url": "https://www.iheart.com/live/mix-917-6571/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Puebla",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 222,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oye-89-7-89-7-fm-xeoye-fm-nrm-comunicaciones-ciu",
+   "name": "OYE 89.7 - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México",
+   "url": "https://www.oye897.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 221,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-guadalajara-790-am-guadalajara-jal",
+   "name": "Radio fórmula (Guadalajara) - 790 AM [Guadalajara, Jalisco]",
+   "url": "https://radioformulaguadalajara.com/",
+   "stream": "https://stream.radiojar.com/8a7k0514xp8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "music"
+   ],
+   "votes": 218,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-mexicali-89-9-fm-xhsol-fm-grupo-audiorama-",
+   "name": "SUPER (Mexicali) - 89.9 FM - XHSOL-FM - Grupo Audiorama Comunicaciones - Mexical",
+   "url": "https://www.audioramabc.com/supermexicali/",
+   "stream": "https://ss1.audiorama.com.mx:6590/super",
+   "codec": "mp3",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 214,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-tampico-103-9-fm-tampico-tamaulipa",
+   "name": "Radio fórmula (Tampico) - 103.9 FM [Tampico, Tamaulipas]",
+   "url": "https://radioformulatampico.com/",
+   "stream": "https://stream.radiojar.com/ympb8vef3p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tamaulipas",
+   "genre": [
+    "music"
+   ],
+   "votes": 213,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-toluca-102-1-fm-xhtom-fm-grupo-siet",
+   "name": "Radio Disney Toluca - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de Méxi",
+   "url": "https://mx.radiodisney.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Estado de México",
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 209,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-baja-california-950-am-tijuana-baj",
+   "name": "Radio fórmula (Baja California) - 950 AM [Tijuana, Baja California]",
+   "url": "https://radioformulabc.com/",
+   "stream": "https://stream.radiojar.com/nce1peen3p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "music"
+   ],
+   "votes": 206,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-invasora-tijuana-xha-fm-94-5-fm-uniradio-tiju",
+   "name": "La Invasora (Tijuana) - XHA-FM - 94.5 FM - Uniradio - Tijuana, Baja California",
+   "url": "https://www.uniradioinforma.com/lainvasora945/inicio",
+   "stream": "https://streamingcwsradio30.com:7023/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "music"
+   ],
+   "votes": 202,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-veracruz-93-3-fm-xhps-fm-mvs-radio-veracr",
+   "name": "Exa FM Veracruz - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, VE",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Veracruz",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 196,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-digital-102-7-fm-xhpqui-fm-tequisquiapan-quere",
+   "name": "K Digital - 102.7 FM - XHPQUI-FM - Tequisquiapan, Querétaro",
+   "url": "https://kdigital.mx/",
+   "stream": "https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "latin-pop",
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 192,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-san-juan-del-rio-99-1-fm-xhvi-fm-san-juan",
+   "name": "Exa FM San Juan del Río - 99.1 FM - XHVI-FM - San Juan del Río, Querétaro",
+   "url": "https://exafm.com/sanjuandelrio/",
+   "stream": "https://tv.radiohosting.online:8352/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 190,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mejor-puerto-vallarta-99-9-fm-xhcjx-fm-mvs-ra",
+   "name": "La Mejor Puerto Vallarta - 99.9 FM - XHCJX-FM - MVS Radio - Puerto Vallarta, JC",
+   "url": "http://lamejor.com.mx/puertovallarta",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "musica"
+   ],
+   "votes": 189,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trion-ciudad-de-mexico-103-3-hd4-xerfr-fm-grupo-",
+   "name": "Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México",
+   "url": "https://www.iheart.com/live/trion-1033-hd-cdmx-8555/",
+   "stream": "https://stream.radiojar.com/4f89tufzv9duv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "alternative",
+    "indie",
+    "music"
+   ],
+   "votes": 189,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-guadalajara-101-1-fm-xhma-fm-mvs-radio-gu",
+   "name": "Exa FM Guadalajara - 101.1 FM - XHMA-FM - MVS Radio - Guadalajara, JC",
+   "url": "https://www.exafm.com/guadalajara/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 187,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-106-9-fm-monterrey",
+   "name": "Classic 106.9 FM Monterrey",
+   "url": "https://www.mmradio.com/",
+   "stream": "https://mdstrm.com/audio/673788019b826f0dc1842750/icecast.audio",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "español-mexico"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "70s",
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 185,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rclasicos-96-9-fm",
+   "name": "Rclasicos 96.9 FM",
+   "url": "https://rclasicos.com/",
+   "stream": "https://s5.mexside.net:8100/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "español-mexico",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santa Ana, Sonora",
+   "genre": [
+    "pop"
+   ],
+   "votes": 185,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-esperanza-monterrey-1140-am-xemr-am-grupo-",
+   "name": "Radio Esperanza (Monterrey) - 1140 AM - XEMR-AM - Grupo Radio Alegría - Apodaca ",
+   "url": "https://www.radioesperanza.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ESPERANZA_1140AM.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 184,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-monterrey-770-am-monterrey-nuevo-l",
+   "name": "Radio fórmula (Monterrey) - 770 AM [Monterrey, Nuevo León]",
+   "url": "https://radioformulamonterrey.com/",
+   "stream": "https://stream.radiojar.com/9f7h8d84xp8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "music"
+   ],
+   "votes": 182,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "senal-90-90-7-fm-xhoy-fm-grupo-unidifusion-guada",
+   "name": "Señal 90 - 90.7 FM - XHOY-FM - Grupo Unidifusión - Guadalajara, Jalisco",
+   "url": "https://www.notisistema.com/senal90.php",
+   "stream": "https://s2.yesstreaming.net:17042/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 182,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "new-century-by-match-iheart-radio-online-acir-on",
+   "name": "New Century by Match (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciud",
+   "url": "https://www.iheart.com/live/new-century-8045/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "hits",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 181,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radar-107-5-queretaro-107-5-fm-xhqro-fm-grupo-ra",
+   "name": "RADAR 107.5 (Querétaro) - 107.5 FM - XHQRO-FM - Grupo Radar - Querétaro, Queréta",
+   "url": "https://www.radarfm.mx/",
+   "stream": "https://radios.radiohd.com.mx/8268/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 174,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-107-5-gdl-107-5-fm-xhvoz-fm-grupo-audioram",
+   "name": "Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guada",
+   "url": "https://www.audiorama.mx/",
+   "stream": "https://ss1.audiorama.com.mx:6574/vibefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guadalajara, Jalisco",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 173,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-bestia-grupera-ciudad-de-mexico-540-am-xewf-a",
+   "name": "La Bestia Grupera (Ciudad de México) - 540 AM - XEWF-AM - Radiorama / Grupo Audi",
+   "url": "http://www.radioramavm.mx/labestiagrupera/",
+   "stream": "https://ss1.audiorama.com.mx:6584/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "music"
+   ],
+   "votes": 172,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-tijuana-91-7-fm-xhglx-fm-mvs-radio-tijuan",
+   "name": "Exa FM Tijuana - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, BC",
+   "url": "https://www.exafm.com/sdtj/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 166,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lobo-san-jose-iturbide-88-3-fm-xhsji-fm-co",
+   "name": "Radio Lobo (San José Iturbide) - 88.3 FM - XHSJI-FM - Corporación Bajío Comunica",
+   "url": "https://www.radiolobobajio.mx/",
+   "stream": "https://radios.radiohd.com.mx/8270/;",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guanajuato",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 165,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-anime-nexus",
+   "name": "Radio Anime Nexus",
+   "url": "https://www.animenexusla.com/",
+   "stream": "https://cast.animenexusla.com/radio/8000/animenexus",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "ja"
+   ],
+   "state": "Coahuila",
+   "genre": [
+    "anime",
+    "jpop",
+    "kpop"
+   ],
+   "votes": 164,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lupe-zacatecas-93-3-fm-xhexz-fm-grupo-radiofonic",
+   "name": "Lupe (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, ZA",
+   "url": "https://tunein.com/radio/Lupe-FM-933-s216068/",
+   "stream": "https://cast.zuperdns.net/8010/stream/",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Zacatecas",
+   "genre": [
+    "musica"
+   ],
+   "votes": 159,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "digital-102-9-monterrey-102-9-fm-xhmg-fm-grupo-r",
+   "name": "Digital 102-9 (Monterrey) - 102.9 FM - XHMG-FM - Grupo Radio Alegría - Monterrey",
+   "url": "https://www.digital1029.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "hits",
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 158,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-dua-lipa",
+   "name": "+Exclusively Dua Lipa",
+   "url": "https://play.you.radio/station/32",
+   "stream": "https://streaming.exclusive.radio/er-app/dualipa/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 153,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-poderosa-mexicali-96-9-fm-1050-am-xhmug-fm-xe",
+   "name": "La Poderosa (Mexicali) - 96.9 FM / 1050 AM - XHMUG-FM / XED-AM - Radiorama - Mex",
+   "url": "http://radioramamexicali.com/poderosa/",
+   "stream": "https://sg.centrocibernetico.com/poderosa969",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "classic-hits",
+    "classic-rock",
+    "oldies"
+   ],
+   "votes": 152,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mundo-cuernavaca-96-5-fm-xhjmg-fm-grupo-mundo-co",
+   "name": "Mundo (Cuernavaca) - 96.5 FM - XHJMG-FM - Grupo Mundo Comunicaciones - Cuernavac",
+   "url": "http://www.mundo965.fm/",
+   "stream": "https://tv.radiohosting.online:8556/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "MORELOS",
+   "genre": [
+    "80s",
+    "baladas",
+    "music",
+    "musica",
+    "romantic"
+   ],
+   "votes": 152,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-bajio-101-1-fm-leon-guanajuato",
+   "name": "Radio fórmula (Bajío) - 101.1 FM [León, Guanajuato]",
+   "url": "https://radioformulabajio.com/",
+   "stream": "https://stream.radiojar.com/x1fttddn3p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guanajuato",
+   "genre": [
+    "music"
+   ],
+   "votes": 152,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-merida-94-5-fm-merida-yucatan",
+   "name": "Radio fórmula (Mérida) - 94.5 FM [Mérida, Yucatán]",
+   "url": "https://radioformulayucatan.com/",
+   "stream": "https://stream.radiojar.com/pp6pmybp3p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Yucatán",
+   "genre": [
+    "music"
+   ],
+   "votes": 151,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-pachuca-92-5-fm-xhpk-fm-grupo-acir-pachuca-h",
+   "name": "MIX Pachuca - 92.5 FM - XHPK-FM - Grupo ACIR - Pachuca, HG",
+   "url": "https://www.iheart.com/live/mix-925-8098/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPKFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Hidalgo",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 150,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "stereo-cristal-queretaro-101-1-fm-xhjhs-fm-grupo",
+   "name": "Stereo Cristal (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar / Corporación Baj",
+   "url": "https://stereocristal.mx/",
+   "stream": "https://radios.radiohd.com.mx/8274/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "music"
+   ],
+   "votes": 150,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trion-san-luis-90-1-fm-xhsmr-fm-globalmedia-san-",
+   "name": "Trión San Luis - 90.1 FM - XHSMR-FM - GlobalMedia - San Luis Potosí, SL",
+   "url": "https://www.globalmedia.mx/Tri%C3%B3n",
+   "stream": "https://trion.b-cdn.net/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Luis Potosí",
+   "genre": [
+    "alternative",
+    "indie",
+    "music"
+   ],
+   "votes": 150,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "clasics-morelia-99-1-fm-xhmom-fm-medios-radiofon",
+   "name": "Clasics (Morelia) - 99.1 FM - XHMOM-FM - Medios Radiofónicos de Michoacán - More",
+   "url": "https://radiomejor.mx/",
+   "stream": "https://s4.voscast.com:8759/morelia.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Michoacán",
+   "genre": [
+    "classic-hits",
+    "music"
+   ],
+   "votes": 148,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mega-96-3-los-angeles-96-3-fm-kxol-fm-spanish-br",
+   "name": "MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los ",
+   "url": "https://www.iheart.com/live/mega-963-10034/",
+   "stream": "https://liveaudio.lamusica.com/LA_KXOL_icy",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Los Angeles, California",
+   "genre": [
+    "bachata",
+    "latin",
+    "latin-music",
+    "latin-pop",
+    "salsa"
+   ],
+   "votes": 147,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-94-3-buenos-aires-argentina",
+   "name": "Radio Disney 94.3 - Buenos Aires, Argentina",
+   "url": "https://ar.radiodisney.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de Buenos Aires",
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 146,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canal-58-guadalajara-580-am-xeav-am-radio-canon-",
+   "name": "Canal 58 (Guadalajara) - 580 AM - XEAV-AM - Radio Cañón / NTR Medios de Comunica",
+   "url": "https://radiocanion.com/xeav-am/",
+   "stream": "https://streaming.servicioswebmx.com/8266/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "music",
+    "musica",
+    "oldies",
+    "pop-music"
+   ],
+   "votes": 143,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mejor-torreon-estereo-gallito-97-1-fm-xhpe-fm",
+   "name": "La Mejor Torreón (Estéreo Gallito) - 97.1 FM - XHPE-FM - Grupo Radio Estéreo May",
+   "url": "http://www.lamejor.gremradio.com.mx/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPE_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Coahuila",
+   "genre": [
+    "musica"
+   ],
+   "votes": 143,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-cd-juarez-1460-am-cd-juarez-chihua",
+   "name": "Radio fórmula (Cd. Juarez) - 1460 AM [Cd. Juarez, Chihuahua]",
+   "url": "https://radioformulajuarez.com/",
+   "stream": "https://stream.radiojar.com/fh5c5rmr2p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chihuahua",
+   "genre": [
+    "music"
+   ],
+   "votes": 143,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-leon-103-1-fm-xhxf-fm-grupo-acir-leon-gt",
+   "name": "MIX León - 103.1 FM - XHXF-FM - Grupo ACIR - León, GT",
+   "url": "https://www.iheart.com/live/mix-1031-8107/",
+   "stream": "https://14623.live.streamtheworld.com:443/XHXFAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guanajuato",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 142,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vox-love-station-san-luis-potosi-96-9-fm-xhod-fm",
+   "name": "VOX Love Station San Luis Potosí - 96.9 FM - XHOD-FM - GlobalMedia - San Luis Po",
+   "url": "https://www.globalmedia.mx/stations/VOX969",
+   "stream": "https://voxfm.b-cdn.net/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Luis Potosí",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 140,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-en-espanol-rock-de-mexico-espana-y-argentin",
+   "name": "ROCK EN ESPAÑOL: Rock de México, España y Argentina",
+   "url": "https://www.iheart.com/live/rock-en-espanol-8061/",
+   "stream": "https://17843.live.streamtheworld.com:443/ACIR20_S01AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "80s",
+    "90s",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 138,
+   "clicks": 27,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "noticias-mvs-mexicali-1120-am-xemx-am-mvs-radio-",
+   "name": "Noticias MVS (Mexicali) - 1120 AM - XEMX-AM - MVS Radio - Mexicali, Baja Califor",
+   "url": "https://noticias1120am.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEMXAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 136,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-chilango-cdmx-105-3-fm-xhinfo-fm-ciudad-de",
+   "name": "Radio Chilango (CDMX) - 105.3 FM - XHINFO-FM - Ciudad de México",
+   "url": "https://www.radiochilango.com/",
+   "stream": "https://stream.radio.co/s938b68214/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "alternative",
+    "music"
+   ],
+   "votes": 136,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mas-fm-san-luis-potosi-99-3-fm-xhtl-fm-mg-radio-",
+   "name": "Más FM (San Luis Potosí) - 99.3 FM - XHTL-FM - MG Radio - San Luis Potosí, SL",
+   "url": "https://www.masfm.mx/",
+   "stream": "https://masfm.b-cdn.net/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Luis Potosí",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "oldies"
+   ],
+   "votes": 131,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40-mexicali-90-7-fm-xhmoe-fm-radiopolis-mexic",
+   "name": "LOS40 Mexicali - 90.7 FM - XHMOE-FM - Radiópolis - Mexicali, BC",
+   "url": "https://escucha.los40.com.mx/emisora/los40_mexicali/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "music",
+    "pop-music"
+   ],
+   "votes": 128,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "match-guadalajara-90-3-fm-xhemia-fm-grupo-acir-g",
+   "name": "Match Guadalajara - 90.3 FM - XHEMIA-FM - Grupo ACIR - Guadalajara, JC",
+   "url": "https://www.iheart.com/live/match-903-guadalajara-8038/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEMIAAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Jalisco",
+   "genre": [
+    "90s",
+    "pop",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 127,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amor-queretaro-97-9-fm-xhqto-fm-grupo-acir-quere",
+   "name": "Amor Querétaro - 97.9 FM - XHQTO-FM - Grupo ACIR - Querétaro, QT",
+   "url": "https://www.iheart.com/live/amor-979-6570/",
+   "stream": "https://14613.live.streamtheworld.com:443/XHQTOAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Queretaro",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 125,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1030-am-ciudad-de-mexico-1030-am-xeqr-am-grupo-r",
+   "name": "1030 AM (Ciudad de México) - 1030 AM - XEQR-AM - Grupo Radio Centro - Ciudad de ",
+   "url": "http://player.listenlive.co/51851/es",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "musica",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "d99-98-9-fm-monterrey",
+   "name": "D99 98.9 FM Monterrey",
+   "url": "https://www.mmradio.com/",
+   "stream": "https://mdstrm.com/audio/662800a9c30cbb3e2e61f44b/icecast.audio",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "english",
+    "español-mexico"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nuevo León",
+   "genre": [
+    "adult-contemporary",
+    "hits",
+    "pop",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 123,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "el-fonografo-musica-las-24-horas-cdmx-online-gru",
+   "name": "EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad ",
+   "url": "https://elfonografo.mx/",
+   "stream": "https://18423.live.streamtheworld.com:443/XEJP_AMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de México",
+   "genre": [
+    "latin-music",
+    "latin-pop",
+    "music",
+    "oldies",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 123,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-poderosa-tijuana-860-am-xemo-am-uniradio-tiju",
+   "name": "La Poderosa (Tijuana) - 860 AM - XEMO-AM - Uniradio - Tijuana, Baja California",
+   "url": "http://www.lapoderosa860.com/",
+   "stream": "https://streamingcwsradio30.com:7024/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Baja California",
+   "genre": [
+    "music"
+   ],
+   "votes": 123,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40-san-luis-potosi-103-9-fm-xhewa-fm-globalme",
+   "name": "LOS40 San Luis Potosí - 103.9 FM - XHEWA-FM - GlobalMedia - San Luis Potosí, SL",
+   "url": "https://www.globalmedia.mx/Los40",
+   "stream": "https://los40.b-cdn.net/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Luis Potosí",
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 123,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiomas-orizaba-105-5-fm-xhoba-fm-rtv-radio-tel",
+   "name": "RadioMás (Orizaba) - 105.5 FM - XHOBA-FM - RTV (Radio Televisión de Veracruz) - ",
+   "url": "http://radiomas.mx/",
+   "stream": "https://streamingcwsradio30.com/8228/laperlaorizaba",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Veracruz",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 121,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ultra-puebla-92-5-fm-xhzm-fm-grupo-ultra-puebla-",
+   "name": "Ultra (Puebla) - 92.5 FM - XHZM-FM - Grupo ULTRA - Puebla, Puebla",
+   "url": "http://puebla.ultralaradio.mx/",
+   "stream": "https://icecastultra.duckdns.org/livepue",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Puebla",
+   "genre": [
+    "latin-pop",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 121,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-jefa-camargo-96-1-fm-xheoh-fm-camargo-chihuah",
+   "name": "La Jefa (Camargo) - 96.1 FM - XHEOH-FM - Camargo, Chihuahua",
+   "url": "http://www.lajefaradiocamargo.com.mx/",
+   "stream": "https://dattavolt.com/8266/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chihuahua",
+   "genre": [
+    "music"
+   ],
+   "votes": 120,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "match-morelia-93-9-fm-xhmo-fm-morelia-mi",
+   "name": "Match Morelia - 93.9 FM - XHMO-FM - Morelia, MI",
+   "url": "https://www.iheart.com/live/match-939-morelia-8095/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMOFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Michoacán",
+   "genre": [
+    "pop",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 119,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-formula-merida-105-1-fm-merida-yucatan",
+   "name": "Radio fórmula (Mérida) - 105.1 FM [Mérida, Yucatán]",
+   "url": "https://radioformulayucatan.com/",
+   "stream": "https://stream.radiojar.com/f7zt43bp3p8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Yucatán",
+   "genre": [
+    "music"
+   ],
+   "votes": 114,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm-tampico-95-3-fm-xhox-fm-mvs-radio-tampico",
+   "name": "Exa FM Tampico - 95.3 FM - XHOX-FM - MVS Radio - Tampico, TM",
+   "url": "https://www.exafm.com/tampico/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOXAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tamaulipas",
+   "genre": [
+    "music",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 109,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiuu-91-1-fm-torreon-coahuila",
+   "name": "Kiuu - 91.1 FM [Torreón, Coahuila]",
+   "url": "https://kiuu.gremradio.com.mx/",
+   "stream": "https://streamingcwsradio30.com/8232/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Coahuila",
+   "genre": [
+    "music"
+   ],
+   "votes": 105,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

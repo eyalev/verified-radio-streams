@@ -1,0 +1,2013 @@
+{
+ "countryCode": "PH",
+ "country": "Philippines",
+ "slug": "philippines",
+ "continent": "asia",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/philippines/",
+ "stations": [
+  {
+   "id": "bespren-radio",
+   "name": "Bespren Radio",
+   "url": "https://www.besprenradio.com/",
+   "stream": "https://streamnavs.net:8089/live",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 381,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mellow-94-7-bfm",
+   "name": "Mellow 94.7 BFM",
+   "url": "https://mellow947.com/",
+   "stream": "https://streamer.radio.co/sec36cd5f1/listen",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Metro Manila",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 116,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "87-5-republ1ka-fm1-hd",
+   "name": "87.5 Republ1ka FM1 HD",
+   "url": "https://www.pbs.gov.ph/",
+   "stream": "https://listen.radioking.com/radio/453221/stream/508076",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Manila",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 97,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "palawan-wave-fm",
+   "name": "Palawan Wave FM",
+   "url": "https://radyoph.com/station/palawanwavefm",
+   "stream": "https://xcite.radyoph.com:8020/dzrt",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "tagalog"
+   ],
+   "langCodes": [
+    "eng",
+    "fil",
+    "tl"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 44,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dwdm-eagle-fm-95-5",
+   "name": "DWDM Eagle FM 95.5",
+   "url": "https://net25.com/eaglefm955",
+   "stream": "https://stream.radiojar.com/yus0r2bghd3vv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "easy-listening",
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dxbh-hope-radio-103-7mhz",
+   "name": "DXBH Hope Radio 103.7Mhz",
+   "url": "https://dxbh.net/",
+   "stream": "https://stream.dxbh.net/main_mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "cebuano",
+    "english",
+    "tagalog"
+   ],
+   "langCodes": [
+    "en",
+    "tl"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-lite-101-9-fm-manila",
+   "name": "K-Lite 101.9 FM Manila",
+   "url": "https://www.facebook.com/share/1Aivbayoah/",
+   "stream": "https://streaming.live365.com/a06369",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Quezon City",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "opm-christmas",
+   "name": "OPM Christmas",
+   "url": "https://www.opmxmas.com/",
+   "stream": "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "d-ultimate-105-5-fm",
+   "name": "D' Ultimate 105.5 FM",
+   "url": "https://en.wikipedia.org/wiki/DWDU#:~:text=DWDU%20(105.5%20FM)%20was%20a,affiliate%20company%20of%20Converge%20ICT.",
+   "stream": "https://edge.mixlr.com/channel/gtqpn",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Angeles City, Pampanga",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "105-5-sky-radio",
+   "name": "105.5 SKY RADIO",
+   "url": "https://www.facebook.com/SkyRadio105",
+   "stream": "https://cast.skyradio105.com/proxy/skyradio105/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Quezon City",
+   "genre": [
+    "music"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-madridejos",
+   "name": "Radyo Natin Madridejos",
+   "url": "https://radyonatinfm.com/madridejos",
+   "stream": "https://tx.radyonatinfm.com:8010/madridejos",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "tagalog"
+   ],
+   "langCodes": [
+    "eng",
+    "fil",
+    "tl"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-bonpen",
+   "name": "Radyo Natin BonPen",
+   "url": "https://radyonatinfm.com/bonpen",
+   "stream": "https://stream.radyonatinfm.com:8020/bonpen",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langCodes": [
+    "eng",
+    "fil"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-iba",
+   "name": "Radyo Natin Iba",
+   "url": "https://radyonatinfm.com/iba",
+   "stream": "https://phils.radyonatinfm.com:8000/iba",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langCodes": [
+    "eng",
+    "fil"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "raysland-radio",
+   "name": "Raysland Radio",
+   "url": "https://raysland.live/",
+   "stream": "https://stream.hornhost.com:8002/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Cebu",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dyhp-612-rmn-cebu",
+   "name": "DYHP 612 RMN Cebu",
+   "url": "http://www.dyhp612.com/",
+   "stream": "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 5014,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-radio-philippines-powered-by-www-amfmp",
+   "name": "Christmas Radio Philippines - Powered By www.amfmph.net",
+   "url": "https://www.amfmph.com/",
+   "stream": "https://us1.amfmph.com/ssl/christmasradio?mp=/stream&1641738050672",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3561,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s-pinoy-alternative",
+   "name": "90s Pinoy Alternative",
+   "url": "https://9paradio.com/",
+   "stream": "https://cast3.my-control-panel.com/proxy/ronald/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 2074,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mor-101-9-fm",
+   "name": "MOR 101.9 FM",
+   "url": "https://www.abs-cbn.com/entertainment/music",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 1406,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmn-dyri-iloilo",
+   "name": "RMN DYRI Iloilo",
+   "url": "https://rmn.ph/dyri774iloilo",
+   "stream": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
+   "codec": "aac",
+   "bitrate": 24,
+   "langs": [
+    "filipino"
+   ],
+   "genre": [],
+   "votes": 699,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-fm-92-7mhz-cdo-city",
+   "name": "Heart FM 92.7Mhz CDO City",
+   "url": "https://www.amfmph.com/",
+   "stream": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 550,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bible-radio",
+   "name": "BIBLE RADIO",
+   "url": "https://bible.radio/",
+   "stream": "https://stream.radio.co/se9de95c10/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 432,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-manila",
+   "name": "Love Radio Manila",
+   "url": "https://www.loveradio.com.ph/",
+   "stream": "https://a8.asurahosting.com:6820/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 408,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gv-99-1",
+   "name": "GV 99.1",
+   "url": "https://yourdriveradio.wixsite.com/gv991",
+   "stream": "https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "filipino",
+    "kapampangan"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 387,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dzrh",
+   "name": "DZRH",
+   "url": "https://www.dzrh.com.ph/",
+   "stream": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 328,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-89-9-aac",
+   "name": "Magic 89.9 (aac)",
+   "url": "https://www.magic899.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LIN_MAGIC899AAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 291,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eagle-fm-95-5",
+   "name": "Eagle FM 95.5",
+   "url": "https://net25.com/eaglefm955",
+   "stream": "https://n06.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABkvtiUekApAzmoP0lG-3HVQ",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 285,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-7-your-love-fm",
+   "name": "101.7 Your Love FM",
+   "url": "https://1017yourlovefm.com/",
+   "stream": "https://radio.1017yourlovefm.com/listen/sanibpwersa/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "NCR",
+   "genre": [],
+   "votes": 251,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fmr-98-3-camiguin",
+   "name": "FMR 98.3 Camiguin",
+   "url": "https://www.amfmph.com/",
+   "stream": "https://de3.amfmph.com/ssl/fmrcamiguin?mp=/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "filipino"
+   ],
+   "genre": [],
+   "votes": 241,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-rock-manila",
+   "name": "Easy Rock Manila",
+   "url": "https://www.easyrock.com.ph/",
+   "stream": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 232,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-bandera-puerto-princesa-palawan",
+   "name": "Radyo Bandera Puerto Princesa Palawan",
+   "url": "https://radyobanderafm.com/",
+   "stream": "https://bandera.radyoph.com:8000/895hq",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 220,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hope-fm-kenya",
+   "name": "Hope FM Kenya",
+   "url": "https://www.hopemediakenya.org/",
+   "stream": "https://a5.asurahosting.com:7530/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 209,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89-1-love-fm",
+   "name": "89.1 LOVE FM",
+   "url": "https://891lovefm.wixsite.com/my-site",
+   "stream": "https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 203,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fresh-fm",
+   "name": "FReSH FM",
+   "url": "https://freshfmph.com/",
+   "stream": "https://s36.radiolize.com/radio/8170/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 193,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "idmz-sayaw-pinoy",
+   "name": "IDMZ SAYAW PINOY!",
+   "url": "https://www.89dmz.com/",
+   "stream": "https://cast3.asurahosting.com/proxy/idmzsayawpinoy/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 170,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-visayas",
+   "name": "Radyo Natin (Visayas)",
+   "url": "https://radyonatin.com/",
+   "stream": "https://visayas.radyonatinfm.com:8000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 163,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maria-philippines",
+   "name": "Radio Maria Philippines",
+   "url": "https://www.radiomaria.ph/",
+   "stream": "https://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140",
+   "codec": "mp3",
+   "bitrate": 32,
+   "langs": [
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 139,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-naga",
+   "name": "Radyo Natin Naga",
+   "url": "https://radyonatinfm.com/naga/",
+   "stream": "https://web.radyonatinfm.com:8010/naga",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 121,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-mindanao",
+   "name": "Radyo Natin Mindanao",
+   "url": "https://radyonatinfm.com/mindanao/",
+   "stream": "https://mindanao.radyonatinfm.com:8000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 120,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xfm-96-7-bacolod",
+   "name": "XFM 96.7 BACOLOD",
+   "url": "https://www.amfmph.com/",
+   "stream": "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 116,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-1-yes-fm-manila",
+   "name": "101.1 Yes FM Manila",
+   "url": "https://www.yesfm.com.ph/radio?station=101.1-yes-the-best-manila",
+   "stream": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Manila",
+   "genre": [],
+   "votes": 114,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jeepney-pinoy-radio",
+   "name": "Jeepney Pinoy Radio",
+   "url": "https://www.jeepneypinoyradio.com/",
+   "stream": "https://usa5.fastcast4u.com/proxy/mcbnjpr?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 114,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-santiago-m3u",
+   "name": "Love Radio Santiago (M3U)",
+   "url": "https://www.loveradio.com.ph/santiago",
+   "stream": "https://lovesantiago.radioca.st/stream.m3u",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 112,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-bandera-malaybalay",
+   "name": "Radyo Bandera Malaybalay",
+   "url": "https://dj.radyoph.com:8000/",
+   "stream": "https://dj.radyoph.com:8000/bandera64",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 89,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "taps-radio-alicia",
+   "name": "TAPS RADIO ALICIA",
+   "url": "http://www.taps2011.com/",
+   "stream": "https://us1.amfmph.com/ssl/tapsradi?mp=/stream&1642337283814",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-24k-aac",
+   "name": "AMFMPH Streams Demo (24K AAC)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/ac24&1689430915322",
+   "codec": "aac",
+   "bitrate": 24,
+   "genre": [],
+   "votes": 86,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rpn-dxks-surigao",
+   "name": "RPN DXKS Surigao",
+   "url": "https://tunein.rpnradio.com/surigao",
+   "stream": "https://dxks-rpnradio.radioca.st/stream?1729944678085",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 80,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "opm-radio",
+   "name": "OPM RADIO",
+   "url": "https://www.opmradio.com/",
+   "stream": "https://listen.streamaudio.co/proxy/kaibiganradio/opm",
+   "codec": "aac",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 79,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-masbate",
+   "name": "Radyo Natin Masbate",
+   "url": "https://radyonatinfm.com/masbate/",
+   "stream": "https://net.radyonatinfm.com:8030/masbate",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 79,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yes-fm-zamboanga",
+   "name": "Yes FM Zamboanga",
+   "url": "https://www.yesfm.com.ph/radio?station=102.7-yes-the-best-zamboanga",
+   "stream": "https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-cdo",
+   "name": "Radyo Natin CDO",
+   "url": "https://radyonatinfm.com/cdo",
+   "stream": "https://wave.radyonatinfm.com:8030/cdo",
+   "codec": "aac",
+   "bitrate": 64,
+   "langCodes": [
+    "eng",
+    "fil"
+   ],
+   "genre": [],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wxb-102",
+   "name": "WXB 102",
+   "url": "https://wxb102.mixlr.com/",
+   "stream": "https://edge.mixlr.com/channel/lldmm",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-bandera-sweet-fm-iloilo",
+   "name": "Radyo Bandera Sweet FM Iloilo",
+   "url": "https://radyobanderailoilo.com/",
+   "stream": "https://us1.amfmph.com/ssl/sweetfmiloilo?mp=/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 67,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-128k-mp3",
+   "name": "AMFMPH Streams Demo (128K MP3)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/mp128&1689430094075",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 66,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aksyon-radyo-cebu",
+   "name": "Aksyon Radyo Cebu",
+   "url": "https://www.dyrcaksyonradyocebu.com/",
+   "stream": "https://a9.asurahosting.com:8260/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ewtn-philippines",
+   "name": "EWTN Philippines",
+   "url": "https://ewtnasiapacific.com/",
+   "stream": "https://ewtn-ice.streamguys1.com/philippines-aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 64,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "beat-fm",
+   "name": "Beat FM",
+   "url": "http://www.esbgph.com/beatfm",
+   "stream": "https://securestreams2.autopo.st:1242/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anchor-101-1fm-davao",
+   "name": "Anchor 101.1FM Davao",
+   "url": "https://bbbc.theanchor.app/#/",
+   "stream": "https://icecast.theanchor.app/bbbc",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 53,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-24k-mp3",
+   "name": "AMFMPH Streams Demo (24K MP3)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/mp24&1689430243457",
+   "codec": "mp3",
+   "bitrate": 24,
+   "genre": [],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-64k-mp3",
+   "name": "AMFMPH Streams Demo (64K MP3)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/mp64&1689430557825",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 52,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-katribu-philippines-teleradyo",
+   "name": "Radyo Katribu Philippines Teleradyo",
+   "url": "https://radyoph.com/station/radyokatribu/",
+   "stream": "https://io.radyoph.com:8020/katribu",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-guiuan",
+   "name": "Radyo Natin Guiuan",
+   "url": "https://radyonatinfm.com/guiuan/",
+   "stream": "https://air.radyonatinfm.com:8030/guiuan",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "true-life-in-god-radio-filipino",
+   "name": "True Life in God Radio Filipino",
+   "url": "https://tligradio.org/",
+   "stream": "https://stream.tligradio.org/listen/filipino/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-32k-aac",
+   "name": "AMFMPH Streams Demo (32K AAC)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/ac32&1689431062684",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 41,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-iriga",
+   "name": "Radyo Natin Iriga",
+   "url": "https://radyonatinfm.com/iriga/",
+   "stream": "https://mbc.radyonatinfm.com:8030/iriga",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-maramag",
+   "name": "Radyo Natin Maramag",
+   "url": "https://radyonatinfm.com/maramag/",
+   "stream": "https://air.radyonatinfm.com:8010/maramag",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-32k-mp3",
+   "name": "AMFMPH Streams Demo (32K MP3)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/mp32&1689430369832",
+   "codec": "mp3",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spotlight-radio-fm",
+   "name": "Spotlight Radio FM",
+   "url": "https://www.spotlightradiofm.com/",
+   "stream": "https://cast2.my-control-panel.com/proxy/dennis/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rn-bayombong",
+   "name": "RN BAYOMBONG",
+   "url": "https://radyonatinfm.com/bayombong/",
+   "stream": "https://web.radyonatinfm.com:8030/bayombong",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pinoy-power-radio-media",
+   "name": "Pinoy power radio media",
+   "url": "https://pinoypowermedia.com/",
+   "stream": "https://streaming.live365.com/a67821",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-48k-aac",
+   "name": "AMFMPH Streams Demo (48K AAC)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "awr-zamboanga-peninsula",
+   "name": "AWR Zamboanga Peninsula",
+   "url": "https://zpmadventist.org/awr-24-7/",
+   "stream": "https://awrzpm.radio.fm:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "b-107-9-fm-tacloban",
+   "name": "B 107.9 FM Tacloban",
+   "url": "https://b1079tacloban.weebly.com/",
+   "stream": "https://streamnavs.net:8147/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "taps-radio-ilagan",
+   "name": "TAPS RADIO ILAGAN",
+   "url": "http://www.taps2011.com/",
+   "stream": "https://us1.amfmph.com/ssl/tapsradioilagan?mp=/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-buhi",
+   "name": "Radyo Natin Buhi",
+   "url": "https://radyonatinfm.com/buhi",
+   "stream": "https://ph.radyonatinfm.com:8030/buhi",
+   "codec": "aac",
+   "bitrate": 64,
+   "langCodes": [
+    "eng",
+    "fil"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-nabunturan",
+   "name": "Radyo Natin Nabunturan",
+   "url": "https://radyonatinfm.com/nabunturan/",
+   "stream": "https://web.radyonatinfm.com:8020/nabunturan",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ufm-105-5-hd",
+   "name": "UFM 105.5 HD",
+   "url": "https://www.1055ufm.ph/",
+   "stream": "https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mabalacat, Pampanga",
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-96k-mp3",
+   "name": "AMFMPH Streams Demo (96K MP3)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/mp96&1689430709317",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-candon",
+   "name": "Radyo Natin Candon",
+   "url": "https://radyonatinfm.com/candon/",
+   "stream": "https://io.radyonatinfm.com:8030/candon",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-sorsogon",
+   "name": "Radyo Natin Sorsogon",
+   "url": "https://radyonatinfm.com/sorsogoncity/",
+   "stream": "https://stream.radyonatinfm.com:8010/sorsogon",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-moalboal",
+   "name": "Radyo Natin Moalboal",
+   "url": "https://radyonatinfm.com/moalboal/",
+   "stream": "https://fx.radyonatinfm.com:8030/moalboal",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-sta-elena",
+   "name": "Radyo Natin Sta. Elena",
+   "url": "https://radyonatinfm.com/sta-elena/",
+   "stream": "https://web.radyonatinfm.com:8000/sta.elena",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anchor-radio-urdaneta",
+   "name": "Anchor Radio Urdaneta",
+   "url": "https://cbc.theanchor.app/#/",
+   "stream": "https://icecast.theanchor.app/cbc",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "98-5-radio-john-binalbagan",
+   "name": "98.5 RADIO JOHN BINALBAGAN",
+   "url": "https://985radiojohn.weebly.com/",
+   "stream": "https://us1.amfmph.com/ssl/radiojohn?mp=/hd&1639728501890",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jungle-radio",
+   "name": "Jungle Radio",
+   "url": "https://radyoph.com/station/jungle-radio-puerto-princesa/",
+   "stream": "https://dj.radyoph.com:8020/jungleradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boracay-106-1-fm",
+   "name": "Radio Boracay 106.1 fm",
+   "url": "https://radio.org.ph/boracay-fm/",
+   "stream": "https://s135.radiolize.com/radio/8020/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cloudstaff-radio",
+   "name": "Cloudstaff Radio",
+   "url": "https://radio.cloudstaff.com/",
+   "stream": "https://cs-streamradio.cloudstaff.com:8020/cloudoverdrive.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-argao",
+   "name": "Radyo Natin Argao",
+   "url": "https://radyonatinfm.com/argao",
+   "stream": "https://sound.radyonatinfm.com:8030/argao",
+   "codec": "aac",
+   "bitrate": 64,
+   "langCodes": [
+    "eng",
+    "fil"
+   ],
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-lupon",
+   "name": "Radyo Natin Lupon",
+   "url": "https://radyonatinfm.com/lupon/",
+   "stream": "https://link.radyonatinfm.com:8030/lupon",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "extreme-radio",
+   "name": "Extreme radio",
+   "url": "https://extremeonlinefm.com/",
+   "stream": "https://razzrdfx.com/listen/extreme_radio/radio.mp3?1724304820301",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kjm-94-3-fm",
+   "name": "KJM 94.3 FM",
+   "url": "https://m.facebook.com/KJMFM/",
+   "stream": "https://stream.amfm.link:8010/kjm",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amfmph-streams-demo-48k-mp3",
+   "name": "AMFMPH Streams Demo (48K MP3)",
+   "url": "https://www.amfmph.net/demo/#player",
+   "stream": "https://us1.amfmph.com/proxy/iceshout?mp=/mp48&1689430463064",
+   "codec": "mp3",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shakey-s-radio",
+   "name": "Shakey's Radio",
+   "url": "https://www.shakeyspizza.ph/",
+   "stream": "https://play.radioking.io/shakeys-radio1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-brooke-s-point",
+   "name": "Radyo Natin Brooke's Point",
+   "url": "https://radyonatinbrookespoint.com/",
+   "stream": "https://xcite.radyonatinfm.com:8010/brookespoint",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kaibigan-radio",
+   "name": "Kaibigan Radio",
+   "url": "http://kaibiganradio.ph/player/",
+   "stream": "https://stream.rcast.net/66925",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-jagna",
+   "name": "Radyo Natin Jagna",
+   "url": "https://radyonatinfm.com/jagna/",
+   "stream": "https://stream.radyonatinfm.com:8030/jagna",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibcd-online-radio-dumaguete-city",
+   "name": "IBCD Online Radio - Dumaguete City",
+   "url": "https://ibcd.theanchor.app/#/",
+   "stream": "https://icecast.theanchor.app/ibcd",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "v81-radio",
+   "name": "V81 Radio",
+   "url": "https://www.v81radio.com/",
+   "stream": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bliss-radio",
+   "name": "Bliss Radio",
+   "url": "http://blissradio.net/",
+   "stream": "https://stream.blissradio.net/radio/8000//radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dzas-702",
+   "name": "Dzas 702",
+   "url": "https://febc.ph/",
+   "stream": "https://stream.radio.co/s14821250a/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mapua-radio-cardinal",
+   "name": "Mapúa Radio Cardinal",
+   "url": "https://www.mapuarc.com/",
+   "stream": "https://edge.mixlr.com/channel/nhtli",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-bongabong",
+   "name": "Radyo Natin Bongabong",
+   "url": "https://radyonatinfm.com/bongabong/",
+   "stream": "https://sound.radyonatinfm.com:8010/bongabong",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-ni-sano",
+   "name": "Radyo Ni Sano",
+   "url": "https://radyoph.com/station/radyo-ni-sano/",
+   "stream": "https://cd.radyoph.com:8000/rns128",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allhitz24",
+   "name": "AllHitz24",
+   "url": "https://www.allhitz24.com/",
+   "stream": "https://stream.allhitz24.com/64",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ok-fm-97-5-olongapo",
+   "name": "OK FM 97.5 Olongapo",
+   "url": "https://okfm975.mystation.me/",
+   "stream": "https://servidor22-5.brlogic.com:7014/live?source=website",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-malita",
+   "name": "Radyo Natin Malita",
+   "url": "https://radyonatinfm.com/malita/",
+   "stream": "https://link.radyonatinfm.com:8020/malita",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dxgp-89-7-agusan-radio",
+   "name": "DXGP 89.7 Agusan Radio",
+   "url": "https://radyoph.com/station/dxgp",
+   "stream": "https://ph.amfm.link:8020/dxgp",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-margosatubig",
+   "name": "Radyo Natin Margosatubig",
+   "url": "https://radyonatinfm.com/margosatubig/",
+   "stream": "https://pinas.radyonatinfm.com:8030/margosatubig",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-coron",
+   "name": "Radyo Natin Coron",
+   "url": "https://radyonatincoron.com/",
+   "stream": "https://xcite.radyonatinfm.com:8000/coron",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-kiamba",
+   "name": "Radyo Natin Kiamba",
+   "url": "https://radyonatinfm.com/kiamba/",
+   "stream": "https://hifi.radyonatinfm.com:8030/kiamba",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sanib-pwersa-101-7-ylfm-90-5-hfm",
+   "name": "SANIB PWERSA 101.7 YLFM & 90.5 HFM",
+   "url": "https://www.1017yourlovefm.com/",
+   "stream": "https://chloreign.com/listen/sanibpwersa/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-gumaca",
+   "name": "Radyo Natin Gumaca",
+   "url": "https://radyonatinfm.com/gumaca/",
+   "stream": "https://cd.radyonatinfm.com:8000/gumaca",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "103-3-dxjl-the-new-j-cagayan-de-oro",
+   "name": "103.3 DXJL The New J Cagayan de Oro",
+   "url": "https://febc.ph/",
+   "stream": "https://s3.radio.co/s3e33745fb/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "adventist-radio-south-philippines",
+   "name": "Adventist Radio South Philippines",
+   "url": "https://spucadventist.org/awr",
+   "stream": "https://stream3.awr.live/listen/adventist_radio_southph/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-bandera-olongapo",
+   "name": "Radyo Bandera Olongapo",
+   "url": "https://radyobanderafm.com/olongapo/",
+   "stream": "https://sound.amfm.link:8030/banderaolongapo",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abante-radyo",
+   "name": "Abante Radyo",
+   "url": "https://www.abante.com.ph/e/",
+   "stream": "https://stream.radio.co/s97e866418/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-108-fm",
+   "name": "Power 108 FM",
+   "url": "https://web.archive.org/web/20050215024348/http://power108fm.tripod.com/",
+   "stream": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-bandera-valencia",
+   "name": "Radyo Bandera Valencia",
+   "url": "https://radyobanderafm.com/valencia/",
+   "stream": "https://xcite.radyoph.com:8000/rbvalencia64",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-baao",
+   "name": "Radyo Natin Baao",
+   "url": "https://radyonatinfm.com/baao/",
+   "stream": "https://xcite.radyonatinfm.com:8030/baao",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bee-927-bohol",
+   "name": "Bee 927 Bohol",
+   "url": "https://bee927fmbohol.com/",
+   "stream": "https://cast3.asurahosting.com/proxy/victorjr/bee927fmbohol",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "manila-wave-radio-2",
+   "name": "Manila Wave Radio 2",
+   "url": "https://manilawaveradio.weebly.com/",
+   "stream": "https://a13.asurahosting.com/listen/manila_wave_radio_2/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ph-lite",
+   "name": "PH Lite",
+   "url": "https://stream.amfm.link/listen/ch1/phlite",
+   "stream": "https://stream.amfm.link/listen/ch1/phlite",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-looc",
+   "name": "Radyo Natin Looc",
+   "url": "https://radyonatinfm.com/looc/?p_asid=1&p_asl_data=1&customset[]=page&asl_gen[]=exact&qtranslate_lang=0&filters_initial=1&filters_changed=0&asl_s=Looc",
+   "stream": "https://audio.radyonatinfm.com:8030/looc",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "u-radio-107-9-fm",
+   "name": "U-Radio 107.9 FM",
+   "url": "https://radio.org.ph/u-107-9/",
+   "stream": "https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "103-1-mor-baguio",
+   "name": "103.1 MOR Baguio",
+   "url": "https://web.archive.org/web/20210124063437/https://www.abs-cbn.com/audio",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "97-1-xfm-roxas-palawan",
+   "name": "97.1 XFM Roxas, Palawan",
+   "url": "https://xfmphilippines.com/roxas/",
+   "stream": "https://sound.amfm.link:8010/xfmroxas",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "opm-rise-up-radio",
+   "name": "OPM Rise Up Radio",
+   "url": "https://opmriseupradio.com/",
+   "stream": "https://listen.streamaudio.co/proxy/opmriseupradio/opmriseup",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-laguna",
+   "name": "Radyo Natin Laguna",
+   "url": "https://radyonatinfm.com/laguna/",
+   "stream": "https://wave.radyonatinfm.com:8020/laguna",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-lemery",
+   "name": "Radyo Natin Lemery",
+   "url": "https://radyonatinfm.com/lemery/",
+   "stream": "https://xcite.radyonatinfm.com:8020/lemery",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyong-sira",
+   "name": "Radyong Sira!",
+   "url": "https://radyongsira.ltg.network/",
+   "stream": "https://a7.asurahosting.com:9110/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-house-radio",
+   "name": "Retro House Radio",
+   "url": "https://retrohouseradio.eu/",
+   "stream": "https://listen.streamaudio.co/proxy/retrohouseradio/house",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtg-fm",
+   "name": "RTG FM ㋡",
+   "url": "https://zharlzzz.netlify.app/",
+   "stream": "https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=67sn43rs%231%23ahyy%23ubzrcntr_jnpxra&mode=preroll&aw_0_1st.skey=1744454636&cb=424203436&listenerid=null&aw_0_1st.playerid=homepage_wacken&amsparams=playerid:homepage_wacken;skey:1744454639?.mp3;audio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "absfm-maramag",
+   "name": "ABSFM Maramag",
+   "url": "https://radyoph.com/station/absfm-maramag-bukidnon",
+   "stream": "https://dj.radyoph.com:8010/absfm_maramag",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dzbr-bible-radio",
+   "name": "DZBR Bible Radio",
+   "url": "https://bible.radio/home-2/",
+   "stream": "https://stream.radio.co/se9de95c10/low",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ok-fm-sogod",
+   "name": "OK-FM Sogod",
+   "url": "https://getradio.ph/",
+   "stream": "https://mercury.reliastream.com/proxy/broadte3?mp=/;",
+   "codec": "mp3",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pinoy-seoul-radio",
+   "name": "Pinoy Seoul Radio",
+   "url": "https://www.pinoyseoul.com/",
+   "stream": "https://radio.pinoyseoul.com/radio/8000/live.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-dipolog",
+   "name": "Radyo Natin Dipolog",
+   "url": "https://radyonatinfm.com/dipolog/",
+   "stream": "https://mbc.radyonatinfm.com:8010/dipolog",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-naval",
+   "name": "Radyo Natin Naval",
+   "url": "https://radyonatinfm.com/naval/",
+   "stream": "https://dj.radyonatinfm.com:8010/naval",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wow-radio",
+   "name": "WOW RADIO",
+   "url": "https://radyoph.com/station/wowradio",
+   "stream": "https://ph.amfm.link:8030/wowradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "agusan-del-sur-media-club",
+   "name": "Agusan Del Sur Media Club",
+   "url": "https://radyoph.com/station/amc-radio",
+   "stream": "https://io.amfm.link:8030/amcradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-fm-balamban-cebu",
+   "name": "Energy FM Balamban Cebu",
+   "url": "https://radyoph.com/station/dyhc",
+   "stream": "https://dj.amfm.link:8010/dyhc64",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "favorite-all-hit-radio-tagum",
+   "name": "Favorite All Hit Radio Tagum",
+   "url": "https://radyoph.com/station/favorite-all-hit-radio-tagum",
+   "stream": "https://cd.radyoph.com:8010/fahr_tagum",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "galactic-hearts-radio",
+   "name": "Galactic Hearts Radio",
+   "url": "https://sites.google.com/view/galacticheartsradio/home",
+   "stream": "https://ca.azura.linkodev.ch/listen/galactic_hearts_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ignite-radio",
+   "name": "Ignite Radio",
+   "url": "https://mixlr.com/ignite-radio-broadcast/embed",
+   "stream": "https://edge.mixlr.com/channel/jkbwc",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pines-fm-bataraza",
+   "name": "Pines FM Bataraza",
+   "url": "https://pinesfmbataraza.com/",
+   "stream": "https://xcite.radyoph.com:8010/pinesfm",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-bislig",
+   "name": "Radyo Natin Bislig",
+   "url": "https://www.radyonatin.com.ph/?station=radyo-natin-bislig",
+   "stream": "https://audio.radyonatinfm.com:8020/bislig",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-padre-garcia",
+   "name": "Radyo Natin Padre Garcia",
+   "url": "https://www.radyonatin.com.ph/?station=radyo-natin-padre-garcia",
+   "stream": "https://amp.radyonatinfm.com:8030/padregarcia",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-natin-tagum",
+   "name": "Radyo Natin Tagum",
+   "url": "https://radyonatinfm.com/tagum/",
+   "stream": "https://ph.radyonatinfm.com:8000/tagum",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tops-media-center",
+   "name": "Tops Media Center",
+   "url": "http://topsmediacenter.com/",
+   "stream": "https://s2.radio.co/s8d8aade20/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xfm-sagay",
+   "name": "XFM Sagay",
+   "url": "https://xfm-sample.infinityfreeapp.com/?i=2",
+   "stream": "https://proud-glitter-ed5b.johnrserantes424.workers.dev/",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

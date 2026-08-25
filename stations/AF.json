@@ -1,0 +1,539 @@
+{
+ "countryCode": "AF",
+ "country": "Afghanistan",
+ "slug": "afghanistan",
+ "continent": "asia",
+ "stationCount": 36,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/afghanistan/",
+ "stations": [
+  {
+   "id": "michael-jackson-music-star",
+   "name": "Michael Jackson music star",
+   "url": "",
+   "stream": "https://icy.unitedradio.it/um2908.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 5331,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nora-oldies",
+   "name": "RADIO NORA OLDIES",
+   "url": "",
+   "stream": "https://streams.norawebstreams.de/nora-oldies/mp3-192/homepage/?mode=preroll&aw_0_req.gdpr=true&aw_0_1st.kuid=vhyh95oqv&aw_0_1st.ksg=[%22tsrazhtr3%22,%22tow60dxfp%22,%22s7lqc5jxe%22,%22upxsvbudn%22,%22uphudti45%22,%22tz4swml9u%22,%22s697d7eir%22,%22s7ljhri17%22,%22s7lo2do21%22,%22s7lqvksor%22,%22s7ltd00sq%22,%22s7lul8vls%22,%22s7lvpn712%22,%22s7lwsqck7%22,%22s78nn0wkd%22,%22s71hrmzou%22,%22s8cm9eyzj%22,%22s8siicaeb%22,%22takaaes6u%22,%22ti505y9ml%22,%22tan9djjrm%22,%22ti54veycf%22,%22tow80eky2%22,%22uchw4pz1v%22]&listenerid=05ee3bdeb60ce97b7b5a8d8261306b0b&awparams=companionAds%3Atrue",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1341,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "melody-radio-telugu",
+   "name": "Melody Radio Telugu",
+   "url": "",
+   "stream": "https://a1.asurahosting.com:9580/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1090,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "meloradio",
+   "name": "MeloRadio",
+   "url": "",
+   "stream": "https://ml.cdn.eurozet.pl/mel-net.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1055,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiojar",
+   "name": "إذاعة القرآن الكريم",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 645,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bias-radio-flac",
+   "name": "BIAS radio flac",
+   "url": "",
+   "stream": "https://admin.biasradio.com/radio/8000/flac",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 502,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kiss-fm",
+   "name": "KISS FM",
+   "url": "",
+   "stream": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 483,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "pirat-fm",
+   "name": "PIRAT FM",
+   "url": "",
+   "stream": "https://c22.radioboss.fm:18416/piratfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 267,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esradio",
+   "name": "esRADIO",
+   "url": "",
+   "stream": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac?listenerid=0c6b1192515b0c9e2f0697d3ecbf43c6&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.7%3Ahtml5&aw_0_1st.playerid=jPlayer%202.9.2&aw_0_1st.skey=1601646790",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 261,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".القارئ محمد أيوب",
+   "url": "",
+   "stream": "https://qurango.net/radio/mohammed_ayyub",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 232,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nova-classics",
+   "name": "Nova Classics",
+   "url": "",
+   "stream": "https://nova-vnt.ice.infomaniak.ch/nova-vnt-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 149,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sha3by-fm",
+   "name": "Sha3by FM",
+   "url": "https://95-fm.com/",
+   "stream": "https://radio95.radioca.st/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 139,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "r-radio",
+   "name": "R.Radio",
+   "url": "",
+   "stream": "https://metromedia.live24.gr/republicthess",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 133,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "selah",
+   "name": "selah",
+   "url": "",
+   "stream": "https://ice10.securenetsystems.net/KHHKHD3",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 129,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nova-la-nuit",
+   "name": "Nova La Nuit",
+   "url": "",
+   "stream": "https://nova-ln.ice.infomaniak.ch/nova-ln-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 98,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nevasca-104-1-fm",
+   "name": "Rádio Nevasca 104.1 FM",
+   "url": "https://www.nevascafm.com.br/",
+   "stream": "https://cast2.youngtech.radio.br/radio/8110/radio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 82,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cosmo-hi",
+   "name": "Cosmo hi",
+   "url": "",
+   "stream": "https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 77,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jjj",
+   "name": "jjj",
+   "url": "",
+   "stream": "https://listen.moe/fallback",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vocaloid",
+   "name": "Vocaloid",
+   "url": "https://vocaloid.radioca.st/stream",
+   "stream": "https://vocaloid.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 60,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "solar-radio",
+   "name": "Solar Radio",
+   "url": "",
+   "stream": "https://msmn2.co/proxy/mp3high11/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 54,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ofm-stasie2",
+   "name": "ofm stasie2",
+   "url": "",
+   "stream": "https://edge.iono.fm/xice/47_high.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "o",
+   "name": "o",
+   "url": "",
+   "stream": "https://regiocast.streamabc.net/regc-80s80srock2191507-mp3-192-4255750?sABC=653oq0qr%230%2397s6949n50qrq44rs8q2sqqp0o630470%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1698418910",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "simulator-fm",
+   "name": "Simulator FM",
+   "url": "https://simulator.fm/",
+   "stream": "https://simulatorfm.stream:8025/320Kbps",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bt",
+   "name": "Bt",
+   "url": "",
+   "stream": "https://bigtunesradio.com:8100/trance.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cool93",
+   "name": "cool93",
+   "url": "",
+   "stream": "https://coolism-web3rd.cdn.byteark.com/;stream/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "joy",
+   "name": "Joy",
+   "url": "",
+   "stream": "https://stream.joyhits.online:8072/joyhits.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm",
+   "name": "EXA FM: په انګلیسي او هسپانوي کې پاپ موزیک",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 1396,
+   "clicks": 38,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "0-24-2000er-pop-rock",
+   "name": "0-24 2000ER POP ROCK",
+   "url": "",
+   "stream": "https://0-242000erpoprock.stream.laut.fm/0-24_2000er_pop_rock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 800,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "moon-phase-radio-ambient",
+   "name": "Moon Phase Radio: Ambient",
+   "url": "https://moonphaseradio.com/",
+   "stream": "https://cp12.serverse.com/proxy/moonphase/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 234,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-srood",
+   "name": "Radio Srood",
+   "url": "https://radiosrood.com/",
+   "stream": "https://stream.radiosrood.com/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 116,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dance-wave",
+   "name": "Dance Wave!",
+   "url": "https://dancewave.online/",
+   "stream": "https://dancewave.online/dance.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sbs-fm",
+   "name": "SBS 파워 FM",
+   "url": "",
+   "stream": "https://radio.bsod.kr/stream/?stn=sbs&ch=powerfm",
+   "codec": "aac",
+   "bitrate": 145,
+   "genre": [],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "121212121",
+   "name": "121212121",
+   "url": "https://www.powermixfm.com/",
+   "stream": "https://cast.iplayradio.net/listen/powermixfm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "師傅傅"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chalabi",
+   "name": "chalabi",
+   "url": "",
+   "stream": "https://listen.radioking.com/radio/291025/stream/337294",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "name",
+   "name": "name",
+   "url": "https://myradio24.org/5129",
+   "stream": "https://myradio24.org/5129",
+   "codec": "aac",
+   "bitrate": 111,
+   "langs": [
+    "123"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rpw",
+   "name": "rpw",
+   "url": "https://radiostream.pl/tuba140-1.mp3",
+   "stream": "https://radiostream.pl/tuba140-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "originarios"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

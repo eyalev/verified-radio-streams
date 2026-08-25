@@ -1,0 +1,3365 @@
+{
+ "countryCode": "CA",
+ "country": "Canada",
+ "slug": "canada",
+ "continent": "americas",
+ "stationCount": 152,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/canada/",
+ "stations": [
+  {
+   "id": "reggae-chill-cafe",
+   "name": "REGGAE CHILL CAFE",
+   "url": "https://radiosuitenetwork.torontocast.stream/",
+   "stream": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "chillout",
+    "reggae",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 8313,
+   "clicks": 32,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdmix-classic-rock-70s-80s-90s",
+   "name": "# RdMix Classic Rock 70s 80s 90s",
+   "url": "https://radiodimensionemix.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:4610/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "blues",
+    "classic-hits",
+    "classic-rock",
+    "country",
+    "hits",
+    "music",
+    "musica",
+    "oldies",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 4541,
+   "clicks": 98,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-greatest-of-the-80-s",
+   "name": "100 GREATEST OF THE 80'S",
+   "url": "https://100-greatest-network.torontocast.stream/",
+   "stream": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Ontario",
+   "genre": [
+    "80s"
+   ],
+   "votes": 3802,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "70-80-90-vibrazioni-rock-radio",
+   "name": "70 80 90 Vibrazioni Rock Radio",
+   "url": "https://radiosuitenetwork.torontocast.stream/vibrazioni-rock-radio/",
+   "stream": "https://maggie.torontocast.com:2020/stream/vibrazionirockradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "ontario",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "blues",
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 3449,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nature-radio-rain",
+   "name": "Nature Radio Rain",
+   "url": "https://radiosuitenetwork.torontocast.stream/nature-radio-rain/",
+   "stream": "https://maggie.torontocast.com:2020/stream/natureradiorain",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Toronto",
+   "genre": [
+    "ambient",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 3369,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ancient-fm",
+   "name": "Ancient FM",
+   "url": "https://www.ancientfm.com/",
+   "stream": "https://mediaserv73.live-streams.nl:18058/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classical",
+    "folk"
+   ],
+   "votes": 3252,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-greatest-heavy-metal",
+   "name": "# 100 GREATEST HEAVY METAL",
+   "url": "https://100-greatest-network.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:4660/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "metal",
+    "music",
+    "musica",
+    "oldies",
+    "rock"
+   ],
+   "votes": 2643,
+   "clicks": 36,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80-s-new-wave-radio",
+   "name": "80's New Wave Radio",
+   "url": "https://newwaveradio.org/",
+   "stream": "https://puma.streemlion.com:2910/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "80s",
+    "alternative"
+   ],
+   "votes": 2455,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "airport-lounge-radio",
+   "name": "AIRPORT LOUNGE RADIO",
+   "url": "https://radiosuitenetwork.torontocast.stream/airport-lounge-radio/",
+   "stream": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "ambient",
+    "chillout",
+    "easy-listening",
+    "house",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 2206,
+   "clicks": 33,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tafsir-coran",
+   "name": "..tafsir coran",
+   "url": "",
+   "stream": "https://qurango.net/radio/mukhtasartafsir",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1963,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "70s-80s-90s-rdmix-network",
+   "name": "# 70s 80s 90s RdMix Network",
+   "url": "https://radiodimensionemix.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:1830/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "dance",
+    "hits",
+    "music",
+    "musica",
+    "oldies",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "rock",
+    "top-100",
+    "top-hits"
+   ],
+   "votes": 1615,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdmix-djset-70s-80s-90s",
+   "name": "# RdMix DJSET 70s 80s 90s",
+   "url": "https://radiodimensionemix.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:4560/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "dance",
+    "dance-music",
+    "disco",
+    "electronic",
+    "hits",
+    "house",
+    "music",
+    "musica",
+    "oldies",
+    "pop",
+    "pop-music",
+    "rap",
+    "techno"
+   ],
+   "votes": 1386,
+   "clicks": 51,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdmix-italo-disco-80s",
+   "name": "# RdMix Italo Disco 80s",
+   "url": "https://radiodimensionemix.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:2130/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "80s",
+    "classic-hits",
+    "dance",
+    "dance-music",
+    "disco",
+    "electronic",
+    "hits",
+    "music",
+    "musica",
+    "oldies",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 1251,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-greatest-jazz-lounge-bar",
+   "name": "# 100 GREATEST JAZZ LOUNGE BAR",
+   "url": "https://100-greatest-network.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:4640/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "chillout",
+    "classic-hits",
+    "jazz",
+    "lounge",
+    "music",
+    "musica",
+    "oldies",
+    "relax",
+    "relaxing",
+    "smooth-jazz"
+   ],
+   "votes": 1132,
+   "clicks": 38,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-classique-quebec",
+   "name": "radio classique quebec",
+   "url": "https://www.radioclassique.ca/",
+   "stream": "https://www.radioking.com/play/radio-classique-quebec-92-7/301510",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 1010,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-greatest-classical-music",
+   "name": "# 100 GREATEST CLASSICAL MUSIC",
+   "url": "https://100-greatest-network.torontocast.stream/",
+   "stream": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classical",
+    "music",
+    "musica",
+    "opera"
+   ],
+   "votes": 863,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdmix-italian-vintage-70-80-90",
+   "name": "RDMIX ITALIAN VINTAGE 70 80 90",
+   "url": "https://radiodimensionemix.torontocast.stream/",
+   "stream": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 797,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "suite-jazz-radio",
+   "name": "Suite Jazz Radio",
+   "url": "https://radiosuitenetwork.torontocast.stream/suite-jazz-radio/",
+   "stream": "https://jenny.torontocast.com:2000/stream/suitejazzradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "blues",
+    "jazz"
+   ],
+   "votes": 794,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-acid-jazz",
+   "name": "100% ACID JAZZ",
+   "url": "https://radiosuitenetwork.torontocast.stream/100-acid-jazz/",
+   "stream": "https://mpc1.mediacp.eu:8356/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "ambient",
+    "hip-hop",
+    "jazz",
+    "relax",
+    "relaxing",
+    "smooth-jazz"
+   ],
+   "votes": 759,
+   "clicks": 34,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "a-mississippi-blues",
+   "name": "A MISSISSIPPI BLUES",
+   "url": "https://radiosuitenetwork.torontocast.stream/amississippiblues/",
+   "stream": "https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues",
+    "country",
+    "jazz",
+    "rock"
+   ],
+   "votes": 648,
+   "clicks": 47,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-jazz-deluxe",
+   "name": "SMOOTH JAZZ DELUXE",
+   "url": "https://radiosuitenetwork.torontocast.stream/smooth-jazz-deluxe/",
+   "stream": "https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "instrumental",
+    "jazz",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 621,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "choice-classic-rock",
+   "name": "Choice Classic Rock",
+   "url": "https://www.choiceclassicrock.com/",
+   "stream": "https://streamer.radio.co/s66f2626b4/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Manitoba",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "classic-rock"
+   ],
+   "votes": 610,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-classique",
+   "name": "Radio-Classique",
+   "url": "https://www.radioclassique.ca/",
+   "stream": "https://listen.radioking.com/radio/228241/stream/271810",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "classical",
+    "opera"
+   ],
+   "votes": 479,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wefunk",
+   "name": "WEFUNK",
+   "url": "http://www.wefunkradio.com/",
+   "stream": "https://s-09.wefunkradio.com:8443/wefunk64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "funk",
+    "hip-hop",
+    "soul"
+   ],
+   "votes": 417,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lighthouse-voar-fm",
+   "name": "Lighthouse VOAR-FM",
+   "url": "https://lighthousefm.org/",
+   "stream": "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Newfoundland and Labrador",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 411,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-9-rock",
+   "name": "101.9 ROCK",
+   "url": "https://www.1019rock.ca/",
+   "stream": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01",
+   "codec": "aac",
+   "bitrate": 198,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Canada",
+   "genre": [
+    "rock"
+   ],
+   "votes": 408,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "irock24-7",
+   "name": "irock24/7",
+   "url": "http://www.irock247.com/",
+   "stream": "https://streamer.radio.co/s493283a7e/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 399,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "j1-gold",
+   "name": "J1 GOLD",
+   "url": "https://www.j1fm.tokyo/",
+   "stream": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "60s",
+    "70s",
+    "80s"
+   ],
+   "votes": 388,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sensual-lounge-radio",
+   "name": "SENSUAL LOUNGE RADIO",
+   "url": "https://radiosuitenetwork.torontocast.stream/sensual-lounge",
+   "stream": "https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "easy-listening",
+    "jazz",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 385,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-rdmix-love-songs",
+   "name": "#1 RdMix Love Songs",
+   "url": "https://radiodimensionemix.torontocast.stream/",
+   "stream": "https://maggie.torontocast.com:2020/stream/rdmixlovesongs",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "love-songs",
+    "music",
+    "musica",
+    "oldies",
+    "pop",
+    "pop-music",
+    "relax",
+    "relaxing",
+    "rnb",
+    "romantic"
+   ],
+   "votes": 367,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lapfox-radio-flac",
+   "name": "Lapfox Radio (FLAC)",
+   "url": "https://lapfoxradio.com/",
+   "stream": "https://radio.lapfoxradio.com/radio/8000/stream-flac.flac",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 338,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retrosouvenirs",
+   "name": "RetroSouvenirs",
+   "url": "http://retrosouvenirs.com/",
+   "stream": "https://listen.radioking.com/radio/108/stream/61183",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "50s",
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 268,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red-fm-88-9",
+   "name": "Red FM 88.9",
+   "url": "",
+   "stream": "https://ice9.securenetsystems.net/CIRVFM",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 250,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-covers-lounge",
+   "name": "100 % COVERS LOUNGE",
+   "url": "https://radiosuitenetwork.torontocast.stream/100-covers-lounge/",
+   "stream": "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "house",
+    "jazz",
+    "lounge",
+    "reggae",
+    "relax",
+    "smooth-jazz"
+   ],
+   "votes": 226,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjsq-fm-92-7-radio-classique-quebec-city-qc-320k",
+   "name": "CJSQ-FM 92.7 \"Radio Classique\" Quebec City, QC (320K MP3 Stream)",
+   "url": "http://www.radioclassique.ca/",
+   "stream": "https://listen.radioking.com/radio/256885/stream/301510",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "classical"
+   ],
+   "votes": 213,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "labgate-classic-rock",
+   "name": "Labgate - Classic Rock",
+   "url": "https://labgateradio.com/accueil/classic-rock/",
+   "stream": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Quebec",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 210,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "crik-the-lynx-classic-rock-calgary-alberta-canad",
+   "name": "CRIK - The Lynx Classic Rock - Calgary, Alberta, Canada",
+   "url": "",
+   "stream": "https://rock-lynxradio.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 202,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-pop-rock-radio",
+   "name": "Power Pop Rock Radio",
+   "url": "https://www.powerradio.world/",
+   "stream": "https://cheetah.streemlion.com:3430/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Ontario",
+   "genre": [
+    "classic-rock",
+    "pop",
+    "rock"
+   ],
+   "votes": 168,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjyc-98-9-kool-98-saint-john-nb",
+   "name": "CJYC 98.9 \"Kool 98\" Saint John, NB",
+   "url": "http://kool98.fm/",
+   "stream": "https://mbsradio.leanstream.co/CJYCFM-MP3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New Brunswick",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 147,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-95",
+   "name": "Rock 95",
+   "url": "https://rock95.com/",
+   "stream": "https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 142,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "j-pop-powerplay-kawaii",
+   "name": "J-Pop Powerplay Kawaii",
+   "url": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3060/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "jpop"
+   ],
+   "votes": 138,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "labgate-pop-rock",
+   "name": "Labgate Pop Rock",
+   "url": "https://labgateradio.com/",
+   "stream": "https://s2.ssl-stream.com/radio/8200/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Quebec",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 138,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-fm91-cjrt-fm",
+   "name": "JAZZ.FM91 (CJRT-FM)",
+   "url": "https://jazz.fm/",
+   "stream": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbc-music-pacific-vancouver-mp3-stream",
+   "name": "CBC Music Pacific (Vancouver) MP3 Stream",
+   "url": "https://www.cbc.ca/music",
+   "stream": "https://26283.live.streamtheworld.com/CBUFM_CBC_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "blues",
+    "classical",
+    "folk",
+    "jazz"
+   ],
+   "votes": 124,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ciss-kiss-fm-105-3-ottawa",
+   "name": "CISS - Kiss FM 105.3 Ottawa",
+   "url": "",
+   "stream": "https://rogers.leanstream.co/rogers/ott1053.stream/icy",
+   "codec": "aac",
+   "bitrate": 198,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 117,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lapfox-radio-mp3-320k",
+   "name": "Lapfox Radio (MP3 320k)",
+   "url": "https://lapfoxradio.com/",
+   "stream": "https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 111,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfix-fm-rouge-fm-96-9-saguenay-qc",
+   "name": "CFIX-FM \"Rouge FM 96.9\" Saguenay, QC",
+   "url": "https://www.iheartradio.ca/rouge-fm/rouge-fm-saguenay/",
+   "stream": "https://26373.live.streamtheworld.com/CFIXFMAAC_SC",
+   "codec": "aac",
+   "bitrate": 40,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 110,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maiqly-maher",
+   "name": "Maiqly Maher",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/maher",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 104,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfch-country-90-5-north-bay-on",
+   "name": "CFCH \"Country 90.5\" North Bay, ON",
+   "url": "https://www.mynorthbaynow.com/on-air/cfch/",
+   "stream": "https://vistaradio.streamb.live/SB00101",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "country"
+   ],
+   "votes": 101,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbc-music-eastern-toronto-mp3-stream",
+   "name": "CBC Music Eastern (Toronto) MP3 Stream",
+   "url": "https://www.cbc.ca/music",
+   "stream": "https://26373.live.streamtheworld.com/CBLFM_CBC_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "blues",
+    "classical",
+    "folk",
+    "jazz"
+   ],
+   "votes": 99,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "calmradio-rossini",
+   "name": "Calmradio Rossini",
+   "url": "http://calmradio.com/",
+   "stream": "https://proxy.calmradio.com:14128/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 89,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckbw-fm-98-1-bridgewater-94-5-liverpool-93-1-she",
+   "name": "CKBW-FM 98.1 Bridgewater, 94.5 Liverpool, 93.1 Shelburne, NS",
+   "url": "https://www.ckbw.ca/",
+   "stream": "https://ais-sa1.streamon.fm/7239_128k.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Nova Scotia",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 85,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "93-7-jr-country-vancouver-bc",
+   "name": "93.7 JR Country - Vancouver, BC",
+   "url": "https://www.jrcountry.ca/",
+   "stream": "https://redirect.jpbgdigital.com/CJJR",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "BC",
+   "genre": [
+    "country"
+   ],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jb-radio-2",
+   "name": "jb radio 2",
+   "url": "https://jb-radio.net/",
+   "stream": "https://mediacp.jb-radio.net:8001/flac",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music",
+    "rock"
+   ],
+   "votes": 76,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "quran",
+   "name": ".Quran",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-country-fm-89-1",
+   "name": "Radio Disney Country FM 89.1",
+   "url": "https://radio.disney.com/",
+   "stream": "https://listen.radioking.com/radio/453221/stream/508076",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Brampton, Ontario",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bolly-radio-canada",
+   "name": "Bolly radio Canada",
+   "url": "https://carina.streamerr.co/stream/8206",
+   "stream": "https://carina.streamerr.co/stream/8206",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjbb-103-1-the-train-englehart-on",
+   "name": "CJBB 103.1 \"The Train\" Englehart, ON",
+   "url": "https://1031thetrain.com/",
+   "stream": "https://ice10.securenetsystems.net/CJBB",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bolly-radio-com",
+   "name": "Bolly Radio.com",
+   "url": "https://onlineradiobox.com/json/ca/bolly/play?platform=web",
+   "stream": "https://onlineradiobox.com/json/ca/bolly/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 65,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-club-bandstand",
+   "name": "Jazz Club Bandstand",
+   "url": "https://jclubbandstand.com/",
+   "stream": "https://cast1.torontocast.com:2060/;.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 65,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jb-radio-2-aac",
+   "name": "JB Radio-2 (AAC)",
+   "url": "https://jb-radio.net/",
+   "stream": "https://mediacp.jb-radio.net:8001/aac",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "blues",
+    "rock"
+   ],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjrp-fm-alive-fm-saint-john-canada",
+   "name": "CJRP-FM - Alive FM Saint John Canada",
+   "url": "http://www.ckoradio.com/",
+   "stream": "https://us9.streamingpulse.com/ssl/NewsongFM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New Brunswick",
+   "genre": [
+    "music"
+   ],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "a9radio",
+   "name": "A9RADIO",
+   "url": "https://a9radio.com/",
+   "stream": "https://a9radio1-a9media.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 63,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiojar",
+   "name": "إذاعة القرآن الكريم",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 63,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfhi-boom-104-9-hinton-ab",
+   "name": "CFHI \"Boom 104.9\" Hinton, AB",
+   "url": "https://boom1049.com/",
+   "stream": "https://newcap.leanstream.co/CFHIFM",
+   "codec": "aac",
+   "bitrate": 132,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "choo-fm-boom-99-5-drumheller-ab",
+   "name": "CHOO-FM \"Boom 99.5\" Drumheller, AB",
+   "url": "https://boom995.ca/",
+   "stream": "https://newcap.leanstream.co/CHOOFM",
+   "codec": "aac",
+   "bitrate": 130,
+   "format": "music",
+   "state": "Alberta",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckut-90-3-fm",
+   "name": "CKUT 90.3 FM",
+   "url": "https://www.ckut.ca/en",
+   "stream": "https://ckut.out.airtime.pro/ckut_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nitty-gritty-music-radio",
+   "name": "Nitty-Gritty Music Radio",
+   "url": "https://ocv.torontocast.stream/",
+   "stream": "https://cast1.torontocast.com:1490/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues",
+    "country",
+    "oldies",
+    "r&b",
+    "rock",
+    "soul"
+   ],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flow-98-7-ckfg-fm-toronto",
+   "name": "Flow 98 7 CKFG-FM - Toronto",
+   "url": "https://flow987.com/",
+   "stream": "https://ice64.securenetsystems.net:80/CKFG",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "state": "Ontario",
+   "genre": [
+    "hip-hop",
+    "r&b",
+    "reggae"
+   ],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ottawa-live-885-clivfm",
+   "name": "Ottawa Live 885 (CLIVFM)",
+   "url": "https://www.live885.com/",
+   "stream": "https://newcap.leanstream.co/CILVFM-MP3?args=web_03",
+   "codec": "aac",
+   "bitrate": 130,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckay-91-7-coast-fm-nanaimo-bc",
+   "name": "CKAY 91.7 \"Coast FM\" Nanaimo, BC",
+   "url": "https://www.mycoastnow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00081",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "hits"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbc-music-atlantic-halifax-mp3-stream",
+   "name": "CBC Music Atlantic (Halifax) MP3 Stream",
+   "url": "https://www.cbc.ca/music",
+   "stream": "https://26283.live.streamtheworld.com/CBH_CBC_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nova Scotia",
+   "genre": [
+    "blues",
+    "classical",
+    "folk",
+    "jazz"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjsq-fm-92-7-radio-classique-quebec-city-qc-128k",
+   "name": "CJSQ-FM 92.7 \"Radio Classique\" Quebec City, QC (128K MP3 Stream)",
+   "url": "http://www.radioclassique.ca/",
+   "stream": "https://listen.radioking.com/radio/256885/stream/301504",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "classical"
+   ],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-lynx-disco-classics",
+   "name": "THE LYNX DISCO CLASSICS",
+   "url": "https://www.lynxradionetwork.com/",
+   "stream": "https://disco-lynxradio.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "disco"
+   ],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "620-ckrm-the-source",
+   "name": "620 CKRM The Source",
+   "url": "https://www.620ckrm.com/",
+   "stream": "https://ais-sa1.streamon.fm/7267_64k.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Saskatchewan",
+   "genre": [
+    "country"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chab-800-moose-jaw-sk",
+   "name": "CHAB 800 Moose Jaw, SK",
+   "url": "https://www.discovermoosejaw.com/chab",
+   "stream": "https://goldenwest.leanstream.co/CHABAM",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Saskatchewan",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjjm-99-3-moose-fm-espanola-on",
+   "name": "CJJM 99.3 \"Moose FM\" Espanola, ON",
+   "url": "https://www.myespanolanow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00099",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckez-z97-9-new-glasgow-ns",
+   "name": "CKEZ \"Z97.9\" New Glasgow, NS",
+   "url": "https://z979.ca/",
+   "stream": "https://newcap.leanstream.co/CKEZFM",
+   "codec": "aac",
+   "bitrate": 132,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nova Scotia",
+   "genre": [
+    "classic-hits",
+    "classic-rock"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "toronto-global-radio-trance",
+   "name": "Toronto Global Radio - Trance",
+   "url": "https://www.torontoglobalradio.com/",
+   "stream": "https://london-dedicated.myautodj.com:3199/proxy/trance/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "trance"
+   ],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-beat",
+   "name": "The Beat",
+   "url": "https://www.thebeat925.ca/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFM.mp3",
+   "codec": "unknown",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Montreal",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbc-music-central-winnipeg-mp3-stream",
+   "name": "CBC Music Central (Winnipeg) - MP3 Stream",
+   "url": "https://www.cbc.ca/music",
+   "stream": "https://26373.live.streamtheworld.com/CBWFM_CBC_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Manitoba",
+   "genre": [
+    "blues",
+    "classical",
+    "folk",
+    "jazz"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-bonita-x101",
+   "name": "La Bonita X101",
+   "url": "https://www.labonita.sitiolink.com/",
+   "stream": "https://listen.labonita.torontocast.stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espanish",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "latin",
+    "latin-music",
+    "oldies"
+   ],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjrw-102-1-spud-fm-summerside-pe",
+   "name": "CJRW 102.1 \"Spud FM\" Summerside, PE",
+   "url": "",
+   "stream": "https://mbsradio.leanstream.co/CJRWFM-MP3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "d1-alternative",
+   "name": "D1 Alternative",
+   "url": "https://d1alternative.com/",
+   "stream": "https://cast1.torontocast.com:2545/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cimy-fm-104-9-myfm-pembroke-on",
+   "name": "CIMY-FM 104.9 \"MyFM\" Pembroke, ON",
+   "url": "https://www.pembroketoday.ca/",
+   "stream": "https://mybroadcasting.streamb.live/SB00305",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ciwv-fm-wave-98-3-vancouver-bc",
+   "name": "CIWV-FM \"Wave 98.3\" Vancouver, BC",
+   "url": "https://www.wave983.fm/",
+   "stream": "https://stream2.statsradio.com:8152/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckng-fm-the-chuck-92-5-edmonton-ab-aac-stream",
+   "name": "CKNG-FM \"The Chuck 92.5\" Edmonton, AB (AAC Stream)",
+   "url": "https://chuck925.com/",
+   "stream": "https://corus.leanstream.co/CKNGFM",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-unicite",
+   "name": "Radio Unicité",
+   "url": "http://unicite.ca/",
+   "stream": "https://listen.radioking.com/radio/521287/stream/579484",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "80s",
+    "dance",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lumiradio-24-7-unofficial-homestuck-radio",
+   "name": "lumiRadio - 24/7 Unofficial Homestuck Radio",
+   "url": "https://lumirad.io/",
+   "stream": "https://audio-edge-hy4wy.blr.d.radiomast.io/abe5f558-c883-47de-91ea-e04a06ed1fd4",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alt-80",
+   "name": "ALT/80",
+   "url": "https://alt80radio.blogspot.com/",
+   "stream": "https://jenny.torontocast.com:8050/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "80s"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "american-roots-radio",
+   "name": "American Roots Radio",
+   "url": "https://americanrootsradio.com/",
+   "stream": "https://stream.americanrootsradio.com:3035/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "country"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfmz-96-3-the-new-classical-fm",
+   "name": "CFMZ 96.3 \"The New Classical FM\"",
+   "url": "https://classicalfm.ca/",
+   "stream": "https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classical",
+    "easy-listening",
+    "opera",
+    "orchestral",
+    "romantic"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cilg-fm-100-7-country-100-moose-jaw-sk",
+   "name": "CILG-FM 100.7 \"Country 100\" Moose Jaw, SK",
+   "url": "https://www.discovermoosejaw.com/country100",
+   "stream": "https://goldenwest.leanstream.co/CILGFM",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Saskatchewan",
+   "genre": [
+    "country"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjuv-fm-94-1-sunny-94",
+   "name": "CJUV-FM 94.1 Sunny 94",
+   "url": "https://lacombeonline.com/sunny",
+   "stream": "https://goldenwest.leanstream.co/CJUVFM-MP3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "format": "music",
+   "state": "Alberta",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "country-106-7",
+   "name": "Country 106.7",
+   "url": "https://www.country1067.com/",
+   "stream": "https://rogers.leanstream.co/rogers/kit1067.stream/icy?environment=tunein&args=tunein_01",
+   "codec": "aac",
+   "bitrate": 198,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-regent-com-toronto-on",
+   "name": "Radio Regent.com Toronto, ON",
+   "url": "https://www.radioregent.com/",
+   "stream": "https://streamer.radio.co/se3e1e3815/low",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "hip-hop",
+    "reggae"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spirit-fm",
+   "name": "Spirit FM",
+   "url": "https://www.spiritfm.ca/",
+   "stream": "https://ais-sa1.streamon.fm/7155_48k.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-lynx-classic-hits",
+   "name": "THE LYNX CLASSIC HITS",
+   "url": "https://www.lynxradionetwork.com/",
+   "stream": "https://hits-lynxradio.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-9-the-wave-ckto-fm-truro",
+   "name": "100.9 The Wave - CKTO-FM, Truro",
+   "url": "https://thewavetruro.com/",
+   "stream": "https://mbsradio-ais.leanstream.co/CKTOFM-MP3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nova Scotia",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "choc-88-7",
+   "name": "CHOC 88.7",
+   "url": "https://choc887.com/",
+   "stream": "https://stream2.statsradio.com:8110/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "classic-hits",
+    "folk",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbc-music-central-winnipeg-mb",
+   "name": "CBC Music (Central) - Winnipeg, MB",
+   "url": "https://www.cbc.ca/music",
+   "stream": "https://22983.live.streamtheworld.com/CBWFM_CBC_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Manitoba",
+   "genre": [
+    "classical",
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjmd-96-9-levis-qc",
+   "name": "CJMD 96.9 Levis, QC",
+   "url": "https://969fm.ca/",
+   "stream": "https://arcq.streamb.live/SB00213",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "hip-hop",
+    "rock"
+   ],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfnv-am-940-montreal-qc",
+   "name": "CFNV \"AM 940\" Montreal, QC",
+   "url": "https://www.cnv.ca/940.html",
+   "stream": "https://centova.radioservers.biz/proxy/cnv3/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ciat-fm-98-1-cat-country-98-assiniboia-sk",
+   "name": "CIAT-FM 98.1 \"Cat Country 98\" Assiniboia, SK",
+   "url": "https://www.myassiniboia.ca/",
+   "stream": "https://cat-country-98.streamb.live/SB00148",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Saskatchewan",
+   "genre": [
+    "country"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-beauce",
+   "name": "CoolFM Beauce",
+   "url": "https://www.coolfm.biz/",
+   "stream": "https://stream.statsradio.com:8040/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjoc-94-1-classic-hits-lethbridge-ab",
+   "name": "CJOC 94.1 \"Classic Hits\" Lethbridge, AB",
+   "url": "https://www.mylethbridgenow.com/category/on-air/94-1-cjoc-fm/",
+   "stream": "https://vistaradio.streamb.live/SB00093",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 20,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjuv-fm-94-1-sunny-94-lacombe-ab-aac-stream",
+   "name": "CJUV-FM 94.1 \"Sunny 94\" Lacombe, AB (AAC Stream)",
+   "url": "https://www.lacombeonline.com/sunny",
+   "stream": "https://goldenwest.leanstream.co/CJUVFM",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckcu-fm-93-1",
+   "name": "CKCU FM 93.1",
+   "url": "https://www.ckcufm.com/",
+   "stream": "https://stream2.statsradio.com:8124/stream",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckng-fm-the-chuck-92-5-edmonton-ab-mp3-stream",
+   "name": "CKNG-FM \"The Chuck 92.5\" Edmonton, AB (MP3 Stream)",
+   "url": "https://chuck925.com/",
+   "stream": "https://corus.leanstream.co/CKNGFM-MP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-5-the-hawk-cigo-fm",
+   "name": "101.5 - The Hawk - CIGO-FM",
+   "url": "",
+   "stream": "https://ais-sa1.streamon.fm/7932_96k.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 19,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjry-105-9-shinefm",
+   "name": "CJRY 105.9 Shinefm",
+   "url": "https://www.cjry.ca/",
+   "stream": "https://shinefm.streamguys1.com/cjry",
+   "codec": "aac",
+   "bitrate": 95,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "music",
+    "worship"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canada-at-large",
+   "name": "Canada At Large",
+   "url": "https://www.canadaatlarge.com/",
+   "stream": "https://radio.canadaatlarge.com/listen/canada_at_large/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "ambient",
+    "electronic",
+    "instrumental",
+    "pop-rock"
+   ],
+   "votes": 18,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjcd-fm-100-1-true-north-fm-yellowknife-nt",
+   "name": "CJCD-FM 100.1 \"True North FM\" Yellowknife, NT",
+   "url": "https://www.mytruenorthnow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00088",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Northwest Territories",
+   "genre": [
+    "classic-hits",
+    "classic-rock"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjny-fm-106-3-the-journey-vancouver-bc",
+   "name": "CJNY-FM 106.3 \"The Journey\" Vancouver, BC",
+   "url": "https://www.cjnyfm.ca/",
+   "stream": "https://torres-media.streamb.live/SB00168",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjoj-fm-95-5-hits-fm-belleville-on",
+   "name": "CJOJ-FM 95.5 \"Hits FM\" Belleville, ON",
+   "url": "https://955hitsfm.ca/",
+   "stream": "https://starboard.streamb.live/SB00160",
+   "codec": "aac",
+   "bitrate": 98,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "80s",
+    "90s",
+    "adult-contemporary"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckbf-fm-104-1-bfbs-canada-cfb-suffield-ab",
+   "name": "CKBF-FM 104.1 \"BFBS Canada\" CFB Suffield, AB",
+   "url": "https://radio.bfbs.com/stations/bfbs-canada",
+   "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckyq-hit-country-95-7-centre-du-quebec-plessisvi",
+   "name": "CKYQ \"Hit Country 95.7 Centre-du-Quebec\" Plessisville, QC",
+   "url": "https://hitcountry.com/hit-country-957/",
+   "stream": "https://14223.live.streamtheworld.com/CKYQ_FM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "country"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "94-9-the-wave-ckpe-fm",
+   "name": "94.9 The Wave - CKPE-FM",
+   "url": "",
+   "stream": "https://mbsradio.leanstream.co/CKPEFM-MP3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-854",
+   "name": "Radio 854",
+   "url": "https://www.radio854.com/",
+   "stream": "https://jenny.torontocast.com:8034/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "nl"
+   ],
+   "state": "Toronto",
+   "genre": [
+    "oldies",
+    "pop",
+    "top-40"
+   ],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfna-99-7-country-99-fm-bonnyville-ab",
+   "name": "CFNA 99.7 \"Country 99 FM\" Bonnyville, AB",
+   "url": "https://www.mylakelandnow.com/on-air/",
+   "stream": "https://vistaradio.streamb.live/SB00089",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "country"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfpw-95-7-coast-fm-powell-river-bc",
+   "name": "CFPW 95.7 \"Coast FM\" Powell River, BC",
+   "url": "https://www.mypowellrivernow.com/on-air/",
+   "stream": "https://vistaradio.streamb.live/SB00082",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chtm-102-9-fm-610-am-arctic-radio-thompson-mb",
+   "name": "CHTM 102.9 FM & 610 AM \"Arctic Radio\" Thompson, MB",
+   "url": "https://thompsononline.ca/chtm.php",
+   "stream": "https://us2.maindigitalstream.com/ssl/CHTM",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Manitoba",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjrb-1220-boissevain-mb",
+   "name": "CJRB 1220 Boissevain, MB",
+   "url": "https://www.discoverwestman.com/cjrb",
+   "stream": "https://goldenwest.leanstream.co/CJRBAM",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Manitoba",
+   "genre": [
+    "classic-hits",
+    "easy-listening",
+    "oldies"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckmo-101-5-fm101-orangeville-on",
+   "name": "CKMO 101.5 \"FM101\" Orangeville, ON",
+   "url": "https://www.orangevilletoday.ca/",
+   "stream": "https://localradio.streamb.live/SB00096",
+   "codec": "aac",
+   "bitrate": 55,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiowaves",
+   "name": "RADIOWAVES",
+   "url": "https://www.marcofantasia.eu/radiowaves",
+   "stream": "https://quincy.torontocast.com/radiowaves",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "funk",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjli-am700-the-light",
+   "name": "CJLI am700 The Light",
+   "url": "https://www.cjli.ca/",
+   "stream": "https://shinefm.streamguys1.com/cjli",
+   "codec": "aac",
+   "bitrate": 95,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "rock",
+    "worship"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckjr-w1440-wetaskiwin-ab",
+   "name": "CKJR \"W1440\" Wetaskiwin, AB",
+   "url": "https://w1440.com/",
+   "stream": "https://newcap.leanstream.co/CKJRAM",
+   "codec": "aac",
+   "bitrate": 132,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Alberta",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cinb-fm-oldies96-saint-john-nb",
+   "name": "CINB-FM \"Oldies96\" - Saint John, NB",
+   "url": "https://oldies96.com/",
+   "stream": "https://us9.streamingpulse.com/ssl/oldies96",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New Brunswick",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hutton-orbital-radio",
+   "name": "Hutton Orbital Radio",
+   "url": "https://www.forthemug.com/",
+   "stream": "https://quincy.torontocast.com/hutton",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chjm-mix-99-7-saint-georges-qc",
+   "name": "CHJM \"Mix 99.7\" Saint-Georges, QC",
+   "url": "https://www.mix997.com/",
+   "stream": "https://stream.statsradio.com:8054/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cibm-fm-107-1-fm107-riviere-du-loup-qc-128-kbps-",
+   "name": "CIBM-FM 107.1 \"FM107\" Riviere-du-Loup, QC (128 kbps MP3)",
+   "url": "https://www.cibm107.com/",
+   "stream": "https://stream.statsradio.com:8050/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfxn-106-3-jet-fm-north-bay-on",
+   "name": "CFXN 106.3 \"Jet FM\" North Bay, ON",
+   "url": "https://www.mynorthbaynow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00100",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chmt-93-1-country-fm-timmins-on",
+   "name": "CHMT \"93.1 Country FM\" Timmins, ON",
+   "url": "https://www.mytimminsnow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00105",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "country"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-coast-89-7-ckoa-fm",
+   "name": "The Coast 89.7 CKOA-FM",
+   "url": "http://www.coastalradio.ca/",
+   "stream": "https://s45.myradiostream.com/:15204/listen.mp3/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nova Scotia",
+   "genre": [
+    "hits"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfry-920-portage-la-prairie-mb",
+   "name": "CFRY 920 Portage La Prairie, MB",
+   "url": "https://www.portageonline.com/cfry",
+   "stream": "https://goldenwest.leanstream.co/CFRYAM",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Manitoba",
+   "genre": [
+    "country"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cidg-fm-rebel-rock101-7-ottawa-on",
+   "name": "CIDG-FM \"Rebel Rock101.7\" Ottawa, ON",
+   "url": "https://www.rebel1017.com/",
+   "stream": "https://torres-media.streamb.live/SB00189",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "freecodecamp-code-radio",
+   "name": "freeCodeCamp Code Radio",
+   "url": "https://coderadio.freecodecamp.org/",
+   "stream": "https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "only-music"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Toronto, ON",
+   "genre": [
+    "downtempo",
+    "instrumental",
+    "relaxing"
+   ],
+   "votes": 11,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "choa-fm-wow-fm-96-5-rouyn-noranda-103-5-val-d-or",
+   "name": "CHOA-FM \"WOW-FM\" 96.5 Rouyn-Noranda, 103.5 Val d'Or, 103.9 La Sarre, QC",
+   "url": "https://wowfm.com/",
+   "stream": "https://18213.live.streamtheworld.com/CHOA_FM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chpb-98-1-moose-fm-cochrane-on",
+   "name": "CHPB 98.1 \"Moose FM\" Cochrane, ON",
+   "url": "https://www.mycochranenow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00103",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cilt-fm-mix-96-7-steinbach-mb",
+   "name": "CILT-FM \"Mix 96.7\" Steinbach,MB",
+   "url": "https://steinbachonline.com/mix96",
+   "stream": "https://goldenwest.leanstream.co/CILTFM",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Manitoba",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cjem-92-7-frontiere-fm-edmunston-nb",
+   "name": "CJEM 92.7 \"Frontiere FM\" Edmunston, NB",
+   "url": "https://frontiere.fm/nouvelles",
+   "stream": "https://stream2.statsradio.com:8096/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "New Brunswick",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 10,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ckgs-hit-country-105-5-beauce-saguenay-qc",
+   "name": "CKGS \"Hit Country 105.5 Beauce\" Saguenay, QC",
+   "url": "https://hitcountry.com/hit-country-1053/",
+   "stream": "https://18213.live.streamtheworld.com/CHCT_FM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "country"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cktp-fm-95-7-the-wolf-fredericton-nb",
+   "name": "CKTP-FM \"95.7 The Wolf\" Fredericton, NB",
+   "url": "http://www.957thewolf.ca/",
+   "stream": "https://centova.radioservers.biz/proxy/cktpradi/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New Brunswick",
+   "genre": [
+    "blues"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ritmo-x99",
+   "name": "Ritmo X99",
+   "url": "http://www.ritmox99.com/",
+   "stream": "https://listen.ritmo.torontocast.stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "adult-contemporary",
+    "baladas",
+    "pop",
+    "reggaeton",
+    "top-40"
+   ],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfbc-930-saint-john-nb",
+   "name": "CFBC 930 Saint John, NB",
+   "url": "https://cfbcradio.com/",
+   "stream": "https://mbsradio-ais.leanstream.co/CFBCAM-MP3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New Brunswick",
+   "genre": [
+    "country"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfcy-95-1-charlottetown-pe",
+   "name": "CFCY 95.1 Charlottetown, PE",
+   "url": "",
+   "stream": "https://mbsradio.leanstream.co/CFCYFM-MP3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfdc-fm-104-9-country-105-shelburne-on-aac-strea",
+   "name": "CFDC-FM 104.9 \"Country 105\" Shelburne, ON (AAC Stream)",
+   "url": "https://www.country105.ca/",
+   "stream": "https://bayshore-ais.leanstream.co/CFDCFM",
+   "codec": "aac",
+   "bitrate": 49,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "country"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfni-1240-coast-am-port-hardy-bc",
+   "name": "CFNI 1240 \"Coast AM\" Port Hardy, BC",
+   "url": "https://www.mytriportnow.com/on-air/",
+   "stream": "https://vistaradio.streamb.live/SB00083",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "British Columbia",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfsf-99-3-moose-fm-sturgeon-falls-on",
+   "name": "CFSF 99.3 \"Moose FM\" Sturgeon Falls, ON",
+   "url": "https://www.mywestnipissingnow.com/",
+   "stream": "https://vistaradio.streamb.live/SB00102",
+   "codec": "aac",
+   "bitrate": 57,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ontario",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chrm-fm-plaisir105-3-matane-qc",
+   "name": "CHRM-FM \"Plaisir105.3\" Matane, QC",
+   "url": "https://plaisir1053.com/",
+   "stream": "https://18213.live.streamtheworld.com/CHRM_FM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Quebec",
+   "genre": [
+    "adult-contemporary",
+    "country"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "labgate-progressive-rock",
+   "name": "Labgate - Progressive Rock",
+   "url": "https://labgateradio.com/accueil/progressive-rock/",
+   "stream": "https://s2.ssl-stream.com/radio/8180/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Quebec",
+   "genre": [],
+   "votes": 4591,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "labgate-p-yg-pink-floyd-yes-genesis",
+   "name": "Labgate P.YG. Pink Floyd, Yes, Genesis",
+   "url": "https://labgateradio.com/",
+   "stream": "https://s2.ssl-stream.com/radio/8160/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Quebec",
+   "genre": [],
+   "votes": 2090,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  }
+ ]
+}

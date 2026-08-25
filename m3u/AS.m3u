@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="American Samoa" tvg-genre="classical",National Public Radio
+https://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1 group-title="American Samoa",希望之声
+https://livecast1.soundofhope.org:2087/soh-live
+#EXTINF:-1 group-title="American Samoa",Fm Christmas classics
+https://listen.181fm.com/181-xtraditional_128k.mp3
+#EXTINF:-1 group-title="American Samoa",EXA FM: Pop musika i le Igilisi ma le Sipaniolo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="American Samoa",Christmas 356 Santa's Radio
+https://us3.streamingpulse.com/ssl/7038
+#EXTINF:-1 group-title="American Samoa",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

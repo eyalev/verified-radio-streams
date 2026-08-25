@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="Iraq" tvg-genre="music",SumerFm Iraq
+https://l3.itworkscdn.net/itwaudio/9012/stream
+#EXTINF:-1 group-title="Iraq" tvg-genre="classical",. Al quran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 group-title="Iraq" tvg-genre="classical",.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1 group-title="Iraq",Al-bilad Radio/Yaqoubi
+https://streamer.radio.co/sb38bf6e66/listen
+#EXTINF:-1 group-title="Iraq",Alseraj Radio Islam
+https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
+#EXTINF:-1 group-title="Iraq",Darusalam Radio
+https://streams.radio.co/s0975ec186/listen
+#EXTINF:-1 group-title="Iraq",Al rasheed fm
+https://streaming.shoutcast.com/alrasheed-fm?1719771692024
+#EXTINF:-1 group-title="Iraq",Kurdistan 24
+https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
+#EXTINF:-1 group-title="Iraq",Turkmen FM تركمان إف إم
+https://radyo1.radyo-dinle.tc/8284/stream;
+#EXTINF:-1 group-title="Iraq",FM المستقبل
+https://edge.mixlr.com/channel/vnvcj
+#EXTINF:-1 group-title="Iraq",Shafaq radio
+https://radio.shafaq.com/radio
+#EXTINF:-1 group-title="Iraq",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Iraq",Radio Ashur راديو أشور ܦܪܵܣ ܩܵܠܵܐ ܕܐܵܫܘܿܪ
+https://eu7.fastcast4u.com/proxy/radioashur?mp=/1
+#EXTINF:-1 group-title="Iraq",Al rasheed fm )Kirkuk)
+https://streaming.shoutcast.com/alrasheed-kirkuk
+#EXTINF:-1 group-title="Iraq",speda radio
+https://radio.host247.net/spedafm

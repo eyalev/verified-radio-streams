@@ -1,0 +1,116 @@
+{
+ "countryCode": "MC",
+ "country": "Monaco",
+ "slug": "monaco",
+ "continent": "europe",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/monaco/",
+ "stations": [
+  {
+   "id": "yellow-radio",
+   "name": "Yellow.radio",
+   "url": "https://yellow.radio/",
+   "stream": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Monaco",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 230,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-monte-carlo-italia",
+   "name": "Radio Monte Carlo Italia",
+   "url": "https://www.radiomontecarlo.net/sezioni/478/rmc-italia",
+   "stream": "https://icy.unitedradio.it/rmcweb005",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Monte Carlo",
+   "genre": [],
+   "votes": 840,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chilli-moje",
+   "name": "chilli moje",
+   "url": "https://media-ssl.musicradio.com/",
+   "stream": "https://media-ssl.musicradio.com/ChillMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 109,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yellow-riviera",
+   "name": "Yellow Riviera",
+   "url": "https://yellow.radio/radiochannel/yellow-riviera/",
+   "stream": "https://yellowradio.ice.infomaniak.ch/yellow01.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yellow-party",
+   "name": "Yellow Party",
+   "url": "https://yellow.radio/radiochannel/yellow-party/",
+   "stream": "https://yellowradio.ice.infomaniak.ch/yellow02.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 19,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

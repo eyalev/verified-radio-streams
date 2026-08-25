@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 group-title="Norway" tvg-genre="hits,pop",P5 Nonstop Hits (AAC HQ)
+https://p5n.p4groupaudio.com/P05AAH
+#EXTINF:-1 group-title="Norway" tvg-genre="hits,pop,top-40",P12 Hitmix (MP3 128k)
+https://nrj.p4groupaudio.com/NRJ_MM
+#EXTINF:-1 group-title="Norway" tvg-genre="hits,music,pop",P4 Norge (AAC HQ)
+https://p4.p4groupaudio.com/P04_AH
+#EXTINF:-1 group-title="Norway" tvg-genre="rock,classic-rock",P6 Rock (MP3 128k)
+https://p6.p4groupaudio.com/P06_MM
+#EXTINF:-1 group-title="Norway" tvg-genre="country",P10 Country (AAC HQ)
+https://p10.p4groupaudio.com/P10_AH
+#EXTINF:-1 group-title="Norway" tvg-genre="80s,90s,classic-hits,oldies",P8 Pop (MP3 128k)
+https://p8.p4groupaudio.com/P08_MM
+#EXTINF:-1 group-title="Norway" tvg-genre="classic-rock,pop-rock,rock",Radio Rock (NO)
+https://live-bauerno.sharp-stream.com/radiorock_no_mp3
+#EXTINF:-1 group-title="Norway" tvg-genre="60s,70s,80s",P9 Retro (MP3 128k)
+https://p9.p4groupaudio.com/P09_MH
+#EXTINF:-1 group-title="Norway" tvg-genre="pop,hits,top-40",NRJ Norge
+https://live-bauerno.sharp-stream.com/kiss_no_mp3
+#EXTINF:-1 group-title="Norway" tvg-genre="80s,90s,pop",P7 Klem (AAC HQ)
+https://p7.p4groupaudio.com/P07_AH
+#EXTINF:-1 group-title="Norway" tvg-genre="hits,music,pop",P4 Norge (MP3 128k)
+https://p4.p4groupaudio.com/P04_MM
+#EXTINF:-1 group-title="Norway" tvg-genre="hits,pop,top-40",P12 Hitmix (AAC HQ)
+https://nrj.p4groupaudio.com/NRJ_AH
+#EXTINF:-1 group-title="Norway" tvg-genre="hits,pop",P5 Hits (MP3 128k)
+https://p5.p4groupaudio.com/P05_MM
+#EXTINF:-1 group-title="Norway" tvg-genre="dance",P11 Dance (AAC HQ)
+https://p11.p4groupaudio.com/P11_AH
+#EXTINF:-1 group-title="Norway" tvg-genre="dance",P11 Dance (MP3 128k)
+https://p11.p4groupaudio.com/P11_MM
+#EXTINF:-1 group-title="Norway" tvg-genre="pop-music",P24-7 Kos
+https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true
+#EXTINF:-1 group-title="Norway" tvg-genre="dance",P11 Dance (MP3 192k)
+https://p11.p4groupaudio.com/P11_MH
+#EXTINF:-1 group-title="Norway" tvg-genre="classical",NRK Klassisk Radio
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h
+#EXTINF:-1 group-title="Norway" tvg-genre="pop-music",RADIO Trøndelag
+https://nettradio.radiotrondelag.no:8443/radio_trondelag
+#EXTINF:-1 group-title="Norway" tvg-genre="pop,rock",Hamar Radioen
+https://lyd.radioene.no/hamar.mp3
+#EXTINF:-1 group-title="Norway" tvg-genre="alternative",NRK P3 Musikk
+https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185
+#EXTINF:-1 group-title="Norway" tvg-genre="hits",Radio Tromsø Hits
+https://stream.rthits.no/rthits192
+#EXTINF:-1 group-title="Norway" tvg-genre="music",Radio 3 Bodø
+https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394
+#EXTINF:-1 group-title="Norway" tvg-genre="metal,rock",Radio Rock Norway AAC
+https://live-bauerno.sharp-stream.com/radiorock_no_aac
+#EXTINF:-1 group-title="Norway" tvg-genre="ambient,electronic,jazz,soul",Tune Tribe Radio
+https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3
+#EXTINF:-1 group-title="Norway" tvg-genre="jazz",1FM Jazz
+https://lyd.1fm.no/1fmjazz_mq?rp_source=1
+#EXTINF:-1 group-title="Norway",P24-7 Mix
+https://live-bauerno.sharp-stream.com/p247mix_no_mp3
+#EXTINF:-1 group-title="Norway",radiolatinamerika
+https://stream.radiolatinamerika.no/latam_hq
+#EXTINF:-1 group-title="Norway",Radio Norge
+https://live-bauerno.sharp-stream.com/radionorge_no_mp3
+#EXTINF:-1 group-title="Norway",NRK P3
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h
+#EXTINF:-1 group-title="Norway",Nrk P1 Stor-Oslo
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h
+#EXTINF:-1 group-title="Norway",NRK Nyheter
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h
+#EXTINF:-1 group-title="Norway",NRK MP3
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h
+#EXTINF:-1 group-title="Norway",NRK P2 aac_h
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h
+#EXTINF:-1 group-title="Norway",Radiø Bø
+https://nettradio.radiobo.com/radiobo-high
+#EXTINF:-1 group-title="Norway",P24-7 JuleRadioen
+https://live-bauerno.sharp-stream.com/station17_no_mp3
+#EXTINF:-1 group-title="Norway",Klem FM
+https://p7.p4groupaudio.com/P07_MM
+#EXTINF:-1 group-title="Norway",NRK Nyhter (MP3 - HI)
+https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter
+#EXTINF:-1 group-title="Norway",Radio102
+https://stream.radio102.no/radio102_hq
+#EXTINF:-1 group-title="Norway",Radio Kos
+https://lyd.radiokos.no/kos_lq
+#EXTINF:-1 group-title="Norway",NRK P1 Nordland
+https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4
+#EXTINF:-1 group-title="Norway",P7 Kristen Pop
+https://radio.p7.no/listen/p7_kristen_pop/kristen_pop
+#EXTINF:-1 group-title="Norway",NRK Sport
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h
+#EXTINF:-1 group-title="Norway",NRK Trøndelag
+https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5
+#EXTINF:-1 group-title="Norway",Radio 3,16 - hele Norges kristne radiokanal
+https://streaming.radio.co:80/se326fb378/listen
+#EXTINF:-1 group-title="Norway",Radio Sotra
+https://streaming.radiosotra.no:8443/radiosotra
+#EXTINF:-1 group-title="Norway",NRK P1 Sogn og Fjordane (Høy kvalitet MP3)
+https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7
+#EXTINF:-1 group-title="Norway",Nrk p1 Hordaland
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h
+#EXTINF:-1 group-title="Norway",NRK P1 Troms (Høy kvalitet AAC)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h
+#EXTINF:-1 group-title="Norway",P7
+https://radio.p7.no/listen/p7_kristen_riksradio/kristen_riksradio
+#EXTINF:-1 group-title="Norway",NRK P1 Buskerud (AAC High)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h
+#EXTINF:-1 group-title="Norway",NRK P1 Sogn og Fjordane (Høy kvalitet AAC)
+https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7
+#EXTINF:-1 group-title="Norway",NRK P1 Rogaland
+https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9
+#EXTINF:-1 group-title="Norway",Trysilradioen
+https://lyd.radioene.no/trysil.mp3
+#EXTINF:-1 group-title="Norway",Guovdageainnu Lagasradio
+https://streaming.radio.co/s5b773f8d3/listen
+#EXTINF:-1 group-title="Norway",NRK P1 Møre og Romsdal
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l
+#EXTINF:-1 group-title="Norway",Radio Bardufoss
+https://stream.bardufoss.no/radiobardufoss192
+#EXTINF:-1 group-title="Norway",1FM Molde
+https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953
+#EXTINF:-1 group-title="Norway",P4 – Lyden av Norge
+https://p4.p4groupaudio.com/P04_MH
+#EXTINF:-1 group-title="Norway",Sørlandsradioen
+https://nettradio.sorlandsradioen.no/sorlandsradioen_hq
+#EXTINF:-1 group-title="Norway",radiOrakel FM 99.3
+https://stream.radiorakel.no/fm993.mp3
+#EXTINF:-1 group-title="Norway",Radio Haugaland 96
+https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3
+#EXTINF:-1 group-title="Norway",NRK P1 Østfold
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h
+#EXTINF:-1 group-title="Norway",NRK P1+ (mp3)
+https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0
+#EXTINF:-1 group-title="Norway",Radio Ålesund
+https://audio.radioaalesund.no/aalesund_mq
+#EXTINF:-1 group-title="Norway",The Beat
+https://live-nors.sharp-stream.com/nors17.mp3
+#EXTINF:-1 group-title="Norway",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Norway",Nærkanalen
+https://stream.radiomeloy.no:8003/radiomeloy
+#EXTINF:-1 group-title="Norway",NF Radio
+https://player.nfradio.fr/listen/nf_radio/radio.mp3
+#EXTINF:-1 group-title="Norway",NRK Sápmi
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h
+#EXTINF:-1 group-title="Norway",Radio Tønsberg
+https://audio.jaerradiogruppen.no/tonsberg_hq
+#EXTINF:-1 group-title="Norway",radiOrakel
+https://stream.radiorakel.no/radiorakel_hq
+#EXTINF:-1 group-title="Norway",NRK Folkemusikk
+https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk
+#EXTINF:-1 group-title="Norway",NRK P1 Finnmark
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h
+#EXTINF:-1 group-title="Norway",Harrys Radio
+https://mpc1.mediacp.eu:8208/stream
+#EXTINF:-1 group-title="Norway",NRK P1 Innlandet
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h
+#EXTINF:-1 group-title="Norway",Radio Rox
+https://live-nors.sharp-stream.com/nors13.mp3
+#EXTINF:-1 group-title="Norway",1FM Rock
+https://lyd.1fm.no/1fmrock_hq
+#EXTINF:-1 group-title="Norway",Norsk Pop
+https://live-bauerno.sharp-stream.com/norskpop_no_mp3
+#EXTINF:-1 group-title="Norway",Ordentlig Radio
+https://stream.oradio.no/oradio_hq
+#EXTINF:-1 group-title="Norway",Scansat Radio (Scandinavian Satellite Radio)
+https://stream.rcast.net/67165
+#EXTINF:-1 group-title="Norway",Radio AI Norge
+https://a13.asurahosting.com/listen/radio_ai/radio.mp3
+#EXTINF:-1 group-title="Norway",Radio Tropoli
+https://radio.roganett.com/listen/radio_tropoli/radio.mp3

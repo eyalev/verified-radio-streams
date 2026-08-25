@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",新西兰中文广播电台 FM90.6 Radio Chinese
+https://s26.myradiostream.com:20274/listen.mp3
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",3ABN Christian Radio
+https://stream.3abnaustralia.org.au:8443/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="80s,90s",Retro Hit Radio
+https://riphel02.radioca.st/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="classic-rock,pop-rock,rock",The Rock - NZ's #1 rock radio station
+https://digitalstreams.mediaworks.nz/rock_net_icy
+#EXTINF:-1 group-title="New Zealand" tvg-genre="indie",MAD FM Auckland 106.7
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="classic-rock,rock",The Generator
+https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
+#EXTINF:-1 group-title="New Zealand" tvg-genre="alternative",95bFM - FLAC
+https://streams.95bfm.com/stream112
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",Niu FM - AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC
+#EXTINF:-1 group-title="New Zealand" tvg-genre="techno",Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140
+#EXTINF:-1 group-title="New Zealand" tvg-genre="alternative",95bFM - 256Kbps MP3
+https://streams.95bfm.com/stream95
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",Radio Sangeet Masti
+https://servidor19-4.brlogic.com:7304/live?source=website
+#EXTINF:-1 group-title="New Zealand" tvg-genre="alternative,indie",Radioactive.FM 88.6
+https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1 group-title="New Zealand" tvg-genre="relax",Chill-Radio
+https://media-sov.musicradio.com/Chill
+#EXTINF:-1 group-title="New Zealand" tvg-genre="classic-rock,hits",Vinyl Radio NZ
+https://s40.myradiostream.com:17794/listen.aac?
+#EXTINF:-1 group-title="New Zealand" tvg-genre="worship",Sanctuary - MP3
+https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
+#EXTINF:-1 group-title="New Zealand" tvg-genre="classic-hits",Radio Hydra
+https://streaming.radio.co/sed9109681/listen
+#EXTINF:-1 group-title="New Zealand" tvg-genre="easy-listening,smooth-jazz",JAZZ CAFE
+https://radio.wanderingsheep.net:8000/jazzcafe
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",Radio Bollybop
+https://s3.radio.co/s2f19d44d0/listen
+#EXTINF:-1 group-title="New Zealand" tvg-genre="hip-hop,rnb",Mai FM
+https://ais-sa1.streamon.fm/7102_128k.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="folk",Kiwi Folk Radio
+https://streamer.radio.co/sde527a41e/listen
+#EXTINF:-1 group-title="New Zealand" tvg-genre="dance",UP FM 107.5
+https://stream.upfm.live/radio/8000/radio.mp3
+#EXTINF:-1 group-title="New Zealand" tvg-genre="oldies",Radio Te Aroha 88FM
+https://c2.radioboss.fm:18440/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="alternative",95bFM - 64kbps AAC+
+https://streams.95bfm.com/stream128
+#EXTINF:-1 group-title="New Zealand" tvg-genre="80s,90s,hits",Radiowave NZ
+https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",The Cheese
+https://station.thecheese.co.nz/listen/the_cheese/128.mp3
+#EXTINF:-1 group-title="New Zealand" tvg-genre="rnb",Mai FM
+https://mediaworks.streamguys1.com/mai_net_icy
+#EXTINF:-1 group-title="New Zealand" tvg-genre="disco,pop",Radio One 91FM
+https://play.r1.co.nz/live
+#EXTINF:-1 group-title="New Zealand" tvg-genre="rock",Heads FM Mangawhai 106.4
+https://headsfm.radioca.st/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="country",Gone Country
+https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570
+#EXTINF:-1 group-title="New Zealand" tvg-genre="easy-listening",Smooth 105.6FM
+https://servidor26.brlogic.com:7110/live
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",531pi - AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC
+#EXTINF:-1 group-title="New Zealand" tvg-genre="easy-listening",Akaroa World Radio
+https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w
+#EXTINF:-1 group-title="New Zealand" tvg-genre="alternative",RDU
+https://rdu985fm-gecko.radioca.st/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="hits,pop",The Cheese FLAC
+https://station.thecheese.co.nz/listen/the_cheese/flac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="rock",Radio - X
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox
+#EXTINF:-1 group-title="New Zealand" tvg-genre="classic-rock",Tiri 2
+https://servidor34-4.brlogic.com:7138/live?source=website
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",531pi - MP3
+https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC
+#EXTINF:-1 group-title="New Zealand" tvg-genre="easy-listening,instrumental,jazz,smooth-jazz",Gaia FM (New Zealand)
+https://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="worship",Sanctuary - AAC
+https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="oldies",RAG-FM 107.7FM
+https://cast6.asurahosting.com/proxy/ragfmcom/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="adult-contemporary",More FM - Bay of Plenty
+https://mediaworks.streamguys1.com/more-tga-high_icy
+#EXTINF:-1 group-title="New Zealand" tvg-genre="dance",George FM - Club Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="electronic",George FM - Latest Bangers
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="electronic,hip-hop",Radio BurgerFuel
+https://s3.radio.co/s9909bd65f/listen
+#EXTINF:-1 group-title="New Zealand" tvg-genre="chillout,house",George FM - Cocktail Hour
+https://playerservices.streamtheworld.com/api/livestream-redirect/COCKTAILHOUR_S01AAC.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="classic-rock",KIX FM
+https://stream.kixfm.co.nz:8178/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="80s",Auckland 80's
+https://servidor34.brlogic.com:7138/live
+#EXTINF:-1 group-title="New Zealand" tvg-genre="hip-hop,rnb",Flava
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac
+#EXTINF:-1 group-title="New Zealand" tvg-genre="music",Niu FM - MP3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC
+#EXTINF:-1 group-title="New Zealand" tvg-genre="folk,hip-hop,pop",RADIO PANJABI
+https://s20.reliastream.com/stream/8134
+#EXTINF:-1 group-title="New Zealand" tvg-genre="alternative,funk,rock",Beagle 88.1
+https://stream.beagleradio.co.nz/stream
+#EXTINF:-1 group-title="New Zealand" tvg-genre="hip-hop,hits,rnb",Tahu FM
+https://icast1.streamcom.net/TahuFM
+#EXTINF:-1 group-title="New Zealand",Ski FM
+https://s2.radio.co/s6436891bc/listen
+#EXTINF:-1 group-title="New Zealand",https://badradio.nz/ - 24/7 PHONK
+https://s2.radio.co/s2b2b68744/listen
+#EXTINF:-1 group-title="New Zealand",The Breeze 93.4
+https://mediaworks.streamguys1.com/breeze-akl-high_icy
+#EXTINF:-1 group-title="New Zealand",Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac
+#EXTINF:-1 group-title="New Zealand",Magic FM
+https://mediaworks.streamguys1.com/magic_net_icy
+#EXTINF:-1 group-title="New Zealand",Humm Radio
+https://mediaworks.streamguys1.com/humm_net_icy
+#EXTINF:-1 group-title="New Zealand",Rhema - MP3
+https://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1 group-title="New Zealand",One Christian Radio
+https://radio.wanderingsheep.net:33001/onechristianradio
+#EXTINF:-1 group-title="New Zealand",Positively Morrinsville 87.7FM
+https://c16.radioboss.fm:8262/stream?1652324863134
+#EXTINF:-1 group-title="New Zealand",Radio Control 99.4FM
+https://michae14-gecko.radioca.st/stream
+#EXTINF:-1 group-title="New Zealand",Sleep Radio
+https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745
+#EXTINF:-1 group-title="New Zealand",Life FM - MP3
+https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1 group-title="New Zealand",George FM
+https://mediaworks.streamguys1.com/george_net_icy
+#EXTINF:-1 group-title="New Zealand",Life FM - AAC
+https://rhema-radio.streamguys1.com/rhema-lifefm.aac
+#EXTINF:-1 group-title="New Zealand",Drop FM
+https://s2.radio.co/s7649837db/listen
+#EXTINF:-1 group-title="New Zealand",Channel X
+https://mediaworks.streamguys1.com/chx_net_icy
+#EXTINF:-1 group-title="New Zealand",Brian FM 91.2 Whanganui NZ
+https://ais-sa1.streamon.fm/7100_128k.aac
+#EXTINF:-1 group-title="New Zealand",Paekakariki 88.2FM
+https://icecast.groundtruth.co.nz/paekakfm.aac
+#EXTINF:-1 group-title="New Zealand",More FM - Nelson
+https://mediaworks.streamguys1.com/more-nsn-high_icy
+#EXTINF:-1 group-title="New Zealand",Radio Chinese FM90.6
+https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081
+#EXTINF:-1 group-title="New Zealand",Mouthfull Radio
+https://mouthfull-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="New Zealand",ROVA CHILL HOP
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df
+#EXTINF:-1 group-title="New Zealand",CFM Coromandel
+https://stream.cfm.co.nz/low
+#EXTINF:-1 group-title="New Zealand",Mix FM 87.9, Wellington, New Zealand
+https://stream.mixfm.nz/
+#EXTINF:-1 group-title="New Zealand",91.2 Oamaru FM
+https://usa1-vn.mixstream.net/8096/listen.mp3
+#EXTINF:-1 group-title="New Zealand",George FM - DnB
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac
+#EXTINF:-1 group-title="New Zealand",Radio Hauraki
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC
+#EXTINF:-1 group-title="New Zealand",Raglan Community Radio
+https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546
+#EXTINF:-1 group-title="New Zealand",Anthemz
+https://mediaworks.streamguys1.com/anthemz-chc-high_icy
+#EXTINF:-1 group-title="New Zealand",jakemusic
+https://camera.jakebriggs.com/jakemusic
+#EXTINF:-1 group-title="New Zealand",New Zealand Net Radio
+https://radio.nznetradio.net.nz/stream3
+#EXTINF:-1 group-title="New Zealand",Raglan Communtiy Radio
+https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956
+#EXTINF:-1 group-title="New Zealand",Maunganui FM
+https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3
+#EXTINF:-1 group-title="New Zealand",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="New Zealand",Bandwagon Radio
+https://streaming.radio.co/scfae3b30e/listen
+#EXTINF:-1 group-title="New Zealand",Radio A
+https://play.radioking.io/radio-a-music
+#EXTINF:-1 group-title="New Zealand",SayHiFM
+https://play.radioking.io/sayhifm
+#EXTINF:-1 group-title="New Zealand",The Platform Kiwi
+https://streaming.shoutcast.com/the-platformlive
+#EXTINF:-1 group-title="New Zealand",Brian FM 91.4 Wanaka
+https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com
+#EXTINF:-1 group-title="New Zealand",George FM - Chillsville
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac
+#EXTINF:-1 group-title="New Zealand",Tautoko FM
+https://icast1.streamcom.net/J_Tautoko.aac

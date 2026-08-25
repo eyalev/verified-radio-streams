@@ -1,0 +1,261 @@
+{
+ "countryCode": "IQ",
+ "country": "Iraq",
+ "slug": "iraq",
+ "continent": "asia",
+ "stationCount": 15,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/iraq/",
+ "stations": [
+  {
+   "id": "sumerfm-iraq",
+   "name": "SumerFm Iraq",
+   "url": "https://www.alsumaria.tv/SumerFm",
+   "stream": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Baghdad",
+   "genre": [
+    "music"
+   ],
+   "votes": 5512,
+   "clicks": 59,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": ". Al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 4666,
+   "clicks": 25,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".. مختصر التفسير",
+   "url": "",
+   "stream": "https://qurango.net/radio/mukhtasartafsir",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 3635,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-bilad-radio-yaqoubi",
+   "name": "Al-bilad Radio/Yaqoubi",
+   "url": "http://www.albilad.org/",
+   "stream": "https://streamer.radio.co/sb38bf6e66/listen",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "arabic",
+    "persian"
+   ],
+   "langCodes": [
+    "ar",
+    "fa"
+   ],
+   "state": "Baghdad",
+   "genre": [],
+   "votes": 3205,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alseraj-radio-islam",
+   "name": "Alseraj Radio Islam",
+   "url": "https://www.alserajradio.com/",
+   "stream": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "KARBALA",
+   "genre": [],
+   "votes": 2520,
+   "clicks": 20,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "darusalam-radio",
+   "name": "Darusalam Radio",
+   "url": "https://www.darusalamradio.net/",
+   "stream": "https://streams.radio.co/s0975ec186/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Baghdad",
+   "genre": [],
+   "votes": 2516,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-rasheed-fm",
+   "name": "Al rasheed fm",
+   "url": "https://www.alrasheedmedia.com/fm/",
+   "stream": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1997,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kurdistan-24",
+   "name": "Kurdistan 24",
+   "url": "https://www.kurdistan24.net/ar/",
+   "stream": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kurdish."
+   ],
+   "genre": [],
+   "votes": 1922,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "turkmen-fm",
+   "name": "Turkmen FM تركمان إف إم",
+   "url": "https://www.facebook.com/Turkmen-FM-569800026440016",
+   "stream": "https://radyo1.radyo-dinle.tc/8284/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "iraqi-turkmen"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1510,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm",
+   "name": "FM المستقبل",
+   "url": "https://mustaqbal-fm.com/",
+   "stream": "https://edge.mixlr.com/channel/vnvcj",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1377,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "shafaq-radio",
+   "name": "Shafaq radio",
+   "url": "https://www.shafaq.com/ar",
+   "stream": "https://radio.shafaq.com/radio",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1198,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 942,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ashur",
+   "name": "Radio Ashur راديو أشور ܦܪܵܣ ܩܵܠܵܐ ܕܐܵܫܘܿܪ",
+   "url": "https://radioashur.goodbarber.app/",
+   "stream": "https://eu7.fastcast4u.com/proxy/radioashur?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 542,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-rasheed-fm-kirkuk",
+   "name": "Al rasheed fm )Kirkuk)",
+   "url": "https://www.alrasheedfm.com/",
+   "stream": "https://streaming.shoutcast.com/alrasheed-kirkuk",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 73,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "speda-radio",
+   "name": "speda radio",
+   "url": "https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8",
+   "stream": "https://radio.host247.net/spedafm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kurdish"
+   ],
+   "langCodes": [
+    "ku"
+   ],
+   "genre": [],
+   "votes": 11,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  }
+ ]
+}

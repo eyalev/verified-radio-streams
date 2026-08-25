@@ -1,0 +1,156 @@
+{
+ "countryCode": "MU",
+ "country": "Mauritius",
+ "slug": "mauritius",
+ "continent": "africa",
+ "stationCount": 8,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/mauritius/",
+ "stations": [
+  {
+   "id": "radio-plus-mauritius",
+   "name": "Radio Plus Mauritius",
+   "url": "https://live.radioplus.mu/",
+   "stream": "https://stream.radioplus.mu:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "macedonian"
+   ],
+   "langCodes": [
+    "fr",
+    "en",
+    "mk"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 11804,
+   "clicks": 22,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-plus-indiz",
+   "name": "Radio Plus - Indiz",
+   "url": "https://live.radioplus.mu/webradio/indiz.html",
+   "stream": "https://streamer.radio.co/sed5c5a375/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 85,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radioplus-fever",
+   "name": "Radioplus Fever",
+   "url": "https://live.radioplus.mu/",
+   "stream": "https://streamer.radio.co/s3fe39a4a4/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1194,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tamizen",
+   "name": "Tamizen",
+   "url": "https://c34.radioboss.fm:18023/stream",
+   "stream": "https://c34.radioboss.fm:18023/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 516,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sensuelle-radio",
+   "name": "SENSUELLE RADIO",
+   "url": "https://sensuelleradio.com/",
+   "stream": "https://forwardmystream.com/sensuelleradio",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "LE TAMPON",
+   "genre": [],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-one",
+   "name": "Radio One",
+   "url": "https://radio1.mu/",
+   "stream": "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "creole",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-7-mauritius",
+   "name": "Radio 7 Mauritius",
+   "url": "https://radio7mauritius.com/audiostream.html",
+   "stream": "https://c2.radioboss.fm/stream/1056",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

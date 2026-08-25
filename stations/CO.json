@@ -1,0 +1,3399 @@
+{
+ "countryCode": "CO",
+ "country": "Colombia",
+ "slug": "colombia",
+ "continent": "americas",
+ "stationCount": 156,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/colombia/",
+ "stations": [
+  {
+   "id": "olimpica-stereo-medellin-104-9-fm",
+   "name": "Olímpica Stereo (Medellín) 104.9-FM",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "espanish"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 6753,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mega-medellin-92-9-fm",
+   "name": "La Mega (Medellín) 92.9 FM",
+   "url": "http://www.lamega.com.co/medellin",
+   "stream": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "music",
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 6590,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-medellin-94-9-fm",
+   "name": "Bésame (Medellín) 94.9 FM",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "baladas",
+    "music",
+    "pop"
+   ],
+   "votes": 5313,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-medellin-89-9-fm",
+   "name": "Mix (Medellín) 89.9 FM",
+   "url": "https://mixradio.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MEDELLINAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "reggaeton"
+   ],
+   "votes": 4672,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40-colombia",
+   "name": "LOS40 Colombia",
+   "url": "https://los40.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "latin-pop",
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 3239,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioacktiva-bogota-97-9-fm-hjjk-prisa-radio-bog",
+   "name": "Radioacktiva (Bogotá) - 97.9 FM - HJJK - PRISA Radio - Bogotá, Colombia",
+   "url": "https://www.radioacktiva.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "classic-rock",
+    "music",
+    "rock"
+   ],
+   "votes": 2930,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "el-sol-medellin-107-9-fm",
+   "name": "El Sol (Medellín) 107.9 FM",
+   "url": "https://elsol.rcnradio.com/?city=Medellin",
+   "stream": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 2300,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brutal-medellin-91-9-fm",
+   "name": "Brutal (Medellín) 91.9 Fm",
+   "url": "https://www.brutalfm.com.co/",
+   "stream": "https://streamingmediaradio.live/8086/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 1772,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-policia-medellin-nacional-96-4-fm",
+   "name": "Radio Policía (Medellín) Nacional 96.4 FM",
+   "url": "https://www.policia.gov.co/",
+   "stream": "https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "classic-hits",
+    "cumbia",
+    "hits",
+    "popular",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 1757,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "40-principales-colombia",
+   "name": "40 Principales Colombia",
+   "url": "https://los40.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/%20LOS40_COLOMBIA.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-internacional"
+   ],
+   "genre": [
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 1641,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tropicana-medellin-98-9-fm",
+   "name": "Tropicana (Medellín) 98.9 FM",
+   "url": "https://www.tropicanafm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_MEDELLINAAC.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 1233,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "colombia-salsa-dura",
+   "name": "Colombia Salsa Dura",
+   "url": "https://colombiacrossover.com/colombia-salsa-dura/",
+   "stream": "https://play10.tikast.com/proxy/colsalsadura?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Manizales",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 1004,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-101-5-fm-sincelejo",
+   "name": "Olimpica Stereo 101.5 Fm Sincelejo",
+   "url": "http://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_SINCELEJOAAC.aac?1715700010",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 947,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioacktiva-medellin-102-3-fm-prisa-radio-medel",
+   "name": "Radioacktiva (Medellín) - 102.3 FM - PRISA Radio - Medellín, Colombia",
+   "url": "https://www.radioacktiva.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellin",
+   "genre": [
+    "classic-rock",
+    "music",
+    "rock"
+   ],
+   "votes": 827,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-x-96-5-cali",
+   "name": "LA X 96.5 Cali",
+   "url": "https://www.laxcali.com/",
+   "stream": "https://onlineradiobox.com/json/co/lax/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "rock"
+   ],
+   "votes": 670,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wradio-colombia",
+   "name": "WRadio Colombia",
+   "url": "https://www.wradio.com.co/",
+   "stream": "https://27403.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&dist=wradio_co-web-playperm-live_str_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=a073ee70-7fed-4b4c-80d2-7a4d57fe52f6",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "baladas",
+    "rock"
+   ],
+   "votes": 626,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-x-medellin-103-9-fm",
+   "name": "La X Medellín 103.9 FM",
+   "url": "https://laxmedellin.com/",
+   "stream": "https://tupanel.info:8000/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellin",
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "music",
+    "trance"
+   ],
+   "votes": 504,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-104-5-cali",
+   "name": "Olímpica Stéreo 104.5 Cali",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALI.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "music",
+    "popular",
+    "salsa"
+   ],
+   "votes": 470,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "colombia-pop-rock",
+   "name": "Colombia Pop Rock",
+   "url": "https://colombiacrossover.com/colombia-pop-rock/",
+   "stream": "https://play10.tikast.com/proxy/colpoprock?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Manizales",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-rock",
+    "lounge",
+    "pop",
+    "rock"
+   ],
+   "votes": 372,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-viva-fenix-ipiales-hjb29-89-1-mhz-fm",
+   "name": "Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)",
+   "url": "https://www.radiovivafenix.com/891/",
+   "stream": "https://radiolatina.info/8170/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nariño",
+   "genre": [
+    "music"
+   ],
+   "votes": 366,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-90-5-fm-monteria",
+   "name": "Olimpica Stereo 90.5 Fm Monteria",
+   "url": "http://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 331,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "colombia-crossover",
+   "name": "Colombia Crossover",
+   "url": "https://colombiacrossover.com/",
+   "stream": "https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Manizales",
+   "genre": [
+    "bachata",
+    "cumbia",
+    "merengue",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 327,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-106-5-fm-cali",
+   "name": "Bésame 106.5 FM Cali",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 325,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energia-102-5-fm",
+   "name": "Energia 102.5 FM",
+   "url": "https://energia1025.com/",
+   "stream": "https://audio1.energia1025.com/radio/8000/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 315,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-jefa-1300-am",
+   "name": "La Jefa 1300 AM",
+   "url": "https://www.brsradio.co/",
+   "stream": "https://sonic.paulatina.co/7046/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Boyacá",
+   "genre": [
+    "music",
+    "musica",
+    "popular"
+   ],
+   "votes": 295,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-viva-fenix-pasto-hjfv-780-khz-am",
+   "name": "Radio Viva Fenix Pasto (HJFV, 780 kHz AM)",
+   "url": "https://www.radiovivafenix.com/780/",
+   "stream": "https://radiolatina.info/8166/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Nariño",
+   "genre": [
+    "music"
+   ],
+   "votes": 274,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alr-jazz-radio",
+   "name": "ALR Jazz Radio",
+   "url": "https://www.alrjazz.com/",
+   "stream": "https://radio30.virtualtronics.com/proxy/abaco?mp=/stream/",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 272,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blu-radio-musica",
+   "name": "Blu Radio - Musica",
+   "url": "https://www.bluradio.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "music",
+    "musica"
+   ],
+   "votes": 259,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "colombia-urbana",
+   "name": "Colombia Urbana",
+   "url": "https://colombiacrossover.com/colombia-urbana/",
+   "stream": "https://play10.tikast.com/proxy/colurbana?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Manizales",
+   "genre": [
+    "hip-hop",
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 254,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "colombia-lounge",
+   "name": "Colombia Lounge",
+   "url": "https://colombiacrossover.com/colombia-lounge/",
+   "stream": "https://play10.tikast.com/proxy/collounge?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Manizales",
+   "genre": [
+    "chillout",
+    "easy-listening",
+    "electronic",
+    "house",
+    "lounge"
+   ],
+   "votes": 235,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "capital-salsa",
+   "name": "Capital Salsa",
+   "url": "https://capitalsalsa.com.co/",
+   "stream": "https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-colombia",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Valle del Cauca",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 225,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metropolis-stereo",
+   "name": "Metrópolis Stereo",
+   "url": "https://metropolisfm.co/",
+   "stream": "https://streaming.radiosenlinea.com.ar:10898/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barranquilla",
+   "genre": [
+    "merengue",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 200,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-mega-pereira-105-2-fm",
+   "name": "La Mega (Pereira) 105.2 FM",
+   "url": "https://www.lamega.com.co/pereira",
+   "stream": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "español-colombia",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Risaralda",
+   "genre": [
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 189,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-estacion-88-9",
+   "name": "Super Estación 88.9",
+   "url": "https://superestacion.fm/",
+   "stream": "https://emisorasdigitales2.com/8018/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "español---latinoamerica"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "rock"
+   ],
+   "votes": 167,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "su-presencia-radio",
+   "name": "Su Presencia Radio",
+   "url": "https://supresenciaradio.com/",
+   "stream": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 134,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-90-7-fm-armenia",
+   "name": "Bésame 90.7 FM Armenia",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_ARMENIAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 129,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cristalina-estereo-neiva-101-3-fm",
+   "name": "Cristalina Estéreo Neiva 101.3 FM",
+   "url": "https://cristalinahuila.com/",
+   "stream": "https://inrai05.radioca.st/cNeiva",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 119,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-100-7-fm-cucuta",
+   "name": "Bésame 100.7 FM Cúcuta",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CUCUTAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 112,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ambiente-stereo-88-4-fm",
+   "name": "Ambiente Stereo 88.4 FM",
+   "url": "https://ambientestereo.fm/sitio/",
+   "stream": "https://radio06.cehis.net:9036/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 109,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-bucaramanga-97-7-fm",
+   "name": "Olimpica Stereo Bucaramanga 97.7 FM",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "bucaramanga",
+   "genre": [
+    "cumbia",
+    "merengue",
+    "popular"
+   ],
+   "votes": 106,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-reina-cartagena-95-5-fm",
+   "name": "La Reina Cartagena 95.5 FM",
+   "url": "https://lareinadelvallenato.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 101,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musical-stereo",
+   "name": "Musical Stereo",
+   "url": "https://www.musicalstereo.com/",
+   "stream": "https://sonic.paulatina.co/8156/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "castellano.-español",
+    "español-colombia"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "70s",
+    "80s",
+    "baladas"
+   ],
+   "votes": 101,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-93-7-fm-pereira",
+   "name": "Bésame 93.7 FM Pereira",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_PEREIRA_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 98,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fiesta-106-2-fm",
+   "name": "Fiesta 106.2 FM",
+   "url": "https://www.fiestafm.com.co/san-alberto/",
+   "stream": "https://server1.intermediacolombia.com:8006/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "popular",
+    "salsa"
+   ],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-104-7-fm-bucaramanga",
+   "name": "Bésame 104.7 FM Bucaramanga",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BUCARAMANGAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-poderosa-104-1-fm",
+   "name": "La Poderosa 104.1 FM",
+   "url": "https://lapoderosa1041.com/",
+   "stream": "https://samuel.i-radio.co:8001/araunastereo",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 87,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-91-7-fm-manizales",
+   "name": "Bésame 91.7 FM Manizales",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-recuerdos-1230-am",
+   "name": "Radio Recuerdos 1230 AM",
+   "url": "https://radiorecuerdos1230.com/",
+   "stream": "https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "50s",
+    "60s",
+    "70s",
+    "80s",
+    "popular"
+   ],
+   "votes": 78,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-uno-pereira-94-7-fm",
+   "name": "RADIO UNO PEREIRA 94.7 FM",
+   "url": "https://radiouno.rcnradio.com/ibague/pereira",
+   "stream": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Pereira",
+   "genre": [
+    "music",
+    "popular"
+   ],
+   "votes": 74,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cafe-stereo-96-7-fm",
+   "name": "Cafe Stereo 96.7 FM",
+   "url": "http://stremo.decibeles.net:8001/CafeStereo",
+   "stream": "https://stremo.decibeles.net:8443/CafeStereo",
+   "codec": "ogg",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "popular"
+   ],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hjmo-la-fm-bogota-94-9-fm",
+   "name": "HJMO - La FM Bogotá 94.9 FM",
+   "url": "https://www.lafm.com.co/la-fm-en-vivo-bogota",
+   "stream": "https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/icecast.audio",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "español-colombia"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "musica"
+   ],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "javeriana-etereo",
+   "name": "Javeriana Etéreo",
+   "url": "https://javerianaestereo.com/",
+   "stream": "https://radio06.cehis.net:9001/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-colombia"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "classical",
+    "rock"
+   ],
+   "votes": 68,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "besame-106-9-fm-popayan",
+   "name": "Bésame 106.9 FM Popayán",
+   "url": "https://www.besame.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_POPAYANAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 63,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "armonias-boyacenses-950-am",
+   "name": "Armonias Boyacenses 950 AM",
+   "url": "https://www.emisoraarmoniasboyacenses.com/",
+   "stream": "https://virtualtronics.net/proxy/armoniasboyacenses?mp=/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-universidad-nacional",
+   "name": "Radio Universidad Nacional",
+   "url": "https://radio.unal.edu.co/",
+   "stream": "https://radio.unal.edu.co/streaming/bogota/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "music"
+   ],
+   "votes": 60,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-enamorada-fm",
+   "name": "La Enamorada FM",
+   "url": "https://laenamoradafm.com/",
+   "stream": "https://laenamoradafm.com/live/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellin",
+   "genre": [
+    "baladas",
+    "love-songs",
+    "music"
+   ],
+   "votes": 55,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canela-estereo-99-4-fm",
+   "name": "Canela Estereo 99.4 FM",
+   "url": "https://www.canelaestereo.com/",
+   "stream": "https://sv2.globalhostlive.com/proxy/canela/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "popular",
+    "salsa"
+   ],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-reina-putumayo-106-3-fm",
+   "name": "((La Reina Putumayo 106.3 Fm))",
+   "url": "https://www.facebook.com/lareinafm1063/",
+   "stream": "https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Putumayo",
+   "genre": [
+    "merengue",
+    "popular",
+    "salsa"
+   ],
+   "votes": 52,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-discoteca-radio",
+   "name": "La Discoteca Radio",
+   "url": "https://ladiscotecaradio.com/",
+   "stream": "https://streamingmediaradio.live:8002/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "merengue",
+    "reggaeton"
+   ],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-guatapuri",
+   "name": "Radio Guatapuri",
+   "url": "https://www.radioguatapuri.com/",
+   "stream": "https://sonic.paulatina.co/7106/stream?1715700597",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-bogota",
+   "name": "Mix Bogota",
+   "url": "https://mixradio.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BOGOTAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "bachata",
+    "popular",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 47,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tropicana-popayan-106-1",
+   "name": "Tropicana Popayán 106.1",
+   "url": "https://www.tropicanafm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_POPAYAN_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "merengue",
+    "salsa"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cristalina-estereo-la-mesa-102-3-fm",
+   "name": "Cristalina Estéreo La Mesa 102.3 FM",
+   "url": "https://cristalinacundinamarca.com/",
+   "stream": "https://inrai02.radioca.st/LaMesa",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "armonias-del-caqueta-970-am",
+   "name": "Armonías del Caquetá 970 AM",
+   "url": "https://www.arquidiocesisdeflorencia.org/A",
+   "stream": "https://broadcasting.enlacestic.com/radio/8020/radio.mp3",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "angular-stereo-97-2-fm",
+   "name": "Angular Stereo 97.2 FM",
+   "url": "https://www.angularstereo.com/",
+   "stream": "https://colombiawebs.com.co/proxy/juanpabl/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 41,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-autentica-cali-660-am",
+   "name": "Radio Auténtica Cali 660 AM",
+   "url": "https://autenticacali.com/",
+   "stream": "https://play10.tikast.com:20113/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 38,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "acord-antioquia-radio",
+   "name": "ACORD ANTIOQUIA RADIO",
+   "url": "https://www.acordantioquia.com/",
+   "stream": "https://radio25.virtualtronics.com:20061/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "popular"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "salsa-latina",
+   "name": "Salsa Latina",
+   "url": "https://www.emisorascolombianas.co/salsa-latina",
+   "stream": "https://play10.tikast.com/proxy/zsalsalatina?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "latin-music",
+    "salsa"
+   ],
+   "votes": 33,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "belen-stereo-95-3-fm",
+   "name": "BELEN STEREO 95.3 FM",
+   "url": "https://redcomunitariaejecafetero.blogspot.com/2012/07/belen-estereo.html",
+   "stream": "https://server2.ejeserver.com:9976/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "salsa"
+   ],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fiesta-102-7-fm",
+   "name": "Fiesta 102.7 FM",
+   "url": "https://www.fiestafm.com.co/chiriguana/",
+   "stream": "https://server1.intermediacolombia.com:8008/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular",
+    "salsa"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "universitaria-estereo-88-2",
+   "name": "Universitaria Estéreo 88.2",
+   "url": "https://universitariaestereo.utp.edu.co/",
+   "stream": "https://www.utp.edu.co/stream/",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "espanish",
+    "español-colombia"
+   ],
+   "state": "Pereira",
+   "genre": [
+    "hip-hop",
+    "pop",
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "celeste-estereo-105-4-fm",
+   "name": "Celeste Estéreo 105.4 FM",
+   "url": "https://www.celesteestereofm.com/",
+   "stream": "https://play8.tikast.com/proxy/celeste?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "popular"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-92-1-barranquilla",
+   "name": "Olímpica Stéreo 92.1 Barranquilla",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://master.letio.com/io/?gs=9102&type=live.mp3",
+   "codec": "unknown",
+   "bitrate": 146,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barranquilla",
+   "genre": [
+    "music",
+    "salsa"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cristalina-estereo-101-1-fm",
+   "name": "Cristalina Estéreo 101.1 FM",
+   "url": "https://cristalinacaqueta.com/",
+   "stream": "https://inrai03.radioca.st/cristalinaflorencia",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bolivariana-am-1110-khz",
+   "name": "Radio Bolivariana AM 1110 kHz",
+   "url": "https://www.radiobolivarianavirtual.com/medellin-colombia/",
+   "stream": "https://streaming.codigoe-marketing.co:8620/test.mp3",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "tango"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "edward-ortega-radio-mas-popular",
+   "name": "Edward Ortega Radio - Mas + Popular",
+   "url": "https://www.edwardortegaradio.com/",
+   "stream": "https://cloud11.vsgtech.co/proxy/maspopular/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "hits",
+    "popular",
+    "tango"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-caquetena-93-1-fm",
+   "name": "La Caqueteña 93.1 FM",
+   "url": "https://lacaquetena.net/",
+   "stream": "https://inrai04.radioca.st/lacaquetena",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "popular"
+   ],
+   "votes": 25,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hj-doble-k-huila-840-am",
+   "name": "HJ DOBLE K HUILA 840 AM",
+   "url": "http://inrai.net/",
+   "stream": "https://inrai1.radioca.st/HJKKneiva",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Huila",
+   "genre": [
+    "cumbia",
+    "merengue",
+    "music"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-capital-1250-am",
+   "name": "Radio Capital 1250 AM",
+   "url": "https://www.1250amcapitalradio.com/",
+   "stream": "https://radiolatina.info/9322/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-fm-plus-96-9-medellin",
+   "name": "La FM Plus 96.9 - Medellín",
+   "url": "https://lafmplus.com/",
+   "stream": "https://co-e1-p-e-aa1-audio.cdn.mdstrm.com/live-audio-aw/632cb5dd08346a0889655d9d",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellín, Antioquia",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-rock",
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 21,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "candela-casanare-94-7-fm",
+   "name": "Candela Casanare 94.7 Fm",
+   "url": "https://www.candelaestereo.com/",
+   "stream": "https://cloudoledgo.com:8026/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "casanare",
+   "genre": [
+    "merengue",
+    "popular",
+    "salsa"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cerinza-fm-100-6",
+   "name": "Cerinza FM 100.6",
+   "url": "https://acueductourbanocerinza.weebly.com/emisora.html",
+   "stream": "https://radio25.virtualtronics.com/proxy/cerinzafm?mp=/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Boyacá",
+   "genre": [
+    "popular",
+    "reggaeton"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "emisora-mariana-1400-am",
+   "name": "Emisora Mariana 1400 AM",
+   "url": "https://radios.com.co/emisora-mariana/",
+   "stream": "https://servidor24.brlogic.com:7654/live",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-sonora-100-6-valle-de-tenza",
+   "name": "La Sonora 100.6 Valle de Tenza",
+   "url": "https://www.brsradio.co/",
+   "stream": "https://sonic.paulatina.co/8088/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular",
+    "salsa"
+   ],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brisa-fm-93-1",
+   "name": "Brisa FM 93.1",
+   "url": "https://brisafm.net/",
+   "stream": "https://radio25.virtualtronics.com:20057/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "popular"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-103-9-fm-barranquilla",
+   "name": "MIX 103.9 FM Barranquilla",
+   "url": "https://mixradio.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC.aac?dist=oro_web",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "salsa"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nueva-era-algeciras-sterio-107-8-fm",
+   "name": "Nueva Era Algeciras Sterio 107.8 FM",
+   "url": "https://streaminghd.co/uploads/algecirasst.jpg",
+   "stream": "https://radiohd.streaminghd.co:7154/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "merengue",
+    "music",
+    "popular",
+    "salsa"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bbc-80s",
+   "name": "BBC 80s",
+   "url": "https://zeno.fm/radio/bbc-80s-radio/",
+   "stream": "https://18093.live.streamtheworld.com/SAM03AAC226_SC?Bravo?Bogota?Colombia&80s",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Bogotá",
+   "genre": [
+    "80s",
+    "electronic",
+    "pop",
+    "rock"
+   ],
+   "votes": 14,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "buenisima-stereo-barranquilla",
+   "name": "Buenisima Stereo - Barranquilla",
+   "url": "https://buenisimastereo.com/",
+   "stream": "https://centova.hostingelectrica.net/proxy/buenisim?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "merengue",
+    "salsa"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cascada-stereo-107-4-fm",
+   "name": "Cascada Stereo 107.4 FM",
+   "url": "https://cascadacomunicaciones.com/",
+   "stream": "https://play8.tikast.com/proxy/cascada?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [
+    "cumbia",
+    "popular",
+    "reggaeton"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "delfin-stereo-106-3-fm",
+   "name": "Delfín Stereo 106.3 FM",
+   "url": "https://www.delfinstereo.com/",
+   "stream": "https://www.rads2.com/radio/8060/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "merengue",
+    "popular",
+    "salsa"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "calidad-stereo-100-6-fm",
+   "name": "Calidad Stereo 100.6 FM",
+   "url": "https://www.calidadstereo.com/",
+   "stream": "https://sonic.paulatina.co/7070/stream.mp3/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Boyacá",
+   "genre": [
+    "merengue",
+    "popular"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "discorumba-95-4-fm",
+   "name": "DiscoRumba 95.4 FM",
+   "url": "http://www.discorumba.tk/",
+   "stream": "https://virtual1.emisorasvirtuales.com:8050/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espaňol"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "electronica",
+    "latin",
+    "merengue",
+    "salsa"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-troja-radio",
+   "name": "La Troja Radio",
+   "url": "https://www.latroja.org/",
+   "stream": "https://streaming01.shockmedia.com.ar:8034/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "salsa"
+   ],
+   "votes": 12,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "uniautonoma-94-1-fm",
+   "name": "UNIAUTÓNOMA 94.1 FM",
+   "url": "https://uniautonomafm.co/",
+   "stream": "https://cast6.my-control-panel.com/proxy/unica/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barranquilla",
+   "genre": [
+    "music"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "buturama-stereo-101-7-fm",
+   "name": "Buturama Stereo 101.7 FM",
+   "url": "https://www.buturamastereo.com/",
+   "stream": "https://tupanel.info:2000/stream/ButuramaStereo",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "salsa"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cisneros-stereo-105-4-fm",
+   "name": "Cisneros Stereo 105.4 FM",
+   "url": "https://la105fm.com/",
+   "stream": "https://server2.ejeserver.com:8430/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "popular"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "juankiss-radio",
+   "name": "JuanKiss Radio",
+   "url": "https://juankissradio.com/",
+   "stream": "https://emisorasdigitales2.com/8172/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "javeriana-estereo-91-9-bogota",
+   "name": "Javeriana Estéreo 91.9 (Bogotá)",
+   "url": "https://javerianaestereo.com/",
+   "stream": "https://radio06.cehis.net/proxy/javerian?mp=%2Fstream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-colombia"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "blues",
+    "jazz"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tres-fronteras-fm-96-3",
+   "name": "Tres Fronteras FM 96.3",
+   "url": "https://www.3fronterasfmradio.com/",
+   "stream": "https://play8.tikast.com/proxy/frontera?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Putumayo",
+   "genre": [
+    "cumbia",
+    "music"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "contando-radio",
+   "name": "Contando Radio",
+   "url": "https://contandoradio.net/",
+   "stream": "https://stream.integracionvirtual.com/proxy/contando?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago de Cali- Valle Del Cauca",
+   "genre": [
+    "music",
+    "salsa"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ecos-1360-radio",
+   "name": "Ecos 1360 Radio",
+   "url": "https://www.facebook.com/ecos1360radioficial/",
+   "stream": "https://conectadosmultimedia.com.co/proxy/ecos/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "music",
+    "oldies",
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-voz-del-canaguate-860-am",
+   "name": "La Voz Del Cañaguate 860 AM",
+   "url": "https://www.lavozdelcanaguate.com/",
+   "stream": "https://sonic.paulatina.co/7278/stream/;",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "VALLEDUPAR",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "walkman-radio",
+   "name": "Walkman Radio",
+   "url": "http://walkmanradio.com/",
+   "stream": "https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barranquilla",
+   "genre": [
+    "classic-hits",
+    "dance",
+    "disco",
+    "pop",
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "espiritu-rock",
+   "name": "Espiritu Rock",
+   "url": "https://espiritu-rock.top/",
+   "stream": "https://centova92.instainternet.com/proxy/santiago/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Risaralda",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latina-stereo",
+   "name": "Latina Stereo",
+   "url": "https://latinastereo.com/sonidoenvivo/",
+   "stream": "https://stream.latinastereo.com/proxy/latina/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellín, Antioquia",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oyente-stereo",
+   "name": "Oyente Stereo",
+   "url": "https://www.emisoraoyentestereo.com.co/",
+   "stream": "https://server2.ejeserver.com:8364/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "popular",
+    "salsa"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioacktiva-97-9-fm",
+   "name": "Radioacktiva 97.9 FM",
+   "url": "https://www.radioacktiva.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "alternative",
+    "music",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-voz-del-rio-grande-910-am",
+   "name": "La Voz del Rio Grande 910 AM",
+   "url": "https://www.todelarmedellin.com/p/emisoras-am_2.html",
+   "stream": "https://tupanel.info:8410/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellin",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veracruz-stereo",
+   "name": "Veracruz stereo",
+   "url": "https://veracruzestereo.com/",
+   "stream": "https://radio.veracruzstereo.com:8000/live",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "español-colombia",
+    "español-internacional",
+    "inglés/portugués/español"
+   ],
+   "state": "medellín",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "dance",
+    "disco",
+    "rock",
+    "techno"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "colombia-mundo-estereo",
+   "name": "Colombia Mundo Estéreo",
+   "url": "https://colombiamundoestereo.blogspot.com/",
+   "stream": "https://streampanel.online/8032/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español-colombia"
+   ],
+   "state": "Nariño",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-ciento-7-digital-fm-107-8",
+   "name": "La Ciento 7 Digital - FM 107.8",
+   "url": "https://streaminghd.co/user/laciento7digital",
+   "stream": "https://radiohd.streaminghd.co:7190/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Huila",
+   "genre": [
+    "music",
+    "popular"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-fm-barranquilla",
+   "name": "La FM- Barranquilla",
+   "url": "https://www.lafm.com.co/noticias/barranquilla",
+   "stream": "https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0",
+   "codec": "aac",
+   "bitrate": 93,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "salsa"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-sonora-89-1-tunja",
+   "name": "La Sonora 89.1 Tunja",
+   "url": "https://www.brsradio.co/",
+   "stream": "https://sonic.paulatina.co/7068/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-pereira",
+   "name": "Olímpica Stereo Pereira",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_PEREIRAAAC.aac?dist=oro_web",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "español-colombia"
+   ],
+   "state": "Risaralda, pereira",
+   "genre": [
+    "musica"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "uninorte-fm-103-1-barranquilla",
+   "name": "Uninorte FM 103.1 Barranquilla",
+   "url": "https://www.uninorte.edu.co/",
+   "stream": "https://cactus2.uninorte.edu.co/stream.mp3",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "88-9-super-estacion",
+   "name": "88.9 Super Estación",
+   "url": "https://superestacion.fm/",
+   "stream": "https://servidor40-5.brlogic.com:7006/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alegria-y-gozo-radio-catolica",
+   "name": "Alegría y Gozo Radio Católica",
+   "url": "https://www.alegriaygozo.com/",
+   "stream": "https://server2.ejeserver.com:8890/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "VALLEDUPAR",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-super-estacion-latina-104-1-armenia",
+   "name": "la super estación latina 104.1 armenia",
+   "url": "https://www.superestacionarmenia.com/",
+   "stream": "https://server1.intermediacolombia.com:8010/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "español-colombia",
+    "español-internacional",
+    "inglés/portugués/español"
+   ],
+   "state": "armenia",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "baladas",
+    "rock",
+    "salsa"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maximusrockfm",
+   "name": "MaximusRockFM",
+   "url": "https://maximusrockfm.000.pe/",
+   "stream": "https://stream.laut.fm/maximusrockfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Medellín, Antioquia",
+   "genre": [
+    "alternative",
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-cali",
+   "name": "Olimpica Stereo Cali",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rencordradio",
+   "name": "RENCORDRADIO",
+   "url": "https://www.rencordradio.com/",
+   "stream": "https://sonicpanel.streaming10.net/8134/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "ANTIOQUIA",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "santa-barbara-stereo-106-6-fm",
+   "name": "Santa Barbara Stereo 106.6 FM",
+   "url": "https://www.asojuntasgaragoa.com/",
+   "stream": "https://sonic.paulatina.co/7376/;",
+   "codec": "aac",
+   "bitrate": 28,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Boyacá",
+   "genre": [
+    "popular"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "toque-latino",
+   "name": "Toque Latino",
+   "url": "https://radiohd.streaminghd.co:7077/stream",
+   "stream": "https://radiohd.streaminghd.co:7077/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-sonora-100-6-samaca",
+   "name": "La Sonora 100.6 Samacá",
+   "url": "https://www.brsradio.co/",
+   "stream": "https://sonic.paulatina.co/8122/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular",
+    "salsa"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-sonora-89-6-marquez",
+   "name": "La Sonora 89.6 Márquez",
+   "url": "https://www.brsradio.co/",
+   "stream": "https://sonic.paulatina.co/8128/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-voz-del-norte-1040-am",
+   "name": "La voz del Norte 1040 AM",
+   "url": "https://lavozdelnorte.com.co/",
+   "stream": "https://play10.tikast.com:20021/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "cucuta",
+   "genre": [
+    "merengue",
+    "salsa"
+   ],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nevermore-radio-nevermore-network",
+   "name": "Nevermore Radio - Nevermore Network",
+   "url": "https://nevermorenetwork.com/",
+   "stream": "https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "español---latinoamerica",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "alternative",
+    "ambient",
+    "electronic",
+    "metal"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "salsa-magistral",
+   "name": "Salsa Magistral",
+   "url": "https://cloud8.vsgtech.co/8004/stream",
+   "stream": "https://cloud8.vsgtech.co/8004/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cali, Valle del Cauca",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-sonora-88-1-sogamoso",
+   "name": "La Sonora 88.1 Sogamoso",
+   "url": "https://www.brsradio.co/",
+   "stream": "https://sonic.paulatina.co/8126/stream",
+   "codec": "aac",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular",
+    "salsa"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-planeta-cali",
+   "name": "Radio Planeta Cali",
+   "url": "https://www.radioplaneta.com.co/page-popup.html",
+   "stream": "https://sp4.colombiatelecom.com.co/8098/stream",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Valle del Cauca",
+   "genre": [
+    "electronica",
+    "latin",
+    "pop",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "edmateo-s-radio",
+   "name": "EdMateo's Radio",
+   "url": "https://edmateo.site/radio",
+   "stream": "https://radio.edmateo.site/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-cordobesa-96-0-saagun",
+   "name": "la cordobesa 96.0 saagún",
+   "url": "https://streaminghd.co/user/lacordobesa",
+   "stream": "https://radiohd4.streaminghd.co:8187/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "latin"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "romance-radio-cali",
+   "name": "Romance Radio Cali",
+   "url": "https://romanceradiofm.com/",
+   "stream": "https://davidflorproducciones.fasthostunlimited.com/listen/romance_cali/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Valle del Cauca",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "unicauca-stereo",
+   "name": "Unicauca stereo",
+   "url": "https://emisora.unicauca.edu.co/",
+   "stream": "https://emisora.unicauca.edu.co/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "Cauca",
+   "genre": [
+    "alternative",
+    "jazz",
+    "metal",
+    "pop",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "univalle-estereo",
+   "name": "Univalle Estereo",
+   "url": "https://emisora.univalle.edu.co/",
+   "stream": "https://uv-stereo.univalle.edu.co:8000/envivo.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin",
+    "salsa"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "donka-estereo",
+   "name": "Donka Estereo",
+   "url": "https://donkaestereo.com/",
+   "stream": "https://icy.cloudrad.io/b24a5754",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "tango"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hits-collections-station",
+   "name": "Hits Collections Station",
+   "url": "https://surf.aloncast.com/s/hits-collections-station",
+   "stream": "https://app.aloncast.com/api/stream/hits-collections-station-46f941",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Norte de Santander",
+   "genre": [
+    "pop",
+    "r&b",
+    "rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-100-5-monteria",
+   "name": "mix 100.5 montería",
+   "url": "https://emisoramix.co/",
+   "stream": "https://radio25.virtualtronics.com/proxy/emisoramix?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "reggaeton"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tropicana-estereo-fm-bogota",
+   "name": "Tropicana Estéreo FM (Bogotá)",
+   "url": "https://emisorascolombianas.online/tropicana-bogota/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibra-bogota",
+   "name": "Vibra (Bogotá)",
+   "url": "https://emisorascolombianas.online/vibra-bogota/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "caracol-radio-bogota-100-9-fm-810-am-hjgl-hjcy-p",
+   "name": "Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá,",
+   "url": "https://caracol.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogotá",
+   "genre": [],
+   "votes": 4756,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mi-vallenatisima",
+   "name": "Mi%Vallenatísima",
+   "url": "https://mivallenatisima.com/",
+   "stream": "https://streaming.radiosenlinea.com.ar:10865/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barranquilla",
+   "genre": [],
+   "votes": 1504,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-x-bogota",
+   "name": "La x Bogota",
+   "url": "http://www.laxmasmusica.com/",
+   "stream": "https://www.laxmasmusica.com/static/web_dataNormal.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 975,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "medellin-104-9-olimpica-stereo",
+   "name": "Medellin 104.9 - Olimpica Stereo",
+   "url": "http://www.olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?1707017722",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 835,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-ochentera-medellin-colombia",
+   "name": "La Ochentera Medellin Colombia",
+   "url": "https://onlineradiobox.com/co/laochentera/",
+   "stream": "https://tupanel.info/stream/emisora919fm",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Medellín, Antioquia",
+   "genre": [],
+   "votes": 811,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "w-radio",
+   "name": "W Radio",
+   "url": "https://www.wradio.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 711,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blu-radio-medellin-97-9-fm",
+   "name": "Blu Radio (Medellín) 97.9 FM",
+   "url": "https://www.bluradio.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Antioquia",
+   "genre": [],
+   "votes": 697,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-bogota",
+   "name": "Olímpica Stereo(Bogotá)",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "español-colombia",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Bogota D.C.",
+   "genre": [],
+   "votes": 650,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "olimpica-stereo-barranquilla",
+   "name": "Olímpica Stereo - Barranquilla",
+   "url": "https://olimpicastereo.com.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 600,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tiempo-cartagena-colombia",
+   "name": "Radio Tiempo Cartagena Colombia",
+   "url": "https://radiotiempo.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?dist=RtCarWeb",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Bolivar",
+   "genre": [],
+   "votes": 493,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "123vallenato",
+   "name": "123vallenato",
+   "url": "https://rimixradio.com/audio/vallenato.html",
+   "stream": "https://radiolatina.info:10903/;",
+   "codec": "aac",
+   "bitrate": 28,
+   "state": "Medellin",
+   "genre": [],
+   "votes": 417,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "voz-de-la-capilla",
+   "name": "Voz de la capilla",
+   "url": "https://www.vozdelacapilla.com/",
+   "stream": "https://sonic.paulatina.co/7446/stream",
+   "codec": "mp3",
+   "bitrate": 48,
+   "state": "Boyacá",
+   "genre": [],
+   "votes": 309,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fuego-am",
+   "name": "Fuego AM",
+   "url": "https://fuegoam.com.co/",
+   "stream": "https://radio35.virtualtronics.com:20017/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Bogotá",
+   "genre": [],
+   "votes": 289,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tiempo-medellin",
+   "name": "Radio Tiempo Medellín",
+   "url": "https://www.radiotiempo.co/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Medellín, Antioquia",
+   "genre": [],
+   "votes": 285,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

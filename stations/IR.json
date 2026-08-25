@@ -1,0 +1,295 @@
+{
+ "countryCode": "IR",
+ "country": "Iran",
+ "slug": "iran",
+ "continent": "asia",
+ "stationCount": 16,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/iran/",
+ "stations": [
+  {
+   "id": "radio-navahang",
+   "name": "Radio Navahang",
+   "url": "https://www.navahang.com/",
+   "stream": "https://navairan.com/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 47215,
+   "clicks": 174,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mojdeh-iranian-farsi-persian-christian-mus",
+   "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+   "url": "https://radiomojdeh.com/",
+   "stream": "https://ic2326.c1261.fastserv.com/rm128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "faroese",
+    "iranian",
+    "persian"
+   ],
+   "langCodes": [
+    "fa",
+    "fo"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 12583,
+   "clicks": 22,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-faaz",
+   "name": "Radio Faaz",
+   "url": "http://www.radiofaaz.com/",
+   "stream": "https://free.rcast.net/230792",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 8863,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": ".al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 7487,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mohammed-ayyub",
+   "name": "..mohammed_ayyub",
+   "url": "",
+   "stream": "https://qurango.net/radio/mohammed_ayyub",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 7032,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radioyar",
+   "name": "RadioYar",
+   "url": "https://www.radioyar.com/",
+   "stream": "https://shoutcast.glwiz.com/RadioYAR.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 3371,
+   "clicks": 26,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "iraninternational",
+   "name": "iraninternational",
+   "url": "https://iranintl.com/",
+   "stream": "https://radio.iraninternational.app/iintl_c",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [],
+   "votes": 95343,
+   "clicks": 82,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-liberty-iran-official-stream",
+   "name": "ایران‎ Radio Liberty (Iran) (official stream)",
+   "url": "https://www.radiofarda.com/",
+   "stream": "https://stream.radiojar.com/cp13r2cpn3quv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "irani",
+    "iranian"
+   ],
+   "state": "Tehran",
+   "genre": [],
+   "votes": 70855,
+   "clicks": 135,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "iran-international-https-stream",
+   "name": "Iran International (HTTPS stream)",
+   "url": "https://www.iranintl.com/",
+   "stream": "https://stream.radiojar.com/iintl_c",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [],
+   "votes": 26853,
+   "clicks": 146,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mojahed",
+   "name": "Radio Mojahed - رادیو مجاهد",
+   "url": "https://radio.mojahedin.org/",
+   "stream": "https://s2.radio.co/s830691c74/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "state": "Tehran",
+   "genre": [],
+   "votes": 4109,
+   "clicks": 20,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-gachsaran",
+   "name": "Radio Gachsaran",
+   "url": "https://radio.gachsaran.org/",
+   "stream": "https://radio.gachsaran.org/gach",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Gachsaran",
+   "genre": [],
+   "votes": 2653,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "muhammad-siddiq-al-minshawi",
+   "name": "Muhammad Siddiq al-Minshawi",
+   "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
+   "stream": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2120,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-zza-zan-zendegi-azadi",
+   "name": "Radio ZZA (Zan Zendegi Azadi)",
+   "url": "https://radiozza.com/",
+   "stream": "https://listen.radioking.com/radio/526993/stream/585379",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [],
+   "votes": 2093,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 2084,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "harrooz",
+   "name": "Harrooz",
+   "url": "https://shows.acast.com/sobhe-harrooz",
+   "stream": "https://streams.radio.co/s163d89567/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "persian"
+   ],
+   "langCodes": [
+    "fa"
+   ],
+   "genre": [],
+   "votes": 142,
+   "clicks": 21,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "uploadkon",
+   "name": "uploadkon",
+   "url": "https://uploadkon.ir/",
+   "stream": "https://uploadkon.ir/uploads/eb9812_26Highrise-grab-diva.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Tehran",
+   "genre": [],
+   "votes": 42,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  }
+ ]
+}

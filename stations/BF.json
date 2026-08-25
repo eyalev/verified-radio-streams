@@ -1,0 +1,51 @@
+{
+ "countryCode": "BF",
+ "country": "Burkina Faso",
+ "slug": "burkina-faso",
+ "continent": "africa",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/burkina-faso/",
+ "stations": [
+  {
+   "id": "radio-bizi-inter",
+   "name": "Radio Bizi Inter",
+   "url": "https://www.radiobizi.com/",
+   "stream": "https://sonic.mediacp.eu/8040/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Groupe BZ",
+   "genre": [],
+   "votes": 1378,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 116,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

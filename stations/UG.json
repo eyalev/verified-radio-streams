@@ -1,0 +1,998 @@
+{
+ "countryCode": "UG",
+ "country": "Uganda",
+ "slug": "uganda",
+ "continent": "africa",
+ "stationCount": 55,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/uganda/",
+ "stations": [
+  {
+   "id": "107-9-pearl-fm",
+   "name": "107.9 Pearl Fm",
+   "url": "https://pearlfmuganda.com/",
+   "stream": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "luganda"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 4749,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "95-5-radio-buddu",
+   "name": "95.5 Radio Buddu",
+   "url": "https://radiobuddufm.com/",
+   "stream": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "luganda"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2937,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rx-radio",
+   "name": "RX Radio",
+   "url": "https://www.rxradio.ug/",
+   "stream": "https://c14.radioboss.fm:18223/stream?1615807421100=",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 1967,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "80-s-90-s-old-music-radio",
+   "name": "80's 90's old music radio",
+   "url": "https://100-greatest-network.torontocast.stream/",
+   "stream": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 775,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "old-school-music",
+   "name": "Old School Music",
+   "url": "https://ilikeitoldskool.co.uk/",
+   "stream": "https://ilikeitoldskool.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 707,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "107-9-pearl-fm-2",
+   "name": "107.9 Pearl Fm",
+   "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
+   "stream": "https://dc4.serverse.com/proxy/pearlfm/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 680,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nrg-uganda-106-5",
+   "name": "NRG Uganda 106.5",
+   "url": "https://www.nrgug.radio/",
+   "stream": "https://dc4.serverse.com/proxy/nrgugstream/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 434,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rfi-kiswahili",
+   "name": "RFI Kiswahili",
+   "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+   "stream": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "british-english"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 278,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-cristiano-dominican",
+   "name": "Top Cristiano Dominican",
+   "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+   "stream": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "latino"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 137,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "east-africa-radio",
+   "name": "East Africa Radio",
+   "url": "https://eatv.radioca.st/;",
+   "stream": "https://eatv.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "british-english"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 120,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "great-hits-manchester",
+   "name": "Great Hits Manchester",
+   "url": "https://boxradio.net/",
+   "stream": "https://listen-nation.sharp-stream.com/hull.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "luganda"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 111,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "busoga-royal-radio",
+   "name": "BUSOGA ROYAL RADIO",
+   "url": "https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream",
+   "stream": "https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "luganda"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 85,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kitintale-christian-fellowship",
+   "name": "Kitintale Christian Fellowship",
+   "url": "https://kcfch.com/",
+   "stream": "https://c24.radioboss.fm:18185/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "luganda"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 85,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "98-1-isaiah-fm-trinidad",
+   "name": "98.1 Isaiah FM Trinidad",
+   "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+   "stream": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 79,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "smooth-country",
+   "name": "Smooth country",
+   "url": "https://media-ssl.musicradio.com/SmoothCountry",
+   "stream": "https://media-ssl.musicradio.com/SmoothCountry",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 78,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "smooth-chill",
+   "name": "Smooth chill",
+   "url": "https://media-ssl.musicradio.com/ChillMP3",
+   "stream": "https://media-ssl.musicradio.com/ChillMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 68,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-benediction-dominican",
+   "name": "Radio Benediction Dominican",
+   "url": "https://samuel.i-radio.co:9000/radiobendicion",
+   "stream": "https://samuel.i-radio.co:9000/radiobendicion",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "latin"
+   ],
+   "langCodes": [
+    "la"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "107-3-bbc-radio-uganda",
+   "name": "107.3 BBC Radio Uganda",
+   "url": "https://bbc.ug/",
+   "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1509,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cnn-international",
+   "name": "CNN INTERNATIONAL",
+   "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "stream": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1072,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pacis-90-9",
+   "name": "Radio Pacis 90.9",
+   "url": "https://www.radiopacis.org/",
+   "stream": "https://radiopacisuganda.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1012,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gospel-radio-east-africa",
+   "name": "Gospel Radio East Africa",
+   "url": "http://www.gospelradioeastafrica.org/index.html",
+   "stream": "https://c32.radioboss.fm:18451/stream?1641237600584",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 993,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "talksport-1",
+   "name": "TALKSPORT 1",
+   "url": "https://radio.talksport.com/",
+   "stream": "https://radio.talksport.com/stream",
+   "codec": "aac",
+   "bitrate": 63,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 648,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "capital-fm-uganda",
+   "name": "Capital FM Uganda",
+   "url": "https://capitalradio.co.ug/",
+   "stream": "https://capitalfm.cloudrad.io/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 603,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sky-news",
+   "name": "SKY NEWS",
+   "url": "https://news.sky.com/info/radio",
+   "stream": "https://video.news.sky.com/snr/news/snrnews.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 405,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "91-3-lift-worship-us",
+   "name": "91.3 Lift Worship US",
+   "url": "https://myliftworship.com/",
+   "stream": "https://emg.streamguys1.com/lift-website",
+   "codec": "aac",
+   "bitrate": 125,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 397,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dw-news",
+   "name": "DW NEWS",
+   "url": "https://www.dw.com/",
+   "stream": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "kiswahili"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 375,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "christian-hits-radio",
+   "name": "Christian hits radio",
+   "url": "https://www.christianhits.net/",
+   "stream": "https://shoutcast.christianrock.net/stream/5/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 294,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bible-indepth-radio",
+   "name": "Bible Indepth Radio",
+   "url": "https://bibleindepth.com/radio",
+   "stream": "https://stream.radiojar.com/n6c576nrga0uv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "afrikaans"
+   ],
+   "langCodes": [
+    "af"
+   ],
+   "genre": [],
+   "votes": 285,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rfi-kiswahili-2",
+   "name": "RFI Kiswahili",
+   "url": "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3",
+   "stream": "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "frenchhttps://rfiswahili96k.ice.infomaniak.ch/rfis"
+   ],
+   "genre": [],
+   "votes": 182,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "christmas-choir",
+   "name": "Christmas choir",
+   "url": "https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy",
+   "stream": "https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 178,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "trace-gospel",
+   "name": "Trace Gospel",
+   "url": "https://c25.radioboss.fm:8130/4rm8tzo7qirtv",
+   "stream": "https://c25.radioboss.fm:8130/4rm8tzo7qirtv",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 168,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ejazz-radio",
+   "name": "EJAZZ Radio",
+   "url": "https://radio.ejazzug.com/",
+   "stream": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 135,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "christian-life-radio",
+   "name": "Christian life radio",
+   "url": "https://www.communitynetradio.org/christianliferadio",
+   "stream": "https://ice64.securenetsystems.net/CLR1MP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 118,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "heart-xmas",
+   "name": "HEART XMAS",
+   "url": "https://www.livescore.cz/",
+   "stream": "https://media-ssl.musicradio.com/HeartXmas",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 114,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jesus-radio",
+   "name": "Jesus radio",
+   "url": "https://jesusradiofm.com/",
+   "stream": "https://streaming.radio.co/s1dc8ab02e/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "talkradio",
+   "name": "talkRADIO",
+   "url": "https://www.livescore.cz/",
+   "stream": "https://radio.talkradio.co.uk/stream",
+   "codec": "aac",
+   "bitrate": 63,
+   "langs": [
+    "english-uk"
+   ],
+   "genre": [],
+   "votes": 74,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sda-radio",
+   "name": "SDA Radio",
+   "url": "http://www.dashradio.com/",
+   "stream": "https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cbn-christmas-channel",
+   "name": "CBN Christmas Channel",
+   "url": "http://www1.cbn.com/radio/christmas",
+   "stream": "https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rafa-bible-radio",
+   "name": "Rafa Bible radio",
+   "url": "https://rafaradio.com/rafabibleradio/english/",
+   "stream": "https://gains.reviveradio.net/proxy/rafabibleradioeng?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ejazz-xtra",
+   "name": "EJAZZ Xtra",
+   "url": "https://extra.ejazzug.com/",
+   "stream": "https://c32.radioboss.fm:18320/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "luganda"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-buddu",
+   "name": "Radio Buddu",
+   "url": "https://www.radiobuddufm.com/",
+   "stream": "https://dc4.serverse.com/proxy/ccmxrgub/stream?",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fun-kids-radio",
+   "name": "FUN KIDS RADIO",
+   "url": "https://www.livescore.cz/",
+   "stream": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "talk-radio",
+   "name": "TALK RADIO",
+   "url": "https://www.livescore.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bible-trivia",
+   "name": "Bible Trivia",
+   "url": "https://streamer.radio.co/se1aece429/listen",
+   "stream": "https://streamer.radio.co/se1aece429/listen",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ancient-faith-radio",
+   "name": "Ancient Faith Radio",
+   "url": "https://ancientfaith.streamguys1.com/music",
+   "stream": "https://ancientfaith.streamguys1.com/music",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jembe-fm",
+   "name": "Jembe Fm",
+   "url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+   "stream": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "talksport",
+   "name": "Talksport",
+   "url": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+   "stream": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+   "codec": "aac",
+   "bitrate": 63,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rafa-radio-music",
+   "name": "Rafa radio music",
+   "url": "https://rafaradio.com/musicradio/",
+   "stream": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "toyal-soul-radio",
+   "name": "TOYAL SOUL RADIO",
+   "url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+   "stream": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dove-fm",
+   "name": "Dove Fm",
+   "url": "http://www.dovefm.org/",
+   "stream": "https://ice64.securenetsystems.net/DOVEMAIN",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiocity-ug",
+   "name": "RADIOCITY.UG",
+   "url": "https://radiocity.ug/",
+   "stream": "https://cast1.asurahosting.com/proxy/richar16/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "victors-radio",
+   "name": "VICTORS RADIO",
+   "url": "https://www.victorsradio.com/",
+   "stream": "https://a13.asurahosting.com/listen/victors_radio_/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Central UG",
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "streamug-radio",
+   "name": "StreamUG Radio",
+   "url": "https://www.streamugradio.com/",
+   "stream": "https://c22.radioboss.fm:8814/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vu-radio",
+   "name": "VU Radio",
+   "url": "https://vu.ac.ug/vu-radio",
+   "stream": "https://s5.radio.co/sdf8bf7e2a/listen",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

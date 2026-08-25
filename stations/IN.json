@@ -1,0 +1,2801 @@
+{
+ "countryCode": "IN",
+ "country": "India",
+ "slug": "india",
+ "continent": "asia",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/india/",
+ "stations": [
+  {
+   "id": "mirchi-top-20",
+   "name": "Mirchi Top 20",
+   "url": "http://mirchi.in/",
+   "stream": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "bollywood",
+    "pop"
+   ],
+   "votes": 13740,
+   "clicks": 104,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mirchi-love",
+   "name": "Mirchi Love",
+   "url": "http://mirchi.in/",
+   "stream": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop",
+    "romantic"
+   ],
+   "votes": 10413,
+   "clicks": 57,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-2010-s",
+   "name": "Bollywood 2010's",
+   "url": "https://drive.uber.radio/",
+   "stream": "https://drive.uber.radio/uber/bollywood2010s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 7044,
+   "clicks": 44,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-2000-s",
+   "name": "Bollywood 2000's",
+   "url": "https://2.mystreaming.net/uber/bollywood2000s/icecast.audio",
+   "stream": "https://2.mystreaming.net/uber/bollywood2000s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 1956,
+   "clicks": 32,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "london-telugu-radio",
+   "name": "London Telugu Radio",
+   "url": "",
+   "stream": "https://c8.radioboss.fm/stream/33",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1121,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixify-hindi-hits",
+   "name": "MixiFy Hindi Hits",
+   "url": "http://www.mixify.in/",
+   "stream": "https://server.mixify.in/listen/new_hits/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 1120,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ap-9-fm",
+   "name": "ap 9 FM",
+   "url": "https://onlineradiofm.in/stations/ap-9-fm-telugu",
+   "stream": "https://stream.ap9fm.in/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "telugu"
+   ],
+   "langCodes": [
+    "te"
+   ],
+   "state": "guntur",
+   "genre": [
+    "pop"
+   ],
+   "votes": 889,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red-fm",
+   "name": "Red Fm",
+   "url": "https://funasia.streamguys1.com/live9",
+   "stream": "https://funasia.streamguys1.com/live9",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 702,
+   "clicks": 105,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tinder-radio",
+   "name": "Tinder Radio",
+   "url": "https://streaming.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/bollywood/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "bollywood",
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 518,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maharani",
+   "name": "Radio Maharani",
+   "url": "https://m.facebook.com/Radio-Maharani-C-Dass-Group-102936268231393/?wtsid=rdr_00juu3ciMq2TeesvK",
+   "stream": "https://streamasiacdn.atc-labs.com/radiomaharani.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "haryanvi",
+    "hindi",
+    "punjabi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "state": "Haryana",
+   "genre": [
+    "music"
+   ],
+   "votes": 417,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-workout",
+   "name": "Bollywood Workout",
+   "url": "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 412,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-alka-yagnik",
+   "name": "Bollywood Alka yagnik",
+   "url": "https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 404,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-dance",
+   "name": "Bollywood Dance",
+   "url": "https://drive.uber.radio/uber/bollywooddance/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywooddance/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 369,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-udaan",
+   "name": "Radio Udaan",
+   "url": "https://www.radioudaan.com/",
+   "stream": "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "state": "Delhi",
+   "genre": [
+    "bollywood",
+    "music"
+   ],
+   "votes": 326,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-sonu-nigam",
+   "name": "bollywood Sonu nigam",
+   "url": "https://streaming.exclusive.radio/uber/bollywoodsonunigam/icecast.audio",
+   "stream": "https://streaming.exclusive.radio/uber/bollywoodsonunigam/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 302,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-shaharukh-khan",
+   "name": "BOLLYWOOD SHAHARUKH KHAN",
+   "url": "https://2.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio",
+   "stream": "https://2.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 291,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rimjhim",
+   "name": "Radio Rimjhim",
+   "url": "https://streamasiacdn.atc-labs.com/radiorimjhim.aac",
+   "stream": "https://streamasiacdn.atc-labs.com/radiorimjhim.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 247,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-diwali-party",
+   "name": "Bollywood Diwali party",
+   "url": "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 235,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bolly-vibes-radio",
+   "name": "Bolly vibes radio",
+   "url": "https://bollyvibes.radioca.st/stream",
+   "stream": "https://bollyvibes.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 212,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4-lobos-bollywood-radio",
+   "name": "4 lobos bollywood radio",
+   "url": "https://puma.streemlion.com:4130/stream",
+   "stream": "https://puma.streemlion.com:4130/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 200,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-digital-malayali",
+   "name": "Radio Digital Malayali",
+   "url": "https://radio.digitalmalayali.in/",
+   "stream": "https://radio.digitalmalayali.in/listen/stream/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "malayalam"
+   ],
+   "langCodes": [
+    "ml"
+   ],
+   "state": "kerala",
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 180,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-armaan-malik",
+   "name": "Bollywood Armaan malik",
+   "url": "https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 173,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-bollywood",
+   "name": "Exclusively bollywood",
+   "url": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
+   "stream": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 160,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-neha-kakkar",
+   "name": "Bollywood Neha kakkar",
+   "url": "https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 153,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gyansthali-89-6-fm",
+   "name": "Radio Gyansthali 89.6 FM",
+   "url": "http://ngmgonda.org/",
+   "stream": "https://streamasiacdn.atc-labs.com/gyansthali.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "state": "Uttar Pradesh",
+   "genre": [
+    "bollywood",
+    "music"
+   ],
+   "votes": 142,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-24",
+   "name": "Radio 24",
+   "url": "https://radio24.in/",
+   "stream": "https://s7.everestcast.com:1155/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english-hindi"
+   ],
+   "state": "Maharashtra",
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 138,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "indi-fun-radio",
+   "name": "indi fun radio",
+   "url": "https://onlineradiobox.com/json/in/indifun/play?platform=web",
+   "stream": "https://onlineradiobox.com/json/in/indifun/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 135,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-shahrukh-khan",
+   "name": "Bollywood Shahrukh khan",
+   "url": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 130,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-vishal-shekhar",
+   "name": "Bollywood Vishal Shekhar",
+   "url": "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 127,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gunjanradio",
+   "name": "GunjanRadio",
+   "url": "https://streamasiacdn.atc-labs.com/gunjanradio.aac",
+   "stream": "https://streamasiacdn.atc-labs.com/gunjanradio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 117,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ishara",
+   "name": "Radio Ishara",
+   "url": "https://a8.asurahosting.com:7030/radio.mp3",
+   "stream": "https://a8.asurahosting.com:7030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 113,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "puerile-awaz-107-8fm",
+   "name": "Puerile awaz 107.8FM",
+   "url": "https://icecast.bkwsu.eu/radio-awaz-pune.mp3",
+   "stream": "https://icecast.bkwsu.eu/radio-awaz-pune.mp3",
+   "codec": "mp3",
+   "bitrate": 174,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 107,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jaipur-radio",
+   "name": "Jaipur radio",
+   "url": "https://streamasiacdn.atc-labs.com/jaipurradio.aac",
+   "stream": "https://streamasiacdn.atc-labs.com/jaipurradio.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 105,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radionev-24x-hits-music-station",
+   "name": "RadioNev (24x Hits Music Station)",
+   "url": "https://a7.asurahosting.com/public/radionev",
+   "stream": "https://a7.asurahosting.com:8140/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "hindi",
+    "punjabi"
+   ],
+   "langCodes": [
+    "en",
+    "hi"
+   ],
+   "state": "Punjab",
+   "genre": [
+    "90s",
+    "hits",
+    "pop-music",
+    "rock"
+   ],
+   "votes": 101,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sgmasti",
+   "name": "Radio sgmasti",
+   "url": "https://streamasiacdn.atc-labs.com/radiosgmasti.aac",
+   "stream": "https://streamasiacdn.atc-labs.com/radiosgmasti.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 85,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mirchi-hindi",
+   "name": "Radio Mirchi Hindi",
+   "url": "",
+   "stream": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 14927,
+   "clicks": 310,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hindi-gold-radio",
+   "name": "Hindi Gold Radio",
+   "url": "",
+   "stream": "https://azuracast.vibesounds.in:8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 7500,
+   "clicks": 185,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamil-80-s-radio",
+   "name": "Tamil 80's Radio",
+   "url": "https://www.tamilradios.com/tamil-80s-radio",
+   "stream": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Tamil Nadu",
+   "genre": [],
+   "votes": 4855,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "diverse-fm",
+   "name": "Diverse FM",
+   "url": "",
+   "stream": "https://carol.epichosts.co.uk:8570/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 4710,
+   "clicks": 56,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shreyaghosal",
+   "name": "shreyaghosal",
+   "url": "",
+   "stream": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 3827,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamil-panpalai-gold",
+   "name": "Tamil Panpalai Gold",
+   "url": "https://liveradios.in/tamil-panpalai.html",
+   "stream": "https://tamilpanpalai.radioca.st/ind",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Tamil Nadu",
+   "genre": [],
+   "votes": 3328,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mirchi-love-hindi",
+   "name": "Mirchi Love Hindi",
+   "url": "",
+   "stream": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 2958,
+   "clicks": 39,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixify-bollywood",
+   "name": "Mixify Bollywood",
+   "url": "",
+   "stream": "https://server.mixify.in/listen/listen/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 2838,
+   "clicks": 34,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sooriyan-fm",
+   "name": "Sooriyan FM",
+   "url": "",
+   "stream": "https://radio.lotustechnologieslk.net:8006/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 2586,
+   "clicks": 33,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mirchi-usa",
+   "name": "Radio Mirchi USA",
+   "url": "",
+   "stream": "https://streams.radio.co/s8d06d0298/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 2273,
+   "clicks": 27,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywoodandbeyond",
+   "name": "bollywoodandbeyond",
+   "url": "",
+   "stream": "https://s6.yesstreaming.net/proxy/john1237?mp=/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 2131,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89-4-tamil-fm",
+   "name": "89.4 Tamil FM",
+   "url": "",
+   "stream": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 2070,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paramankurichi-tamil",
+   "name": "Radio Paramankurichi Tamil",
+   "url": "https://www.radioparamankurichi.in/",
+   "stream": "https://vpmurugun.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 1717,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bombay-beats-radio",
+   "name": "Bombay Beats Radio",
+   "url": "",
+   "stream": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1590,
+   "clicks": 52,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tune-india-radio",
+   "name": "Tune India Radio",
+   "url": "",
+   "stream": "https://s2.radio.co/se5e166e2f/listen#.mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1453,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywoodmix",
+   "name": "bollywoodmix",
+   "url": "",
+   "stream": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1411,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamil-old-hits-fm",
+   "name": "Tamil Old Hits FM",
+   "url": "",
+   "stream": "https://a9oldhits-a9media.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 1288,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ar-rahman-lite-radio",
+   "name": "AR Rahman Lite Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/arrlite?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 1206,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fever-104-fm",
+   "name": "Fever 104 FM",
+   "url": "",
+   "stream": "https://radio.canstream.co.uk:8115/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1112,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ar-rahman-radio",
+   "name": "AR Rahman Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 1063,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "indianlinkradio",
+   "name": "indianlinkradio",
+   "url": "",
+   "stream": "https://indianlink1.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1060,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lyca-gold",
+   "name": "Lyca Gold",
+   "url": "",
+   "stream": "https://listen-lycaradio.sharp-stream.com/1035.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1017,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bhajans-radio-guyana",
+   "name": "Bhajans Radio Guyana",
+   "url": "",
+   "stream": "https://s5.citrus3.com:8148/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 1011,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bangla-net",
+   "name": "Radio Bangla Net",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "bangla"
+   ],
+   "genre": [],
+   "votes": 983,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ilayaraja-super-beats-radio",
+   "name": "Ilayaraja Super Beats Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/irbeat?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 953,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-90-5-fm",
+   "name": "Radio 90.5 FM",
+   "url": "",
+   "stream": "https://ice42.securenetsystems.net/CR90",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 919,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-now-bangla",
+   "name": "Hot Now Bangla",
+   "url": "",
+   "stream": "https://stream.radiotreetal.com/listen",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "bangla"
+   ],
+   "genre": [],
+   "votes": 889,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bolly-102-9-fm",
+   "name": "Bolly 102.9 FM",
+   "url": "",
+   "stream": "https://ice6.securenetsystems.net/INTRADIO?type=.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 862,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bhaktisudha",
+   "name": "Bhaktisudha",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/cfqyfcspcv8uv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 859,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-krishna",
+   "name": "Radio Krishna",
+   "url": "https://radio.garden/listen/2b-radio-krishna/sxb6cxJs",
+   "stream": "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 853,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gazal-radio-london",
+   "name": "Gazal Radio London",
+   "url": "",
+   "stream": "https://streaming.webhostnepal.com/8018/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 830,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "britishindiantamilradio",
+   "name": "britishindiantamilradio",
+   "url": "",
+   "stream": "https://hello.citrus3.com:2020/stream/britishindiantamilradio",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 824,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "friendstamilfm",
+   "name": "friendstamilfm",
+   "url": "",
+   "stream": "https://usa15.fastcast4u.com/proxy/tammus00?mp=/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 792,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-manpasand",
+   "name": "Radio Manpasand",
+   "url": "",
+   "stream": "https://c5.radioboss.fm:18125/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 724,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arijitsingh",
+   "name": "arijitsingh",
+   "url": "",
+   "stream": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 675,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "london-malayalam-radio",
+   "name": "London Malayalam Radio",
+   "url": "http://www.lmrradio.co.uk/",
+   "stream": "https://ais-edge105-live365-dal02.cdnstream.com/a50671",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "malayalam"
+   ],
+   "langCodes": [
+    "ml"
+   ],
+   "genre": [],
+   "votes": 674,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ilayaraja-lite-radio",
+   "name": "Ilayaraja Lite Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/irlite?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 661,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ilayaraja-radio",
+   "name": "Ilayaraja Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/ir?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 652,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sangeet-samvaad",
+   "name": "Sangeet Samvaad",
+   "url": "https://onlineradiofm.in/stations/sangeet-samvaad",
+   "stream": "https://n08.radiojar.com/7mh06pa8uwzuv.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Maharashtra",
+   "genre": [],
+   "votes": 552,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "west-indian-vibes-radio",
+   "name": "West Indian Vibes Radio",
+   "url": "",
+   "stream": "https://s6.citrus3.com:8396/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 548,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunrise-radio",
+   "name": "Sunrise Radio",
+   "url": "",
+   "stream": "https://stream1.themediasite.co.uk/8070/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 533,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiomirchibengaluru",
+   "name": "radiomirchibengaluru",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "kannada"
+   ],
+   "langCodes": [
+    "kn"
+   ],
+   "genre": [],
+   "votes": 515,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sahara-fm-tamil",
+   "name": "Sahara FM Tamil",
+   "url": "",
+   "stream": "https://azuracast.vibesounds.in:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 498,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "instrumental-music-radio",
+   "name": "instrumental-music-radio",
+   "url": "",
+   "stream": "https://azuracast.vibesounds.in:8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 491,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tuneindiaradio",
+   "name": "tuneindiaradio",
+   "url": "",
+   "stream": "https://s2.radio.co/se5e166e2f/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 486,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "himal-radio",
+   "name": "Himal Radio",
+   "url": "",
+   "stream": "https://streaming.webhostnepal.com/8020/stream",
+   "codec": "aac",
+   "bitrate": 72,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 470,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bharat-fm",
+   "name": "Bharat FM",
+   "url": "",
+   "stream": "https://s2.radio.co/s44bb88930/listen#.mp3?ver=997168",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 456,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vagai-tamil-fm",
+   "name": "vagai-tamil-fm",
+   "url": "",
+   "stream": "https://vtfm2020-vtfm.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 455,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-olive-retro",
+   "name": "Radio Olive Retro",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 448,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hindvani-fm",
+   "name": "Hindvani FM",
+   "url": "",
+   "stream": "https://edge.iono.fm/xice/129_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 437,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bol-punjabi-radio",
+   "name": "Bol Punjabi Radio",
+   "url": "",
+   "stream": "https://bolpunjabi-ekamsoftware.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "punjabi"
+   ],
+   "genre": [],
+   "votes": 429,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamilragam",
+   "name": "tamilragam",
+   "url": "",
+   "stream": "https://cast4.asurahosting.com/proxy/neville/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 425,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "s-janaki",
+   "name": "S Janaki",
+   "url": "https://www.tamilradios.com/s-jankaki-radio",
+   "stream": "https://psrlive2.listenon.in/janaki?station=janakiradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Tamil Nadu",
+   "genre": [],
+   "votes": 419,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-96-radio",
+   "name": "Easy 96 Radio",
+   "url": "",
+   "stream": "https://ice8.securenetsystems.net/EASY96",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 414,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "american-tamil-radio",
+   "name": "american-tamil-radio",
+   "url": "",
+   "stream": "https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 385,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bula-masti",
+   "name": "Radio Bula Masti",
+   "url": "",
+   "stream": "https://c7.radioboss.fm:18052/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 379,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "minnal-fm",
+   "name": "Minnal FM",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 374,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lyca-radio-1458-am",
+   "name": "Lyca Radio 1458 AM",
+   "url": "",
+   "stream": "https://ads-direct.sharp-stream.com/1458.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 363,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "harris-jayaraj-radio",
+   "name": "Harris Jayaraj Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/hjr?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 354,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spice-fm",
+   "name": "Spice FM",
+   "url": "",
+   "stream": "https://spice988fm.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 349,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "g-tamil-fm",
+   "name": "g-tamil-fm",
+   "url": "",
+   "stream": "https://gtr-unicast2u.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 345,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ujala-radio",
+   "name": "Ujala Radio",
+   "url": "",
+   "stream": "https://stream.ujala.nl/ujala",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 344,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yuvan-shankar-raja-radio",
+   "name": "Yuvan Shankar Raja Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/ysr?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 341,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aakashvani",
+   "name": "aakashvani",
+   "url": "",
+   "stream": "https://audio-edge-fvq45.ams.d.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae?listening-from-radio-garden=1607152226837",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 336,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trt-tamil-oli-fm",
+   "name": "TRT Tamil Oli FM",
+   "url": "",
+   "stream": "https://radio13.pro-fhi.net:19236/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 336,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fnffmbollywood",
+   "name": "fnffmbollywood",
+   "url": "",
+   "stream": "https://usa1.fastcast4u.com/proxy/qrekthei?mp=/1",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 332,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sd-90-8-fm",
+   "name": "Radio SD 90.8 FM",
+   "url": "",
+   "stream": "https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 331,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-girmit-kannada",
+   "name": "Radio Girmit Kannada",
+   "url": "",
+   "stream": "https://stream.radiojar.com/g6dgm6m6p3hvv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "kannada"
+   ],
+   "langCodes": [
+    "kn"
+   ],
+   "genre": [],
+   "votes": 326,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-asia-radio",
+   "name": "Dance Asia Radio",
+   "url": "",
+   "stream": "https://s1.citrus3.com:8124/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 317,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "friendstamilchatfm",
+   "name": "friendstamilchatfm",
+   "url": "",
+   "stream": "https://usa3.fastcast4u.com/proxy/dhayanib?mp=/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 311,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "awaz-fm",
+   "name": "Awaz FM",
+   "url": "",
+   "stream": "https://uksoutha.streaming.broadcast.radio/awazfm",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 310,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caravan",
+   "name": "Radio Caravan",
+   "url": "",
+   "stream": "https://stream.voxx.pro/radio/8260/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 310,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anirudh-radio",
+   "name": "Anirudh Radio",
+   "url": "https://southradios.com/",
+   "stream": "https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 305,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vaanam-fm-hd",
+   "name": "vaanam-fm-hd",
+   "url": "",
+   "stream": "https://fra-ranger01.dedicateware.com:8008/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 305,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mohan-radio",
+   "name": "Mohan Radio",
+   "url": "https://www.tamilradios.com/mohan-hits-radio",
+   "stream": "https://psrlive4.listenon.in/mohan?station=mohanradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Tamil Nadu",
+   "genre": [],
+   "votes": 303,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rangeela-radio",
+   "name": "Rangeela Radio",
+   "url": "http://rangeelaradio.net/",
+   "stream": "https://rangeelaradio.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 295,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-olive",
+   "name": "Radio Olive",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 292,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gurbani-kirtan",
+   "name": "Gurbani Kirtan",
+   "url": "",
+   "stream": "https://gurbanikirtan.radioca.st/start.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "punjabi"
+   ],
+   "genre": [],
+   "votes": 291,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixify",
+   "name": "mixify",
+   "url": "https://server.mixify.in/listen/evergreen/radio.mp3",
+   "stream": "https://server.mixify.in/listen/evergreen/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 285,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiofaza",
+   "name": "radiofaza",
+   "url": "",
+   "stream": "https://radiocast.cr8tive-digital.com/radiofaza",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 283,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-asia-radio",
+   "name": "Club Asia Radio",
+   "url": "",
+   "stream": "https://s3.citrus3.com:8320/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 281,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vanavilfm-radio-maestro",
+   "name": "Vanavilfm - Radio Maestro",
+   "url": "https://vanavilfm.com/",
+   "stream": "https://s7.yesstreaming.net:8092/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 281,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shuddh-desi-radio",
+   "name": "Shuddh Desi Radio",
+   "url": "",
+   "stream": "https://streamer.radio.co/se30891e37/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 268,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "east-fm-102-7-tamil",
+   "name": "East FM 102.7 Tamil",
+   "url": "",
+   "stream": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 267,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abee-radio",
+   "name": "Abee Radio",
+   "url": "",
+   "stream": "https://abee.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 266,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sangam",
+   "name": "Radio Sangam",
+   "url": "",
+   "stream": "https://streaming.radio.co/s58948a3f0/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 265,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sbs",
+   "name": "Radio SBS",
+   "url": "",
+   "stream": "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 264,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vasantham-fm",
+   "name": "Vasantham FM",
+   "url": "",
+   "stream": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 263,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swisstamilradio",
+   "name": "swisstamilradio",
+   "url": "",
+   "stream": "https://usa19.fastcast4u.com/swiss",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 262,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-suno-tamil",
+   "name": "Radio Suno Tamil",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 256,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sangeet-106-1-fm",
+   "name": "Sangeet 106.1 FM",
+   "url": "",
+   "stream": "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen?_=1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 254,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-suno-malayalam-91-7",
+   "name": "Radio Suno Malayalam 91.7",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "malayalam"
+   ],
+   "langCodes": [
+    "ml"
+   ],
+   "genre": [],
+   "votes": 243,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "taj-92-3-fm",
+   "name": "Taj 92.3 FM",
+   "url": "",
+   "stream": "https://ice66.securenetsystems.net/TAJ",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 243,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sangeet-radio-usa",
+   "name": "Sangeet Radio USA",
+   "url": "",
+   "stream": "https://ice8.securenetsystems.net/SGTRADIO",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 241,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kummalamradio",
+   "name": "kummalamradio",
+   "url": "",
+   "stream": "https://kummalam.stream.laut.fm/kummalam",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 239,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "itamilmedia",
+   "name": "itamilmedia",
+   "url": "",
+   "stream": "https://streams.radio.co/s937ac5492/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 238,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio90fm",
+   "name": "radio90fm",
+   "url": "",
+   "stream": "https://ice42.securenetsystems.net/CR90?type=.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 232,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-olive-kids",
+   "name": "Radio Olive Kids",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 231,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sangeetmalaradio",
+   "name": "sangeetmalaradio",
+   "url": "",
+   "stream": "https://rs.suricloud.com/radio/8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 231,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red-fm-toronto-88-9-fm",
+   "name": "RED FM Toronto 88.9 FM",
+   "url": "",
+   "stream": "https://ice9.securenetsystems.net/CIRVFM",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "punjabi"
+   ],
+   "genre": [],
+   "votes": 230,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamilkaterumbufm",
+   "name": "tamilkaterumbufm",
+   "url": "",
+   "stream": "https://tamilkaterumbufm-prabak78.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 230,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamilrockyfm",
+   "name": "tamilrockyfm",
+   "url": "",
+   "stream": "https://centova71.instainternet.com/proxy/tamilrockyfm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 230,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibctamil",
+   "name": "ibctamil",
+   "url": "",
+   "stream": "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 229,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vanavilfm-arr-radio",
+   "name": "Vanavilfm - ARR Radio",
+   "url": "https://vanavilfm.com/arr-radio/",
+   "stream": "https://s7.yesstreaming.net:8038/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 227,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "suno-sharda-90-8fm",
+   "name": "Suno Sharda - 90.8FM",
+   "url": "https://www.sharda.ac.in/connect/radiofm",
+   "stream": "https://streamasiacdn.atc-labs.com/shardaradio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "state": "Uttar Pradesh",
+   "genre": [],
+   "votes": 226,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebcradio",
+   "name": "ebcradio",
+   "url": "",
+   "stream": "https://ice7.securenetsystems.net/WWTR?",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 224,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shripad-radio",
+   "name": "Shripad Radio",
+   "url": "https://shripadradio.myfreesites.net/",
+   "stream": "https://shripadradio.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 218,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-azad",
+   "name": "Radio Azad",
+   "url": "",
+   "stream": "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 217,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamilaruvifm",
+   "name": "tamilaruvifm",
+   "url": "",
+   "stream": "https://servidor18-4.brlogic.com:7740/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 216,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dil",
+   "name": "Radio Dil",
+   "url": "",
+   "stream": "https://us3.streamingpulse.com/ssl/radiodil2",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 215,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "britasia-radio-punjabi",
+   "name": "BritAsia Radio Punjabi",
+   "url": "",
+   "stream": "https://s4.radio.co/sfefce156f/listen",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "punjabi"
+   ],
+   "genre": [],
+   "votes": 206,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiozindagi",
+   "name": "radiozindagi",
+   "url": "",
+   "stream": "https://us9.maindigitalstream.com/ssl/RadioZindagi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 204,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bhakti-world-media-shri-ram",
+   "name": "Bhakti World Media Shri Ram",
+   "url": "https://www.bhaktiworldmedia.com/",
+   "stream": "https://dard.out.airtime.pro/dard_a",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 203,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "inbam-fm",
+   "name": "Inbam fm",
+   "url": "http://www.inbamfm.com/",
+   "stream": "https://stream.radio.co/sf55ced545/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 201,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fusion-life-radio",
+   "name": "Fusion Life Radio",
+   "url": "",
+   "stream": "https://c28.radioboss.fm:18046/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [],
+   "votes": 198,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  }
+ ]
+}

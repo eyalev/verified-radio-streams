@@ -1,0 +1,538 @@
+{
+ "countryCode": "PK",
+ "country": "Pakistan",
+ "slug": "pakistan",
+ "continent": "asia",
+ "stationCount": 35,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/pakistan/",
+ "stations": [
+  {
+   "id": "hum-fm-106-2",
+   "name": "Hum FM 106.2",
+   "url": "https://www.1062.fm/",
+   "stream": "https://server.mediacast4u.stream/8002/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "urdu"
+   ],
+   "langCodes": [
+    "en",
+    "ur"
+   ],
+   "state": "Sindh",
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 3632,
+   "clicks": 26,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-quran",
+   "name": "#radio quran",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1072,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-94-4",
+   "name": "Fm.94.4",
+   "url": "",
+   "stream": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 998,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "whmsonic",
+   "name": "পাকিস্তান",
+   "url": "",
+   "stream": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 749,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "samaa-fm-107-4",
+   "name": "Samaa FM 107.4",
+   "url": "https://www.samaafm.com/",
+   "stream": "https://samaakhi107-itelservices.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 8746,
+   "clicks": 32,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-multan-mw",
+   "name": "Radio Pakistan Multan MW",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8034/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 7588,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-islamabad",
+   "name": "Radio Pakistan Islamabad",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:7003/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6827,
+   "clicks": 20,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-lahore-news-and-current-affair-am",
+   "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 5416,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-101-islamabad",
+   "name": "FM 101 Islamabad",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:7008/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4883,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "city-fm-89",
+   "name": "City FM 89",
+   "url": "https://cityfm89.com/",
+   "stream": "https://radio.cityfm89.com/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english",
+    "urdu"
+   ],
+   "langCodes": [
+    "en",
+    "ur"
+   ],
+   "genre": [],
+   "votes": 4466,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-rawalpindi",
+   "name": "FM 93 Rawalpindi",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8036/relay",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 4343,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-world-service",
+   "name": "Radio Pakistan World Service",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:7005/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3759,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-lahore",
+   "name": "FM 93 Lahore",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8088/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 2641,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-peshawar-mw",
+   "name": "Radio Pakistan Peshawar MW",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8072/relay",
+   "codec": "mp3",
+   "bitrate": 48,
+   "state": "Khyber Pakhtunkhwa",
+   "genre": [],
+   "votes": 2320,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-multan",
+   "name": "FM 93 Multan",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8032/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 2301,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-101-karachi",
+   "name": "FM 101 Karachi",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8048/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Sindh",
+   "genre": [],
+   "votes": 2287,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-quetta-mw",
+   "name": "Radio Pakistan Quetta MW",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8060/relay",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Balochistan",
+   "genre": [],
+   "votes": 2252,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-faisalabad",
+   "name": "FM 93 Faisalabad",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8022/relay",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 2184,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-karachi",
+   "name": "FM 93 Karachi",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:7022/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Sindh",
+   "genre": [],
+   "votes": 1520,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-mianwali",
+   "name": "FM 93 Mianwali",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8028/relay",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 1516,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-101-larkana",
+   "name": "FM 101 Larkana",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8050/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Sindh",
+   "genre": [],
+   "votes": 1149,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-101-mithi",
+   "name": "FM 101 Mithi",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8052/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Sindh",
+   "genre": [],
+   "votes": 954,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-multan",
+   "name": "Radio Pakistan Multan",
+   "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+   "stream": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 930,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pakistan-lahore",
+   "name": "Radio Pakistan Lahore",
+   "url": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+   "stream": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 824,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-chitral",
+   "name": "FM 93 Chitral",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8066/relay",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Khyber Pakhtunkhwa",
+   "genre": [],
+   "votes": 756,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "101peshawar",
+   "name": "101peshawar",
+   "url": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+   "stream": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "pashto-/urdu"
+   ],
+   "genre": [],
+   "votes": 702,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bahawal-pur-mw-station",
+   "name": "BAHAWAL PUR MW STATION",
+   "url": "https://www.radio.gov.pk/live-streaming",
+   "stream": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 662,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mirpur",
+   "name": "Radio Mirpur",
+   "url": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+   "stream": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+   "codec": "mp3",
+   "bitrate": 40,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 362,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mera-fm-107-4-lahore",
+   "name": "Mera FM 107.4 Lahore",
+   "url": "https://www.merafm.com/radio-stations/",
+   "stream": "https://samaalhr107-itelservices.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "urdu/punjabi/seraiki"
+   ],
+   "genre": [],
+   "votes": 347,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ak-radio-trarkhal",
+   "name": "AK radio Trarkhal",
+   "url": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+   "stream": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 324,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 249,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-101-sargodha",
+   "name": "FM 101 Sargodha",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8040/relay",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Punjab",
+   "genre": [],
+   "votes": 221,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "insaf-radio",
+   "name": "Insaf Radio",
+   "url": "https://www.insaf.pk/insafradio",
+   "stream": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp",
+   "codec": "unknown",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 155,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-101-khairpur",
+   "name": "FM 101 Khairpur",
+   "url": "https://radio.gov.pk/",
+   "stream": "https://whmsonic.radio.gov.pk:8054/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Sindh",
+   "genre": [],
+   "votes": 127,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "universal-health-radio",
+   "name": "Universal Health Radio (اردو)",
+   "url": "https://universalhealthradio.org/",
+   "stream": "https://radio.universalhealthradio.org/uhr-ur.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "urdu"
+   ],
+   "langCodes": [
+    "ur"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

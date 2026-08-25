@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:-1 group-title="Portugal" tvg-genre="80s,pop,romantic",M80 Rádio – 80s
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="fado",Radio Fado de Coimbra
+https://nl.digitalrm.pt:8048/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="70s,80s,90s,romantic",M80 Rádio – Ballads
+https://stream-icy.bauermedia.pt/m80ballads.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="60s,70s,80s",M80 Rádio – 60s
+https://stream-icy.bauermedia.pt/m8060.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="jazz,smooth-jazz",Smooth FM (AAC)
+https://stream-icy.bauermedia.pt/smooth.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop,pop-rock",RFM Oceano Pacifico
+https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="2000s,70s,80s,90s",M80 Rádio (AAC)
+https://stream-icy.bauermedia.pt/m80.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="70s,80s,90s,pop",M80 Rádio – Pop
+https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="70s,80s,90s,dance",M80 Rádio – Dance
+https://stream-icy.bauermedia.pt/m80dance.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="80s,pop-rock,rock",M80 Rádio – Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="dance",Rádio Comercial Dance
+https://stream-icy.bauermedia.pt/rcdance.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="hits",Rádio Vizela
+https://proxy-audio.ptisp.com:8100/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="oldies,pop",Rádio XL
+https://radios.justweb.pt/8002/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="indie",M80 Rádio – Indie
+https://stream-icy.bauermedia.pt/m80indie.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="70s,80s,pop",M80 Rádio – 70s
+https://stream-icy.bauermedia.pt/m8070.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="classic-rock,metal,pop",MRR Manitu Rock Radio
+https://radio.streemlion.com:4515/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop,pop-rock",Rádio Regional do Centro
+https://nl.digitalrm.pt:8030/stream?1671017145140=
+#EXTINF:-1 group-title="Portugal" tvg-genre="classic-hits,hits,oldies,pop",M 80 Rádio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="rock",Radio Comercial Rock
+https://stream-icy.bauermedia.pt/rcrock.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="top-hits",Rádio Freguesia de Belém
+https://s2.radio.co/s0ddea4a53/listen
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop,popular",Rádio Festival Madeira (98.4 FM)
+https://audio.serv.pt/8012/stream.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop-rock,rock",NiTfm
+https://sp0.redeaudio.com/8028/stream/
+#EXTINF:-1 group-title="Portugal" tvg-genre="70s,soul",M80 Rádio – Soul
+https://stream-icy.bauermedia.pt/m80soul.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="dance",RFM DANCE IT
+https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop",Rádio Popular Madeira (101.0 FM)
+https://audio.serv.pt/8018/stream.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop",Rádio Popular de Source
+https://nl.digitalrm.pt:8072/stream?1671016403075=
+#EXTINF:-1 group-title="Portugal" tvg-genre="metal",MetalON - The Heavy
+https://radiometalon.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="jazz,smooth-jazz",RFM JAZZY
+https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="latin-music,latin-pop",RFM LATINAS
+https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="2000s",00's RFM
+https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop-music",Rádio Foz do Mondego
+https://nl.digitalrm.pt:8216/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="metal",Radio Metal On: The Thrasher
+https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop,rock",RUA FM
+https://centova.radio.com.pt/proxy/037?mp=/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="popular",Rádio Zarco Madeira (89.6 FM)
+https://audio.serv.pt/8014/stream.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop,popular",Rádio Sol Madeira (103.7 FM)
+https://audio.serv.pt/8010/stream.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="classic-hits,hits,oldies,pop",Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop-music",Rádio Maiorca
+https://nl.digitalrm.pt:8182/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="classic-hits,hits,oldies,pop",Rádio Baía
+https://streamingv2.shoutcast.com/observador_64.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="alternative,pop",RTP Antena 3 Madeira
+https://radiocast.rtp.pt/antena3madeira80a.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="easy-listening",MFM
+https://radios.justweb.pt/8074/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="80s",Gongas Radio
+https://a6.asurahosting.com:7930/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="metal",Radio Metal On: Toxic
+https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="folk",Voz do Neiva
+https://sp0.redeaudio.com/8092/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="music",RFM NOVAS
+https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="adult-contemporary",oceano Pacifico
+https://stm7.xradios.com.br:6944/live
+#EXTINF:-1 group-title="Portugal" tvg-genre="edm,trance",nigga.pt (party)
+https://nigga.pt/party.ogg
+#EXTINF:-1 group-title="Portugal" tvg-genre="downtempo,electronica",Wave Vibes
+https://a6.asurahosting.com/listen/wave_vibes/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="90s,pop,rock",NTR - Network Radio
+https://is.ntradio.pt/ntr
+#EXTINF:-1 group-title="Portugal" tvg-genre="oldies",Rádio Tágide
+https://rs2.ptservidor.com/proxy/carlos31?mp=/stream?type=.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="electronic,techno",Deep Mix Radio
+https://stream-new.deepmix.net/deep-mix-radio-320.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="chillout,downtempo,indie",MSFS Radio
+https://radio.msfsradio.com/listen/msfs/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="metal,rock",Radio Rock Pirata
+https://radio.softshell-octatonic.ts.net/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="adult-contemporary",Rádio Hertz
+https://radios2.justweb.pt/8042/stream
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop",Rádio Perlépia
+https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3
+#EXTINF:-1 group-title="Portugal" tvg-genre="rock",RFM Rocks
+https://25583.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+#EXTINF:-1 group-title="Portugal" tvg-genre="pop",Total FM
+https://eu57-sonic.instainternet.com:8068/stream
+#EXTINF:-1 group-title="Portugal",RFM
+https://23603.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 group-title="Portugal",Radio Comercial Portugal
+https://stream-icy.bauermedia.pt/comercial.mp3
+#EXTINF:-1 group-title="Portugal",TSF Rádio Notícias
+https://directo.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 group-title="Portugal",GoloFM
+https://sp0.redeaudio.com/8154/stream
+#EXTINF:-1 group-title="Portugal",M80 Rádio – Portugal
+https://stream-icy.bauermedia.pt/m80nacional.aac
+#EXTINF:-1 group-title="Portugal",Rádio Amor Portugal
+https://stream.radioamorportugal.com:8443/rap.mp3
+#EXTINF:-1 group-title="Portugal",Wonder 80's
+https://80.streeemer.com/listen/80s/radio.mp3
+#EXTINF:-1 group-title="Portugal",Antena 3 - Main
+https://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1 group-title="Portugal",radio orbital
+https://centova.radio.com.pt/proxy/401?mp=/stream
+#EXTINF:-1 group-title="Portugal",FUTURA - Rádio de Autor
+https://s4.radio.co/s7e7b6c165/listen
+#EXTINF:-1 group-title="Portugal",SmoothFM Soul
+https://stream-icy.bauermedia.pt/smoothsoul.aac
+#EXTINF:-1 group-title="Portugal",M80 Rádio – 90s
+https://stream-icy.bauermedia.pt/m8090.aac
+#EXTINF:-1 group-title="Portugal",REWIND 2000's
+https://2000.streeemer.com/listen/2000s/radio.aac
+#EXTINF:-1 group-title="Portugal",Radio Biblia
+https://servidor30-4.brlogic.com:7398/live?source=website
+#EXTINF:-1 group-title="Portugal",Cidade FM
+https://stream-icy.bauermedia.pt/cidade.mp3
+#EXTINF:-1 group-title="Portugal",Cantinho dos Emigrantes
+https://cast.redewt.net:9825/stream
+#EXTINF:-1 group-title="Portugal",Radio Maria Portugal
+https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream
+#EXTINF:-1 group-title="Portugal",BBN Portuguese
+https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
+#EXTINF:-1 group-title="Portugal",Rádio NoAr
+https://radios.justweb.pt/8034/stream
+#EXTINF:-1 group-title="Portugal",Rádio Observador
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac
+#EXTINF:-1 group-title="Portugal",RFM TOCA PORTUGAL
+https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac
+#EXTINF:-1 group-title="Portugal",Radio Portugal Mais
+https://sv15.hdradios.net:7432/stream
+#EXTINF:-1 group-title="Portugal",Radio Renascença
+https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+#EXTINF:-1 group-title="Portugal",Lusophonica
+https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328
+#EXTINF:-1 group-title="Portugal",La French Radio Portugal
+https://www.radioking.com/play/lfr-portugal
+#EXTINF:-1 group-title="Portugal",Posto Emissor do Funchal OM
+https://centova.radio.com.pt/proxy/422?mp=/stream;
+#EXTINF:-1 group-title="Portugal",Rádio Nova Era
+https://centova.radio.com.pt/proxy/478?mp=/stream
+#EXTINF:-1 group-title="Portugal",4DJ 4Drive Jazz
+https://radio.streemlion.com:4870/stream
+#EXTINF:-1 group-title="Portugal",Rádio Comercial Kids
+https://stream-icy.bauermedia.pt/rckids.aac
+#EXTINF:-1 group-title="Portugal",Antena 2 - Main
+https://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 group-title="Portugal",Nove3cinco
+https://centova.radio.com.pt/proxy/522?mp=/stream&1715267171
+#EXTINF:-1 group-title="Portugal",RDP Internacional - Main
+https://radiocast.rtp.pt/rdpint80a.mp3
+#EXTINF:-1 group-title="Portugal",Radio Portuguesa do Var
+https://sonic.servsonic.com:7003/;
+#EXTINF:-1 group-title="Portugal",Antena 1 - Main
+https://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 group-title="Portugal",RTP - Radio ZigZag
+https://radiocast.rtp.pt/zigzag80a.mp3
+#EXTINF:-1 group-title="Portugal",NOITE FM
+https://servidor.noite.pt:9002/stream
+#EXTINF:-1 group-title="Portugal",Rádio Clube de Mafra
+https://centova.radio.com.pt/proxy/551?mp=/stream
+#EXTINF:-1 group-title="Portugal",97fm Rádio Clube de Pombal
+https://centova.radios.com.pt/proxy/410?mp=/stream
+#EXTINF:-1 group-title="Portugal",Rádio Botareu
+https://nl.digitalrm.pt:8238/stream
+#EXTINF:-1 group-title="Portugal",Rádio Clube Madeira (106.8 FM)
+https://audio.serv.pt/8020/stream.mp3
+#EXTINF:-1 group-title="Portugal",Rádio Alto Minho
+https://ec2.yesstreaming.net:3705/stream
+#EXTINF:-1 group-title="Portugal",Antena Livre de Gouveia
+https://centova.radio.com.pt/proxy/456?mp=/stream
+#EXTINF:-1 group-title="Portugal",Rádio Elvas
+https://radios2.justweb.pt:8066/stream?type=http&nocache=297
+#EXTINF:-1 group-title="Portugal",Radio Record Porto
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 group-title="Portugal",res fm
+https://stream2.soundflux.eu:8440/stream
+#EXTINF:-1 group-title="Portugal",RADIO RCP-VAR
+https://sonic.servsonic.com/8028/stream
+#EXTINF:-1 group-title="Portugal",Rádio Comercial Natal
+https://stream-icy.bauermedia.pt/rcxmas.aac
+#EXTINF:-1 group-title="Portugal",Radio Valdevez
+https://centova.radio.com.pt/proxy/508?mp=/stream
+#EXTINF:-1 group-title="Portugal",Rádio Lafões FM
+https://sp0.redeaudio.com/9304/stream
+#EXTINF:-1 group-title="Portugal",Radio Metal On: 80s HNH
+https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3
+#EXTINF:-1 group-title="Portugal",Rádio Movimento
+https://stream.rcast.net/61025
+#EXTINF:-1 group-title="Portugal",Onda Livre
+https://centova.radio.com.pt/proxy/572?mp=/stream
+#EXTINF:-1 group-title="Portugal",Rádio Fronteira
+https://radios2.justweb.pt/8074/stream
+#EXTINF:-1 group-title="Portugal",Cool FM Albufeira
+https://a1.asurahosting.com:9360/radio.mp3
+#EXTINF:-1 group-title="Portugal",Estação Diária Rádio, Viseu – 96.8 FM
+https://centova.radio.com.pt/proxy/430?mp=/stream
+#EXTINF:-1 group-title="Portugal",RADIO CAMPO MAIOR
+https://radios2.justweb.pt:8064/stream?type=http&nocache=32
+#EXTINF:-1 group-title="Portugal",Rádio Marginal
+https://centova.radios.pt/proxy/499?mp=/stream
+#EXTINF:-1 group-title="Portugal",Radio Metal On: The Brutal
+https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3
+#EXTINF:-1 group-title="Portugal",RADIO NOVA ANTENA
+https://radios2.justweb.pt:8068/stream?type=http&nocache=82
+#EXTINF:-1 group-title="Portugal",Rádio Pax
+https://centova.radio.com.pt/proxy/484?mp=/stream
+#EXTINF:-1 group-title="Portugal",Rádio Sudoeste
+https://centova.radios.pt/proxy/495?mp=/stream
+#EXTINF:-1 group-title="Portugal",RDS Romantica
+https://s9.yesstreaming.net:9066/stream
+#EXTINF:-1 group-title="Portugal",Rádio Calheta
+https://player.radiocalheta.pt/listen/radiocalheta/live
+#EXTINF:-1 group-title="Portugal",Radio Meio Do Mato
+https://radio.meiodomato.com/stream
+#EXTINF:-1 group-title="Portugal",REPLAY NEWS - Português
+https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3
+#EXTINF:-1 group-title="Portugal",Rádio RDS
+https://s9.yesstreaming.net:7070/stream
+#EXTINF:-1 group-title="Portugal",Record FM 107,7
+https://nl.digitalrm.pt:8010/stream
+#EXTINF:-1 group-title="Portugal",RIO - Rádio Internacional Odemira
+https://hts02.brascast.com:10476/live
+#EXTINF:-1 group-title="Portugal",On the Radio- Lisbon
+https://rs2.ptservidor.com/proxy/mediawis?mp=/stream?type=.mp3
+#EXTINF:-1 group-title="Portugal",Rádio Atalaia
+https://mpc.my-control-panel.eu/stream/radioatalaia
+#EXTINF:-1 group-title="Portugal",nigga.pt (chill)
+https://nigga.pt/chill.ogg
+#EXTINF:-1 group-title="Portugal",Posto Emissor do Funchal
+https://centova.radio.com.pt/proxy/426?mp=/stream.mp3
+#EXTINF:-1 group-title="Portugal",Posto Emissor do Funchal (PEF) - Canal 2 FM
+https://centova.radio.com.pt/proxy/426?mp=/stream;
+#EXTINF:-1 group-title="Portugal",Rádio clube de Colares
+https://rs3.ptservidor.net/8012/live
+#EXTINF:-1 group-title="Portugal",Record FM 105,5 santuário
+https://nl.digitalrm.pt:8018/stream
+#EXTINF:-1 group-title="Portugal",Batida FM
+https://stream-icy.rayo.pt/batidafm.mp3?direct=true
+#EXTINF:-1 group-title="Portugal",brutal
+https://nigga.pt/brutal.ogg
+#EXTINF:-1 group-title="Portugal",ESR - East Side Radio
+https://ice.ether.esr.li/esr-ch1.aac
+#EXTINF:-1 group-title="Portugal",Radio Amigos do Mundo
+https://sonic.servsonic.com:7004/stream
+#EXTINF:-1 group-title="Portugal",Radio Vibe
+https://radio-vibe-101-stream-render-4tnt.onrender.com/live
+#EXTINF:-1 group-title="Portugal",radiofutura.pt
+https://s4.radio.co/s7e7b6c165/low
+#EXTINF:-1 group-title="Portugal",alt
+https://nigga.pt/alt.ogg
+#EXTINF:-1 group-title="Portugal",doom
+https://nigga.pt/doom.ogg
+#EXTINF:-1 group-title="Portugal",RÁDIO EU SOU GOIÁS
+https://live9.livemus.com.br:27374/stream
+#EXTINF:-1 group-title="Portugal",Rádio Marinahais
+https://radios2.justweb.pt/8052/stream
+#EXTINF:-1 group-title="Portugal",Rádio Miróbriga
+https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3
+#EXTINF:-1 group-title="Portugal",Radio Viseu
+https://s2.radio.co/sf5c3ab01d/listen
+#EXTINF:-1 group-title="Portugal",Record FM 91,8 Algarve
+https://nl.digitalrm.pt:8020/stream

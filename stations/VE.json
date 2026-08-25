@@ -1,0 +1,127 @@
+{
+ "countryCode": "VE",
+ "country": "Venezuela",
+ "slug": "venezuela",
+ "continent": "americas",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/venezuela/",
+ "stations": [
+  {
+   "id": "dj-shaggy-venezuela-radio",
+   "name": "DJ Shaggy Venezuela Radio",
+   "url": "https://djshaggyvenezuela.com/",
+   "stream": "https://laradiossl.online:9226/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1222,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "adulto-joven-88-1",
+   "name": "Adulto Joven 88.1",
+   "url": "https://88punto1.com/",
+   "stream": "https://server6.globalhostla.com:9168/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1199,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rumba-98-1-fm",
+   "name": "Rumba 98.1 FM",
+   "url": "https://rumbavenezuela.fm/",
+   "stream": "https://cast20.plugstreaming.com:2020/stream/r981/;",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 473,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rumba-100-1-barquisimeto-fm",
+   "name": "Rumba 100.1 Barquisimeto FM",
+   "url": "https://rumbavenezuela.fm/",
+   "stream": "https://cast10.plugstreaming.com:2020/stream/r1001/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin-pop",
+    "reggaeton"
+   ],
+   "votes": 169,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alba-ciudad-radio-93-6-fm16k",
+   "name": "Alba Ciudad Radio 93.6 FM16k",
+   "url": "https://albaciudad.org/",
+   "stream": "https://envivo.albaciudad.org/alba16.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 591,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-dinamica-92-9",
+   "name": "Radio dinámica 92.9",
+   "url": "https://www.radiodinamica.com.ve/barquisimeto",
+   "stream": "https://guri.tepuyserver.net/8012/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [],
+   "votes": 359,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  }
+ ]
+}

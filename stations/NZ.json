@@ -1,0 +1,1790 @@
+{
+ "countryCode": "NZ",
+ "country": "New Zealand",
+ "slug": "new-zealand",
+ "continent": "oceania",
+ "stationCount": 93,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/new-zealand/",
+ "stations": [
+  {
+   "id": "fm90-6-radio-chinese",
+   "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+   "url": "https://fm906.co.nz/",
+   "stream": "https://s26.myradiostream.com:20274/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "chinese",
+    "hakka",
+    "hokkien"
+   ],
+   "langCodes": [
+    "hak",
+    "yue",
+    "zh"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "music"
+   ],
+   "votes": 461,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "3abn-christian-radio",
+   "name": "3ABN Christian Radio",
+   "url": "https://3abn.org/3abn-radio.html",
+   "stream": "https://stream.3abnaustralia.org.au:8443/stream",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Christchurch",
+   "genre": [
+    "music"
+   ],
+   "votes": 246,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-hit-radio",
+   "name": "Retro Hit Radio",
+   "url": "http://retrohitradio.co.nz/",
+   "stream": "https://riphel02.radioca.st/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 184,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-rock-nz-s-1-rock-radio-station",
+   "name": "The Rock - NZ's #1 rock radio station",
+   "url": "https://www.therock.net.nz/",
+   "stream": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+   "codec": "aac",
+   "bitrate": 130,
+   "format": "music",
+   "state": "Auckland",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 180,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mad-fm-auckland-106-7",
+   "name": "MAD FM Auckland 106.7",
+   "url": "https://www.madfm.net/index.html",
+   "stream": "https://madfm-gecko.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "indie"
+   ],
+   "votes": 134,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-generator",
+   "name": "The Generator",
+   "url": "https://thegenerator.co.nz/",
+   "stream": "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 124,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "95bfm-flac",
+   "name": "95bFM - FLAC",
+   "url": "https://95bfm.com/",
+   "stream": "https://streams.95bfm.com/stream112",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 114,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "niu-fm-aac",
+   "name": "Niu FM - AAC",
+   "url": "https://pmn.co.nz/radio-stations/niu-fm",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "pacific"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "music"
+   ],
+   "votes": 102,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sub-fm",
+   "name": "Sub FM",
+   "url": "https://www.sub.fm/",
+   "stream": "https://fmsub.radioca.st/stream?type=http&nocache=140",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Tauranga",
+   "genre": [
+    "techno"
+   ],
+   "votes": 99,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "95bfm-256kbps-mp3",
+   "name": "95bFM - 256Kbps MP3",
+   "url": "https://95bfm.com/",
+   "stream": "https://streams.95bfm.com/stream95",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 90,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sangeet-masti",
+   "name": "Radio Sangeet Masti",
+   "url": "https://servidor19-4.brlogic.com:7304/live?source=website",
+   "stream": "https://servidor19-4.brlogic.com:7304/live?source=website",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 89,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioactive-fm-88-6",
+   "name": "Radioactive.FM 88.6",
+   "url": "https://www.radioactive.fm/",
+   "stream": "https://radio123-gecko.radioca.st/radioactivefm",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 88,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chill-radio",
+   "name": "Chill-Radio",
+   "url": "https://www.smoothradio.com/chill/",
+   "stream": "https://media-sov.musicradio.com/Chill",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Taupo",
+   "genre": [
+    "relax"
+   ],
+   "votes": 82,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vinyl-radio-nz",
+   "name": "Vinyl Radio NZ",
+   "url": "https://onlineradiobox.com/nz/vinylnz/",
+   "stream": "https://s40.myradiostream.com:17794/listen.aac?",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "classic-rock",
+    "hits"
+   ],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sanctuary-mp3",
+   "name": "Sanctuary - MP3",
+   "url": "https://yoursanctuary.nz/",
+   "stream": "https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "worship"
+   ],
+   "votes": 80,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hydra",
+   "name": "Radio Hydra",
+   "url": "https://radiohydra.org/",
+   "stream": "https://streaming.radio.co/sed9109681/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 79,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-cafe",
+   "name": "JAZZ CAFE",
+   "url": "https://wsradio.net/djs/jazz-cafe/",
+   "stream": "https://radio.wanderingsheep.net:8000/jazzcafe",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "easy-listening",
+    "smooth-jazz"
+   ],
+   "votes": 76,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bollybop",
+   "name": "Radio Bollybop",
+   "url": "https://s3.radio.co/s2f19d44d0/listen",
+   "stream": "https://s3.radio.co/s2f19d44d0/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 64,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mai-fm",
+   "name": "Mai FM",
+   "url": "https://www.maifm.co.nz/home.html",
+   "stream": "https://ais-sa1.streamon.fm/7102_128k.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "hip-hop",
+    "rnb"
+   ],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiwi-folk-radio",
+   "name": "Kiwi Folk Radio",
+   "url": "https://www.kiwifolk.com/",
+   "stream": "https://streamer.radio.co/sde527a41e/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dunedin",
+   "genre": [
+    "folk"
+   ],
+   "votes": 52,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "up-fm-107-5",
+   "name": "UP FM 107.5",
+   "url": "https://twitter.com/upfm",
+   "stream": "https://stream.upfm.live/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "dance"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-te-aroha-88fm",
+   "name": "Radio Te Aroha 88FM",
+   "url": "https://tearoha34.wixsite.com/radiotearoha",
+   "stream": "https://c2.radioboss.fm:18440/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Waikato",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "95bfm-64kbps-aac",
+   "name": "95bFM - 64kbps AAC+",
+   "url": "https://95bfm.com/",
+   "stream": "https://streams.95bfm.com/stream128",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiowave-nz",
+   "name": "Radiowave NZ",
+   "url": "https://www.radiowavenz.com/",
+   "stream": "https://listen.radioking.com/radio/106324/stream/145267",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-cheese",
+   "name": "The Cheese",
+   "url": "https://thecheese.co.nz/",
+   "stream": "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "engilsh"
+   ],
+   "state": "Hutt Valley, Wellington",
+   "genre": [
+    "music"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mai-fm-2",
+   "name": "Mai FM",
+   "url": "https://rova.nz/",
+   "stream": "https://mediaworks.streamguys1.com/mai_net_icy",
+   "codec": "aac",
+   "bitrate": 131,
+   "format": "music",
+   "langs": [
+    "english",
+    "kiwi",
+    "te-reo"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "rnb"
+   ],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-one-91fm",
+   "name": "Radio One 91FM",
+   "url": "https://www.r1.co.nz/",
+   "stream": "https://play.r1.co.nz/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "disco",
+    "pop"
+   ],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heads-fm-mangawhai-106-4",
+   "name": "Heads FM Mangawhai 106.4",
+   "url": "https://www.headsfm.co.nz/",
+   "stream": "https://headsfm.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Northland",
+   "genre": [
+    "rock"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gone-country",
+   "name": "Gone Country",
+   "url": "https://gonecountry.co.nz/",
+   "stream": "https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Fielding; Manawatu",
+   "genre": [
+    "country"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-105-6fm",
+   "name": "Smooth 105.6FM",
+   "url": "https://www.smoothfm.co.nz/",
+   "stream": "https://servidor26.brlogic.com:7110/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Waipu, Northland",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "531pi-aac",
+   "name": "531pi - AAC",
+   "url": "https://pmn.co.nz/radio-stations/531-pi",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "fijian",
+    "maori",
+    "pacifica-multi-ethnic"
+   ],
+   "langCodes": [
+    "en",
+    "mi",
+    "fj",
+    "sm"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "music"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "akaroa-world-radio",
+   "name": "Akaroa World Radio",
+   "url": "https://www.akaroaradio.co.nz/",
+   "stream": "https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Christchurch",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdu",
+   "name": "RDU",
+   "url": "https://rdu.org.nz/",
+   "stream": "https://rdu985fm-gecko.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Christchurch",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-cheese-flac",
+   "name": "The Cheese FLAC",
+   "url": "https://thecheese.co.nz/",
+   "stream": "https://station.thecheese.co.nz/listen/the_cheese/flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-x",
+   "name": "Radio - X",
+   "url": "http://radioxnz.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Hamilton",
+   "genre": [
+    "rock"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tiri-2",
+   "name": "Tiri 2",
+   "url": "https://tiri2.webradiosite.com/",
+   "stream": "https://servidor34-4.brlogic.com:7138/live?source=website",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Waiuku, Auckland",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "531pi-mp3",
+   "name": "531pi - MP3",
+   "url": "https://pmn.co.nz/radio-stations/531-pi",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "fijian",
+    "maori",
+    "samoan"
+   ],
+   "langCodes": [
+    "en",
+    "mi",
+    "fj",
+    "sm"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "music"
+   ],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gaia-fm-new-zealand",
+   "name": "Gaia FM (New Zealand)",
+   "url": "https://gaiafm.stationplaylist.com/",
+   "stream": "https://s2.stationplaylist.com:9000/gaiafm.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "New Zealand",
+   "genre": [
+    "easy-listening",
+    "instrumental",
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sanctuary-aac",
+   "name": "Sanctuary - AAC",
+   "url": "https://yoursanctuary.nz/",
+   "stream": "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "worship"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rag-fm-107-7fm",
+   "name": "RAG-FM 107.7FM",
+   "url": "https://www.ragfm.com/",
+   "stream": "https://cast6.asurahosting.com/proxy/ragfmcom/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Raglan Hamilton",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "more-fm-bay-of-plenty",
+   "name": "More FM - Bay of Plenty",
+   "url": "https://www.rova.nz/radio/more-fm",
+   "stream": "https://mediaworks.streamguys1.com/more-tga-high_icy",
+   "codec": "aac",
+   "bitrate": 130,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Tauranga",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "george-fm-club-classics",
+   "name": "George FM - Club Classics",
+   "url": "https://www.rova.nz/playlists/george-club-classics",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "george-fm-latest-bangers",
+   "name": "George FM - Latest Bangers",
+   "url": "https://www.rova.nz/playlists/george-latest-bangers",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-burgerfuel",
+   "name": "Radio BurgerFuel",
+   "url": "https://www.radioburgerfuel.com/",
+   "stream": "https://s3.radio.co/s9909bd65f/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "electronic",
+    "hip-hop"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "george-fm-cocktail-hour",
+   "name": "George FM - Cocktail Hour",
+   "url": "https://www.rova.nz/playlists/george-cocktail-hour",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/COCKTAILHOUR_S01AAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "house"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kix-fm",
+   "name": "KIX FM",
+   "url": "http://www.kixfm.co.nz/",
+   "stream": "https://stream.kixfm.co.nz:8178/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "auckland-80-s",
+   "name": "Auckland 80's",
+   "url": "https://tiri2.webradiosite.com/",
+   "stream": "https://servidor34.brlogic.com:7138/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flava",
+   "name": "Flava",
+   "url": "https://www.flava.co.nz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hip-hop",
+    "rnb"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "niu-fm-mp3",
+   "name": "Niu FM - MP3",
+   "url": "https://pmn.co.nz/radio-stations/niu-fm",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "pacific"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "music"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-panjabi",
+   "name": "RADIO PANJABI",
+   "url": "http://www.radiopanjabi.com/",
+   "stream": "https://s20.reliastream.com/stream/8134",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "punjabi"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [
+    "folk",
+    "hip-hop",
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "beagle-88-1",
+   "name": "Beagle 88.1",
+   "url": "https://www.beagleradio.co.nz/",
+   "stream": "https://stream.beagleradio.co.nz/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Whangarei",
+   "genre": [
+    "alternative",
+    "funk",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tahu-fm",
+   "name": "Tahu FM",
+   "url": "https://tahufm.online/",
+   "stream": "https://icast1.streamcom.net/TahuFM",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "māori"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hip-hop",
+    "hits",
+    "rnb"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ski-fm",
+   "name": "Ski FM",
+   "url": "https://skifmnetwork.co.nz/",
+   "stream": "https://s2.radio.co/s6436891bc/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Central Plateau, Desert Road",
+   "genre": [],
+   "votes": 429,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "https-badradio-nz-24-7-phonk",
+   "name": "https://badradio.nz/ - 24/7 PHONK",
+   "url": "https://badradio.nz/",
+   "stream": "https://s2.radio.co/s2b2b68744/listen",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 274,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-breeze-93-4",
+   "name": "The Breeze 93.4",
+   "url": "http://www.thebreeze.co.nz/",
+   "stream": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
+   "codec": "aac",
+   "bitrate": 131,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 248,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "newstalk-zb",
+   "name": "Newstalk ZB",
+   "url": "https://www.newstalkzb.co.nz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Auckland",
+   "genre": [],
+   "votes": 215,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm",
+   "name": "Magic FM",
+   "url": "https://rova.nz/",
+   "stream": "https://mediaworks.streamguys1.com/magic_net_icy",
+   "codec": "aac",
+   "bitrate": 130,
+   "langs": [
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 138,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "humm-radio",
+   "name": "Humm Radio",
+   "url": "https://rova.nz/",
+   "stream": "https://mediaworks.streamguys1.com/humm_net_icy",
+   "codec": "aac",
+   "bitrate": 131,
+   "langs": [
+    "english",
+    "indian"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 116,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rhema-mp3",
+   "name": "Rhema - MP3",
+   "url": "https://rhema.co.nz/",
+   "stream": "https://rhema-radio.streamguys1.com/rhema.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 110,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-christian-radio",
+   "name": "One Christian Radio",
+   "url": "https://onechristianradio.co.nz/",
+   "stream": "https://radio.wanderingsheep.net:33001/onechristianradio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Taranaki",
+   "genre": [],
+   "votes": 82,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "positively-morrinsville-87-7fm",
+   "name": "Positively Morrinsville 87.7FM",
+   "url": "https://tearoha34.wixsite.com/morrinsville",
+   "stream": "https://c16.radioboss.fm:8262/stream?1652324863134",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Waikato, Morrinsville",
+   "genre": [],
+   "votes": 74,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-control-99-4fm",
+   "name": "Radio Control 99.4FM",
+   "url": "https://radiocontrol.org.nz/welcome/",
+   "stream": "https://michae14-gecko.radioca.st/stream",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "english",
+    "te-reo-maori"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Palmerston North",
+   "genre": [],
+   "votes": 67,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sleep-radio",
+   "name": "Sleep Radio",
+   "url": "https://www.sleepradio.co.nz/listen",
+   "stream": "https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 55,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-fm-mp3",
+   "name": "Life FM - MP3",
+   "url": "https://www.lifefm.co.nz/",
+   "stream": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 43,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "george-fm",
+   "name": "George FM",
+   "url": "https://rova.nz/",
+   "stream": "https://mediaworks.streamguys1.com/george_net_icy",
+   "codec": "aac",
+   "bitrate": 131,
+   "state": "Auckland",
+   "genre": [],
+   "votes": 42,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-fm-aac",
+   "name": "Life FM - AAC",
+   "url": "https://www.lifefm.co.nz/",
+   "stream": "https://rhema-radio.streamguys1.com/rhema-lifefm.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "drop-fm",
+   "name": "Drop FM",
+   "url": "http://www.dropfm.com/",
+   "stream": "https://s2.radio.co/s7649837db/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Southern Lakes",
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "channel-x",
+   "name": "Channel X",
+   "url": "https://www.trb.co.nz/brand-profiles/channel-x",
+   "stream": "https://mediaworks.streamguys1.com/chx_net_icy",
+   "codec": "aac",
+   "bitrate": 132,
+   "langs": [
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 39,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brian-fm-91-2-whanganui-nz",
+   "name": "Brian FM 91.2 Whanganui NZ",
+   "url": "https://brianfm.com/whanganui/",
+   "stream": "https://ais-sa1.streamon.fm/7100_128k.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Whanganui",
+   "genre": [],
+   "votes": 37,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "paekakariki-88-2fm",
+   "name": "Paekakariki 88.2FM",
+   "url": "https://paekakariki.fm/",
+   "stream": "https://icecast.groundtruth.co.nz/paekakfm.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Paekakariki",
+   "genre": [],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "more-fm-nelson",
+   "name": "More FM - Nelson",
+   "url": "https://www.rova.nz/radio/more-fm",
+   "stream": "https://mediaworks.streamguys1.com/more-nsn-high_icy",
+   "codec": "aac",
+   "bitrate": 130,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nelson",
+   "genre": [],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-chinese-fm90-6",
+   "name": "Radio Chinese FM90.6",
+   "url": "https://fm906.co.nz/index.html",
+   "stream": "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mouthfull-radio",
+   "name": "Mouthfull Radio",
+   "url": "https://mouthfull.live/",
+   "stream": "https://mouthfull-radio.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rova-chill-hop",
+   "name": "ROVA CHILL HOP",
+   "url": "https://rova.nz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfm-coromandel",
+   "name": "CFM Coromandel",
+   "url": "https://cfm.co.nz/",
+   "stream": "https://stream.cfm.co.nz/low",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Coromandel",
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-fm-87-9-wellington-new-zealand",
+   "name": "Mix FM 87.9, Wellington, New Zealand",
+   "url": "https://mixfm.nz/",
+   "stream": "https://stream.mixfm.nz/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 21,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "91-2-oamaru-fm",
+   "name": "91.2 Oamaru FM",
+   "url": "https://www.trb.co.nz/brand-profiles/91-2fm-oamaru",
+   "stream": "https://usa1-vn.mixstream.net/8096/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "george-fm-dnb",
+   "name": "George FM - DnB",
+   "url": "https://www.rova.nz/playlists/george-dnb",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hauraki",
+   "name": "Radio Hauraki",
+   "url": "https://www.hauraki.co.nz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "raglan-community-radio",
+   "name": "Raglan Community Radio",
+   "url": "https://raglanradio.com/Default.aspx",
+   "stream": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anthemz",
+   "name": "Anthemz",
+   "url": "https://anthemz.nz/",
+   "stream": "https://mediaworks.streamguys1.com/anthemz-chc-high_icy",
+   "codec": "aac",
+   "bitrate": 130,
+   "langs": [
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Christchurch",
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jakemusic",
+   "name": "jakemusic",
+   "url": "https://camera.jakebriggs.com/jakemusic",
+   "stream": "https://camera.jakebriggs.com/jakemusic",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "new-zealand-net-radio",
+   "name": "New Zealand Net Radio",
+   "url": "https://www.nznetradio.net.nz/",
+   "stream": "https://radio.nznetradio.net.nz/stream3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "raglan-communtiy-radio",
+   "name": "Raglan Communtiy Radio",
+   "url": "https://raglanradio.com/",
+   "stream": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Raglan Hamilton",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maunganui-fm",
+   "name": "Maunganui FM",
+   "url": "https://maunganui.fm/",
+   "stream": "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bandwagon-radio",
+   "name": "Bandwagon Radio",
+   "url": "https://mytuner-radio.com/radio/bandwagon-radio-516602/",
+   "stream": "https://streaming.radio.co/scfae3b30e/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-a",
+   "name": "Radio A",
+   "url": "https://www.thebroadcaststudio.co.nz/commercial-radio",
+   "stream": "https://play.radioking.io/radio-a-music",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sayhifm",
+   "name": "SayHiFM",
+   "url": "https://sayhifm.com/",
+   "stream": "https://play.radioking.io/sayhifm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bisaya",
+    "cebuano",
+    "english",
+    "filipino"
+   ],
+   "langCodes": [
+    "en",
+    "tl"
+   ],
+   "state": "Auckland",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-platform-kiwi",
+   "name": "The Platform Kiwi",
+   "url": "https://theplatform.kiwi/",
+   "stream": "https://streaming.shoutcast.com/the-platformlive",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brian-fm-91-4-wanaka",
+   "name": "Brian FM 91.4 Wanaka",
+   "url": "https://brianfm.com/",
+   "stream": "https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Central Otago",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "george-fm-chillsville",
+   "name": "George FM - Chillsville",
+   "url": "https://www.rova.nz/playlists/george-fm-chillsville",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tautoko-fm",
+   "name": "Tautoko FM",
+   "url": "https://tautokofm.com/",
+   "stream": "https://icast1.streamcom.net/J_Tautoko.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

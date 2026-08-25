@@ -1,0 +1,179 @@
+{
+ "countryCode": "SN",
+ "country": "Senegal",
+ "slug": "senegal",
+ "continent": "africa",
+ "stationCount": 10,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/senegal/",
+ "stations": [
+  {
+   "id": "radio-thiossane",
+   "name": "Radio Thiossane",
+   "url": "https://radiothiossane.net/",
+   "stream": "https://listen.senemultimedia.net:8112/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2511,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-al-fayda-90-1-kaolack",
+   "name": "Radio Al Fayda 90.1 Kaolack",
+   "url": "https://radioalfayda.net/",
+   "stream": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/stream/1/",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 739,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "h24-senegal",
+   "name": "H24 Senegal",
+   "url": "https://www.h24.sn/",
+   "stream": "https://listen.senemultimedia.net:8072/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 457,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rts-92-5-rsi",
+   "name": "RTS 92.5 RSI",
+   "url": "https://www.rts.sn/",
+   "stream": "https://10gb1.acangroup.org:8000/rsi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 5353,
+   "clicks": 25,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gms-fm-89-3-ziguinchor",
+   "name": "GMS FM 89.3 Ziguinchor",
+   "url": "https://www.gms.sn/",
+   "stream": "https://myfm.acan.group/radio/8140/radio.mp3?1690707378",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 405,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 359,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-keur-massar",
+   "name": "Radio Keur Massar",
+   "url": "https://www.keurmassar.info/",
+   "stream": "https://stream.keurmassar.info/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 309,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-thiossane-2",
+   "name": "Radio Thiossane",
+   "url": "https://radiothiossane.com/",
+   "stream": "https://stream.radiothiossane.com/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 71,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dakar-musique",
+   "name": "Dakar Musique",
+   "url": "https://radio.dakarmusique.com/",
+   "stream": "https://stream.dakarmusique.com/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 44,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ai",
+   "name": "Radio AI",
+   "url": "https://radioai.mobirisesite.com/index.html#top",
+   "stream": "https://a13.asurahosting.com/listen/radio_ai/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

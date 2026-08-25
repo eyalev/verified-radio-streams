@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 group-title="Slovenia" tvg-genre="pop,rock",Radio KRka
+https://live.radio.si/Krka
+#EXTINF:-1 group-title="Slovenia" tvg-genre="disco,funk,jazz,soul",Radio Nula
+https://strm.radionula.com/classics
+#EXTINF:-1 group-title="Slovenia" tvg-genre="disco,house,techno",Radio ENTER
+https://stream.nextmedia.si/proxy/enter_1?mp=/enter
+#EXTINF:-1 group-title="Slovenia" tvg-genre="pop,rock",Radio Antena (105.2MHz)
+https://live.radio.si/Antena
+#EXTINF:-1 group-title="Slovenia" tvg-genre="pop-music",Toti Radio
+https://live.radio.si/Toti
+#EXTINF:-1 group-title="Slovenia" tvg-genre="alternative",Radio Terminal
+https://air.radioterminal.si/live
+#EXTINF:-1 group-title="Slovenia" tvg-genre="rock",Rock Radio Best Ballads SLO
+https://stream.nextmedia.si/proxy/rocks_1?mp=/stream
+#EXTINF:-1 group-title="Slovenia" tvg-genre="pop",Radio robin
+https://live.radio.si/Robin
+#EXTINF:-1 group-title="Slovenia" tvg-genre="pop",Radio Štajerski val
+https://stream.stajerskival.si:8443/live
+#EXTINF:-1 group-title="Slovenia" tvg-genre="oldies",Retro Radio
+https://zvok.ragla.si/gr
+#EXTINF:-1 group-title="Slovenia" tvg-genre="rock",Rock Radio
+https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;
+#EXTINF:-1 group-title="Slovenia" tvg-genre="classic-hits,classic-rock",Rock Radio Classics SLO
+https://stream.nextmedia.si/proxy/rocks_3?mp=/stream
+#EXTINF:-1 group-title="Slovenia" tvg-genre="rock",Rock Radio SLO
+https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream
+#EXTINF:-1 group-title="Slovenia" tvg-genre="rock",Radio 1 Rock
+https://live.radio.si/Radio1Rock?t=1776880155210
+#EXTINF:-1 group-title="Slovenia" tvg-genre="hits,pop",Radio 1
+https://live.radio.si/Radio1
+#EXTINF:-1 group-title="Slovenia" tvg-genre="hits,pop",Radio 1 Koroska
+https://live.radio1.si/Radio1KOR
+#EXTINF:-1 group-title="Slovenia" tvg-genre="pop",Radio METEOR .si
+https://stream.radiometeor.si/listen/meteor/live.mp3
+#EXTINF:-1 group-title="Slovenia",Best FM Ljubljana
+https://live.radio.si/BestFM
+#EXTINF:-1 group-title="Slovenia",Radio Maribor
+https://mp3.rtvslo.si/rmb
+#EXTINF:-1 group-title="Slovenia",Radio Nula Beatz
+https://strm.radionula.com/lounge
+#EXTINF:-1 group-title="Slovenia",Radio Nula Organic
+https://strm.radionula.com/channel2
+#EXTINF:-1 group-title="Slovenia",Radio Ognjišče
+https://live.radio.si/ognjisce.mp3
+#EXTINF:-1 group-title="Slovenia",Radio City
+https://stream1.radiocity.si/CityMp3128.mp3
+#EXTINF:-1 group-title="Slovenia",Zeleni val
+https://jurepeterka.radioca.st/stream
+#EXTINF:-1 group-title="Slovenia",Radio 1 - Maribor (107.9MHz)
+https://live.radio1.si/Radio1
+#EXTINF:-1 group-title="Slovenia",Retro Radio
+https://zvok.ragla.si/gr?1670057106819
+#EXTINF:-1 group-title="Slovenia",Rock Radio Hard & Heavy SLO
+https://stream.nextmedia.si/proxy/rocks_2?mp=/stream
+#EXTINF:-1 group-title="Slovenia",Rock Radio Slovenia
+https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock
+#EXTINF:-1 group-title="Slovenia",Univox
+https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream
+#EXTINF:-1 group-title="Slovenia",Radio Maxi
+https://live.radio.si/Maxi?t=1722577989752
+#EXTINF:-1 group-title="Slovenia",Radio1
+https://live.radio1.si/Radio80
+#EXTINF:-1 group-title="Slovenia",FRAJER RADIO
+https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;
+#EXTINF:-1 group-title="Slovenia",Rock Maribor
+https://live.radio.si/RockMB?t=1732114443550
+#EXTINF:-1 group-title="Slovenia",Radio Student
+https://kruljo.radiostudent.si:8001/hiq
+#EXTINF:-1 group-title="Slovenia",Radio Ptuj
+https://live.radio.si/Ptuj
+#EXTINF:-1 group-title="Slovenia",Toti Maxi
+https://live.radio.si/Maxi
+#EXTINF:-1 group-title="Slovenia",Radio Slovenija 1
+https://mp3.rtvslo.si/prvi
+#EXTINF:-1 group-title="Slovenia",Radio MMR
+https://mp3.rtvslo.si/mmr
+#EXTINF:-1 group-title="Slovenia",Radio ARS
+https://mp3.rtvslo.si/ars

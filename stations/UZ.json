@@ -1,0 +1,47 @@
+{
+ "countryCode": "UZ",
+ "country": "Uzbekistan",
+ "slug": "uzbekistan",
+ "continent": "asia",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/uzbekistan/",
+ "stations": [
+  {
+   "id": "radio-o-zbegim-taronasi",
+   "name": "Radio O'zbegim Taronasi",
+   "url": "https://fm101.uz/",
+   "stream": "https://fm101.uz:9943/fm101_low.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "uzbek،russian"
+   ],
+   "genre": [],
+   "votes": 3391,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "the-holy-quran-by-sheikh-mahmoud-al-husari",
+   "name": "The Holy Quran by Sheikh Mahmoud Al-Husari",
+   "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "stream": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1911,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

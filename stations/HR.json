@@ -1,0 +1,1255 @@
+{
+ "countryCode": "HR",
+ "country": "Croatia",
+ "slug": "croatia",
+ "continent": "europe",
+ "stationCount": 71,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/croatia/",
+ "stations": [
+  {
+   "id": "otvoreni-radio",
+   "name": "Otvoreni Radio",
+   "url": "https://www.otvoreni.hr/",
+   "stream": "https://stream.otvoreni.hr/otvoreni",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Grad Zagreb",
+   "genre": [
+    "easy-listening",
+    "pop",
+    "rock"
+   ],
+   "votes": 4742,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kaj",
+   "name": "Radio Kaj",
+   "url": "http://www.radio-kaj.hr/",
+   "stream": "https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3658,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zagorski-radio",
+   "name": "Zagorski radio",
+   "url": "http://www.zagorski-radio.hr/",
+   "stream": "https://s8.iqstreaming.com:2020/stream/zagorski/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 856,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "slavonski-radio",
+   "name": "Slavonski Radio",
+   "url": "https://www.slavonskiradio.hr/",
+   "stream": "https://ec2s.crolive.com.hr:8035/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 642,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "otvoreni-radio-hot",
+   "name": "Otvoreni Radio - Hot",
+   "url": "https://www.otvoreni.hr/",
+   "stream": "https://stream.otvoreni.hr/hot",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Grad Zagreb",
+   "genre": [
+    "hits"
+   ],
+   "votes": 592,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "otvoreni-radio-chill",
+   "name": "Otvoreni Radio - Chill",
+   "url": "https://www.otvoreni.hr/",
+   "stream": "https://stream.otvoreni.hr/chill",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Grad Zagreb",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 377,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "folkyton-radio",
+   "name": "FolkyTon Radio",
+   "url": "https://www.folkyton.com/",
+   "stream": "https://ec2s.crolive.com.hr:6035/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Velika Mlaka",
+   "genre": [
+    "folk"
+   ],
+   "votes": 327,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zfm",
+   "name": "ZFM",
+   "url": "https://zfm.hr/",
+   "stream": "https://ec2s.crolive.com.hr:7015/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "80s",
+    "pop"
+   ],
+   "votes": 245,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-krizevci",
+   "name": "Radio Križevci",
+   "url": "https://radiokrizevci.hr/",
+   "stream": "https://s8.iqstreaming.com:8048/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 143,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ritam-sibenik",
+   "name": "Radio Ritam Šibenik",
+   "url": "https://www.radioritam.hr/",
+   "stream": "https://ec2s.crolive.com.hr:8455/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 115,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "otvoreni-radio-love",
+   "name": "Otvoreni Radio - Love",
+   "url": "https://www.otvoreni.hr/",
+   "stream": "https://stream.otvoreni.hr/love",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Grad Zagreb",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 113,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jaska",
+   "name": "Radio Jaska",
+   "url": "https://www.radio-jaska.hr/",
+   "stream": "https://uk1.streamingpulse.com/ssl/RadioJaska",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-otok-krk",
+   "name": "Radio Otok Krk",
+   "url": "https://www.radio-otok-krk.hr/wptmp/",
+   "stream": "https://s8.iqstreaming.com:8014/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 87,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-max-99-3-cerje-nebojse-marusevec",
+   "name": "Radio Max 99.3 (Cerje Nebojse, Maruševec)",
+   "url": "https://www.radiomax.hr/",
+   "stream": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Zagorje",
+   "genre": [
+    "folk"
+   ],
+   "votes": 79,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vinkovci",
+   "name": "Radio Vinkovci",
+   "url": "https://www.facebook.com/novosti.vinkovci/",
+   "stream": "https://onlineradiobox.com/json/hr/vinkovci/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-biograd-na-moru",
+   "name": "Radio Biograd na Moru",
+   "url": "https://www.radio-bnm.hr/",
+   "stream": "https://onlineradiobox.com/json/hr/bnm/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-105-selnica-hr",
+   "name": "Radio 105 Selnica (HR)",
+   "url": "https://www.radio105.hr/#",
+   "stream": "https://azuracast.novi-net.net/radio/8050/radio105.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Medjimurje",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 50,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "drama-radio-dubrovnik",
+   "name": "Drama radio Dubrovnik",
+   "url": "https://dramaradio.hr/",
+   "stream": "https://listen.radioking.com/radio/626884/stream/689500",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Dalmatia",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-grubisno-polje",
+   "name": "Radio Grubišno Polje",
+   "url": "http://www.grubisnopolje.hr/hr/gospodarstvo/gradske-tvrtke/radio-grubisno-polje-d-o-o-/99991143/",
+   "stream": "https://ec2s.crolive.com.hr:8215/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-92-fm",
+   "name": "Radio 92 FM",
+   "url": "https://www.facebook.com/radio92eu/",
+   "stream": "https://onlineradiobox.com/json/hr/92fm/play?platform=web",
+   "codec": "ogg",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tranzistor",
+   "name": "Tranzistor",
+   "url": "https://tranzistor.hr/",
+   "stream": "https://ec2s.crolive.com.hr/tranzistor",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatia",
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-megaton",
+   "name": "Radio Megaton",
+   "url": "https://radiomegaton.hr/",
+   "stream": "https://chopin.bizmusic.net/radio/8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-baranja",
+   "name": "Radio Baranja",
+   "url": "https://www.radio-baranja.hr/",
+   "stream": "https://s8.iqstreaming.com:2020/stream/radio_baranja/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-belisce",
+   "name": "Radio Belišće",
+   "url": "https://radio-belisce.net/",
+   "stream": "https://mcp1.mydataknox.com:8006/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "coatian",
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "thompson-24-7-radio-nu",
+   "name": "Thompson 24/7 - Radio NU",
+   "url": "https://nu.net.hr/thompson/",
+   "stream": "https://slusaj.hr:10446/stream?type=http&nocache=9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Dalmatia",
+   "genre": [
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zelina",
+   "name": "Radio Zelina",
+   "url": "https://radiozelina.hr/",
+   "stream": "https://ec2s.crolive.com.hr:1690/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "prolaznik-evergreen-lepoglava",
+   "name": "Prolaznik Evergreen Lepoglava",
+   "url": "https://prolaznik.com/",
+   "stream": "https://s8.ssl-stream.com/prolaznik",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "croatian",
+    "deutch",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "hr"
+   ],
+   "state": "Varaždinska",
+   "genre": [
+    "oldies",
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-akovo",
+   "name": "Radio Đakovo",
+   "url": "https://www.radio-djakovo.hr/",
+   "stream": "https://ec2s.crolive.com.hr:8305/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yammat-fm",
+   "name": "Yammat FM",
+   "url": "https://www.yammat.fm/",
+   "stream": "https://stream.yammat.fm/radio/8000/yammat.mp3",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "croatia"
+   ],
+   "genre": [],
+   "votes": 4370,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-radio",
+   "name": "Top Radio",
+   "url": "https://topradio.hr/",
+   "stream": "https://c5.hostingcentar.com/streams/topradio/",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 4323,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bravo-kids",
+   "name": "bravo! kids",
+   "url": "https://br.hr/",
+   "stream": "https://audio.social3.hr/listen/bravo_kids/stream?3367",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Grad Zagreb",
+   "genre": [],
+   "votes": 1983,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tvornica",
+   "name": "Radio Tvornica",
+   "url": "https://www.radiotvornica.hr/#",
+   "stream": "https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Grad Zagreb",
+   "genre": [],
+   "votes": 1880,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "otvoreni-radio-fitness",
+   "name": "Otvoreni Radio - Fitness",
+   "url": "https://www.otvoreni.hr/",
+   "stream": "https://stream.otvoreni.hr/fitness",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [],
+   "votes": 619,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "banovina-turbo",
+   "name": "Banovina Turbo",
+   "url": "https://www.radio-banovina.hr/bozic",
+   "stream": "https://audio.radio-banovina.hr:7010/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 478,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-max",
+   "name": "Radio Max",
+   "url": "https://radiomax.hr/",
+   "stream": "https://azuracast.novi-net.net/radio/8010/radiomax.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Varaždinska",
+   "genre": [],
+   "votes": 359,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klfm-org",
+   "name": "KLFM.org",
+   "url": "https://klfm.org/",
+   "stream": "https://klfmorgborg.radioca.st/stream?type=http&nocache=1089",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Splitsko-Dalmatinska",
+   "genre": [],
+   "votes": 230,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marija-hrvatska",
+   "name": "Radio Marija Hrvatska",
+   "url": "https://www.radiomarija.hr/",
+   "stream": "https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [],
+   "votes": 230,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hrvatski-katolicki-radio",
+   "name": "Hrvatski Katolički Radio",
+   "url": "https://hkr.hkm.hr/",
+   "stream": "https://stream.hkr.hr/hkr.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian",
+    "croatian",
+    "yugoslavian"
+   ],
+   "langCodes": [
+    "bs",
+    "hr"
+   ],
+   "genre": [],
+   "votes": 212,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-radio-pop",
+   "name": "Top Radio Pop",
+   "url": "https://topradio.hr/",
+   "stream": "https://audio.social3.hr/listen/top_radio_pop/stream?5483",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Zagreb",
+   "genre": [],
+   "votes": 196,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-music-radio-italo-disco",
+   "name": "Club Music Radio - ITALO DISCO",
+   "url": "https://clubmusic-1.com/",
+   "stream": "https://cmr-hosting.com:7005/;stream/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 170,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-music-radio-70-s-80-s-90-s",
+   "name": "Club Music Radio - 70's 80's 90's",
+   "url": "https://clubmusic-1.com/",
+   "stream": "https://cmr-hosting.com:7003/;stream/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 161,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-radio-yugo",
+   "name": "Top Radio Yugo",
+   "url": "https://topradio.hr/",
+   "stream": "https://audio.social3.hr/listen/top_exyu/stream?8298",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Zagreb",
+   "genre": [],
+   "votes": 144,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tvoj-feel-good-radio-otvoreni",
+   "name": "Tvoj Feel Good radio ! Otvoreni",
+   "url": "https://www.otvoreni.hr/",
+   "stream": "https://stream2.otvoreni.hr/otvoreni",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-music-radio-cro-hits",
+   "name": "Club Music Radio - CRO HITS",
+   "url": "https://clubmusic-1.com/",
+   "stream": "https://cmr-hosting.com:7006/;stream/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 94,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hrt-hr-2",
+   "name": "HRT HR 2",
+   "url": "https://radio.hrt.hr/drugi-program",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Zagreb",
+   "genre": [],
+   "votes": 87,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-radio-rock",
+   "name": "Top Radio Rock",
+   "url": "https://topradio.hr/",
+   "stream": "https://audio.social3.hr/listen/top_radio_rock/stream?7435",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Zagreb",
+   "genre": [],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cmc-radio",
+   "name": "CMC Radio",
+   "url": "https://radio.cmc.com.hr/",
+   "stream": "https://radio-stream.cmc.com.hr:9011/live",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 75,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-music-radio-dance",
+   "name": "Club Music Radio - Dance",
+   "url": "https://clubmusic-1.com/",
+   "stream": "https://cmr-hosting.com:7002/;stream/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 71,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-radio-gold",
+   "name": "Top Radio Gold",
+   "url": "https://topradio.hr/",
+   "stream": "https://audio.social3.hr/listen/top_radio_gold/stream?7802",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Zagreb",
+   "genre": [],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orahovica",
+   "name": "Radio Orahovica",
+   "url": "http://www.radioorahovica.com/",
+   "stream": "https://ec2s.crolive.com.hr:2595/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "057-radio-zadar-croatia",
+   "name": "057 radio, Zadar, Croatia",
+   "url": "https://www.057info.hr/",
+   "stream": "https://audio.alter-media.hr/9052/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Banana state",
+   "genre": [],
+   "votes": 36,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hrt-radio-sljeme-mp3",
+   "name": "HRT Radio Sljeme (mp3)",
+   "url": "http://radio.hrt.hr/radio-sljeme/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "poslovni-fm",
+   "name": "Poslovni FM",
+   "url": "https://www.poslovnifm.com/",
+   "stream": "https://ec2s.crolive.com.hr:2665/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamburaski-radio",
+   "name": "Tamburaški radio",
+   "url": "",
+   "stream": "https://listen.radioking.com/radio/552965/stream/612287",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vukovar",
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "banovina-light",
+   "name": "Banovina Light",
+   "url": "https://www.radio-banovina.hr/light/",
+   "stream": "https://audio.radio-banovina.hr:7008/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "galacticfm-progressive-house-trance",
+   "name": "GalacticFM - Progressive House & Trance",
+   "url": "https://a1.asurahosting.com/public/galacticfm_-_progressive_house__trance",
+   "stream": "https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-drnis-89-0-mhz",
+   "name": "Radio Drniš 89,0 MHz",
+   "url": "http://www.radiodrnis.hr/",
+   "stream": "https://ec2s.crolive.com.hr:2415/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Kralja Zvonimira 8, Drniš",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kampus",
+   "name": "Radio Kampus",
+   "url": "https://www.unist.hr/radio-kampus",
+   "stream": "https://audio.alter-media.hr:7016/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-hrvatski-radio-informacija-svakih-5-",
+   "name": "REPLAY NEWS - Hrvatski Radio informacija svakih 5 minuta",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Zagreb",
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "happy-fest",
+   "name": "Happy Fest",
+   "url": "https://audio.social3.hr/listen/happy_fest/stream?9763",
+   "stream": "https://audio.social3.hr/listen/happy_fest/stream?9763",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "narodni-radio-goga",
+   "name": "Narodni Radio Goga",
+   "url": "https://www.narodniradiogoga.com/",
+   "stream": "https://cmr-hosting.com:7013/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "podravski-radio",
+   "name": "Podravski Radio",
+   "url": "https://podravskiradio.hr/",
+   "stream": "https://streaming.podravskiradio.hr/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "croatia",
+    "croatian",
+    "hrvatska"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dvb-digital",
+   "name": "dvb.digital",
+   "url": "https://dvb.digital/",
+   "stream": "https://radio.dvb.digital/listen/dvb.digital/hq.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hrt-drugi-program",
+   "name": "HRT Drugi program",
+   "url": "https://radio.hrt.hr/drugi-program",
+   "stream": "https://25453.live.streamtheworld.com/PROGRAM2AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-daruvar",
+   "name": "Radio Daruvar",
+   "url": "https://www.radio-daruvar.hr/",
+   "stream": "https://mcp1.mydataknox.com:8020/live.mp3",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "croatia",
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zupanja",
+   "name": "Radio Županja",
+   "url": "https://radiozupanja.hr/",
+   "stream": "https://audio.alter-media.hr:7019/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "extra-fm",
+   "name": "Extra FM",
+   "url": "https://extrafm.hr/",
+   "stream": "https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hrt-prvi-program",
+   "name": "HRT Prvi program",
+   "url": "https://radio.hrt.hr/prvi-program",
+   "stream": "https://27743.live.streamtheworld.com/PROGRAM1AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nu",
+   "name": "Radio NU",
+   "url": "https://nu.net.hr/",
+   "stream": "https://slusaj.hr:10445/stream?type=http&nocache=634",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "croatian",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "hr"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-velika-gorica",
+   "name": "Radio Velika Gorica",
+   "url": "https://rvg.hr/",
+   "stream": "https://s8.iqstreaming.com:2020/stream/rvg",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Zagrebačka županija",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

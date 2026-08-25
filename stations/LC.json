@@ -1,0 +1,112 @@
+{
+ "countryCode": "LC",
+ "country": "St. Lucia",
+ "slug": "st-lucia",
+ "continent": "americas",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/st-lucia/",
+ "stations": [
+  {
+   "id": "rev-up-slu",
+   "name": "REV-UP SLU",
+   "url": "https://revupslu.com/",
+   "stream": "https://caribspy.com/proxy/revupslu/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "reggae",
+    "zouk"
+   ],
+   "votes": 212,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "blazin-99-3fm",
+   "name": "BLAZIN 99.3FM",
+   "url": "https://www.blazin993.com/",
+   "stream": "https://streams.radio.co/s5f11a7ef9/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "saint-lucian-creole"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Castries",
+   "genre": [],
+   "votes": 82,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "reliable-radio-89-9",
+   "name": "reliable radio 89.9",
+   "url": "https://boomstationslu.com/",
+   "stream": "https://s2.radio.co/s5fb28a34d/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rfi-1021-fm",
+   "name": "RFI 1021 fM",
+   "url": "https://www.rfi1021fm.com/",
+   "stream": "https://usa3.fastcast4u.com/proxy/vaoctave?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "soufriere",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rjl-radio",
+   "name": "RJL Radio",
+   "url": "https://www.rjlradio.net/",
+   "stream": "https://s3.radio.co/sc5bdee4a4/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hype-fm-89-9",
+   "name": "Hype FM 89.9",
+   "url": "https://www.hypefm899.com/",
+   "stream": "https://fwd.autopo.st/rmediaslu",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Soufrière",
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "countryCode": "TG",
+ "country": "Togo",
+ "slug": "togo",
+ "continent": "africa",
+ "stationCount": 3,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/togo/",
+ "stations": [
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 135,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nana-fm-togo",
+   "name": "Nana FM Togo",
+   "url": "https://nanafm.tg/",
+   "stream": "https://srv1269271.hstgr.cloud/;?type=http&nocache=16",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 87,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "light-radio-togo-93-9fm",
+   "name": "Light Radio Togo 93.9fm",
+   "url": "https://lightradiotogo.com/",
+   "stream": "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Maritime",
+   "genre": [],
+   "votes": 86,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

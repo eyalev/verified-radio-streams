@@ -1,0 +1,299 @@
+{
+ "countryCode": "VA",
+ "country": "Vatican City",
+ "slug": "vatican-city",
+ "continent": "europe",
+ "stationCount": 15,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/vatican-city/",
+ "stations": [
+  {
+   "id": "radio-vaticana-bulgaria",
+   "name": "Radio Vaticana Bulgaria",
+   "url": "https://www.vaticannews.va/bg.html",
+   "stream": "https://radio.vaticannews.va/stream-bg",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "latin"
+   ],
+   "langCodes": [
+    "bg",
+    "la"
+   ],
+   "genre": [
+    "latin"
+   ],
+   "votes": 183,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-italia",
+   "name": "Radio Vaticana Italia",
+   "url": "https://www.vaticannews.va/",
+   "stream": "https://radio.vaticannews.va/stream-it",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 709,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-english",
+   "name": "Radio Vaticana English",
+   "url": "https://www.vaticannews.va/en.html",
+   "stream": "https://radio.vaticannews.va/stream-en",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 681,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-deutsch",
+   "name": "Radio Vaticana Deutsch",
+   "url": "https://www.vaticannews.va/de.html",
+   "stream": "https://radio.vaticannews.va/stream-de",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german",
+    "latin"
+   ],
+   "langCodes": [
+    "de",
+    "la"
+   ],
+   "genre": [],
+   "votes": 314,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-ukraine",
+   "name": "Radio Vaticana Ukraine",
+   "url": "https://www.vaticannews.va/uk.html",
+   "stream": "https://radio.vaticannews.va/stream-uk",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "latin",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "la",
+    "uk"
+   ],
+   "genre": [],
+   "votes": 304,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-espanol-spanish",
+   "name": "Radio Vaticana Español spanish",
+   "url": "https://www.vaticannews.va/",
+   "stream": "https://radio.vaticannews.va/stream-es",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Vatican City",
+   "genre": [],
+   "votes": 270,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-belarus",
+   "name": "Radio Vaticana Belarus",
+   "url": "https://www.vaticannews.va/be.html",
+   "stream": "https://radio.vaticannews.va/stream-be",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "belarusian",
+    "latin"
+   ],
+   "langCodes": [
+    "be",
+    "la"
+   ],
+   "genre": [],
+   "votes": 140,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-polska",
+   "name": "Radio Vaticana Polska",
+   "url": "https://www.vaticannews.va/pl.html",
+   "stream": "https://radio.vaticannews.va/stream-pl",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "latin",
+    "polish"
+   ],
+   "langCodes": [
+    "la",
+    "pl"
+   ],
+   "genre": [],
+   "votes": 112,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-romania",
+   "name": "Radio Vaticana România",
+   "url": "https://www.vaticannews.va/ro.html",
+   "stream": "https://radio.vaticannews.va/stream-ro",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "latin",
+    "romanian",
+    "românä"
+   ],
+   "langCodes": [
+    "la",
+    "ro"
+   ],
+   "genre": [],
+   "votes": 103,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-hrvatski",
+   "name": "Radio Vaticana Hrvatski",
+   "url": "https://www.vaticannews.va/hr.html",
+   "stream": "https://radio.vaticannews.va/stream-hr",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "croatian",
+    "latin"
+   ],
+   "langCodes": [
+    "hr",
+    "la"
+   ],
+   "genre": [],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-solvencina",
+   "name": "Radio Vaticana Solvenčina",
+   "url": "https://www.vaticannews.va/sk.html",
+   "stream": "https://radio.vaticannews.va/stream-sk",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "latin",
+    "slovak"
+   ],
+   "langCodes": [
+    "la",
+    "sk"
+   ],
+   "genre": [],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-portuguese",
+   "name": "Radio Vaticana Portuguese",
+   "url": "https://www.vaticannews.va/pt/epg.html",
+   "stream": "https://radio.vaticannews.va/stream-pt",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vatican City",
+   "genre": [],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-cestina",
+   "name": "Radio Vaticana Čeština",
+   "url": "https://www.vaticannews.va/cs.html",
+   "stream": "https://radio.vaticannews.va/stream-cs",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech",
+    "latin"
+   ],
+   "langCodes": [
+    "cs",
+    "la"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vaticana-slovenscina",
+   "name": "Radio Vaticana Slovenščina",
+   "url": "https://www.vaticannews.va/sl.html",
+   "stream": "https://radio.vaticannews.va/stream-sl",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "latin",
+    "slovenian"
+   ],
+   "langCodes": [
+    "la",
+    "sl"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

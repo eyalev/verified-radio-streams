@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ireland" tvg-genre="alternative,pop,rock",Today FM
+https://stream.audioxi.com/TD
+#EXTINF:-1 group-title="Ireland" tvg-genre="alternative",8radio
+https://edge4.audioxi.com/8RADIO
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop",Dublin's 98FM
+https://stream.audioxi.com/98
+#EXTINF:-1 group-title="Ireland" tvg-genre="classical",Christmas FM Classical & Carols
+https://christmasfm.cdnstream1.com/2549_64.aac
+#EXTINF:-1 group-title="Ireland" tvg-genre="70s,80s",Gem Radio New Wave
+https://gemradionw.radioca.st/;stream.nsv
+#EXTINF:-1 group-title="Ireland" tvg-genre="classic-rock,pop,r&b",Easy Radio Ireland, Easy Mix
+https://streaming.exclusive.radio/uber/easymix/icecast.audio
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop",Dublin's FM104
+https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:-1 group-title="Ireland" tvg-genre="adult-contemporary,love-songs,music",Limerick's Live 95FM
+https://wg.cdn.tibus.net/Live95fm
+#EXTINF:-1 group-title="Ireland" tvg-genre="2000s,90s,dance,pop,pop-music,r&b,rock",Freedom FM
+https://edge3.audioxi.com/FREEDOMFM
+#EXTINF:-1 group-title="Ireland" tvg-genre="dance,electronic,house",PowerFM Dublin 320Kbps MP3
+https://www.powerfm.org:8443/powerfm.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="80s,90s",Free FM Ireland
+https://rocafmadrid.radioca.st/stream
+#EXTINF:-1 group-title="Ireland" tvg-genre="80s",Classic Hits 80s
+https://edge7.audioxi.com/CH80S
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop",Dublin's Q102
+https://onic.dublin.live.stream.broadcasting.news/stream-q102
+#EXTINF:-1 group-title="Ireland" tvg-genre="hits,pop,rock",Gem New Wave Radio
+https://gemradio.radioca.st/stream/1/
+#EXTINF:-1 group-title="Ireland" tvg-genre="alternative",Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="Ireland" tvg-genre="classic-hits",PlanetRadioie
+https://media.planetradio.ie/radio/8000/OnAir
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop-music,pop",MPB Radio 2 90s & 00s
+https://sc.mpbnl.nl/radio2-90s00s.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="alternative,classic-rock,indie",The Zone - Dublin
+https://uk1.internet-radio.com/proxy/thezone/stream
+#EXTINF:-1 group-title="Ireland" tvg-genre="60s,70s,dance-music",Clonmellon Community Radio
+https://eu8.fastcast4u.com/proxy/ccr?mp=/1
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop",Cork's RedFM
+https://live-bauerie.sharp-stream.com/RED
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop-music,pop,70s,80s,90s,oldies,classic-hits",MPB Radio 2
+https://sc.mpbnl.nl/radio2.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="80s",Onic 80s
+https://live.onic.ie/stream-80s?_=184336
+#EXTINF:-1 group-title="Ireland" tvg-genre="classic-hits,oldies",Rewind
+https://christmasfm.cdnstream1.com/2551_128.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="top-40",iRadio
+https://live-bauerie.sharp-stream.com/IRADNWAAC
+#EXTINF:-1 group-title="Ireland" tvg-genre="rnb",Onic RnB
+https://live.onic.ie/stream-rnb?_=890764
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop-music,pop",MPB Radio 1
+https://sc.mpbnl.nl/radio1.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="dance-music",MPB Radio 1 Dance
+https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="alternative",Onic Alternative
+https://live.onic.ie/stream-alternative?_=623178
+#EXTINF:-1 group-title="Ireland" tvg-genre="country",Onic Country
+https://live.onic.ie/stream-country?_=267164
+#EXTINF:-1 group-title="Ireland" tvg-genre="classic-rock,rock",Onic Rock
+https://live.onic.ie/stream-rock?_=630901
+#EXTINF:-1 group-title="Ireland" tvg-genre="dance,top-40",HITMIX RADIO IRELAND
+https://a8.asurahosting.com:7180/radio.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="classical",Onic Classical
+https://live.onic.ie/stream-classical?_=954716
+#EXTINF:-1 group-title="Ireland" tvg-genre="top-40",SPIN South West
+https://edge.audioxi.com/SW
+#EXTINF:-1 group-title="Ireland" tvg-genre="hits",Onic Hits
+https://live.onic.ie/stream-hits?_=408214
+#EXTINF:-1 group-title="Ireland" tvg-genre="funk,lounge,soul",Funky Ass Tunes
+https://ams1.reliastream.com/proxy/john12/stream
+#EXTINF:-1 group-title="Ireland" tvg-genre="pop",Today FM 90s
+https://live-bauerie.sharp-stream.com/T90
+#EXTINF:-1 group-title="Ireland" tvg-genre="classic-rock",Radio Nova 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="90s,dance",Retro Rewind
+https://a10.asurahosting.com:7050/radio.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="music",South East Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
+#EXTINF:-1 group-title="Ireland" tvg-genre="dance",Club FM Dublin Dublins hottest dance mix
+https://c6.radioboss.fm:8225/autodj
+#EXTINF:-1 group-title="Ireland" tvg-genre="jazz,pop,rock",Rana Sundi
+https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3
+#EXTINF:-1 group-title="Ireland",Newstalk
+https://edge.audioxi.com/NT
+#EXTINF:-1 group-title="Ireland",Highland Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3
+#EXTINF:-1 group-title="Ireland",Christmas FM
+https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false
+#EXTINF:-1 group-title="Ireland",PHEVER Radio
+https://uk1.internet-radio.com/proxy/phever?mp=/live
+#EXTINF:-1 group-title="Ireland",Q102
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1 group-title="Ireland",TrancePulse Dublin
+https://stream.trance.ie:8443/stream
+#EXTINF:-1 group-title="Ireland",Christmas FM Ireland
+https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019
+#EXTINF:-1 group-title="Ireland",TodayFm
+https://pri.gocaster.net/td
+#EXTINF:-1 group-title="Ireland",RTE 2 FM
+https://icecast.rte.ie/2fm
+#EXTINF:-1 group-title="Ireland",Radio Siamsa
+https://cast02.siamsa.ie/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Ireland",Sunshine 106.8
+https://live-bauerie.sharp-stream.com/SUN?_=808250
+#EXTINF:-1 group-title="Ireland",UCBI WORSHIP
+https://stream.btsstream.com/stream/iworship
+#EXTINF:-1 group-title="Ireland",Wired FM - FM 99.9 - Limerick, Ireland
+https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1 group-title="Ireland",98fm Dance
+https://edge.audioxi.com/98DANCE
+#EXTINF:-1 group-title="Ireland",PowerFM Dublin 320Kbps Ogg/Vorbis
+https://www.powerfm.org:8443/powerfm.ogg
+#EXTINF:-1 group-title="Ireland",Christmas FM Classics
+https://christmasfm.cdnstream1.com/2550_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448283
+#EXTINF:-1 group-title="Ireland",Today FM 80's
+https://edge3.audioxi.com/T80
+#EXTINF:-1 group-title="Ireland",Christmas FM Classical & Carols
+https://christmasfm.cdnstream1.com/2549_128.mp3?
+#EXTINF:-1 group-title="Ireland",SOLID GOLD RADIO IRELAND
+https://az11.yesstreaming.net:8020/radio.mp3
+#EXTINF:-1 group-title="Ireland",C103 West
+https://wg.cdn.tibus.net/C103West
+#EXTINF:-1 group-title="Ireland",LMFM
+https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507
+#EXTINF:-1 group-title="Ireland",Kfm 97.6
+https://live-bauerie.sharp-stream.com/KFM?_=668840
+#EXTINF:-1 group-title="Ireland",Onic Movies
+https://live.onic.ie/stream-movies?_=55552
+#EXTINF:-1 group-title="Ireland",Total Country Inchicore
+https://totalcountry.radioca.st/stream
+#EXTINF:-1 group-title="Ireland",Christmas FM Classical
+https://christmasfm.cdnstream1.com/2549_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448390
+#EXTINF:-1 group-title="Ireland",Circle Of White Light Radio
+https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
+#EXTINF:-1 group-title="Ireland",Club FM Dublin
+https://c6.radioboss.fm:8225/stream
+#EXTINF:-1 group-title="Ireland",Newstalk Ireland AAC
+https://live-bauerie.sharp-stream.com/NTAAC
+#EXTINF:-1 group-title="Ireland",Timewarp Ireland
+https://broadcast.shoutstream.co.uk:8052/stream
+#EXTINF:-1 group-title="Ireland",Off The Ball
+https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false
+#EXTINF:-1 group-title="Ireland",FM104
+https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417
+#EXTINF:-1 group-title="Ireland",BFBS Northern Ireland
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:-1 group-title="Ireland",Biggest Disco Radio
+https://s5.radio.co/s823d25743/low
+#EXTINF:-1 group-title="Ireland",Phantom Radio Ireland
+https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206
+#EXTINF:-1 group-title="Ireland",East Coast FM
+https://live-bauerie.sharp-stream.com/EASTCOAST?_=999173
+#EXTINF:-1 group-title="Ireland",Live95FM
+https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350
+#EXTINF:-1 group-title="Ireland",MixLive - Progressive & Tech-house
+https://strw3.openstream.co/939
+#EXTINF:-1 group-title="Ireland",Tipperary Mid West Community Radio
+https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
+#EXTINF:-1 group-title="Ireland",HeadWax Radio
+https://headwaxradio.radioca.st/stream
+#EXTINF:-1 group-title="Ireland",Ignoreradio Shoegaze
+https://sp1.autopo.st/8026/stream
+#EXTINF:-1 group-title="Ireland",Onic Gold
+https://live.onic.ie/stream-gold?_=718030
+#EXTINF:-1 group-title="Ireland",98FM Throwback
+https://live-bauerie.sharp-stream.com/98
+#EXTINF:-1 group-title="Ireland",Planet Radio ACC
+https://media.planetradio.ie/radio/8000/ACC
+#EXTINF:-1 group-title="Ireland",Spin1038
+https://live-bauerie.sharp-stream.com/SP
+#EXTINF:-1 group-title="Ireland",Deise Christmas Radio
+https://drn.radioca.st/stream
+#EXTINF:-1 group-title="Ireland",[ vinyl stacks ]
+https://vinylstacks.uncool.club/vinyl-stacks.mp3
+#EXTINF:-1 group-title="Ireland",Raídío Rí-Rá
+https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=
+#EXTINF:-1 group-title="Ireland",Scariff Bay Community Radio
+https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:-1 group-title="Ireland",Beat 102-103
+https://live-bauerie.sharp-stream.com/BEAT
+#EXTINF:-1 group-title="Ireland",CFC FM
+https://visual.shoutca.st/stream/crcfm
+#EXTINF:-1 group-title="Ireland",Onic Kids
+https://live.onic.ie/stream-kids?_=661229
+#EXTINF:-1 group-title="Ireland",80s Rewind
+https://a8.asurahosting.com:7170/radio.mp3
+#EXTINF:-1 group-title="Ireland",BOB FM
+https://bobfm-seanashmore.radioca.st/stream
+#EXTINF:-1 group-title="Ireland",Flirt FM 101.3
+https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1 group-title="Ireland",Near FM
+https://nearfm-radiohosting.radioca.st/stream.mp3
+#EXTINF:-1 group-title="Ireland",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Ireland",92.5 Phoenix FM
+https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02
+#EXTINF:-1 group-title="Ireland",BRIAN DALY
+https://uksoutha.streaming.broadcast.radio:28140/lifefm
+#EXTINF:-1 group-title="Ireland",Pacific FM
+https://radiozender.mpbnetwerken.nl/pacificfm
+#EXTINF:-1 group-title="Ireland",Tipperary Hospital Radio Clonmel
+https://de2.streamingpulse.com/ssl/THRCL
+#EXTINF:-1 group-title="Ireland",Energy 106 Belfast Northern Ireland
+https://stream1.hippynet.co.uk:8189/Studio
+#EXTINF:-1 group-title="Ireland",Onic Pride Vibes
+https://live.onic.ie/stream-pride-vibes?_=895437
+#EXTINF:-1 group-title="Ireland",sunshine soul
+https://live-bauerie.sharp-stream.com/SSOULAAC
+#EXTINF:-1 group-title="Ireland",eist
+https://eist-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="Ireland",Midwest Radio [MP3]
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3
+#EXTINF:-1 group-title="Ireland",Classic Gold Radio
+https://live.btsstream.com/stream/classicgoldradio
+#EXTINF:-1 group-title="Ireland",Dance Nation Radio
+https://uksoutha.streaming.broadcast.radio/dancenationradio?1786022890575=
+#EXTINF:-1 group-title="Ireland",Gravity Hits
+https://live.btsstream.com/stream/gravityhits
+#EXTINF:-1 group-title="Ireland",Live95 Limerick
+https://live.onic.ie/stream-live95
+#EXTINF:-1 group-title="Ireland",Midwest Radio [AAC]
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac
+#EXTINF:-1 group-title="Ireland",St. Ita’s Hospital Radio
+https://de2.streamingpulse.com/ssl/8042

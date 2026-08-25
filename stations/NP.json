@@ -1,0 +1,268 @@
+{
+ "countryCode": "NP",
+ "country": "Nepal",
+ "slug": "nepal",
+ "continent": "asia",
+ "stationCount": 14,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/nepal/",
+ "stations": [
+  {
+   "id": "hits-fm-91-2",
+   "name": "Hits FM 91.2",
+   "url": "http://www.hitsfm.com.np/",
+   "stream": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "hindi",
+    "nepali"
+   ],
+   "langCodes": [
+    "en",
+    "hi",
+    "ne"
+   ],
+   "state": "Bagmati",
+   "genre": [
+    "music"
+   ],
+   "votes": 2933,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cin-khabar",
+   "name": "CIN Khabar",
+   "url": "https://www.cinkhabar.com/",
+   "stream": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "state": "Bagmati",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1449,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiosagar",
+   "name": "RadioSagar",
+   "url": "",
+   "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 431,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kantipur-fm",
+   "name": "Kantipur FM",
+   "url": "https://radiokantipur.com/",
+   "stream": "https://radio-broadcast.ekantipur.com/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "nepali"
+   ],
+   "langCodes": [
+    "en",
+    "ne"
+   ],
+   "state": "Bagmati",
+   "genre": [],
+   "votes": 11987,
+   "clicks": 41,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kalika-fm-95-2-fm",
+   "name": "Kalika FM 95.2 FM",
+   "url": "http://www.kalikafm.com.np/",
+   "stream": "https://streaming.softnep.net:10828/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "genre": [],
+   "votes": 9430,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bbc-nepali",
+   "name": "BBC Nepali",
+   "url": "https://www.bbc.com/nepali",
+   "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "state": "Bagmati",
+   "genre": [],
+   "votes": 6194,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-himalaya",
+   "name": "Radio Himalaya",
+   "url": "http://www.radiohimalaya.com/",
+   "stream": "https://live.itech.host/himalayaradio?1588276425741",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "genre": [],
+   "votes": 2887,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiohimalaya",
+   "name": "रेडियो हिमालय",
+   "url": "https://radiohimalaya.com/",
+   "stream": "https://live.itech.host/himalayaradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "genre": [],
+   "votes": 426,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bfbs-gurkha-radio",
+   "name": "BFBS Gurkha Radio",
+   "url": "https://radio.bfbs.com/stations/bfbs-gurkha-network",
+   "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 207,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kool-fm-90-3",
+   "name": "KOOL FM 90.3",
+   "url": "https://www.kool903.com/",
+   "stream": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Kathmandu",
+   "genre": [],
+   "votes": 169,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-thaha-sanchar",
+   "name": "Radio Thaha Sanchar",
+   "url": "https://thahasanchar.com/live",
+   "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "genre": [],
+   "votes": 118,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 60,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "napho-radio-fm-88-25",
+   "name": "Napho Radio FM 88.25",
+   "url": "http://naphoradio.com/",
+   "stream": "https://radio11.plathong.net/7136/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "universal-health-radio",
+   "name": "Universal Health Radio (नेपाली)",
+   "url": "https://universalhealthradio.org/",
+   "stream": "https://radio.universalhealthradio.org/uhr-ne.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "nepali"
+   ],
+   "langCodes": [
+    "ne"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  }
+ ]
+}

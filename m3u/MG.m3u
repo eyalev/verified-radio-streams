@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="Madagascar" tvg-genre="gospel",Hopefy Radio MG
+https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3
+#EXTINF:-1 group-title="Madagascar" tvg-genre="hits,jazz",ESDES Radio
+https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
+#EXTINF:-1 group-title="Madagascar",Radio Rock Madagascar
+https://tanjona.radioca.st/stream
+#EXTINF:-1 group-title="Madagascar",Top Radio 102.8
+https://listen.radioking.com/radio/309053/stream/356036
+#EXTINF:-1 group-title="Madagascar",Radio Vazo Gasy
+https://stream.radiovazogasy.com/stream?1.mp3
+#EXTINF:-1 group-title="Madagascar",Radio Oasis
+https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3
+#EXTINF:-1 group-title="Madagascar",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Madagascar",Radio HIFI
+https://listen.radioking.com/radio/52108/stream/89122
+#EXTINF:-1 group-title="Madagascar",Radio Feon'ny Filazantsara
+https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1

@@ -1,0 +1,252 @@
+{
+ "countryCode": "KE",
+ "country": "Kenya",
+ "slug": "kenya",
+ "continent": "africa",
+ "stationCount": 15,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/kenya/",
+ "stations": [
+  {
+   "id": "nrg-radio",
+   "name": "NRG Radio",
+   "url": "https://nrg.radio/",
+   "stream": "https://streamingv2.shoutcast.com/nrg-radio-ke",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 2415,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jembe-fm",
+   "name": "JEMBE FM",
+   "url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+   "stream": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 247,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-quran",
+   "name": "#Radio Quran",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 198,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "carribean",
+   "name": "CARRIBEAN",
+   "url": "https://streams.rautemusik.fm/caribbean-wave/mp3-192/",
+   "stream": "https://streams.rautemusik.fm/caribbean-wave/mp3-192/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 185,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "98-4-capital-fm",
+   "name": "98.4 Capital FM",
+   "url": "https://www.capitalfm.co.ke/fresh/",
+   "stream": "https://atunwadigital.streamguys1.com/capitalfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nairobi",
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 16,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mayian-fm",
+   "name": "Mayian FM",
+   "url": "",
+   "stream": "https://mayianfm-atunwadigital.streamguys1.com/mayianfm",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langCodes": [
+    "ken"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "emmachev-radio",
+   "name": "Emmachev Radio",
+   "url": "https://emmachev.com/emmachev-radio/",
+   "stream": "https://radio.emmachev.com/listen/emmachev-radio/radio.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "indie"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kameme-fm",
+   "name": "Kameme FM",
+   "url": "https://www.mediamax.app/kameme-fm",
+   "stream": "https://kamemefm-atunwadigital.streamguys1.com/kamemefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1330,
+   "clicks": 67,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exclusive-radio-george-straight",
+   "name": "Exclusive radio George Straight",
+   "url": "https://exclusive.com/",
+   "stream": "https://streaming.exclusive.radio/er/georgestrait/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 146,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "george-jones",
+   "name": "George Jones",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/georgejones/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Nairobi",
+   "genre": [],
+   "votes": 111,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "at254-radio",
+   "name": "At254 Radio",
+   "url": "https://s127.radiolize.com/public/appsumo__cj6khn_riclf3",
+   "stream": "https://s127.radiolize.com/radio/8100/radio.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 63,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio47",
+   "name": "Radio47",
+   "url": "https://www.radio47.fm/#!",
+   "stream": "https://streaming.shoutcast.com/radio-47?ver=690109",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 42,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "replay-news-kiswahili",
+   "name": "REPLAY NEWS - Kiswahili",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swahili"
+   ],
+   "langCodes": [
+    "sw"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "taach-fm",
+   "name": "Taach FM",
+   "url": "https://taachfm.co.ke/",
+   "stream": "https://pegasus.nucast.co.uk:8064/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 11,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "universal-health-radio-kiswahili",
+   "name": "Universal Health Radio (Kiswahili)",
+   "url": "https://universalhealthradio.org/",
+   "stream": "https://radio.universalhealthradio.org/uhr-sw.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "swahili"
+   ],
+   "langCodes": [
+    "sw"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

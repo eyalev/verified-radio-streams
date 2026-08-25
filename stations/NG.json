@@ -1,0 +1,574 @@
+{
+ "countryCode": "NG",
+ "country": "Nigeria",
+ "slug": "nigeria",
+ "continent": "africa",
+ "stationCount": 34,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/nigeria/",
+ "stations": [
+  {
+   "id": "gospotainment-radio",
+   "name": "Gospotainment Radio",
+   "url": "https://gospotainment.com/",
+   "stream": "https://radio.gotright.net/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 1132,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-quran",
+   "name": "#Radio Quran",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 648,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "konga103-7fm",
+   "name": "Konga103.7FM",
+   "url": "https://kongafm.com/",
+   "stream": "https://lunar.citrus3.com:8124/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lagos",
+   "genre": [
+    "hits",
+    "music"
+   ],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "softlife-afrofusion-radio",
+   "name": "Softlife Afrofusion Radio",
+   "url": "https://sites.google.com/view/softlife-afrofusion-radio/home",
+   "stream": "https://a10.asurahosting.com:7540/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "pigin"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Akwa Ibom State",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 36,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "1radio-international",
+   "name": "1Radio International",
+   "url": "https://1radio.ng/",
+   "stream": "https://fm.imediaport.com/1radio",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "africa",
+    "carpatho-rusyn",
+    "englisgh",
+    "french"
+   ],
+   "langCodes": [
+    "de",
+    "fr",
+    "ha",
+    "ig"
+   ],
+   "state": "Rivers",
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 29,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "afrofusion-gospel-radio",
+   "name": "Afrofusion Gospel Radio",
+   "url": "https://sites.google.com/view/afrofusiongospelradio/home",
+   "stream": "https://a10.asurahosting.com:7120/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "pigin"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Akwa Ibom State",
+   "genre": [
+    "dance",
+    "gospel"
+   ],
+   "votes": 26,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "interspace-sound-system",
+   "name": "InterSpace Sound System",
+   "url": "https://radio.interspacemusic.com/",
+   "stream": "https://radio.interspacemusic.com/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Rivers",
+   "genre": [
+    "dance"
+   ],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "obong-university-radio",
+   "name": "Obong University Radio",
+   "url": "https://www.obonguniversity.edu.ng/event-details-obong-radio.html",
+   "stream": "https://a10.asurahosting.com:7150/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "pigin"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Akwa Ibom State",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 12,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "diamond-101-1-fm",
+   "name": "Diamond 101.1 FM",
+   "url": "https://diamondfm.net/",
+   "stream": "https://cast1.asurahosting.com/proxy/brightb1/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "yoruba"
+   ],
+   "langCodes": [
+    "en",
+    "yo"
+   ],
+   "state": "Oyo",
+   "genre": [
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vicinity-95-3-fm",
+   "name": "Vicinity 95.3 FM",
+   "url": "https://vicinity953fm.com.ng/",
+   "stream": "https://radio.fmmaria.com:8020/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "yoruba"
+   ],
+   "langCodes": [
+    "en",
+    "yo"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "splash-fm-105-5",
+   "name": "Splash FM 105.5",
+   "url": "https://splashfm1055.com/",
+   "stream": "https://edge.mixlr.com/channel/cfeki",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Ibadan",
+   "genre": [],
+   "votes": 1756,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "urban-radio-enugu",
+   "name": "URBAN RADIO ENUGU",
+   "url": "https://www.urbanradio945.com/",
+   "stream": "https://edge.mixlr.com/channel/cfldr",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Enugu",
+   "genre": [],
+   "votes": 1437,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hod-radio",
+   "name": "HOD RADIO",
+   "url": "https://hodradio.webradiosite.com/",
+   "stream": "https://servidor21.brlogic.com:7766/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Edo state",
+   "genre": [],
+   "votes": 474,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "praiseworld-radio",
+   "name": "Praiseworld Radio",
+   "url": "https://www.praiseworldradio.com/",
+   "stream": "https://streaming.radio.co/s7dc18f0ad/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 441,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lagosjump-radio",
+   "name": "LagosJump Radio",
+   "url": "https://www.lagosjumpradio.com/",
+   "stream": "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Abuja",
+   "genre": [],
+   "votes": 437,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "green-radio-uganda",
+   "name": "Green Radio Uganda",
+   "url": "https://greenradionigeria.com/",
+   "stream": "https://servidor17-1.brlogic.com:7940/live?source=12124",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 212,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rccg-central-parish-radio",
+   "name": "RCCG Central Parish Radio",
+   "url": "https://www.centralparishradio.org/#",
+   "stream": "https://s2.radio.co/s82911d13a/low",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 203,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dream-center-internet-radio",
+   "name": "Dream Center Internet Radio",
+   "url": "https://www.dciradio.org/",
+   "stream": "https://admin.dciradio.org/radio/8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 157,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "usaku-fm-90-5",
+   "name": "Usaku FM 90.5",
+   "url": "https://usakufm.com/",
+   "stream": "https://eu8.fastcast4u.com/proxy/usakufm?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english",
+    "hausa"
+   ],
+   "langCodes": [
+    "en",
+    "ha"
+   ],
+   "genre": [],
+   "votes": 139,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fad-fm",
+   "name": "FAD FM",
+   "url": "https://fadfm.com/",
+   "stream": "https://radio.gotright.net/listen/fadfm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 131,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "godfrey-okoye-university-radio-106-9fm",
+   "name": "Godfrey Okoye University Radio 106.9fm",
+   "url": "https://1069gouniradio.com/",
+   "stream": "https://us5new.listen2myradio.com:2199/stream.php?port=8178",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Enugu",
+   "genre": [],
+   "votes": 107,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 85,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nigeria-info",
+   "name": "Nigeria Info",
+   "url": "https://www.nigeriainfo.fm/",
+   "stream": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993",
+   "codec": "aac",
+   "bitrate": 132,
+   "genre": [],
+   "votes": 61,
+   "clicks": 46,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wazobia-fm-lagos",
+   "name": "Wazobia FM: Lagos",
+   "url": "https://www.wazobiafm.com/",
+   "stream": "https://wazobiafmlagos951-atunwadigital.streamguys1.com/wazobiafmlagos951",
+   "codec": "aac",
+   "bitrate": 133,
+   "state": "Lagos",
+   "genre": [],
+   "votes": 33,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zamrock-radio-nigeria-relay",
+   "name": "ZamRock Radio [Nigeria Relay]",
+   "url": "https://zamrock.net/",
+   "stream": "https://mega-public-relay.deathsmack-a51.workers.dev/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "goradio",
+   "name": "GoRadio",
+   "url": "https://goradio.com.ng/",
+   "stream": "https://online.goradio.com.ng/listen/gr/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Lagos",
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "1radio-oguta-community",
+   "name": "1Radio Oguta - Community",
+   "url": "https://1radio.ng/oguta",
+   "stream": "https://fm.imediaport.com/1radio.oguta",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Imo",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esan-binoculars",
+   "name": "Esan binoculars",
+   "url": "https://esanbinoculars.com/live-radio/",
+   "stream": "https://fm.imediaport.com/ebradio",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "esan",
+    "pigeon-english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Edo state",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vybz-94-5-fm",
+   "name": "Vybz 94.5 FM",
+   "url": "https://vybzfm.com/",
+   "stream": "https://mpc.my-control-panel.eu/stream/8138",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 22,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "memories-96-5fm-uyo",
+   "name": "MEMORIES 96.5FM UYO",
+   "url": "https://memoriesmediang.com/",
+   "stream": "https://a5.asurahosting.com:6670/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cool-fm-lagos",
+   "name": "Cool FM: Lagos",
+   "url": "http://www.coolfm.ng/",
+   "stream": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969",
+   "codec": "aac",
+   "bitrate": 132,
+   "genre": [],
+   "votes": 15,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "magic-fm",
+   "name": "Magic FM",
+   "url": "https://www.magicfm.ng/",
+   "stream": "https://radio.ifastekpanel.com:1565/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "agidigbo-88-7-fm",
+   "name": "Agidigbo 88.7 FM",
+   "url": "https://agidigbo887fm.com/",
+   "stream": "https://agidigbostream.com.ng/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "yoruba"
+   ],
+   "langCodes": [
+    "en",
+    "yo"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mob-urban-radio",
+   "name": "Mob Urban Radio",
+   "url": "https://www.moburbanradio.com/",
+   "stream": "https://a13.asurahosting.com/listen/mob_urban_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Nigeria North Central",
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

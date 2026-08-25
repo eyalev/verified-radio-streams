@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ethiopia" tvg-genre="60s,70s,80s,90s,oldies",Ethio Oldies
+https://www.ethioldies.com/listen/ethioldies/radio.mp3
+#EXTINF:-1 group-title="Ethiopia",DW Amharic
+https://dw.audiostream.io/dw/1027/mp3/64/dw08
+#EXTINF:-1 group-title="Ethiopia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

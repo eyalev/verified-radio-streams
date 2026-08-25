@@ -1,0 +1,1889 @@
+{
+ "countryCode": "IE",
+ "country": "Ireland",
+ "slug": "ireland",
+ "continent": "europe",
+ "stationCount": 112,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/ireland/",
+ "stations": [
+  {
+   "id": "today-fm",
+   "name": "Today FM",
+   "url": "https://www.todayfm.com/",
+   "stream": "https://stream.audioxi.com/TD",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "alternative",
+    "pop",
+    "rock"
+   ],
+   "votes": 1980,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "8radio",
+   "name": "8radio",
+   "url": "https://8radio.com/",
+   "stream": "https://edge4.audioxi.com/8RADIO",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 1097,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dublin-s-98fm",
+   "name": "Dublin's 98FM",
+   "url": "https://www.98fm.com/",
+   "stream": "https://stream.audioxi.com/98",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 728,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-fm-classical-carols",
+   "name": "Christmas FM Classical & Carols",
+   "url": "https://christmasfm.com/",
+   "stream": "https://christmasfm.cdnstream1.com/2549_64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 620,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gem-radio-new-wave",
+   "name": "Gem Radio New Wave",
+   "url": "https://gemradio.webs.com/",
+   "stream": "https://gemradionw.radioca.st/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Dublin",
+   "genre": [
+    "70s",
+    "80s"
+   ],
+   "votes": 549,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-radio-ireland-easy-mix",
+   "name": "Easy Radio Ireland, Easy Mix",
+   "url": "https://easy.radio/station/47/665",
+   "stream": "https://streaming.exclusive.radio/uber/easymix/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop",
+    "r&b"
+   ],
+   "votes": 374,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dublin-s-fm104",
+   "name": "Dublin's FM104",
+   "url": "https://www.fm104.ie/",
+   "stream": "https://wg.cdn.tibus.net/fm104MP3128",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "pop"
+   ],
+   "votes": 365,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "limerick-s-live-95fm",
+   "name": "Limerick's Live 95FM",
+   "url": "https://www.live95fm.ie/home/",
+   "stream": "https://wg.cdn.tibus.net/Live95fm",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Limerick",
+   "genre": [
+    "adult-contemporary",
+    "love-songs",
+    "music"
+   ],
+   "votes": 272,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "freedom-fm",
+   "name": "Freedom FM",
+   "url": "https://freedomfm.ie/",
+   "stream": "https://edge3.audioxi.com/FREEDOMFM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "2000s",
+    "90s",
+    "dance",
+    "pop",
+    "pop-music",
+    "r&b",
+    "rock"
+   ],
+   "votes": 170,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "powerfm-dublin-320kbps-mp3",
+   "name": "PowerFM Dublin 320Kbps MP3",
+   "url": "https://www.powerfm.org/",
+   "stream": "https://www.powerfm.org:8443/powerfm.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Leinster",
+   "genre": [
+    "dance",
+    "electronic",
+    "house"
+   ],
+   "votes": 146,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "free-fm-ireland",
+   "name": "Free FM Ireland",
+   "url": "http://freefmradio.net/",
+   "stream": "https://rocafmadrid.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "german",
+    "spanish"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "es"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 105,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-hits-80s",
+   "name": "Classic Hits 80s",
+   "url": "https://www.classichits.ie/classic-hits-80s/",
+   "stream": "https://edge7.audioxi.com/CH80S",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Dublin",
+   "genre": [
+    "80s"
+   ],
+   "votes": 89,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dublin-s-q102",
+   "name": "Dublin's Q102",
+   "url": "http://www.q102.ie/",
+   "stream": "https://onic.dublin.live.stream.broadcasting.news/stream-q102",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "pop"
+   ],
+   "votes": 89,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gem-new-wave-radio",
+   "name": "Gem New Wave Radio",
+   "url": "https://www.gemnewwave.com/",
+   "stream": "https://gemradio.radioca.st/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 62,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dublin-digital-radio",
+   "name": "Dublin Digital Radio",
+   "url": "https://listen.dublindigitalradio.com/home",
+   "stream": "https://dublin-digital-radio.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 60,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "planetradioie",
+   "name": "PlanetRadioie",
+   "url": "https://planetradio.ie/",
+   "stream": "https://media.planetradio.ie/radio/8000/OnAir",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Dublin",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mpb-radio-2-90s-00s",
+   "name": "MPB Radio 2 90s & 00s",
+   "url": "https://mpbradio2.com",
+   "stream": "https://sc.mpbnl.nl/radio2-90s00s.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "format": "music",
+   "langs": [
+    "english",
+    "irish"
+   ],
+   "langCodes": [
+    "en",
+    "ga"
+   ],
+   "genre": [
+    "pop-music",
+    "pop"
+   ],
+   "votes": 43,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-zone-dublin",
+   "name": "The Zone - Dublin",
+   "url": "https://www.thezonedublin.org/",
+   "stream": "https://uk1.internet-radio.com/proxy/thezone/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative",
+    "classic-rock",
+    "indie"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "clonmellon-community-radio",
+   "name": "Clonmellon Community Radio",
+   "url": "https://www.clonmelloncommunityradio.com/",
+   "stream": "https://eu8.fastcast4u.com/proxy/ccr?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "dance-music"
+   ],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cork-s-redfm",
+   "name": "Cork's RedFM",
+   "url": "https://www.redfm.ie/",
+   "stream": "https://live-bauerie.sharp-stream.com/RED",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "pop"
+   ],
+   "votes": 42,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mpb-radio-2",
+   "name": "MPB Radio 2",
+   "url": "https://mpbradio2.com",
+   "stream": "https://sc.mpbnl.nl/radio2.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "format": "music",
+   "langs": [
+    "english",
+    "irish"
+   ],
+   "langCodes": [
+    "en",
+    "ga"
+   ],
+   "genre": [
+    "pop-music",
+    "pop",
+    "70s",
+    "80s",
+    "90s",
+    "oldies",
+    "classic-hits"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-80s",
+   "name": "Onic 80s",
+   "url": "https://www.onic.ie/player/onic-country/",
+   "stream": "https://live.onic.ie/stream-80s?_=184336",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "80s"
+   ],
+   "votes": 36,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rewind",
+   "name": "Rewind",
+   "url": "https://rewind.ie/",
+   "stream": "https://christmasfm.cdnstream1.com/2551_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 25,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iradio",
+   "name": "iRadio",
+   "url": "https://iradio.ie/",
+   "stream": "https://live-bauerie.sharp-stream.com/IRADNWAAC",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Westmeath",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 23,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-rnb",
+   "name": "Onic RnB",
+   "url": "https://www.onic.ie/player/onic-rnb/",
+   "stream": "https://live.onic.ie/stream-rnb?_=890764",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "rnb"
+   ],
+   "votes": 21,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mpb-radio-1",
+   "name": "MPB Radio 1",
+   "url": "https://mpbradio1.com",
+   "stream": "https://sc.mpbnl.nl/radio1.mp3",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "irish"
+   ],
+   "langCodes": [
+    "en",
+    "ga"
+   ],
+   "genre": [
+    "pop-music",
+    "pop"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mpb-radio-1-dance",
+   "name": "MPB Radio 1 Dance",
+   "url": "https://mpbradio1.com/",
+   "stream": "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance-music"
+   ],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-alternative",
+   "name": "Onic Alternative",
+   "url": "https://www.onic.ie/player/onic-alternative/",
+   "stream": "https://live.onic.ie/stream-alternative?_=623178",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 17,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-country",
+   "name": "Onic Country",
+   "url": "https://www.onic.ie/player/onic-country/",
+   "stream": "https://live.onic.ie/stream-country?_=267164",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "country"
+   ],
+   "votes": 15,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-rock",
+   "name": "Onic Rock",
+   "url": "https://www.onic.ie/player/onic-rock/",
+   "stream": "https://live.onic.ie/stream-rock?_=630901",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitmix-radio-ireland",
+   "name": "HITMIX RADIO IRELAND",
+   "url": "https://hitmixradioireland.blogspot.com/?m=1",
+   "stream": "https://a8.asurahosting.com:7180/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Galway",
+   "genre": [
+    "dance",
+    "top-40"
+   ],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-classical",
+   "name": "Onic Classical",
+   "url": "https://www.onic.ie/player/onic-classical/",
+   "stream": "https://live.onic.ie/stream-classical?_=954716",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "classical"
+   ],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spin-south-west",
+   "name": "SPIN South West",
+   "url": "https://www.spinsouthwest.com/",
+   "stream": "https://edge.audioxi.com/SW",
+   "codec": "aac",
+   "bitrate": 65,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Limerick",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-hits",
+   "name": "Onic Hits",
+   "url": "https://www.onic.ie/player/onic-hits/",
+   "stream": "https://live.onic.ie/stream-hits?_=408214",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "hits"
+   ],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "funky-ass-tunes",
+   "name": "Funky Ass Tunes",
+   "url": "https://funkyasstunes.com/",
+   "stream": "https://ams1.reliastream.com/proxy/john12/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "funk",
+    "lounge",
+    "soul"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "today-fm-90s",
+   "name": "Today FM 90s",
+   "url": "http://www.todayfm.com/TodayFM90s",
+   "stream": "https://live-bauerie.sharp-stream.com/T90",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova-100",
+   "name": "Radio Nova 100",
+   "url": "https://www.nova.ie/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 3,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-rewind",
+   "name": "Retro Rewind",
+   "url": "https://www.retrorewind.ie/",
+   "stream": "https://a10.asurahosting.com:7050/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Dublin",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "south-east-radio",
+   "name": "South East Radio",
+   "url": "https://www.southeastradio.ie/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Wexford",
+   "genre": [
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-fm-dublin-dublins-hottest-dance-mix",
+   "name": "Club FM Dublin Dublins hottest dance mix",
+   "url": "https://ww25.clubfmdublin.com/?subid1=20250221-0653-50ad-8577-339602e4b772",
+   "stream": "https://c6.radioboss.fm:8225/autodj",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [
+    "dance"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rana-sundi",
+   "name": "Rana Sundi",
+   "url": "",
+   "stream": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "newstalk",
+   "name": "Newstalk",
+   "url": "https://www.newstalk.com/",
+   "stream": "https://edge.audioxi.com/NT",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3498,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "highland-radio",
+   "name": "Highland Radio",
+   "url": "http://www.highlandradio.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 794,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-fm",
+   "name": "Christmas FM",
+   "url": "https://christmasfm.com/",
+   "stream": "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 370,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "phever-radio",
+   "name": "PHEVER Radio",
+   "url": "https://www.phever.ie/",
+   "stream": "https://uk1.internet-radio.com/proxy/phever?mp=/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 337,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "q102",
+   "name": "Q102",
+   "url": "",
+   "stream": "https://wg.cdn.tibus.net/q102MP3128",
+   "codec": "aac",
+   "bitrate": 127,
+   "genre": [],
+   "votes": 325,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trancepulse-dublin",
+   "name": "TrancePulse Dublin",
+   "url": "https://trancepulsefm.ie/",
+   "stream": "https://stream.trance.ie:8443/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 305,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-fm-ireland",
+   "name": "Christmas FM Ireland",
+   "url": "https://christmasfm.com/",
+   "stream": "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 298,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "todayfm",
+   "name": "TodayFm",
+   "url": "https://todayfm.com/",
+   "stream": "https://pri.gocaster.net/td",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 276,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rte-2-fm",
+   "name": "RTE 2 FM",
+   "url": "https://www.rte.ie/radio/2fm/",
+   "stream": "https://icecast.rte.ie/2fm",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 227,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-siamsa",
+   "name": "Radio Siamsa",
+   "url": "https://siamsa.ie/",
+   "stream": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 220,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-106-8",
+   "name": "Sunshine 106.8",
+   "url": "https://www.sunshineradio.ie/",
+   "stream": "https://live-bauerie.sharp-stream.com/SUN?_=808250",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 206,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ucbi-worship",
+   "name": "UCBI WORSHIP",
+   "url": "https://www.ucbireland.ie/",
+   "stream": "https://stream.btsstream.com/stream/iworship",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 197,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wired-fm-fm-99-9-limerick-ireland",
+   "name": "Wired FM - FM 99.9 - Limerick, Ireland",
+   "url": "http://www.wiredfm.ie/",
+   "stream": "https://s2.radio.co/sf0986595a/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 150,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "98fm-dance",
+   "name": "98fm Dance",
+   "url": "https://www.98fm.com/",
+   "stream": "https://edge.audioxi.com/98DANCE",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "powerfm-dublin-320kbps-ogg-vorbis",
+   "name": "PowerFM Dublin 320Kbps Ogg/Vorbis",
+   "url": "https://www.powerfm.org:8443/",
+   "stream": "https://www.powerfm.org:8443/powerfm.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Leinster",
+   "genre": [],
+   "votes": 94,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-fm-classics",
+   "name": "Christmas FM Classics",
+   "url": "https://christmasfm.com/",
+   "stream": "https://christmasfm.cdnstream1.com/2550_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448283",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 93,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "today-fm-80-s",
+   "name": "Today FM 80's",
+   "url": "https://www.todayfm.com/",
+   "stream": "https://edge3.audioxi.com/T80",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 78,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-fm-classical-carols-2",
+   "name": "Christmas FM Classical & Carols",
+   "url": "https://play.christmasfm.com/",
+   "stream": "https://christmasfm.cdnstream1.com/2549_128.mp3?",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "solid-gold-radio-ireland",
+   "name": "SOLID GOLD RADIO IRELAND",
+   "url": "https://www.solidgoldradioireland.com/",
+   "stream": "https://az11.yesstreaming.net:8020/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "LAOIS",
+   "genre": [],
+   "votes": 68,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c103-west",
+   "name": "C103 West",
+   "url": "https://www.liveradio.ie/stations/c103-west",
+   "stream": "https://wg.cdn.tibus.net/C103West",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 67,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lmfm",
+   "name": "LMFM",
+   "url": "https://www.lmfm.ie/",
+   "stream": "https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507",
+   "codec": "aac",
+   "bitrate": 127,
+   "genre": [],
+   "votes": 59,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kfm-97-6",
+   "name": "Kfm 97.6",
+   "url": "https://www.kfmradio.com/",
+   "stream": "https://live-bauerie.sharp-stream.com/KFM?_=668840",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-movies",
+   "name": "Onic Movies",
+   "url": "https://www.onic.ie/player/onic-movies/",
+   "stream": "https://live.onic.ie/stream-movies?_=55552",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [],
+   "votes": 37,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "total-country-inchicore",
+   "name": "Total Country Inchicore",
+   "url": "https://www.totalcountryfm.com/",
+   "stream": "https://totalcountry.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-fm-classical",
+   "name": "Christmas FM Classical",
+   "url": "https://christmasfm.com/",
+   "stream": "https://christmasfm.cdnstream1.com/2549_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448390",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "circle-of-white-light-radio",
+   "name": "Circle Of White Light Radio",
+   "url": "https://www.circleofwhitelight.com/",
+   "stream": "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "club-fm-dublin",
+   "name": "Club FM Dublin",
+   "url": "http://www.clubfmdublin.com/",
+   "stream": "https://c6.radioboss.fm:8225/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "newstalk-ireland-aac",
+   "name": "Newstalk Ireland AAC",
+   "url": "http://www.newstalk.ie/",
+   "stream": "https://live-bauerie.sharp-stream.com/NTAAC",
+   "codec": "aac",
+   "bitrate": 63,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 28,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "timewarp-ireland",
+   "name": "Timewarp Ireland",
+   "url": "https://timewarpireland.com/",
+   "stream": "https://broadcast.shoutstream.co.uk:8052/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "off-the-ball",
+   "name": "Off The Ball",
+   "url": "https://www.offtheball.com/",
+   "stream": "https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm104",
+   "name": "FM104",
+   "url": "https://www.fm104.ie/",
+   "stream": "https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417",
+   "codec": "aac",
+   "bitrate": 127,
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bfbs-northern-ireland",
+   "name": "BFBS Northern Ireland",
+   "url": "https://radio.bfbs.com/stations/bfbs-northern-ireland",
+   "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "biggest-disco-radio",
+   "name": "Biggest Disco Radio",
+   "url": "https://www.biggestdiscoradio.com/",
+   "stream": "https://s5.radio.co/s823d25743/low",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "phantom-radio-ireland",
+   "name": "Phantom Radio Ireland",
+   "url": "https://www.phantomradio.ie/",
+   "stream": "https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 16,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "east-coast-fm",
+   "name": "East Coast FM",
+   "url": "https://www.eastcoast.fm/",
+   "stream": "https://live-bauerie.sharp-stream.com/EASTCOAST?_=999173",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "live95fm",
+   "name": "Live95FM",
+   "url": "https://www.live95fm.ie/",
+   "stream": "https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350",
+   "codec": "aac",
+   "bitrate": 127,
+   "genre": [],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixlive-progressive-tech-house",
+   "name": "MixLive - Progressive & Tech-house",
+   "url": "https://mixlive.net/stream/progressive-tech-house/",
+   "stream": "https://strw3.openstream.co/939",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tipperary-mid-west-community-radio",
+   "name": "Tipperary Mid West Community Radio",
+   "url": "https://www.tippmidwestradio.com/",
+   "stream": "https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 11,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "headwax-radio",
+   "name": "HeadWax Radio",
+   "url": "https://www.headwaxradio.ie/",
+   "stream": "https://headwaxradio.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ignoreradio-shoegaze",
+   "name": "Ignoreradio Shoegaze",
+   "url": "https://ignoreradio.com/",
+   "stream": "https://sp1.autopo.st/8026/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-gold",
+   "name": "Onic Gold",
+   "url": "https://onic.ie/",
+   "stream": "https://live.onic.ie/stream-gold?_=718030",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "98fm-throwback",
+   "name": "98FM Throwback",
+   "url": "https://www.98fm.com/",
+   "stream": "https://live-bauerie.sharp-stream.com/98",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "planet-radio-acc",
+   "name": "Planet Radio ACC",
+   "url": "https://planetradio.ie/",
+   "stream": "https://media.planetradio.ie/radio/8000/ACC",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spin1038",
+   "name": "Spin1038",
+   "url": "http://www.spin1038.com/",
+   "stream": "https://live-bauerie.sharp-stream.com/SP",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deise-christmas-radio",
+   "name": "Deise Christmas Radio",
+   "url": "https://deisechristmas.com/",
+   "stream": "https://drn.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Waterford",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vinyl-stacks",
+   "name": "[ vinyl stacks ]",
+   "url": "https://vinylstacks.uncool.club/",
+   "stream": "https://vinylstacks.uncool.club/vinyl-stacks.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "raidio-ri-ra",
+   "name": "Raídío Rí-Rá",
+   "url": "https://www.rrr.ie/",
+   "stream": "https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "scariff-bay-community-radio",
+   "name": "Scariff Bay Community Radio",
+   "url": "http://www.scariffbayradio.com/",
+   "stream": "https://s4.radio.co/s87ac5cf5a/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Co. Clare",
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "beat-102-103",
+   "name": "Beat 102-103",
+   "url": "http://www.beat102103.com/",
+   "stream": "https://live-bauerie.sharp-stream.com/BEAT",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cfc-fm",
+   "name": "CFC FM",
+   "url": "http://crcfm.ie/index.html",
+   "stream": "https://visual.shoutca.st/stream/crcfm",
+   "codec": "aac",
+   "bitrate": 384,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mayo",
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-kids",
+   "name": "Onic Kids",
+   "url": "https://www.onic.ie/player/onic-kids/",
+   "stream": "https://live.onic.ie/stream-kids?_=661229",
+   "codec": "aac",
+   "bitrate": 127,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-rewind",
+   "name": "80s Rewind",
+   "url": "http://www.80s-rewind.com/",
+   "stream": "https://a8.asurahosting.com:7170/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Dub",
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bob-fm",
+   "name": "BOB FM",
+   "url": "https://easycoast.fm/player/bobfm/",
+   "stream": "https://bobfm-seanashmore.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flirt-fm-101-3",
+   "name": "Flirt FM 101.3",
+   "url": "https://flirtfm.ie/",
+   "stream": "https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "near-fm",
+   "name": "Near FM",
+   "url": "https://nearfm.ie/",
+   "stream": "https://nearfm-radiohosting.radioca.st/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "92-5-phoenix-fm",
+   "name": "92.5 Phoenix FM",
+   "url": "https://phoenixfm.ie/",
+   "stream": "https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brian-daly",
+   "name": "BRIAN DALY",
+   "url": "https://www.lifefm.ie/",
+   "stream": "https://uksoutha.streaming.broadcast.radio:28140/lifefm",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "IRELAND",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pacific-fm",
+   "name": "Pacific FM",
+   "url": "https://radiozender.mpbnetwerken.nl/pacificfm",
+   "stream": "https://radiozender.mpbnetwerken.nl/pacificfm",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tipperary-hospital-radio-clonmel",
+   "name": "Tipperary Hospital Radio Clonmel",
+   "url": "https://www.thrcl.com/",
+   "stream": "https://de2.streamingpulse.com/ssl/THRCL",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Tipperary",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-106-belfast-northern-ireland",
+   "name": "Energy 106 Belfast Northern Ireland",
+   "url": "https://www.energy106.co.uk/",
+   "stream": "https://stream1.hippynet.co.uk:8189/Studio",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "belfast",
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onic-pride-vibes",
+   "name": "Onic Pride Vibes",
+   "url": "https://www.onic.ie/player/onic-pride-vibes/",
+   "stream": "https://live.onic.ie/stream-pride-vibes?_=895437",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dublin",
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-soul",
+   "name": "sunshine soul",
+   "url": "https://www.sunshineradio.ie/sunshine-soul/",
+   "stream": "https://live-bauerie.sharp-stream.com/SSOULAAC",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eist",
+   "name": "eist",
+   "url": "https://eist.radio/",
+   "stream": "https://eist-radio.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "state": "Cork",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "midwest-radio-mp3",
+   "name": "Midwest Radio [MP3]",
+   "url": "https://www.midwestradio.ie/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Ballyhaunis",
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-gold-radio",
+   "name": "Classic Gold Radio",
+   "url": "https://classicgoldradio.ie/radiochannel/classic-gold-radio/",
+   "stream": "https://live.btsstream.com/stream/classicgoldradio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-nation-radio",
+   "name": "Dance Nation Radio",
+   "url": "https://dancenationradio.ie/",
+   "stream": "https://uksoutha.streaming.broadcast.radio/dancenationradio?1786022890575=",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gravity-hits",
+   "name": "Gravity Hits",
+   "url": "https://gravityhits.ie/",
+   "stream": "https://live.btsstream.com/stream/gravityhits",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dublin",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "live95-limerick",
+   "name": "Live95 Limerick",
+   "url": "https://www.live95fm.ie/",
+   "stream": "https://live.onic.ie/stream-live95",
+   "codec": "aac",
+   "bitrate": 127,
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "midwest-radio-aac",
+   "name": "Midwest Radio [AAC]",
+   "url": "https://www.midwestradio.ie/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ballyhaunis",
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "st-ita-s-hospital-radio",
+   "name": "St. Ita’s Hospital Radio",
+   "url": "https://www.hospitalradio.ie/",
+   "stream": "https://de2.streamingpulse.com/ssl/8042",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

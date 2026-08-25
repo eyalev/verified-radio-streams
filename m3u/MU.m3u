@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Mauritius" tvg-genre="music",Radio Plus Mauritius
+https://stream.radioplus.mu:8000/radio.mp3
+#EXTINF:-1 group-title="Mauritius" tvg-genre="bollywood",Radio Plus - Indiz
+https://streamer.radio.co/sed5c5a375/listen
+#EXTINF:-1 group-title="Mauritius",Radioplus Fever
+https://streamer.radio.co/s3fe39a4a4/listen
+#EXTINF:-1 group-title="Mauritius",Tamizen
+https://c34.radioboss.fm:18023/stream
+#EXTINF:-1 group-title="Mauritius",SENSUELLE RADIO
+https://forwardmystream.com/sensuelleradio
+#EXTINF:-1 group-title="Mauritius",Radio One
+https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream
+#EXTINF:-1 group-title="Mauritius",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Mauritius",Radio 7 Mauritius
+https://c2.radioboss.fm/stream/1056

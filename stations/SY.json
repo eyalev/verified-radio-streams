@@ -1,0 +1,152 @@
+{
+ "countryCode": "SY",
+ "country": "Syria",
+ "slug": "syria",
+ "continent": "asia",
+ "stationCount": 8,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/syria/",
+ "stations": [
+  {
+   "id": "exclusively-meat-loaf",
+   "name": "Exclusively Meat Loaf",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/meatloaf/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 735,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".. مختصر التفسير",
+   "url": "",
+   "stream": "https://qurango.net/radio/mukhtasartafsir",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 683,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "syria-tv",
+   "name": "Syria TV - راديو تلفزيون سوريا",
+   "url": "https://www.syria.tv/",
+   "stream": "https://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 651,
+   "clicks": 34,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "denge-qamishlo",
+   "name": "Denge Qamishlo",
+   "url": "https://laut.fm/dengeqamishlo",
+   "stream": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kurdish"
+   ],
+   "langCodes": [
+    "ku"
+   ],
+   "genre": [],
+   "votes": 626,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "denge-cudi",
+   "name": "denge cudi",
+   "url": "https://denge-cudi.stream.laut.fm/",
+   "stream": "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kurdish"
+   ],
+   "langCodes": [
+    "ku"
+   ],
+   "genre": [],
+   "votes": 378,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rayan-fm",
+   "name": "Rayan FM",
+   "url": "https://rayanfm.net/",
+   "stream": "https://broadcast.shoutstream.co.uk:8078/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 211,
+   "clicks": 25,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-karma-fm",
+   "name": "Al Karma FM",
+   "url": "https://tunein.com/radio/Al-karma-fm-941-s352111",
+   "stream": "https://broadcast.shoutstream.co.uk/stream/8112",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 156,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-helmna",
+   "name": "Radio Helmna",
+   "url": "https://radiohelmna.com/",
+   "stream": "https://radiohelmna.com/stream/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 60,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  }
+ ]
+}

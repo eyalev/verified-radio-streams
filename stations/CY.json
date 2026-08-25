@@ -1,0 +1,320 @@
+{
+ "countryCode": "CY",
+ "country": "Cyprus",
+ "slug": "cyprus",
+ "continent": "europe",
+ "stationCount": 19,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/cyprus/",
+ "stations": [
+  {
+   "id": "mixfm-cyprus",
+   "name": "MixFM Cyprus",
+   "url": "https://www.mixfmradio.com/",
+   "stream": "https://link.radiojar.com/c27wx6pdh8vtv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "pop-music",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 234,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mix4-me-uplifitng-trance-web-radio",
+   "name": "Mix4.me uplifitng trance web radio",
+   "url": "https://www.mix4.me/",
+   "stream": "https://s9.webradio-hosting.com/proxy/mix4me/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 154,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "active-107-4",
+   "name": "Active 107.4",
+   "url": "https://activeradio.com.cy/",
+   "stream": "https://securestreams3.autopo.st:1417/active",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 98,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-turbo21",
+   "name": "Radio Turbo21",
+   "url": "https://radioturbo21.com/",
+   "stream": "https://radioturbo21.com/radio/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "80s",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "super-sport-fm-104-0",
+   "name": "Super Sport FM 104.0",
+   "url": "https://www.sport-fm.com.cy/",
+   "stream": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [],
+   "votes": 711,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-sfera-102-2",
+   "name": "Radio Sfera 102.2",
+   "url": "https://sfera.com.cy/",
+   "stream": "https://securestreams3.autopo.st:1417/sfera",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [],
+   "votes": 247,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dance-fm",
+   "name": "Dance FM",
+   "url": "https://www.nrgplay.com/",
+   "stream": "https://live.enerjiplay.com/stream/dancefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Nicosia",
+   "genre": [],
+   "votes": 142,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zenith",
+   "name": "Zenith",
+   "url": "https://zenithfm.com.cy/live/",
+   "stream": "https://live3.istoikona.net:9836/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 101,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bitrrcord",
+   "name": "BitrRcord",
+   "url": "https://bitrecord.one/",
+   "stream": "https://c10.radioboss.fm:18095/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 98,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "russianradio",
+   "name": "РУССКОЕ РАДИО КИПР",
+   "url": "https://russianradio.cy/",
+   "stream": "https://live.vblcast.com/proxy/russianradio/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 89,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "feelgood-fm",
+   "name": "FEELGOOD.FM",
+   "url": "https://feelgood.fm/",
+   "stream": "https://radio.feelgood.fm/mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kiss-fm-89-0-88-5",
+   "name": "KISS FM 89.0 - 88.5",
+   "url": "https://kissfm.com.cy/",
+   "stream": "https://securestreams3.autopo.st:1417/89FM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "njoy-radio",
+   "name": "NJOY Radio",
+   "url": "https://www.njoyradio.com.cy/",
+   "stream": "https://stream.radiojar.com/mg7kftnzka3vv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "viva-fm-104-3",
+   "name": "VIVA FM 104.3",
+   "url": "https://vivafmcyprus.com/",
+   "stream": "https://stream1.themediasite.co.uk/8060/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-navagio",
+   "name": "Ναυάγιο",
+   "url": "https://radio-navagio.com/",
+   "stream": "https://radio-navagio.com/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-fm-cyprus",
+   "name": "Rock FM Cyprus",
+   "url": "https://rockfmcyprus.com/",
+   "stream": "https://live3.istoikona.net/proxy/rockfm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zucca",
+   "name": "Zucca",
+   "url": "https://zuccaradio.com/",
+   "stream": "https://stream.zuccaradio.com/stream?",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-reymod",
+   "name": "Radio ReyMod",
+   "url": "https://www.reymod.com/radio",
+   "stream": "https://server.streamcasthd.com:7092/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

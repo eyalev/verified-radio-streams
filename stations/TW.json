@@ -1,0 +1,503 @@
+{
+ "countryCode": "TW",
+ "country": "Taiwan",
+ "slug": "taiwan",
+ "continent": "asia",
+ "stationCount": 28,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/taiwan/",
+ "stations": [
+  {
+   "id": "am873",
+   "name": "中國華藝廣播公司 AM873",
+   "url": "https://www.vos.com.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Taipei",
+   "genre": [
+    "music"
+   ],
+   "votes": 138,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm995",
+   "name": "飛碟聯播網 飛碟電台",
+   "url": "https://www.fm995.com.tw/index.html",
+   "stream": "https://n10.rcs.revma.com/em90w4aeewzuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 76,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "asiafm",
+   "name": "AsiaFM 亞洲電台",
+   "url": "https://www.asiafm.com.tw/",
+   "stream": "https://n13.rcs.revma.com/xpgtqc74hv8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 73,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "boss-online-radio",
+   "name": "Boss Online Radio",
+   "url": "",
+   "stream": "https://stream.radiojar.com/ehzvurp9tv8uv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 73,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm89-5",
+   "name": "飛揚調頻FM89.5",
+   "url": "https://www.flyradio.com.tw/",
+   "stream": "https://n13.rcs.revma.com/e0tdah74hv8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "hokkien"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m-radio",
+   "name": "M Radio 全國廣播",
+   "url": "https://www.mradio.com.tw/",
+   "stream": "https://n03.rcs.revma.com/044q61ha7a0uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 61,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-icrt",
+   "name": "Radio ICRT",
+   "url": "https://www.icrt.com.tw/",
+   "stream": "https://n27a-eu.rcs.revma.com/nkdfurztxp3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 42,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bestradio",
+   "name": "高雄港都廣播",
+   "url": "https://www.bestradio.com.tw/",
+   "stream": "https://n10.rcs.revma.com/q2m07dc59duvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 28,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kbs",
+   "name": "高雄廣播電台",
+   "url": "https://www.kbs.gov.tw/index.aspx",
+   "stream": "https://n13.rcs.revma.com/pet2dvug1bkvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bcc",
+   "name": "中廣新聞網",
+   "url": "https://www.bcc.com.tw/",
+   "stream": "https://n03.rcs.revma.com/78fm9wyy2tzuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 304,
+   "clicks": 34,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "news98",
+   "name": "九八新聞台",
+   "url": "https://www.news98.com.tw/",
+   "stream": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 187,
+   "clicks": 22,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ai-radio-taiwan-ai",
+   "name": "Ai Radio TAIWAN 台灣AI電台",
+   "url": "https://www.airadiotaiwan.com/",
+   "stream": "https://n10.rcs.revma.com/h4ta80hbqwuvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 62,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "1940-s-shanghai-vintage-jazz-shidaiqu-radio",
+   "name": "上海麗都廣播電台 1940's Shanghai Vintage Jazz Shidaiqu Radio",
+   "url": "https://radio.nitro-server.uk/public/1940sshanghaioldtimesmusicradio",
+   "stream": "https://radio.nitro-server.uk/listen/1940sshanghaioldtimesmusicradio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Taipei",
+   "genre": [],
+   "votes": 52,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cityfm",
+   "name": "城市廣播網-大苗栗廣播",
+   "url": "https://cityfm.tw/",
+   "stream": "https://fm983.cityfm.com.tw:8083/983",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cityfm-2",
+   "name": "城市廣播網-南投廣播",
+   "url": "https://fm997.cityfm.tw/",
+   "stream": "https://fm997.cityfm.com.tw:8083/997",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "uni967",
+   "name": "環宇廣播電台",
+   "url": "http://www.uni967.com/",
+   "stream": "https://n06.rcs.revma.com/srn5f9kmwxhvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm937fm",
+   "name": "領袖廣播",
+   "url": "https://fm937fm.com/",
+   "stream": "https://n14.rcs.revma.com/hpeqh9mkc6hvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "hokkien"
+   ],
+   "state": "Tainan",
+   "genre": [],
+   "votes": 20,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cancheers",
+   "name": "CanCheers",
+   "url": "https://www.ilovetacp.org.tw/cancheers/cancheers.aspx#page-top",
+   "stream": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "am1089",
+   "name": "高雄廣播電台AM1089",
+   "url": "https://www.kbs.gov.tw/",
+   "stream": "https://n05.rcs.revma.com/4r99rt1g1bkvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "i-go",
+   "name": "中廣 I GO",
+   "url": "https://www.bcc.com.tw/",
+   "stream": "https://n03.rcs.revma.com/1qxn2vg3qtzuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "hokkien"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm899",
+   "name": "曾文溪廣播電台",
+   "url": "https://www.fm899.com.tw/",
+   "stream": "https://n09.rcs.revma.com/9ssfduqkr0hvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "happyradio",
+   "name": "快樂聯播網",
+   "url": "https://happyradio.com.tw/",
+   "stream": "https://happyradio.com.tw/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hakkaradio",
+   "name": "講客廣播電台",
+   "url": "https://www.hakkaradio.org.tw/",
+   "stream": "https://n08.rcs.revma.com/akqrbx94gbkvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "hakka"
+   ],
+   "langCodes": [
+    "hak"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "boss-boss-radio",
+   "name": "Boss Boss Radio",
+   "url": "https://www.bossbossradio.com/",
+   "stream": "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "boss-online-radio-2",
+   "name": "Boss Online Radio",
+   "url": "https://www.bossonlineradio.com/",
+   "stream": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lizeradio",
+   "name": "栗子的輕音樂",
+   "url": "https://lizeradio.com/blog/",
+   "stream": "https://lizeradio.com/radio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "supreme-master-tv",
+   "name": "Supreme Master TV",
+   "url": "https://suprememastertv.com/",
+   "stream": "https://radio.suprememastertv.com/128K",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "chinese",
+    "english",
+    "hindi"
+   ],
+   "langCodes": [
+    "ar",
+    "cmn",
+    "en",
+    "es"
+   ],
+   "state": "Taipei",
+   "genre": [],
+   "votes": 1,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  }
+ ]
+}

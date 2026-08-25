@@ -1,0 +1,1748 @@
+{
+ "countryCode": "CZ",
+ "country": "Czechia",
+ "slug": "czechia",
+ "continent": "europe",
+ "stationCount": 99,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/czechia/",
+ "stations": [
+  {
+   "id": "funkstar-radio",
+   "name": "Funkstar Radio",
+   "url": "https://www.funkstar.eu/",
+   "stream": "https://funkstar.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "disco",
+    "funk"
+   ],
+   "votes": 1799,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-beat-128-aac",
+   "name": "Rádio Beat (128 AAC)",
+   "url": "https://www.radiobeat.cz/",
+   "stream": "https://icecast2.play.cz/beat128aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 1546,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-radio",
+   "name": "Rock Radio",
+   "url": "https://rockovyradio.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1423,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-blanik-morava-a-slezsko",
+   "name": "Radio Blaník Morava a Slezsko",
+   "url": "",
+   "stream": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1384,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-club-radio",
+   "name": "Dance Club Radio",
+   "url": "https://radia.cz/radio-dance-radio-info",
+   "stream": "https://ice4.abradio.cz/dance128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "trance"
+   ],
+   "votes": 681,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fed-s-trap-radio",
+   "name": "Fed's Trap Radio",
+   "url": "https://fedstrapradio.com/",
+   "stream": "https://backend.fedstrapradio.com:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Prague",
+   "genre": [
+    "edm",
+    "electronic",
+    "hip-hop"
+   ],
+   "votes": 445,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "netro-life-radio-100-8-fm",
+   "name": "Netro Life Radio 100,8 FM",
+   "url": "https://www.netroliferadio.cz/",
+   "stream": "https://icecast9.play.cz/netro-life-radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 442,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wehouseradio",
+   "name": "WeHouseRadio",
+   "url": "https://www.wehouseradio.com/",
+   "stream": "https://stream.zunradio.cz/zun3.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 321,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "evropa2-youradio-flashbacky",
+   "name": "Evropa2 Youradio Flashbacky",
+   "url": "https://evropa2.cz/",
+   "stream": "https://ice.actve.net/web-e2-flashback",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 292,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "we-house-radio-aac-high",
+   "name": "We House Radio (AAC+ High)",
+   "url": "https://www.wehouseradio.com/",
+   "stream": "https://stream.zunradio.cz/zun1.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 271,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fresh-radio-103-6",
+   "name": "Fresh radio 103.6",
+   "url": "https://www.freshradio.cz/",
+   "stream": "https://icecast.beatzone.cz/radio/8000/128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 147,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-blanik-oldies",
+   "name": "Rádio Blaník Oldies",
+   "url": "https://radioblanik.cz/",
+   "stream": "https://ice.radia.cz/oldiesradio128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 140,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-diana-retro-club",
+   "name": "Rádio Diana – Retro Club",
+   "url": "http://www.radiodiana.cz/",
+   "stream": "https://westradio.cz/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 105,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunrise-radio-czechia",
+   "name": "Sunrise Radio (Czechia)",
+   "url": "https://laut.fm/radio-dance-eu",
+   "stream": "https://stream.laut.fm/radio-dance-eu",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech",
+    "english"
+   ],
+   "langCodes": [
+    "cs",
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 85,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nostalgie",
+   "name": "Rádio Nostalgie",
+   "url": "https://www.radionostalgie.cz/",
+   "stream": "https://icecast3.play.cz/radio-nostalgie128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "classic-rock",
+    "dance",
+    "disco",
+    "oldies",
+    "pop"
+   ],
+   "votes": 83,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-radio-cz-rock",
+   "name": "Rock rádio – CZ Rock",
+   "url": "https://rockovyradio.cz/",
+   "stream": "https://ice2.radia.cz/rockzabava128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 74,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "evropa-2-aac",
+   "name": "Evropa 2 - aac",
+   "url": "https://www.evropa2.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 71,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitradio-contact",
+   "name": "Hitrádio Contact",
+   "url": "https://hitradiocontact.cz/",
+   "stream": "https://ice3.abradio.cz/hitradiocontact128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "Prague",
+   "genre": [
+    "pop"
+   ],
+   "votes": 38,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-wave-2",
+   "name": "ČRo Wave",
+   "url": "http://www.rozhlas.cz/radiowave/",
+   "stream": "https://rozhlas.stream/wave_mp3_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bojlerroom",
+   "name": "BojlerRoom",
+   "url": "http://bojlerroom.cz/",
+   "stream": "https://ice4.abradio.cz/bojler_room_128.aac",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "trance"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitradio-zlin",
+   "name": "Hitradio Zlín",
+   "url": "https://hitradiozlin.cz/",
+   "stream": "https://ice.radia.cz/radiozlin128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "Moravia",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 16,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fonlord",
+   "name": "Radio Fonlord",
+   "url": "https://a5.asurahosting.com/public/r%C3%A1dio_fonlord",
+   "stream": "https://a5.asurahosting.com:6530/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "česky"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ústecký kraj",
+   "genre": [
+    "blues",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bikers-radio-doupe",
+   "name": "BIKERS RADIO DOUPE",
+   "url": "https://motorkarskydoupe.cz/radio/",
+   "stream": "https://icecast7.play.cz/bikersradiodoupe128.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "Vysocina",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jih",
+   "name": "Rádio Jih",
+   "url": "https://www.radiojih.cz/",
+   "stream": "https://icecast6.play.cz/jih32.mp3",
+   "codec": "mp3",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "impuls-raaaadio",
+   "name": "Impuls Ráááádio",
+   "url": "https://www.impuls.cz/",
+   "stream": "https://stream.sepia.sk:8000/impuls128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pisnicka",
+   "name": "Rádio Písnička",
+   "url": "https://slagr-radio.cz/",
+   "stream": "https://stream.slagr-radio.cz/pisnicka",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "czech",
+    "slovak"
+   ],
+   "langCodes": [
+    "cs",
+    "sk"
+   ],
+   "state": "Jihočeský kraj",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deecibel-rock-radio",
+   "name": "Deecibel Rock Radio",
+   "url": "https://deecibel.com/",
+   "stream": "https://stream.deecibel.com/rock",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "slagr-radio",
+   "name": "Šlágr Rádio",
+   "url": "https://slagr-radio.cz/",
+   "stream": "https://stream.slagr-radio.cz/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech",
+    "slovak"
+   ],
+   "langCodes": [
+    "cs",
+    "sk"
+   ],
+   "state": "Jihočeský kraj",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deecibel-one-radio",
+   "name": "Deecibel One Radio",
+   "url": "https://deecibel.com/",
+   "stream": "https://stream.deecibel.com/one",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "dance",
+    "electronic",
+    "house",
+    "techno"
+   ],
+   "votes": 1,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mb",
+   "name": "Radio MB",
+   "url": "https://radiomb.cz/",
+   "stream": "https://ice3.abradio.cz/radiomb128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "2000s",
+    "90s"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-d-dur",
+   "name": "ČRo D-dur",
+   "url": "https://d-dur.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/ddur.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-jazz",
+   "name": "ČRo Jazz",
+   "url": "https://jazz.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radia-cz-fire",
+   "name": "Radia.cz - Fire",
+   "url": "https://radia.cz/",
+   "stream": "https://ice2.radia.cz/relax-fire64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [
+    "ambient"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "povidka",
+   "name": "povídka",
+   "url": "https://ice3.abradio.cz/povidka128.mp3",
+   "stream": "https://ice3.abradio.cz/povidka128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 1845,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-svoboda-ru-official-stream",
+   "name": "Radio Svoboda (ru) (official stream)",
+   "url": "https://svoboda.org/",
+   "stream": "https://stream.radiojar.com/hcrb063nn3quv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Prague",
+   "genre": [],
+   "votes": 831,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-blanik",
+   "name": "Rádio Blaník",
+   "url": "https://radioblanik.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 744,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "evropa-2-radio",
+   "name": "Evropa 2 - Radio",
+   "url": "https://www.evropa2.cz/",
+   "stream": "https://ice.actve.net/fm-evropa2-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Prague",
+   "genre": [],
+   "votes": 658,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "comedy-club-r-dio-diana",
+   "name": "Comedy Club R@dio DIANA",
+   "url": "http://www.radiodiana.cz/",
+   "stream": "https://westradio.cz/radio/8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 640,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-radio-128mp3",
+   "name": "Kiss Radio - 128MP3",
+   "url": "https://kiss.cz/",
+   "stream": "https://icecast1.play.cz/kissdelta128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 637,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-humor-2",
+   "name": "Rádio humor 2",
+   "url": "https://www.abradio.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "Prague",
+   "genre": [],
+   "votes": 470,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-radiozurnal",
+   "name": "CRo Radiozurnal",
+   "url": "https://radiozurnal.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 444,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitradio-faktor",
+   "name": "Hitrádio Faktor",
+   "url": "https://hitradiofaktor.cz/",
+   "stream": "https://ice.abradio.cz/faktor128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "Jihočeský kraj",
+   "genre": [],
+   "votes": 342,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-radiozurnal-sport",
+   "name": "ČRO Radiožurnál Sport",
+   "url": "https://rozhlas.cz/",
+   "stream": "https://rozhlas.stream/radiozurnal_sport_high.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 338,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-plus",
+   "name": "ČRo Plus",
+   "url": "http://plus.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/plus_mp3_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 262,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cesky-rozhlas-brno",
+   "name": "Český rozhlas Brno",
+   "url": "https://rozhlas.stream/brno.mp3",
+   "stream": "https://rozhlas.stream/brno.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "česky"
+   ],
+   "genre": [],
+   "votes": 253,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frekvence-1",
+   "name": "FREKVENCE 1",
+   "url": "https://www.frekvence1.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 232,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dnb-tv",
+   "name": "Rádio DNB TV",
+   "url": "http://www.abradio.cz/radio/71/drumandbass-radio-shadowbox/",
+   "stream": "https://ice3.abradio.cz/shadowbox128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 221,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cas-rock-192-kbps",
+   "name": "Rádio Čas Rock (192 kbps)",
+   "url": "https://casrock.cz/",
+   "stream": "https://icecast9.play.cz/casrock192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 215,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioparty-pl",
+   "name": "RadioParty.pl",
+   "url": "https://s2.radioparty.pl:8015/stream",
+   "stream": "https://s2.radioparty.pl:8015/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 184,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "znamka-punku",
+   "name": "Známka Punku",
+   "url": "https://radia.cz/radio-znamka-punku-playlist",
+   "stream": "https://ice.abradio.cz/znamkapunku128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 184,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-prague-international",
+   "name": "Radio Prague International",
+   "url": "https://english.radio.cz/",
+   "stream": "https://rozhlas.stream/cro7_mp3_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Central Bohemian",
+   "genre": [],
+   "votes": 181,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rus-ukr-official-stream",
+   "name": "Крым Реалии (rus, ukr) (official stream)",
+   "url": "https://ru.krymr.com/",
+   "stream": "https://stream.radiojar.com/wm9sntcpn3quv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "russian",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "ru",
+    "uk"
+   ],
+   "state": "Prague",
+   "genre": [],
+   "votes": 171,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "phonk-nation-radio",
+   "name": "Phonk Nation Radio",
+   "url": "https://phonk.plainrock127.xyz/",
+   "stream": "https://radio.mxnticek.eu/listen/phonk/128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech",
+    "english",
+    "slovak"
+   ],
+   "langCodes": [
+    "cs",
+    "cz",
+    "en",
+    "sk"
+   ],
+   "state": "Ústecký kraj",
+   "genre": [],
+   "votes": 167,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-radio-cz",
+   "name": "Dance rádio cz",
+   "url": "https://www.danceradio.cz/",
+   "stream": "https://ice.actve.net/dance-radio128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Praha",
+   "genre": [],
+   "votes": 151,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-ostrava",
+   "name": "ČRo Ostrava",
+   "url": "https://ostrava.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/ostrava_high.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "moravskoslezsko",
+   "genre": [],
+   "votes": 122,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cesky-rozhlas-jazz",
+   "name": "Cesky Rozhlas Jazz",
+   "url": "https://jazz.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/jazz_high.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 96,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-wave",
+   "name": "ČRo Wave",
+   "url": "https://wave.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/wave_mp3_256.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 92,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-vltava-flac",
+   "name": "Čro Vltava Flac",
+   "url": "https://vltava.rozhlas.cz/",
+   "stream": "https://amp.cesnet.cz:8443/cro3.flac",
+   "codec": "ogg",
+   "bitrate": 0,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 87,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-prostor",
+   "name": "Radio Prostor",
+   "url": "https://radioprostor.cz/",
+   "stream": "https://bcast.spmmedia.cz/prostor-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 87,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "evropa-2-mp3",
+   "name": "Evropa 2 - mp3",
+   "url": "https://www.evropa2.cz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 73,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-heart-radio",
+   "name": "Metal Heart Radio",
+   "url": "https://www.metalheartradio.com/cs/",
+   "stream": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 64,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-olomouc",
+   "name": "ČRo Olomouc",
+   "url": "https://olomouc.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/olomouc_low.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-koleda",
+   "name": "Rádio Koleda",
+   "url": "https://radia.cz/radia/radio-koleda",
+   "stream": "https://ice3.radia.cz/koleda_64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 39,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-vysocina",
+   "name": "CRo Vysocina",
+   "url": "https://www.mujrozhlas.cz/zive/vysocina",
+   "stream": "https://rozhlas.stream/vysocina_high.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cesky-rozhlas-ceske-budejovice",
+   "name": "Český rozhlas České Budějovice",
+   "url": "https://budejovice.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/ceske_budejovice_high.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-energic",
+   "name": "Rádio Energic",
+   "url": "https://radioenergic.cz/",
+   "stream": "https://icecast9.play.cz/energic.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "color-music-radio",
+   "name": "COLOR Music Radio",
+   "url": "http://www.radiocolor.cz/",
+   "stream": "https://icecast8.play.cz/color128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 26,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-radiozurnal-sport-stream-adhoc-2",
+   "name": "čro radiožurnál sport Stream AdHoc 2",
+   "url": "https://sport.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sazava",
+   "name": "Rádio Sázava",
+   "url": "https://radiosazava.cz/dnes.php",
+   "stream": "https://icecast8.play.cz/sazava192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zun-radio",
+   "name": "ZUN rádio",
+   "url": "https://zunradio.cz/",
+   "stream": "https://icecast9.play.cz/zun48.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-radiozurnal-sport-adhoc-stream-1",
+   "name": "čro Radiožurnál Sport AdHoc stream 1",
+   "url": "https://sport.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-samson",
+   "name": "Rádio Samson",
+   "url": "https://www.radiosamson.cz/",
+   "stream": "https://icecast2.play.cz/samsonfm128aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "worldradio",
+   "name": "WorldRadio",
+   "url": "https://worldradio.eu/#",
+   "stream": "https://worldradio100.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radia-cz-birds",
+   "name": "Radia.cz - Birds",
+   "url": "https://radia.cz/",
+   "stream": "https://ice2.radia.cz/relax-morning-birds64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitradio-osmdesatka",
+   "name": "Hitrádio Osmdesátka",
+   "url": "https://radia.cz/radia/hitradio-80tka",
+   "stream": "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bonton",
+   "name": "Radio Bonton",
+   "url": "https://www.radiobonton.cz/",
+   "stream": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-slobodna-evropa",
+   "name": "Radio Slobodna Evropa",
+   "url": "https://www.slobodnaevropa.org/",
+   "stream": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cas-rock-natvrdo",
+   "name": "Čas Rock Natvrdo",
+   "url": "https://natvrdo.casrock.cz/",
+   "stream": "https://stream.sepia.sk:8000/rnt128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitradio-devadesatka",
+   "name": "Hitrádio Devadesátka",
+   "url": "https://radia.cz/radia/hitradio-90tka",
+   "stream": "https://ice2.radia.cz/hit90128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-radio-plus-annecy",
+   "name": "LA RADIO PLUS ANNECY",
+   "url": "https://www.laradioplus.com/",
+   "stream": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "annecy",
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cro-sever",
+   "name": "ČRo Sever",
+   "url": "https://sever.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/sever_high.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ipip-cz-cherry80",
+   "name": "RADIO.IPIP.CZ: Cherry80",
+   "url": "https://www.cherry80.cz/",
+   "stream": "https://icecast.beatzone.cz/radio/8630/cherry.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "luc-radio",
+   "name": "Luc Radio",
+   "url": "https://www.lucradio.com/",
+   "stream": "https://cast1.torontocast.com:3800/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "crazyradio-cz",
+   "name": "CrazyRadio.cz",
+   "url": "http://crazyradio.cz/",
+   "stream": "https://stream.rcast.net/72851",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-o106",
+   "name": "Radio O106",
+   "url": "https://www.radioo106.cz/",
+   "stream": "https://listen.radioking.com/radio/442799/stream/497147",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "astra-radio",
+   "name": "Astra Radio",
+   "url": "https://astraradio.cz/",
+   "stream": "https://icecast.astraradio.cz/192",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chat-radio",
+   "name": "Chat Rádio",
+   "url": "https://chatujme.cz/",
+   "stream": "https://radio.chatujme.cz:8000/chatradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-prague",
+   "name": "Classic Prague",
+   "url": "https://www.classicpraha.cz/",
+   "stream": "https://icecast8.play.cz/classic128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-povadka",
+   "name": "Rádio Povádka",
+   "url": "https://radia.cz/radia/radio-povidka",
+   "stream": "https://ice3.radia.cz/povidka128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cesky-rozhlas-hradec-kralove",
+   "name": "Český rozhlas Hradec Králové",
+   "url": "https://hradec.rozhlas.cz/",
+   "stream": "https://rozhlas.stream/hradec_kralove.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radia-cz-train",
+   "name": "Radia.cz - Train",
+   "url": "https://radia.cz/",
+   "stream": "https://ice2.radia.cz/relax-train64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kiss",
+   "name": "RADIO KISS",
+   "url": "https://www.kiss.cz/",
+   "stream": "https://stream.rcs.revma.com/asn0cmvb938uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orlicko",
+   "name": "Rádio Orlicko",
+   "url": "https://www.radioorlicko.cz/",
+   "stream": "https://mediaservice.radioorlicko.cz/stream192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shinto",
+   "name": "Shinto",
+   "url": "https://radikombinator.github.io/r-k/",
+   "stream": "https://s49.myradiostream.com/8142/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "czech"
+   ],
+   "langCodes": [
+    "cs"
+   ],
+   "state": "Česko",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "genwave-radio",
+   "name": "GenWave Radio",
+   "url": "https://genwave-radio.com/public/genwave",
+   "stream": "https://genwave-radio.com/listen/genwave/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radia-cz-sea",
+   "name": "Radia.cz - Sea",
+   "url": "https://radia.cz/",
+   "stream": "https://ice2.radia.cz/relax-sea64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1",
+   "name": "Rádio 1",
+   "url": "https://www.radio1.cz/",
+   "stream": "https://stream.rcs.revma.com/stk8hrvb938uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pohadka",
+   "name": "Rádio Pohádka",
+   "url": "https://radia.cz/radia/radio-pohadka",
+   "stream": "https://ice3.radia.cz/pohadka128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

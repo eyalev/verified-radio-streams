@@ -1,0 +1,1362 @@
+{
+ "countryCode": "EC",
+ "country": "Ecuador",
+ "slug": "ecuador",
+ "continent": "americas",
+ "stationCount": 72,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/ecuador/",
+ "stations": [
+  {
+   "id": "radio-onda-positiva-94-1-fm",
+   "name": "Radio Onda Positiva 94.1 FM",
+   "url": "https://radioondapositiva.com/",
+   "stream": "https://streamingecuador.net:8011/radioondapositiva",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guayas",
+   "genre": [
+    "latin-music",
+    "merengue",
+    "music",
+    "salsa"
+   ],
+   "votes": 1530,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hcjb-la-voz-de-los-andes-89-3-fm",
+   "name": "HCJB La Voz de los Andes 89.3 FM",
+   "url": "http://radiohcjb.org/",
+   "stream": "https://streamingecuador.net:8287/hcjb",
+   "codec": "aac",
+   "bitrate": 40,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Pichincha",
+   "genre": [
+    "christian-music",
+    "music"
+   ],
+   "votes": 1156,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-guayas",
+   "name": "Radio Canela Guayas",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Guayas",
+   "genre": [
+    "merengue",
+    "pop",
+    "reggaeton",
+    "rock"
+   ],
+   "votes": 944,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-diblu",
+   "name": "Radio Diblu",
+   "url": "",
+   "stream": "https://streamingecuador.net:9002/stream",
+   "codec": "aac",
+   "bitrate": 24,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 939,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-chismosa",
+   "name": "la chismosa",
+   "url": "https://lachismosafm.ec/",
+   "stream": "https://sp.dattavolt.com/8052/stream",
+   "codec": "aac",
+   "bitrate": 40,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "cuenca",
+   "genre": [
+    "80s",
+    "rock"
+   ],
+   "votes": 620,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-elite-99-7-fm",
+   "name": "Radio Elite 99.7 FM",
+   "url": "https://radioelite997.com/",
+   "stream": "https://streamingecuador.net:8135/radioelite",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guayas",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 567,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rnc-la-mundialista-103-3-fm-aac",
+   "name": "RNC La Mundialista 103.3 FM (AAC)",
+   "url": "http://lamundialista103.com/",
+   "stream": "https://streamingecuador.net:7008/radiornc",
+   "codec": "aac",
+   "bitrate": 40,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Manabí",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 527,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-11q-104-9-fm",
+   "name": "Radio 11Q 104.9 FM",
+   "url": "https://radio11q.com/",
+   "stream": "https://streamingecuador.net:8012/radio11q",
+   "codec": "aac",
+   "bitrate": 40,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guayas",
+   "genre": [
+    "80s",
+    "90s",
+    "music",
+    "musica",
+    "pop",
+    "rock"
+   ],
+   "votes": 521,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-961-suprema-estacion",
+   "name": "La 961 - Suprema estacion",
+   "url": "https://www.la961.com/",
+   "stream": "https://dattavolt.com/8150/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "español-ecuador"
+   ],
+   "state": "azuay",
+   "genre": [
+    "bachata",
+    "cumbia",
+    "merengue"
+   ],
+   "votes": 519,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-uno-90-5",
+   "name": "Antena Uno 90.5",
+   "url": "http://www.antenauno.com/",
+   "stream": "https://dattavolt.com/8202/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "azuay",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 510,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-quito-760-am",
+   "name": "Radio Quito 760 AM",
+   "url": "https://www.ecuadoradio.ec/horarios-radio-quito",
+   "stream": "https://streamingecuador.net:8332/radioquito?1679294453918",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "español-ecuador",
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Quito",
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 429,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-platinum-fm",
+   "name": "Radio Platinum Fm",
+   "url": "https://www.ecuadoradio.ec/",
+   "stream": "https://streamingecuador.com:8160/radioplatinum",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Quito",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 402,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-voz-del-tomebamba-1070-am",
+   "name": "La Voz del Tomebamba 1070 AM",
+   "url": "https://www.lavozdeltomebamba.com/",
+   "stream": "https://streamingecuador.net:8074/lavozdeltomebamba",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "español-ecuador",
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cuenca",
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 379,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gaviota-105-1-fm",
+   "name": "Radio Gaviota 105.1 FM",
+   "url": "https://radiogaviotafm.com/",
+   "stream": "https://streamingecuador.net:9000/radiogaviota",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "El Oro",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 349,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-magica-87-7-ecuador",
+   "name": "Radio Mágica 87.7 (Ecuador)",
+   "url": "https://magica877.000webhostapp.com/index.html",
+   "stream": "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Guayaquil",
+   "genre": [
+    "80s"
+   ],
+   "votes": 333,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ultimito-mix",
+   "name": "Radio Ultimito Mix",
+   "url": "https://radioultimitomixec.blogspot.com/",
+   "stream": "https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "state": "Manabí",
+   "genre": [
+    "bachata",
+    "baladas",
+    "latin-music",
+    "merengue",
+    "pop",
+    "salsa"
+   ],
+   "votes": 286,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-pichincha-106-5-fm",
+   "name": "Radio Canela Pichincha 106.5 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradioquito",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Pichincha",
+   "genre": [
+    "musica"
+   ],
+   "votes": 216,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-el-oro-100-7-fm",
+   "name": "Radio Canela El Oro 100.7 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "El Oro",
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 209,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-106-5-fm",
+   "name": "Radio Canela 106.5 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradiotungurahua",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tungurahua",
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 140,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-voz-del-tomebamba",
+   "name": "la voz del Tomebamba",
+   "url": "https://www.lavozdeltomebamba.com/",
+   "stream": "https://streamingecuador.com:8074/lavozdeltomebamba",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 108,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-imbabura-92-7-fm",
+   "name": "Radio Canela Imbabura 92.7 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradioibarra",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Imbabura",
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 106,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "modelo-97-7-fm",
+   "name": "Modelo 97.7 FM",
+   "url": "https://modelofm.com/",
+   "stream": "https://usa3.lhdserver.es:8197/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-ecuador",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "merengue"
+   ],
+   "votes": 104,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amazonas-fm-92-1",
+   "name": "Amazonas FM 92.1",
+   "url": "https://radioamazonas.ec/",
+   "stream": "https://dattavolt.com/8346/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "music",
+    "popular"
+   ],
+   "votes": 90,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-napo-106-1-fm",
+   "name": "Radio Canela Napo 106.1 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradionapo",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Napo",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 60,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-armonia-100-1-fm",
+   "name": "Radio Armonía 100.1 FM",
+   "url": "https://armoniasuperfm.com/",
+   "stream": "https://radiohdstreaming.com/radio/8040/armonia",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 58,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-xtrema-fm",
+   "name": "Radio Xtrema FM",
+   "url": "https://www.xtremafmecuador.com/",
+   "stream": "https://s1.raudiostream.com:8004/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Tungurahua",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-chimborazo-94-5-fm",
+   "name": "Radio Canela Chimborazo 94.5 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chimborazo",
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canar-stereo-97-3-fm",
+   "name": "Cañar Stereo 97.3 FM",
+   "url": "https://www.canarstereo.com/",
+   "stream": "https://ecuamedios.net:10937/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-fm-95-3",
+   "name": "Play FM 95.3",
+   "url": "https://sucrefm.com/",
+   "stream": "https://streamingecuador.net:8008/radioplayfm",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-morona-santiago-91-7-fm",
+   "name": "Radio Canela Morona Santiago 91.7 FM",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com/stream/canelaradiomacas",
+   "codec": "aac",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "quechua",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "qu"
+   ],
+   "state": "Morona Santiago",
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 43,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "contigo-fm-104-9",
+   "name": "Contigo FM 104.9",
+   "url": "https://contigofm.live/",
+   "stream": "https://panel.innovatestream.pe:10852/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-hits"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-949",
+   "name": "super 949",
+   "url": "https://www.super949.com/",
+   "stream": "https://dattavolt.com/8028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cuenca",
+   "genre": [
+    "rock"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flama-plus-104-5-fm",
+   "name": "Flama Plus 104.5 FM",
+   "url": "https://flamaplus.com.ec/",
+   "stream": "https://streaming.viphosting.cl/8286/stream?ver=541539",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "reggaeton"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "expresiun-fm-102-9",
+   "name": "Expresiun FM 102.9",
+   "url": "https://radioexpresionfm.com/",
+   "stream": "https://usa3.lhdserver.es:8031/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "music"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-activa",
+   "name": "Radio Activa",
+   "url": "https://www.radioactiva.ec/",
+   "stream": "https://dattavolt.com/8394/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-ecuador"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maniaticaradio",
+   "name": "MANIATICARADIO",
+   "url": "https://maniaticaradio.com/",
+   "stream": "https://a7.asurahosting.com/listen/maniaticaradio/radio.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english-spanish",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "electronic",
+    "house",
+    "music",
+    "techno",
+    "trance"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melodiafm",
+   "name": "MelodiaFM",
+   "url": "https://melodiafm905.com/",
+   "stream": "https://rr5100.globalhost1.com/8260/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Tungurahua",
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alegria",
+   "name": "Radio Alegria",
+   "url": "https://radioalegriafm.com/index.html",
+   "stream": "https://rr5100.globalhost1.com:8156/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Tungurahua",
+   "genre": [
+    "bachata",
+    "merengue",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-otra-91-3-fm",
+   "name": "Radio La Otra - 91.3 FM",
+   "url": "https://web.laotrafm.com/",
+   "stream": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Quito",
+   "genre": [],
+   "votes": 3494,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-canela-pichincha",
+   "name": "Radio Canela Pichincha",
+   "url": "https://web.canelaradio.com/",
+   "stream": "https://canelaradio.makrodigital.com:9280/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Pichincha",
+   "genre": [],
+   "votes": 3327,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-america-104-5-fm",
+   "name": "Radio América 104.5 FM",
+   "url": "https://americaestereo.com/radio-america-quito.html",
+   "stream": "https://streamingecuador.com:7030/stream?1657848016283",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "español-internacional"
+   ],
+   "genre": [],
+   "votes": 2910,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los-40-ecuador",
+   "name": "Los 40 Ecuador",
+   "url": "https://www.los40.com.ec/",
+   "stream": "https://streamingecuador.com:7051/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Pichincha",
+   "genre": [],
+   "votes": 974,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-main-street-radios-ecuador-online",
+   "name": "La Main Street (Radios Ecuador Online)",
+   "url": "https://www.ecuatorianita.com/",
+   "stream": "https://radiolatina.info/9930/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "azuay",
+   "genre": [],
+   "votes": 678,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rumba",
+   "name": "Radio Rumba",
+   "url": "http://radiorumba.fm/",
+   "stream": "https://streamingecuador.net:8078/radiorumbanetwork",
+   "codec": "aac",
+   "bitrate": 40,
+   "genre": [],
+   "votes": 473,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-andina",
+   "name": "Radio Andina",
+   "url": "https://radioandinariobamba.com/",
+   "stream": "https://grupomundodigital.com:8580/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Chimborazo",
+   "genre": [],
+   "votes": 411,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "armonica-fm",
+   "name": "Armonica FM",
+   "url": "https://web.radioarmonica.com/",
+   "stream": "https://armonicafm.makrodigital.com:9570/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 331,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-nueva-unica",
+   "name": "La Nueva Unica",
+   "url": "https://radiounica945.com/",
+   "stream": "https://streamingecuador.net:8035/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 305,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-red-102-1-fm",
+   "name": "Radio La Red 102.1 FM",
+   "url": "https://lared.com.ec/",
+   "stream": "https://icecast.radiolared.com.ec/radiolared",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Pichincha",
+   "genre": [],
+   "votes": 244,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "area-deportiva",
+   "name": "area deportiva",
+   "url": "https://areadeportiva.ec/",
+   "stream": "https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español-ecuador"
+   ],
+   "state": "Pichincha",
+   "genre": [],
+   "votes": 206,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-radio-redonda-guayaquil",
+   "name": "La Radio Redonda Guayaquil",
+   "url": "https://laradioredonda.ec/",
+   "stream": "https://laredondafm.makrodigital.com:9550/stream",
+   "codec": "aac",
+   "bitrate": 40,
+   "genre": [],
+   "votes": 119,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtp-96-5-fm",
+   "name": "RTP 96.5 FM",
+   "url": "http://www.rtp.ec/",
+   "stream": "https://streamingecuador.net:8167/radiotropicana",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 100,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rcn-catolica-nacional",
+   "name": "RCN CATOLICA NACIONAL",
+   "url": "https://rcncatolica.com/",
+   "stream": "https://dattavolt.com/8358/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "machdeportes",
+   "name": "machdeportes",
+   "url": "https://machdeportes.com.ec/",
+   "stream": "https://ss.ecuastreamhd.com:8186/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 86,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pm-radio-quevedo",
+   "name": "PM RADIO Quevedo",
+   "url": "https://www.pmradioquevedo.com/",
+   "stream": "https://as100.globalhost1.com/8010/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 80,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-eres",
+   "name": "Radio Eres",
+   "url": "https://radioeres.com/",
+   "stream": "https://sv70.ecuaradiotv.net:8000/eres933",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pichincha",
+   "name": "Radio Pichincha",
+   "url": "https://radiopichincha.com/",
+   "stream": "https://icecast.radiopichincha.com/radiopichincha",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "esapa"
+   ],
+   "state": "Pichincha",
+   "genre": [],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "contigo-fm",
+   "name": "Contigo Fm",
+   "url": "https://contigofm.live/",
+   "stream": "https://panel.innovatestream.pe:10852/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-ecuador"
+   ],
+   "genre": [],
+   "votes": 66,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "complice-fm-99-7-fm",
+   "name": "Cómplice FM 99.7 FM",
+   "url": "https://complicefm.com/",
+   "stream": "https://dattavolt.com/8422/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 58,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-mundo-98-1-fm",
+   "name": "FM MUNDO 98.1 FM",
+   "url": "https://fmmundo.com/",
+   "stream": "https://streamingecuador.com:9810/stream",
+   "codec": "aac",
+   "bitrate": 40,
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forever-radio-92-5",
+   "name": "Forever Radio 92.5",
+   "url": "https://www.radioforever925.com/",
+   "stream": "https://streamingecuador.net:8014/forever",
+   "codec": "aac",
+   "bitrate": 40,
+   "langs": [
+    "espaňol"
+   ],
+   "state": "Guayaquil",
+   "genre": [],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fb-radio-105-7-fm",
+   "name": "FB Radio 105.7 FM",
+   "url": "https://fbradio.ec/",
+   "stream": "https://streamingecuador.com:7032/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 40,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dj-s-retro",
+   "name": "Radio DJ's Retro",
+   "url": "https://radio.djsretro.com/",
+   "stream": "https://www.streamingrv.com:8000/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ecos-de-ruminahui-88-9-fm",
+   "name": "RADIO ECOS DE RUMIÑAHUI 88.9 FM",
+   "url": "https://www.ecosderuminahui.gob.ec/",
+   "stream": "https://streamingecuador.com:9040/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 33,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brisa-azul-fm",
+   "name": "Brisa Azul FM",
+   "url": "https://radiobrisaazul.com/inicio/",
+   "stream": "https://streaming01.radiosenlinea.com.ar/8196/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-evolucion",
+   "name": "Radio Evolución",
+   "url": "https://www.evolucion.ec/",
+   "stream": "https://stream.gradio.net/evolucion",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Quito",
+   "genre": [],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-impacto-107-9",
+   "name": "RADIO IMPACTO 107.9",
+   "url": "https://radioimpacto.com.ec/",
+   "stream": "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rumba-107-3-fm",
+   "name": "Radio Rumba 107.3 FM",
+   "url": "https://radiorumba.fm/",
+   "stream": "https://streamingecuador.net:8078/RadioRumba",
+   "codec": "aac",
+   "bitrate": 40,
+   "genre": [],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio11q-104-9-fm",
+   "name": "Radio11Q 104.9 FM",
+   "url": "https://radio11q.com/#noticias",
+   "stream": "https://streamingecuador.net:8012/stream",
+   "codec": "aac",
+   "bitrate": 40,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "turbo-fm-93-3-fm-tungurahua",
+   "name": "TURBO FM - 93.3 FM TUNGURAHUA",
+   "url": "https://laturbofm.com/",
+   "stream": "https://streamingecuador.com/stream/radioturboambato",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la99radio",
+   "name": "La99Radio",
+   "url": "https://www.la99radio.com/",
+   "stream": "https://cast10.plugstreaming.com/stream/la99fm",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-turbo-106-9-fm",
+   "name": "Radio Turbo 106.9 FM",
+   "url": "https://laturbofm.com/",
+   "stream": "https://streamingecuador.com/stream/radioturbogye",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-27-electro",
+   "name": "Radio 27 Electro",
+   "url": "https://radio.franklinsandoval.com/",
+   "stream": "https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "countryCode": "SG",
+ "country": "Singapore",
+ "slug": "singapore",
+ "continent": "asia",
+ "stationCount": 26,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/singapore/",
+ "stations": [
+  {
+   "id": "987fm",
+   "name": "987FM",
+   "url": "https://www.melisten.sg/radio/987",
+   "stream": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Singapore",
+   "genre": [
+    "music"
+   ],
+   "votes": 781,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "singapore-chinese-pop-yes-fm-933",
+   "name": "Singapore Chinese POP YES FM 933",
+   "url": "https://www.melisten.sg/radio/yes-933/",
+   "stream": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 347,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gold-905",
+   "name": "GOLD 905",
+   "url": "https://www.melisten.sg/radio/gold-905?al=1&ap=1&c=905fm",
+   "stream": "https://22403.live.streamtheworld.com/GOLD905_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 326,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yes-933",
+   "name": "Yes 933",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 307,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "987",
+   "name": "987",
+   "url": "https://www.melisten.sg/radio/987",
+   "stream": "https://14033.live.streamtheworld.com/987FM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 249,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ria-897",
+   "name": "RIA 897",
+   "url": "https://www.melisten.sg/radio/ria-897",
+   "stream": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 201,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kiss92",
+   "name": "kiss92",
+   "url": "https://www.kiss92.sg/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 183,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beam-fm",
+   "name": "Beam FM",
+   "url": "https://x.com/beamFmLive",
+   "stream": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "power-98-love-songs",
+   "name": "Power 98 Love Songs",
+   "url": "https://camokakis.sg/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 574,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "love-972",
+   "name": "LOVE 972",
+   "url": "https://www.melisten.sg/radio/love-972",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 452,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "oli-96-8-fm",
+   "name": "Oli 96.8 FM",
+   "url": "https://www.melisten.sg/radio/oli968?c=968fm",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "genre": [],
+   "votes": 429,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "capital-958",
+   "name": "CAPITAL 958",
+   "url": "https://www.melisten.sg/radio/capital-958",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 385,
+   "clicks": 21,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cna-938",
+   "name": "CNA 938",
+   "url": "http://melisten.sg/cna938",
+   "stream": "https://22893.live.streamtheworld.com/938NOW_SC",
+   "codec": "mp3",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 304,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yes-933-2",
+   "name": "YES 933",
+   "url": "https://www.melisten.sg/radio/yes-933",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 246,
+   "clicks": 30,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "class-95",
+   "name": "CLASS 95",
+   "url": "https://www.melisten.sg/radio/class-95",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 198,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "one-fm-91-3",
+   "name": "One FM 91.3",
+   "url": "https://www.onefm.sg/",
+   "stream": "https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 177,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "warna-942",
+   "name": "WARNA 942",
+   "url": "https://www.melisten.sg/radio/warna-942",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "malay"
+   ],
+   "langCodes": [
+    "ms"
+   ],
+   "genre": [],
+   "votes": 141,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "symphony-924",
+   "name": "Symphony 924",
+   "url": "https://www.melisten.sg/radio/symphony-924",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 73,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "money-fm-89-3",
+   "name": "Money FM 89.3",
+   "url": "https://www.moneyfm893.sg/",
+   "stream": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 71,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-melody-with-brother-bjorn",
+   "name": "Radio Melody with Brother Bjorn",
+   "url": "https://www.rmelody.net/",
+   "stream": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bible-witness-web-radio",
+   "name": "Bible Witness Web Radio",
+   "url": "https://biblewitness.com/bwwr/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 44,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "axr-manila",
+   "name": "AXR Manila",
+   "url": "https://www.axr.online/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "88-3jia-cantopop-best-of-all-time-cantonese-song",
+   "name": "88.3JIA Cantopop - Best of All Time Cantonese Song",
+   "url": "https://kakee.sg/",
+   "stream": "https://22253.live.streamtheworld.com/HARRYS_S02.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 42,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ufm-1003-mp3",
+   "name": "UFM 1003 (MP3)",
+   "url": "https://www.ufm1003.sg/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 39,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "indiego",
+   "name": "indiego",
+   "url": "https://www.melisten.sg/radio/indiego",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

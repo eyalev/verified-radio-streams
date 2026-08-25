@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="Latvia" tvg-genre="classic-hits,hits",Ретро FM Рига (Retro FM)
+https://live.retrofm.lv/retrofmlatvia
+#EXTINF:-1 group-title="Latvia" tvg-genre="pop",Авторадио Латвия
+https://live.relaxfm.lv/03
+#EXTINF:-1 group-title="Latvia" tvg-genre="pop-music",TOP radio
+https://topradio.live.advailo.com/topradio/mp3/icecast.audio
+#EXTINF:-1 group-title="Latvia" tvg-genre="jazz",XO.FM
+https://live.xo.fm/xofm128
+#EXTINF:-1 group-title="Latvia" tvg-genre="chillout,downtempo,electronic",Nordic Chillout Radio
+https://play.radioking.io/nordic-chillout-radio/736489
+#EXTINF:-1 group-title="Latvia" tvg-genre="classic-rock",Radio SWH LV
+https://live.radioswh.lv:8443/swh_lv
+#EXTINF:-1 group-title="Latvia" tvg-genre="pop,rock",Radio 7
+https://listen.radio7.lv:2053/Radio7
+#EXTINF:-1 group-title="Latvia" tvg-genre="folk,jazz,pop",Radio Melodija
+https://live.relaxfm.lv/08
+#EXTINF:-1 group-title="Latvia" tvg-genre="pop",Njoyradio
+https://live.njoyradio.lv/02
+#EXTINF:-1 group-title="Latvia" tvg-genre="dance,pop",Mix FM 102,7
+https://live.relaxfm.lv/07
+#EXTINF:-1 group-title="Latvia" tvg-genre="folk,pop-music,rock",StarFM
+https://live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1 group-title="Latvia" tvg-genre="chillout,lounge,smooth-jazz",Your City Radio
+https://c34.radioboss.fm:8234/stream
+#EXTINF:-1 group-title="Latvia" tvg-genre="dance,house,pop,trance",gradio.lv ONE
+https://stream.gradio.lv/gradio-one.mp4a
+#EXTINF:-1 group-title="Latvia" tvg-genre="dance,house,pop,trance",NewDanceRadio
+https://stream.newdanceradio.lv/mp3_192
+#EXTINF:-1 group-title="Latvia",LRMAROCKRADIO
+https://c22.radioboss.fm:18318/stream
+#EXTINF:-1 group-title="Latvia",Skonto
+https://stream.radioskonto.lv:8443/stereo
+#EXTINF:-1 group-title="Latvia",Skonto Plus
+https://stream.radioskontoplus.lv:8443/st128
+#EXTINF:-1 group-title="Latvia",Relax
+https://live.relaxfm.lv/02
+#EXTINF:-1 group-title="Latvia",Radio SWH+
+https://live.radioswh.lv:8443/plusmp3
+#EXTINF:-1 group-title="Latvia",Radio Roks
+https://live.relaxfm.lv/06
+#EXTINF:-1 group-title="Latvia",EHR
+https://stream.ehrhiti.lv:8000/ehr.aac
+#EXTINF:-1 group-title="Latvia",Latvijas Kristīgais Radio
+https://radio.lkr.lv/;?type=http&nocache=40
+#EXTINF:-1 group-title="Latvia",SuperHits
+https://stream.ehrhiti.lv:8000/Stream_21.aac
+#EXTINF:-1 group-title="Latvia",Retro FM Latvija
+https://stream.ehrhiti.lv:8000/Stream_RE.aac
+#EXTINF:-1 group-title="Latvia",Latviešu hiti
+https://stream.ehrhiti.lv:8000/Stream_22.aac
+#EXTINF:-1 group-title="Latvia",Chillax FM
+https://streams.chillaxfm.lv/chillaxfm
+#EXTINF:-1 group-title="Latvia",Your City Padio
+https://c28.radioboss.fm:18234/stream
+#EXTINF:-1 group-title="Latvia",Tīrkultūra
+https://s3.radio.co/s216811754/listen
+#EXTINF:-1 group-title="Latvia",Nordic Chillout Indie
+https://listen.radioking.com/radio/768542/stream/835766
+#EXTINF:-1 group-title="Latvia",Retro FM 70s 80s 90s
+https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3
+#EXTINF:-1 group-title="Latvia",Chillax
+https://streams.chillaxfm.lv/chillax
+#EXTINF:-1 group-title="Latvia",Radio TEV
+https://stream.radiotev.lv:8443/radiov
+#EXTINF:-1 group-title="Latvia",Retro FM Disco
+https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3
+#EXTINF:-1 group-title="Latvia",Divu Krastu Radio
+https://live.dkradio.lv/01
+#EXTINF:-1 group-title="Latvia",Radio Viens
+https://radioviens.lv/live

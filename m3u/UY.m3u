@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="Uruguay" tvg-genre="popular",Radio Pipí Cucú
+https://comodin.uy/radio/8000/320.mp3
+#EXTINF:-1 group-title="Uruguay" tvg-genre="instrumental,jazz,music",Babel
+https://radios.iwstreaming.uy/8030/stream
+#EXTINF:-1 group-title="Uruguay" tvg-genre="dance,reggaeton,rock",Concierto FM 95.1
+https://conectperu.com/8012/stream
+#EXTINF:-1 group-title="Uruguay" tvg-genre="alternative,musica,rock",Azul FM 101.9
+https://azul-2.nty.uy/
+#EXTINF:-1 group-title="Uruguay" tvg-genre="oldies,pop,rock",FM HIT 90.3 Uruguay
+https://hit-1.nty.uy/stream
+#EXTINF:-1 group-title="Uruguay" tvg-genre="classical",Zorrilla de San Martin
+https://server-usa2.radioseninternet.net/9312/stream
+#EXTINF:-1 group-title="Uruguay" tvg-genre="music",Oceano FM
+https://oceano-2.nty.uy/
+#EXTINF:-1 group-title="Uruguay" tvg-genre="pop,reggaeton,rock",102.3 FM CORONILLA
+https://streaming01.shockmedia.com.ar/9184/stream
+#EXTINF:-1 group-title="Uruguay" tvg-genre="musica",Laser FM
+https://server.laradio.online/proxy/eduardo_correa?mp=/stream
+#EXTINF:-1 group-title="Uruguay",Fm Inolvidable 93.1
+https://inolvidable-2.nty.uy/
+#EXTINF:-1 group-title="Uruguay",El Espectador 810
+https://espectador-1.nty.uy/
+#EXTINF:-1 group-title="Uruguay",Radio Uruguay 1050
+https://radios.iwstreaming.uy/8036/stream
+#EXTINF:-1 group-title="Uruguay",970 Universal
+https://970universal-3.nty.uy/
+#EXTINF:-1 group-title="Uruguay",Clásica 650 AM
+https://radios.iwstreaming.uy/8032/stream
+#EXTINF:-1 group-title="Uruguay",Sarandi 690
+https://radiolatina.live:10977/sarandi
+#EXTINF:-1 group-title="Uruguay",Emisora del Sur
+https://radios.iwstreaming.uy/8034/stream
+#EXTINF:-1 group-title="Uruguay",Metropolis 104.9
+https://metropolis-web-1.nty.uy/
+#EXTINF:-1 group-title="Uruguay",Del Sol FM
+https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0
+#EXTINF:-1 group-title="Uruguay",CX 580 Radio Rural
+https://radiolatina.live/9206/stream
+#EXTINF:-1 group-title="Uruguay",Radio Pipí Cucú (128 kbps)
+https://comodin.uy/radio/8000/128.mp3
+#EXTINF:-1 group-title="Uruguay",Radio Carmelo
+https://server.laradio.online/proxy/martin_barragan05?mp=/stream
+#EXTINF:-1 group-title="Uruguay",CX 46 Radio America
+https://america-2.nty.uy/stream

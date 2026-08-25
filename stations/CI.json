@@ -1,0 +1,203 @@
+{
+ "countryCode": "CI",
+ "country": "Côte d’Ivoire",
+ "slug": "cote-divoire",
+ "continent": "africa",
+ "stationCount": 10,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/cote-divoire/",
+ "stations": [
+  {
+   "id": "africa-radio-abidjan",
+   "name": "Africa Radio Abidjan",
+   "url": "https://www.africaradio.com/",
+   "stream": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 293,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "skyrock-abidjan",
+   "name": "Skyrock Abidjan",
+   "url": "https://skyrock.fm/",
+   "stream": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 199,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wavemaster-radio",
+   "name": "WaveMaster Radio",
+   "url": "https://wavemaster.diskstation.me/public/wavemaster_radio",
+   "stream": "https://wavemaster.diskstation.me/listen/wavemaster_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Lagune",
+   "genre": [
+    "hip-hop",
+    "jazz",
+    "r&b",
+    "zouk"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-maria-ivory-coast",
+   "name": "Radio Maria Ivory Coast",
+   "url": "https://www.radiomaria.ci/",
+   "stream": "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 585,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "life-radio-cote-d-ivoire",
+   "name": "Life radio Côte d’Ivoire",
+   "url": "https://liferadio.ci/",
+   "stream": "https://cast4.asurahosting.com/proxy/life/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 416,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "afrobeat-international",
+   "name": "Afrobeat international",
+   "url": "https://fr.welove.radio/radio/afrobeat-inter/",
+   "stream": "https://listen.radioking.com/radio/397789/stream/449770",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 209,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-jam",
+   "name": "Radio Jam",
+   "url": "http://www.radiojam.biz/",
+   "stream": "https://listen.radioking.com/radio/61201/stream/98566",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 199,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 63,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radioagonshu",
+   "name": "RadioAgonshu",
+   "url": "https://bouddhismeagonshu.org/",
+   "stream": "https://stream10.vestaradio.com/RadioAgonshu",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pulsar-katiola",
+   "name": "Radio Pulsar Katiola",
+   "url": "https://radiopulsarkatiola.vestaradio.eu/",
+   "stream": "https://stream10.vestaradio.com/RADIO-PULSAR-KATIOLA",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

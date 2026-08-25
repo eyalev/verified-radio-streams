@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bolivia" tvg-genre="90s,cumbia",Radio Cumbia 90s
+https://emiteradio.com/proxy/cumbia90s?mp=/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="cumbia",Radio Gigante Bolivia
+https://cloudstream2032.conectarhosting.com:7311/;
+#EXTINF:-1 group-title="Bolivia" tvg-genre="cumbia,pop",Radio San Rafael 92.5 FM
+https://guri.tepuyserver.net:7098/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="pop,rock",Stereo97
+https://stream.consultoradas.com/8340/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="80s,90s,classic-hits,classic-rock,latin-music,latin-pop,pop,rock",Eres Radio 98.5 FM
+https://sp5.servidorrprivado.com/8789/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="metal,pop,rap,rock",El Fin del Silencio
+https://servidor24-1.brlogic.com:7302/live
+#EXTINF:-1 group-title="Bolivia" tvg-genre="80s,90s,classic-hits,classic-rock,latin-music,latin-pop,pop,rock",Radio Ritmo 97.3 FM
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac
+#EXTINF:-1 group-title="Bolivia" tvg-genre="2000s,70s,80s,90s,classic-hits,classic-rock,latin-music,latin-pop,pop,pop-rock",Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1 group-title="Bolivia" tvg-genre="2000s,80s,90s,classic-hits,classic-rock,latin-music,latin-pop,pop,rock",Diana D 102.1 FM
+https://cesarradio.realserver.es/listen/diana_d_/radio.mp3
+#EXTINF:-1 group-title="Bolivia" tvg-genre="musica",Melodía
+https://stream.consultoradas.com/8244/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="adult-contemporary,classic-hits,hits,music,pop",Ciudad Radio 101.5 FM
+https://emiteradio.com/proxy/monteroradio?mp=/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="pop",Radio Pop - Red Uyuni
+https://emiteradio.com/proxy/boliviapop?mp=/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="oldies",Radio Oldies - Red Uyuni
+https://emiteradio.com/proxy/clasicosingles?mp=/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="salsa",Radio Activa Guanay 105.4 Fm
+https://sonic.dattassd.com:10902/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="dance,pop",Animax Radio
+https://sc.host-live.com:8150/stream
+#EXTINF:-1 group-title="Bolivia" tvg-genre="adult-contemporary,jazz,pop-rock,rock,soul",ZetaxWorld Radio
+https://radio.zetaxworld.xyz/stream.mp3
+#EXTINF:-1 group-title="Bolivia",ATB Radio
+https://streamingenbolivia.com/8006/stream
+#EXTINF:-1 group-title="Bolivia",Radio Chacaltaya
+https://cast6.asurahosting.com/proxy/irfradio/stream
+#EXTINF:-1 group-title="Bolivia",Red Uyuni: Radio Recuerdos
+https://emiteradio.com/proxy/uyuni2?mp=/stream
+#EXTINF:-1 group-title="Bolivia",Radio Disney - La Paz FM 102.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney
+#EXTINF:-1 group-title="Bolivia",Radio Fides Cochabamba
+https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1
+#EXTINF:-1 group-title="Bolivia",Radio Folklorica Uyuni
+https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1 group-title="Bolivia",Fm La Paz 96.7
+https://spanel.gcomstreaming.com/8018/stream
+#EXTINF:-1 group-title="Bolivia",Radio San Gabriel
+https://spanel.gcomstreaming.com:7004/;
+#EXTINF:-1 group-title="Bolivia",Radio Kollasuyo FM
+https://azura2.bitstreaming.net:8000/radio128.aac
+#EXTINF:-1 group-title="Bolivia",Radio San Gabriel AM 620 KHz
+https://spanel.gcomstreaming.com:7003/;
+#EXTINF:-1 group-title="Bolivia",Radio Qhana FM98.5
+https://cast6.asurahosting.com/proxy/radiost4/stream
+#EXTINF:-1 group-title="Bolivia",Radio Éxito (Bolivia)
+https://cast6.my-control-panel.com/proxy/radiostr/;
+#EXTINF:-1 group-title="Bolivia",Cristo Viene La Red
+https://stream20.usastreams.com:7000/stream
+#EXTINF:-1 group-title="Bolivia",esLatino Radio
+https://spanel.gcomstreaming.com/8030/stream
+#EXTINF:-1 group-title="Bolivia",Zoy Milton
+https://icepool.silvacast.com/GAYFM.mp3
+#EXTINF:-1 group-title="Bolivia",Maritima fm
+https://spanel.gcomstreaming.com/8004/stream
+#EXTINF:-1 group-title="Bolivia",Radio Fides Tarija
+https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
+#EXTINF:-1 group-title="Bolivia",Radio Acer
+https://live.turadiotv.com/8004/stream
+#EXTINF:-1 group-title="Bolivia",RadioSat FM - Bolivia
+https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3
+#EXTINF:-1 group-title="Bolivia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Bolivia",RKC RADIO
+https://sonic.dattassd.com/8198/stream
+#EXTINF:-1 group-title="Bolivia",Estelar Fm
+https://a3.asurahosting.com:6080/radio.mp3
+#EXTINF:-1 group-title="Bolivia",FM La Paz
+https://spanel.gcomstreaming.com:7008/stream
+#EXTINF:-1 group-title="Bolivia",Radio GAM Viacha
+https://server1.fex.red/letanias/stream
+#EXTINF:-1 group-title="Bolivia",Radio Mega Rurrenabaque
+https://live.turadiotv.com/8030/stream

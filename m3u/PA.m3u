@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="Panama" tvg-genre="pop,pop-music,pop-rock",Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Panama" tvg-genre="merengue,salsa",Estéreo Azul 100.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac
+#EXTINF:-1 group-title="Panama" tvg-genre="bachata,reggae,reggaeton,salsa",Fabulosa Estéreo 100.5 FM
+https://www.streaming507.net:8130/stream
+#EXTINF:-1 group-title="Panama" tvg-genre="2000s,90s,hits,musica",Antena 8 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac
+#EXTINF:-1 group-title="Panama" tvg-genre="classic-rock",Omega Stereo
+https://www.streaming507.net:8048/stream
+#EXTINF:-1 group-title="Panama" tvg-genre="music",FM Corazón 102.5
+https://sp4.colombiatelecom.com.co/8006/stream
+#EXTINF:-1 group-title="Panama" tvg-genre="80s,90s,pop",Beat Life Panama
+https://cast4.asurahosting.com/proxy/ondabra2/stream
+#EXTINF:-1 group-title="Panama",Rumba FM
+https://laradiossl.online:10355/;stream.nsv
+#EXTINF:-1 group-title="Panama",Ultra Stereo 98.9 FM
+https://www.streaming507.net:8134/stream
+#EXTINF:-1 group-title="Panama",TropiQ
+https://www.streaming507.net:8140/stream
+#EXTINF:-1 group-title="Panama",LA TIPIK
+https://stream.mixesurbanospty.com:8090/tipik.mp3
+#EXTINF:-1 group-title="Panama",Magic FM
+https://laradio.stream/proxy/magicfm/stream
+#EXTINF:-1 group-title="Panama",AL TOPE RADIO
+https://server.laradio.online/proxy/edwin_chacon?mp=/stream
+#EXTINF:-1 group-title="Panama",RADIO MARIA PANAMA
+https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream
+#EXTINF:-1 group-title="Panama",Original Stereo 90.7 FM
+https://original.radioca.st/;
+#EXTINF:-1 group-title="Panama",YXY
+https://sp4.colombiatelecom.com.co:8006/stream
+#EXTINF:-1 group-title="Panama",Okey 96.3 FM
+https://icy.cloudrad.io/5b3fc6b1
+#EXTINF:-1 group-title="Panama",Dinamix fm
+https://jcbroadcast.org:8000/dinamixfm
+#EXTINF:-1 group-title="Panama",la mega
+https://usest-sp1.golivestream.net/8022/stream
+#EXTINF:-1 group-title="Panama",Super Q Panama
+https://sqserver.superqpanama.net:8005/superqpanama

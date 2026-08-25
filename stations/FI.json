@@ -1,0 +1,1414 @@
+{
+ "countryCode": "FI",
+ "country": "Finland",
+ "slug": "finland",
+ "continent": "europe",
+ "stationCount": 76,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/finland/",
+ "stations": [
+  {
+   "id": "sveriges-radio-sr-sisuradio",
+   "name": "Sveriges Radio - SR Sisuradio",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/finska-aac-320",
+   "codec": "aac",
+   "bitrate": 288,
+   "format": "music",
+   "langs": [
+    "finnish",
+    "swedish"
+   ],
+   "langCodes": [
+    "fi",
+    "sv"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 716,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ylex",
+   "name": "YleX",
+   "url": "https://www.ylex.fi/",
+   "stream": "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 546,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "doubleclap-radio",
+   "name": "Doubleclap Radio",
+   "url": "https://doubleclap.dance/",
+   "stream": "https://s3.radio.co/scfd7273b2/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "finnish"
+   ],
+   "langCodes": [
+    "en",
+    "fi"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "lounge",
+    "trance"
+   ],
+   "votes": 538,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "popfm",
+   "name": "POPfm",
+   "url": "https://www.popfm.fi/pop/home",
+   "stream": "https://stream.madmenmedia.se/popfm",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 207,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrj",
+   "name": "NRJ",
+   "url": "https://radioplay.fi/nrj",
+   "stream": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [
+    "pop"
+   ],
+   "votes": 206,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova",
+   "name": "Radio Nova",
+   "url": "https://radioplay.fi/radio-nova",
+   "stream": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [
+    "pop"
+   ],
+   "votes": 182,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-klassinen",
+   "name": "Yle Klassinen",
+   "url": "https://yle.fi/aihe/klassinen",
+   "stream": "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 112,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "basso",
+   "name": "Basso",
+   "url": "https://radioplay.fi/basso/",
+   "stream": "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "rap"
+   ],
+   "votes": 84,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss",
+   "name": "Kiss",
+   "url": "https://radioplay.fi/kiss",
+   "stream": "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [
+    "pop"
+   ],
+   "votes": 83,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ysari",
+   "name": "Ysäri",
+   "url": "https://radioplay.fi/ysari",
+   "stream": "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [
+    "90s",
+    "pop"
+   ],
+   "votes": 74,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top51",
+   "name": "TOP51",
+   "url": "https://radioplay.fi/top51/",
+   "stream": "https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tuottaja1",
+   "name": "Radio Tuottaja1",
+   "url": "https://kaupunkikanava.fi/",
+   "stream": "https://kaupunkiradio.radiotaajuus.fi:9013/radio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sea-fm",
+   "name": "Sea FM",
+   "url": "https://www.seafm.fi/",
+   "stream": "https://s3.myradiostream.com/4976/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "top-40"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "roll-fm",
+   "name": "Roll FM",
+   "url": "https://www.rollfm.fi/",
+   "stream": "https://rollfm.online/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [
+    "classic-rock",
+    "country",
+    "rock"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rondo-classic-klasu-pro",
+   "name": "Rondo Classic Klasu Pro",
+   "url": "https://rondo.fi/",
+   "stream": "https://iradio.fi/klasupro.flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rondo-classic-klasu",
+   "name": "Rondo Classic Klasu",
+   "url": "https://rondo.fi/",
+   "stream": "https://iradio.fi/klasu.flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-city",
+   "name": "Radio City",
+   "url": "https://radioplay.fi/radio-city",
+   "stream": "https://streaming.radioplay.fi/fi_radiocity_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ida-radio",
+   "name": "IDA Radio",
+   "url": "https://www.idaidaida.net/",
+   "stream": "https://broadcast.idaidaida.net:8000/stream",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [
+    "alternative",
+    "electronic"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pride-radio",
+   "name": "Pride Radio",
+   "url": "https://radioplay.fi/pride-radio",
+   "stream": "https://streaming.radioplay.fi/fi_pride_128.mp3",
+   "codec": "aac",
+   "bitrate": 68,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "National (Finland)",
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-soho",
+   "name": "Radio Soho",
+   "url": "https://radiosoho.fi/",
+   "stream": "https://sohostream.djonline.fi:8008/radio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Pirkanmaa",
+   "genre": [
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "suomirap",
+   "name": "SuomiRap",
+   "url": "https://radioplay.fi/suomirap",
+   "stream": "https://streaming.radioplay.fi/fi_suomirap_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "National (Finland)",
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "finnradio",
+   "name": "FinnRadio",
+   "url": "https://finnradio.net/",
+   "stream": "https://servidor39-5.brlogic.com:7076/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Suomi",
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 2,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-auran-aallot",
+   "name": "Radio Auran Aallot",
+   "url": "https://radioplay.fi/auran-aallot",
+   "stream": "https://streaming.radioplay.fi/fi_auranaallot_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Southwest Finland (Varsinais-Suomi)",
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-classic",
+   "name": "Radio Classic",
+   "url": "https://radioplay.fi/radio-classic",
+   "stream": "https://streaming.radioplay.fi/fi_classic_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "National (Finland)",
+   "genre": [
+    "classical",
+    "instrumental"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "karjalainen-syke",
+   "name": "Karjalainen Syke",
+   "url": "https://www.karjalainensyke.fi/",
+   "stream": "https://radio.diks.fi/karjalainensyke",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Pohjois-Karjala",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mega",
+   "name": "Radio Mega",
+   "url": "https://radioplay.fi/radio-mega",
+   "stream": "https://streaming.radioplay.fi/fi_radiomega_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Northern Ostrobothnia (Pohjois-Pohjanmaa)",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tekoalyradio",
+   "name": "Tekoälyradio",
+   "url": "https://radioplay.fi/tekoalyradio",
+   "stream": "https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "National (Finland)",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vomba-fm",
+   "name": "Vömba FM",
+   "url": "https://vombafm.fi/",
+   "stream": "https://c4.radioboss.fm:18123/live",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "estonian"
+   ],
+   "langCodes": [
+    "et"
+   ],
+   "state": "Suomi",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-voima",
+   "name": "Radio Voima",
+   "url": "https://www.radiovoima.fi/",
+   "stream": "https://cast2.radiovoima.fi/voima.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 335,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jarviradio",
+   "name": "Järviradio",
+   "url": "https://www.jarviradio.fi/",
+   "stream": "https://jarviradio.radiotaajuus.fi:9000/jr",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "finish"
+   ],
+   "genre": [],
+   "votes": 280,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-santa-claus",
+   "name": "Radio Santa Claus",
+   "url": "http://www.radiosantaclaus.com/",
+   "stream": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Uusimaa",
+   "genre": [],
+   "votes": 274,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tick-tock-radio-1950",
+   "name": "Tick Tock Radio - 1950",
+   "url": "https://ticktock.radio/",
+   "stream": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 271,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-helsinki-98-5-mhz",
+   "name": "Radio Helsinki 98,5 Mhz",
+   "url": "https://www.radiohelsinki.fi/",
+   "stream": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1787325930&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 219,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgia",
+   "name": "Nostalgia",
+   "url": "https://radioplay.fi/radio-nostalgia",
+   "stream": "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 63,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [],
+   "votes": 203,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-vega-osterbotten",
+   "name": "Yle Vega Österbotten",
+   "url": "https://arenan.yle.fi/radio/program/yle-vega?_c=radio-vega-osterbotten",
+   "stream": "https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 181,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yleradiosuomitampere",
+   "name": "YleRadioSuomiTampere",
+   "url": "https://areena.yle.fi/audio/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-tampere",
+   "stream": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Pirkanmaa",
+   "genre": [],
+   "votes": 176,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kasari",
+   "name": "Kasari",
+   "url": "https://radioplay.fi/kasari/",
+   "stream": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 132,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-jyvaskyla",
+   "name": "YLE radio Suomi, Jyväskylä",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-jyvaskyla",
+   "stream": "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Keski-Suomi",
+   "genre": [],
+   "votes": 116,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-mikkeli",
+   "name": "Yle Radio Suomi, Mikkeli",
+   "url": "https://areena.yle.fi/audio/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-mikkeli",
+   "stream": "https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Etelä-Savo",
+   "genre": [],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "savon-aallot",
+   "name": "Savon Aallot",
+   "url": "https://www.savonaallot.fi/",
+   "stream": "https://cast.savonaallot.fi/savonaallot",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-keskisuomalainen",
+   "name": "Radio Keskisuomalainen",
+   "url": "https://www.radiokeskisuomalainen.fi/",
+   "stream": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "finland",
+    "finnish",
+    "keski-suomi"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Keski-Suomi",
+   "genre": [],
+   "votes": 58,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tampereen-kiakkoradio-tappara",
+   "name": "Tampereen Kiakkoradio: Tappara",
+   "url": "https://kiakkoradio.fi/",
+   "stream": "https://st.downtime.fi/kiakko-tappara.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Tampere",
+   "genre": [],
+   "votes": 56,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-hameenlinna",
+   "name": "YLE Radio Suomi Hämeenlinna",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-hameenlinna",
+   "stream": "https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Häme",
+   "genre": [],
+   "votes": 51,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-pori",
+   "name": "Yle Radio Suomi - Pori",
+   "url": "https://areena.yle.fi/audio/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-pori",
+   "stream": "https://icecast.live.yle.fi/radio/YlePori/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-vega-vastnyland",
+   "name": "Yle Vega Västnyland",
+   "url": "https://arenan.yle.fi/poddar/program/yle-vega?_c=radio-vega-vastnyland",
+   "stream": "https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-patmos",
+   "name": "Radio Patmos",
+   "url": "https://www.patmos.fi/radio-patmos/",
+   "stream": "https://s3.yesstreaming.net:7011/radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alands-radio",
+   "name": "Ålands Radio",
+   "url": "https://alandsradio.ax/",
+   "stream": "https://stream.alandsradio.ax/stream.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-kuopio",
+   "name": "Yle Radio Suomi, Kuopio",
+   "url": "https://yle.fi/",
+   "stream": "https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-kotka",
+   "name": "Yle Radio Suomi, Kotka",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-kotka",
+   "stream": "https://icecast.live.yle.fi/radio/YleKotka/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nightwish",
+   "name": "Nightwish",
+   "url": "https://pcradio.ru/",
+   "stream": "https://stream.pcradio.ru/Nightwish-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 27,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sun",
+   "name": "Radio SUN",
+   "url": "https://radiosun.fi/",
+   "stream": "https://st.downtime.fi/sun.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-957",
+   "name": "Radio 957",
+   "url": "https://radioplay.fi/radio-957/?stationId=257",
+   "stream": "https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pori",
+   "name": "Radio Pori",
+   "url": "https://radioplay.fi/radio-pori/",
+   "stream": "https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dei-kajaani",
+   "name": "Radio Dei Kajaani",
+   "url": "https://www.radiodei.fi/",
+   "stream": "https://stream.dei.fi:8443/kajaani",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sandels",
+   "name": "RADIO SANDELS",
+   "url": "https://www.radiosandels.fi/",
+   "stream": "https://radiosandels.radiotaajuus.fi:9050/radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-etela-pohjanmaa",
+   "name": "Yle radio Suomi Etelä-pohjanmaa",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-seinajoki",
+   "stream": "https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-pohjanmaa",
+   "name": "Yle radio Suomi Pohjanmaa",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6",
+   "stream": "https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-vega-ostnyland",
+   "name": "Yle radio Vega Östnyland",
+   "url": "https://areena.yle.fi/radio/suorat/radio-vega-ostnyland",
+   "stream": "https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dei-lahti",
+   "name": "Radio Dei Lahti",
+   "url": "https://www.radiodei.fi/",
+   "stream": "https://stream.dei.fi:8443/lahti",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yleradiosuomilahti",
+   "name": "YleRadioSuomiLahti",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-lahti",
+   "stream": "https://icecast.live.yle.fi/radio/YleLahti/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Päijät-Häme",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "keygen-fm",
+   "name": "Keygen FM",
+   "url": "https://keygen-fm.kodatek.app/",
+   "stream": "https://keygen-fm.kodatek.app/listen/keygen-fm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Finland",
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tempo",
+   "name": "Radio Tempo",
+   "url": "https://www.radiotempo.fi/",
+   "stream": "https://cast.radiotempo.fi/radiotempo",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-vega-aboland",
+   "name": "Yle Vega Åboland",
+   "url": "https://arenan.yle.fi/poddar/1-72901213",
+   "stream": "https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiose-fi",
+   "name": "RadioSE.fi",
+   "url": "https://www.radiose.fi/",
+   "stream": "https://wr2.downtime.fi/kaakko.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-suomi",
+   "name": "REPLAY NEWS - Suomi",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "finland"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fugefm",
+   "name": "FugeFM",
+   "url": "https://fuengirola.fi/fugefm/",
+   "stream": "https://streaming.broadcast.radio/fugefm",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kesaseuraradio",
+   "name": "Kesäseuraradio",
+   "url": "https://www.kesaseuraradio.fi/",
+   "stream": "https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Suomi",
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kaakko",
+   "name": "Radio Kaakko",
+   "url": "https://radiokaakko.fi/",
+   "stream": "https://wr2.downtime.fi/kaakko.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jarviradio-puhe",
+   "name": "Järviradio Puhe",
+   "url": "https://www.jarviradio.fi/jrpuhe",
+   "stream": "https://jarviradio.radiotaajuus.fi:9000/jrpuhe",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "finnish",
+    "suomi"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Uusimaa",
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kerhoradio",
+   "name": "Kerhoradio",
+   "url": "https://kerhoradio.fi/",
+   "stream": "https://c40.radioboss.fm:8056/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yle-radio-suomi-rovaniemi",
+   "name": "Yle Radio Suomi, Rovaniemi",
+   "url": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-rovaniemi",
+   "stream": "https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boofi",
+   "name": "Radio Boofi",
+   "url": "https://iranian.fi/",
+   "stream": "https://radio.iranian.fi/listen/vip/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "state": "Southwest Finland (Varsinais-Suomi)",
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vaasa",
+   "name": "Radio Vaasa",
+   "url": "https://www.radiovaasa.fi/",
+   "stream": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Pohjanmaa",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mokkiradio",
+   "name": "Mökkiradio",
+   "url": "https://www.mokkiradio.fi/",
+   "stream": "https://stream.mokkiradio.fi:18008/mokkiradio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Etelä-Savo",
+   "genre": [],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hiekka",
+   "name": "Radio Hiekka",
+   "url": "https://radiohiekka.fi/",
+   "stream": "https://radiohiekka.ovh:8443/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "finnish"
+   ],
+   "langCodes": [
+    "fi"
+   ],
+   "state": "Pohjois-Pohjanmaa",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "countryCode": "AZ",
+ "country": "Azerbaijan",
+ "slug": "azerbaijan",
+ "continent": "asia",
+ "stationCount": 13,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/azerbaijan/",
+ "stations": [
+  {
+   "id": "xezer-fm",
+   "name": "Xezer FM",
+   "url": "http://xezerfm.az/",
+   "stream": "https://s40.myradiostream.com/:22546/listen.mp3?",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "azerbaijani",
+    "russian"
+   ],
+   "langCodes": [
+    "az",
+    "ru"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 4538,
+   "clicks": 21,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "caspian-business-radio-boss",
+   "name": "Caspian Business Radio BOSS",
+   "url": "https://boss.com.az/radio",
+   "stream": "https://myradio24.org/bosscomaz",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "azerbaijani",
+    "azeri",
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "az",
+    "en",
+    "ru"
+   ],
+   "state": "Baku",
+   "genre": [
+    "easy-listening",
+    "pop-music",
+    "top-hits"
+   ],
+   "votes": 753,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dalgafm-92-5",
+   "name": "DalğaFM 92.5",
+   "url": "https://dalgafm.az/",
+   "stream": "https://live.dinle.az/dalgafm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "azerbaijani"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 111,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "naz-radio",
+   "name": "NAZ RADIO",
+   "url": "https://www.nazradio.com/",
+   "stream": "https://s2.myradiostream.com/5286/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "azerbaijani"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 104,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yurd-fm",
+   "name": "Yurd FM",
+   "url": "http://www.yurdfm.az/",
+   "stream": "https://icecast.livetv.az/yurdfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "azerbaijani"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [],
+   "votes": 6398,
+   "clicks": 30,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "anti-radio",
+   "name": "Anti Radio",
+   "url": "https://antiradio.net/",
+   "stream": "https://stream.antiradio.net/radio/8000/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Baku",
+   "genre": [],
+   "votes": 5980,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "asan-radio",
+   "name": "ASAN Radio",
+   "url": "http://asanradio.az/",
+   "stream": "https://play.asanradio.az/",
+   "codec": "mp3",
+   "bitrate": 112,
+   "langs": [
+    "azerbaijani"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [],
+   "votes": 2893,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "media-fm-105-5",
+   "name": "Media Fm 105.5",
+   "url": "https://icecast.livetv.az/mediafm",
+   "stream": "https://icecast.livetv.az/mediafm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "azerbaijani"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [],
+   "votes": 2160,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "autolife-azerbaijan",
+   "name": "AutoLife Azerbaijan",
+   "url": "https://autoliferadio.com/",
+   "stream": "https://radio.autoliferadio.com:8005/radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 622,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "araz-fm-103-3",
+   "name": "Araz fm 103.3",
+   "url": "https://www.arazfm.az/",
+   "stream": "https://s14.myradiostream.com/30454/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 584,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 207,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-enerji-101-1-fm",
+   "name": "Radio Enerji 101.1 FM",
+   "url": "https://enerjifm.az/",
+   "stream": "https://icecast.livetv.az/antennfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "azer",
+    "azerbaijani",
+    "azr"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [],
+   "votes": 162,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "planetfm-88-7",
+   "name": "PlanetFM 88.7",
+   "url": "https://planetfm.az/",
+   "stream": "https://live.dinle.az/planetfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "azerbaijani"
+   ],
+   "langCodes": [
+    "az"
+   ],
+   "genre": [],
+   "votes": 75,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  }
+ ]
+}

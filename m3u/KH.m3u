@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cambodia" tvg-genre="folk,pop",Pop Radio 21
+https://listen.radioking.com/radio/318317/stream/365846
+#EXTINF:-1 group-title="Cambodia" tvg-genre="music",Family FM 99.5 (Witthyu Krousar)
+https://s14.myradiostream.com/10064/;.mp3
+#EXTINF:-1 group-title="Cambodia" tvg-genre="music,pop",Sweet FM 88 (Siem Reap)
+https://n12.rcs.revma.com/whn9hqwstk3vv
+#EXTINF:-1 group-title="Cambodia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Cambodia",LDP Radio
+https://streaming.radio.co/sd48fd711d/listen
+#EXTINF:-1 group-title="Cambodia",Sangkem Radio
+https://live.sangkemtv.com/radio.mp3

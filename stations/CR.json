@@ -1,0 +1,539 @@
+{
+ "countryCode": "CR",
+ "country": "Costa Rica",
+ "slug": "costa-rica",
+ "continent": "americas",
+ "stationCount": 29,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/costa-rica/",
+ "stations": [
+  {
+   "id": "urbano-106-105-9-fm-san-jose-costa-rica",
+   "name": "Urbano 106 - 105.9 FM - San José, Costa Rica",
+   "url": "https://www.urbano106.com/",
+   "stream": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San José",
+   "genre": [
+    "music",
+    "r&b",
+    "reggae"
+   ],
+   "votes": 1172,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "103-fm-103-1",
+   "name": "103 (FM 103.1)",
+   "url": "https://www.crc.cr/crc103-1/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music",
+    "musica"
+   ],
+   "votes": 317,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "amor-fm-93-9",
+   "name": "Amor FM 93.9",
+   "url": "https://www.amorfmcr.com/",
+   "stream": "https://player.hostingtico.com/proxy/8094",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 233,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "95-5-jazz",
+   "name": "95.5 Jazz",
+   "url": "https://www.facebook.com/955jazz",
+   "stream": "https://streaming.radio.co/s36bd2a451/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "instrumental",
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 181,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "faro-del-caribe-97-1-fm-y-1080-am",
+   "name": "Faro del Caribe 97.1 FM y 1080 AM",
+   "url": "https://www.farodelcaribe.org/",
+   "stream": "https://sp.unoredcdn.net/8032/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 160,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tiquicia-rock",
+   "name": "Tiquicia Rock",
+   "url": "https://tiquiciarock.com/",
+   "stream": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Alajuela",
+   "genre": [
+    "alternative",
+    "metal",
+    "rock"
+   ],
+   "votes": 110,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-dos-2-costa-rica",
+   "name": "Radio Dos (2) Costa Rica",
+   "url": "https://radiodos.com/",
+   "stream": "https://s5.radio.co/sd515b7b34/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "blues",
+    "classic-rock",
+    "country",
+    "hits",
+    "rock",
+    "top-hits"
+   ],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "959-conexion",
+   "name": "959 Conexion",
+   "url": "https://www.crc.cr/crc959/player/",
+   "stream": "https://29308.live.streamtheworld.com/CRC_959AAC.aac?_=",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative",
+    "hits",
+    "indie",
+    "pop",
+    "rock"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "avance-radio",
+   "name": "Avance Radio",
+   "url": "https://avanceradio.com/",
+   "stream": "https://radios.solumedia.com:6512/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Jose",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "urbano-106-105-9",
+   "name": "Urbano 106 105.9",
+   "url": "http://emisorascostarica.com/urbano-106-1059-fm",
+   "stream": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "frecuencia-cci",
+   "name": "FRECUENCIA CCI",
+   "url": "https://www.frecuenciacci.com/",
+   "stream": "https://streaming.radio.co/s6729aeaac/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Jose",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mil-recuerdos-stereo",
+   "name": "Radio Mil Recuerdos Stereo",
+   "url": "https://sechin.grupocentroserver.com/public/radio_mil_recuerdos_costa_rica",
+   "stream": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "San José",
+   "genre": [],
+   "votes": 1169,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "1047hit",
+   "name": "1047hit",
+   "url": "https://1047hit.com/",
+   "stream": "https://live.turadio.stream:7004/stream;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Costa Rica",
+   "genre": [],
+   "votes": 716,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-musical-97-5",
+   "name": "Radio Musical 97.5",
+   "url": "https://radiomusical.com/",
+   "stream": "https://live.turadio.stream:7005/stream?type=http&nocache=596",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 513,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "planet-107-5",
+   "name": "Planet 107.5",
+   "url": "https://planet1075.com/",
+   "stream": "https://stream20.usastreams.com/8094/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "San Jose",
+   "genre": [],
+   "votes": 504,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "azul-99-9-fm",
+   "name": "Azul 99.9 FM",
+   "url": "https://www.crc.cr/crc999/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 276,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nueve-cuatro-siete-94-7-fm",
+   "name": "Nueve Cuatro Siete - 94.7 FM",
+   "url": "https://www.crc.cr/crc947/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 223,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "columbia-estereo-92-7-fm",
+   "name": "Columbia Estéreo 92.7 FM",
+   "url": "https://columbiaestereo.com/",
+   "stream": "https://s5.radio.co/sca838cc60/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 212,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-hit-104-7",
+   "name": "Radio Hit 104.7",
+   "url": "https://1047hit.com/",
+   "stream": "https://live.turadio.stream:7004/stream?type=http&nocache=596",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 118,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-casino-98-3fm",
+   "name": "Radio Casino 98.3FM",
+   "url": "https://radiocasino.net/",
+   "stream": "https://host.rowrigo.com/listen/radiocasino/radiocasino",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Puerto Limon",
+   "genre": [],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mundo-rock-radio",
+   "name": "Mundo Rock Radio",
+   "url": "https://radio.mundorockcr.com/",
+   "stream": "https://as100.globalhost1.com/8046/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-costa",
+   "name": "Radio Costa",
+   "url": "https://radiocosta.eu/en/",
+   "stream": "https://sonicpanel.globalstream.pro:10979/;",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "influencia-positiva-radio",
+   "name": "Influencia Positiva Radio",
+   "url": "https://influenciapositivaradiocr.com/",
+   "stream": "https://panel.gruponovaradial.com/listen/influencia_positiva_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nosara",
+   "name": "Radio Nosara",
+   "url": "https://www.radiotvnosara.online/",
+   "stream": "https://sonicpanel.zonaradio.net/8038/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guanacaste",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "conexiones-del-ayer",
+   "name": "Conexiones del Ayer",
+   "url": "http://conexionpositivaradio.com/",
+   "stream": "https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "HEREDIA",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "osa-radio-online",
+   "name": "Osa Radio Online",
+   "url": "https://onlineosaradio.blogspot.com/",
+   "stream": "https://radioscr.digitaltvcr.xyz/listen/osaonline/osaradio",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "conexion-positiva-radio",
+   "name": "Conexión Positiva Radio",
+   "url": "http://conexionpositivaradio.com/",
+   "stream": "https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "HEREDIA",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "onda-digital-fm-sancarlos",
+   "name": "onda digital fm sancarlos",
+   "url": "http://ondadigitalfm.es/",
+   "stream": "https://radio.serviciosderadio.com/listen/onda_digital_fm_costa_rica/radio.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Costa Rica",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

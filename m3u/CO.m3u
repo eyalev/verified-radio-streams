@@ -1,0 +1,313 @@
+#EXTM3U
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Olímpica Stereo (Medellín) 104.9-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,pop,reggaeton",La Mega (Medellín) 92.9 FM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab
+#EXTINF:-1 group-title="Colombia" tvg-genre="baladas,music,pop",Bésame (Medellín) 94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="reggaeton",Mix (Medellín) 89.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MEDELLINAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin-pop,music,pop,pop-music,pop-rock,top-40,top-hits",LOS40 Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="classic-rock,music,rock",Radioacktiva (Bogotá) - 97.9 FM - HJJK - PRISA Radio - Bogotá, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",El Sol (Medellín) 107.9 FM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop,reggaeton",Brutal (Medellín) 91.9 Fm
+https://streamingmediaradio.live/8086/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="classic-hits,cumbia,hits,popular,reggaeton,salsa",Radio Policía (Medellín) Nacional 96.4 FM
+https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop,reggaeton",40 Principales Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/%20LOS40_COLOMBIA.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Tropicana (Medellín) 98.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_MEDELLINAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Colombia Salsa Dura
+https://play10.tikast.com/proxy/colsalsadura?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin-music",Olimpica Stereo 101.5 Fm Sincelejo
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_SINCELEJOAAC.aac?1715700010
+#EXTINF:-1 group-title="Colombia" tvg-genre="classic-rock,music,rock",Radioacktiva (Medellín) - 102.3 FM - PRISA Radio - Medellín, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="rock",LA X 96.5 Cali
+https://onlineradiobox.com/json/co/lax/play?platform=web
+#EXTINF:-1 group-title="Colombia" tvg-genre="baladas,rock",WRadio Colombia
+https://27403.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&dist=wradio_co-web-playperm-live_str_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=a073ee70-7fed-4b4c-80d2-7a4d57fe52f6
+#EXTINF:-1 group-title="Colombia" tvg-genre="dance,electronic,house,music,trance",La X Medellín 103.9 FM
+https://tupanel.info:8000/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,popular,salsa",Olímpica Stéreo 104.5 Cali
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALI.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="80s,90s,classic-rock,lounge,pop,rock",Colombia Pop Rock
+https://play10.tikast.com/proxy/colpoprock?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music",Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+https://radiolatina.info/8170/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin-music",Olimpica Stereo 90.5 Fm Monteria
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972
+#EXTINF:-1 group-title="Colombia" tvg-genre="bachata,cumbia,merengue,reggaeton,salsa",Colombia Crossover
+https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop",Bésame 106.5 FM Cali
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Energia 102.5 FM
+https://audio1.energia1025.com/radio/8000/stream.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,musica,popular",La Jefa 1300 AM
+https://sonic.paulatina.co/7046/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music",Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
+https://radiolatina.info/8166/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="jazz",ALR Jazz Radio
+https://radio30.virtualtronics.com/proxy/abaco?mp=/stream/
+#EXTINF:-1 group-title="Colombia" tvg-genre="2000s,80s,90s,classic-hits,music,musica",Blu Radio - Musica
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="hip-hop,pop,reggaeton",Colombia Urbana
+https://play10.tikast.com/proxy/colurbana?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="chillout,easy-listening,electronic,house,lounge",Colombia Lounge
+https://play10.tikast.com/proxy/collounge?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Capital Salsa
+https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,reggaeton,salsa",Metrópolis Stereo
+https://streaming.radiosenlinea.com.ar:10898/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,pop,pop-music,pop-rock,rock",La Mega (Pereira) 105.2 FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af
+#EXTINF:-1 group-title="Colombia" tvg-genre="rock",Super Estación 88.9
+https://emisorasdigitales2.com/8018/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="gospel",Su Presencia Radio
+https://supresenciaradio.out.airtime.pro/supresenciaradio_a
+#EXTINF:-1 group-title="Colombia" tvg-genre="musica",Bésame 90.7 FM Armenia
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_ARMENIAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Cristalina Estéreo Neiva 101.3 FM
+https://inrai05.radioca.st/cNeiva
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop",Bésame 100.7 FM Cúcuta
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CUCUTAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="gospel",Ambiente Stereo 88.4 FM
+https://radio06.cehis.net:9036/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,merengue,popular",Olimpica Stereo Bucaramanga 97.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="music",La Reina Cartagena 95.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="70s,80s,baladas",Musical Stereo
+https://sonic.paulatina.co/8156/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop",Bésame 93.7 FM Pereira
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_PEREIRA_FMAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,popular,salsa",Fiesta 106.2 FM
+https://server1.intermediacolombia.com:8006/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop",Bésame 104.7 FM Bucaramanga
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BUCARAMANGAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="adult-contemporary",La Poderosa 104.1 FM
+https://samuel.i-radio.co:8001/araunastereo
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop",Bésame 91.7 FM Manizales
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="50s,60s,70s,80s,popular",Radio Recuerdos 1230 AM
+https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop,pop-music,pop-rock",Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,popular",RADIO UNO PEREIRA 94.7 FM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,popular",Cafe Stereo 96.7 FM
+https://stremo.decibeles.net:8443/CafeStereo
+#EXTINF:-1 group-title="Colombia" tvg-genre="musica",HJMO - La FM Bogotá 94.9 FM
+https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/icecast.audio
+#EXTINF:-1 group-title="Colombia" tvg-genre="classical,rock",Javeriana Etéreo
+https://radio06.cehis.net:9001/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop",Bésame 106.9 FM Popayán
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_POPAYANAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Armonias Boyacenses 950 AM
+https://virtualtronics.net/proxy/armoniasboyacenses?mp=/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="music",Radio Universidad Nacional
+https://radio.unal.edu.co/streaming/bogota/stream.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="baladas,love-songs,music",La Enamorada FM
+https://laenamoradafm.com/live/
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,popular,salsa",Canela Estereo 99.4 FM
+https://sv2.globalhostlive.com/proxy/canela/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,popular,salsa",((La Reina Putumayo 106.3 Fm))
+https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,reggaeton",La Discoteca Radio
+https://streamingmediaradio.live:8002/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin-music",Radio Guatapuri
+https://sonic.paulatina.co/7106/stream?1715700597
+#EXTINF:-1 group-title="Colombia" tvg-genre="bachata,popular,reggaeton,salsa",Mix Bogota
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BOGOTAAAC.aac
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,salsa",Tropicana Popayán 106.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_POPAYAN_SC
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Cristalina Estéreo La Mesa 102.3 FM
+https://inrai02.radioca.st/LaMesa
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Armonías del Caquetá 970 AM
+https://broadcasting.enlacestic.com/radio/8020/radio.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="70s,80s,90s",Angular Stereo 97.2 FM
+https://colombiawebs.com.co/proxy/juanpabl/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="gospel",Radio Auténtica Cali 660 AM
+https://play10.tikast.com:20113/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",ACORD ANTIOQUIA RADIO
+https://radio25.virtualtronics.com:20061/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin-music,salsa",Salsa Latina
+https://play10.tikast.com/proxy/zsalsalatina?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,salsa",BELEN STEREO 95.3 FM
+https://server2.ejeserver.com:9976/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular,salsa",Fiesta 102.7 FM
+https://server1.intermediacolombia.com:8008/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="hip-hop,pop,rock",Universitaria Estéreo 88.2
+https://www.utp.edu.co/stream/
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Celeste Estéreo 105.4 FM
+https://play8.tikast.com/proxy/celeste?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,salsa",Olímpica Stéreo 92.1 Barranquilla
+https://master.letio.com/io/?gs=9102&type=live.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Cristalina Estéreo 101.1 FM
+https://inrai03.radioca.st/cristalinaflorencia
+#EXTINF:-1 group-title="Colombia" tvg-genre="tango",Radio Bolivariana AM 1110 kHz
+https://streaming.codigoe-marketing.co:8620/test.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="hits,popular,tango",Edward Ortega Radio - Mas + Popular
+https://cloud11.vsgtech.co/proxy/maspopular/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,popular",La Caqueteña 93.1 FM
+https://inrai04.radioca.st/lacaquetena
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,merengue,music",HJ DOBLE K HUILA 840 AM
+https://inrai1.radioca.st/HJKKneiva
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Radio Capital 1250 AM
+https://radiolatina.info/9322/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="80s,90s,classic-rock,dance,pop,rock",La FM Plus 96.9 - Medellín
+https://co-e1-p-e-aa1-audio.cdn.mdstrm.com/live-audio-aw/632cb5dd08346a0889655d9d
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,popular,salsa",Candela Casanare 94.7 Fm
+https://cloudoledgo.com:8026/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular,reggaeton",Cerinza FM 100.6
+https://radio25.virtualtronics.com/proxy/cerinzafm?mp=/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="gospel",Emisora Mariana 1400 AM
+https://servidor24.brlogic.com:7654/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular,salsa",La Sonora 100.6 Valle de Tenza
+https://sonic.paulatina.co/8088/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Brisa FM 93.1
+https://radio25.virtualtronics.com:20057/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",MIX 103.9 FM Barranquilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC.aac?dist=oro_web
+#EXTINF:-1 group-title="Colombia" tvg-genre="bachata,merengue,music,popular,salsa",Nueva Era Algeciras Sterio 107.8 FM
+https://radiohd.streaminghd.co:7154/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="80s,electronic,pop,rock",BBC 80s
+https://18093.live.streamtheworld.com/SAM03AAC226_SC?Bravo?Bogota?Colombia&80s
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,merengue,salsa",Buenisima Stereo - Barranquilla
+https://centova.hostingelectrica.net/proxy/buenisim?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,popular,reggaeton",Cascada Stereo 107.4 FM
+https://play8.tikast.com/proxy/cascada?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,merengue,popular,salsa",Delfín Stereo 106.3 FM
+https://www.rads2.com/radio/8060/radio.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,popular",Calidad Stereo 100.6 FM
+https://sonic.paulatina.co/7070/stream.mp3/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="electronica,latin,merengue,salsa",DiscoRumba 95.4 FM
+https://virtual1.emisorasvirtuales.com:8050/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",La Troja Radio
+https://streaming01.shockmedia.com.ar:8034/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music",UNIAUTÓNOMA 94.1 FM
+https://cast6.my-control-panel.com/proxy/unica/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Buturama Stereo 101.7 FM
+https://tupanel.info:2000/stream/ButuramaStereo
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,popular",Cisneros Stereo 105.4 FM
+https://server2.ejeserver.com:8430/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="classic-rock,rock",JuanKiss Radio
+https://emisorasdigitales2.com/8172/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="blues,jazz",Javeriana Estéreo 91.9 (Bogotá)
+https://radio06.cehis.net/proxy/javerian?mp=%2Fstream
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia,music",Tres Fronteras FM 96.3
+https://play8.tikast.com/proxy/frontera?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,salsa",Contando Radio
+https://stream.integracionvirtual.com/proxy/contando?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="adult-contemporary,music,oldies,rock",Ecos 1360 Radio
+https://conectadosmultimedia.com.co/proxy/ecos/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop,rock",La Voz Del Cañaguate 860 AM
+https://sonic.paulatina.co/7278/stream/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="classic-hits,dance,disco,pop,rock",Walkman Radio
+https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="classic-rock,rock",Espiritu Rock
+https://centova92.instainternet.com/proxy/santiago/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Latina Stereo
+https://stream.latinastereo.com/proxy/latina/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,popular,salsa",Oyente Stereo
+https://server2.ejeserver.com:8364/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="alternative,music,pop-rock,rock",Radioacktiva 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,oldies",La Voz del Rio Grande 910 AM
+https://tupanel.info:8410/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="2000s,70s,80s,90s,dance,disco,rock,techno",Veracruz stereo
+https://radio.veracruzstereo.com:8000/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="cumbia",Colombia Mundo Estéreo
+https://streampanel.online/8032/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="music,popular",La Ciento 7 Digital - FM 107.8
+https://radiohd.streaminghd.co:7190/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",La FM- Barranquilla
+https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",La Sonora 89.1 Tunja
+https://sonic.paulatina.co/7068/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="musica",Olímpica Stereo Pereira
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_PEREIRAAAC.aac?dist=oro_web
+#EXTINF:-1 group-title="Colombia" tvg-genre="jazz",Uninorte FM 103.1 Barranquilla
+https://cactus2.uninorte.edu.co/stream.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop,rock",88.9 Super Estación
+https://servidor40-5.brlogic.com:7006/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="gospel",Alegría y Gozo Radio Católica
+https://server2.ejeserver.com:8890/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="2000s,70s,80s,90s,baladas,rock,salsa",la super estación latina 104.1 armenia
+https://server1.intermediacolombia.com:8010/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="alternative,classic-rock,metal,rock",MaximusRockFM
+https://stream.laut.fm/maximusrockfm
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Olimpica Stereo Cali
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",RENCORDRADIO
+https://sonicpanel.streaming10.net/8134/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular",Santa Barbara Stereo 106.6 FM
+https://sonic.paulatina.co/7376/;
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Toque Latino
+https://radiohd.streaminghd.co:7077/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular,salsa",La Sonora 100.6 Samacá
+https://sonic.paulatina.co/8122/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular,reggaeton,salsa",La Sonora 89.6 Márquez
+https://sonic.paulatina.co/8128/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="merengue,salsa",La voz del Norte 1040 AM
+https://play10.tikast.com:20021/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="alternative,ambient,electronic,metal",Nevermore Radio - Nevermore Network
+https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Salsa Magistral
+https://cloud8.vsgtech.co/8004/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="popular,salsa",La Sonora 88.1 Sogamoso
+https://sonic.paulatina.co/8126/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="electronica,latin,pop,reggaeton,salsa",Radio Planeta Cali
+https://sp4.colombiatelecom.com.co/8098/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="hip-hop,rap",EdMateo's Radio
+https://radio.edmateo.site/live
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin",la cordobesa 96.0 saagún
+https://radiohd4.streaminghd.co:8187/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop-music",Romance Radio Cali
+https://davidflorproducciones.fasthostunlimited.com/listen/romance_cali/radio.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="alternative,jazz,metal,pop,rock",Unicauca stereo
+https://emisora.unicauca.edu.co/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="latin,salsa",Univalle Estereo
+https://uv-stereo.univalle.edu.co:8000/envivo.mp3
+#EXTINF:-1 group-title="Colombia" tvg-genre="tango",Donka Estereo
+https://icy.cloudrad.io/b24a5754
+#EXTINF:-1 group-title="Colombia" tvg-genre="pop,r&b,rock",Hits Collections Station
+https://app.aloncast.com/api/stream/hits-collections-station-46f941
+#EXTINF:-1 group-title="Colombia" tvg-genre="reggaeton",mix 100.5 montería
+https://radio25.virtualtronics.com/proxy/emisoramix?mp=/stream
+#EXTINF:-1 group-title="Colombia" tvg-genre="salsa",Tropicana Estéreo FM (Bogotá)
+https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC
+#EXTINF:-1 group-title="Colombia" tvg-genre="baladas",Vibra (Bogotá)
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA_SC
+#EXTINF:-1 group-title="Colombia",Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá,
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1 group-title="Colombia",Mi%Vallenatísima
+https://streaming.radiosenlinea.com.ar:10865/stream
+#EXTINF:-1 group-title="Colombia",La x Bogota
+https://www.laxmasmusica.com/static/web_dataNormal.mp3
+#EXTINF:-1 group-title="Colombia",Medellin 104.9 - Olimpica Stereo
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?1707017722
+#EXTINF:-1 group-title="Colombia",La Ochentera Medellin Colombia
+https://tupanel.info/stream/emisora919fm
+#EXTINF:-1 group-title="Colombia",W Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac
+#EXTINF:-1 group-title="Colombia",Blu Radio (Medellín) 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac
+#EXTINF:-1 group-title="Colombia",Olímpica Stereo(Bogotá)
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac
+#EXTINF:-1 group-title="Colombia",Olímpica Stereo - Barranquilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web
+#EXTINF:-1 group-title="Colombia",Radio Tiempo Cartagena Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?dist=RtCarWeb
+#EXTINF:-1 group-title="Colombia",123vallenato
+https://radiolatina.info:10903/;
+#EXTINF:-1 group-title="Colombia",Voz de la capilla
+https://sonic.paulatina.co/7446/stream
+#EXTINF:-1 group-title="Colombia",Fuego AM
+https://radio35.virtualtronics.com:20017/stream
+#EXTINF:-1 group-title="Colombia",Radio Tiempo Medellín
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac

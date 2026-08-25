@@ -1,0 +1,456 @@
+{
+ "countryCode": "MK",
+ "country": "North Macedonia",
+ "slug": "north-macedonia",
+ "continent": "europe",
+ "stationCount": 26,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/north-macedonia/",
+ "stations": [
+  {
+   "id": "stil-radio",
+   "name": "STIL RADIO",
+   "url": "https://stilradio.com/",
+   "stream": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 1574,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "just-music-radio",
+   "name": "Just Music Radio",
+   "url": "https://justmusicradio.mk/",
+   "stream": "https://radiostream.neotel.mk/justmusicradio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "macedonian"
+   ],
+   "langCodes": [
+    "en",
+    "mk"
+   ],
+   "genre": [
+    "blues",
+    "disco",
+    "funk",
+    "jazz",
+    "lounge",
+    "smooth-jazz",
+    "soul"
+   ],
+   "votes": 591,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jazz-fm",
+   "name": "Jazz FM",
+   "url": "https://jazzfm.mk/",
+   "stream": "https://radio.jazzfm.mk/listen/jazzfm/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "mk",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 371,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-meff",
+   "name": "Radio Meff",
+   "url": "",
+   "stream": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 370,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "time-fm-gevgelija",
+   "name": "Time FM Gevgelija",
+   "url": "https://www.timefm.mk/",
+   "stream": "https://s2.free-shoutcast.com/stream/18058",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 295,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "urban-fm-90-8-skopje",
+   "name": "Urban FM 90.8 Skopje",
+   "url": "https://www.facebook.com/urban.fm.skopje/",
+   "stream": "https://securestreams4.autopo.st:1668/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Macedonia",
+   "genre": [
+    "pop"
+   ],
+   "votes": 294,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "77",
+   "name": "Канал 77 Радио Мрежа",
+   "url": "https://kanal77.mk/",
+   "stream": "https://radiocnd.mms.mk/proxy/player/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 182,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sky-radio-102-5-skopje-macedonia",
+   "name": "Sky Radio 102.5 Skopje, Macedonia",
+   "url": "https://skyradio.com.mk/",
+   "stream": "https://s1.skyradio.com.mk/;*.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 129,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fortuna-96-8-skopje-macedonia",
+   "name": "Radio Fortuna 96.8 Skopje, Macedonia",
+   "url": "http://www.radiofortuna.com.mk/",
+   "stream": "https://radiofortuna.ipradio.mk/;*.mp3%22",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sky-radio-hits-skopje-macedonia",
+   "name": "Sky Radio Hits Skopje, Macedonia",
+   "url": "https://skyradio.com.mk/",
+   "stream": "https://s1.skyradio.com.mk/hits.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-world-hits-skopje-macedonia",
+   "name": "Star Radio (World Hits) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/world-hits/",
+   "stream": "https://radiostar.pro/stream/worldretro.php",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-mk-narodna-skopje-macedonia",
+   "name": "Star Radio (MK Narodna) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/mk-narodna/",
+   "stream": "https://radiostar.pro/stream/mknarodna.php",
+   "codec": "aac",
+   "bitrate": 288,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 230,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-urban-folk-skopje-macedonia",
+   "name": "Star Radio (Urban Folk) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/urban-folk/",
+   "stream": "https://radiostar.pro/stream/narodna.php",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 186,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-sky-radio-102-5-fm-macedonia-mp3-128-kbps",
+   "name": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+   "url": "http://skyradio.com.mk/",
+   "stream": "https://s1.skyradio.com.mk/retro.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 101,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bubamara-105-2-skopje-macedonia",
+   "name": "Radio Bubamara 105.2 Skopje, Macedonia",
+   "url": "https://cdn.onlineradiobox.com/img/l/4/13644.v6.png",
+   "stream": "https://stream.bubamara.com.mk/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 93,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kanal-77-skopje-macedonia",
+   "name": "Radio Kanal 77 Skopje, Macedonia",
+   "url": "https://kanal77.mk/",
+   "stream": "https://radiocnd.mms.mk/proxy/offnet/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "antenna-5",
+   "name": "Antenna 5",
+   "url": "https://www.antenna5.com.mk/Default.aspx",
+   "stream": "https://fms.off.net.mk:8000/antenna5.stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 64,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-boemi-skopje-macedonia",
+   "name": "Star Radio (Boemi) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/boemi/",
+   "stream": "https://radiostar.pro/stream/boemi.php",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 60,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-ex-yu-retro-skopje-macedonia",
+   "name": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/ex-yu-retro/",
+   "stream": "https://radiostar.pro/stream/exyuretro.php",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 53,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiobar",
+   "name": "RadioBar",
+   "url": "https://radiobar.mk/",
+   "stream": "https://visual.shoutca.st:8122/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-plus-skopje-macedonia",
+   "name": "Star Radio (Plus) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/star-plus/",
+   "stream": "https://radiostar.pro/stream/starplus.php",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-radio-live-skopje-macedonia",
+   "name": "Star Radio (Live) Skopje, Macedonia",
+   "url": "https://radiostar.pro/radiochannel/star-live/",
+   "stream": "https://radiostar.pro/stream/starlive.php",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "macedonian"
+   ],
+   "langCodes": [
+    "mk"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "life-radio",
+   "name": "Life Radio",
+   "url": "https://life.com.mk/",
+   "stream": "https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_id=13399&site_id=14630760",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fortuna-96-8-fm",
+   "name": "Radio Fortuna 96.8 FM",
+   "url": "https://radiofortuna.com.mk/",
+   "stream": "https://radiofortuna.ipradio.mk/;*.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vmro-1",
+   "name": "Radio VMRO 1",
+   "url": "https://www.radiovmro.mk/",
+   "stream": "https://radiovmro.radioca.st/;*.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

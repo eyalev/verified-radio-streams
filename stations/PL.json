@@ -1,0 +1,3195 @@
+{
+ "countryCode": "PL",
+ "country": "Poland",
+ "slug": "poland",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/poland/",
+ "stations": [
+  {
+   "id": "antyradio",
+   "name": "Antyradio",
+   "url": "http://www.antyradio.pl/",
+   "stream": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 27188,
+   "clicks": 36,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-357",
+   "name": "Radio 357",
+   "url": "https://radio357.pl/",
+   "stream": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 10193,
+   "clicks": 137,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rmf24-pl",
+   "name": "Radio RMF24.pl",
+   "url": "https://radio.rmf24.pl/",
+   "stream": "https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 4873,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-radio",
+   "name": "Rock Radio",
+   "url": "https://rockradio.tuba.pl/RockRadio/0,0.html",
+   "stream": "https://radiostream.pl/tuba8-1.mp3?cache=1650763965",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 4110,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smoothjazz-com-pl-320k-mp3",
+   "name": "SmoothJazz.com.pl 320k MP3",
+   "url": "https://www.smoothjazz.com.pl/",
+   "stream": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Pomorskie",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 2240,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiofest",
+   "name": "RadioFEST",
+   "url": "https://www.radiofest.pl/",
+   "stream": "https://play.radiofest.pl:8443/fest",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 1860,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-party-kana-g-owny",
+   "name": "Radio Party - Kanał Główny",
+   "url": "https://radioparty.pl/ramowka/glowny",
+   "stream": "https://s2.radioparty.pl:8015/stream?nocache=4171",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "electronic",
+    "rap"
+   ],
+   "votes": 1774,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rmf-fm",
+   "name": "Radio RMF FM",
+   "url": "http://www.rmf.fm/",
+   "stream": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_fm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1769,
+   "clicks": 44,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eska-do-pracy",
+   "name": "ESKA - Do Pracy",
+   "url": "https://www.eska.tv/",
+   "stream": "https://waw.ic.smcdn.pl/6140-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warsaw",
+   "genre": [
+    "dance",
+    "pop",
+    "pop-music",
+    "rock"
+   ],
+   "votes": 1721,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eska-goraca-20",
+   "name": "ESKA - Gorąca 20",
+   "url": "https://www.eska.pl/goraca20/",
+   "stream": "https://waw.ic.smcdn.pl/6130-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warsaw",
+   "genre": [
+    "dance",
+    "pop",
+    "pop-music",
+    "rock"
+   ],
+   "votes": 1339,
+   "clicks": 28,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eska-summer-city",
+   "name": "ESKA - Summer City",
+   "url": "https://www.eska.tv/",
+   "stream": "https://waw.ic.smcdn.pl/6120-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warsaw",
+   "genre": [
+    "dance",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 1296,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-z-ote-przeboje-wroc-aw",
+   "name": "Radio Złote Przeboje Wrocław",
+   "url": "https://zloteprzeboje.tuba.pl/",
+   "stream": "https://radiostream.pl/tuba9-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-hits",
+    "classic-rock",
+    "pop",
+    "rock"
+   ],
+   "votes": 1292,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disco-party-disco-polo",
+   "name": "Radio Disco Party - Disco Polo",
+   "url": "https://discoparty.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7432/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 1159,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "meloradio-fm",
+   "name": "Meloradio FM",
+   "url": "https://www.meloradio.pl/",
+   "stream": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warsaw",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 1128,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-maxxx-99-7-pomorze",
+   "name": "RMF MAXXX 99.7 Pomorze",
+   "url": "",
+   "stream": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 810,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antyradio-classic-rock",
+   "name": "Antyradio Classic Rock",
+   "url": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Classic-Rock",
+   "stream": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "Poland",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 799,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-centrum-lublin",
+   "name": "Radio Centrum Lublin",
+   "url": "https://centrum.fm/",
+   "stream": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Lublin",
+   "genre": [
+    "rock"
+   ],
+   "votes": 688,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sar-studencka-agencja-radiowa",
+   "name": "Radio SAR - Studencka Agencja Radiowa",
+   "url": "https://radiosar.pl/",
+   "stream": "https://stream.radiosar.pl/hdmain.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "Pomorskie",
+   "genre": [
+    "blues",
+    "jazz",
+    "metal",
+    "pop",
+    "rock"
+   ],
+   "votes": 655,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "smoothjazz-com-pl-192k-aac",
+   "name": "SmoothJazz.com.pl 192k aac+",
+   "url": "https://www.smoothjazz.com.pl/",
+   "stream": "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Pomorskie",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 655,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-poland",
+   "name": "Kiss FM Poland",
+   "url": "https://kissfm.radioo.eu/",
+   "stream": "https://streaming.g-news.pl:8090/kissfm",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "oldies"
+   ],
+   "votes": 626,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disco-dance",
+   "name": "Radio Disco-Dance",
+   "url": "https://radiodd.eu/",
+   "stream": "https://radiodd.cloud/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Gdansk",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "disco"
+   ],
+   "votes": 515,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-plus-gdansk",
+   "name": "Radio Plus Gdansk",
+   "url": "https://www.radioplus.pl/",
+   "stream": "https://pl05.cdn.eurozet.pl/plu-gdn.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "pomorskie",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 504,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-classic-rock",
+   "name": "RMF Classic Rock",
+   "url": "https://www.rmfon.pl/play,2#p",
+   "stream": "https://rs201-krk.rmfstream.pl/rmf_classic_rock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Małopolskie",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 450,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zet-na-rower-om",
+   "name": "Radio Zet na Rower -om",
+   "url": "https://player.radiozet.pl/Kanaly-muzyczne/Radio-ZET-na-Rower",
+   "stream": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 443,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dht-kana-g-owny",
+   "name": "Radio DHT (kanał główny)",
+   "url": "https://www.radiodht.com/",
+   "stream": "https://radiodht.com/stream_main/",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "Małopolskie",
+   "genre": [
+    "alternative",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 439,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-plus-krakow",
+   "name": "Radio Plus Krakow",
+   "url": "",
+   "stream": "https://ic2.smcdn.pl/4070-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 431,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-fm-128-kbps",
+   "name": "RMF FM 128 Kbps",
+   "url": "https://www.rmf.fm/",
+   "stream": "https://rs101-krk.rmfstream.pl/rmf_fm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Kraków",
+   "genre": [
+    "hits"
+   ],
+   "votes": 420,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antyradio-made-in-poland",
+   "name": "Antyradio Made In Poland",
+   "url": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Made-In-Poland",
+   "stream": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Poland",
+   "genre": [
+    "rock"
+   ],
+   "votes": 411,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pejpal",
+   "name": "Radio pejpal",
+   "url": "https://radio.pejpal.cloud/",
+   "stream": "https://radio.pejpal.cloud/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "disco"
+   ],
+   "votes": 400,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lublin",
+   "name": "Radio Lublin",
+   "url": "https://radio.lublin.pl/",
+   "stream": "https://streaming.radio.lublin.pl:8843/128k",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "music"
+   ],
+   "votes": 370,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eska-impreska",
+   "name": "ESKA - Impreska",
+   "url": "https://www.eska.tv/",
+   "stream": "https://waw.ic.smcdn.pl/6030-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warsaw",
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 300,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "meloradio-wroc-aw",
+   "name": "Meloradio Wrocław",
+   "url": "https://www.meloradio.pl/",
+   "stream": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "dolnośląskie",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 292,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disco-party-disco-impreza",
+   "name": "Radio Disco Party - Disco Impreza",
+   "url": "https://discoparty.pl/",
+   "stream": "https://s3.slotex.pl/shoutcast/7046/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "90s",
+    "dance",
+    "disco"
+   ],
+   "votes": 273,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-of-funk",
+   "name": "House of Funk",
+   "url": "https://houseoffunk.eu/",
+   "stream": "https://houseoffunk.eu:8443/live",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 228,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cyberstacja",
+   "name": "CYBERStacja",
+   "url": "http://www.cyberstacja.pl/",
+   "stream": "https://sc.cyberstacja.pl:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "Dolnyśląsk",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 223,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melo-radio-slask-katowice",
+   "name": "Melo Radio Śląsk (Katowice)",
+   "url": "https://player.meloradio.pl/",
+   "stream": "https://ml01.cdn.eurozet.pl/mel-ktw.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Slaskie",
+   "genre": [
+    "edm",
+    "pop"
+   ],
+   "votes": 222,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smoothjazz-com-pl-64k-aac",
+   "name": "SmoothJazz.com.pl 64k aac+",
+   "url": "https://www.smoothjazz.com.pl/",
+   "stream": "https://bcast.vigormultimedia.com:48888/sjcompl64aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Pomorskie",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 222,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-party-lata-90",
+   "name": "Disco Party - Lata 90.",
+   "url": "https://discoparty.pl/",
+   "stream": "https://s3.slotex.pl:7170/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "disco",
+    "pop"
+   ],
+   "votes": 197,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kapita",
+   "name": "Kapitał",
+   "url": "https://radiokapital.pl/",
+   "stream": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "ambient",
+    "techno"
+   ],
+   "votes": 174,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-4-dance-rnb",
+   "name": "RMF 4 DANCE & RNB",
+   "url": "https://www.rmfon.pl/play,96",
+   "stream": "https://rs6-krk2.rmfstream.pl/rmf_4",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "r&b"
+   ],
+   "votes": 174,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antyradio-greatest",
+   "name": "Antyradio Greatest",
+   "url": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Greatest",
+   "stream": "https://an02.cdn.eurozet.pl/ANTGRE.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "greatest-hits",
+    "rock"
+   ],
+   "votes": 153,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "supernova-rock",
+   "name": "SuperNova Rock",
+   "url": "",
+   "stream": "https://waw.ic.smcdn.pl/6090-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 153,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-love-music",
+   "name": "I Love Music",
+   "url": "https://s3.slotex.pl:7150/",
+   "stream": "https://s3.slotex.pl:7150/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 142,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "meloradio-kielce",
+   "name": "Meloradio Kielce",
+   "url": "https://www.meloradio.pl/",
+   "stream": "https://ml03.cdn.eurozet.pl/mel-klc.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Świętokrzyskie",
+   "genre": [
+    "dance"
+   ],
+   "votes": 131,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chillizet-ladies-om",
+   "name": "Chillizet Ladies -om",
+   "url": "https://player.chillizet.pl/Kanaly-muzyczne/Chillizet-Ladies",
+   "stream": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "hits",
+    "relax",
+    "smooth-jazz"
+   ],
+   "votes": 130,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-7-poland",
+   "name": "Radio 7 Poland",
+   "url": "https://radio7.pl/",
+   "stream": "https://stream.radio7.pl/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 124,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zawiercie",
+   "name": "RADIO ZAWIERCIE",
+   "url": "http://radiozawiercie.pl/",
+   "stream": "https://ssl-1.radiohost.pl:9078/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 124,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trendy-radio-mobile",
+   "name": "Trendy Radio Mobile",
+   "url": "",
+   "stream": "https://stream.trendyradio.pl/m",
+   "codec": "ogg",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Podkarpacie",
+   "genre": [
+    "pop"
+   ],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antyradio-hard",
+   "name": "Antyradio Hard",
+   "url": "https://player.antyradio.pl/Kanaly-muzyczne/Antyradio-Hard",
+   "stream": "https://an05.cdn.eurozet.pl/ANTHAR.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 123,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gdansk-regiony-dab2",
+   "name": "Radio Gdańsk REGIONY DAB2",
+   "url": "https://radiogdansk.pl/",
+   "stream": "https://stream.task.gda.pl:8443/rg4",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "kashubian",
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "pomorskie",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 115,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mbox-polska-muzyka",
+   "name": "Radio Mbox - Polska Muzyka",
+   "url": "https://www.radiombox.pl/",
+   "stream": "https://s3.slotex.pl:7072/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 113,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-eska-opole",
+   "name": "Radio Eska Opole",
+   "url": "https://www.eska.pl/",
+   "stream": "https://ic2.smcdn.pl/2120-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 110,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "costa-s-ambient-radio",
+   "name": "CoSTa's Ambient Radio",
+   "url": "https://pc.costa-server.info.pl:11020/public/costas_ambient_radio",
+   "stream": "https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "ambient",
+    "electronic"
+   ],
+   "votes": 104,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cyganeczka",
+   "name": "Radio Cyganeczka",
+   "url": "https://cyganeczka-janeczka.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7474/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 96,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mix",
+   "name": "Radio MIX",
+   "url": "https://radiozender.mpbnetwerken.nl/radiomix.mp3",
+   "stream": "https://radiozender.mpbnetwerken.nl/radiomix.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "dance-music"
+   ],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4music",
+   "name": "4Music",
+   "url": "https://mta4life.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7102/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 90,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zet-128",
+   "name": "Radio ZET 128",
+   "url": "https://www.radiozet.pl/",
+   "stream": "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warszawa",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 75,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zet-128-kbps",
+   "name": "Radio ZET 128 Kbps",
+   "url": "https://www.radiozet.pl/",
+   "stream": "https://zt02.cdn.eurozet.pl/zet-old.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warszawa",
+   "genre": [
+    "hits"
+   ],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-maxx-podlasie",
+   "name": "RMF MAXX Podlasie",
+   "url": "https://www.rmfon.pl/play,203",
+   "stream": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Bialystok",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bielsko",
+   "name": "Radio Bielsko",
+   "url": "https://www.radiobielsko.pl/",
+   "stream": "https://stream.rcs.revma.com/062uq3z3kwzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 73,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24dubstep-pl-dropzone-radio",
+   "name": "24Dubstep.pl || DropZone Radio",
+   "url": "https://24dubstep.pl/",
+   "stream": "https://stream.24dubstep.pl/radio/8000/mp3_normal",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "Pomorskie",
+   "genre": [
+    "edm"
+   ],
+   "votes": 72,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eska-bia-ystok",
+   "name": "Eska - Białystok",
+   "url": "https://www.eska.pl/bialystok/",
+   "stream": "https://waw.ic.smcdn.pl/2020-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Bialystok",
+   "genre": [
+    "dance",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 72,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mbox",
+   "name": "Radio Mbox",
+   "url": "",
+   "stream": "https://s1.slotex.pl/shoutcast/7462/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-melody-express",
+   "name": "Radio Melody Express",
+   "url": "https://www.radiomelodyexpress.com/",
+   "stream": "https://s1.slotex.pl/shoutcast/7588/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-eska-starachowice",
+   "name": "Radio Eska Starachowice",
+   "url": "https://starachowice.eska.pl/",
+   "stream": "https://ic1.smcdn.pl/2400-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Świętokrzyskie",
+   "genre": [
+    "pop"
+   ],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibefm",
+   "name": "VibeFM",
+   "url": "https://vibefm.pl/",
+   "stream": "https://ic2.smcdn.pl/6490-1.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Warsaw",
+   "genre": [
+    "hip-hop",
+    "pop",
+    "rap"
+   ],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "futrzak-fm-320kbps",
+   "name": "FUTRZAK.FM - 320kbps",
+   "url": "https://futrzak.fm/",
+   "stream": "https://audio.futrzak.fm/futrzakfm-320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "genre": [
+    "edm",
+    "electronic"
+   ],
+   "votes": 57,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orbit",
+   "name": "Radio Orbit",
+   "url": "https://radio-orbit.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7390/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "alternative",
+    "pop",
+    "rock"
+   ],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ujot-fm",
+   "name": "UJOT FM",
+   "url": "https://ujot.fm/",
+   "stream": "https://stream.ujot.fm/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-fm-48-kbps",
+   "name": "RMF FM 48 Kbps",
+   "url": "https://www.rmf.fm/",
+   "stream": "https://rs101-krk.rmfstream.pl/RMFFM48",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Kraków \\",
+   "genre": [
+    "hits"
+   ],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-freee-89-9",
+   "name": "Radio Freee 89.9",
+   "url": "https://radiofreee.pl/",
+   "stream": "https://streaming.radio.lublin.pl:8843/radiofreeeacp",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 49,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-maxx-slask",
+   "name": "RMF MAXX ŚLĄSK",
+   "url": "https://www.rmfmaxx.pl/",
+   "stream": "https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK?aw_0_req.gdpr=true&aw_0_req.userConsentV2=CPwKwZzPwKwZzFKACAPLDNCsAP_AAEPAAB5YJitX_H__bW9r8f7_aft0eY1P9_j77uQxBhfJk-4F3LvW-JwX52E5NF36tqoKmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMRM2dYCF5rmxtjeQKY5_p_d3fx2D-t_dv839z3z81Xn3dZf--0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_9_rk2_eT13_79_7_D9-f_87_WCYoBJhqXEAXYEDITaBhFCiBGFYQEUCgAAAEgaICAFwYFOiMAn1gMgBQigCOCAEMAKMiAQAAAQBIRABIEWCAACAQCAAEACAQCAAgYABQAWAgEAAIDoGKYUACgWECRAREKYEJUCQQEtlQglBdIaYQBVlgBQCI2CgARAACKwABAWLgGCJASoSCBLqDaAAAgAQCiVCsQSemgAUEjZagAAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=false",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 49,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sok-sulecin",
+   "name": "Radio SOK Sulecin",
+   "url": "https://www.radiosok.pl/",
+   "stream": "https://s3.slotex.pl:7230/stream/1/?sid=1",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-na-stoku",
+   "name": "Radio Na Stoku",
+   "url": "https://radionastoku.pl/",
+   "stream": "https://sluchaj.link:5443/nastoku",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "state": "Białystok",
+   "genre": [
+    "dance",
+    "pop-music"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mbox-club",
+   "name": "Radio Mbox - Club",
+   "url": "https://radiombox.pl/",
+   "stream": "https://s3.slotex.pl:7204/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mega-radio",
+   "name": "Mega Radio",
+   "url": "https://www.radiomega.pl/",
+   "stream": "https://stream.rcs.revma.com/q18ty3qhwzzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "2000s",
+    "90s",
+    "dance",
+    "pop"
+   ],
+   "votes": 45,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bezpieczna-podroz-2",
+   "name": "RADIO BEZPIECZNA PODRÓŻ",
+   "url": "http://uradio.com/",
+   "stream": "https://ssl-1.radiohost.pl:9344/live",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nasz-hajmat",
+   "name": "Nasz Hajmat",
+   "url": "https://naszhajmat.eu/",
+   "stream": "https://s3.slotex.pl:7126/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 44,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danismania-dj-radio",
+   "name": "DanisMania DJ Radio",
+   "url": "https://www.facebook.com/Damismaniadjradio/",
+   "stream": "https://s1.slotex.pl/shoutcast/7512/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "german",
+    "greek",
+    "polish"
+   ],
+   "langCodes": [
+    "de",
+    "el",
+    "pl"
+   ],
+   "genre": [
+    "edm"
+   ],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-savana",
+   "name": "Radio Savana",
+   "url": "http://radio-savana.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7434/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24dubstep-pl-calmflow",
+   "name": "24Dubstep.pl || CalmFlow",
+   "url": "https://24dubstep.pl/",
+   "stream": "https://stream.24dubstep.pl/listen/chillstep/mp3_normal",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langCodes": [
+    "eng",
+    "pol"
+   ],
+   "genre": [
+    "ambient",
+    "chillout"
+   ],
+   "votes": 40,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-super-fm-97-5-fm-szczecin",
+   "name": "Radio Super FM 97,5 FM - Szczecin",
+   "url": "https://super.fm/",
+   "stream": "https://stream.super.fm:8443/superfm.mp3?1703660705890",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Zachodniopomorskie",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 38,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "g-os-nadziei",
+   "name": "Głos Nadziei",
+   "url": "http://glosnadziei.pl/",
+   "stream": "https://ssl-1.radiohost.pl:9548/index",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "mazowieckie",
+   "genre": [
+    "worship"
+   ],
+   "votes": 35,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "supernova-party",
+   "name": "Supernova Party",
+   "url": "https://uradio.pl/1374-radio-supernova-party.html",
+   "stream": "https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warszawa",
+   "genre": [
+    "disco"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maxplay-fm",
+   "name": "MaxPlay FM",
+   "url": "https://maxplay-fm.panelradiowy.pl/radio",
+   "stream": "https://s1.slotex.pl/shoutcast/8880/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-duch",
+   "name": "Radio Duch",
+   "url": "https://radioduch.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7174/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "oldies",
+    "pop"
+   ],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bahary",
+   "name": "Radio Bahary",
+   "url": "http://www.radiobahary.com/",
+   "stream": "https://s1.slotex.pl/shoutcast/7838/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 32,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-guardian",
+   "name": "Radio Guardian",
+   "url": "https://radioguardian.panelradiowy.pl/radio",
+   "stream": "https://s1.slotex.pl/shoutcast/7508/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fitness-music",
+   "name": "Fitness Music",
+   "url": "https://s3.slotex.pl:7414/",
+   "stream": "https://s3.slotex.pl:7414/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tobifm",
+   "name": "TobiFM",
+   "url": "https://tobifm.panelradiowy.pl/radio",
+   "stream": "https://s1.slotex.pl/shoutcast/7822/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sekret",
+   "name": "Radio Sekret",
+   "url": "https://radiosekret.com/",
+   "stream": "https://s1.slotex.pl/shoutcast/7556/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-moni-raj",
+   "name": "Radio Moni Raj",
+   "url": "https://radio-moniraj.panelradiowy.pl/radio",
+   "stream": "https://s1.slotex.pl/shoutcast/7646/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tango-uno",
+   "name": "Radio Tango Uno",
+   "url": "https://radiotangouno.pl/",
+   "stream": "https://radiotangouno-online.pl/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "mazowieckie",
+   "genre": [
+    "tango"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pr-przeboje-prl",
+   "name": "PR PRZEBOJE PRL",
+   "url": "https://moje.polskieradio.pl/Default.aspx?all=1",
+   "stream": "https://mpantusa-danidi01.radioca.st/id1",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "superorbita",
+   "name": "SuperOrbita",
+   "url": "https://superorbita.eu/",
+   "stream": "https://s1.slotex.pl/shoutcast/7086/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nadzieja-fm",
+   "name": "nadzieja.FM",
+   "url": "https://nadzieja.fm/",
+   "stream": "https://s5.radio.co/s34fca8455/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "mazowieckie",
+   "genre": [
+    "christian-music",
+    "instrumental"
+   ],
+   "votes": 23,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ram",
+   "name": "Radio RAM",
+   "url": "https://radioram.pl/",
+   "stream": "https://stream2.prw.pl:8001/radioram",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "dolnośląskie",
+   "genre": [
+    "lounge",
+    "smooth-jazz",
+    "soul"
+   ],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nestolatki",
+   "name": "Radio Nestolatki",
+   "url": "https://nestolatki.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7306/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 21,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-macabrismix",
+   "name": "Radio Macabrismix",
+   "url": "https://panel.macabrismix.com.pl/public/macabris_mix_radio_station_1-2c6_ghz",
+   "stream": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap",
+    "reggae"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmf-funk",
+   "name": "RMF Funk",
+   "url": "https://www.rmfon.pl/play,160#p",
+   "stream": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "funk"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tpi",
+   "name": "Radio TPI",
+   "url": "https://radiotpi.pl/",
+   "stream": "https://s1.slotex.pl/shoutcast/7632/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "classical",
+    "jazz",
+    "pop"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-strefa-muzy",
+   "name": "Radio Strefa Muzy",
+   "url": "https://radiostrefamuzy.pl/",
+   "stream": "https://radiosm.pl:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Małopolskie",
+   "genre": [
+    "pop"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "futrzak-fm",
+   "name": "FUTRZAK.FM",
+   "url": "https://futrzak.fm/",
+   "stream": "https://audio.futrzak.fm/futrzakfm-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "edm",
+    "electronic"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nasze-nowe-radio",
+   "name": "Nasze Nowe Radio",
+   "url": "https://nnradio.pl/",
+   "stream": "https://s3.slotex.pl:7388/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ftm",
+   "name": "Radio FTM",
+   "url": "http://www.radioftm.pl/",
+   "stream": "https://s1.slotex.pl:7792/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Lesser Poland",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xvibe",
+   "name": "Xvibe",
+   "url": "https://xvibe.pl/",
+   "stream": "https://xvibe.pl/stream.php",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lagoon-fm",
+   "name": "Lagoon FM",
+   "url": "https://www.lagoonfm.eu/",
+   "stream": "https://s1.slotex.pl/shoutcast/7828/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "edm"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "muzyczna-oaza",
+   "name": "Muzyczna Oaza",
+   "url": "https://muzyczna-oaza.pl/",
+   "stream": "https://s3.slotex.pl:7100/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "supernova-super-13",
+   "name": "Supernova Super 13",
+   "url": "https://uradio.pl/1371-radio-supernova-super-13.html",
+   "stream": "https://ic2.smcdn.pl/6230-1.mp3#Supernova_Party",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warszawa",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kacik-rodzinny",
+   "name": "Radio Kącik Rodzinny",
+   "url": "https://koncikrodzinny.ddv.pl/",
+   "stream": "https://s3.slotex.pl:7374/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red7-kana-edm",
+   "name": "Red7 - Kanał EDM",
+   "url": "https://red7.pl/",
+   "stream": "https://s.red7.pl/edm256",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-start",
+   "name": "Radio Start",
+   "url": "https://radio-start.panelradiowy.pl/radio",
+   "stream": "https://s1.slotex.pl/shoutcast/7644/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-family",
+   "name": "Music Family",
+   "url": "https://darek79-musicfamily.panelradiowy.pl/radio",
+   "stream": "https://s3.slotex.pl:7216/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red7",
+   "name": "Red7",
+   "url": "https://red7.pl/",
+   "stream": "https://red7.pl/play.m3u",
+   "codec": "unknown",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red7-pl-kana-g-owny",
+   "name": "Red7.pl - Kanał Główny",
+   "url": "https://red7.pl/",
+   "stream": "https://s.red7.pl/stream256",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "disco",
+    "electronic",
+    "house",
+    "techno"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-odzew",
+   "name": "Radio Odzew",
+   "url": "https://odzew.fm/",
+   "stream": "https://stream12.hosterion.pl/stream/odzew",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "indie"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dzwiek",
+   "name": "Radio Dzwiek",
+   "url": "https://radiodzwiek.slask.pl/",
+   "stream": "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Slaskie",
+   "genre": [
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-wiatraczek",
+   "name": "Radio Wiatraczek",
+   "url": "https://wiatraczek.panelradiowy.pl/radio",
+   "stream": "https://s3.slotex.pl:7082/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dzikieradio",
+   "name": "DzikieRadio",
+   "url": "https://dzikieradio.pl/",
+   "stream": "https://ssl-1.radiohost.pl:11250/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Żywiecki",
+   "genre": [
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-styl-fm",
+   "name": "Radio Styl FM",
+   "url": "http://radiosfm.totalh.net/",
+   "stream": "https://s3.slotex.pl:7196/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chilli-zet-biega",
+   "name": "Chilli ZET Biega",
+   "url": "https://www.chillizet.pl/",
+   "stream": "https://ch03.cdn.eurozet.pl/CHIRUN.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chilli-zet-soul",
+   "name": "Chilli ZET Soul",
+   "url": "https://www.chillizet.pl/",
+   "stream": "https://zt02.cdn.eurozet.pl/CHISOU.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "soul"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "happy-station",
+   "name": "Happy Station",
+   "url": "https://happy-station.riversedge.pl/",
+   "stream": "https://s3.slotex.pl/shoutcast/7496/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "oldies",
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-100",
+   "name": "RADIO 100",
+   "url": "https://onlineradiobox.com/pl/radio100/",
+   "stream": "https://s3.slotex.pl:7278/stream/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "polish"
+   ],
+   "langCodes": [
+    "en",
+    "pl"
+   ],
+   "state": "Wielkopolskie",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "electronic",
+    "hits",
+    "oldies"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nowy-swiat-64k",
+   "name": "Radio Nowy Świat 64k",
+   "url": "https://nowyswiat.online/",
+   "stream": "https://stream.nowyswiat.online/aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiocmp3-eu-kana-g-owny",
+   "name": "RadioCmp3.eu - Kanał Główny",
+   "url": "https://radiocmp3.eu/",
+   "stream": "https://s1.cmp3.eu/stream128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Warszawa",
+   "genre": [
+    "dance",
+    "disco",
+    "techno"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trip-radio",
+   "name": "trip radio",
+   "url": "https://www.tripradio.net/",
+   "stream": "https://a13.asurahosting.com/listen/trip-radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "downtempo",
+    "electronica"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bunt",
+   "name": "Radio Bunt",
+   "url": "https://www.radiobunt.com/",
+   "stream": "https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [
+    "indie"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mragowo",
+   "name": "Radio Mrągowo",
+   "url": "https://radiomragowo.pl/",
+   "stream": "https://stream.radiomragowo.pl/listen/radio_mragowo/radio.mp3?t=1773333890924",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "warmińsko-mazurskie",
+   "genre": [
+    "country"
+   ],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiobest-pl",
+   "name": "RadioBEST.pl",
+   "url": "https://radiobest.pl/",
+   "stream": "https://stream.rcs.revma.com/k7z0hu129s3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Gorny Slask",
+   "genre": [
+    "country"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pawarota",
+   "name": "Pawarota",
+   "url": "https://pawarotaradio.pl/",
+   "stream": "https://pawarota-radio-c82a7d2e.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fiorda",
+   "name": "Radio Fiorda",
+   "url": "https://radiofiorda.pl/",
+   "stream": "https://radiofiorda.pl/stream/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "pl",
+    "uk"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-podlasie-2",
+   "name": "Radio Podlasie 2",
+   "url": "https://radiopodlasie2019.panelradiowy.pl/radio",
+   "stream": "https://s3.slotex.pl:7438/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Podlasie",
+   "genre": [
+    "disco"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-osjakow",
+   "name": "Radio Osjaków",
+   "url": "https://radioosjakow.pl/",
+   "stream": "https://stream20.hosterion.pl:7095/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Polska",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-z-ote-przeboje-bieszczady",
+   "name": "Radio Złote Przeboje - Bieszczady",
+   "url": "https://zloteprzeboje.pl/",
+   "stream": "https://radiostream.pl/tuba8946-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "bieszczady",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reverb-riff-radio",
+   "name": "Reverb Riff Radio",
+   "url": "https://reverbriff.com/",
+   "stream": "https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rsc",
+   "name": "Radio RSC",
+   "url": "https://radiorsc.pl/",
+   "stream": "https://stream.rcs.revma.com/94fud6a6z72vv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "state": "Łódzkie",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rmf-maxxx",
+   "name": "Radio RMF MAXXX",
+   "url": "",
+   "stream": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 13509,
+   "clicks": 33,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zet",
+   "name": "Radio ZET",
+   "url": "",
+   "stream": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10113,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tok-fm",
+   "name": "TOK FM",
+   "url": "https://www.tokfm.pl/Tokfm/0,0.html",
+   "stream": "https://radiostream.pl/tuba10-1.mp3#TOK_FM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 9751,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eska-rock",
+   "name": "ESKA ROCK",
+   "url": "https://www.eskarock.pl/",
+   "stream": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8418,
+   "clicks": 42,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tokfm",
+   "name": "TokFM",
+   "url": "https://www.tokfm.pl/",
+   "stream": "https://radiostream.pl/tuba10-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 6080,
+   "clicks": 40,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nowy-swiat-256k",
+   "name": "Radio Nowy Świat 256k",
+   "url": "",
+   "stream": "https://go-audio.toya.net.pl/63214",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 5861,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-plus",
+   "name": "Radio Plus",
+   "url": "https://www.radioplus.pl/",
+   "stream": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 4126,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chilli-zet",
+   "name": "Chilli Zet",
+   "url": "https://www.chillizet.pl/",
+   "stream": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 3495,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wnet-fm",
+   "name": "Wnet.fm",
+   "url": "https://wnet.fm/",
+   "stream": "https://media.wnet.fm/wnet.fm",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 3294,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vox-fm-128",
+   "name": "VOX FM 128",
+   "url": "http://voxfm.pl/",
+   "stream": "https://ic2.smcdn.pl/3990-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 2881,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anty-radio",
+   "name": "Anty Radio",
+   "url": "https://www.antyradio.pl/",
+   "stream": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1730,
+   "clicks": 38,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-z-ote-przeboje-bia-ystok",
+   "name": "Radio Złote Przeboje Białystok",
+   "url": "https://zloteprzeboje.tuba.pl/zloteprzeboje/0,102048.html?tag=bia%B3ystok",
+   "stream": "https://radiostream.pl/tuba8900-1.mp3?cache=1647512038",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 1513,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-republika",
+   "name": "Radio Republika",
+   "url": "https://radiotvrepublika.pl/",
+   "stream": "https://ssl-1.radiotvrepublika.pl:12698/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "polish"
+   ],
+   "langCodes": [
+    "pl"
+   ],
+   "genre": [],
+   "votes": 1414,
+   "clicks": 31,
+   "verified": "2026-08-24"
+  }
+ ]
+}

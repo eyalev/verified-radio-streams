@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Barbados" tvg-genre="reggae",HOTT 95.3FM
+https://ice64.securenetsystems.net/HOTT953
+#EXTINF:-1 group-title="Barbados" tvg-genre="adult-contemporary,dance,pop",The BEAT 104.1 FM
+https://ice66.securenetsystems.net/THEBEAT1041
+#EXTINF:-1 group-title="Barbados" tvg-genre="gospel",LIFE 97.5 FM
+https://ice64.securenetsystems.net/LIFE975
+#EXTINF:-1 group-title="Barbados",VOB 92.9 FM
+https://ice66.securenetsystems.net:80/VOB929
+#EXTINF:-1 group-title="Barbados",Radio Bimshire 106.1 FM
+https://listen.radioking.com/radio/635914/stream/700051
+#EXTINF:-1 group-title="Barbados",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

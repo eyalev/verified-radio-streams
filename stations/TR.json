@@ -1,0 +1,2469 @@
+{
+ "countryCode": "TR",
+ "country": "Türkiye",
+ "slug": "turkiye",
+ "continent": "asia",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/turkiye/",
+ "stations": [
+  {
+   "id": "radyo-siran",
+   "name": "Radyo Şiran",
+   "url": "https://live.radyositesihazir.com/8078/stream",
+   "stream": "https://live.radyositesihazir.com/8078/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 14136,
+   "clicks": 118,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-fm",
+   "name": "Super Fm",
+   "url": "https://superfm.com.tr/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4542,
+   "clicks": 106,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-45lik-yeni",
+   "name": "Radyo 45lik yeni",
+   "url": "https://www.radyo45lik.com/",
+   "stream": "https://stream.radyo45lik.com:4545/",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 2216,
+   "clicks": 54,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alem-fm",
+   "name": "Alem Fm",
+   "url": "https://www.alemfm.com/",
+   "stream": "https://turkmedya.radyotvonline.net/alemfmaac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2158,
+   "clicks": 67,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "halk-radyo",
+   "name": "Halk Radyo",
+   "url": "",
+   "stream": "https://anadolu.liderhost.com.tr:10876/;",
+   "codec": "aac",
+   "bitrate": 104,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1003,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-antalya",
+   "name": "Radio Antalya",
+   "url": "https://radioantalya.com/",
+   "stream": "https://my.radiolize.com/radio/8000/radio.mp3",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Antalya",
+   "genre": [
+    "downtempo",
+    "electronica",
+    "indie"
+   ],
+   "votes": 826,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-fenomen-clubbin",
+   "name": "Radyo Fenomen Clubbin",
+   "url": "https://radyofenomen.com/",
+   "stream": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "english",
+    "turkish"
+   ],
+   "langCodes": [
+    "en",
+    "tr"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "house"
+   ],
+   "votes": 786,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erzincan-cem-radyo",
+   "name": "Erzincan Cem Radyo",
+   "url": "",
+   "stream": "https://erzincan.80.yayin.com.tr/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 760,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-44",
+   "name": "Radio 44",
+   "url": "https://radyo44.com.tr/",
+   "stream": "https://radyo44.80.yayin.com.tr/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 748,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-sputnik",
+   "name": "Radyo Sputnik",
+   "url": "https://anlatilaninotesi.com.tr/",
+   "stream": "https://icecast-rian.cdnvideo.ru/voicestm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Istanbul",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 653,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hayatmix",
+   "name": "HAYATMİX",
+   "url": "",
+   "stream": "https://hayatmix.yayin.com.tr/mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 568,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "s1lhoutte-arabesk-fm",
+   "name": "S1lhoutte Arabesk FM",
+   "url": "https://s1lhouttefm.radiostream123.com/",
+   "stream": "https://yayin.radyoarabesk.com.tr:8000/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Istanbul",
+   "genre": [
+    "arabesk"
+   ],
+   "votes": 304,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-fm-2",
+   "name": "Süper Fm",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 286,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-taksi",
+   "name": "Radyo Taksi",
+   "url": "https://radyo.taksi.com/",
+   "stream": "https://live.radyo.in/8006/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 240,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-dance",
+   "name": "Power Dance",
+   "url": "http://www.powerfm.com.tr/",
+   "stream": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 250,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 210,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fg-93-8-future-generation-mp3-128k",
+   "name": "FG 93.8 (Future Generation) mp3 128k",
+   "url": "https://www.futuregeneration.net/",
+   "stream": "https://edge1.radyotvonline.net/shoutcast/play/fg",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "edm",
+    "trance"
+   ],
+   "votes": 205,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-yalova",
+   "name": "Radyo Yalova",
+   "url": "https://radyoyalova.com/",
+   "stream": "https://studio25.radiolize.com/radio/8200/radio.mp3",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 177,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-turk",
+   "name": "Retro Turk",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 149,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-35",
+   "name": "Radyo 35",
+   "url": "https://www.radyo35.com/",
+   "stream": "https://yayin.turkhosted.com/6012/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "tr",
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "izmir",
+   "genre": [
+    "pop"
+   ],
+   "votes": 137,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": ".Al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 135,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loops-radio-house-station",
+   "name": "Loops Radio House Station",
+   "url": "https://loopsradio.com/radiochannel/loops-radio-house-station/",
+   "stream": "https://loopsdeep.ozelip.com/7806/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "turkish"
+   ],
+   "langCodes": [
+    "en",
+    "tr"
+   ],
+   "state": "Istambul",
+   "genre": [
+    "house"
+   ],
+   "votes": 105,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mega-ask-fm",
+   "name": "Mega Ask FM",
+   "url": "https://mega-ask.com.tr/",
+   "stream": "https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 91,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-2-fm",
+   "name": "Süper 2 FM",
+   "url": "https://karnaval.com/radyolar/super2",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 91,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mayday-records",
+   "name": "Mayday Records",
+   "url": "https://maydayrecords.net/",
+   "stream": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english-uk",
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 73,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-line",
+   "name": "Radio Line",
+   "url": "https://radioline.fm/",
+   "stream": "https://online.radioline.fm:8443/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "oldies",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 51,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-odtu-easy",
+   "name": "Radyo Odtu Easy",
+   "url": "https://radyoodtu.com.tr/",
+   "stream": "https://stream3.radyoodtu.com.tr:8000/easy",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 50,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-gokceada",
+   "name": "Radyo Gökçeada",
+   "url": "https://www.radyogokceada.net/",
+   "stream": "https://radyo.yayin.com.tr:6179/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "turkish"
+   ],
+   "langCodes": [
+    "en",
+    "tr"
+   ],
+   "state": "Canakkale",
+   "genre": [
+    "90s",
+    "easy-listening",
+    "jazz"
+   ],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "koroglu-fm",
+   "name": "Köroğlu FM",
+   "url": "https://www.canliradyodinle.fm/radyo-cal?type=shouthtml&radyoid=8278&yayinno=1",
+   "stream": "https://yayin.turkhosted.com:6068/stream?/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Bolu",
+   "genre": [
+    "pop"
+   ],
+   "votes": 27,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ktu",
+   "name": "KTU",
+   "url": "https://www4.ktu.edu.tr/radyoktu/player2/index.html",
+   "stream": "https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "turkish"
+   ],
+   "langCodes": [
+    "en",
+    "tr"
+   ],
+   "genre": [
+    "country",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 25,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-y-caz",
+   "name": "Kıyı Caz",
+   "url": "https://kiyimuzik.com/",
+   "stream": "https://caz.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gol-radyo",
+   "name": "Göl Radyo",
+   "url": "https://bingolradyo.com/",
+   "stream": "https://28553.live.streamtheworld.com/SUPER_FM_ITUNES.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Bingöl",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 14,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-esenler",
+   "name": "Radyo Esenler",
+   "url": "https://yayin2.canliyayin.org:10978/;",
+   "stream": "https://yayin2.canliyayin.org:10978/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-venus",
+   "name": "Radyo Venüs",
+   "url": "https://www.radyovenus.net/",
+   "stream": "https://stream2.rtvtakip.com:7005/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Bandırma",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "turk-rock-fm",
+   "name": "Türk Rock FM",
+   "url": "https://turkrockfm.com/",
+   "stream": "https://yayin5.radyohizmeti.com/8090/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-4-hatay-tempo-fm",
+   "name": "101.4 HATAY TEMPO FM",
+   "url": "http://hatayradyosu.com/tempo.html",
+   "stream": "https://sslyayin.netyayin.net:1215/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "arapça",
+    "turkish"
+   ],
+   "langCodes": [
+    "ar",
+    "tr"
+   ],
+   "state": "Hatay ; Antakya ; Samandağ ; Defne",
+   "genre": [
+    "folk"
+   ],
+   "votes": 4,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antakya-renk-fm-hatay",
+   "name": "ANTAKYA RENK FM HATAY",
+   "url": "https://hatayradyosu.com/",
+   "stream": "https://radyo.yayindakiler.com:3016/renk",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Hatay",
+   "genre": [
+    "turku"
+   ],
+   "votes": 4,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "romantik-ses-sakarya",
+   "name": "Romantik SES Sakarya",
+   "url": "https://www.romantikses.com/",
+   "stream": "https://radyo.romantikses.com/romantiksessakary/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 3,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bodrum-fm",
+   "name": "Bodrum Fm",
+   "url": "https://bodrumfm.org/",
+   "stream": "https://live.bodrumfm.org/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "tr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "enradio",
+   "name": "Enradio",
+   "url": "https://enradio.tr/",
+   "stream": "https://radyo1.radyo-dinle.tc/8098/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Türkiye",
+   "genre": [
+    "indie",
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyoaura",
+   "name": "RadyoAura",
+   "url": "https://radiaura.net/radyoaura",
+   "stream": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langCodes": [
+    "tur"
+   ],
+   "state": "Istanbul",
+   "genre": [
+    "jazz",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bizim-fm-sile",
+   "name": "Bizim Fm Şile",
+   "url": "https://www.bizimfmsile.com/",
+   "stream": "https://stream.turkiyeradyolari.com/9300/stream?_t=1786859250066",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "turkish",
+    "turkçe"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "esas-radyo",
+   "name": "Esas radyo",
+   "url": "https://www.lokomotifradyolari.com/",
+   "stream": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "tr"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-fm-103-4",
+   "name": "Heart FM 103.4",
+   "url": "https://www.heartfm.com.tr/",
+   "stream": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Ankara",
+   "genre": [
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "irvess",
+   "name": "irvess",
+   "url": "https://irvess.com/",
+   "stream": "https://irvess.com/stream/irvess",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dansk/oldnordisk",
+    "english",
+    "español-chile",
+    "français---lëtzebuergesch"
+   ],
+   "langCodes": [
+    "en",
+    "tr"
+   ],
+   "state": "Konya",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "romantik-ses-isparta",
+   "name": "Romantik Ses ISPARTA",
+   "url": "https://www.romantikses.com/",
+   "stream": "https://radyo.romantikses.com/romantiksesispart/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [
+    "pop",
+    "romantic"
+   ],
+   "votes": 0,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kral-turk-fm",
+   "name": "KRAL TÜRK FM",
+   "url": "https://live.radyositesihazir.com/8032/stream",
+   "stream": "https://live.radyositesihazir.com/8032/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10372,
+   "clicks": 230,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-fenomen",
+   "name": "Radyo Fenomen",
+   "url": "https://www.radyofenomen.com/",
+   "stream": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 6658,
+   "clicks": 55,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-seymen",
+   "name": "Radyo Seymen",
+   "url": "https://www.radyoseymen.com.tr/",
+   "stream": "https://yayin.radyoseymen.com.tr:1070/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 5486,
+   "clicks": 66,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joy-turk-turkey",
+   "name": "JOY TÜRK TURKEY",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3168,
+   "clicks": 70,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "slow-turk",
+   "name": "Slow Turk",
+   "url": "https://www.slowturk.com.tr/",
+   "stream": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 3036,
+   "clicks": 114,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-fm-2-turkey",
+   "name": "SUPER FM 2 TURKEY",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2073,
+   "clicks": 32,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-fm-turkey",
+   "name": "Metro fm turkey",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1640,
+   "clicks": 30,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "haberturk-radyo",
+   "name": "Habertürk Radyo",
+   "url": "https://www.haberturkradyo.com.tr/",
+   "stream": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1480,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kurd1-fm",
+   "name": "Kurd1 FM",
+   "url": "https://www.kurd1radyo.com/",
+   "stream": "https://listen.radioking.com/radio/119251/stream/158701",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kurdish"
+   ],
+   "langCodes": [
+    "ku"
+   ],
+   "genre": [],
+   "votes": 1451,
+   "clicks": 46,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trt-fm",
+   "name": "TRT FM",
+   "url": "https://radyo.trt.net.tr/",
+   "stream": "https://trt.radyotvonline.net/trtfm",
+   "codec": "aac",
+   "bitrate": 129,
+   "genre": [],
+   "votes": 939,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bayram-fm-turkey",
+   "name": "BAYRAM FM TURKEY",
+   "url": "https://sslyayin.netyayin.net/3442/stream",
+   "stream": "https://sslyayin.netyayin.net/3442/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 814,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joy-turk-rock-turkey",
+   "name": "JOY TÜRK ROCK TURKEY",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 752,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trt-radyo-1",
+   "name": "TRT Radyo 1",
+   "url": "https://radyo.trt.net.tr/kanallar/radyo-1",
+   "stream": "https://trt.radyotvonline.net/trt1",
+   "codec": "aac",
+   "bitrate": 129,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 673,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "azadi-fm",
+   "name": "Azadi Fm",
+   "url": "http://canlikurtceradyodinle.com/havin-fm-canli-yayin/",
+   "stream": "https://amed.ozelip.com/8040/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "kurdish",
+    "turkish"
+   ],
+   "langCodes": [
+    "ku",
+    "tr"
+   ],
+   "genre": [],
+   "votes": 603,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "turkiyem-fm",
+   "name": "Türkiyem FM",
+   "url": "https://turkiyemfm.com/",
+   "stream": "https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 426,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-alaturka",
+   "name": "Radyo Alaturka",
+   "url": "https://radyoalaturka.com.tr/index?0",
+   "stream": "https://yayin.jumboserver.net:9100/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 416,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lalegul-fm",
+   "name": "LALEGÜL FM",
+   "url": "https://icecast.netmedya.net/lalegulfm",
+   "stream": "https://icecast.netmedya.net/lalegulfm",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 413,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-trio",
+   "name": "Radyo Trio",
+   "url": "https://radyotrio.com/",
+   "stream": "https://radyotrio.radyotvonline.net/radyotrio",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "türkisch"
+   ],
+   "genre": [],
+   "votes": 377,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tgrt-fm",
+   "name": "TGRT FM",
+   "url": "http://www.tgrt-fm.com.tr/",
+   "stream": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 339,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-mezopotamya",
+   "name": "radyo mezopotamya",
+   "url": "https://www.artuklumezopotamyaradyo.com/",
+   "stream": "https://anadolu.liderhost.com.tr/9404/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "kurdish",
+    "turkish"
+   ],
+   "langCodes": [
+    "ar",
+    "ku",
+    "tr"
+   ],
+   "genre": [],
+   "votes": 331,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-turk",
+   "name": "Kiss Türk",
+   "url": "https://kissfm.kissapp.com.tr/",
+   "stream": "https://kiss.radyotvonline.net/kissturk",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 308,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mydonose",
+   "name": "Radio Mydonose",
+   "url": "https://karnaval.com/radyolar/radiomydonose",
+   "stream": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 278,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-gol",
+   "name": "Radyo Gol",
+   "url": "https://edge1.radyotvonline.net/shoutcast/play/radyogol",
+   "stream": "https://edge1.radyotvonline.net/shoutcast/play/radyogol",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 276,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hemdem-radyo",
+   "name": "Hemdem Radyo",
+   "url": "https://hemdemradyo.com/",
+   "stream": "https://radyoserver3.okeylisans.com/8040/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 225,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trt-radyo-haber",
+   "name": "TRT Radyo Haber",
+   "url": "https://radyo.trt.net.tr/kanallar/trt-radyo-haber",
+   "stream": "https://trt.radyotvonline.net/trthaber",
+   "codec": "aac",
+   "bitrate": 132,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 219,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "turkuradyo",
+   "name": "TürküRadyo",
+   "url": "https://turkuradyo.net/",
+   "stream": "https://yayin.turkhosted.com/4591/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 207,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-ekin",
+   "name": "Radyo Ekin",
+   "url": "https://www.radyoekin.net/",
+   "stream": "https://yayin.turkhosted.com/6006/stream",
+   "codec": "aac",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 185,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hayatmix-slow",
+   "name": "HaYaTMiX Slow",
+   "url": "https://www.hayatmix.com/slow/",
+   "stream": "https://radyo.yayin.com.tr:4090/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 183,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mydonose-turk",
+   "name": "Mydonose Türk",
+   "url": "https://karnaval.com/radyolar/mydonoseturk",
+   "stream": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 178,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-akdeniz",
+   "name": "RADYO AKDENIZ",
+   "url": "https://www.radyoakdeniz.com/",
+   "stream": "https://yayin.radyoakdeniz.com/9470/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 175,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kupe-fm",
+   "name": "Küpe FM",
+   "url": "https://www.kupefm.com.tr/",
+   "stream": "https://icecast.netmedya.net/kupefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 131,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erkam-radyo",
+   "name": "Erkam Radyo",
+   "url": "https://www.erkamradyo.com/",
+   "stream": "https://api-tv5.yayin.com.tr:8002/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 125,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dijital-radyo",
+   "name": "Dijital radyo",
+   "url": "https://anadolu.liderhost.com.tr:10961/;",
+   "stream": "https://anadolu.liderhost.com.tr:10961/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 120,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiyi-muzik",
+   "name": "KIYI Muzik",
+   "url": "https://kiyimuzik.com/radyo/",
+   "stream": "https://kiyi.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 100,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loops-radio-progressive",
+   "name": "Loops Radio Progressive",
+   "url": "https://loopsradio.com/radiochannel/loops-radio-progressive-house-station/",
+   "stream": "https://progressive.ozelip.com/7670/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Istambul",
+   "genre": [],
+   "votes": 99,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-glamorize",
+   "name": "Radio Glamorize",
+   "url": "https://radioglamorize.com/",
+   "stream": "https://live.radioglamorize.com/stream1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "english-uk",
+    "turkish"
+   ],
+   "langCodes": [
+    "en",
+    "tr"
+   ],
+   "state": "Istanbul",
+   "genre": [],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "turku-radyo",
+   "name": "Türkü Radyo",
+   "url": "https://www.turkuradyo.info/",
+   "stream": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "türkisch"
+   ],
+   "state": "kocaeli",
+   "genre": [],
+   "votes": 88,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fakir-fm",
+   "name": "Fakir Fm",
+   "url": "https://www.fakirfm.com/",
+   "stream": "https://live.radyositesihazir.com/1025/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 87,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-mori",
+   "name": "Radyo Mori",
+   "url": "https://amed.ozelip.com/",
+   "stream": "https://amed.ozelip.com/8040/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "kurdi",
+    "kurdish"
+   ],
+   "langCodes": [
+    "ku"
+   ],
+   "genre": [],
+   "votes": 87,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loops-radio-elektronica-station",
+   "name": "Loops Radio Elektronica Station",
+   "url": "https://loopsradio.com/radiochannel/loops-radio-electronica-station",
+   "stream": "https://ssl22.radyotelekom.com/8232/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english-uk",
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Istambul",
+   "genre": [],
+   "votes": 85,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loops-radio-techno",
+   "name": "Loops Radio Techno",
+   "url": "https://loopsradio.com/radiochannel/loops-radio-techno-station/",
+   "stream": "https://ip179.ozelip.com/7688//asistan/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Istambul",
+   "genre": [],
+   "votes": 84,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-sinerji",
+   "name": "Radyo Sinerji",
+   "url": "https://www.radyosinerji.com/",
+   "stream": "https://radio.guventechnology.com/9994/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Istanbul",
+   "genre": [],
+   "votes": 73,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "max-fm-95-8-maximum-music",
+   "name": "Max Fm 95.8 ‘Maximum Music'",
+   "url": "https://www.maxfm.com.tr/",
+   "stream": "https://maxfm.radyotvonline.net/stream/164/;",
+   "codec": "mp3",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "elaz-g-mavi-radyo",
+   "name": "Elazığ Mavi Radyo",
+   "url": "https://maviradyo.net/",
+   "stream": "https://yayin.turkhosted.com/6066/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "türkisch"
+   ],
+   "genre": [],
+   "votes": 62,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danceland-anthems",
+   "name": "DanceLand Anthems",
+   "url": "https://like.radio/danceland-anthems/",
+   "stream": "https://likeradiostream.com/dancelandanthems",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-2000-erzincan",
+   "name": "Radyo 2000 Erzincan",
+   "url": "http://www.2000radyo.com/",
+   "stream": "https://radyo.yayindakiler.com:3030/stream?/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 57,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-viva",
+   "name": "Radyo Viva",
+   "url": "https://www.radyoviva.com.tr/",
+   "stream": "https://edge1.radyotvonline.net/shoutcast/play/radyoviva",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 57,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megasite",
+   "name": "MEGASITE",
+   "url": "https://www.megasite.com.tr/",
+   "stream": "https://stream.netradyom.com/listen/megasite/radio.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 56,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kalp-fm",
+   "name": "Kalp FM",
+   "url": "https://kalpfm.com/",
+   "stream": "https://yayin.kalpfm.com:8080/",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Istanbul",
+   "genre": [],
+   "votes": 55,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-nida",
+   "name": "Radyo Nida",
+   "url": "https://radyonida.com.tr/",
+   "stream": "https://anadolu.liderhost.com.tr/8106/stream",
+   "codec": "mp3",
+   "bitrate": 112,
+   "langs": [
+    "turkish",
+    "turkçe"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Bursa",
+   "genre": [],
+   "votes": 55,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ozel-fm",
+   "name": "Özel FM",
+   "url": "https://ozelfm.net/",
+   "stream": "https://ozelfm.80.yayin.com.tr/;stream/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 54,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oyunpiyat",
+   "name": "oyunpiyat",
+   "url": "https://yayin.hostwin.net/8888/stream%20%20oyunpiyatfm",
+   "stream": "https://yayin.hostwin.net/8888/stream%20%20oyunpiyatfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 49,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "x-radio",
+   "name": "X Radio",
+   "url": "https://www.xradio.com.tr/",
+   "stream": "https://stream.xradio.com.tr:8770/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 49,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "show-radio",
+   "name": "Show radio",
+   "url": "https://showradyo.com.tr/",
+   "stream": "https://edge1.radyotvonline.net/shoutcast/play/showradyo",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiyi-turkce",
+   "name": "KIYI Turkce",
+   "url": "https://kiyimuzik.com/radyo/",
+   "stream": "https://kiyiturk.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-duygusal",
+   "name": "Radyo Duygusal",
+   "url": "https://radyoduygusal.com/",
+   "stream": "https://radyoduygusal.kesintisizyayin.com:9596/;*.nsv",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 38,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-mydonose",
+   "name": "radyo mydonose",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 38,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erzincan-nostalji-radyo",
+   "name": "Erzincan Nostalji Radyo",
+   "url": "https://erzincannostalji.ozelip.com/8238/stream",
+   "stream": "https://erzincannostalji.ozelip.com/8238/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "türkisch"
+   ],
+   "genre": [],
+   "votes": 37,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bayram-fm",
+   "name": "Bayram FM",
+   "url": "https://www.bayramfm.com/",
+   "stream": "https://sslyayin.netyayin.net:10962/320.mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "konya-isra-fm",
+   "name": "Konya İsra FM",
+   "url": "https://www.israfm.com/",
+   "stream": "https://yayin2.canliyayin.org:8210/;stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Konya",
+   "genre": [],
+   "votes": 36,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-13",
+   "name": "Radyo 13",
+   "url": "http://www.radyo13.com.tr/",
+   "stream": "https://radyo.yayindakiler.com:3050/stream?/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 32,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-kent",
+   "name": "Radyo Kent",
+   "url": "https://www.kentfm955.com.tr/",
+   "stream": "https://kentfm955.ozelip.com/9306/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danceland",
+   "name": "Danceland",
+   "url": "https://like.radio/danceland-home/",
+   "stream": "https://likeradiostream.com/danceland",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ulusal-arabesk",
+   "name": "ULUSAL ARABESK",
+   "url": "https://radio.guventechnology.com/9334/stream",
+   "stream": "https://radio.guventechnology.com/9334/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 26,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erkam-radyo-2nd-stream",
+   "name": "Erkam Radyo 2nd Stream",
+   "url": "https://www.erkamradyo.com/",
+   "stream": "https://yayin2.canliyayin.org:10910/stream?",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish",
+    "turkçe"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kafa-radyo",
+   "name": "Kafa Radyo",
+   "url": "https://kafaradyo.com/",
+   "stream": "https://radyofitrat.radyotvonline.net/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 23,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-en",
+   "name": "Radyo EN",
+   "url": "https://www.radyoen.com.tr/",
+   "stream": "https://yayin2.canliyayin.org:7222/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Konya",
+   "genre": [],
+   "votes": 23,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-hakk-n-sesi",
+   "name": "Radyo Hakkın Sesi",
+   "url": "https://www.mihr.com/radyo/2/hakkin-sesi",
+   "stream": "https://radio.mihr.com/radio/8010/hakkinsesi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hayatmix-arabesk",
+   "name": "HAYATMİX ARABESK",
+   "url": "https://radyo.yayin.com.tr:4078/mp3",
+   "stream": "https://radyo.yayin.com.tr:4078/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "number-1-turk-rap",
+   "name": "Number 1 Türk Rap",
+   "url": "https://dijimedya.radyotvonline.net/turkrap",
+   "stream": "https://dijimedya.radyotvonline.net/turkrap",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-karadeniz",
+   "name": "Radyo Karadeniz",
+   "url": "https://www.radyokaradeniz.com/",
+   "stream": "https://radyomar.80.yayin.com.tr/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish",
+    "turkçe"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Ardeşen",
+   "genre": [],
+   "votes": 20,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 19,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joy-turk-fm",
+   "name": "JOY TÜRK FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 19,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-turkce-her-5-dakikada-haber-radyosu",
+   "name": "REPLAY NEWS - Türkçe Her 5 dakikada haber radyosu",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Istanbul",
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "imaj-fm-erzurum",
+   "name": "imaj fm Erzurum",
+   "url": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+   "stream": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Erzurum",
+   "genre": [],
+   "votes": 17,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yaren-fm",
+   "name": "Yaren FM",
+   "url": "https://tarsusfm.com.tr/",
+   "stream": "https://yarenfmn.80.yayin.com.tr//stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 17,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-hidayet-cag",
+   "name": "Radyo Hidayet Çağı",
+   "url": "https://www.mihr.com/radyo/1/hidayet-cagi",
+   "stream": "https://radio.mihr.com/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 16,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-mars",
+   "name": "Radyo Mars",
+   "url": "https://radyomars.com/",
+   "stream": "https://yayin.radyomadyo.com:9400/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Istanbul",
+   "genre": [],
+   "votes": 16,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "karma-turk-slow",
+   "name": "KARMA TÜRK SLOW",
+   "url": "https://yayin.radyomadyo.com:8004/stream",
+   "stream": "https://yayin.radyomadyo.com:8004/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nur-radyo",
+   "name": "NUR Radyo",
+   "url": "https://www.mihr.com/radyo/4/radyo-nurtv",
+   "stream": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 14,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "her-an-kur-an-her-an-mutluluk",
+   "name": "Her An Kur'an Her An Mutluluk",
+   "url": "https://www.mihr.com/radyo/6/heran-kuran-heran-mutluluk",
+   "stream": "https://radio.mihr.com/radio/8050/radio.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-y-gece",
+   "name": "Kıyı Gece",
+   "url": "https://kiyimuzik.com/",
+   "stream": "https://gece.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-turku",
+   "name": "RADYO TÜRKÜ",
+   "url": "https://yayin.radyomadyo.com:8008/stream",
+   "stream": "https://yayin.radyomadyo.com:8008/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 12,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mpl-radyo",
+   "name": "MPL Radyo",
+   "url": "https://www.mihr.com/radyo/7/radyo-mpl",
+   "stream": "https://canli.hidayetradyolari.com/listen/mpl_radyo/radio.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 11,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-life-kayseri",
+   "name": "Radio Life Kayseri",
+   "url": "https://www.radiolife.com.tr/",
+   "stream": "https://yayin2.canliyayin.org:10990/;*.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tarsus-fm",
+   "name": "Tarsus FM",
+   "url": "https://tarsusfm.com.tr/",
+   "stream": "https://tarsusfm.80.yayin.com.tr//stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "türkish"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "andromedaradio",
+   "name": "andromedaradio",
+   "url": "http://www.playdanceradio.com/",
+   "stream": "https://radyo1.radyo-dinle.tc/andromedaradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dedemin-radyosu",
+   "name": "DEDEMİN RADYOSU",
+   "url": "https://anadolu.liderhost.com.tr/9002/stream",
+   "stream": "https://anadolu.liderhost.com.tr/9002/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "genc-kral-fm",
+   "name": "GENÇ KRAL FM",
+   "url": "https://anadolu.liderhost.com.tr:10853/;",
+   "stream": "https://anadolu.liderhost.com.tr:10853/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "literal",
+   "name": "literal",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ostim-radyo",
+   "name": "Ostim Radyo",
+   "url": "https://www.ostimradyo.com/",
+   "stream": "https://stream.netradyom.com/radio/8010/radio.mp3%22",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 8,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "powerturk-slow",
+   "name": "POWERTÜRK SLOW",
+   "url": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio",
+   "stream": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio",
+   "codec": "aac",
+   "bitrate": 250,
+   "genre": [],
+   "votes": 8,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tarkan",
+   "name": "Tarkan",
+   "url": "https://pcradio.ru/",
+   "stream": "https://stream.pcradio.ru/tarkan-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gevas-sesi-radyosu",
+   "name": "Gevaş Sesi Radyosu",
+   "url": "https://www.gevasfm.net/",
+   "stream": "https://live.radyositesihazir.com:8056/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kurdi",
+    "kurdish",
+    "kurdish.",
+    "turkish"
+   ],
+   "langCodes": [
+    "ku",
+    "tr"
+   ],
+   "state": "Gevaş",
+   "genre": [],
+   "votes": 7,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "playdanceradio",
+   "name": "playdanceradio",
+   "url": "https://www.playdanceradio.com/",
+   "stream": "https://radyo1.radyo-dinle.tc/playdanceradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Istanbul",
+   "genre": [],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-dogubayaz-t-fm-104-4",
+   "name": "Radyo Doğubayazıt FM 104.4",
+   "url": "https://www.radyodogubayazit.com/",
+   "stream": "https://radyo1.radyo-dinle.tc/8156/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "kurdi",
+    "kurdish",
+    "kurdish.",
+    "turkish"
+   ],
+   "langCodes": [
+    "ku",
+    "tr"
+   ],
+   "state": "Doğubayazıt",
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mekke-fm",
+   "name": "Mekke Fm",
+   "url": "https://www.cansuyufm.com/",
+   "stream": "https://radyodinle.cansuyufm.com/17175/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "turkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Web Radio",
+   "genre": [],
+   "votes": 6,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-mega",
+   "name": "RADYO MEGA",
+   "url": "https://megaradyoiskenderun.ozelip.com/8024/stream",
+   "stream": "https://megaradyoiskenderun.ozelip.com/8024/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-zergan-47",
+   "name": "RADYO ZERGAN (47)",
+   "url": "http://www.radyozergan.com/",
+   "stream": "https://sslyayin.netyayin.net/radyozergan/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "kurdish",
+    "turkish"
+   ],
+   "langCodes": [
+    "ku",
+    "tr"
+   ],
+   "state": "—Please choose an optiomardinn—",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-slow",
+   "name": "BEST SLOW",
+   "url": "https://hepsibest.radyotvonline.net/bestslow",
+   "stream": "https://hepsibest.radyotvonline.net/bestslow",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hey-radyo",
+   "name": "HEY RADYO",
+   "url": "http://www.heyradyo.com/",
+   "stream": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "turkish",
+    "turkçe"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "izmir",
+   "genre": [],
+   "votes": 5,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-13-fm-96",
+   "name": "Radyo 13 FM 96",
+   "url": "https://www.radyo13.com.tr/iletisim",
+   "stream": "https://radyo.yayindakiler.com:3050/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "kurdi",
+    "kurdish",
+    "kurdish.",
+    "turkish"
+   ],
+   "langCodes": [
+    "ku",
+    "tr"
+   ],
+   "state": "Tatvan",
+   "genre": [],
+   "votes": 5,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radyo-75",
+   "name": "RADYO 75",
+   "url": "https://anadolu.liderhost.com.tr/8126/stream",
+   "stream": "https://anadolu.liderhost.com.tr/8126/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sizir-fm",
+   "name": "SIZIR FM",
+   "url": "https://sizirfm.com/",
+   "stream": "https://stream.radiojar.com/tamm1f7kk48uv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "turkish",
+    "turkçe",
+    "türkisch",
+    "türkish"
+   ],
+   "langCodes": [
+    "tr"
+   ],
+   "state": "Sivas, turkey",
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "95-1-tempo-radyo-hatay",
+   "name": "95.1 TEMPO RADYO HATAY",
+   "url": "https://hatayradyosu.com/",
+   "stream": "https://sslyayin.netyayin.net/tempo/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Hatay",
+   "genre": [],
+   "votes": 4,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  }
+ ]
+}

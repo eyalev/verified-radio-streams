@@ -1,0 +1,813 @@
+{
+ "countryCode": "BO",
+ "country": "Bolivia",
+ "slug": "bolivia",
+ "continent": "americas",
+ "stationCount": 41,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/bolivia/",
+ "stations": [
+  {
+   "id": "radio-cumbia-90s",
+   "name": "Radio Cumbia 90s",
+   "url": "https://cumbia90.emisora.info/",
+   "stream": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz (Nuestra Señora de)",
+   "genre": [
+    "90s",
+    "cumbia"
+   ],
+   "votes": 7211,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-gigante-bolivia",
+   "name": "Radio Gigante Bolivia",
+   "url": "https://radiogigantebolivia.com.bo/",
+   "stream": "https://cloudstream2032.conectarhosting.com:7311/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz (Nuestra Señora de La Paz)",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 4559,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-san-rafael-92-5-fm",
+   "name": "Radio San Rafael 92.5 FM",
+   "url": "https://radiosanrafael.com.bo/",
+   "stream": "https://guri.tepuyserver.net:7098/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "quechua",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "qu"
+   ],
+   "state": "Cochabamba",
+   "genre": [
+    "cumbia",
+    "pop"
+   ],
+   "votes": 465,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "stereo97",
+   "name": "Stereo97",
+   "url": "https://stereo97.fm/",
+   "stream": "https://stream.consultoradas.com/8340/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "La Paz",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 323,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "eres-radio-98-5-fm",
+   "name": "Eres Radio 98.5 FM",
+   "url": "https://eresradio.bo/",
+   "stream": "https://sp5.servidorrprivado.com/8789/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Cochabamba",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "rock"
+   ],
+   "votes": 274,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "el-fin-del-silencio",
+   "name": "El Fin del Silencio",
+   "url": "https://www.elfindelsilencio.com/",
+   "stream": "https://servidor24-1.brlogic.com:7302/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Cochabamba",
+   "genre": [
+    "metal",
+    "pop",
+    "rap",
+    "rock"
+   ],
+   "votes": 217,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ritmo-97-3-fm",
+   "name": "Radio Ritmo 97.3 FM",
+   "url": "https://radioritmobolivia.com/",
+   "stream": "https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cochabamba",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "rock"
+   ],
+   "votes": 206,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-estrella-93-1-fm",
+   "name": "Radio Estrella 93.1 FM",
+   "url": "https://www.facebook.com/RadioEstrella93",
+   "stream": "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Cochabamba",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 184,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "diana-d-102-1-fm",
+   "name": "Diana D 102.1 FM",
+   "url": "https://dianadfm.com/",
+   "stream": "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Cochabamba",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "latin-music",
+    "latin-pop",
+    "pop",
+    "rock"
+   ],
+   "votes": 168,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "melodia",
+   "name": "Melodía",
+   "url": "https://radiomelodia.fm/",
+   "stream": "https://stream.consultoradas.com/8244/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "La Paz",
+   "genre": [
+    "musica"
+   ],
+   "votes": 137,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ciudad-radio-101-5-fm",
+   "name": "Ciudad Radio 101.5 FM",
+   "url": "https://ciudadradiofm.com/",
+   "stream": "https://emiteradio.com/proxy/monteroradio?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 99,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pop-red-uyuni",
+   "name": "Radio Pop - Red Uyuni",
+   "url": "https://red.uyuni.org/station/radio-pop-bolivia/",
+   "stream": "https://emiteradio.com/proxy/boliviapop?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [
+    "pop"
+   ],
+   "votes": 72,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-oldies-red-uyuni",
+   "name": "Radio Oldies - Red Uyuni",
+   "url": "https://red.uyuni.org/station/radio-oldies/",
+   "stream": "https://emiteradio.com/proxy/clasicosingles?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-activa-guanay-105-4-fm",
+   "name": "Radio Activa Guanay 105.4 Fm",
+   "url": "https://www.tiktok.com/@radio.activa.guan/",
+   "stream": "https://sonic.dattassd.com:10902/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "salsa"
+   ],
+   "votes": 59,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "animax-radio",
+   "name": "Animax Radio",
+   "url": "https://www.animaxradio.com/",
+   "stream": "https://sc.host-live.com:8150/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Potosí",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zetaxworld-radio",
+   "name": "ZetaxWorld Radio",
+   "url": "https://radio.zetaxworld.xyz/",
+   "stream": "https://radio.zetaxworld.xyz/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "jazz",
+    "pop-rock",
+    "rock",
+    "soul"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "atb-radio",
+   "name": "ATB Radio",
+   "url": "https://www.atb.com.bo/atbradio/",
+   "stream": "https://streamingenbolivia.com/8006/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz (Nuestra Señora de)",
+   "genre": [],
+   "votes": 4593,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-chacaltaya",
+   "name": "Radio Chacaltaya",
+   "url": "https://radiochacaltayafm.com.bo/",
+   "stream": "https://cast6.asurahosting.com/proxy/irfradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "La Paz",
+   "genre": [],
+   "votes": 2550,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "red-uyuni-radio-recuerdos",
+   "name": "Red Uyuni: Radio Recuerdos",
+   "url": "https://radiorecuerdo.uyuni.org/",
+   "stream": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Potosí",
+   "genre": [],
+   "votes": 1687,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-disney-la-paz-fm-102-7",
+   "name": "Radio Disney - La Paz FM 102.7",
+   "url": "https://bo.radiodisney.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1668,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fides-cochabamba",
+   "name": "Radio Fides Cochabamba",
+   "url": "http://online.radiofides.com/cochabamba.html",
+   "stream": "https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cochabamba",
+   "genre": [],
+   "votes": 1668,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-folklorica-uyuni",
+   "name": "Radio Folklorica Uyuni",
+   "url": "https://www.uyuni.org/",
+   "stream": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castilian",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Potosí",
+   "genre": [],
+   "votes": 1419,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-la-paz-96-7",
+   "name": "Fm La Paz 96.7",
+   "url": "https://fmlapaz.bo/",
+   "stream": "https://spanel.gcomstreaming.com/8018/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [],
+   "votes": 1027,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-san-gabriel",
+   "name": "Radio San Gabriel",
+   "url": "https://www.radiosangabriel.org.bo/rsg/",
+   "stream": "https://spanel.gcomstreaming.com:7004/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "aymara",
+    "spanish"
+   ],
+   "langCodes": [
+    "ay",
+    "es"
+   ],
+   "state": "La Paz (Nuestra Señora de)",
+   "genre": [],
+   "votes": 910,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kollasuyo-fm",
+   "name": "Radio Kollasuyo FM",
+   "url": "https://radiokollasuyo.bo/",
+   "stream": "https://azura2.bitstreaming.net:8000/radio128.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 860,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-san-gabriel-am-620-khz",
+   "name": "Radio San Gabriel AM 620 KHz",
+   "url": "https://www.radiosangabriel.org.bo/",
+   "stream": "https://spanel.gcomstreaming.com:7003/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "aymara",
+    "spanish"
+   ],
+   "langCodes": [
+    "ay",
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [],
+   "votes": 679,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-qhana-fm98-5",
+   "name": "Radio Qhana FM98.5",
+   "url": "https://qhana.com.bo/",
+   "stream": "https://cast6.asurahosting.com/proxy/radiost4/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [],
+   "votes": 418,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-exito-bolivia",
+   "name": "Radio Éxito (Bolivia)",
+   "url": "https://exitonoticias.com.bo/",
+   "stream": "https://cast6.my-control-panel.com/proxy/radiostr/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 408,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cristo-viene-la-red",
+   "name": "Cristo Viene La Red",
+   "url": "https://www.radios-bolivia.com/cristo-viene-la-red",
+   "stream": "https://stream20.usastreams.com:7000/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 303,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "eslatino-radio",
+   "name": "esLatino Radio",
+   "url": "https://eslatinoradio.com/",
+   "stream": "https://spanel.gcomstreaming.com/8030/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [],
+   "votes": 195,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zoy-milton",
+   "name": "Zoy Milton",
+   "url": "https://zoymilton.com/",
+   "stream": "https://icepool.silvacast.com/GAYFM.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 145,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "maritima-fm",
+   "name": "Maritima fm",
+   "url": "https://www.maritimafm.com/",
+   "stream": "https://spanel.gcomstreaming.com/8004/stream",
+   "codec": "mp3",
+   "bitrate": 24,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 108,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fides-tarija",
+   "name": "Radio Fides Tarija",
+   "url": "https://online.radiofides.com/tarija.html",
+   "stream": "https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [],
+   "votes": 81,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-acer",
+   "name": "Radio Acer",
+   "url": "https://radioacer.com/",
+   "stream": "https://live.turadiotv.com/8004/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 44,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiosat-fm-bolivia",
+   "name": "RadioSat FM - Bolivia",
+   "url": "https://www.radiosatbolivia.com/",
+   "stream": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rkc-radio",
+   "name": "RKC RADIO",
+   "url": "https://kawsachuncoca.com/radio",
+   "stream": "https://sonic.dattassd.com/8198/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estelar-fm",
+   "name": "Estelar Fm",
+   "url": "https://estelarfm.com/",
+   "stream": "https://a3.asurahosting.com:6080/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-la-paz",
+   "name": "FM La Paz",
+   "url": "https://fmlapaz.bo/en-vivo/",
+   "stream": "https://spanel.gcomstreaming.com:7008/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "La Paz (Nuestra Señora de La Paz)",
+   "genre": [],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-gam-viacha",
+   "name": "Radio GAM Viacha",
+   "url": "https://viacha.gob.bo/",
+   "stream": "https://server1.fex.red/letanias/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Paz",
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mega-rurrenabaque",
+   "name": "Radio Mega Rurrenabaque",
+   "url": "https://radiomegatv.com/",
+   "stream": "https://live.turadiotv.com/8030/stream",
+   "codec": "mp3",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

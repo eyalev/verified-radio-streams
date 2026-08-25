@@ -1,0 +1,2993 @@
+{
+ "countryCode": "ID",
+ "country": "Indonesia",
+ "slug": "indonesia",
+ "continent": "asia",
+ "stationCount": 165,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/indonesia/",
+ "stations": [
+  {
+   "id": "rri-pro-3-kbrn",
+   "name": "RRI Pro 3 KBRN",
+   "url": "https://rri.co.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 3876,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rodja-756-am",
+   "name": "Radio Rodja 756 AM",
+   "url": "https://www.radiorodja.com/",
+   "stream": "https://radioislamindonesia.com/rodja.mp3?_=2",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1552,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dengerin-musik-indonesia",
+   "name": "DENGERIN MUSIK INDONESIA",
+   "url": "https://denger.in/",
+   "stream": "https://stream.denger.in/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "DMIY",
+   "genre": [
+    "pop-music",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 1276,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dahlia-bandung-101-5-fm",
+   "name": "Dahlia Bandung 101.5 FM",
+   "url": "https://www.radiodahliafm.com/",
+   "stream": "https://svara-stream.radioddns.net/bandung_dahliafm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Bandung",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1062,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rama-fm-bandung-104-7-fm",
+   "name": "Rama FM Bandung 104.7 FM",
+   "url": "https://ramafm.com/",
+   "stream": "https://i.klikhost.com/8330/;",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "state": "Bandung",
+   "genre": [
+    "pop"
+   ],
+   "votes": 946,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-voice-of-indonesia",
+   "name": "RRI Voice Of Indonesia",
+   "url": "https://www.voinews.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 792,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alternatif-radio-jakarta",
+   "name": "Alternatif radio jakarta",
+   "url": "http://www.pemancar99.com/alternatif-radio/",
+   "stream": "https://void.idserverhost.com/8016/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia"
+   ],
+   "state": "Jakarta",
+   "genre": [
+    "jazz",
+    "pop"
+   ],
+   "votes": 631,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmk-radio-ciamis",
+   "name": "RMK Radio Ciamis",
+   "url": "https://radiomasakini.com/",
+   "stream": "https://ini.radiomasakini.com/listen/rmk/rmk",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 497,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hard-rock-fm-surabaya",
+   "name": "hard rock FM surabaya",
+   "url": "https://hardrockfm.com/hardrock-fm-surabaya/",
+   "stream": "https://n0c.radiojar.com/yg8ne2v80k8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "hits",
+    "top-40"
+   ],
+   "votes": 470,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-indonesia",
+   "name": "Mettaswara Indonesia",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700/indo",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 290,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loker-musik-indonesia",
+   "name": "Loker Musik Indonesia",
+   "url": "https://www.lokermusik.com/",
+   "stream": "https://stream.lokermusik.com/listen/lokermusik/lokermusik",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 276,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iswara-jakarta",
+   "name": "iSWARA JAKARTA",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/4ywdgup3bnzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 265,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-1-tanjungpinang",
+   "name": "RRI Pro 1 Tanjungpinang",
+   "url": "https://rri.co.id/tanjungpinang",
+   "stream": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 244,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "beat-radio-bali",
+   "name": "Beat Radio Bali",
+   "url": "https://thebeatbali.com/",
+   "stream": "https://c1.siar.us/radio/8030/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house"
+   ],
+   "votes": 243,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-indo-2000",
+   "name": "Mettaswara Indo 2000",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://mettaswara.com:8700//indo00",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 238,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-1-bandung",
+   "name": "RRI Pro 1 Bandung",
+   "url": "https://www.rri.co.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 212,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arb-fm-jakarta",
+   "name": "ARB FM JAKARTA",
+   "url": "https://arbfmbogor.blogspot.com/",
+   "stream": "https://void.idserverhost.com/8018/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "easy-listening",
+    "music",
+    "pop"
+   ],
+   "votes": 210,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ar-bali",
+   "name": "Radio AR Bali",
+   "url": "https://radioarbali.com/",
+   "stream": "https://live.radioarbali.com:8450/radioar",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "state": "Bali",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 209,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-2-bandung",
+   "name": "RRI Pro 2 Bandung",
+   "url": "https://www.rri.co.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 178,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mandarin-station-98-3-fm",
+   "name": "Mandarin Station 98.3 FM",
+   "url": "https://mandarinstation983.com/",
+   "stream": "https://stream01-ssl.arenastreaming.com:8043/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 155,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sun-fm-103-5mhz-banjarmasin",
+   "name": "SUN FM 103.5MHZ Banjarmasin",
+   "url": "https://sunfm.co.id/",
+   "stream": "https://a1.siar.us/listen/sunfm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 151,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classy-netradio",
+   "name": "CLASSY NetRadio",
+   "url": "https://classynetradio.com/",
+   "stream": "https://streaming.classynetradio.com:8000/classySD",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "Jawa Timur",
+   "genre": [
+    "adult-contemporary",
+    "easy-listening",
+    "pop",
+    "smooth-jazz"
+   ],
+   "votes": 137,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-4-ambon",
+   "name": "RRI Pro 4 Ambon",
+   "url": "https://rri.co.id/",
+   "stream": "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 130,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sebayu-fm-tegal",
+   "name": "Sebayu FM Tegal",
+   "url": "https://sebayufm.tegalkota.go.id/",
+   "stream": "https://radio-streaming.tegalkota.go.id/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "indonesian",
+    "javanese"
+   ],
+   "langCodes": [
+    "id",
+    "jv"
+   ],
+   "state": "Tegal",
+   "genre": [
+    "pop"
+   ],
+   "votes": 124,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pandu-musik-radio",
+   "name": "Pandu Musik Radio",
+   "url": "https://pandumusikradio.wixsite.com/myradio",
+   "stream": "https://usa3.fastcast4u.com/proxy/pandumusikradio?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Tuban, East Java",
+   "genre": [
+    "anime",
+    "easy-listening",
+    "hits",
+    "pop"
+   ],
+   "votes": 110,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ras-fm-jakarta",
+   "name": "RAS FM Jakarta",
+   "url": "https://rasfmjakarta.com/rastreaming",
+   "stream": "https://i.klikhost.com/9006/stream",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Jakarta",
+   "genre": [
+    "pop"
+   ],
+   "votes": 107,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiara-4u",
+   "name": "KIARA 4U",
+   "url": "https://firzadankiaradio.blogspot.com/",
+   "stream": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia"
+   ],
+   "state": "West Sumatera",
+   "genre": [
+    "pop"
+   ],
+   "votes": 102,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-channel-5",
+   "name": "RRI Channel 5",
+   "url": "http://radio-online.id/rri-channel5",
+   "stream": "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "2000s",
+    "60s",
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-relax",
+   "name": "Mettaswara Relax",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700//metta",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 90,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "galuh-media-streaming-cianjur-indonesia",
+   "name": "Galuh Media Streaming Cianjur Indonesia",
+   "url": "https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream",
+   "stream": "https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 85,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunda-radio",
+   "name": "Sunda Radio",
+   "url": "https://www.sundaradio.com/",
+   "stream": "https://sundaradio.com/live/sundaradio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 83,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wawa-radio-101-2",
+   "name": "Wawa Radio 101.2",
+   "url": "https://xn--tmz.xn--tnz/?",
+   "stream": "https://securestream.casthost.net:8219/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "alternative",
+    "pop",
+    "rock"
+   ],
+   "votes": 70,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sti-fm-nunukan",
+   "name": "STI FM Nunukan",
+   "url": "https://www.stifmnunukan.com/",
+   "stream": "https://live.stifmnunukan.com/listen/stifm/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "North Kalimantan",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sonora-fm-92-jakarta",
+   "name": "Sonora FM 92 Jakarta",
+   "url": "https://www.sonora.id/",
+   "stream": "https://sonora-radio.arenastreaming.com/8130/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Jakarta",
+   "genre": [
+    "music"
+   ],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-streaming-sehati",
+   "name": "RADIO STREAMING SEHATI",
+   "url": "https://radiosehati.com/",
+   "stream": "https://c4.siar.us:8092/autodj",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia"
+   ],
+   "genre": [
+    "blues",
+    "jazz",
+    "musik",
+    "rock"
+   ],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-indonesia-gold",
+   "name": "Mettaswara Indonesia Gold",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700//disco",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-softrock",
+   "name": "Mettaswara SoftRock",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://mettaswara.com:8700/slowrock",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 57,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "delta-fm",
+   "name": "Delta FM",
+   "url": "https://deltafm.net/",
+   "stream": "https://stream.rcs.revma.com/k02rmq48kxcwv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Jakarta",
+   "genre": [
+    "hits"
+   ],
+   "votes": 56,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-top-40",
+   "name": "Mettaswara TOP 40",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700/theone",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-throwback-80",
+   "name": "Mettaswara Throwback 80",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700//mettatrow",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-hits",
+   "name": "Mettaswara Hits",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700/hits",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dna-fm-jepara",
+   "name": "DNA FM JEPARA",
+   "url": "https://www.dnafm.net/",
+   "stream": "https://sc.dnafm.net/listen/dnafm/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "Jawa Tengah",
+   "genre": [
+    "pop"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klcbs-new-age",
+   "name": "KLCBS New Age",
+   "url": "https://klcbsofficial.com/",
+   "stream": "https://streaming.klcbsofficial.com/listen/newage/klcbs-newage",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-smooth",
+   "name": "Mettaswara Smooth",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mettaswara.com:8700/smooth",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 33,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iswara-surabaya",
+   "name": "iSWARA SURABAYA",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/yg8ne2v80k8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "prambors-fm",
+   "name": "Prambors FM",
+   "url": "https://www.pramborsfm.com/",
+   "stream": "https://stream.rcs.revma.com/h77wwp48kxcwv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "id"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 29,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anime-fm",
+   "name": "Anime FM",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://animefm.stream.laut.fm/animefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "anime"
+   ],
+   "votes": 25,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klcbs-tropical",
+   "name": "KLCBS Tropical",
+   "url": "https://klcbsofficial.com/",
+   "stream": "https://streaming.klcbsofficial.com/listen/tropical/klcbs-tropical",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iswara-semarang",
+   "name": "iSWARA SEMARANG",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/fr9zqhv80k8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pop-fm-semarang",
+   "name": "POP FM Semarang",
+   "url": "https://cppradionet.com/pop-fm-semarang/",
+   "stream": "https://i.klikhost.com:9612/stream.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Semarang",
+   "genre": [
+    "pop"
+   ],
+   "votes": 23,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pop-fm-jogja",
+   "name": "POP FM Jogja",
+   "url": "https://cppradionet.com/pop-jogja/",
+   "stream": "https://i.klikhost.com:9154/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "pop"
+   ],
+   "votes": 22,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "suara-salira",
+   "name": "SUARA SALIRA",
+   "url": "https://suarasalira.com/",
+   "stream": "https://live.suarasalira.com/listen/suarasalira/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "female-radio",
+   "name": "FeMale Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.rcs.revma.com/9thenqqd2ncwv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hard-rock-fm",
+   "name": "Hard Rock FM",
+   "url": "https://hardrockfm.com/",
+   "stream": "https://n06.radiojar.com/7csmg90fuqruv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 19,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-3",
+   "name": "RRI Pro 3",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream-node0.rri.go.id/streaming/14/9014/kbrn.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 19,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kinozal-tv",
+   "name": "Kinozal.TV",
+   "url": "https://kinozal.tv/radio.php",
+   "stream": "https://listen7.myradio24.com/kinozaltv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "pop"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klcbs-fusion",
+   "name": "KLCBS Fusion",
+   "url": "https://klcbsofficial.com/",
+   "stream": "https://streaming.klcbsofficial.com/listen/fusion/klcbs-fusion",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-2-jakarta",
+   "name": "RRI Pro 2 Jakarta",
+   "url": "https://www.rri.co.id/",
+   "stream": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Jakarta",
+   "genre": [
+    "hits"
+   ],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-2-yogyakarta",
+   "name": "RRI Pro 2 Yogyakarta",
+   "url": "https://www.rri.co.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "hits"
+   ],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "delta-fm-bandung",
+   "name": "Delta FM Bandung",
+   "url": "https://www.deltafm.net/",
+   "stream": "https://stream-pd-bdg.dimasalfaridzi.my.id/delta",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Bandung",
+   "genre": [
+    "hits"
+   ],
+   "votes": 15,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metalcore",
+   "name": "Metalcore",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://metalcore.stream.laut.fm/metalcore",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-klik-fm-surabaya",
+   "name": "Radio Klik FM Surabaya",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://c1.alhastream.com:3210/radio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-rockin-life-jakarta",
+   "name": "THE ROCKIN LIFE - JAKARTA",
+   "url": "https://therockinlife.com/streaming/",
+   "stream": "https://stream.radiojar.com/7csmg90fuqruv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iswara-bandung",
+   "name": "iSWARA BANDUNG",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/u6ppe6hswk8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dark-symphony-radio",
+   "name": "Dark Symphony Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://streaming.live365.com/a02267",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "metal"
+   ],
+   "votes": 13,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kradio-hss",
+   "name": "KRADIO HSS",
+   "url": "https://kradionews.com/",
+   "stream": "https://live.kradionews.com/listen/kradio/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "acdc",
+   "name": "ACDC",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://stream.pcradio.app/ac_dc-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "b-radio-95-6-fm-bandung",
+   "name": "B-RADIO 95.6 FM BANDUNG",
+   "url": "https://bradio956.fm/",
+   "stream": "https://stream.rcs.revma.com/9yp8b9pd6k3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cakra-90-5-fm-bandung",
+   "name": "CAKRA 90.5 FM BANDUNG",
+   "url": "https://www.radiocakrabandung.com/",
+   "stream": "https://stream.rcs.revma.com/chuzgcqd6k3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iswara-banjarmasin",
+   "name": "iSWARA BANJARMASIN",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/qfqd2aw80k8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trax-fm-jakarta",
+   "name": "Trax FM - Jakarta",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/rrqf78p3bnzuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "104-2-mstri-fm",
+   "name": "104.2 MSTRI FM",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://c2.siar.us:8120/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iswara-makassar",
+   "name": "iSWARA MAKASSAR",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiojar.com/seqmzfeu5k8uv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metallica",
+   "name": "Metallica",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://stream.pcradio.app/Metallica-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 11,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onix-radio",
+   "name": "Onix Radio",
+   "url": "https://onixradio.id/",
+   "stream": "https://pu.klikhost.com/proxy/onixradio/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "Balikpapan",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "106-1-geronimo-fm",
+   "name": "106.1 Geronimo FM",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://ig.idstreamer.com:8090//live",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 10,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "889-fmberlin",
+   "name": "889 FMberlin",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://889fmberlin.stream.laut.fm/889fmberlin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "blues",
+    "oldies",
+    "pop",
+    "rock",
+    "soul"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "free-fm-jakarta",
+   "name": "Free FM - Jakarta",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://rocafmadrid.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitz-91-2-fm",
+   "name": "HITZ 91.2 FM",
+   "url": "http://www.bilitonesefm.com/",
+   "stream": "https://play.bilitonesefm.com/listen/radiohitzfm/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 9,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-love-music-i-k-pop",
+   "name": "I Love Music - I♥K-POP",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://ilm.stream12.radiohost.de/ilm-ilovekpop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3Mzc5MTE4JmQ9OGZiOTdlMzkxNmMzNjRiZjAxYjQ",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "linkin-park-radio",
+   "name": "Linkin Park Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://linkinpark-radio.stream.laut.fm/linkin_park-radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-rock",
+   "name": "Classic Rock",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://classicrock.stream.laut.fm/classicrock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gothica",
+   "name": "Gothica",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://gothica.stream.laut.fm/gothica",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hard-rock-heaven",
+   "name": "Hard Rock Heaven",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://ais-sa2.cdnstream1.com/1521_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-rockin-life-bali",
+   "name": "THE ROCKIN LIFE - BALI",
+   "url": "https://therockinlife.com/streaming-bali/",
+   "stream": "https://stream.radiojar.com/9k28wsbu5k8uv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tiktok-hits",
+   "name": "TikTok Hits",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "hip-hop",
+    "pop"
+   ],
+   "votes": 8,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-metal-fm",
+   "name": "80s Metal FM",
+   "url": "https://bigrradio.com/radiochannel/80s-metal-fm/",
+   "stream": "https://ais-edge81-bigr-dal03.cdnstream.com/5257_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "metal"
+   ],
+   "votes": 7,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chinese-music-world",
+   "name": "Chinese Music World",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://radio.chinesemusicworld.com/chinesemusic.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guns-n-roses",
+   "name": "Guns N' Roses",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream02.pcradio.biz/guns_n_roses-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kis-fm",
+   "name": "KIS FM",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.radiokis.id/kisfm2",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bfm-belitung",
+   "name": "Radio BFM Belitung",
+   "url": "https://bilitonesefm.com/",
+   "stream": "https://play.bilitonesefm.com/listen/radiobfm/stream",
+   "codec": "aac",
+   "bitrate": 94,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-1-yogyakarta",
+   "name": "RRI Pro 1 Yogyakarta",
+   "url": "https://www.rri.co.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro1.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-rock-hard-rock",
+   "name": "The Rock! (Hard Rock)",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://listen.181fm.com/181-hardrock_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ada-radio-online",
+   "name": "Ada Radio Online",
+   "url": "https://google.com/",
+   "stream": "https://adaradio.kradionews.com/listen/adaradio/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "candisewu-fm-klaten",
+   "name": "CANDISEWU FM KLATEN",
+   "url": "https://cppradionet.com/radio-keluarga-indonesia/",
+   "stream": "https://i.klikhost.com:9614/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Klaten",
+   "genre": [
+    "pop"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-rock-florida",
+   "name": "Classic Rock Florida",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://streaming.live365.com/a06375",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-salvator",
+   "name": "Radio Salvator",
+   "url": "https://radiosalvator.com/",
+   "stream": "https://live.radiosalvator.com/listen/radiosalvator/radiosalvator",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-2-purwokerto",
+   "name": "RRI Pro 2 - Purwokerto",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "style-94-6-fm-tasikmalaya",
+   "name": "Style 94.6 FM Tasikmalaya",
+   "url": "https://stylefmtasik.com/",
+   "stream": "https://stream.stylefmtasik.com/listen/stylefmtasik/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "Jawa Barat",
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yasika-fm-jogja",
+   "name": "YASIKA FM JOGJA",
+   "url": "https://cppradionet.com/yasika-fm-jogja/",
+   "stream": "https://i.klikhost.com:9610/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "hits"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-rock-181",
+   "name": "181.FM Rock 181",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://listen.181fm.com/181-rock_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-love-music-i-top-100-charts",
+   "name": "I Love Music - I♥TOP 100 CHARTS",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://ilm.stream35.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3MzIxMzQxJmQ9ZDMxY2IzM2IxYzBlMDc2MTg5MTU",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kawaii-music",
+   "name": "Kawaii Music",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://kawaii-music.stream.laut.fm/kawaii-music",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "anime",
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "prambors-bandung-98-4-fm",
+   "name": "Prambors Bandung 98.4 FM",
+   "url": "https://www.pramborsfm.com/",
+   "stream": "https://stream-pd-bdg.dimasalfaridzi.my.id/prambors",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Bandung",
+   "genre": [
+    "hits"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kita-tasikmalaya",
+   "name": "Radio Kita Tasikmalaya",
+   "url": "https://radiokita.my.id/",
+   "stream": "https://stream.radiokita.my.id/listen/radiokita/radiokita",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "state": "Jawa Barat",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "scorpions",
+   "name": "Scorpions",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://stream.pcradio.app/Scorpions-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "voks-radio-jogja-105-3-fm",
+   "name": "Voks Radio Jogja 105.3 FM",
+   "url": "https://www.voksradiojogja.com/",
+   "stream": "https://svara-stream.radioddns.net/yogyakarta_voksradio",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-rock",
+   "name": "100 Rock",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://100rock.stream.laut.fm/100rock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bellasalam-87-6-fm-tasikmalaya",
+   "name": "Bellasalam 87.6 FM Tasikmalaya",
+   "url": "https://bellasalamfm.com/",
+   "stream": "https://listen.bellasalamfm.com/listen/radiobellasalam/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bahasa-indonesia",
+    "bahasa-sunda",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Jawa Barat",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megadeth",
+   "name": "Megadeth",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.pcradio.ru/megadeth-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-hammer",
+   "name": "Metal Hammer",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://metal-hammer.stream.laut.fm/metal-hammer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "polaris-fm",
+   "name": "POLARIS FM",
+   "url": "https://cppradionet.com/streamingpolarisfm/",
+   "stream": "https://i.klikhost.com/9604/stream.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Yogyakarta",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cmn",
+   "name": "Radio CMN",
+   "url": "https://cmn.coolkas.com/",
+   "stream": "https://stream.coolkas.com/listen/radiocmn/radiocmn",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "indonesian"
+   ],
+   "langCodes": [
+    "en",
+    "id"
+   ],
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sabaton-radio",
+   "name": "Sabaton Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.pcradio.ru/sabaton-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "starstream-radio-the-classic-rock-rewind",
+   "name": "StarStream Radio - The Classic Rock Rewind",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://streaming.live365.com/a76931",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "70s",
+    "80s",
+    "classic-rock"
+   ],
+   "votes": 4,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zenith-fm-salatiga",
+   "name": "ZENITH FM SALATIGA",
+   "url": "https://cppradionet.com/radio-keluarga-indonesia/",
+   "stream": "https://i.klikhost.com:9616/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Salatiga",
+   "genre": [
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hardrock-fm",
+   "name": "HardRock-FM",
+   "url": "https://hardrock-fm.com/",
+   "stream": "https://fmradionet1.com:8000/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "j-pop-project-radio",
+   "name": "J-Pop Project Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "linkin-park-maximum",
+   "name": "Linkin Park - Радио Maximum",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://maximum-linkinpark.hostingradio.ru/linkinpark96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "streaming-murah",
+   "name": "Streaming Murah",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://ssg.streamingmurah.com:7777/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "amandit-93-9-fm",
+   "name": "Amandit 93.9 FM",
+   "url": "https://amanditmedia.id/",
+   "stream": "https://b.alhastream.com:5035/radio",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "banjar",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Kalimantan Selatan",
+   "genre": [
+    "pop-music",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arif-channel",
+   "name": "Arif Channel",
+   "url": "https://arifchannellive.blogspot.com/",
+   "stream": "https://ig.idstreamer.com/listen/arif_channel/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Lampung",
+   "genre": [
+    "2000s",
+    "pop",
+    "top-40"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "avenged-sevenfold",
+   "name": "Avenged Sevenfold",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://stream.pcradio.app/avenged_sevenfold-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "j-nation",
+   "name": "J Nation",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://j-nation.stream.laut.fm/j-nation",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 2,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "otaku-world",
+   "name": "Otaku World",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://otaku-world.stream.laut.fm/otaku-world",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "anime"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-wisata-fm",
+   "name": "Radio Wisata FM",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://c2.siar.us:9889/live",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "slipknot",
+   "name": "Slipknot",
+   "url": "https://radiofm.novawap.com/",
+   "stream": "https://stream.pcradio.app/SlipKnot-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "starstream-radio-alternative-rock-2010-to-now",
+   "name": "StarStream Radio - Alternative Rock 2010 to Now",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://streaming.live365.com/a72059",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "starstream-radio-rock-90-s-and-00-s",
+   "name": "StarStream Radio - Rock 90's and 00's",
+   "url": "https://live365.com/station/StarStream-Radio---Rock-90-s-and-00-s-a65639",
+   "stream": "https://streaming.live365.com/a65639",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "starstream-radio-the-vinyl-vibe",
+   "name": "StarStream Radio - The Vinyl Vibe",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://streaming.live365.com/a29175",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 2,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-metallica-report",
+   "name": "The Metallica Report",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://streaming.live365.com/a92114",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 2,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trend-digital-radio",
+   "name": "Trend Digital Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://ig.idstreamer.com:8010/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "at-40",
+   "name": "At 40",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://at40.stream.laut.fm/at40",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitradio-4-ever",
+   "name": "Hitradio 4 Ever",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://hitradio4ever.stream.laut.fm/hitradio4ever",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "j-pop-powerplay",
+   "name": "J-Pop Powerplay",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://kathy.torontocast.com:3560/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klik-radio",
+   "name": "Klik Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://pu.klikhost.com/proxy/klikhost/autodj",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "looks-radio",
+   "name": "Looks Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8010/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "marilyn-manson-radio",
+   "name": "Marilyn Manson Radio",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://stream.pcradio.ru/Marilyn_Manson-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mash",
+   "name": "Mash",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://mash.stream.laut.fm/mash",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "r-lisa-fm",
+   "name": "R-lisa FM",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://a4.siar.us/radio/8360/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "elshinta-jakarta",
+   "name": "elshinta jakarta",
+   "url": "https://elshinta.com/radio",
+   "stream": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 9935,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89-2-fm-jakarta-campur-sari",
+   "name": "89.2 FM Jakarta, Campur sari",
+   "url": "https://www.campursarifm.com/",
+   "stream": "https://a8.siar.us/listen/campursari/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [],
+   "votes": 7999,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "suara-surabaya-fm",
+   "name": "Suara Surabaya FM",
+   "url": "https://www.suarasurabaya.net/radio/",
+   "stream": "https://c5.siar.us/proxy/ssfm/stream",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "bahasa-indonesia"
+   ],
+   "genre": [],
+   "votes": 7462,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "traxfm-jakarta",
+   "name": "TraxFM Jakarta",
+   "url": "",
+   "stream": "https://stream.radiojar.com/rrqf78p3bnzuv.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 5332,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "suara-soneta",
+   "name": "Suara Soneta",
+   "url": "https://www.suarasoneta.com/",
+   "stream": "https://a2.siar.us//listen//suarasoneta//radio.mp3",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Banyuwangi",
+   "genre": [],
+   "votes": 2514,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mettaswara-koplo",
+   "name": "Mettaswara Koplo",
+   "url": "https://mettaswara.com/",
+   "stream": "https://mettaswara.com:8700//koplo",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "javanese"
+   ],
+   "langCodes": [
+    "jv"
+   ],
+   "state": "Jakarta",
+   "genre": [],
+   "votes": 2075,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tarbiyah-sunnah",
+   "name": "Tarbiyah Sunnah",
+   "url": "https://radioislamindonesia.com/",
+   "stream": "https://radioislamindonesia.com/tarbiyah.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1512,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-4-fm-i-radio-jakarta",
+   "name": "101.4 FM I-Radio JAKARTA",
+   "url": "https://iradiofm.com/",
+   "stream": "https://stream.radiojar.com/4ywdgup3bnzuv?1739561339",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1051,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "campursari-fm-jakarta",
+   "name": "Campursari FM Jakarta",
+   "url": "https://www.campursarifm.com/",
+   "stream": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "indonesian",
+    "javanese"
+   ],
+   "langCodes": [
+    "id",
+    "jv"
+   ],
+   "state": "Jakarta",
+   "genre": [],
+   "votes": 962,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sonora-fm-bandung",
+   "name": "Sonora FM Bandung",
+   "url": "http://www.sonorabandung.com/",
+   "stream": "https://streamingv2.shoutcast.com/sonora-bandung",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "genre": [],
+   "votes": 746,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pro1-rri-makassar",
+   "name": "Pro1 RRI Makassar",
+   "url": "https://rri.co.id/stream/radio",
+   "stream": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 737,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "paramuda-radio-bandung",
+   "name": "PARAMUDA Radio Bandung",
+   "url": "https://www.paramudaradio.com/",
+   "stream": "https://i.klikhost.com/8332/;",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 670,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-2-92-1-fm-tanjungpinang",
+   "name": "RRI Pro 2 92.1 FM Tanjungpinang",
+   "url": "https://rri.co.id/tanjungpinang",
+   "stream": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "bahasa-indonesia",
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Kepulauan Riau",
+   "genre": [],
+   "votes": 547,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rasika-fm-usa-semarang",
+   "name": "RASIKA FM USA SEMARANG",
+   "url": "http://rasikafm.com/",
+   "stream": "https://svara-stream.radioddns.net/rasikafm_stereo",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 491,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kasih",
+   "name": "Radio Kasih",
+   "url": "",
+   "stream": "https://onlineradiobox.com/json/id/kasih/play",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 475,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "elgangga-fm",
+   "name": "Elgangga FM",
+   "url": "https://www.radioelgangga.com/",
+   "stream": "https://b.alhastream.com:5140/radio",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Bekasi",
+   "genre": [],
+   "votes": 463,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "firza-mpc-radio",
+   "name": "Firza MPC Radio",
+   "url": "https://firzadankiaradio,blogspot.com/",
+   "stream": "https://mpc1.mediacp.eu/stream/firzaradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "north sumatera",
+   "genre": [],
+   "votes": 459,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cosmopolitan-fm",
+   "name": "Cosmopolitan FM",
+   "url": "https://cosmopolitanfm.com/",
+   "stream": "https://n0c.radiojar.com/u7d8heq3bnzuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "indonesian"
+   ],
+   "langCodes": [
+    "id"
+   ],
+   "state": "Jakarta",
+   "genre": [],
+   "votes": 384,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ronggohadi-97-8-fm-lamongan",
+   "name": "Ronggohadi 97.8 FM Lamongan",
+   "url": "https://www.ronggohadi.com/",
+   "stream": "https://c3.siar.us/proxy/ronggohadifm/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 350,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rodja-bandung-104-3-fm",
+   "name": "Rodja Bandung 104.3 FM",
+   "url": "https://rodjabandung.com/",
+   "stream": "https://radioislamindonesia.com/rodja-bandung.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 339,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gentara",
+   "name": "Radio Gentara",
+   "url": "https://radiogentara.com/",
+   "stream": "https://s1.gntr.net/listen/radio_gentara/gentara64",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 323,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gcd-yogyakarta-98-6-fm",
+   "name": "GCD Yogyakarta 98.6 FM",
+   "url": "https://gcdfm.com/",
+   "stream": "https://studio1.indostreamers.com:8014/stream/1/",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 288,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro1-banjarmasin",
+   "name": "RRI Pro1 Banjarmasin",
+   "url": "https://www.rri.co.id/",
+   "stream": "https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "bahasa-indonesia"
+   ],
+   "state": "Banjarmasin",
+   "genre": [],
+   "votes": 284,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rri-pro-2-makassar",
+   "name": "RRI Pro 2 Makassar",
+   "url": "https://rri.co.id/stream/radio",
+   "stream": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 258,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swara-semarang",
+   "name": "Radio Swara Semarang",
+   "url": "https://radioswarasemarangfm.co.id/",
+   "stream": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "indonesian",
+    "javanese"
+   ],
+   "langCodes": [
+    "id",
+    "jv"
+   ],
+   "state": "Semarang",
+   "genre": [],
+   "votes": 249,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  }
+ ]
+}

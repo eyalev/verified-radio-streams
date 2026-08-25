@@ -1,0 +1,2824 @@
+{
+ "countryCode": "RU",
+ "country": "Russia",
+ "slug": "russia",
+ "continent": "europe",
+ "stationCount": 149,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/russia/",
+ "stations": [
+  {
+   "id": "radiovanya",
+   "name": "РАДИО ВАНЯ",
+   "url": "http://www.radiovanya.ru/",
+   "stream": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 57630,
+   "clicks": 92,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-russian-dance",
+   "name": "DFM RUSSIAN DANCE",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+   "codec": "aac",
+   "bitrate": 96000,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 54810,
+   "clicks": 57,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spokoinoeradio",
+   "name": "Спокойное радио",
+   "url": "http://spokoinoeradio.ru/",
+   "stream": "https://listen1.myradio24.com/6262",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [
+    "ambient",
+    "chillout",
+    "easy-listening",
+    "jazz",
+    "lounge",
+    "relax"
+   ],
+   "votes": 29877,
+   "clicks": 29,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-main-channel",
+   "name": "Radio record - Main Channel",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 19836,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maximum",
+   "name": "Радио Maximum",
+   "url": "http://maximum.ru/",
+   "stream": "https://maximum.hostingradio.ru/maximum128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 17409,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixadance-fm",
+   "name": "Mixadance FM",
+   "url": "http://www.mixadance.fm/",
+   "stream": "https://stream.mixadance.fm/mixadance",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "music"
+   ],
+   "votes": 15832,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "instrumental-jazz",
+   "name": "Instrumental Jazz",
+   "url": "https://radiojazzfm.ru/",
+   "stream": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "instrumental",
+    "jazz"
+   ],
+   "votes": 6172,
+   "clicks": 32,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hit-fm",
+   "name": "HIT FM",
+   "url": "http://hitfm.ru/",
+   "stream": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 5421,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-fm-chillout",
+   "name": "Relax FM Chillout",
+   "url": "https://relax-fm.ru/",
+   "stream": "https://pub0201.101.ru/stream/trust/mp3/128/24?",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "chillout"
+   ],
+   "votes": 3129,
+   "clicks": 163,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-megamix",
+   "name": "Radio Record Megamix",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/mix96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 2987,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-4",
+   "name": "Пилот FM",
+   "url": "https://pilotfm.ru/",
+   "stream": "https://online.pilotfm.ru/pilot",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Ekaterinburg",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 2024,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hostingradio-3",
+   "name": "Дорожное радио НН",
+   "url": "",
+   "stream": "https://dorognoe.hostingradio.ru/dorognoe_acc",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1652,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "montecarlo",
+   "name": "Радио Монте-Карло",
+   "url": "https://montecarlo.ru/stations",
+   "stream": "https://mc-mcgold.hostingradio.ru/mcgold96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 1617,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "myradio24",
+   "name": "Радио Ностальжи Россия",
+   "url": "https://myradio24.com/alexx333",
+   "stream": "https://listen7.myradio24.com/alexx333",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 1548,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-vocal-trance",
+   "name": "DFM - Vocal Trance",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-trance.hostingradio.ru/trance96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 1510,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chocoradio",
+   "name": "Радио Шоколад",
+   "url": "https://chocoradio.ru/",
+   "stream": "https://choco.hostingradio.ru:10010/fm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [
+    "hits"
+   ],
+   "votes": 1349,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-deep-fm",
+   "name": "BEST DEEP FM",
+   "url": "https://bestdeepfm.ru/",
+   "stream": "https://myradio24.org/5129",
+   "codec": "aac",
+   "bitrate": 111,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 1250,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockfm-ru-heavy",
+   "name": "rockfm.ru heavy",
+   "url": "https://rockfm.ru/",
+   "stream": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 1191,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-russian-gold",
+   "name": "Radio Record - Russian Gold",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 1109,
+   "clicks": 33,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiomir",
+   "name": "Радио МИР",
+   "url": "https://radiomir.fm/",
+   "stream": "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+   "codec": "aac",
+   "bitrate": 333,
+   "format": "music",
+   "langs": [
+    "rus",
+    "russian",
+    "ру",
+    "язык:-ру"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [
+    "music"
+   ],
+   "votes": 1097,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-00-s",
+   "name": "Radio Record 00's",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/200096.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 1026,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "volna",
+   "name": "Русская Волна",
+   "url": "",
+   "stream": "https://ru2.volna.top/RuWave48",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 947,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wonderful-blues",
+   "name": "Радио Монте Карло - Wonderful Blues",
+   "url": "https://montecarlo.ru/online/%20wonderful_blues",
+   "stream": "https://mc-blues.hostingradio.ru/blues96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "blues"
+   ],
+   "votes": 886,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixadance-fm-fitness",
+   "name": "Mixadance FM Fitness",
+   "url": "http://www.mixadance.fm/",
+   "stream": "https://stream.mixadance.fm/fitness",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "electronic",
+    "music",
+    "pop"
+   ],
+   "votes": 853,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-trancehouse",
+   "name": "Radio Record Trancehouse",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/trancehouse96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 831,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bash",
+   "name": "Спутник ФМ - Уфимская Волна",
+   "url": "https://bash.news/sputnik/",
+   "stream": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Bashkortostan",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 741,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maximum-heavy-80s",
+   "name": "Radio Maximum - Heavy 80s",
+   "url": "https://www.maximum.ru/",
+   "stream": "https://maximum80.hostingradio.ru/max8096.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "80s",
+    "rock"
+   ],
+   "votes": 733,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hostingradio-5",
+   "name": "Милицейская волна НН",
+   "url": "",
+   "stream": "https://radiomv.hostingradio.ru:80/radiomv128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 672,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-the-prodigy",
+   "name": "DFM THE PRODIGY",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-prodigy.hostingradio.ru/prodigy96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 646,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-monte-carlo-bossa-nova",
+   "name": "Radio Monte Carlo - Bossa Nova",
+   "url": "https://montecarlo.ru/online/monte-carlo-bossa",
+   "stream": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "bossa",
+    "jazz",
+    "latin",
+    "music"
+   ],
+   "votes": 599,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-bass-house",
+   "name": "Radio Record Bass House",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 592,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-summer-dance",
+   "name": "Radio Record - Summer Dance",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "dance",
+    "dance-music"
+   ],
+   "votes": 587,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-disco-funk",
+   "name": "Radio Record - Disco Funk",
+   "url": "https://www.radiorecord.ru/station/discofunk",
+   "stream": "https://radiorecord.hostingradio.ru/discofunk96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "disco",
+    "house"
+   ],
+   "votes": 572,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2-0",
+   "name": "Наше Радио 2.0",
+   "url": "https://www.nashe.ru/",
+   "stream": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 525,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-hq",
+   "name": "Radio Record HQ",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://air.unmixed.ru/record320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 516,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-ru-enigmatic",
+   "name": "101 ru enigmatic",
+   "url": "https://enigma.101.ru/",
+   "stream": "https://101.ru:8143/?date=201405&hash=1979c180fe0ba452a76f00d8a0f0c452&start=209",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 506,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abba-radio",
+   "name": "ABBA Radio",
+   "url": "https://101.ru/radio/user/1785788",
+   "stream": "https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "disco",
+    "pop-music"
+   ],
+   "votes": 458,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixadance-fm-relax",
+   "name": "Mixadance FM Relax",
+   "url": "http://www.mixadance.fm/",
+   "stream": "https://stream.mixadance.fm/relax#.m4a",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "music",
+    "relax",
+    "relaxing"
+   ],
+   "votes": 429,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "monte-carlo-moscow",
+   "name": "Monte Carlo Moscow",
+   "url": "https://montecarlo.ru/",
+   "stream": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 408,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-101-2",
+   "name": "DFM 101.2",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm.hostingradio.ru/dfm128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 390,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m-deep-radio",
+   "name": "M.Deep Radio",
+   "url": "https://mdeep.ru/",
+   "stream": "https://deephousex.ru/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "chillout",
+    "electronic",
+    "house"
+   ],
+   "votes": 348,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "made-in-russia-dance-radio",
+   "name": "Made In Russia Dance Radio",
+   "url": "https://maderussia.ru/",
+   "stream": "https://listen7.myradio24.com/9083",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 336,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-russian-hits",
+   "name": "Radio Record - Russian Hits",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/russianhits96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 316,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-chill-out",
+   "name": "Record Chill-Out",
+   "url": "",
+   "stream": "https://radiorecord.hostingradio.ru/chil96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 275,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kamchatka-live-chillout",
+   "name": "Kamchatka Live Chillout",
+   "url": "https://kamchatkalive.ru/",
+   "stream": "https://radio.kamchatkalive.ru:8103/chillout",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 274,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-organic-house",
+   "name": "DFM - Organic House",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-organichouse.hostingradio.ru/organichouse96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 264,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-insomnia",
+   "name": "DFM - Insomnia",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-insomnia.hostingradio.ru/insomnia96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "trance"
+   ],
+   "votes": 263,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dancefloor-radio",
+   "name": "Dancefloor Radio",
+   "url": "https://dancefloor.live/",
+   "stream": "https://air.broadcastinggroup.ro/Dancefloor_m",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 261,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deep-in-space",
+   "name": "DEEP IN SPACE",
+   "url": "https://deepinspace.ru/",
+   "stream": "https://stream.drugradio.ru:8020/stream128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Moscow (Russia)",
+   "genre": [
+    "ambient",
+    "chillout"
+   ],
+   "votes": 259,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bossa-nova",
+   "name": "Радио Монте Карло - Bossa Nova",
+   "url": "https://montecarlo.ru/online/monte-carlo-bossa",
+   "stream": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "latin"
+   ],
+   "votes": 255,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-armin-van-buuren",
+   "name": "DFM Armin van Buuren",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm.hostingradio.ru/avburren96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow (Russia)",
+   "genre": [
+    "trance"
+   ],
+   "votes": 248,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-party",
+   "name": "DFM - Party",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-party.hostingradio.ru/dfmparty96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 243,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-fm-instrumental",
+   "name": "Relax FM Instrumental",
+   "url": "https://relax-fm.ru/",
+   "stream": "https://pub0201.101.ru/stream/pro/aac/64/28?",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 241,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orpheus",
+   "name": "Радио Орфей (Radio Orpheus)",
+   "url": "https://orpheusradio.ru/",
+   "stream": "https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 238,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-radio-remix",
+   "name": "Super-Radio Remix",
+   "url": "https://serz.ru/",
+   "stream": "https://listen2.myradio24.com/serz",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance"
+   ],
+   "votes": 230,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-remake",
+   "name": "DFM REMAKE",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-remake.hostingradio.ru/remake96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 227,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "seva-ru",
+   "name": "seva ru",
+   "url": "https://seva.ru/radio/",
+   "stream": "https://seva.ru/radio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 227,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-fm-smooth-jazz",
+   "name": "Relax FM Smooth Jazz",
+   "url": "https://relax-fm.ru/",
+   "stream": "https://pub0201.101.ru/stream/trust/mp3/128/31?",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 224,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-future-bass",
+   "name": "Radio Record Future Bass",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/fbass96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "edm"
+   ],
+   "votes": 223,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-pop-dance",
+   "name": "DFM - Pop Dance",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-popdance.hostingradio.ru/popdance96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 218,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-dance-gold-2000s",
+   "name": "DFM DANCE GOLD 2000s",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp",
+   "codec": "aac",
+   "bitrate": 96000,
+   "format": "music",
+   "genre": [
+    "2000s",
+    "dance",
+    "music"
+   ],
+   "votes": 208,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-slap-bass",
+   "name": "DFM - Slap Bass",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-slapbass.hostingradio.ru/slapbass96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 195,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "l-radio",
+   "name": "L-radio",
+   "url": "",
+   "stream": "https://air.unmixed.ru/lradio256",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 195,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-pop-gold-2010s",
+   "name": "DFM POP GOLD 2010s",
+   "url": "",
+   "stream": "https://dfm-popgold10.hostingradio.ru/popgold1096.aacp",
+   "codec": "aac",
+   "bitrate": 96000,
+   "format": "music",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 194,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-ru",
+   "name": "101.ru ДДТ",
+   "url": "https://101.ru/radio/channel/112",
+   "stream": "https://pub0101.101.ru/stream/pro/aac/64/112",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 184,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-nu-dance",
+   "name": "Radio Record - Nu Dance",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/nudance96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 182,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockfm-ru-progressive",
+   "name": "rockfm.ru progressive",
+   "url": "https://rockfm.ru/",
+   "stream": "https://jfm1.hostingradio.ru:14536/prog.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 182,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiorecord-ru-techno",
+   "name": "Radiorecord.RU /techno",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/techno96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "techno"
+   ],
+   "votes": 181,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-club",
+   "name": "DFM - Club",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 176,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockfm-ru-rock70",
+   "name": "rockfm.ru rock70",
+   "url": "https://rockfm.ru/",
+   "stream": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 176,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-live-dj-sets",
+   "name": "Radio Record Live DJ-sets",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/livedjsets96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 172,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-dancehall",
+   "name": "DFM - Dancehall",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dancehall.hostingradio.ru/dancehall96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 165,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "summertime",
+   "name": "Радио Монте Карло - Summertime",
+   "url": "https://montecarlo.ru/online/summertime",
+   "stream": "https://mc-summertime.hostingradio.ru/summertime96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 159,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "102-7-fm",
+   "name": "Хит ФМ Сыктывкар 102.7 FM",
+   "url": "https://top-radio.ru/syiktyivkar/xit-fm",
+   "stream": "https://cast.severmedia.ru:5443/HIT_11_01",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 155,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-89-1-256kbps",
+   "name": "Радио JAZZ 89.1 256kbps",
+   "url": "https://radiojazzfm.ru/",
+   "stream": "https://nashe1.hostingradio.ru/jazz-256",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 154,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aac-64",
+   "name": "Нестандарт (aac • 64)",
+   "url": "https://radionestandart.ru/",
+   "stream": "https://listen.radionestandart.ru:8200/64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "pop-music",
+    "rock"
+   ],
+   "votes": 152,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-chill",
+   "name": "DFM - Chill",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "ambient",
+    "relax"
+   ],
+   "votes": 147,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "biker-fm",
+   "name": "Biker FM",
+   "url": "https://vk.com/radio_biker_fm",
+   "stream": "https://listen4.myradio24.com/69846",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Moscow (Russia)",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 143,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nights",
+   "name": "Радио Монте Карло - Nights",
+   "url": "https://montecarlo.ru/online/monte-carlo--nights",
+   "stream": "https://mc-mcnight.hostingradio.ru/mcnight96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 141,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pi-fm-moskow",
+   "name": "Pi FM Moskow",
+   "url": "https://pifm.ru/",
+   "stream": "https://cdn.pifm.ru/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 139,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-pop-gold-2000s",
+   "name": "DFM POP GOLD 2000s",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-popgold00.hostingradio.ru/popgold0096.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "2000s",
+    "music",
+    "pop"
+   ],
+   "votes": 138,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "funk-coctail",
+   "name": "Радио Монте Карло - Funk Coctail",
+   "url": "https://montecarlo.ru/online/%20funk_cocktail",
+   "stream": "https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "funk"
+   ],
+   "votes": 138,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1000-hits-radio",
+   "name": "1000 HITS RADIO",
+   "url": "https://1000hit.ru/",
+   "stream": "https://stream.1000hit.ru:8000/stream128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Moscow (Russia)",
+   "genre": [
+    "classic-rock",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 136,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-radio-70-s",
+   "name": "Record Radio 70's",
+   "url": "http://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/197096.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "70s"
+   ],
+   "votes": 136,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-7-moscow",
+   "name": "Radio 7 Moscow",
+   "url": "https://www.radio7.ru/",
+   "stream": "https://emgregion.hostingradio.ru:8064/moscow.radio7.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "hits"
+   ],
+   "votes": 135,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-80e",
+   "name": "Ретро FM 80e",
+   "url": "http://retrofm.ru/",
+   "stream": "https://retro80.hostingradio.ru:8025/retro80-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 132,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-ru-madonna",
+   "name": "101.ru Madonna",
+   "url": "https://101.ru/radio/channel/128",
+   "stream": "https://srv01.gpmradio.ru/stream/pro/aac/64/128",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Web",
+   "genre": [
+    "pop"
+   ],
+   "votes": 120,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rare-fishes-radio",
+   "name": "Радио \"Редкие Рыбы\" - Rare Fishes radio",
+   "url": "http://xn--90afcbol3bf3hb.xn--p1ai/",
+   "stream": "https://listen1.myradio24.com/8317",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Saint-Petersburg",
+   "genre": [
+    "music"
+   ],
+   "votes": 116,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-ru-scorpions",
+   "name": "101.ru Scorpions",
+   "url": "https://101.ru/radio/channel/113",
+   "stream": "https://srv01.gpmradio.ru/stream/pro/aac/64/113",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Web",
+   "genre": [
+    "rock"
+   ],
+   "votes": 111,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90-1-fm",
+   "name": "Радио Эрмитаж Санкт-Петербург 90.1 FM",
+   "url": "https://top-radio.ru/sankt-peterburg/ermitazh",
+   "stream": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "blues",
+    "jazz",
+    "music"
+   ],
+   "votes": 110,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-dance-gold-1990s",
+   "name": "DFM DANCE GOLD 1990s",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dancegold90.hostingradio.ru/dancegold9096.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "90s",
+    "dance",
+    "music"
+   ],
+   "votes": 107,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90-3",
+   "name": "ЯН.ФМ Диско 90х РФ",
+   "url": "https://radio90s.ru/4-diskach-90s-megahit-dnr.html",
+   "stream": "https://radio90s.stream.laut.fm/radio90s?t302=2026-08-22_00-38-10&uuid=cf855143-ffb5-4ba6-8313-fa16af1f426f",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Sochi",
+   "genre": [
+    "80s",
+    "90s",
+    "rap"
+   ],
+   "votes": 105,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockfm-ru",
+   "name": "rockfm.ru",
+   "url": "https://rockfm.ru/",
+   "stream": "https://nashe1.hostingradio.ru:80/rock-128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 103,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "7-100-0-fm",
+   "name": "Радио 7 Нижний Новгород 100.0 FM",
+   "url": "https://top-radio.ru/nizhnij-novgorod/radio-7",
+   "stream": "https://online2.gkvr.ru:8000/radio7_nno_64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 101,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sova",
+   "name": "Диско-радио SOVA",
+   "url": "https://disco-radio.ru/",
+   "stream": "https://evcast.mediacp.eu:1965/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "80s",
+    "dance",
+    "disco"
+   ],
+   "votes": 95,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-animklatu",
+   "name": "Radio AnimKLATU",
+   "url": "https://radio90s.ru/351-radio-animklatu.html",
+   "stream": "https://animklatu.stream.laut.fm/animklatu?t302=2026-08-22_03-28-34&uuid=a40653eb-16d1-4b55-8ef3-b0e225694357",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese",
+    "russian"
+   ],
+   "langCodes": [
+    "ja",
+    "ru"
+   ],
+   "state": "Sochi",
+   "genre": [
+    "anime",
+    "dance",
+    "pop",
+    "rap",
+    "rock",
+    "trance"
+   ],
+   "votes": 89,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-2-step",
+   "name": "Radio Record 2-step",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/2step96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 78,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-swedish-house-mafia",
+   "name": "DFM SWEDISH HOUSE MAFIA",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-housemafia.hostingradio.ru/housemafia96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "house",
+    "music"
+   ],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-k-pop",
+   "name": "DFM K-POP",
+   "url": "",
+   "stream": "https://dfm-kpop.hostingradio.ru/kpop96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "kpop",
+    "music"
+   ],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-90",
+   "name": "DFM Дискач 90-х",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [],
+   "votes": 55189,
+   "clicks": 68,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-russian-mix",
+   "name": "Radio Record - Russian Mix",
+   "url": "https://www.radiorecord.ru/station/rus",
+   "stream": "https://radiorecord.hostingradio.ru/rus96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 46610,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hostingradio",
+   "name": "Русское Радио",
+   "url": "",
+   "stream": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 31150,
+   "clicks": 47,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-aac",
+   "name": "Вести FM (AAC)",
+   "url": "https://radiovesti.ru/",
+   "stream": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Москва",
+   "genre": [],
+   "votes": 11622,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm",
+   "name": "Соловьёв FM",
+   "url": "http://soloviev.live/",
+   "stream": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 11546,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiokp",
+   "name": "Комсомольская правда",
+   "url": "https://radiokp.ru/",
+   "stream": "https://kpradio.hostingradio.ru:8000/64",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Москва",
+   "genre": [],
+   "votes": 9756,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sputnikimages",
+   "name": "Спутник",
+   "url": "https://sputnikimages.com/",
+   "stream": "https://icecast-rian.cdnvideo.ru/voicerus",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Москва",
+   "genre": [],
+   "votes": 7826,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiozvezda",
+   "name": "Звезда",
+   "url": "https://radiozvezda.ru/",
+   "stream": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian",
+    "язык:-русский"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [],
+   "votes": 5815,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rusradio",
+   "name": "Русское Радио: Русский Рок",
+   "url": "https://rusradio.ru/",
+   "stream": "https://rmg.hostingradio.ru:80/russkijrok96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 5183,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-2",
+   "name": "Вести FM",
+   "url": "https://smotrim.ru/radiovesti",
+   "stream": "https://icecast-vgtrk.cdnvideo.ru/vestifm",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "язык:-русский"
+   ],
+   "genre": [],
+   "votes": 5177,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hip-hop-radio",
+   "name": "HIP HOP RADIO",
+   "url": "http://hiphopradio.ru/",
+   "stream": "https://tntradio.hostingradio.ru:8027/hhr128.mp3",
+   "codec": "aac",
+   "bitrate": 160,
+   "state": "Moscow",
+   "genre": [],
+   "votes": 4706,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-3",
+   "name": "Бизнес FM",
+   "url": "https://www.bfm.ru/",
+   "stream": "https://bfm.hostingradio.ru:9075/fm",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 4664,
+   "clicks": 25,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "veseloeradio",
+   "name": "Юмор ФМ",
+   "url": "https://www.veseloeradio.ru/",
+   "stream": "https://fed.fmplay.ru:8000/humor-32.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Москва",
+   "genre": [],
+   "votes": 4317,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "noasrv",
+   "name": "Эхо",
+   "url": "",
+   "stream": "https://noasrv.caster.fm:10034/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 4043,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-radio",
+   "name": "Маруся ФМ",
+   "url": "https://m.the-radio.ru/radio/marusya-fm-r2543",
+   "stream": "https://listen.vdfm.ru:8000/marusya",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 3801,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hostingradio-2",
+   "name": "Радио Монте Карло",
+   "url": "",
+   "stream": "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 3391,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-hardstyle",
+   "name": "Radio Record Hardstyle",
+   "url": "https://www.radiorecord.ru/station/teo",
+   "stream": "https://radiorecord.hostingradio.ru/teo96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow (Russia)",
+   "genre": [],
+   "votes": 2878,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm",
+   "name": "DFM",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [],
+   "votes": 2683,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90",
+   "name": "ДИСКОТЕКА 90-Х",
+   "url": "",
+   "stream": "https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1875,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musical-decadence-radio",
+   "name": "Musical Decadence Radio",
+   "url": "https://www.musicaldecadence.ru/",
+   "stream": "https://stream.musicaldecadence.ru/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1755,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "enigmatic-station",
+   "name": "Enigmatic Station",
+   "url": "https://enigmatic.su/enigmatic-station-1/",
+   "stream": "https://listen2.myradio24.com/8226",
+   "codec": "mp3",
+   "bitrate": 256,
+   "state": "Moscow (Russia)",
+   "genre": [],
+   "votes": 1418,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-93-6",
+   "name": "Коммерсантъ FM 93.6",
+   "url": "https://www.kommersant.ru/fm",
+   "stream": "https://kommersant77.hostingradio.ru:8085/kommersant128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Москва",
+   "genre": [],
+   "votes": 1380,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maximum-metallica",
+   "name": "Radio Maximum - Metallica",
+   "url": "https://www.maximum.ru/",
+   "stream": "https://metallica.hostingradio.ru/metallica96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 1370,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-breaks-aac",
+   "name": "Radio Record BREAKS AAC",
+   "url": "https://www.radiorecord.ru/station/brks",
+   "stream": "https://radiorecord.hostingradio.ru/brks96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1333,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deep-one",
+   "name": "Deep One",
+   "url": "https://deep1.ru/",
+   "stream": "https://stream.deep1.ru/deep1mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Saint-Petersburg",
+   "genre": [],
+   "votes": 1315,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-piter-fm",
+   "name": "Питер FM (Piter FM)",
+   "url": "https://radiopiterfm.ru/",
+   "stream": "https://icecast-piterfm.cdnvideo.ru/piterfm",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 1288,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sputnik-256",
+   "name": "Радио Sputnik (Россия) 256 кбит/с",
+   "url": "https://ria.ru/radio",
+   "stream": "https://icecast-rian.cdnvideo.ru/voicerushi",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "язык:-русский"
+   ],
+   "genre": [],
+   "votes": 1210,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sputnik-news-belarussian",
+   "name": "Sputnik News Belarussian",
+   "url": "https://sputnik.by/",
+   "stream": "https://nfw.ria.ru/flv/audio.aspx?ID=68862011&amp;type=mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moscow",
+   "genre": [],
+   "votes": 1126,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maximum-rammstein",
+   "name": "Radio Maximum - Rammstein",
+   "url": "https://www.maximum.ru/",
+   "stream": "https://maximum-rammstein.hostingradio.ru/rammstein96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english",
+    "german",
+    "russian"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 1104,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-fm-nature",
+   "name": "Relax FM Nature",
+   "url": "https://top-radio.ru/web/relax-nature",
+   "stream": "https://pub0101.101.ru/stream/trust/mp3/128/263",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1051,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "18",
+   "name": "Дядя Ваня на даче (18+)",
+   "url": "https://radio-sound.ru/na-dache",
+   "stream": "https://ic1.radiosignal.one/vanya-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 1021,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bigtunesradio-house",
+   "name": "BigTunesRadio - House",
+   "url": "https://bigtunesradio.com/",
+   "stream": "https://bigtunesradio.com:8003/house.mp3?1712236225331",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 989,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-vip-house",
+   "name": "Radio Record VIP House",
+   "url": "https://www.radiorecord.ru/station/vip",
+   "stream": "https://radiorecord.hostingradio.ru/vip96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 957,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-tech-house",
+   "name": "DFM - Tech House",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-techhouse.hostingradio.ru/techhouse96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 930,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rcm-deep",
+   "name": "RCM DEEP",
+   "url": "https://rcmdeep.com/",
+   "stream": "https://relay.radiotoolkit.com/rcmdeep",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 930,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-trance-classics",
+   "name": "Record Trance Classics",
+   "url": "https://www.radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/trancehits96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 877,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-trap",
+   "name": "DFM Trap",
+   "url": "https://dfm.ru/",
+   "stream": "https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Moskow",
+   "genre": [],
+   "votes": 857,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dnb-fm",
+   "name": "DNB FM",
+   "url": "https://dnbfm.ru/",
+   "stream": "https://air.dnbfm.ru/listen/player/play",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 824,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-trancemission",
+   "name": "Record Trancemission",
+   "url": "https://radiorecord.ru/",
+   "stream": "https://radiorecord.hostingradio.ru/tm96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Russia SPb",
+   "genre": [],
+   "votes": 815,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maximum-depeche-mode",
+   "name": "Radio Maximum - Depeche Mode",
+   "url": "https://www.maximum.ru/",
+   "stream": "https://depechemode.hostingradio.ru/depechemode96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 810,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "monte-carlo-gold-collection",
+   "name": "Monte Carlo Gold Collection",
+   "url": "https://montecarlo.ru/online/zolotaya-kollekciya",
+   "stream": "https://montecarlo.hostingradio.ru/mcgold96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 703,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-chill-house",
+   "name": "Radio Record Chill House",
+   "url": "https://www.radiorecord.ru/station/chillhouse",
+   "stream": "https://radiorecord.hostingradio.ru/organic96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 688,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-liquid-funk",
+   "name": "Radio Record Liquid Funk",
+   "url": "https://www.radiorecord.ru/station/liquidfunk",
+   "stream": "https://radiorecord.hostingradio.ru/liquidfunk96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 677,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "7",
+   "name": "Радио 7 на семи холмах - Настроение счастья",
+   "url": "https://top-radio.ru/web/7-na-semi-xolmax-nastroenie-schastya",
+   "stream": "https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp",
+   "codec": "aac",
+   "bitrate": 64000,
+   "genre": [],
+   "votes": 638,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "meditation",
+   "name": "Радио Монте Карло - Meditation",
+   "url": "https://montecarlo.ru/online/meditation",
+   "stream": "https://mc-meditation.hostingradio.ru/meditation96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 632,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-electro",
+   "name": "Radio Record Electro",
+   "url": "https://www.radiorecord.ru/station/elect",
+   "stream": "https://radiorecord.hostingradio.ru/elect96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 563,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bigtunesradio-trance",
+   "name": "BigTunesRadio - Trance",
+   "url": "https://bigtunesradio.com/",
+   "stream": "https://bigtunesradio.com:8003/trance.mp3?1712236520795",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 558,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "covers",
+   "name": "Радио Монте Карло - Covers",
+   "url": "https://montecarlo.ru/online/covers",
+   "stream": "https://mc-covers.hostingradio.ru/mccovers96.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 544,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "96-4-fm",
+   "name": "ретро фм 96.4 FM",
+   "url": "https://online2.gkvr.ru:8001/retro_che_64.aac",
+   "stream": "https://online2.gkvr.ru:8001/retro_che_64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "язык:-русский"
+   ],
+   "genre": [],
+   "votes": 506,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-rock",
+   "name": "record rock",
+   "url": "https://www.radiorecord.ru/station/rock",
+   "stream": "https://radiorecord.hostingradio.ru/rock96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 470,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

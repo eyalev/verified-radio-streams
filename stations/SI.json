@@ -1,0 +1,665 @@
+{
+ "countryCode": "SI",
+ "country": "Slovenia",
+ "slug": "slovenia",
+ "continent": "europe",
+ "stationCount": 39,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/slovenia/",
+ "stations": [
+  {
+   "id": "radio-krka",
+   "name": "Radio KRka",
+   "url": "https://radiokrka.si/",
+   "stream": "https://live.radio.si/Krka",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovenian",
+    "slovenski"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "state": "Dolenjska",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 1615,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nula",
+   "name": "Radio Nula",
+   "url": "https://radionula.com/",
+   "stream": "https://strm.radionula.com/classics",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Ljubljana",
+   "genre": [
+    "disco",
+    "funk",
+    "jazz",
+    "soul"
+   ],
+   "votes": 1573,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-enter",
+   "name": "Radio ENTER",
+   "url": "https://enter.radio/",
+   "stream": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "disco",
+    "house",
+    "techno"
+   ],
+   "votes": 1236,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-antena-105-2mhz",
+   "name": "Radio Antena (105.2MHz)",
+   "url": "https://www.radioantena.si/",
+   "stream": "https://live.radio.si/Antena",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "slovenian",
+    "slovenski"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "state": "Osrednjeslovenska",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 225,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "toti-radio",
+   "name": "Toti Radio",
+   "url": "https://totiradio.si/",
+   "stream": "https://live.radio.si/Toti",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 182,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-terminal",
+   "name": "Radio Terminal",
+   "url": "https://radioterminal.si/",
+   "stream": "https://air.radioterminal.si/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "slovenian"
+   ],
+   "langCodes": [
+    "en",
+    "sl"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 162,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-radio-best-ballads-slo",
+   "name": "Rock Radio Best Ballads SLO",
+   "url": "https://www.rockradio.si/",
+   "stream": "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 89,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-robin",
+   "name": "Radio robin",
+   "url": "https://www.robin.si/",
+   "stream": "https://live.radio.si/Robin",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 77,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-stajerski-val",
+   "name": "Radio Štajerski val",
+   "url": "https://www.stajerskival.si/",
+   "stream": "https://stream.stajerskival.si:8443/live",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-radio-2",
+   "name": "Retro Radio",
+   "url": "https://www.retro.sg/",
+   "stream": "https://zvok.ragla.si/gr",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 38,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-radio",
+   "name": "Rock Radio",
+   "url": "https://www.rockradio.si/",
+   "stream": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "state": "Osrednjeslovenska",
+   "genre": [
+    "rock"
+   ],
+   "votes": 38,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-radio-classics-slo",
+   "name": "Rock Radio Classics SLO",
+   "url": "https://www.rockradio.si/",
+   "stream": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "classic-hits",
+    "classic-rock"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-radio-slo",
+   "name": "Rock Radio SLO",
+   "url": "https://www.rockradio.si/",
+   "stream": "https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-1-rock",
+   "name": "Radio 1 Rock",
+   "url": "https://radio1rock.si/",
+   "stream": "https://live.radio.si/Radio1Rock?t=1776880155210",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-1",
+   "name": "Radio 1",
+   "url": "https://radio1.svet24.si/",
+   "stream": "https://live.radio.si/Radio1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-1-koroska",
+   "name": "Radio 1 Koroska",
+   "url": "https://radio1.svet24.si/",
+   "stream": "https://live.radio1.si/Radio1KOR",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-meteor-si",
+   "name": "Radio METEOR .si",
+   "url": "https://www.radiometeor.si/",
+   "stream": "https://stream.radiometeor.si/listen/meteor/live.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "best-fm-ljubljana",
+   "name": "Best FM Ljubljana",
+   "url": "https://bestfm.svet24.si/live/radio.html",
+   "stream": "https://live.radio.si/BestFM",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1341,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-maribor",
+   "name": "Radio Maribor",
+   "url": "https://www.rtvslo.si/radio-maribor",
+   "stream": "https://mp3.rtvslo.si/rmb",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "state": "Izberite regijo, državo ali provinco.",
+   "genre": [],
+   "votes": 1139,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nula-beatz",
+   "name": "Radio Nula Beatz",
+   "url": "https://radionula.com/",
+   "stream": "https://strm.radionula.com/lounge",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 596,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nula-organic",
+   "name": "Radio Nula Organic",
+   "url": "https://radionula.com/",
+   "stream": "https://strm.radionula.com/channel2",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 407,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ognjisce",
+   "name": "Radio Ognjišče",
+   "url": "https://radio.ognjisce.si/",
+   "stream": "https://live.radio.si/ognjisce.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 315,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-city",
+   "name": "Radio City",
+   "url": "https://www.radiocity.si/",
+   "stream": "https://stream1.radiocity.si/CityMp3128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Štajerska",
+   "genre": [],
+   "votes": 119,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zeleni-val",
+   "name": "Zeleni val",
+   "url": "https://radio.zelenival.com/",
+   "stream": "https://jurepeterka.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "state": "Ljubljana",
+   "genre": [],
+   "votes": 117,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-1-maribor-107-9mhz",
+   "name": "Radio 1 - Maribor (107.9MHz)",
+   "url": "https://www.radio1.si/",
+   "stream": "https://live.radio1.si/Radio1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "state": "Podravska",
+   "genre": [],
+   "votes": 112,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-radio",
+   "name": "Retro Radio",
+   "url": "https://www.retrodab.plus/",
+   "stream": "https://zvok.ragla.si/gr?1670057106819",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 102,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-radio-hard-heavy-slo",
+   "name": "Rock Radio Hard & Heavy SLO",
+   "url": "https://www.rockradio.si/",
+   "stream": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovenian"
+   ],
+   "langCodes": [
+    "sl"
+   ],
+   "genre": [],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-radio-slovenia",
+   "name": "Rock Radio Slovenia",
+   "url": "https://www.rockradio.si/",
+   "stream": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "univox",
+   "name": "Univox",
+   "url": "https://univox.si/",
+   "stream": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Dolenjska",
+   "genre": [],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-maxi",
+   "name": "Radio Maxi",
+   "url": "https://radiomaxi.si/",
+   "stream": "https://live.radio.si/Maxi?t=1722577989752",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio1",
+   "name": "Radio1",
+   "url": "https://live.radio1.si/",
+   "stream": "https://live.radio1.si/Radio80",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "frajer-radio",
+   "name": "FRAJER RADIO",
+   "url": "https://radiofrajer.si/",
+   "stream": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-maribor",
+   "name": "Rock Maribor",
+   "url": "https://rockmaribor.si/",
+   "stream": "https://live.radio.si/RockMB?t=1732114443550",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-student",
+   "name": "Radio Student",
+   "url": "https://radiostudent.si/",
+   "stream": "https://kruljo.radiostudent.si:8001/hiq",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ptuj",
+   "name": "Radio Ptuj",
+   "url": "https://radioptuj.svet24.si/",
+   "stream": "https://live.radio.si/Ptuj",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "toti-maxi",
+   "name": "Toti Maxi",
+   "url": "https://radiomaxi.si/",
+   "stream": "https://live.radio.si/Maxi",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-slovenija-1",
+   "name": "Radio Slovenija 1",
+   "url": "https://prvi.rtvslo.si/",
+   "stream": "https://mp3.rtvslo.si/prvi",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mmr",
+   "name": "Radio MMR",
+   "url": "https://mmr.rtvslo.si/",
+   "stream": "https://mp3.rtvslo.si/mmr",
+   "codec": "aac",
+   "bitrate": 192,
+   "state": "l",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ars",
+   "name": "Radio ARS",
+   "url": "https://ars.rtvslo.si/",
+   "stream": "https://mp3.rtvslo.si/ars",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "countryCode": "SD",
+ "country": "Sudan",
+ "slug": "sudan",
+ "continent": "africa",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/sudan/",
+ "stations": [
+  {
+   "id": "radio-quran",
+   "name": "#Radio Quran",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 497,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dabanga-radio",
+   "name": "Dabanga Radio",
+   "url": "https://www.dabangasudan.org/en",
+   "stream": "https://stream.dabangasudan.org/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 796,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 177,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dial-radio",
+   "name": "Dial Radio",
+   "url": "https://dialradio.live/",
+   "stream": "https://cast.dialradio.live/stream.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "deutsch-fränkisch",
+    "english",
+    "global"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nouvelle-Aquitaine",
+   "genre": [],
+   "votes": 176,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  }
+ ]
+}

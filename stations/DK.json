@@ -1,0 +1,1088 @@
+{
+ "countryCode": "DK",
+ "country": "Denmark",
+ "slug": "denmark",
+ "continent": "europe",
+ "stationCount": 71,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/denmark/",
+ "stations": [
+  {
+   "id": "nova-100-dansk",
+   "name": "Nova 100% Dansk",
+   "url": "https://radioplay.dk/nova-100-dansk/",
+   "stream": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac",
+   "codec": "aac",
+   "bitrate": 95,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 723,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-rock-danmark",
+   "name": "Classic Rock Danmark",
+   "url": "https://classicrock.dk/station/dk",
+   "stream": "https://netradio.classicfm.dk/classicrock",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 270,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-abc",
+   "name": "Radio ABC",
+   "url": "https://radioabc.dk/",
+   "stream": "https://radioserver.dk/abc",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 225,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "always-elvis-radio",
+   "name": "Always ELVIS Radio",
+   "url": "https://www.memphismansion.com/",
+   "stream": "https://radioserver.dk/alwayselvisradio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 151,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danmarks-radio-p6",
+   "name": "Danmarks Radio P6",
+   "url": "https://www.dr.dk/radio/oversigt",
+   "stream": "https://live-icy.dr.dk/A/A29H.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 141,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-viborg",
+   "name": "Radio Viborg",
+   "url": "https://radioviborg.dk/#",
+   "stream": "https://webradio.radioviborg.dk/viborg",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "state": "Viborg",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 82,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "go-fm",
+   "name": "go!FM",
+   "url": "https://www.gofm.dk/",
+   "stream": "https://radioserver.dk/gofm",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 68,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-globus",
+   "name": "Radio Globus",
+   "url": "https://radioglobus.dk/",
+   "stream": "https://stream.probroadcast.dk/radioglobus",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pop-fm-80er",
+   "name": "POP FM 80er",
+   "url": "https://radioplay.dk/pop-fm-80er",
+   "stream": "https://live-bauerdk.sharp-stream.com//popfm80.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "state": "Copenhagen",
+   "genre": [
+    "80s"
+   ],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-humleborg",
+   "name": "Radio Humleborg",
+   "url": "https://humleborg.dk/",
+   "stream": "https://stream2.rcast.net/64145",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "Fredensborg",
+   "genre": [
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stinesen",
+   "name": "Radio Stinesen",
+   "url": "https://stinesen.dk/",
+   "stream": "https://st1.stinesen.dk/StineM320",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "danish",
+    "english"
+   ],
+   "langCodes": [
+    "da",
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-panini",
+   "name": "Radio Panini",
+   "url": "https://www.radiopanini.com/",
+   "stream": "https://radi-panini.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Copenhagen",
+   "genre": [
+    "music"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "globus-guld-country",
+   "name": "Globus Guld Country",
+   "url": "https://globusguld.dk/",
+   "stream": "https://stream.probroadcast.dk/guldcountrymp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-diablo-aac",
+   "name": "Radio Diablo (AAC)",
+   "url": "https://radiodiablo.dk/",
+   "stream": "https://radio1.jfmtech.dk/diablo.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dr-p4-midt-vest",
+   "name": "DR P4 Midt & Vest",
+   "url": "https://www.dr.dk/lyd/p4vest",
+   "stream": "https://live-icy.dr.dk/A/A09L.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "charlie-classical",
+   "name": "Charlie Classical",
+   "url": "https://charlie.nu/",
+   "stream": "https://ec6.yesstreaming.net:4365/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flr",
+   "name": "Radio FLR",
+   "url": "https://radioflr.dk/",
+   "stream": "https://faxe.jtw.dk/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "state": "Faxe",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "plantland-radio",
+   "name": "Plantland Radio",
+   "url": "https://www.plantlandradio.com/",
+   "stream": "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Copenhagen",
+   "genre": [
+    "ambient"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tango-copenhagen-radio",
+   "name": "Tango Copenhagen Radio",
+   "url": "https://tangocopenhagen.radio/",
+   "stream": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 817,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "myrock",
+   "name": "myROCK",
+   "url": "https://radioplay.dk/myrock/",
+   "stream": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [],
+   "votes": 255,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wmr-world-music-radio",
+   "name": "WMR - World Music Radio",
+   "url": "https://www.wmr.dk/#",
+   "stream": "https://stream.probroadcast.dk/wmr",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 176,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-voice-danmarks-hitstation",
+   "name": "The Voice - Danmarks Hitstation",
+   "url": "https://radioplay.dk/the-voice/",
+   "stream": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [],
+   "votes": 173,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-fm",
+   "name": "Nova FM",
+   "url": "http://www.novafm.dk/",
+   "stream": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 129,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alfa",
+   "name": "Radio Alfa",
+   "url": "https://www.radioalfa.dk/",
+   "stream": "https://radioserver.dk/alfa",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 93,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80-s-hits",
+   "name": "80's Hits",
+   "url": "https://radiostationer.dk/187-80-s-hits.html",
+   "stream": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
+   "codec": "aac",
+   "bitrate": 95,
+   "genre": [],
+   "votes": 84,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-viva-kolding",
+   "name": "Radio Viva - Kolding",
+   "url": "https://radioviva.dk/",
+   "stream": "https://stream.probroadcast.dk/radioviva",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 83,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-100",
+   "name": "Radio 100",
+   "url": "https://radioplay.dk/radio-100/",
+   "stream": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "danish",
+    "english"
+   ],
+   "langCodes": [
+    "da",
+    "en"
+   ],
+   "genre": [],
+   "votes": 79,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "globus-guld-jul",
+   "name": "Globus Guld Jul",
+   "url": "https://globusguld.dk/globus-guld-jul/",
+   "stream": "https://stream.probroadcast.dk/guldjul",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "danish",
+    "english"
+   ],
+   "langCodes": [
+    "da",
+    "en"
+   ],
+   "genre": [],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alfa-gold",
+   "name": "Alfa Gold",
+   "url": "https://www.radioalfa.dk/",
+   "stream": "https://radioserver.dk/alfaevent",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dansktop-kanalen",
+   "name": "Dansktop Kanalen",
+   "url": "https://dansktopkanalen.dk/",
+   "stream": "https://netradio.classicfm.dk/dansktop",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-solo",
+   "name": "Radio Solo",
+   "url": "https://radiosolo.dk/",
+   "stream": "https://radioserver.dk/solo",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-benhavn-jazz-radio",
+   "name": "København Jazz Radio",
+   "url": "https://bricksite.com/main/de",
+   "stream": "https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "København",
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-radio",
+   "name": "Retro Radio",
+   "url": "https://retro-radio.dk/",
+   "stream": "https://tx-2.retro-radio.dk/TX-2",
+   "codec": "aac",
+   "bitrate": 192,
+   "state": "Nivå",
+   "genre": [],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-m",
+   "name": "Radio M",
+   "url": "https://radiom.dk/",
+   "stream": "https://radioserver.dk/radiom",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Herning",
+   "genre": [],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vlr",
+   "name": "Radio VLR",
+   "url": "https://vlr.dk/",
+   "stream": "https://netradio.vlr.dk/vlr8d",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skala-fm",
+   "name": "Skala FM",
+   "url": "https://skala.fm/",
+   "stream": "https://netradio.skala.fm/ska8d",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 36,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dlf-aktuelle-presseschau",
+   "name": "DLF aktuelle Presseschau",
+   "url": "https://www.deutschlandfunk.de/",
+   "stream": "https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Deutschland und NRW",
+   "genre": [],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-soft-k-benhavns-nr-bispebjerg-lr-bella-chr",
+   "name": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
+   "url": "https://www.knr.dk/",
+   "stream": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-fyn",
+   "name": "Classic FM (Fyn)",
+   "url": "https://classicfm.dk/",
+   "stream": "https://netradio.classicfm.dk/cla12a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Fyn",
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alfa-aarhus",
+   "name": "Radio Alfa Aarhus",
+   "url": "https://www.radioalfa.dk/",
+   "stream": "https://radioserver.dk/alfaaarhus",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vlr-classic-christmas",
+   "name": "Radio VLR - Classic Christmas",
+   "url": "https://vlr.dk/",
+   "stream": "https://netradio.vlr.dk/popup2",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "limfjord-slager",
+   "name": "Limfjord Slager",
+   "url": "http://limfjordslager.dk/index.html",
+   "stream": "https://media.limfjordnetradio.dk/plusslageraac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danmarks-radio-p2",
+   "name": "Danmarks Radio P2",
+   "url": "https://www.dr.dk/lyd/p2",
+   "stream": "https://live-icy.dr.dk/A/A27L.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fasanen-frederiksberg",
+   "name": "Radio Fasanen Frederiksberg",
+   "url": "https://www.radiokultur.dk/",
+   "stream": "https://c14.radioboss.fm:18228/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Frederiksberg",
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "esbjerg-classic-fm",
+   "name": "Esbjerg Classic FM",
+   "url": "https://classicfm.dk/",
+   "stream": "https://webradio.classicfm.dk/classicvejle",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Esbjerg",
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-iiii",
+   "name": "Radio IIII",
+   "url": "https://radio4.dk/",
+   "stream": "https://netradio.radio4.dk/radio4",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "danish"
+   ],
+   "langCodes": [
+    "da"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dr-p5-stjylland",
+   "name": "DR P5 Østjylland",
+   "url": "https://www.dr.dk/lyd/programmer",
+   "stream": "https://live-icy.dr.dk/A/A24H.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alfa-skive",
+   "name": "Radio Alfa Skive",
+   "url": "https://www.radioalfa.dk/",
+   "stream": "https://radioserver.dk/alfaskive",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dr-p5-esbjerg",
+   "name": "DR P5 Esbjerg",
+   "url": "https://www.dr.dk/lyd/programmer",
+   "stream": "https://live-icy.dr.dk/A/A26H.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "limfjord-mix",
+   "name": "Limfjord Mix",
+   "url": "https://limfjordnetradio.dk/",
+   "stream": "https://media.limfjordnetradio.dk/limfjord128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dr-p5-midt-vest",
+   "name": "DR P5 Midt/Vest",
+   "url": "https://www.dr.dk/lyd/programmer",
+   "stream": "https://live-icy.dr.dk/A/A17H.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-playback",
+   "name": "Radio Playback",
+   "url": "http://www.radioplayback.dk/",
+   "stream": "https://stream02.radioplayback.dk/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alfa-midtjylland",
+   "name": "Radio Alfa Midtjylland",
+   "url": "https://www.radioalfa.dk/",
+   "stream": "https://radioserver.dk/alfamidt",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alfa-viborg",
+   "name": "Radio Alfa Viborg",
+   "url": "https://radioserver.dk/alfaviborg",
+   "stream": "https://radioserver.dk/alfaviborg",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2town-radio",
+   "name": "2town Radio",
+   "url": "https://www.2town.dk/tag/radio/",
+   "stream": "https://streaming.radio.co/sd9d980ff0/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-helsing-r-fm",
+   "name": "Radio Helsingør FM",
+   "url": "https://fmscan.org/net.php?sid=27452&pxf=Radio+Helsing%F8r+FM&m=s&r=f&itu=0",
+   "stream": "https://stream.radiohelsingor.dk/rh",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Helsingør",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skagafm",
+   "name": "SkagaFM",
+   "url": "https://skagafm.dk/radio/",
+   "stream": "https://stream.probroadcast.dk/skagafm",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "x-fm-k",
+   "name": "X FM K",
+   "url": "https://uniradioen.dk/",
+   "stream": "https://uniradio.out.airtime.pro/uniradio_a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dr-p5-fyn",
+   "name": "DR P5 Fyn",
+   "url": "https://www.dr.dk/lyd/programmer",
+   "stream": "https://live-icy.dr.dk/A/A02H.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alfa-silkeborg",
+   "name": "Radio Alfa Silkeborg",
+   "url": "https://www.radioalfa.dk/",
+   "stream": "https://radioserver.dk/alfasilk",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "umlando-radio",
+   "name": "UMLANDO Radio",
+   "url": "http://www.umlando.dk/",
+   "stream": "https://a2.asurahosting.com:6520/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "boybands-forever",
+   "name": "Boybands Forever",
+   "url": "https://radioplay.dk/",
+   "stream": "https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac",
+   "codec": "aac",
+   "bitrate": 95,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-st-fm",
+   "name": "Radio Øst FM",
+   "url": "http://oestfm.dk/",
+   "stream": "https://stream.probroadcast.dk/oestfmmp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dr-p5-bornholm",
+   "name": "DR P5 Bornholm",
+   "url": "https://www.dr.dk/lyd/programmer",
+   "stream": "https://live-icy.dr.dk/A/A30H.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "København",
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m-jazz-radio",
+   "name": "M-Jazz Radio",
+   "url": "https://mjazzradio.com/",
+   "stream": "https://fra-pioneer01.dedicateware.com:1465/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Aarhus, Jutland",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lost-in-the-80s",
+   "name": "Lost in the 80s",
+   "url": "https://lostinthe80s.com/",
+   "stream": "https://ec2.yesstreaming.net:2840/;?type=mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "r8dio",
+   "name": "r8Dio",
+   "url": "https://r8dio.dk/",
+   "stream": "https://s3.radio.co/s7cd1ffe2f/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "charlie-tourist-sydvest",
+   "name": "Charlie Tourist (Sydvest)",
+   "url": "https://charlie.nu/",
+   "stream": "https://ec6.yesstreaming.net:4385/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "danish",
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "da",
+    "de",
+    "en"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sydhavsoerne-lolland",
+   "name": "Radio Sydhavsoerne Lolland",
+   "url": "https://netradio.dk/",
+   "stream": "https://radio1.jfmtech.dk/sydhavlolland",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "partyradio-pro",
+   "name": "Partyradio.pro",
+   "url": "https://www.partyradio.pro/",
+   "stream": "https://stream.partyradio.pro/listen/partyradio/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

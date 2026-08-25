@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="classical",تفسير القرآن الكريم
+https://qurango.net/radio/tafseer
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="classical",.ماهر المعيقلي
+https://backup.qurango.net/radio/maher
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="classical",.Quran radio
+https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="top-40",101.7 Your Love FM
+https://radio.905heartfm.com:8000/radio.mp3
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="80s,90s,classic-hits",Saudi Aramco Studio X 80s and 90s
+https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="90s,pop,rock",UFM KSA 90s 105.9 FM
+https://drive.uber.radio/uber/boomerang1990s/icecast.audio
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="80s,pop,rock",UFM KSA 80s 95.5 FM
+https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="top-40",SkyRadio 105.5 FM
+https://cast.skyradio105.com/proxy/skyradio105/stream
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="music,rock",105.5 Soft Rock FM KSA
+https://drive.uber.radio/uber/starboxsoftrock/icecast.audio
+#EXTINF:-1 group-title="Saudi Arabia" tvg-genre="music,top-40",105.5 AFN RADIO ONE
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac
+#EXTINF:-1 group-title="Saudi Arabia",Mp3Quran Tarateel
+https://qurango.net/radio/tarateel
+#EXTINF:-1 group-title="Saudi Arabia",Mp3Quran Main
+https://qurango.net/radio/mix
+#EXTINF:-1 group-title="Saudi Arabia",AlifAlif FM
+https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
+#EXTINF:-1 group-title="Saudi Arabia",Fred Film Radio(لغة عربية)
+https://s10.webradio-hosting.com/proxy/fredradioar/stream
+#EXTINF:-1 group-title="Saudi Arabia",إذاعة القرآن الكريم (مكة المكرمة)
+https://edge.mixlr.com/channel/rwumx
+#EXTINF:-1 group-title="Saudi Arabia",راديو الشرق مع بلومبرغ
+https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio
+#EXTINF:-1 group-title="Saudi Arabia",مقدمة رسالة ابن أبي زيد القيرواني1
+https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3
+#EXTINF:-1 group-title="Saudi Arabia",إذاعة الأخبار كل 5 دقائق REPLAY NEWS - العربية
+https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3
+#EXTINF:-1 group-title="Saudi Arabia",SBA Saudia Radio 103.6 FM
+https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA
+#EXTINF:-1 group-title="Saudi Arabia",Voice Of Grace
+https://securestreams5.reliastream.com:1820/;
+#EXTINF:-1 group-title="Saudi Arabia",إذاعة القرآن الكريم (مكة المكرمة)
+https://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABlo7vOaoAkavc0CM0frQ6zQ
+#EXTINF:-1 group-title="Saudi Arabia",UFM 95.5
+https://stream.ufmradio.com:8003/;
+#EXTINF:-1 group-title="Saudi Arabia",Islamic Tagalog Radio
+https://islamicbulletin.site:8030/stream
+#EXTINF:-1 group-title="Saudi Arabia",Old Time Radio KSA 720 AM
+https://ais-sa3.cdnstream1.com/2607_128.mp3
+#EXTINF:-1 group-title="Saudi Arabia",V81 Radio KSA 101.8 FM
+https://cast4.servcast.net/proxy/v81radioworldwide/live
+#EXTINF:-1 group-title="Saudi Arabia",Jeddah
+https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3
+#EXTINF:-1 group-title="Saudi Arabia",Universal Health Radio (العربية)
+https://radio.universalhealthradio.org/uhr-ar.mp3

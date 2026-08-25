@@ -1,0 +1,103 @@
+{
+ "countryCode": "QA",
+ "country": "Qatar",
+ "slug": "qatar",
+ "continent": "asia",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/qatar/",
+ "stations": [
+  {
+   "id": "qurango",
+   "name": "تفسير بن عثيمين رحمه الله",
+   "url": "",
+   "stream": "https://qurango.net/radio/tafseer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 684,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "suno-malayalam-fm",
+   "name": "Suno Malayalam FM",
+   "url": "https://suno.qa/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2426,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-araby",
+   "name": "Al araby",
+   "url": "https://www.alaraby.com/",
+   "stream": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Doha QATAR",
+   "genre": [],
+   "votes": 1784,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-olive-106-3",
+   "name": "Radio Olive 106.3",
+   "url": "https://olive.qa/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 461,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-olive-106-3-jiyo-bindass",
+   "name": "Radio Olive 106.3 - Jiyo Bindass",
+   "url": "https://olive.qa/",
+   "stream": "https://22733.live.streamtheworld.com/OLIVE1063.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Doha QATAR",
+   "genre": [],
+   "votes": 311,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 306,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

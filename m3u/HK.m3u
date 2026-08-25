@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="Hong Kong SAR China" tvg-genre="pop",Fing Radio
+https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
+#EXTINF:-1 group-title="Hong Kong SAR China" tvg-genre="pop,top-40",Radio Disney Asia FM 100.7
+https://listen.radioking.com/radio/453221/stream/508076
+#EXTINF:-1 group-title="Hong Kong SAR China" tvg-genre="classic-rock,funk,instrumental,jazz,music,soul",大嶼山廣播電台 RADIO LANTAU
+https://radio.dripfeed.net/listen/radiolantau/radio.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China" tvg-genre="edm,electronic,music",FM Belowground
+https://listen.belowground.fm/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China",La French Radio Honk-Kong et Macao
+https://listen.radioking.com/radio/333865/stream/382282
+#EXTINF:-1 group-title="Hong Kong SAR China",台山電台
+https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China",深圳交通廣播
+https://lhttp-hw.qtfm.cn/live/1272/64k.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China",中山綜合廣播
+https://lhttp.qingting.fm/live/1277/64k.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China",珠海綜合廣播
+https://lhttp-hw.qtfm.cn/live/1274/64k.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China",良友电台友音乐频道
+https://c25.radioboss.fm:8334/stream
+#EXTINF:-1 group-title="Hong Kong SAR China",大連都市之聲廣播
+https://lhttp-hw.qtfm.cn/live/1086/64k.mp3
+#EXTINF:-1 group-title="Hong Kong SAR China",華語 HITS
+https://das-edge14-live365-dal02.cdnstream.com/a57743_2
+#EXTINF:-1 group-title="Hong Kong SAR China",Universal Health Radio (粵語)
+https://radio.universalhealthradio.org/uhr-yue.mp3

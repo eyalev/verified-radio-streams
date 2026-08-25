@@ -1,0 +1,102 @@
+{
+ "countryCode": "AS",
+ "country": "American Samoa",
+ "slug": "american-samoa",
+ "continent": "oceania",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/american-samoa/",
+ "stations": [
+  {
+   "id": "national-public-radio",
+   "name": "National Public Radio",
+   "url": "",
+   "stream": "https://npr-ice.streamguys1.com/live.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1117,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "soundofhope",
+   "name": "希望之声",
+   "url": "https://www.soundofhope.org/",
+   "stream": "https://livecast1.soundofhope.org:2087/soh-live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "USA",
+   "genre": [],
+   "votes": 650,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-christmas-classics",
+   "name": "Fm Christmas classics",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-xtraditional_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 517,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm-pop-musika-i-le-igilisi-ma-le-sipaniolo",
+   "name": "EXA FM: Pop musika i le Igilisi ma le Sipaniolo",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 252,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "christmas-356-santa-s-radio",
+   "name": "Christmas 356 Santa's Radio",
+   "url": "http://xmas365.fm/",
+   "stream": "https://us3.streamingpulse.com/ssl/7038",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 238,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 87,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="New Caledonia" tvg-genre="music",Nouvelle-Calédonie La Première
+https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+#EXTINF:-1 group-title="New Caledonia" tvg-genre="chillout",NIA Radio Lo-Fi
+https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
+#EXTINF:-1 group-title="New Caledonia" tvg-genre="electronica,house,techno",NIA Radio - Pacifique
+https://radio.nia.nc/radio/8000/pacific-hq-stream.aac
+#EXTINF:-1 group-title="New Caledonia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

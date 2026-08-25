@@ -1,0 +1,3127 @@
+{
+ "countryCode": "AE",
+ "country": "United Arab Emirates",
+ "slug": "united-arab-emirates",
+ "continent": "asia",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/united-arab-emirates/",
+ "stations": [
+  {
+   "id": "exclusively-pink-floyd",
+   "name": "Exclusively Pink Floyd",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 12225,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-abba",
+   "name": "Exclusively ABBA",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 5181,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-genesis",
+   "name": "Exclusively Genesis",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/genesis/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 3996,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusive-radio-queen",
+   "name": "Exclusive Radio – Queen",
+   "url": "https://play.exclusive.radio/station/51/335",
+   "stream": "https://streaming.exclusive.radio/er/queen/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 3522,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-u2",
+   "name": "Exclusively U2",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/u2/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 3360,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-guns-n-roses",
+   "name": "Exclusively Guns N’ Roses",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/gunsnroses/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 3211,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-led-zeppelin",
+   "name": "Exclusively Led Zeppelin",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 2522,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-coldplay",
+   "name": "Exclusively Coldplay",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 2413,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-foo-fighters",
+   "name": "Exclusively Foo Fighters",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/foofighters/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 2396,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-michael-jackson",
+   "name": "Exclusively Michael Jackson",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/michaeljackson/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "soul"
+   ],
+   "votes": 2070,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-bts",
+   "name": "Exclusively BTS",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/bts/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "kpop"
+   ],
+   "votes": 2056,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-eagles",
+   "name": "Exclusively Eagles",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/eagles/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1996,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-cure",
+   "name": "Exclusively The Cure",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative",
+    "pop"
+   ],
+   "votes": 1680,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-led-zeppelin-only-hits",
+   "name": "Exclusively Led Zeppelin - Only Hits",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 1610,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-nirvana",
+   "name": "Exclusively Nirvana",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/nirvana/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 1522,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-george-michael",
+   "name": "Exclusively George Michael",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/georgemichael/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 1270,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-mozart",
+   "name": "Classical Radio - Mozart",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crmozart/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 1237,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-doors",
+   "name": "Exclusively The Doors",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er-app/doors/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 1227,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-deep-purple",
+   "name": "Exclusively Deep Purple",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/deeppurple/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 1142,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-van-halen",
+   "name": "Exclusively Van Halen",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/vanhalen/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1012,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-classical",
+   "name": "Easy Classical",
+   "url": "https://easy.radio/",
+   "stream": "https://streaming.exclusive.radio/uber/easyclassical/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 912,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-sting",
+   "name": "Exclusively Sting",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/sting/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 910,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-creedence-clearwater-revival",
+   "name": "Exclusively Creedence Clearwater Revival",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/creedence/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "classic-rock",
+    "pop-rock"
+   ],
+   "votes": 906,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-bee-gees",
+   "name": "Exclusively Bee Gees",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/beegees/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "disco"
+   ],
+   "votes": 864,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-taylor-swift",
+   "name": "Exclusively Taylor Swift",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/taylorswift/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country",
+    "pop"
+   ],
+   "votes": 857,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-fleetwood-mac",
+   "name": "Exclusively Fleetwood Mac",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 804,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-santana",
+   "name": "Exclusively Santana",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/santana/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 777,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-green-day",
+   "name": "Exclusively Green Day",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/greenday/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 761,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-classica-strauss",
+   "name": "Radio Classica - Strauss",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crstrauss/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 730,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-eric-clapton",
+   "name": "Exclusively Eric Clapton",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/ericclapton/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "classic-rock",
+    "pop-rock"
+   ],
+   "votes": 727,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "positively-good-morning-om",
+   "name": "Positively Good Morning -om",
+   "url": "https://play.you.radio/station/1171",
+   "stream": "https://streaming.positivity.radio/pr/goodmorning/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "hits"
+   ],
+   "votes": 719,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-london-symphony-orchestra",
+   "name": "Classical Radio - London Symphony Orchestra",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crlso/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 639,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-police-hits",
+   "name": "Exclusively The Police - Hits",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/policehits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 625,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-shania-twain",
+   "name": "Exclusively Shania Twain",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/shaniatwain/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 596,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-vivaldi",
+   "name": "Classical Radio - Vivaldi",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crvivaldi/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 587,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-johnny-cash",
+   "name": "Exclusively Johnny Cash",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/johnnycash/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country",
+    "gospel"
+   ],
+   "votes": 587,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-depeche-mode",
+   "name": "Exclusively Depeche Mode",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/depechemode/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 559,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-andre-rieu",
+   "name": "Classical Radio - André Rieu",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crandrerieu/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 551,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-john-lennon",
+   "name": "Exclusively John Lennon",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/lennon/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 520,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-alice-cooper-only-hits",
+   "name": "Exclusively Alice Cooper (Only Hits)",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 518,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tinder-radio-bollywood",
+   "name": "Tinder Radio - Bollywood",
+   "url": "https://tinder.radio/",
+   "stream": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 518,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-aerosmith",
+   "name": "Exclusively Aerosmith",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/aerosmith/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 514,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-jethro-tull",
+   "name": "Exclusively Jethro Tull",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/jethrotull/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 511,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-chopin",
+   "name": "Classical Radio - Chopin",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crchopin/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 507,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-shakira",
+   "name": "Exclusively Shakira",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/shakira/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "espaňol",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "latin-pop",
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 503,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-beethoven",
+   "name": "Classical Radio - Beethoven",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crbeethoven/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 500,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-enrique-iglesias",
+   "name": "Exclusively Enrique Iglesias",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espaňol",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "latin-pop",
+    "pop"
+   ],
+   "votes": 494,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-abba-2",
+   "name": "Exclusively ABBA",
+   "url": "https://play.you.radio/station/37",
+   "stream": "https://2.mystreaming.net/er/abba/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "disco"
+   ],
+   "votes": 491,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exclusively-nat-king-cole",
+   "name": "Exclusively Nat King Cole",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/natkingcole/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "r&b"
+   ],
+   "votes": 484,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-chicago-symphony-orchestra",
+   "name": "Classical Radio - Chicago Symphony Orchestra",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 477,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-handel",
+   "name": "Classical Radio - Handel",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crhandel/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 410,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-who-only-hits",
+   "name": "Exclusively The Who - Only Hits",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er-app/whohits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 400,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-daft-punk",
+   "name": "Exclusively Daft Punk",
+   "url": "https://exclusive.radio/all-stations",
+   "stream": "https://streaming.exclusive.radio/er/daftpunk/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "techno"
+   ],
+   "votes": 391,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-justin-bieber",
+   "name": "Exclusively Justin Bieber",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/justinbieber/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 383,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-2pac",
+   "name": "Exclusively 2Pac",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/2pac/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 375,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-neil-young",
+   "name": "Exclusively Neil Young",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/neilyoung/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 374,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-simply-red",
+   "name": "Exclusively Simply Red",
+   "url": "https://play.you.radio/station/1439",
+   "stream": "https://2.mystreaming.net/er/simplyred/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "soul"
+   ],
+   "votes": 371,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-kelly-clarkson",
+   "name": "Exclusively Kelly Clarkson",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/kellyclarkson/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 340,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-david-bowie",
+   "name": "Exclusively David Bowie",
+   "url": "http://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/davidbowie/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 337,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "positively-sleep-classical-om",
+   "name": "Positively Sleep Classical -om",
+   "url": "https://play.you.radio/station/1149",
+   "stream": "https://streaming.positivity.radio/pr/sleepclassical/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "ambient"
+   ],
+   "votes": 335,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-rem",
+   "name": "Exclusively REM",
+   "url": "http://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/rem/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop-rock"
+   ],
+   "votes": 329,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-status-quo",
+   "name": "Exclusively Status Quo",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/statusquo/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 329,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-whitney-houston",
+   "name": "Exclusively Whitney Houston",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "r&b"
+   ],
+   "votes": 324,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-backstreet-boys",
+   "name": "Exclusively Backstreet Boys",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/backstreetboys/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "love-songs",
+    "pop"
+   ],
+   "votes": 321,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-inxs",
+   "name": "Exclusively INXS",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/INXS/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 309,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-annie-lennox",
+   "name": "Exclusively Annie Lennox",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/annielennox/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop-rock"
+   ],
+   "votes": 307,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-bavarian-radio-symphony-orchestr",
+   "name": "Classical Radio - Bavarian Radio Symphony Orchestr",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 305,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-adele",
+   "name": "Exclusively Adele",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 301,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-the-world-prog-rock",
+   "name": "Rock The World - Prog Rock",
+   "url": "https://play.you.radio/station/2350",
+   "stream": "https://drive.uber.radio/uber/rtwprog/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "rock"
+   ],
+   "votes": 295,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-verdi",
+   "name": "Classical Radio - Verdi",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crverdi/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "opera"
+   ],
+   "votes": 290,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-tony-bennett",
+   "name": "Exclusively Tony Bennett",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/tonybennett/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 289,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-cher",
+   "name": "Exclusively Cher",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/cher/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop-rock"
+   ],
+   "votes": 287,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-60s",
+   "name": "Easy 60s",
+   "url": "https://play.easy.radio/",
+   "stream": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "60s"
+   ],
+   "votes": 281,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-lionel-richie",
+   "name": "Exclusively Lionel Richie",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/lionelrichie/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "r&b",
+    "soul"
+   ],
+   "votes": 281,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-bollywood",
+   "name": "Love Radio - Bollywood",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 281,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-tom-jones",
+   "name": "Exclusively Tom Jones",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/tomjones/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "soul"
+   ],
+   "votes": 264,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "just-jazz-billie-holiday",
+   "name": "Just Jazz Billie Holiday",
+   "url": "https://justjazz.radio/",
+   "stream": "https://drive.uber.radio/uber/jjrbillieholiday/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 264,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-britney-spears",
+   "name": "Exclusively Britney Spears",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/britney/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 262,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-tchaikovsky",
+   "name": "Classical Radio - Tchaikovsky",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crtchaikovsky/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 254,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-thin-lizzy",
+   "name": "Exclusively Thin Lizzy",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/thinlizzy/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 252,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-50-cent",
+   "name": "Exclusively 50 Cent",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/50cent/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rap"
+   ],
+   "votes": 248,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-john-denver",
+   "name": "Exclusively John Denver",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/johndenver/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 247,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-allman-brothers-band",
+   "name": "Exclusively The Allman Brothers Band",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 244,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-rod-stewart-hits",
+   "name": "Exclusively Rod Stewart Hits",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/rodstewarthits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai,",
+   "genre": [
+    "blues",
+    "pop",
+    "rock"
+   ],
+   "votes": 239,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-wagner",
+   "name": "Classical Radio - Wagner",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crwagner/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 234,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-america",
+   "name": "Exclusively America",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/america/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 234,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-schubert",
+   "name": "Classical Radio - Schubert",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crschubert/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 231,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-brahms",
+   "name": "Classical Radio - Brahms",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crbrahms/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 223,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-joe-bonamassa",
+   "name": "Exclusively Joe Bonamassa",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/joebonamassa/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 220,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-the-world-heavy-metal",
+   "name": "Rock The World - Heavy Metal",
+   "url": "https://play.you.radio/station/2349",
+   "stream": "https://drive.uber.radio/uber/rtwheavymetal/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "rock"
+   ],
+   "votes": 220,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-moby",
+   "name": "Exclusively Moby",
+   "url": "https://pcradio.ru/radio/moby",
+   "stream": "https://streaming.exclusive.radio/er/moby/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "dance",
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 219,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-turkish-love-songs",
+   "name": "Love Radio - Turkish Love songs",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lrturkish/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 218,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-cat-stevens",
+   "name": "Exclusively Cat Stevens",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/catstevens/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 214,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-debussy",
+   "name": "Classical Radio - Debussy",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crdebussy/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 210,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-john-lee-hooker",
+   "name": "Exclusively John Lee Hooker",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/johnleehooker/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "blues"
+   ],
+   "votes": 208,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "berlin-philharmonic-orchestra-classical-radio",
+   "name": "Berlin Philharmonic Orchestra - Classical Radio",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 207,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-weeknd",
+   "name": "Exclusively The Weeknd",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/theweeknd/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "r&b"
+   ],
+   "votes": 206,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-prince",
+   "name": "Exclusively Prince",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/prince/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "adult-contemporary",
+    "funk",
+    "pop-rock",
+    "r&b",
+    "soul"
+   ],
+   "votes": 205,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-tom-petty",
+   "name": "Exclusively Tom Petty",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/tompetty/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 205,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-luciano-pavarotti",
+   "name": "Classical Radio - Luciano Pavarotti",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crlucianopavarotti/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 194,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-joe-satriani",
+   "name": "Exclusively Joe Satriani",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/joesatriani/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 190,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-byrds",
+   "name": "Exclusively The Byrds",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/thebyrds/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "pop",
+    "rock"
+   ],
+   "votes": 188,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-gary-moore",
+   "name": "Exclusively Gary Moore",
+   "url": "http://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/garymoore/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 184,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "greatest-hits-2000-s",
+   "name": "Greatest Hits 2000's",
+   "url": "https://greatesthits.radio/",
+   "stream": "https://drive.uber.radio/uber/boomerang2000s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "2000s"
+   ],
+   "votes": 184,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-amy-winehouse",
+   "name": "Exclusively Amy Winehouse",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "jazz",
+    "r&b",
+    "soul"
+   ],
+   "votes": 176,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-romantic-piano",
+   "name": "Love Radio - Romantic Piano",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lrromanticpiano/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop",
+    "romantic"
+   ],
+   "votes": 175,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-indie-romance",
+   "name": "Love Radio - Indie Romance",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lrindieromance/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Dubai",
+   "genre": [
+    "indie",
+    "love-songs",
+    "pop"
+   ],
+   "votes": 174,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-diana-krall",
+   "name": "Exclusively Diana Krall",
+   "url": "https://play.you.radio/station/379",
+   "stream": "https://nl4.mystreaming.net/er/dianakrall/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 166,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-peter-frampton",
+   "name": "Exclusively Peter Frampton",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/peterframpton/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 166,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-christina-aguilera",
+   "name": "Exclusively Christina Aguilera",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 165,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-shostakovich",
+   "name": "Classical Radio - Shostakovich",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crshostakovich/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 164,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusive-bb-king",
+   "name": "exclusive BB King",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/bbking/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues"
+   ],
+   "votes": 163,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-sibelius",
+   "name": "Classical Radio - Sibelius",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crsibelius/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 161,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-calm",
+   "name": "Classical Radio - CALM",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crcalm/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "relaxing"
+   ],
+   "votes": 156,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-justin-timberlake",
+   "name": "Exclusively Justin Timberlake",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/justintimberlake/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 156,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-janet-jackson",
+   "name": "Exclusively Janet Jackson",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/janetjackson/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "r&b"
+   ],
+   "votes": 151,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-liszt",
+   "name": "Classical Radio - Liszt",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crliszt/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 145,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-vienna-philharmonic",
+   "name": "Classical Radio - Vienna Philharmonic",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 144,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "positively-motivation-om",
+   "name": "Positively Motivation -om",
+   "url": "https://play.you.radio/station/1144",
+   "stream": "https://streaming.positivity.radio/pr/motivation/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "relaxing"
+   ],
+   "votes": 143,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-take-that",
+   "name": "Exclusively Take That",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/takethat/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 141,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-adele-only-hits",
+   "name": "Exclusively Adele (Only Hits)",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/adelehits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 140,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-bad-company",
+   "name": "Exclusively Bad Company",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/badcompany/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 136,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-radio-charlie-parker",
+   "name": "Exclusively Radio - Charlie Parker",
+   "url": "https://play.exclusive.radio/station/51/376",
+   "stream": "https://streaming.exclusive.radio/er/charlieparker/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 135,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-huey-lewis-the-news",
+   "name": "Exclusively Huey Lewis & The News",
+   "url": "https://play.you.radio/station/510",
+   "stream": "https://nl4.mystreaming.net/er/hueylewis/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 134,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-2000s",
+   "name": "Love Radio - 2000s",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lr2000s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 134,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cleveland-orchestra-classical-radio",
+   "name": "Cleveland Orchestra - Classical Radio",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crclevelandorchestra/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 132,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-lady-gaga",
+   "name": "Exclusively Lady Gaga",
+   "url": "https://you.radio/station/57",
+   "stream": "https://nl4.mystreaming.net/er-app/ladygaga/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 132,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-70s",
+   "name": "Easy 70s",
+   "url": "https://play.easy.radio/",
+   "stream": "https://streaming.exclusive.radio/uber/easy70/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "70s"
+   ],
+   "votes": 129,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "herbert-von-karajan-classical-radio",
+   "name": "Herbert Von Karajan - Classical Radio",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crherbertvonkarajan/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 128,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-boston",
+   "name": "Exclusively Boston",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/boston/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 127,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-80s",
+   "name": "Love Radio - 80s",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lr1980s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 127,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sportify-bollywood-workout",
+   "name": "Sportify bollywood workout",
+   "url": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+   "stream": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 127,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vanessa-mae-classical-radio",
+   "name": "Vanessa Mae - Classical Radio",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crvanessamae/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 125,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classica-radio-ravel",
+   "name": "Classica Radio - Ravel",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crravel/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maria-callas-classical-radio",
+   "name": "Maria Callas - Classical Radio",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crmariacallas/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 124,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-billy-joel",
+   "name": "Exclusively Billy Joel",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/billyjoel/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 123,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-demi-lovato",
+   "name": "Exclusively Demi Lovato",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/demilovato/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 123,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-60s",
+   "name": "Love Radio - 60s",
+   "url": "https://loveradio.love/",
+   "stream": "https://drive.uber.radio/uber/lr1960s/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 117,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-air-supply",
+   "name": "Exclusively Air Supply",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/airsupply/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "pop"
+   ],
+   "votes": 116,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "andrea-bocelli-classical-radio",
+   "name": "Andrea Bocelli - Classical Radio",
+   "url": "https://classicalradio.world/",
+   "stream": "https://drive.uber.radio/uber/crandreabocelli/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 113,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-90s",
+   "name": "Easy 90s",
+   "url": "https://play.easy.radio/",
+   "stream": "https://streaming.exclusive.radio/uber/easy90/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "90s"
+   ],
+   "votes": 113,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusive-jefferson-airplane",
+   "name": "Exclusive Jefferson Airplane",
+   "url": "",
+   "stream": "https://streaming.exclusive.radio/er/jeffersonairplane/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 113,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dj-radio-dubai",
+   "name": "DJ Radio Dubai",
+   "url": "https://www.djradio.ae/",
+   "stream": "https://listen.radioking.com/radio/623812/stream/685903",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 110,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-radio-john-williams",
+   "name": "Classical Radio - John Williams",
+   "url": "https://www.classicalradio.com/",
+   "stream": "https://drive.uber.radio/uber/crjohnwilliams/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 109,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-bruce-springsteen",
+   "name": "Exclusively Bruce Springsteen",
+   "url": "https://play.you.radio/station/493",
+   "stream": "https://nl4.mystreaming.net/er/springsteen/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 109,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-the-temptations",
+   "name": "Exclusively The Temptations",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/thetemptations/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "r&b",
+    "soul"
+   ],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-beyonce",
+   "name": "Exclusively Beyonce",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/beyonce/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "r&b"
+   ],
+   "votes": 107,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-elton-john",
+   "name": "Exclusively Elton John",
+   "url": "https://exclusive.radio/",
+   "stream": "https://2.mystreaming.net/er/eltonjohn/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english"
+   ],
+   "state": "Dubai,",
+   "genre": [
+    "classic-rock",
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 107,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "country-music-radio",
+   "name": "Country Music Radio",
+   "url": "https://countrymusicradio.world/",
+   "stream": "https://drive.uber.radio/uber/cmr50scountry/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dubai",
+   "genre": [
+    "country"
+   ],
+   "votes": 106,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-chic",
+   "name": "Exclusively Chic",
+   "url": "https://play.you.radio/station/144",
+   "stream": "https://nl4.mystreaming.net/er/chic/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "disco",
+    "funk",
+    "r&b",
+    "rock"
+   ],
+   "votes": 106,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

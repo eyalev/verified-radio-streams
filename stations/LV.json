@@ -1,0 +1,626 @@
+{
+ "countryCode": "LV",
+ "country": "Latvia",
+ "slug": "latvia",
+ "continent": "europe",
+ "stationCount": 35,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/latvia/",
+ "stations": [
+  {
+   "id": "fm-retro-fm",
+   "name": "Ретро FM Рига (Retro FM)",
+   "url": "http://retrofm.lv/",
+   "stream": "https://live.retrofm.lv/retrofmlatvia",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 4886,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "avtoradio",
+   "name": "Авторадио Латвия",
+   "url": "http://avtoradio.lv/",
+   "stream": "https://live.relaxfm.lv/03",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Riga",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2052,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-radio",
+   "name": "TOP radio",
+   "url": "https://topradio.lv/",
+   "stream": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "latvian",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "lv",
+    "ru"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 1039,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "xo-fm",
+   "name": "XO.FM",
+   "url": "https://xo.fm/",
+   "stream": "https://live.xo.fm/xofm128",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 383,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nordic-chillout-radio",
+   "name": "Nordic Chillout Radio",
+   "url": "http://www.nordichilloutradio.com/",
+   "stream": "https://play.radioking.io/nordic-chillout-radio/736489",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Riga",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "electronic"
+   ],
+   "votes": 269,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-swh-lv",
+   "name": "Radio SWH LV",
+   "url": "https://radioswhlv.lv/",
+   "stream": "https://live.radioswh.lv:8443/swh_lv",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 79,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-7",
+   "name": "Radio 7",
+   "url": "https://radio7.lv/",
+   "stream": "https://listen.radio7.lv:2053/Radio7",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "latvian",
+    "latviešu"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-melodija",
+   "name": "Radio Melodija",
+   "url": "https://radiomelodija.lv/",
+   "stream": "https://live.relaxfm.lv/08",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Рига",
+   "genre": [
+    "folk",
+    "jazz",
+    "pop"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "njoyradio",
+   "name": "Njoyradio",
+   "url": "",
+   "stream": "https://live.njoyradio.lv/02",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mix-fm-102-7",
+   "name": "Mix FM 102,7",
+   "url": "https://mixfm.lv/",
+   "stream": "https://live.relaxfm.lv/07",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Rīgā",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "starfm",
+   "name": "StarFM",
+   "url": "https://tv3.lv/starfm/",
+   "stream": "https://live.advailo.com/audio/mp3/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Latvia",
+   "genre": [
+    "folk",
+    "pop-music",
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "your-city-radio",
+   "name": "Your City Radio",
+   "url": "https://yourcityradio.com/",
+   "stream": "https://c34.radioboss.fm:8234/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gradio-lv-one",
+   "name": "gradio.lv ONE",
+   "url": "https://gradio.lv/",
+   "stream": "https://stream.gradio.lv/gradio-one.mp4a",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "latvian"
+   ],
+   "langCodes": [
+    "en",
+    "lv"
+   ],
+   "state": "Grobina",
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "trance"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "newdanceradio",
+   "name": "NewDanceRadio",
+   "url": "",
+   "stream": "https://stream.newdanceradio.lv/mp3_192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "trance"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lrmarockradio",
+   "name": "LRMAROCKRADIO",
+   "url": "https://www.rockradio.lv/",
+   "stream": "https://c22.radioboss.fm:18318/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 804,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "skonto",
+   "name": "Skonto",
+   "url": "",
+   "stream": "https://stream.radioskonto.lv:8443/stereo",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Rīgā",
+   "genre": [],
+   "votes": 601,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "skonto-plus",
+   "name": "Skonto Plus",
+   "url": "https://stream.radioskontoplus.lv:8443/st128",
+   "stream": "https://stream.radioskontoplus.lv:8443/st128",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Riga",
+   "genre": [],
+   "votes": 287,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "relax",
+   "name": "Relax",
+   "url": "https://live.relaxfm.lv/",
+   "stream": "https://live.relaxfm.lv/02",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "Jelgava",
+   "genre": [],
+   "votes": 207,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-swh",
+   "name": "Radio SWH+",
+   "url": "https://www.radioswhplus.lv/",
+   "stream": "https://live.radioswh.lv:8443/plusmp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 122,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks",
+   "name": "Radio Roks",
+   "url": "https://radioroks.lv/",
+   "stream": "https://live.relaxfm.lv/06",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ehr",
+   "name": "EHR",
+   "url": "https://www.ehr.fm/sakums",
+   "stream": "https://stream.ehrhiti.lv:8000/ehr.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 62,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "latvijas-kristigais-radio",
+   "name": "Latvijas Kristīgais Radio",
+   "url": "https://lkr.lv/",
+   "stream": "https://radio.lkr.lv/;?type=http&nocache=40",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "superhits",
+   "name": "SuperHits",
+   "url": "https://www.ehr.fm/radio/super-hits",
+   "stream": "https://stream.ehrhiti.lv:8000/Stream_21.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-fm-latvija",
+   "name": "Retro FM Latvija",
+   "url": "https://www.ehr.fm/radio/retro-fm-latvija",
+   "stream": "https://stream.ehrhiti.lv:8000/Stream_RE.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "latviesu-hiti",
+   "name": "Latviešu hiti",
+   "url": "https://www.ehr.fm/radio/latviesu-hiti",
+   "stream": "https://stream.ehrhiti.lv:8000/Stream_22.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chillax-fm",
+   "name": "Chillax FM",
+   "url": "https://chillaxfm.lv/",
+   "stream": "https://streams.chillaxfm.lv/chillaxfm",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "state": "Riga",
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "your-city-padio",
+   "name": "Your City Padio",
+   "url": "https://jainaro.wixsite.com/jainaro",
+   "stream": "https://c28.radioboss.fm:18234/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "state": "Riga",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tirkultura",
+   "name": "Tīrkultūra",
+   "url": "https://tirkultura.lv/",
+   "stream": "https://s3.radio.co/s216811754/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Rīgā",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nordic-chillout-indie",
+   "name": "Nordic Chillout Indie",
+   "url": "https://indie.nordichilloutradio.com/",
+   "stream": "https://listen.radioking.com/radio/768542/stream/835766",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Riga",
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-fm-70s-80s-90s",
+   "name": "Retro FM 70s 80s 90s",
+   "url": "https://retrofm.lv/",
+   "stream": "https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3",
+   "codec": "mp3",
+   "bitrate": 112,
+   "state": "Riga",
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chillax",
+   "name": "Chillax",
+   "url": "https://skontotev.lv/lv/chillaxfm",
+   "stream": "https://streams.chillaxfm.lv/chillax",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tev",
+   "name": "Radio TEV",
+   "url": "https://radiotev.lv/",
+   "stream": "https://stream.radiotev.lv:8443/radiov",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-fm-disco",
+   "name": "Retro FM Disco",
+   "url": "https://retrofm.lv/",
+   "stream": "https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3",
+   "codec": "mp3",
+   "bitrate": 112,
+   "state": "Riga",
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "divu-krastu-radio",
+   "name": "Divu Krastu Radio",
+   "url": "https://www.dkradio.lv/",
+   "stream": "https://live.dkradio.lv/01",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "state": "Daugavpils",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-viens",
+   "name": "Radio Viens",
+   "url": "https://radioviens.lv/",
+   "stream": "https://radioviens.lv/live",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "latvian"
+   ],
+   "langCodes": [
+    "lv"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,554 @@
+{
+ "countryCode": "RE",
+ "country": "Réunion",
+ "slug": "reunion",
+ "continent": "africa",
+ "stationCount": 30,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/reunion/",
+ "stations": [
+  {
+   "id": "kreolkoneksyon-radio",
+   "name": "Kreolkoneksyon Radio",
+   "url": "https://www.instagram.com/kreolkoneksyon/",
+   "stream": "https://listen.radioking.com/radio/511600/stream/569401",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "reggae"
+   ],
+   "votes": 52,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "le-passage-du-chat-blanc",
+   "name": "Le passage du chat blanc",
+   "url": "http://www.chatblanc.re/",
+   "stream": "https://play.radioking.io/wa-ho",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "reunion-la-1ere",
+   "name": "Réunion La 1ère",
+   "url": "https://la1ere.francetvinfo.fr/reunion/",
+   "stream": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "creole",
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 3156,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exo-fm",
+   "name": "Exo FM",
+   "url": "https://www.facebook.com/EXOFM974",
+   "stream": "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Ile De La Réunion",
+   "genre": [],
+   "votes": 479,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "antenne-reunion-radio",
+   "name": "Antenne Réunion Radio",
+   "url": "https://www.antennereunionradio.fr/",
+   "stream": "https://rtlre.ice.infomaniak.ch/rtlre-64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 275,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "azot-radio",
+   "name": "Azot Radio",
+   "url": "https://www.azotradio.com/",
+   "stream": "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 81,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-freedom-fm",
+   "name": "Radio Freedom FM",
+   "url": "http://www.freedom.fr/",
+   "stream": "https://freedomice.streamakaci.com/freedom.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 74,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rire-et-chansons-reunion",
+   "name": "Rire et Chansons Réunion",
+   "url": "http://rireetchansons.re/",
+   "stream": "https://streaming.nrjaudio.fm/oun3wuqn5eyc",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 64,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pikan",
+   "name": "Radio Pikan",
+   "url": "https://radiopikan.fr/",
+   "stream": "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 56,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-oxygene-reunion",
+   "name": "Radio Oxygène Réunion",
+   "url": "https://oxygenereunion.re/",
+   "stream": "https://ecmanager2.pro-fhi.net:1535/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-reunion",
+   "name": "Hit FM Réunion",
+   "url": "http://www.hitfmreunion.com/hit_fm_france.html",
+   "stream": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rsl-radio",
+   "name": "RSL Radio",
+   "url": "http://www.rslradio.fm/",
+   "stream": "https://rslradio.ice.infomaniak.ch/rslradio-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "maronrfm",
+   "name": "MaronRfm",
+   "url": "",
+   "stream": "https://listen.radioking.com/radio/331087/stream/379402",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Saint-Denis",
+   "genre": [],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-merveille-ocean-indien",
+   "name": "Radio Merveille Océan Indien",
+   "url": "https://play.radioking.io/radio-merveille-oc%C3%A9an-indien",
+   "stream": "https://listen.radioking.com/radio/694373/stream/759203",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "passion-tropical",
+   "name": "Passion Tropical",
+   "url": "http://www.passiontropical.re/",
+   "stream": "https://listen.radioking.com/radio/7495/stream/16988",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kayanm",
+   "name": "Radio Kayanm",
+   "url": "https://www.facebook.com/Kayanmfm106.9/?locale=fr_FR",
+   "stream": "https://hosting.studioradiomedia.fr:2245/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cherie-fm-reunion",
+   "name": "Chérie FM Réunion",
+   "url": "https://www.cheriefm.re/",
+   "stream": "https://streaming.nrjaudio.fm/ouw82wsk6j4d",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 24,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sun-fm-97-8-102-94-1",
+   "name": "SUN FM | 97.8 | 102 | 94.1",
+   "url": "https://www.sunfm.yt/",
+   "stream": "https://listen.radioking.com/radio/669814/stream/733864",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sensuelle-radio-reunion",
+   "name": "Sensuelle Radio Réunion",
+   "url": "http://sensuelleradio.com/",
+   "stream": "https://radio10.pro-fhi.net/radio/9169/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-freedom-2",
+   "name": "Radio Freedom 2",
+   "url": "http://www.freedom.fr/",
+   "stream": "https://freedomice.streamakaci.com/freedom2.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "102fm-re",
+   "name": "102FM.RE",
+   "url": "https://www.102fm.re/",
+   "stream": "https://ecmanager4.pro-fhi.net/102fmoriginale",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rc-radio-reconnaissance-du-coeur",
+   "name": "RC Radio Reconnaissance du Coeur",
+   "url": "https://www.rc-radio-renaissanceducoeur.com/",
+   "stream": "https://listen.radioking.com/radio/672001/stream/736156",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "creole",
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sunlight-fm",
+   "name": "Sunlight FM",
+   "url": "http://www.sunlightfm.fr/",
+   "stream": "https://listen.radioking.com/radio/355933/stream/405250",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "creole",
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-fm-maxi-dance",
+   "name": "Top Fm Maxi Dance",
+   "url": "http://www.topfm.re/",
+   "stream": "https://streamingv2.shoutcast.com/-TopFm-Maxidance",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "capital-fm-reunion",
+   "name": "Capital FM Réunion",
+   "url": "http://www.capitalfm.re/",
+   "stream": "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "waho",
+   "name": "Waho",
+   "url": "https://fr.welove.radio/radio/wa-ho/",
+   "stream": "https://listen.radioking.com/radio/214300/stream/257431",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nrj-reunion",
+   "name": "NRJ Réunion",
+   "url": "http://www.nrj.re/",
+   "stream": "https://streaming.nrjaudio.fm/ougonmrb92oc",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "urban-hit-reunion",
+   "name": "Urban Hit Réunion",
+   "url": "https://www.urbanhit.re/",
+   "stream": "https://listen.radioking.com/radio/400111/stream/452236",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rfm-reunion",
+   "name": "RFM Réunion",
+   "url": "https://rfm.re/",
+   "stream": "https://rfmreunio.ice.infomaniak.ch/rfmrun-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

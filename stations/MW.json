@@ -1,0 +1,86 @@
+{
+ "countryCode": "MW",
+ "country": "Malawi",
+ "slug": "malawi",
+ "continent": "africa",
+ "stationCount": 5,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/malawi/",
+ "stations": [
+  {
+   "id": "zbs-zodiak-fm",
+   "name": "ZBS Zodiak FM",
+   "url": "https://zodiakmalawi.com/live-radio",
+   "stream": "https://ice31.securenetsystems.net/0079",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 10610,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "timveni-radio",
+   "name": "Timveni Radio",
+   "url": "https://mytuner-radio.com/radio/timveni-500583/",
+   "stream": "https://play.streamafrica.net/timveni",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2410,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "amaryllis-e-radio",
+   "name": "Amaryllis E-Radio",
+   "url": "https://amaryllis-eradio.vercel.app/",
+   "stream": "https://s4.radio.co/s40c05d6b1/low",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 559,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 377,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "power-global-media",
+   "name": "Power Global Media",
+   "url": "https://www.powerglobalmedia.com/",
+   "stream": "https://a10.asurahosting.com:7270/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 93,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  }
+ ]
+}

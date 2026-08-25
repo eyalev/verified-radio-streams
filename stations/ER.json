@@ -1,0 +1,44 @@
+{
+ "countryCode": "ER",
+ "country": "Eritrea",
+ "slug": "eritrea",
+ "continent": "africa",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/eritrea/",
+ "stations": [
+  {
+   "id": "eritrean-ethiopian-music",
+   "name": "Eritrean/Ethiopian music",
+   "url": "https://linuxfreelancer.com/shoutcast-internet-radio",
+   "stream": "https://linuxfreelancer.com:8443/test.mp3",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 630,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

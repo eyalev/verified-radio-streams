@@ -1,0 +1,2568 @@
+{
+ "countryCode": "HU",
+ "country": "Hungary",
+ "slug": "hungary",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/hungary/",
+ "stations": [
+  {
+   "id": "oxygen-the-80s-hits",
+   "name": "Oxygen The 80s Hits",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenthe80shits",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 10312,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-radio",
+   "name": "Retro Rádió",
+   "url": "http://www.retroradio.hu/",
+   "stream": "https://icast.connectmedia.hu/5001/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "pop",
+    "rock",
+    "80s",
+    "90s",
+    "2000s"
+   ],
+   "votes": 10178,
+   "clicks": 59,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-magyar-zene",
+   "name": "Oxygen Magyar Zene",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenmagyarzene",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 6423,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-classic-rock",
+   "name": "Oxygen Classic Rock",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenclassicrock",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 3164,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1",
+   "name": "Rádió 1",
+   "url": "",
+   "stream": "https://icast.connectmedia.hu/5201/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 3065,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-oldies",
+   "name": "Oxygen Oldies",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenoldies",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 2670,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klasszik-radio-92-1",
+   "name": "Klasszik Rádió 92.1",
+   "url": "http://klasszikradio.hu/hu/",
+   "stream": "https://radio.musorok.org/listen/klasszik/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 2575,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-the-90s-hits",
+   "name": "Oxygen The 90s Hits",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenthe90shits",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "90s",
+    "classic-hits"
+   ],
+   "votes": 2351,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-indie",
+   "name": "Oxygen Indie",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenindie",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 1456,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-funky-soul",
+   "name": "COOLFM Funky&Soul",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc25",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "soul"
+   ],
+   "votes": 1385,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "base-fm",
+   "name": "Base FM",
+   "url": "https://basefm.hu/",
+   "stream": "https://icast.connectmedia.hu/5401/live.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "rap",
+    "rnb"
+   ],
+   "votes": 1307,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-fm-budapest",
+   "name": "Best FM - Budapest",
+   "url": "https://bestfmbudapest.hu/",
+   "stream": "https://icast.connectmedia.hu/5101/live.mp3/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "adult-contemporary",
+    "top-hits"
+   ],
+   "votes": 1190,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzy",
+   "name": "Jazzy",
+   "url": "https://jazzy.hu/",
+   "stream": "https://radio.musorok.org/listen/jazzy/jazzy.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 1178,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-music",
+   "name": "Oxygen Music",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenmusic_192",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "hits"
+   ],
+   "votes": 1106,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-103-9-a-rock",
+   "name": "FM 103.9 A Rock",
+   "url": "https://rockradio.hu/",
+   "stream": "https://stream.rockradio.hu/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "rock"
+   ],
+   "votes": 1087,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-italo-hits",
+   "name": "Oxygen Italo Hits",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenitalohits",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 1035,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-best-hits-ever",
+   "name": "COOLFM Best Hits EVER",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc11",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 998,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "petofi-radio",
+   "name": "Petőfi Rádió",
+   "url": "http://www.petofilive.hu/",
+   "stream": "https://icast.connectmedia.hu/4738/mr2.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "alternative",
+    "pop"
+   ],
+   "votes": 987,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-youtube-hot-hits",
+   "name": "COOLFM YouTube HOT HITS!",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc22",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 755,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-90-s",
+   "name": "DANCE 90'S",
+   "url": "https://coolfm.hu/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "dance"
+   ],
+   "votes": 593,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "laza-radio-mulatos",
+   "name": "Laza Rádió - Mulatós",
+   "url": "https://lazaradio.com/",
+   "stream": "https://stream.lazaradio.com/mulatos.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 568,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr2-petofi-radio",
+   "name": "MR2 - Petőfi Rádió",
+   "url": "https://mediaklikk.hu/petofi/",
+   "stream": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 566,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzy-groove",
+   "name": "Jazzy Groove",
+   "url": "https://jazzy.hu/",
+   "stream": "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 519,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-2000-es-evek",
+   "name": "COOLFM 2000-es évek",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc03",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "2000s",
+    "top-hits"
+   ],
+   "votes": 455,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-party",
+   "name": "COOLFM Party",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc18",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 433,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-fm-dance-2000-s",
+   "name": "Cool.FM DANCE 2000's",
+   "url": "https://coolfm.hu/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc04?ver=209775",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "dance"
+   ],
+   "votes": 426,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-nyari-slagerek",
+   "name": "COOLFM Nyári Slágerek",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc09",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits"
+   ],
+   "votes": 426,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-fm-nyiregyhaza",
+   "name": "Best FM - Nyíregyháza",
+   "url": "https://bestfmnyiregyhaza.hu/",
+   "stream": "https://icast.connectmedia.hu/5115/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Szabolcs-Szatmár-Bereg",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 386,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-inside",
+   "name": "RADIO INSIDE",
+   "url": "https://www.radioinside.eu/",
+   "stream": "https://radioinside.eu/live.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "hungarian"
+   ],
+   "langCodes": [
+    "en",
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "dance",
+    "edm",
+    "house",
+    "trance"
+   ],
+   "votes": 355,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-lounge",
+   "name": "Oxygen Lounge",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenlounge",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 316,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-90-es-evek",
+   "name": "COOLFM 90-es évek",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc05",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "90s",
+    "top-hits"
+   ],
+   "votes": 286,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr7-danko-radio",
+   "name": "MR7 - Dankó Rádió",
+   "url": "https://mediaklikk.hu/danko/",
+   "stream": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
+   "codec": "mp3",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 262,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-jazz",
+   "name": "COOLFM Jazz",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc13",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 244,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "luxfunk-radio",
+   "name": "Luxfunk Radio",
+   "url": "https://www.luxfunkradio.com/",
+   "stream": "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Budapest",
+   "genre": [
+    "hip-hop",
+    "rnb",
+    "soul"
+   ],
+   "votes": 233,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-love-songs",
+   "name": "COOLFM Love Songs",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc28",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "easy-listening",
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 229,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "folkradio",
+   "name": "Folkrádio",
+   "url": "https://www.folkradio.hu/",
+   "stream": "https://stream.folkradio.hu/folkradio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 227,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzy-soul",
+   "name": "Jazzy Soul",
+   "url": "https://jazzy.hu/",
+   "stream": "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz",
+    "soul"
+   ],
+   "votes": 225,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-2010-es-evek",
+   "name": "COOLFM 2010-es évek",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc02",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 219,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzy-cool",
+   "name": "Jazzy Cool",
+   "url": "https://jazzy.hu/",
+   "stream": "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 202,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "103-9-rock",
+   "name": "103.9 rock",
+   "url": "",
+   "stream": "https://icast.connectmedia.hu/5301/live.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 198,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "luxfunk-blackmix",
+   "name": "Luxfunk Blackmix",
+   "url": "https://www.luxfunkradio.com/",
+   "stream": "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Budapest",
+   "genre": [
+    "hip-hop",
+    "rnb",
+    "soul"
+   ],
+   "votes": 198,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-classic-rock",
+   "name": "COOLFM (Classic) Rock",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc10",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 182,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1-miskolc",
+   "name": "Rádió 1 Miskolc",
+   "url": "",
+   "stream": "https://icast.connectmedia.hu/5211/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 180,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-chill",
+   "name": "COOLFM Chill",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc24",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "relax"
+   ],
+   "votes": 176,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-fm-party-hits",
+   "name": "Cool.FM PARTY Hits",
+   "url": "https://coolfm.hu/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc18?ver=975254",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "hits"
+   ],
+   "votes": 158,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "roxy-radio",
+   "name": "Roxy Rádió",
+   "url": "https://roxyradio.hu/",
+   "stream": "https://s2.audiostream.hu/roxy_192k",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 144,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-fm-103-9",
+   "name": "ROCK FM: 103.9",
+   "url": "https://rockradio.hu/",
+   "stream": "https://icast.connectmedia.hu/5301/live.mp3/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Budapest",
+   "genre": [
+    "rock"
+   ],
+   "votes": 141,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "argentine-tango-radio",
+   "name": "Argentine Tango Radio",
+   "url": "https://www.argentinetangoradio.com/",
+   "stream": "https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "tango"
+   ],
+   "votes": 137,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxigen",
+   "name": "oxigen",
+   "url": "",
+   "stream": "https://oxygenmusic.hu:8443/oxygenmusic",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 137,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ozonefm",
+   "name": "Ozonefm",
+   "url": "",
+   "stream": "https://oxygenmusic.hu:8443/ozonefm_320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 118,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr3-bartok-radio",
+   "name": "MR3 - Bartók Rádió",
+   "url": "https://mediaklikk.hu/bartok/",
+   "stream": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 112,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nemzeti-sport-radio",
+   "name": "Nemzeti Sport Radio",
+   "url": "https://www.nemzetisport.hu/",
+   "stream": "https://icast.connectmedia.hu/4656/mr11.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 112,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-classics",
+   "name": "Oxygen Classics",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/Classic_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 106,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megalive",
+   "name": "MegaLive",
+   "url": "",
+   "stream": "https://mega-live.net:2053/live.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 105,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiozora-chill",
+   "name": "RadiOzora Chill",
+   "url": "https://radiozora.fm/",
+   "stream": "https://chill.out.airtime.pro/chill_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout"
+   ],
+   "votes": 102,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-hu",
+   "name": "Jazzradio.hu",
+   "url": "https://www.jazzradio.hu/",
+   "stream": "https://www.jazzradio.hu:8000/jazzradio_192.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 98,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-kids",
+   "name": "Oxygen Kids",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenkids",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "soundtrack"
+   ],
+   "votes": 91,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-spencer-hill",
+   "name": "Oxygen Spencer-Hill",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenspencerhillzenek",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "easy-listening",
+    "soundtrack"
+   ],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-black-music",
+   "name": "Oxygen Black Music",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/blackmusic_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hip-hop",
+    "rap",
+    "rnb"
+   ],
+   "votes": 90,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-bside-alternative",
+   "name": "COOLFM Bside/Alternative",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc16",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 76,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sarvar-radio",
+   "name": "Sárvár Rádió",
+   "url": "http://www.sarvarradio.hu/",
+   "stream": "https://stream.42netmedia.com:8443/sarvar",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Vas",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 68,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1-bekescsaba",
+   "name": "Rádió 1 - Békéscsaba",
+   "url": "https://radio1.hu/",
+   "stream": "https://icast.connectmedia.hu/5233/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Békés",
+   "genre": [
+    "dance",
+    "pop",
+    "top-40"
+   ],
+   "votes": 61,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-47",
+   "name": "Rádió 47",
+   "url": "",
+   "stream": "https://s01.diazol.hu:9102/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Békés",
+   "genre": [
+    "pop"
+   ],
+   "votes": 59,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lahmacun-radio",
+   "name": "Lahmacun Radio",
+   "url": "https://www.lahmacun.hu/",
+   "stream": "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "hungarian"
+   ],
+   "langCodes": [
+    "en",
+    "hu"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 58,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-fm-pecs",
+   "name": "Best FM - Pécs",
+   "url": "https://bestfmpecs.hu/",
+   "stream": "https://icast.connectmedia.hu/5128/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Baranya",
+   "genre": [
+    "adult-contemporary",
+    "top-hits"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-fm-eger",
+   "name": "Best FM - Eger",
+   "url": "https://bestfm.hu/",
+   "stream": "https://icast.connectmedia.hu/5116/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hun"
+   ],
+   "state": "Heves",
+   "genre": [
+    "adult-contemporary",
+    "top-hits"
+   ],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-happy",
+   "name": "Oxygen Happy",
+   "url": "https://oxygenmusic.hu/csatorna/oxygen-happy",
+   "stream": "https://oxygenmusic.hu:8443/oxygenhappy_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-latin",
+   "name": "CoolFm latin",
+   "url": "https://coolfm.hu/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc07",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "latin"
+   ],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr5-parlamenti-adasok",
+   "name": "MR5 - Parlamenti Adások",
+   "url": "https://mediaklikk.hu/parlamentiradio/",
+   "stream": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 21,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "streamx-radio",
+   "name": "StreamX Radio",
+   "url": "https://a5.asurahosting.com/public/streamx_radio",
+   "stream": "https://a5.asurahosting.com:8830/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "hungarian"
+   ],
+   "langCodes": [
+    "en",
+    "hu"
+   ],
+   "state": "Heves County",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sunrise",
+   "name": "Radio Sunrise",
+   "url": "https://www.radiosunrise.hu/",
+   "stream": "https://s03.diazol.hu:7172/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "momo-radio",
+   "name": "Momo Rádió",
+   "url": "",
+   "stream": "https://s03.diazol.hu:7092/zene.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 17,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr4-nemzetisegi-adasok",
+   "name": "MR4 - Nemzetiségi Adások",
+   "url": "https://mediaklikk.hu/nemzetisegiradio/",
+   "stream": "https://mr-stream.connectmedia.hu/4744/mr4.mp3",
+   "codec": "mp3",
+   "bitrate": 40,
+   "format": "music",
+   "langs": [
+    "croatian",
+    "german",
+    "hungarian",
+    "romani"
+   ],
+   "langCodes": [
+    "de",
+    "hr",
+    "hu"
+   ],
+   "genre": [
+    "music",
+    "pop-music"
+   ],
+   "votes": 15,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-fm-pop",
+   "name": "Sunshine FM POP",
+   "url": "https://sunshine.hu/",
+   "stream": "https://sunshine2.stream.composeit.hu/sunshine",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rabakoz-radio",
+   "name": "Rábaköz Rádió",
+   "url": "https://molnarkft.hu/rabakoz-radio",
+   "stream": "https://radio.molnarkft.hu/rabakozradio",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Győr-Moson-Sopron",
+   "genre": [
+    "pop"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshinefm-dance",
+   "name": "SunshineFM DANCE",
+   "url": "https://sunshine.hu/",
+   "stream": "https://sunshine3.stream.composeit.hu/sunshine",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "dance"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "only1-electro",
+   "name": "ONLY1 - Electro",
+   "url": "https://only1.hu/",
+   "stream": "https://stream.only1.hu/electro",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshinefm-debrecen",
+   "name": "SunshineFM Debrecen",
+   "url": "https://sunshine.hu/",
+   "stream": "https://sundeb.stream.composeit.hu/SunshineDebrecen",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "szent-korona-radio",
+   "name": "Szent Korona Rádió",
+   "url": "https://szentkoronaradio.com/",
+   "stream": "https://szkrcast.ddns.net/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "szunet-radio",
+   "name": "Szünet rádió",
+   "url": "https://szunetrad.io/",
+   "stream": "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Europe",
+   "genre": [
+    "pop",
+    "pop-music"
+   ],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiopod-fediverse",
+   "name": "Radiopod Fediverse",
+   "url": "https://radiopod.top/",
+   "stream": "https://radiopod.top/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "streamx-radio-2",
+   "name": "StreamX Radio",
+   "url": "https://streamxradio.live/public/streamx_radio",
+   "stream": "https://radio.streamxradio.live/listen/streamx_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "hungarian"
+   ],
+   "langCodes": [
+    "en",
+    "hu"
+   ],
+   "state": "Heves",
+   "genre": [
+    "edm",
+    "house"
+   ],
+   "votes": 4,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "passion-radio-hungary",
+   "name": "Passion Radió Hungary",
+   "url": "https://www.passionradiohungary.hu/",
+   "stream": "https://a9.asurahosting.com/listen/passion_radio_hungary/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [
+    "pop-music",
+    "reggae",
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-88-szeged",
+   "name": "Rádió 88 Szeged",
+   "url": "https://www.radio88.hu/",
+   "stream": "https://stream.radio88.hu/onair.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Csongrad-Csanad",
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "all-star-radio-70-s",
+   "name": "All-Star Radio 70's",
+   "url": "https://all-star.eu/",
+   "stream": "https://a2.asurahosting.com:7620/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "70s",
+    "top-40"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mnews-radio",
+   "name": "MNEWS Rádió",
+   "url": "https://magyarnews.online/",
+   "stream": "https://a5.asurahosting.com:6680/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klubradio",
+   "name": "Klubrádió",
+   "url": "https://www.klubradio.hu/",
+   "stream": "https://hu-stream03.klubradio.hu:8443/bpstream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-wave",
+   "name": "Dance Wave!",
+   "url": "https://dancewave.online/",
+   "stream": "https://dancewave.online/dance.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 566079,
+   "clicks": 311,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-wave-retro",
+   "name": "Dance Wave Retro!",
+   "url": "https://dancewave.online/",
+   "stream": "https://retro.dancewave.online/retrodance.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 54457,
+   "clicks": 33,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klubradio-95-3",
+   "name": "Klubrádió 95,3",
+   "url": "https://www.klubradio.hu/",
+   "stream": "https://a7.asurahosting.com:8160/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [],
+   "votes": 7566,
+   "clicks": 34,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klubradio-zebradio",
+   "name": "Klubrádió - Zebrádió",
+   "url": "https://zebradio.klubradio.hu/",
+   "stream": "https://stream.zebradio.hu:8443/zebradio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [],
+   "votes": 3000,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kossuth",
+   "name": "Kossuth",
+   "url": "",
+   "stream": "https://icast.connectmedia.hu/4736/mr1.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2005,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danubius",
+   "name": "Danubius",
+   "url": "https://danubiusradio.hu/",
+   "stream": "https://stream.danubiusradio.hu/danubius_320k",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1155,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr1-kossuth-radio",
+   "name": "MR1 - Kossuth Rádió",
+   "url": "https://mediaklikk.hu/kossuth/",
+   "stream": "https://mr-stream.connectmedia.hu/4736/mr1.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 954,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-filmzenek",
+   "name": "COOLFM Filmzenék",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc01?ver=753658",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 937,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "park-fm",
+   "name": "Park FM",
+   "url": "https://parkfm.hu/",
+   "stream": "https://s03.diazol.hu:7142/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Budapest",
+   "genre": [],
+   "votes": 638,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio1",
+   "name": "Radio1",
+   "url": "https://radio1.hu/",
+   "stream": "https://icast.connectmedia.hu/5202/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 588,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mixradioretro",
+   "name": "MixradioRetro",
+   "url": "https://stream.phost.hu:8004/retro",
+   "stream": "https://stream.phost.hu:8004/retro",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 436,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bias-radio",
+   "name": "Bias Radio",
+   "url": "https://biasradio.com/",
+   "stream": "https://admin.biasradio.com/listen/bias_radio/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 346,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-hazai-kedvencek",
+   "name": "COOLFM Hazai Kedvencek",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc19",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 330,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "csukas-meseradio",
+   "name": "Csukás Meserádió",
+   "url": "https://mediaklikk.hu/csukas/",
+   "stream": "https://mr-stream.connectmedia.hu/4611/mr10.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Budapest",
+   "genre": [],
+   "votes": 266,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-acoustic",
+   "name": "COOLFM Acoustic",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc12",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 259,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "luxfunk-dance",
+   "name": "Luxfunk Dance",
+   "url": "https://www.luxfunkradio.com/",
+   "stream": "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Budapest",
+   "genre": [],
+   "votes": 252,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-fm-remix-music",
+   "name": "Cool.FM REMIX MUSIC",
+   "url": "https://coolfm.hu/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc23?ver=266114",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [],
+   "votes": 213,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "youventus-radio",
+   "name": "YOUVENTUS RÁDIÓ",
+   "url": "https://bdpstrock.hu/",
+   "stream": "https://s2.audiostream.hu/juventus_192k",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 181,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-fm-girl-power",
+   "name": "Cool.FM GIRL POWER",
+   "url": "https://coolfm.hu/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc15?ver=58649",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [],
+   "votes": 180,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-karacsonyi-dalok",
+   "name": "COOLFM Karácsonyi Dalok",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc27",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 179,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-world-music",
+   "name": "COOLFM World Music",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc26",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 160,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ozora",
+   "name": "Radio Ozora",
+   "url": "https://radiozora.fm/",
+   "stream": "https://trance.out.airtime.pro/trance_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Budapest",
+   "genre": [],
+   "votes": 157,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxygen-love-songs",
+   "name": "OXYGEN LOVE SONGS",
+   "url": "https://oxygenmusic.hu/",
+   "stream": "https://oxygenmusic.hu:8443/oxygenlovesongs",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 156,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "szakcsi-radio",
+   "name": "Szakcsi rádió",
+   "url": "https://mediaklikk.hu/szakcsi",
+   "stream": "https://mr-stream.connectmedia.hu/4691/mr9.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 149,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "next-fm",
+   "name": "Next FM",
+   "url": "https://nextfm.hu/",
+   "stream": "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coolfm-sportolashoz",
+   "name": "COOLFM Sportoláshoz",
+   "url": "https://coolfm.hu/radio/digitalis-radiok/",
+   "stream": "https://mediagw.e-tiger.net/stream/zc20",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 120,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hir-fm",
+   "name": "Hír FM",
+   "url": "https://hirfm.hu/",
+   "stream": "https://n34a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABnZd5-KEAvca0veOvcEeJDw",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 117,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-diamond-radio",
+   "name": "Disco Diamond Radio",
+   "url": "https://discodiamondradio.eu/m/",
+   "stream": "https://ddr2020.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 103,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1-eger",
+   "name": "Rádió 1 Eger",
+   "url": "https://www.radio1eger.hu/",
+   "stream": "https://www.radio1eger.hu/radio1eger.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 97,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nemzeti-sportradio",
+   "name": "Nemzeti Sportrádió",
+   "url": "https://m4sport.hu/musor",
+   "stream": "https://icast.connectmedia.hu/4657/mr11.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Budapest",
+   "genre": [],
+   "votes": 88,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trend-fm",
+   "name": "Trend FM",
+   "url": "https://trendfm.hu/",
+   "stream": "https://radio.trendfm.hu/trendfm_192k",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 68,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mera",
+   "name": "Mera",
+   "url": "http://www.mera.hu/",
+   "stream": "https://stream.radio.co/s3fd8d173f/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rocker-radio",
+   "name": "Rocker Rádió",
+   "url": "https://rockerradio.online/kezdolap/",
+   "stream": "https://rockerradio.online/live.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "state": "nincs",
+   "genre": [],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pecs-aktual-radio",
+   "name": "Pécs Aktuál Rádió",
+   "url": "https://pecsaktual.hu/",
+   "stream": "https://stream.pecsaktual.hu/paradio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Baranya",
+   "genre": [],
+   "votes": 58,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megadance",
+   "name": "Megadance",
+   "url": "https://www.megadance.hu/",
+   "stream": "https://gamershouse.hu:8080/livemega.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Hungary",
+   "genre": [],
+   "votes": 56,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamasi-radio",
+   "name": "Tamási Radio",
+   "url": "http://www.tamasiradio.hu/",
+   "stream": "https://stream.42netmedia.com:8443/sc_tamas",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shine-fm-radio",
+   "name": "Shine FM Radio",
+   "url": "https://www.shinefmradio.hu/",
+   "stream": "https://s01.diazol.hu:10042/stream/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dfm-radio",
+   "name": "DFM Rádió",
+   "url": "https://dfmradio.hu/",
+   "stream": "https://s03.diazol.hu:7042/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr8-duna-world-radio",
+   "name": "MR8 - Duna World Rádió",
+   "url": "https://mediaklikk.hu/dunaworldradio/",
+   "stream": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
+   "codec": "mp3",
+   "bitrate": 40,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 38,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europa-radio-miskolc",
+   "name": "Európa Rádió Miskolc",
+   "url": "https://europaradio.hu/",
+   "stream": "https://europaradio.hu/miskolc",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "Borsod-Abaúj-Zemplén",
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiocafe-98-0",
+   "name": "radiocafé 98.0",
+   "url": "https://radiocafe98.hu/",
+   "stream": "https://radio.radiocafe98.hu/radiocafe98_192k.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 35,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiocafe-98",
+   "name": "radiocafé - 98",
+   "url": "https://radiocafe98.hu/",
+   "stream": "https://radio.radiocafe98.hu/radiocafe98_192k",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 26,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ez-az-a-nap-radio",
+   "name": "Ez az a nap! rádió",
+   "url": "https://radio.ezazanap.hu/",
+   "stream": "https://listen.radioking.com/radio/320174/stream/367817",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 23,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-smile",
+   "name": "RADIO SMILE",
+   "url": "https://www.radiosmile.hu/",
+   "stream": "https://smile.str.42net.hu/stream/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "remenyseg-hangja-radio",
+   "name": "Reménység Hangja Rádió",
+   "url": "https://remenyseghangja.ro/",
+   "stream": "https://live.rvs.ro/mg",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1-gyongyos",
+   "name": "Rádió 1 - Gyöngyös",
+   "url": "https://radio1.hu/",
+   "stream": "https://icast.connectmedia.hu/5039/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-groove",
+   "name": "RADIO GROOVE",
+   "url": "https://www.radiogroove.hu/",
+   "stream": "https://s03.diazol.hu:35112/mobil.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "adventnet-radio",
+   "name": "AdventNet rádió",
+   "url": "https://radio.adventnet.hu/",
+   "stream": "https://radio.adventnet.hu:8443/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "koronafm100",
+   "name": "KoronaFM100",
+   "url": "https://www.koronafm100.hu/",
+   "stream": "https://www.koronafm100.hu/live.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hir-fm-eger-gyongyos",
+   "name": "Hír FM - Eger / Gyöngyös",
+   "url": "https://hirfm.hu/",
+   "stream": "https://n23-eu.rcs.revma.com/3zbwnap8b2uvv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Heves",
+   "genre": [],
+   "votes": 11,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tilos-radio",
+   "name": "Tilos Radio",
+   "url": "https://tilos.hu/",
+   "stream": "https://stream.tilos.hu/tilos_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-fm-szekesfehervar",
+   "name": "Best FM Székesfehérvár",
+   "url": "https://www.bestfm.hu/",
+   "stream": "https://icast.connectmedia.hu/5113/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 9,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "superdj-radio",
+   "name": "SuperDj Rádió",
+   "url": "https://superdjradio.hu/",
+   "stream": "https://s03.diazol.hu:35152/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sola-radio",
+   "name": "Sola Rádió",
+   "url": "https://solaradio.hu/",
+   "stream": "https://stream1.virtualisan.net/prx/7000/live.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-love-pecs-radio",
+   "name": "I Love Pécs Rádió",
+   "url": "https://ilovepecsradio.hu/",
+   "stream": "https://stream.ilovepecsradio.hu/ilp.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "all-star-radio-80-s",
+   "name": "All-Star Radio 80's",
+   "url": "http://all-star.eu/",
+   "stream": "https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "droid-radio",
+   "name": "Droid Radio",
+   "url": "http://dreamofdroid.com/",
+   "stream": "https://s41.radiolize.com/radio/8140/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "szent-korona-radio-forras",
+   "name": "Szent Korona Rádió - Forrás",
+   "url": "https://szentkoronaradio.com/",
+   "stream": "https://szkrcast.ddns.net/radio/8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Budapest",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ice",
+   "name": "Rádió ICE",
+   "url": "https://www.radioice.hu/",
+   "stream": "https://streaming4u.synology.me:8444/ice",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rohej-radio",
+   "name": "Röhej rádió",
+   "url": "https://rohej-radio.webnode.hu/",
+   "stream": "https://listen.radioking.com/radio/641950/stream/704998",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fluxwave-radio",
+   "name": "FluxWave Radio",
+   "url": "https://www.fluxwave.fm/",
+   "stream": "https://www.live.fluxwaveradio.com/main-mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "engilsh"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sztrada-radio",
+   "name": "Sztráda Rádió",
+   "url": "https://sztradaradio.hu/",
+   "stream": "https://s03.diazol.hu:35082/live.mp3?_=1",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "h-r-fm",
+   "name": "H�r FM",
+   "url": "https://hirfm.hu/",
+   "stream": "https://stream.rcs.revma.com/ar1n48k8b2uvv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

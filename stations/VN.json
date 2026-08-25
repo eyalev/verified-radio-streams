@@ -1,0 +1,129 @@
+{
+ "countryCode": "VN",
+ "country": "Vietnam",
+ "slug": "vietnam",
+ "continent": "asia",
+ "stationCount": 8,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/vietnam/",
+ "stations": [
+  {
+   "id": "rfi-tieng-viet",
+   "name": "RFI Tiếng Việt",
+   "url": "",
+   "stream": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 5130,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cri-tieng-viet",
+   "name": "CRI Tiếng Việt",
+   "url": "",
+   "stream": "https://ice5.securenetsystems.net:80/KALI",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 353,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tnt-atlanta-radio",
+   "name": "TNT Atlanta Radio",
+   "url": "",
+   "stream": "https://cast4.servcast.net/proxy/longpham2/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 182,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 81,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ha-noi-community-radio",
+   "name": "Hà Nội Community Radio",
+   "url": "https://www.hanoicommunityradio.com/",
+   "stream": "https://ha-noi-community-radio.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "state": "Hanoi",
+   "genre": [],
+   "votes": 39,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "replay-news-tieng-viet-radio-tin-tuc-moi-5-phut",
+   "name": "REPLAY NEWS - Tiếng Việt Radio tin tức mỗi 5 phút",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewsvi.ice.infomaniak.ch/replaynewsve-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "vietnamese"
+   ],
+   "langCodes": [
+    "vi"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rva-vietnamese",
+   "name": "RVA Vietnamese",
+   "url": "https://livestream.rvasia.org:8443/",
+   "stream": "https://livestream.rvasia.org:8443/Vietnamese.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 12,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kc-radio-asia-80s-90s",
+   "name": "KC Radio Asia 80s & 90s",
+   "url": "https://kcradio.asia/",
+   "stream": "https://kcradio.asia/stream/80s90s",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 11,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

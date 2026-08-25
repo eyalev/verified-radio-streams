@@ -1,0 +1,2847 @@
+{
+ "generated": "2026-08-25",
+ "generator": "https://github.com/eyalev/verified-radio-streams — built by scripts/build-data-repo.mjs in the globalradio.app repo",
+ "source": "https://www.radio-browser.info",
+ "listen": "https://globalradio.app",
+ "stationCount": 7707,
+ "countryCount": 188,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "codecs": {
+  "aac": 2353,
+  "mp3": 5275,
+  "ogg": 71,
+  "unknown": 8
+ },
+ "formats": {
+  "music": 4452,
+  "talk": 0,
+  "mixed": 0,
+  "unlabelled": 3255
+ },
+ "excluded": 3,
+ "countries": [
+  {
+   "code": "ID",
+   "country": "Indonesia",
+   "slug": "indonesia",
+   "flag": "🇮🇩",
+   "continent": "asia",
+   "stationCount": 165,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/ID.json",
+   "m3u": "m3u/ID.m3u",
+   "listen": "https://globalradio.app/indonesia/"
+  },
+  {
+   "code": "AR",
+   "country": "Argentina",
+   "slug": "argentina",
+   "flag": "🇦🇷",
+   "continent": "americas",
+   "stationCount": 164,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/AR.json",
+   "m3u": "m3u/AR.m3u",
+   "listen": "https://globalradio.app/argentina/"
+  },
+  {
+   "code": "FR",
+   "country": "France",
+   "slug": "france",
+   "flag": "🇫🇷",
+   "continent": "europe",
+   "stationCount": 162,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/FR.json",
+   "m3u": "m3u/FR.m3u",
+   "listen": "https://globalradio.app/france/"
+  },
+  {
+   "code": "NL",
+   "country": "Netherlands",
+   "slug": "netherlands",
+   "flag": "🇳🇱",
+   "continent": "europe",
+   "stationCount": 160,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/NL.json",
+   "m3u": "m3u/NL.m3u",
+   "listen": "https://globalradio.app/netherlands/"
+  },
+  {
+   "code": "BR",
+   "country": "Brazil",
+   "slug": "brazil",
+   "flag": "🇧🇷",
+   "continent": "americas",
+   "stationCount": 159,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/BR.json",
+   "m3u": "m3u/BR.m3u",
+   "listen": "https://globalradio.app/brazil/"
+  },
+  {
+   "code": "RO",
+   "country": "Romania",
+   "slug": "romania",
+   "flag": "🇷🇴",
+   "continent": "europe",
+   "stationCount": 159,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/RO.json",
+   "m3u": "m3u/RO.m3u",
+   "listen": "https://globalradio.app/romania/"
+  },
+  {
+   "code": "CO",
+   "country": "Colombia",
+   "slug": "colombia",
+   "flag": "🇨🇴",
+   "continent": "americas",
+   "stationCount": 156,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/CO.json",
+   "m3u": "m3u/CO.m3u",
+   "listen": "https://globalradio.app/colombia/"
+  },
+  {
+   "code": "GB",
+   "country": "United Kingdom",
+   "slug": "united-kingdom",
+   "flag": "🇬🇧",
+   "continent": "europe",
+   "stationCount": 156,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/GB.json",
+   "m3u": "m3u/GB.m3u",
+   "listen": "https://globalradio.app/united-kingdom/"
+  },
+  {
+   "code": "CA",
+   "country": "Canada",
+   "slug": "canada",
+   "flag": "🇨🇦",
+   "continent": "americas",
+   "stationCount": 152,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/CA.json",
+   "m3u": "m3u/CA.m3u",
+   "listen": "https://globalradio.app/canada/"
+  },
+  {
+   "code": "AU",
+   "country": "Australia",
+   "slug": "australia",
+   "flag": "🇦🇺",
+   "continent": "oceania",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/AU.json",
+   "m3u": "m3u/AU.m3u",
+   "listen": "https://globalradio.app/australia/"
+  },
+  {
+   "code": "AT",
+   "country": "Austria",
+   "slug": "austria",
+   "flag": "🇦🇹",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/AT.json",
+   "m3u": "m3u/AT.m3u",
+   "listen": "https://globalradio.app/austria/"
+  },
+  {
+   "code": "BE",
+   "country": "Belgium",
+   "slug": "belgium",
+   "flag": "🇧🇪",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/BE.json",
+   "m3u": "m3u/BE.m3u",
+   "listen": "https://globalradio.app/belgium/"
+  },
+  {
+   "code": "CL",
+   "country": "Chile",
+   "slug": "chile",
+   "flag": "🇨🇱",
+   "continent": "americas",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/CL.json",
+   "m3u": "m3u/CL.m3u",
+   "listen": "https://globalradio.app/chile/"
+  },
+  {
+   "code": "DE",
+   "country": "Germany",
+   "slug": "germany",
+   "flag": "🇩🇪",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/DE.json",
+   "m3u": "m3u/DE.m3u",
+   "listen": "https://globalradio.app/germany/"
+  },
+  {
+   "code": "GR",
+   "country": "Greece",
+   "slug": "greece",
+   "flag": "🇬🇷",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/GR.json",
+   "m3u": "m3u/GR.m3u",
+   "listen": "https://globalradio.app/greece/"
+  },
+  {
+   "code": "HU",
+   "country": "Hungary",
+   "slug": "hungary",
+   "flag": "🇭🇺",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/HU.json",
+   "m3u": "m3u/HU.m3u",
+   "listen": "https://globalradio.app/hungary/"
+  },
+  {
+   "code": "IN",
+   "country": "India",
+   "slug": "india",
+   "flag": "🇮🇳",
+   "continent": "asia",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/IN.json",
+   "m3u": "m3u/IN.m3u",
+   "listen": "https://globalradio.app/india/"
+  },
+  {
+   "code": "IT",
+   "country": "Italy",
+   "slug": "italy",
+   "flag": "🇮🇹",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/IT.json",
+   "m3u": "m3u/IT.m3u",
+   "listen": "https://globalradio.app/italy/"
+  },
+  {
+   "code": "MX",
+   "country": "Mexico",
+   "slug": "mexico",
+   "flag": "🇲🇽",
+   "continent": "americas",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/MX.json",
+   "m3u": "m3u/MX.m3u",
+   "listen": "https://globalradio.app/mexico/"
+  },
+  {
+   "code": "PH",
+   "country": "Philippines",
+   "slug": "philippines",
+   "flag": "🇵🇭",
+   "continent": "asia",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/PH.json",
+   "m3u": "m3u/PH.m3u",
+   "listen": "https://globalradio.app/philippines/"
+  },
+  {
+   "code": "PL",
+   "country": "Poland",
+   "slug": "poland",
+   "flag": "🇵🇱",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/PL.json",
+   "m3u": "m3u/PL.m3u",
+   "listen": "https://globalradio.app/poland/"
+  },
+  {
+   "code": "RS",
+   "country": "Serbia",
+   "slug": "serbia",
+   "flag": "🇷🇸",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/RS.json",
+   "m3u": "m3u/RS.m3u",
+   "listen": "https://globalradio.app/serbia/"
+  },
+  {
+   "code": "ES",
+   "country": "Spain",
+   "slug": "spain",
+   "flag": "🇪🇸",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/ES.json",
+   "m3u": "m3u/ES.m3u",
+   "listen": "https://globalradio.app/spain/"
+  },
+  {
+   "code": "CH",
+   "country": "Switzerland",
+   "slug": "switzerland",
+   "flag": "🇨🇭",
+   "continent": "europe",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/CH.json",
+   "m3u": "m3u/CH.m3u",
+   "listen": "https://globalradio.app/switzerland/"
+  },
+  {
+   "code": "TR",
+   "country": "Türkiye",
+   "slug": "turkiye",
+   "flag": "🇹🇷",
+   "continent": "asia",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/TR.json",
+   "m3u": "m3u/TR.m3u",
+   "listen": "https://globalradio.app/turkiye/"
+  },
+  {
+   "code": "AE",
+   "country": "United Arab Emirates",
+   "slug": "united-arab-emirates",
+   "flag": "🇦🇪",
+   "continent": "asia",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/AE.json",
+   "m3u": "m3u/AE.m3u",
+   "listen": "https://globalradio.app/united-arab-emirates/"
+  },
+  {
+   "code": "US",
+   "country": "United States",
+   "slug": "united-states",
+   "flag": "🇺🇸",
+   "continent": "americas",
+   "stationCount": 150,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/US.json",
+   "m3u": "m3u/US.m3u",
+   "listen": "https://globalradio.app/united-states/"
+  },
+  {
+   "code": "RU",
+   "country": "Russia",
+   "slug": "russia",
+   "flag": "🇷🇺",
+   "continent": "europe",
+   "stationCount": 149,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/RU.json",
+   "m3u": "m3u/RU.m3u",
+   "listen": "https://globalradio.app/russia/"
+  },
+  {
+   "code": "PT",
+   "country": "Portugal",
+   "slug": "portugal",
+   "flag": "🇵🇹",
+   "continent": "europe",
+   "stationCount": 144,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/PT.json",
+   "m3u": "m3u/PT.m3u",
+   "listen": "https://globalradio.app/portugal/"
+  },
+  {
+   "code": "PE",
+   "country": "Peru",
+   "slug": "peru",
+   "flag": "🇵🇪",
+   "continent": "americas",
+   "stationCount": 138,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/PE.json",
+   "m3u": "m3u/PE.m3u",
+   "listen": "https://globalradio.app/peru/"
+  },
+  {
+   "code": "SE",
+   "country": "Sweden",
+   "slug": "sweden",
+   "flag": "🇸🇪",
+   "continent": "europe",
+   "stationCount": 136,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/SE.json",
+   "m3u": "m3u/SE.m3u",
+   "listen": "https://globalradio.app/sweden/"
+  },
+  {
+   "code": "CN",
+   "country": "China",
+   "slug": "china",
+   "flag": "🇨🇳",
+   "continent": "asia",
+   "stationCount": 123,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/CN.json",
+   "m3u": "m3u/CN.m3u",
+   "listen": "https://globalradio.app/china/"
+  },
+  {
+   "code": "IE",
+   "country": "Ireland",
+   "slug": "ireland",
+   "flag": "🇮🇪",
+   "continent": "europe",
+   "stationCount": 112,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/IE.json",
+   "m3u": "m3u/IE.m3u",
+   "listen": "https://globalradio.app/ireland/"
+  },
+  {
+   "code": "UA",
+   "country": "Ukraine",
+   "slug": "ukraine",
+   "flag": "🇺🇦",
+   "continent": "europe",
+   "stationCount": 107,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/UA.json",
+   "m3u": "m3u/UA.m3u",
+   "listen": "https://globalradio.app/ukraine/"
+  },
+  {
+   "code": "CZ",
+   "country": "Czechia",
+   "slug": "czechia",
+   "flag": "🇨🇿",
+   "continent": "europe",
+   "stationCount": 99,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/CZ.json",
+   "m3u": "m3u/CZ.m3u",
+   "listen": "https://globalradio.app/czechia/"
+  },
+  {
+   "code": "BG",
+   "country": "Bulgaria",
+   "slug": "bulgaria",
+   "flag": "🇧🇬",
+   "continent": "europe",
+   "stationCount": 94,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/BG.json",
+   "m3u": "m3u/BG.m3u",
+   "listen": "https://globalradio.app/bulgaria/"
+  },
+  {
+   "code": "NZ",
+   "country": "New Zealand",
+   "slug": "new-zealand",
+   "flag": "🇳🇿",
+   "continent": "oceania",
+   "stationCount": 93,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/NZ.json",
+   "m3u": "m3u/NZ.m3u",
+   "listen": "https://globalradio.app/new-zealand/"
+  },
+  {
+   "code": "NO",
+   "country": "Norway",
+   "slug": "norway",
+   "flag": "🇳🇴",
+   "continent": "europe",
+   "stationCount": 83,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/NO.json",
+   "m3u": "m3u/NO.m3u",
+   "listen": "https://globalradio.app/norway/"
+  },
+  {
+   "code": "FI",
+   "country": "Finland",
+   "slug": "finland",
+   "flag": "🇫🇮",
+   "continent": "europe",
+   "stationCount": 76,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/FI.json",
+   "m3u": "m3u/FI.m3u",
+   "listen": "https://globalradio.app/finland/"
+  },
+  {
+   "code": "EC",
+   "country": "Ecuador",
+   "slug": "ecuador",
+   "flag": "🇪🇨",
+   "continent": "americas",
+   "stationCount": 72,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/EC.json",
+   "m3u": "m3u/EC.m3u",
+   "listen": "https://globalradio.app/ecuador/"
+  },
+  {
+   "code": "HR",
+   "country": "Croatia",
+   "slug": "croatia",
+   "flag": "🇭🇷",
+   "continent": "europe",
+   "stationCount": 71,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/HR.json",
+   "m3u": "m3u/HR.m3u",
+   "listen": "https://globalradio.app/croatia/"
+  },
+  {
+   "code": "DK",
+   "country": "Denmark",
+   "slug": "denmark",
+   "flag": "🇩🇰",
+   "continent": "europe",
+   "stationCount": 71,
+   "verified": {
+    "oldest": "2026-08-24",
+    "newest": "2026-08-24"
+   },
+   "json": "stations/DK.json",
+   "m3u": "m3u/DK.m3u",
+   "listen": "https://globalradio.app/denmark/"
+  },
+  {
+   "code": "MD",
+   "country": "Moldova",
+   "slug": "moldova",
+   "flag": "🇲🇩",
+   "continent": "europe",
+   "stationCount": 58,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MD.json",
+   "m3u": "m3u/MD.m3u",
+   "listen": "https://globalradio.app/moldova/"
+  },
+  {
+   "code": "UG",
+   "country": "Uganda",
+   "slug": "uganda",
+   "flag": "🇺🇬",
+   "continent": "africa",
+   "stationCount": 55,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/UG.json",
+   "m3u": "m3u/UG.m3u",
+   "listen": "https://globalradio.app/uganda/"
+  },
+  {
+   "code": "DO",
+   "country": "Dominican Republic",
+   "slug": "dominican-republic",
+   "flag": "🇩🇴",
+   "continent": "americas",
+   "stationCount": 54,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/DO.json",
+   "m3u": "m3u/DO.m3u",
+   "listen": "https://globalradio.app/dominican-republic/"
+  },
+  {
+   "code": "DZ",
+   "country": "Algeria",
+   "slug": "algeria",
+   "flag": "🇩🇿",
+   "continent": "africa",
+   "stationCount": 53,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/DZ.json",
+   "m3u": "m3u/DZ.m3u",
+   "listen": "https://globalradio.app/algeria/"
+  },
+  {
+   "code": "EE",
+   "country": "Estonia",
+   "slug": "estonia",
+   "flag": "🇪🇪",
+   "continent": "europe",
+   "stationCount": 50,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/EE.json",
+   "m3u": "m3u/EE.m3u",
+   "listen": "https://globalradio.app/estonia/"
+  },
+  {
+   "code": "JP",
+   "country": "Japan",
+   "slug": "japan",
+   "flag": "🇯🇵",
+   "continent": "asia",
+   "stationCount": 47,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/JP.json",
+   "m3u": "m3u/JP.m3u",
+   "listen": "https://globalradio.app/japan/"
+  },
+  {
+   "code": "BO",
+   "country": "Bolivia",
+   "slug": "bolivia",
+   "flag": "🇧🇴",
+   "continent": "americas",
+   "stationCount": 41,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BO.json",
+   "m3u": "m3u/BO.m3u",
+   "listen": "https://globalradio.app/bolivia/"
+  },
+  {
+   "code": "LT",
+   "country": "Lithuania",
+   "slug": "lithuania",
+   "flag": "🇱🇹",
+   "continent": "europe",
+   "stationCount": 39,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LT.json",
+   "m3u": "m3u/LT.m3u",
+   "listen": "https://globalradio.app/lithuania/"
+  },
+  {
+   "code": "SI",
+   "country": "Slovenia",
+   "slug": "slovenia",
+   "flag": "🇸🇮",
+   "continent": "europe",
+   "stationCount": 39,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SI.json",
+   "m3u": "m3u/SI.m3u",
+   "listen": "https://globalradio.app/slovenia/"
+  },
+  {
+   "code": "BA",
+   "country": "Bosnia & Herzegovina",
+   "slug": "bosnia-herzegovina",
+   "flag": "🇧🇦",
+   "continent": "europe",
+   "stationCount": 37,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BA.json",
+   "m3u": "m3u/BA.m3u",
+   "listen": "https://globalradio.app/bosnia-herzegovina/"
+  },
+  {
+   "code": "AF",
+   "country": "Afghanistan",
+   "slug": "afghanistan",
+   "flag": "🇦🇫",
+   "continent": "asia",
+   "stationCount": 36,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AF.json",
+   "m3u": "m3u/AF.m3u",
+   "listen": "https://globalradio.app/afghanistan/"
+  },
+  {
+   "code": "LV",
+   "country": "Latvia",
+   "slug": "latvia",
+   "flag": "🇱🇻",
+   "continent": "europe",
+   "stationCount": 35,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LV.json",
+   "m3u": "m3u/LV.m3u",
+   "listen": "https://globalradio.app/latvia/"
+  },
+  {
+   "code": "PK",
+   "country": "Pakistan",
+   "slug": "pakistan",
+   "flag": "🇵🇰",
+   "continent": "asia",
+   "stationCount": 35,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PK.json",
+   "m3u": "m3u/PK.m3u",
+   "listen": "https://globalradio.app/pakistan/"
+  },
+  {
+   "code": "IL",
+   "country": "Israel",
+   "slug": "israel",
+   "flag": "🇮🇱",
+   "continent": "asia",
+   "stationCount": 34,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/IL.json",
+   "m3u": "m3u/IL.m3u",
+   "listen": "https://globalradio.app/israel/"
+  },
+  {
+   "code": "NG",
+   "country": "Nigeria",
+   "slug": "nigeria",
+   "flag": "🇳🇬",
+   "continent": "africa",
+   "stationCount": 34,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/NG.json",
+   "m3u": "m3u/NG.m3u",
+   "listen": "https://globalradio.app/nigeria/"
+  },
+  {
+   "code": "PR",
+   "country": "Puerto Rico",
+   "slug": "puerto-rico",
+   "flag": "🇵🇷",
+   "continent": "americas",
+   "stationCount": 34,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PR.json",
+   "m3u": "m3u/PR.m3u",
+   "listen": "https://globalradio.app/puerto-rico/"
+  },
+  {
+   "code": "BY",
+   "country": "Belarus",
+   "slug": "belarus",
+   "flag": "🇧🇾",
+   "continent": "europe",
+   "stationCount": 32,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BY.json",
+   "m3u": "m3u/BY.m3u",
+   "listen": "https://globalradio.app/belarus/"
+  },
+  {
+   "code": "SV",
+   "country": "El Salvador",
+   "slug": "el-salvador",
+   "flag": "🇸🇻",
+   "continent": "americas",
+   "stationCount": 31,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SV.json",
+   "m3u": "m3u/SV.m3u",
+   "listen": "https://globalradio.app/el-salvador/"
+  },
+  {
+   "code": "ME",
+   "country": "Montenegro",
+   "slug": "montenegro",
+   "flag": "🇲🇪",
+   "continent": "europe",
+   "stationCount": 30,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/ME.json",
+   "m3u": "m3u/ME.m3u",
+   "listen": "https://globalradio.app/montenegro/"
+  },
+  {
+   "code": "RE",
+   "country": "Réunion",
+   "slug": "reunion",
+   "flag": "🇷🇪",
+   "continent": "africa",
+   "stationCount": 30,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/RE.json",
+   "m3u": "m3u/RE.m3u",
+   "listen": "https://globalradio.app/reunion/"
+  },
+  {
+   "code": "CR",
+   "country": "Costa Rica",
+   "slug": "costa-rica",
+   "flag": "🇨🇷",
+   "continent": "americas",
+   "stationCount": 29,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CR.json",
+   "m3u": "m3u/CR.m3u",
+   "listen": "https://globalradio.app/costa-rica/"
+  },
+  {
+   "code": "GH",
+   "country": "Ghana",
+   "slug": "ghana",
+   "flag": "🇬🇭",
+   "continent": "africa",
+   "stationCount": 29,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GH.json",
+   "m3u": "m3u/GH.m3u",
+   "listen": "https://globalradio.app/ghana/"
+  },
+  {
+   "code": "MA",
+   "country": "Morocco",
+   "slug": "morocco",
+   "flag": "🇲🇦",
+   "continent": "africa",
+   "stationCount": 28,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MA.json",
+   "m3u": "m3u/MA.m3u",
+   "listen": "https://globalradio.app/morocco/"
+  },
+  {
+   "code": "SK",
+   "country": "Slovakia",
+   "slug": "slovakia",
+   "flag": "🇸🇰",
+   "continent": "europe",
+   "stationCount": 28,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SK.json",
+   "m3u": "m3u/SK.m3u",
+   "listen": "https://globalradio.app/slovakia/"
+  },
+  {
+   "code": "LK",
+   "country": "Sri Lanka",
+   "slug": "sri-lanka",
+   "flag": "🇱🇰",
+   "continent": "asia",
+   "stationCount": 28,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LK.json",
+   "m3u": "m3u/LK.m3u",
+   "listen": "https://globalradio.app/sri-lanka/"
+  },
+  {
+   "code": "TW",
+   "country": "Taiwan",
+   "slug": "taiwan",
+   "flag": "🇹🇼",
+   "continent": "asia",
+   "stationCount": 28,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TW.json",
+   "m3u": "m3u/TW.m3u",
+   "listen": "https://globalradio.app/taiwan/"
+  },
+  {
+   "code": "KZ",
+   "country": "Kazakhstan",
+   "slug": "kazakhstan",
+   "flag": "🇰🇿",
+   "continent": "asia",
+   "stationCount": 27,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KZ.json",
+   "m3u": "m3u/KZ.m3u",
+   "listen": "https://globalradio.app/kazakhstan/"
+  },
+  {
+   "code": "SA",
+   "country": "Saudi Arabia",
+   "slug": "saudi-arabia",
+   "flag": "🇸🇦",
+   "continent": "asia",
+   "stationCount": 27,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SA.json",
+   "m3u": "m3u/SA.m3u",
+   "listen": "https://globalradio.app/saudi-arabia/"
+  },
+  {
+   "code": "MK",
+   "country": "North Macedonia",
+   "slug": "north-macedonia",
+   "flag": "🇲🇰",
+   "continent": "europe",
+   "stationCount": 26,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MK.json",
+   "m3u": "m3u/MK.m3u",
+   "listen": "https://globalradio.app/north-macedonia/"
+  },
+  {
+   "code": "SG",
+   "country": "Singapore",
+   "slug": "singapore",
+   "flag": "🇸🇬",
+   "continent": "asia",
+   "stationCount": 26,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SG.json",
+   "m3u": "m3u/SG.m3u",
+   "listen": "https://globalradio.app/singapore/"
+  },
+  {
+   "code": "TH",
+   "country": "Thailand",
+   "slug": "thailand",
+   "flag": "🇹🇭",
+   "continent": "asia",
+   "stationCount": 26,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TH.json",
+   "m3u": "m3u/TH.m3u",
+   "listen": "https://globalradio.app/thailand/"
+  },
+  {
+   "code": "LB",
+   "country": "Lebanon",
+   "slug": "lebanon",
+   "flag": "🇱🇧",
+   "continent": "asia",
+   "stationCount": 25,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LB.json",
+   "m3u": "m3u/LB.m3u",
+   "listen": "https://globalradio.app/lebanon/"
+  },
+  {
+   "code": "AL",
+   "country": "Albania",
+   "slug": "albania",
+   "flag": "🇦🇱",
+   "continent": "europe",
+   "stationCount": 24,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AL.json",
+   "m3u": "m3u/AL.m3u",
+   "listen": "https://globalradio.app/albania/"
+  },
+  {
+   "code": "MY",
+   "country": "Malaysia",
+   "slug": "malaysia",
+   "flag": "🇲🇾",
+   "continent": "asia",
+   "stationCount": 23,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MY.json",
+   "m3u": "m3u/MY.m3u",
+   "listen": "https://globalradio.app/malaysia/"
+  },
+  {
+   "code": "TN",
+   "country": "Tunisia",
+   "slug": "tunisia",
+   "flag": "🇹🇳",
+   "continent": "africa",
+   "stationCount": 23,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TN.json",
+   "m3u": "m3u/TN.m3u",
+   "listen": "https://globalradio.app/tunisia/"
+  },
+  {
+   "code": "ZA",
+   "country": "South Africa",
+   "slug": "south-africa",
+   "flag": "🇿🇦",
+   "continent": "africa",
+   "stationCount": 22,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/ZA.json",
+   "m3u": "m3u/ZA.m3u",
+   "listen": "https://globalradio.app/south-africa/"
+  },
+  {
+   "code": "UY",
+   "country": "Uruguay",
+   "slug": "uruguay",
+   "flag": "🇺🇾",
+   "continent": "americas",
+   "stationCount": 22,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/UY.json",
+   "m3u": "m3u/UY.m3u",
+   "listen": "https://globalradio.app/uruguay/"
+  },
+  {
+   "code": "PA",
+   "country": "Panama",
+   "slug": "panama",
+   "flag": "🇵🇦",
+   "continent": "americas",
+   "stationCount": 20,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PA.json",
+   "m3u": "m3u/PA.m3u",
+   "listen": "https://globalradio.app/panama/"
+  },
+  {
+   "code": "CY",
+   "country": "Cyprus",
+   "slug": "cyprus",
+   "flag": "🇨🇾",
+   "continent": "europe",
+   "stationCount": 19,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CY.json",
+   "m3u": "m3u/CY.m3u",
+   "listen": "https://globalradio.app/cyprus/"
+  },
+  {
+   "code": "HN",
+   "country": "Honduras",
+   "slug": "honduras",
+   "flag": "🇭🇳",
+   "continent": "americas",
+   "stationCount": 18,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/HN.json",
+   "m3u": "m3u/HN.m3u",
+   "listen": "https://globalradio.app/honduras/"
+  },
+  {
+   "code": "TT",
+   "country": "Trinidad & Tobago",
+   "slug": "trinidad-tobago",
+   "flag": "🇹🇹",
+   "continent": "americas",
+   "stationCount": 18,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TT.json",
+   "m3u": "m3u/TT.m3u",
+   "listen": "https://globalradio.app/trinidad-tobago/"
+  },
+  {
+   "code": "IR",
+   "country": "Iran",
+   "slug": "iran",
+   "flag": "🇮🇷",
+   "continent": "asia",
+   "stationCount": 16,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/IR.json",
+   "m3u": "m3u/IR.m3u",
+   "listen": "https://globalradio.app/iran/"
+  },
+  {
+   "code": "EG",
+   "country": "Egypt",
+   "slug": "egypt",
+   "flag": "🇪🇬",
+   "continent": "africa",
+   "stationCount": 15,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/EG.json",
+   "m3u": "m3u/EG.m3u",
+   "listen": "https://globalradio.app/egypt/"
+  },
+  {
+   "code": "GT",
+   "country": "Guatemala",
+   "slug": "guatemala",
+   "flag": "🇬🇹",
+   "continent": "americas",
+   "stationCount": 15,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GT.json",
+   "m3u": "m3u/GT.m3u",
+   "listen": "https://globalradio.app/guatemala/"
+  },
+  {
+   "code": "IQ",
+   "country": "Iraq",
+   "slug": "iraq",
+   "flag": "🇮🇶",
+   "continent": "asia",
+   "stationCount": 15,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/IQ.json",
+   "m3u": "m3u/IQ.m3u",
+   "listen": "https://globalradio.app/iraq/"
+  },
+  {
+   "code": "KE",
+   "country": "Kenya",
+   "slug": "kenya",
+   "flag": "🇰🇪",
+   "continent": "africa",
+   "stationCount": 15,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KE.json",
+   "m3u": "m3u/KE.m3u",
+   "listen": "https://globalradio.app/kenya/"
+  },
+  {
+   "code": "UM",
+   "country": "U.S. Outlying Islands",
+   "slug": "u-s-outlying-islands",
+   "flag": "🇺🇲",
+   "continent": null,
+   "stationCount": 15,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/UM.json",
+   "m3u": "m3u/UM.m3u",
+   "listen": "https://globalradio.app/u-s-outlying-islands/"
+  },
+  {
+   "code": "VA",
+   "country": "Vatican City",
+   "slug": "vatican-city",
+   "flag": "🇻🇦",
+   "continent": "europe",
+   "stationCount": 15,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/VA.json",
+   "m3u": "m3u/VA.m3u",
+   "listen": "https://globalradio.app/vatican-city/"
+  },
+  {
+   "code": "MO",
+   "country": "Macao SAR China",
+   "slug": "macao-sar-china",
+   "flag": "🇲🇴",
+   "continent": "asia",
+   "stationCount": 14,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MO.json",
+   "m3u": "m3u/MO.m3u",
+   "listen": "https://globalradio.app/macao-sar-china/"
+  },
+  {
+   "code": "NP",
+   "country": "Nepal",
+   "slug": "nepal",
+   "flag": "🇳🇵",
+   "continent": "asia",
+   "stationCount": 14,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/NP.json",
+   "m3u": "m3u/NP.m3u",
+   "listen": "https://globalradio.app/nepal/"
+  },
+  {
+   "code": "PY",
+   "country": "Paraguay",
+   "slug": "paraguay",
+   "flag": "🇵🇾",
+   "continent": "americas",
+   "stationCount": 14,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PY.json",
+   "m3u": "m3u/PY.m3u",
+   "listen": "https://globalradio.app/paraguay/"
+  },
+  {
+   "code": "AZ",
+   "country": "Azerbaijan",
+   "slug": "azerbaijan",
+   "flag": "🇦🇿",
+   "continent": "asia",
+   "stationCount": 13,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AZ.json",
+   "m3u": "m3u/AZ.m3u",
+   "listen": "https://globalradio.app/azerbaijan/"
+  },
+  {
+   "code": "CV",
+   "country": "Cape Verde",
+   "slug": "cape-verde",
+   "flag": "🇨🇻",
+   "continent": "africa",
+   "stationCount": 13,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CV.json",
+   "m3u": "m3u/CV.m3u",
+   "listen": "https://globalradio.app/cape-verde/"
+  },
+  {
+   "code": "CW",
+   "country": "Curaçao",
+   "slug": "curacao",
+   "flag": "🇨🇼",
+   "continent": "americas",
+   "stationCount": 13,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CW.json",
+   "m3u": "m3u/CW.m3u",
+   "listen": "https://globalradio.app/curacao/"
+  },
+  {
+   "code": "HK",
+   "country": "Hong Kong SAR China",
+   "slug": "hong-kong-sar-china",
+   "flag": "🇭🇰",
+   "continent": "asia",
+   "stationCount": 13,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/HK.json",
+   "m3u": "m3u/HK.m3u",
+   "listen": "https://globalradio.app/hong-kong-sar-china/"
+  },
+  {
+   "code": "JM",
+   "country": "Jamaica",
+   "slug": "jamaica",
+   "flag": "🇯🇲",
+   "continent": "americas",
+   "stationCount": 13,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/JM.json",
+   "m3u": "m3u/JM.m3u",
+   "listen": "https://globalradio.app/jamaica/"
+  },
+  {
+   "code": "KR",
+   "country": "South Korea",
+   "slug": "south-korea",
+   "flag": "🇰🇷",
+   "continent": "asia",
+   "stationCount": 13,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KR.json",
+   "m3u": "m3u/KR.m3u",
+   "listen": "https://globalradio.app/south-korea/"
+  },
+  {
+   "code": "GE",
+   "country": "Georgia",
+   "slug": "georgia",
+   "flag": "🇬🇪",
+   "continent": "asia",
+   "stationCount": 11,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GE.json",
+   "m3u": "m3u/GE.m3u",
+   "listen": "https://globalradio.app/georgia/"
+  },
+  {
+   "code": "KW",
+   "country": "Kuwait",
+   "slug": "kuwait",
+   "flag": "🇰🇼",
+   "continent": "asia",
+   "stationCount": 11,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KW.json",
+   "m3u": "m3u/KW.m3u",
+   "listen": "https://globalradio.app/kuwait/"
+  },
+  {
+   "code": "LU",
+   "country": "Luxembourg",
+   "slug": "luxembourg",
+   "flag": "🇱🇺",
+   "continent": "europe",
+   "stationCount": 11,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LU.json",
+   "m3u": "m3u/LU.m3u",
+   "listen": "https://globalradio.app/luxembourg/"
+  },
+  {
+   "code": "CI",
+   "country": "Côte d’Ivoire",
+   "slug": "cote-divoire",
+   "flag": "🇨🇮",
+   "continent": "africa",
+   "stationCount": 10,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CI.json",
+   "m3u": "m3u/CI.m3u",
+   "listen": "https://globalradio.app/cote-divoire/"
+  },
+  {
+   "code": "CU",
+   "country": "Cuba",
+   "slug": "cuba",
+   "flag": "🇨🇺",
+   "continent": "americas",
+   "stationCount": 10,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CU.json",
+   "m3u": "m3u/CU.m3u",
+   "listen": "https://globalradio.app/cuba/"
+  },
+  {
+   "code": "JO",
+   "country": "Jordan",
+   "slug": "jordan",
+   "flag": "🇯🇴",
+   "continent": "asia",
+   "stationCount": 10,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/JO.json",
+   "m3u": "m3u/JO.m3u",
+   "listen": "https://globalradio.app/jordan/"
+  },
+  {
+   "code": "NA",
+   "country": "Namibia",
+   "slug": "namibia",
+   "flag": "🇳🇦",
+   "continent": "africa",
+   "stationCount": 10,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/NA.json",
+   "m3u": "m3u/NA.m3u",
+   "listen": "https://globalradio.app/namibia/"
+  },
+  {
+   "code": "SN",
+   "country": "Senegal",
+   "slug": "senegal",
+   "flag": "🇸🇳",
+   "continent": "africa",
+   "stationCount": 10,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SN.json",
+   "m3u": "m3u/SN.m3u",
+   "listen": "https://globalradio.app/senegal/"
+  },
+  {
+   "code": "AM",
+   "country": "Armenia",
+   "slug": "armenia",
+   "flag": "🇦🇲",
+   "continent": "asia",
+   "stationCount": 9,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AM.json",
+   "m3u": "m3u/AM.m3u",
+   "listen": "https://globalradio.app/armenia/"
+  },
+  {
+   "code": "BQ",
+   "country": "Caribbean Netherlands",
+   "slug": "caribbean-netherlands",
+   "flag": "🇧🇶",
+   "continent": "americas",
+   "stationCount": 9,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BQ.json",
+   "m3u": "m3u/BQ.m3u",
+   "listen": "https://globalradio.app/caribbean-netherlands/"
+  },
+  {
+   "code": "MG",
+   "country": "Madagascar",
+   "slug": "madagascar",
+   "flag": "🇲🇬",
+   "continent": "africa",
+   "stationCount": 9,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MG.json",
+   "m3u": "m3u/MG.m3u",
+   "listen": "https://globalradio.app/madagascar/"
+  },
+  {
+   "code": "TZ",
+   "country": "Tanzania",
+   "slug": "tanzania",
+   "flag": "🇹🇿",
+   "continent": "africa",
+   "stationCount": 9,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TZ.json",
+   "m3u": "m3u/TZ.m3u",
+   "listen": "https://globalradio.app/tanzania/"
+  },
+  {
+   "code": "BD",
+   "country": "Bangladesh",
+   "slug": "bangladesh",
+   "flag": "🇧🇩",
+   "continent": "asia",
+   "stationCount": 8,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BD.json",
+   "m3u": "m3u/BD.m3u",
+   "listen": "https://globalradio.app/bangladesh/"
+  },
+  {
+   "code": "HT",
+   "country": "Haiti",
+   "slug": "haiti",
+   "flag": "🇭🇹",
+   "continent": "americas",
+   "stationCount": 8,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/HT.json",
+   "m3u": "m3u/HT.m3u",
+   "listen": "https://globalradio.app/haiti/"
+  },
+  {
+   "code": "MU",
+   "country": "Mauritius",
+   "slug": "mauritius",
+   "flag": "🇲🇺",
+   "continent": "africa",
+   "stationCount": 8,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MU.json",
+   "m3u": "m3u/MU.m3u",
+   "listen": "https://globalradio.app/mauritius/"
+  },
+  {
+   "code": "NI",
+   "country": "Nicaragua",
+   "slug": "nicaragua",
+   "flag": "🇳🇮",
+   "continent": "americas",
+   "stationCount": 8,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/NI.json",
+   "m3u": "m3u/NI.m3u",
+   "listen": "https://globalradio.app/nicaragua/"
+  },
+  {
+   "code": "SY",
+   "country": "Syria",
+   "slug": "syria",
+   "flag": "🇸🇾",
+   "continent": "asia",
+   "stationCount": 8,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SY.json",
+   "m3u": "m3u/SY.m3u",
+   "listen": "https://globalradio.app/syria/"
+  },
+  {
+   "code": "VN",
+   "country": "Vietnam",
+   "slug": "vietnam",
+   "flag": "🇻🇳",
+   "continent": "asia",
+   "stationCount": 8,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/VN.json",
+   "m3u": "m3u/VN.m3u",
+   "listen": "https://globalradio.app/vietnam/"
+  },
+  {
+   "code": "BH",
+   "country": "Bahrain",
+   "slug": "bahrain",
+   "flag": "🇧🇭",
+   "continent": "asia",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BH.json",
+   "m3u": "m3u/BH.m3u",
+   "listen": "https://globalradio.app/bahrain/"
+  },
+  {
+   "code": "KY",
+   "country": "Cayman Islands",
+   "slug": "cayman-islands",
+   "flag": "🇰🇾",
+   "continent": "americas",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KY.json",
+   "m3u": "m3u/KY.m3u",
+   "listen": "https://globalradio.app/cayman-islands/"
+  },
+  {
+   "code": "GY",
+   "country": "Guyana",
+   "slug": "guyana",
+   "flag": "🇬🇾",
+   "continent": "americas",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GY.json",
+   "m3u": "m3u/GY.m3u",
+   "listen": "https://globalradio.app/guyana/"
+  },
+  {
+   "code": "KG",
+   "country": "Kyrgyzstan",
+   "slug": "kyrgyzstan",
+   "flag": "🇰🇬",
+   "continent": "asia",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KG.json",
+   "m3u": "m3u/KG.m3u",
+   "listen": "https://globalradio.app/kyrgyzstan/"
+  },
+  {
+   "code": "MT",
+   "country": "Malta",
+   "slug": "malta",
+   "flag": "🇲🇹",
+   "continent": "europe",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MT.json",
+   "m3u": "m3u/MT.m3u",
+   "listen": "https://globalradio.app/malta/"
+  },
+  {
+   "code": "PS",
+   "country": "Palestinian Territories",
+   "slug": "palestinian-territories",
+   "flag": "🇵🇸",
+   "continent": "asia",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PS.json",
+   "m3u": "m3u/PS.m3u",
+   "listen": "https://globalradio.app/palestinian-territories/"
+  },
+  {
+   "code": "VC",
+   "country": "St. Vincent & Grenadines",
+   "slug": "st-vincent-grenadines",
+   "flag": "🇻🇨",
+   "continent": "americas",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/VC.json",
+   "m3u": "m3u/VC.m3u",
+   "listen": "https://globalradio.app/st-vincent-grenadines/"
+  },
+  {
+   "code": "SR",
+   "country": "Suriname",
+   "slug": "suriname",
+   "flag": "🇸🇷",
+   "continent": "americas",
+   "stationCount": 7,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SR.json",
+   "m3u": "m3u/SR.m3u",
+   "listen": "https://globalradio.app/suriname/"
+  },
+  {
+   "code": "AS",
+   "country": "American Samoa",
+   "slug": "american-samoa",
+   "flag": "🇦🇸",
+   "continent": "oceania",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AS.json",
+   "m3u": "m3u/AS.m3u",
+   "listen": "https://globalradio.app/american-samoa/"
+  },
+  {
+   "code": "AD",
+   "country": "Andorra",
+   "slug": "andorra",
+   "flag": "🇦🇩",
+   "continent": "europe",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AD.json",
+   "m3u": "m3u/AD.m3u",
+   "listen": "https://globalradio.app/andorra/"
+  },
+  {
+   "code": "BB",
+   "country": "Barbados",
+   "slug": "barbados",
+   "flag": "🇧🇧",
+   "continent": "americas",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BB.json",
+   "m3u": "m3u/BB.m3u",
+   "listen": "https://globalradio.app/barbados/"
+  },
+  {
+   "code": "KH",
+   "country": "Cambodia",
+   "slug": "cambodia",
+   "flag": "🇰🇭",
+   "continent": "asia",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KH.json",
+   "m3u": "m3u/KH.m3u",
+   "listen": "https://globalradio.app/cambodia/"
+  },
+  {
+   "code": "FO",
+   "country": "Faroe Islands",
+   "slug": "faroe-islands",
+   "flag": "🇫🇴",
+   "continent": "europe",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/FO.json",
+   "m3u": "m3u/FO.m3u",
+   "listen": "https://globalradio.app/faroe-islands/"
+  },
+  {
+   "code": "PF",
+   "country": "French Polynesia",
+   "slug": "french-polynesia",
+   "flag": "🇵🇫",
+   "continent": "oceania",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PF.json",
+   "m3u": "m3u/PF.m3u",
+   "listen": "https://globalradio.app/french-polynesia/"
+  },
+  {
+   "code": "GI",
+   "country": "Gibraltar",
+   "slug": "gibraltar",
+   "flag": "🇬🇮",
+   "continent": "europe",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GI.json",
+   "m3u": "m3u/GI.m3u",
+   "listen": "https://globalradio.app/gibraltar/"
+  },
+  {
+   "code": "IS",
+   "country": "Iceland",
+   "slug": "iceland",
+   "flag": "🇮🇸",
+   "continent": "europe",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/IS.json",
+   "m3u": "m3u/IS.m3u",
+   "listen": "https://globalradio.app/iceland/"
+  },
+  {
+   "code": "XK",
+   "country": "Kosovo",
+   "slug": "kosovo",
+   "flag": "🇽🇰",
+   "continent": "europe",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/XK.json",
+   "m3u": "m3u/XK.m3u",
+   "listen": "https://globalradio.app/kosovo/"
+  },
+  {
+   "code": "MC",
+   "country": "Monaco",
+   "slug": "monaco",
+   "flag": "🇲🇨",
+   "continent": "europe",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MC.json",
+   "m3u": "m3u/MC.m3u",
+   "listen": "https://globalradio.app/monaco/"
+  },
+  {
+   "code": "QA",
+   "country": "Qatar",
+   "slug": "qatar",
+   "flag": "🇶🇦",
+   "continent": "asia",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/QA.json",
+   "m3u": "m3u/QA.m3u",
+   "listen": "https://globalradio.app/qatar/"
+  },
+  {
+   "code": "LC",
+   "country": "St. Lucia",
+   "slug": "st-lucia",
+   "flag": "🇱🇨",
+   "continent": "americas",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LC.json",
+   "m3u": "m3u/LC.m3u",
+   "listen": "https://globalradio.app/st-lucia/"
+  },
+  {
+   "code": "VE",
+   "country": "Venezuela",
+   "slug": "venezuela",
+   "flag": "🇻🇪",
+   "continent": "americas",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/VE.json",
+   "m3u": "m3u/VE.m3u",
+   "listen": "https://globalradio.app/venezuela/"
+  },
+  {
+   "code": "YE",
+   "country": "Yemen",
+   "slug": "yemen",
+   "flag": "🇾🇪",
+   "continent": "asia",
+   "stationCount": 6,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/YE.json",
+   "m3u": "m3u/YE.m3u",
+   "listen": "https://globalradio.app/yemen/"
+  },
+  {
+   "code": "AO",
+   "country": "Angola",
+   "slug": "angola",
+   "flag": "🇦🇴",
+   "continent": "africa",
+   "stationCount": 5,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AO.json",
+   "m3u": "m3u/AO.m3u",
+   "listen": "https://globalradio.app/angola/"
+  },
+  {
+   "code": "DM",
+   "country": "Dominica",
+   "slug": "dominica",
+   "flag": "🇩🇲",
+   "continent": "americas",
+   "stationCount": 5,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/DM.json",
+   "m3u": "m3u/DM.m3u",
+   "listen": "https://globalradio.app/dominica/"
+  },
+  {
+   "code": "IM",
+   "country": "Isle of Man",
+   "slug": "isle-of-man",
+   "flag": "🇮🇲",
+   "continent": "europe",
+   "stationCount": 5,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/IM.json",
+   "m3u": "m3u/IM.m3u",
+   "listen": "https://globalradio.app/isle-of-man/"
+  },
+  {
+   "code": "MW",
+   "country": "Malawi",
+   "slug": "malawi",
+   "flag": "🇲🇼",
+   "continent": "africa",
+   "stationCount": 5,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MW.json",
+   "m3u": "m3u/MW.m3u",
+   "listen": "https://globalradio.app/malawi/"
+  },
+  {
+   "code": "VI",
+   "country": "U.S. Virgin Islands",
+   "slug": "u-s-virgin-islands",
+   "flag": "🇻🇮",
+   "continent": "americas",
+   "stationCount": 5,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/VI.json",
+   "m3u": "m3u/VI.m3u",
+   "listen": "https://globalradio.app/u-s-virgin-islands/"
+  },
+  {
+   "code": "BS",
+   "country": "Bahamas",
+   "slug": "bahamas",
+   "flag": "🇧🇸",
+   "continent": "americas",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BS.json",
+   "m3u": "m3u/BS.m3u",
+   "listen": "https://globalradio.app/bahamas/"
+  },
+  {
+   "code": "BM",
+   "country": "Bermuda",
+   "slug": "bermuda",
+   "flag": "🇧🇲",
+   "continent": "americas",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BM.json",
+   "m3u": "m3u/BM.m3u",
+   "listen": "https://globalradio.app/bermuda/"
+  },
+  {
+   "code": "IO",
+   "country": "British Indian Ocean Territory",
+   "slug": "british-indian-ocean-territory",
+   "flag": "🇮🇴",
+   "continent": null,
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/IO.json",
+   "m3u": "m3u/IO.m3u",
+   "listen": "https://globalradio.app/british-indian-ocean-territory/"
+  },
+  {
+   "code": "BN",
+   "country": "Brunei",
+   "slug": "brunei",
+   "flag": "🇧🇳",
+   "continent": "asia",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BN.json",
+   "m3u": "m3u/BN.m3u",
+   "listen": "https://globalradio.app/brunei/"
+  },
+  {
+   "code": "CD",
+   "country": "Congo - Kinshasa",
+   "slug": "congo-kinshasa",
+   "flag": "🇨🇩",
+   "continent": "africa",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CD.json",
+   "m3u": "m3u/CD.m3u",
+   "listen": "https://globalradio.app/congo-kinshasa/"
+  },
+  {
+   "code": "FK",
+   "country": "Falkland Islands",
+   "slug": "falkland-islands",
+   "flag": "🇫🇰",
+   "continent": "americas",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/FK.json",
+   "m3u": "m3u/FK.m3u",
+   "listen": "https://globalradio.app/falkland-islands/"
+  },
+  {
+   "code": "GL",
+   "country": "Greenland",
+   "slug": "greenland",
+   "flag": "🇬🇱",
+   "continent": "americas",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GL.json",
+   "m3u": "m3u/GL.m3u",
+   "listen": "https://globalradio.app/greenland/"
+  },
+  {
+   "code": "GU",
+   "country": "Guam",
+   "slug": "guam",
+   "flag": "🇬🇺",
+   "continent": "oceania",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GU.json",
+   "m3u": "m3u/GU.m3u",
+   "listen": "https://globalradio.app/guam/"
+  },
+  {
+   "code": "LY",
+   "country": "Libya",
+   "slug": "libya",
+   "flag": "🇱🇾",
+   "continent": "africa",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/LY.json",
+   "m3u": "m3u/LY.m3u",
+   "listen": "https://globalradio.app/libya/"
+  },
+  {
+   "code": "MV",
+   "country": "Maldives",
+   "slug": "maldives",
+   "flag": "🇲🇻",
+   "continent": "asia",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MV.json",
+   "m3u": "m3u/MV.m3u",
+   "listen": "https://globalradio.app/maldives/"
+  },
+  {
+   "code": "MQ",
+   "country": "Martinique",
+   "slug": "martinique",
+   "flag": "🇲🇶",
+   "continent": "americas",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MQ.json",
+   "m3u": "m3u/MQ.m3u",
+   "listen": "https://globalradio.app/martinique/"
+  },
+  {
+   "code": "MN",
+   "country": "Mongolia",
+   "slug": "mongolia",
+   "flag": "🇲🇳",
+   "continent": "asia",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MN.json",
+   "m3u": "m3u/MN.m3u",
+   "listen": "https://globalradio.app/mongolia/"
+  },
+  {
+   "code": "NC",
+   "country": "New Caledonia",
+   "slug": "new-caledonia",
+   "flag": "🇳🇨",
+   "continent": "oceania",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/NC.json",
+   "m3u": "m3u/NC.m3u",
+   "listen": "https://globalradio.app/new-caledonia/"
+  },
+  {
+   "code": "SD",
+   "country": "Sudan",
+   "slug": "sudan",
+   "flag": "🇸🇩",
+   "continent": "africa",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SD.json",
+   "m3u": "m3u/SD.m3u",
+   "listen": "https://globalradio.app/sudan/"
+  },
+  {
+   "code": "VU",
+   "country": "Vanuatu",
+   "slug": "vanuatu",
+   "flag": "🇻🇺",
+   "continent": "oceania",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/VU.json",
+   "m3u": "m3u/VU.m3u",
+   "listen": "https://globalradio.app/vanuatu/"
+  },
+  {
+   "code": "ZM",
+   "country": "Zambia",
+   "slug": "zambia",
+   "flag": "🇿🇲",
+   "continent": "africa",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/ZM.json",
+   "m3u": "m3u/ZM.m3u",
+   "listen": "https://globalradio.app/zambia/"
+  },
+  {
+   "code": "ZW",
+   "country": "Zimbabwe",
+   "slug": "zimbabwe",
+   "flag": "🇿🇼",
+   "continent": "africa",
+   "stationCount": 4,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/ZW.json",
+   "m3u": "m3u/ZW.m3u",
+   "listen": "https://globalradio.app/zimbabwe/"
+  },
+  {
+   "code": "AG",
+   "country": "Antigua & Barbuda",
+   "slug": "antigua-barbuda",
+   "flag": "🇦🇬",
+   "continent": "americas",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AG.json",
+   "m3u": "m3u/AG.m3u",
+   "listen": "https://globalradio.app/antigua-barbuda/"
+  },
+  {
+   "code": "AW",
+   "country": "Aruba",
+   "slug": "aruba",
+   "flag": "🇦🇼",
+   "continent": "americas",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AW.json",
+   "m3u": "m3u/AW.m3u",
+   "listen": "https://globalradio.app/aruba/"
+  },
+  {
+   "code": "BJ",
+   "country": "Benin",
+   "slug": "benin",
+   "flag": "🇧🇯",
+   "continent": "africa",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BJ.json",
+   "m3u": "m3u/BJ.m3u",
+   "listen": "https://globalradio.app/benin/"
+  },
+  {
+   "code": "ET",
+   "country": "Ethiopia",
+   "slug": "ethiopia",
+   "flag": "🇪🇹",
+   "continent": "africa",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/ET.json",
+   "m3u": "m3u/ET.m3u",
+   "listen": "https://globalradio.app/ethiopia/"
+  },
+  {
+   "code": "GF",
+   "country": "French Guiana",
+   "slug": "french-guiana",
+   "flag": "🇬🇫",
+   "continent": "americas",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GF.json",
+   "m3u": "m3u/GF.m3u",
+   "listen": "https://globalradio.app/french-guiana/"
+  },
+  {
+   "code": "GD",
+   "country": "Grenada",
+   "slug": "grenada",
+   "flag": "🇬🇩",
+   "continent": "americas",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GD.json",
+   "m3u": "m3u/GD.m3u",
+   "listen": "https://globalradio.app/grenada/"
+  },
+  {
+   "code": "GP",
+   "country": "Guadeloupe",
+   "slug": "guadeloupe",
+   "flag": "🇬🇵",
+   "continent": "americas",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/GP.json",
+   "m3u": "m3u/GP.m3u",
+   "listen": "https://globalradio.app/guadeloupe/"
+  },
+  {
+   "code": "MZ",
+   "country": "Mozambique",
+   "slug": "mozambique",
+   "flag": "🇲🇿",
+   "continent": "africa",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MZ.json",
+   "m3u": "m3u/MZ.m3u",
+   "listen": "https://globalradio.app/mozambique/"
+  },
+  {
+   "code": "KP",
+   "country": "North Korea",
+   "slug": "north-korea",
+   "flag": "🇰🇵",
+   "continent": "asia",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KP.json",
+   "m3u": "m3u/KP.m3u",
+   "listen": "https://globalradio.app/north-korea/"
+  },
+  {
+   "code": "TG",
+   "country": "Togo",
+   "slug": "togo",
+   "flag": "🇹🇬",
+   "continent": "africa",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TG.json",
+   "m3u": "m3u/TG.m3u",
+   "listen": "https://globalradio.app/togo/"
+  },
+  {
+   "code": "TM",
+   "country": "Turkmenistan",
+   "slug": "turkmenistan",
+   "flag": "🇹🇲",
+   "continent": "asia",
+   "stationCount": 3,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/TM.json",
+   "m3u": "m3u/TM.m3u",
+   "listen": "https://globalradio.app/turkmenistan/"
+  },
+  {
+   "code": "AI",
+   "country": "Anguilla",
+   "slug": "anguilla",
+   "flag": "🇦🇮",
+   "continent": "americas",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AI.json",
+   "m3u": "m3u/AI.m3u",
+   "listen": "https://globalradio.app/anguilla/"
+  },
+  {
+   "code": "AQ",
+   "country": "Antarctica",
+   "slug": "antarctica",
+   "flag": "🇦🇶",
+   "continent": "antarctica",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/AQ.json",
+   "m3u": "m3u/AQ.m3u",
+   "listen": "https://globalradio.app/antarctica/"
+  },
+  {
+   "code": "BF",
+   "country": "Burkina Faso",
+   "slug": "burkina-faso",
+   "flag": "🇧🇫",
+   "continent": "africa",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BF.json",
+   "m3u": "m3u/BF.m3u",
+   "listen": "https://globalradio.app/burkina-faso/"
+  },
+  {
+   "code": "CM",
+   "country": "Cameroon",
+   "slug": "cameroon",
+   "flag": "🇨🇲",
+   "continent": "africa",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CM.json",
+   "m3u": "m3u/CM.m3u",
+   "listen": "https://globalradio.app/cameroon/"
+  },
+  {
+   "code": "CX",
+   "country": "Christmas Island",
+   "slug": "christmas-island",
+   "flag": "🇨🇽",
+   "continent": "asia",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/CX.json",
+   "m3u": "m3u/CX.m3u",
+   "listen": "https://globalradio.app/christmas-island/"
+  },
+  {
+   "code": "ER",
+   "country": "Eritrea",
+   "slug": "eritrea",
+   "flag": "🇪🇷",
+   "continent": "africa",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/ER.json",
+   "m3u": "m3u/ER.m3u",
+   "listen": "https://globalradio.app/eritrea/"
+  },
+  {
+   "code": "MM",
+   "country": "Myanmar (Burma)",
+   "slug": "myanmar-burma",
+   "flag": "🇲🇲",
+   "continent": "asia",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/MM.json",
+   "m3u": "m3u/MM.m3u",
+   "listen": "https://globalradio.app/myanmar-burma/"
+  },
+  {
+   "code": "OM",
+   "country": "Oman",
+   "slug": "oman",
+   "flag": "🇴🇲",
+   "continent": "asia",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/OM.json",
+   "m3u": "m3u/OM.m3u",
+   "listen": "https://globalradio.app/oman/"
+  },
+  {
+   "code": "PG",
+   "country": "Papua New Guinea",
+   "slug": "papua-new-guinea",
+   "flag": "🇵🇬",
+   "continent": "oceania",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/PG.json",
+   "m3u": "m3u/PG.m3u",
+   "listen": "https://globalradio.app/papua-new-guinea/"
+  },
+  {
+   "code": "RW",
+   "country": "Rwanda",
+   "slug": "rwanda",
+   "flag": "🇷🇼",
+   "continent": "africa",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/RW.json",
+   "m3u": "m3u/RW.m3u",
+   "listen": "https://globalradio.app/rwanda/"
+  },
+  {
+   "code": "UZ",
+   "country": "Uzbekistan",
+   "slug": "uzbekistan",
+   "flag": "🇺🇿",
+   "continent": "asia",
+   "stationCount": 2,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/UZ.json",
+   "m3u": "m3u/UZ.m3u",
+   "listen": "https://globalradio.app/uzbekistan/"
+  },
+  {
+   "code": "BW",
+   "country": "Botswana",
+   "slug": "botswana",
+   "flag": "🇧🇼",
+   "continent": "africa",
+   "stationCount": 1,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/BW.json",
+   "m3u": "m3u/BW.m3u",
+   "listen": "https://globalradio.app/botswana/"
+  },
+  {
+   "code": "KM",
+   "country": "Comoros",
+   "slug": "comoros",
+   "flag": "🇰🇲",
+   "continent": "africa",
+   "stationCount": 1,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KM.json",
+   "m3u": "m3u/KM.m3u",
+   "listen": "https://globalradio.app/comoros/"
+  },
+  {
+   "code": "SM",
+   "country": "San Marino",
+   "slug": "san-marino",
+   "flag": "🇸🇲",
+   "continent": "europe",
+   "stationCount": 1,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SM.json",
+   "m3u": "m3u/SM.m3u",
+   "listen": "https://globalradio.app/san-marino/"
+  },
+  {
+   "code": "SC",
+   "country": "Seychelles",
+   "slug": "seychelles",
+   "flag": "🇸🇨",
+   "continent": "africa",
+   "stationCount": 1,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/SC.json",
+   "m3u": "m3u/SC.m3u",
+   "listen": "https://globalradio.app/seychelles/"
+  },
+  {
+   "code": "KN",
+   "country": "St. Kitts & Nevis",
+   "slug": "st-kitts-nevis",
+   "flag": "🇰🇳",
+   "continent": "americas",
+   "stationCount": 1,
+   "verified": {
+    "oldest": "2026-08-23",
+    "newest": "2026-08-23"
+   },
+   "json": "stations/KN.json",
+   "m3u": "m3u/KN.m3u",
+   "listen": "https://globalradio.app/st-kitts-nevis/"
+  }
+ ]
+}

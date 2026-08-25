@@ -1,0 +1,92 @@
+{
+ "countryCode": "XK",
+ "country": "Kosovo",
+ "slug": "kosovo",
+ "continent": "europe",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/kosovo/",
+ "stations": [
+  {
+   "id": "glamradio",
+   "name": "GlamRADIO",
+   "url": "https://glamradio.fm/#/",
+   "stream": "https://stream.glamradio.fm:8443/glamradio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "albanian"
+   ],
+   "langCodes": [
+    "sq"
+   ],
+   "genre": [],
+   "votes": 439,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-plus",
+   "name": "Radio Plus",
+   "url": "https://www.radioplus.fm/",
+   "stream": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 167,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "club-fm-kosove",
+   "name": "Club FM Kosovë",
+   "url": "https://clubfmkosova.al/",
+   "stream": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 119,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "urban-fm-103-5",
+   "name": "Urban FM 103.5",
+   "url": "https://radiourban.fm/",
+   "stream": "https://radio.itprishtina.com/urbanfm.ogg",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 89,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kolektiv-radio",
+   "name": "Kolektiv Radio",
+   "url": "https://kolektivradio.com/",
+   "stream": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radyo-hisar",
+   "name": "Radyo Hisar",
+   "url": "https://www.radyohisar.com/home",
+   "stream": "https://a8.asurahosting.com:6920/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

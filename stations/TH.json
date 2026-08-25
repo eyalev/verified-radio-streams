@@ -1,0 +1,492 @@
+{
+ "countryCode": "TH",
+ "country": "Thailand",
+ "slug": "thailand",
+ "continent": "asia",
+ "stationCount": 26,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/thailand/",
+ "stations": [
+  {
+   "id": "fm-106-5",
+   "name": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",
+   "url": "https://www.lannaradio.com/",
+   "stream": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "Tak",
+   "genre": [
+    "country",
+    "indie",
+    "top-40"
+   ],
+   "votes": 2740,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bkk-fm",
+   "name": "BKK.FM",
+   "url": "https://bkk.fm/",
+   "stream": "https://rsas.bkk.fm/radio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Bangkok",
+   "genre": [
+    "alternative",
+    "dance",
+    "rock"
+   ],
+   "votes": 1595,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bluewave-97",
+   "name": "Bluewave 97",
+   "url": "https://www.bluewave97.com/",
+   "stream": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 842,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "chili-radio-thailand",
+   "name": "Chili Radio Thailand",
+   "url": "https://chiliradio.asia/",
+   "stream": "https://stream.chiliradio.app/chiliclassics",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "Chiang Mai",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "adult-contemporary"
+   ],
+   "votes": 504,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-93-50-mhz",
+   "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+   "url": "https://banmairadio.com/",
+   "stream": "https://radio10.plathong.net/7590/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 185,
+   "format": "music",
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 234,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fabulous-103",
+   "name": "Fabulous 103",
+   "url": "https://alwayspattaya.com/",
+   "stream": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Pattaya",
+   "genre": [
+    "electronic",
+    "folk"
+   ],
+   "votes": 148,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-samui-online",
+   "name": "Radio Samui Online",
+   "url": "https://radiosamui.online/",
+   "stream": "https://stream.mixadance.fm/radiosamui",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Samui",
+   "genre": [
+    "chillout",
+    "jazz",
+    "relax"
+   ],
+   "votes": 132,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-red-phuket",
+   "name": "Radio Red Phuket",
+   "url": "https://radioredphuket.com/",
+   "stream": "https://stream.chiliradio.app/radiored",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "thai"
+   ],
+   "langCodes": [
+    "en",
+    "th"
+   ],
+   "state": "Phuket",
+   "genre": [
+    "dance",
+    "lounge",
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "surf-radio",
+   "name": "Surf Radio",
+   "url": "https://surf.radio/",
+   "stream": "https://stream.surf.radio/surf1025",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 10,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "am-1197-khz-stereo",
+   "name": "สถานีวิทยุจังหวัดทหารบกลพบุรี AM 1197 KHz. Stereo",
+   "url": "https://mdr13.ddns.net/",
+   "stream": "https://mdr13.ddns.net/radio/am1197",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "Lop buri",
+   "genre": [
+    "country"
+   ],
+   "votes": 2,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cool-fahrenheit",
+   "name": "Cool fahrenheit",
+   "url": "http://www.coolism.net/index.php",
+   "stream": "https://coolism-web.cdn.byteark.com/;stream/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "genre": [],
+   "votes": 4051,
+   "clicks": 31,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "106-family-news-radio",
+   "name": "106 Family News Radio",
+   "url": "https://onair.one/?page_id=405",
+   "stream": "https://radio11.plathong.net/7138/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1191,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dhammahome",
+   "name": "บ้านธัมมะ",
+   "url": "https://www.dhammahome.com/radio/direct",
+   "stream": "https://radio10.plathong.net/7238/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "thai",
+    "ภาษาไทย"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "กรุงเทพมหานคร",
+   "genre": [],
+   "votes": 765,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "watsanghathan",
+   "name": "สังฆทานธรรม",
+   "url": "https://www.watsanghathan.com/content/5406/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99%E0%",
+   "stream": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+   "codec": "mp3",
+   "bitrate": 40,
+   "langs": [
+    "thai",
+    "ภาษาไทย"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "genre": [],
+   "votes": 560,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "watpasaingam",
+   "name": "วัดป่าไทรงาม",
+   "url": "http://www.watpasaingam.com/",
+   "stream": "https://radio10.plathong.net/7110/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "genre": [],
+   "votes": 244,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-91",
+   "name": "FM 91",
+   "url": "https://www.fm91bkk.com/",
+   "stream": "https://www.fm91bkk.com:8900/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 218,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "keangun-radio",
+   "name": "Keangun Radio เขียนกันเรดิโอ ฟังเพลงสบายสไตล์ร้านกาแฟ ร้านเหล้า ร้านนั่งชิล",
+   "url": "https://www.keangun.com/",
+   "stream": "https://radio9.plathong.net/7054/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Si Sa Ket",
+   "genre": [],
+   "votes": 203,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "muslim",
+   "name": "วิทยุเสียงอิสลาม",
+   "url": "https://muslim.fm/",
+   "stream": "https://radio12.plathong.net/7234/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "Bangkok",
+   "genre": [],
+   "votes": 191,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "city-radio-pattaya",
+   "name": "City Radio Pattaya",
+   "url": "https://www.cityradiopattaya.com/",
+   "stream": "https://media.onair.one:8200/stream/1/?v=1769497160087",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 103,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "97qfm",
+   "name": "97qfm",
+   "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://radiothailand.prd.go.th",
+   "stream": "https://cdn-th2.livestreaming.in.th/shoutcast/8610",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "genre": [],
+   "votes": 87,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "banmai-radio",
+   "name": "banmai radio",
+   "url": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
+   "stream": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
+   "codec": "mp3",
+   "bitrate": 185,
+   "langs": [
+    "ภาษาไทย"
+   ],
+   "state": "songkhla",
+   "genre": [],
+   "votes": 61,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "krb-radio-1",
+   "name": "KRB Radio 1",
+   "url": "https://www.nmab.or.th/radio",
+   "stream": "https://radio1.ohmi-design.com/8086/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "กรุงเทพมหานคร",
+   "genre": [],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gold-radio",
+   "name": "GOLD Radio",
+   "url": "https://live365.com/station/GOLD-Radio-a94344",
+   "stream": "https://streaming.live365.com/a94344",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Phuket",
+   "genre": [],
+   "votes": 21,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "krb-radio-2",
+   "name": "KRB Radio 2",
+   "url": "https://www.nmab.or.th/radio",
+   "stream": "https://nontawat3664.i234.me:8443/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "กรุงเทพมหานคร",
+   "genre": [],
+   "votes": 19,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "krb-radio-3",
+   "name": "KRB Radio 3",
+   "url": "https://www.nmab.or.th/radio",
+   "stream": "https://pakeefm.org/stream/300006/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "thai"
+   ],
+   "langCodes": [
+    "th"
+   ],
+   "state": "กรุงเทพมหานคร",
+   "genre": [],
+   "votes": 9,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "am-792khz",
+   "name": "วพท. am 792KHZ กรุงเทพฯ",
+   "url": "http://www.radio792.org/",
+   "stream": "https://radio9.plathong.net/7162/;",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "ภาษาไทย"
+   ],
+   "state": "กรุงเทพมหานคร",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

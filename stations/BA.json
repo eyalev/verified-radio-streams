@@ -1,0 +1,693 @@
+{
+ "countryCode": "BA",
+ "country": "Bosnia & Herzegovina",
+ "slug": "bosnia-herzegovina",
+ "continent": "europe",
+ "stationCount": 37,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/bosnia-herzegovina/",
+ "stations": [
+  {
+   "id": "pakao-radio",
+   "name": "Pakao Radio",
+   "url": "https://www.pakaoradio.net/",
+   "stream": "https://securestream.pakaoradio.net/live",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 330,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-busovaca",
+   "name": "Radio Busovača",
+   "url": "https://radio-busovaca.eu/",
+   "stream": "https://ec2s.crolive.com.hr:1510/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bosnian",
+    "croatian"
+   ],
+   "langCodes": [
+    "bs",
+    "hr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 177,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-sehara",
+   "name": "Radio Sehara",
+   "url": "https://radiosehara.net/",
+   "stream": "https://cast.name.ba:8000/;",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "state": "Sarajevo",
+   "genre": [
+    "folk"
+   ],
+   "votes": 115,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kupreskiradio",
+   "name": "KUPRESKIRADIO",
+   "url": "",
+   "stream": "https://ec2s.crolive.com.hr:1265/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 85,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vitez",
+   "name": "RADIO VITEZ",
+   "url": "https://www.radiovitez.ba/",
+   "stream": "https://radio.iti.hr/listen/radio_vitez/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 65,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "a-radio-banja-luka",
+   "name": "A Radio Banja Luka",
+   "url": "https://atvbl.rs/",
+   "stream": "https://aradiostream.atvbl.com/live",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Republika Srpska",
+   "genre": [
+    "jazz",
+    "pop"
+   ],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alpha-93-1-fm-riscado",
+   "name": "Alpha 93.1 FM Riscado",
+   "url": "http://www.vozdibonaire.com/",
+   "stream": "https://kadushi.westream.cloud/listen/alfafm/xstream",
+   "codec": "mp3",
+   "bitrate": 100,
+   "format": "music",
+   "langs": [
+    "bonaire",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "latin",
+    "pop",
+    "top-40"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esoterica-radio-s5",
+   "name": "Esoterica Radio S5",
+   "url": "https://esoterica.live/",
+   "stream": "https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sarajevo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esoterica-radio-s2",
+   "name": "Esoterica Radio S2",
+   "url": "https://esoterica.live/",
+   "stream": "https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sarajevo",
+   "genre": [
+    "house"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esoterica-radio-s3",
+   "name": "Esoterica Radio S3",
+   "url": "https://esoterica.live/",
+   "stream": "https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sarajevo",
+   "genre": [
+    "house"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esoterica-radio-s1",
+   "name": "Esoterica Radio S1",
+   "url": "https://esoterica.live/",
+   "stream": "https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sarajevo",
+   "genre": [
+    "house"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bet",
+   "name": "Radio Bet",
+   "url": "https://radiobet.eu/",
+   "stream": "https://cast1.asurahosting.com/proxy/betradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-studio-m",
+   "name": "Radio Studio M",
+   "url": "https://www.studiomteslic.net/",
+   "stream": "https://stream.leftor.com/proxy/studiom2/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "state": "Republika Srpska",
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bobar",
+   "name": "Radio Bobar",
+   "url": "https://radiobobar.com/",
+   "stream": "https://stream.radios.rs:9082/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Republika Srpska",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-glas-drine",
+   "name": "Radio Glas Drine",
+   "url": "https://rtvglasdrine.com/",
+   "stream": "https://cast2.name.ba/proxy/glasdrine/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "srce-krajine",
+   "name": "Srce Krajine",
+   "url": "https://srce-krajine.com/",
+   "stream": "https://srv.mediastriming.com/8330/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 1852,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "antena-radio-jelah-tesanj",
+   "name": "Antena Radio, Jelah Tešanj",
+   "url": "http://www.antena-radio.ba/",
+   "stream": "https://radio.tnt.ba/radio/8020/live?1616060583",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 504,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiopostaja-mir-me-ugorje",
+   "name": "Radiopostaja Mir - Međugorje",
+   "url": "https://radio-medjugorje.com/",
+   "stream": "https://mirm.live/mir.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "croatian"
+   ],
+   "langCodes": [
+    "hr"
+   ],
+   "state": "Herzegovina-Neretva Canton",
+   "genre": [],
+   "votes": 353,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rujnica-zavidovici",
+   "name": "Radio Rujnica Zavidovici",
+   "url": "http://www.radiorujnica.net/",
+   "stream": "https://r.name.ba:7115/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 318,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bosanski-brod",
+   "name": "Radio Bosanski Brod",
+   "url": "http://www.brodradio.com/bb/",
+   "stream": "https://zpilipov-geckohost.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 108,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-m-cafe",
+   "name": "RADIO M CAFE",
+   "url": "https://radiom.ba/en/homepage/",
+   "stream": "https://team-data.ba:9032//;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rsg-sarajevo",
+   "name": "RSG Sarajevo",
+   "url": "https://radio.rsg.ba/",
+   "stream": "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mix-bih",
+   "name": "Radio MIX, BiH",
+   "url": "https://radio.radiomix.ba/",
+   "stream": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "state": "Sarajevo",
+   "genre": [],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "robot-hit-radio",
+   "name": "ROBOT HIT RADIO",
+   "url": "http://robothitradio.com/",
+   "stream": "https://slusaj.off.ba/radio/8000/robot",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bugojno",
+   "name": "Radio Bugojno",
+   "url": "https://rtvbugojno.ba/",
+   "stream": "https://s3.free-shoutcast.com/stream/18156",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-breza",
+   "name": "Radio Breza",
+   "url": "https://www.radiobreza.com.ba/",
+   "stream": "https://sonicpanel.vmakerhost.com/8192/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ljubuski",
+   "name": "Radio Ljubuški",
+   "url": "https://radioljubuski.ba/",
+   "stream": "https://s8.iqstreaming.com:8044/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-m-plus",
+   "name": "Radio M plus",
+   "url": "https://radiom.ba/bs/radio-m-plus",
+   "stream": "https://team-data.ba:10000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-laktasi",
+   "name": "Radio Laktasi",
+   "url": "https://laktasiturizam.org/",
+   "stream": "https://radio.laktasiturizam.org/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Republika Srpska",
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiomajevica-com",
+   "name": "RadioMajevica.com",
+   "url": "https://www.radiomajevica.com/",
+   "stream": "https://live.radiomajevica.com:7520/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-osvit",
+   "name": "Radio Osvit",
+   "url": "https://www.radioosvit.com/",
+   "stream": "https://radio.dukahosting.com/8020/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Republika Srpska",
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "esoterica-radio-s4",
+   "name": "Esoterica Radio S4",
+   "url": "https://esoterica.live/",
+   "stream": "https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sarajevo",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-miljacka",
+   "name": "Radio Miljacka",
+   "url": "https://radiomiljacka.ba/",
+   "stream": "https://stream1.custom.ba/listen/radio_miljacka/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-usk-1",
+   "name": "Radio USK 1",
+   "url": "https://www.rtvusk.ba/",
+   "stream": "https://radiousk.radioca.st/stream/",
+   "codec": "mp3",
+   "bitrate": 24,
+   "langs": [
+    "bosnian"
+   ],
+   "langCodes": [
+    "bs"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "patrisamato-radio",
+   "name": "patrisamato radio",
+   "url": "https://patrisamato.com/public/live",
+   "stream": "https://patrisamato.com/listen/live/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Sarajevo",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-valentino-orv-life",
+   "name": "Radio Valentino ORV Life",
+   "url": "https://valentinobh.com/",
+   "stream": "https://otv.ovh/live_radio/orv/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

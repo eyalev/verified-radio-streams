@@ -1,0 +1,143 @@
+{
+ "countryCode": "KG",
+ "country": "Kyrgyzstan",
+ "slug": "kyrgyzstan",
+ "continent": "asia",
+ "stationCount": 7,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/kyrgyzstan/",
+ "stations": [
+  {
+   "id": "coldstar-online-radio-low-quality",
+   "name": "ColdStar.Online Radio (Low quality)",
+   "url": "https://coldstar.online/",
+   "stream": "https://ice.coldstar.online/low.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "house",
+    "trance"
+   ],
+   "votes": 1148,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "coldstar-online-radio-high-quality",
+   "name": "ColdStar.Online Radio (High quality)",
+   "url": "https://coldstar.online/#/",
+   "stream": "https://ice.coldstar.online/high.ogg",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "house",
+    "trance"
+   ],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kyrgyzstan-obondoru",
+   "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+   "url": "https://obondoru.kg/",
+   "stream": "https://cdn.radioplayer.kg:8443/obondoru64",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "kyrgyz"
+   ],
+   "genre": [],
+   "votes": 688,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-radio-tumar-fm",
+   "name": "Радио Тумар FM (Radio Tumar FM)",
+   "url": "https://www.tumar.fm/",
+   "stream": "https://radio.tumar.fm:8005/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "kyrgyz"
+   ],
+   "genre": [],
+   "votes": 342,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-suiunchu-fm",
+   "name": "Сүйүнчү FM (Suiunchu FM)",
+   "url": "https://suiunchu.kg/",
+   "stream": "https://cdn.radioplayer.kg:8443/suiunchu64",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "kyrgyz"
+   ],
+   "genre": [],
+   "votes": 147,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "the-holy-quran-by-sheikh-mahmoud-al-husari",
+   "name": "The Holy Quran by Sheikh Mahmoud Al-Husari",
+   "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "stream": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 131,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

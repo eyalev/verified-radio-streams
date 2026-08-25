@@ -1,0 +1,2472 @@
+{
+ "countryCode": "PE",
+ "country": "Peru",
+ "slug": "peru",
+ "continent": "americas",
+ "stationCount": 138,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/peru/",
+ "stations": [
+  {
+   "id": "radio-huancayo",
+   "name": "Radio Huancayo",
+   "url": "https://www.radiohuancayo.com.pe/",
+   "stream": "https://cloud9.ldwebstudios.net:7000/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Junin",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 3787,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-mega-96-7-fm-peru",
+   "name": "RADIO LA MEGA 96.7 FM (PERU)",
+   "url": "",
+   "stream": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 3332,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "studio-92-92-5-fm-lima",
+   "name": "Studio 92 (92.5 FM Lima)",
+   "url": "https://www.studio92.com/",
+   "stream": "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "hip-hop",
+    "pop-music",
+    "r&b"
+   ],
+   "votes": 2147,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-mega",
+   "name": "Radio La Mega",
+   "url": "https://audioplayer.pe/lamega",
+   "stream": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "cumbia",
+    "merengue"
+   ],
+   "votes": 2086,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "panamericana-retro-rock",
+   "name": "Panamericana Retro Rock",
+   "url": "https://www.radiopanamericana.com/",
+   "stream": "https://mdstrm.com/audio/6598b728d982060896866b8a/icecast.audio",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-rock"
+   ],
+   "votes": 1528,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-noventera",
+   "name": "La Noventera",
+   "url": "https://www.facebook.com/radiolanoventera/",
+   "stream": "https://host.gometri.com/proxy/lanoventera/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "90s",
+    "classic-rock",
+    "pop-music",
+    "techno"
+   ],
+   "votes": 1027,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-panamericana",
+   "name": "Radio Panamericana",
+   "url": "https://www.radiopanamericana.com/",
+   "stream": "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 925,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "stereolima",
+   "name": "StereoLima",
+   "url": "http://www.stereolima.com/",
+   "stream": "https://panel.innovatestream.pe/8042/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 827,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cumbia-mix",
+   "name": "Radio Cumbia Mix",
+   "url": "https://radiocumbiamix.com/",
+   "stream": "https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "español-internacional"
+   ],
+   "genre": [
+    "merengue",
+    "salsa"
+   ],
+   "votes": 615,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mambo-inn-radio",
+   "name": "Mambo INN Radio",
+   "url": "https://www.mamboinnradio.com/",
+   "stream": "https://radio.perustream.com:7000/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 602,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jr-88-7-arequipa",
+   "name": "Radio JR (88.7, Arequipa)",
+   "url": "http://www.radiojrfm.com/",
+   "stream": "https://tupanel.info:2000/stream/radiojr/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "state": "Arequipa",
+   "genre": [
+    "rock"
+   ],
+   "votes": 588,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tropical-tarapoto",
+   "name": "Tropical-Tarapoto",
+   "url": "",
+   "stream": "https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 563,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "z-rock-pop",
+   "name": "Z Rock & Pop",
+   "url": "https://zrockandpop.com.pe/",
+   "stream": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "classic-rock",
+    "pop",
+    "rock"
+   ],
+   "votes": 490,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "panamericana-latino-refrescante",
+   "name": "Panamericana Latino Refrescante",
+   "url": "https://www.radiopanamericana.com/",
+   "stream": "https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "latin-pop"
+   ],
+   "votes": 316,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-chalaca-callao",
+   "name": "Radio Chalaca Callao",
+   "url": "https://radiochalaca.pe/",
+   "stream": "https://conectperu.com/8084/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "merengue",
+    "salsa"
+   ],
+   "votes": 287,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chalaca",
+   "name": "Chalaca",
+   "url": "",
+   "stream": "https://conectperu.com:7041/stream?icy=http",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 283,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stereo-tv",
+   "name": "Radio Stereo TV",
+   "url": "https://radiostereotv.com/radio",
+   "stream": "https://sp.onliveperu.com/8098/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cajamarca",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 267,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-satelite-100-7-fm-callao",
+   "name": "Radio Satélite (100.7 FM, Callao)",
+   "url": "https://radiosatelite.pe/",
+   "stream": "https://conectperu.com/8166/stream",
+   "codec": "aac",
+   "bitrate": 72,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Callao",
+   "genre": [
+    "music"
+   ],
+   "votes": 256,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-vaca",
+   "name": "Radio La Vaca",
+   "url": "https://www.radiolavaca.com/",
+   "stream": "https://radio.streamingnacional.online/8168/stream",
+   "codec": "aac",
+   "bitrate": 112,
+   "format": "music",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 255,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onda-cero-te-activa",
+   "name": "Onda Cero Te Activa",
+   "url": "https://www.ondacero.com.pe/radio",
+   "stream": "https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin-pop",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 210,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-kalle-96-1-lima",
+   "name": "La Kalle 96.1 Lima",
+   "url": "https://lakalle.com.pe/",
+   "stream": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "salsa"
+   ],
+   "votes": 161,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "viva-fm-smart",
+   "name": "Viva FM Smart",
+   "url": "https://vivafm.com.pe/",
+   "stream": "https://tupanel.info:8780/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Lima",
+   "genre": [
+    "latin-pop",
+    "pop"
+   ],
+   "votes": 102,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-retro",
+   "name": "Radio Retro",
+   "url": "https://www.siempreretro.com/",
+   "stream": "https://stream2.eistreaming.com/7068/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "TACNA",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jvm-la-estacion",
+   "name": "JVM la Estación",
+   "url": "http://laut.fm/jvmlaestacion",
+   "stream": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-08-21_17-22-42&uuid=4ff07c3b-061e-4d2b-bfc4-738bf4f0f0ad",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cusco",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 89,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frecuencia-100-101-9",
+   "name": "Frecuencia 100 101.9",
+   "url": "https://www.radio.frecuencia100fm.com/",
+   "stream": "https://sp.oyotunstream.com/7066/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "latin-pop"
+   ],
+   "votes": 81,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jvm-la-estacion-cusco",
+   "name": "JVM la Estación (Cusco)",
+   "url": "http://laut.fm/jvmlaestacion",
+   "stream": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-08-21_22-56-35&uuid=285cf262-16d2-4f16-b245-28d746a3a7c9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Cusco",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1550-la-radio-joven-huancayo-88-9-fm",
+   "name": "Radio 1550, La Radio Joven. Huancayo. 88.9 FM.",
+   "stream": "https://streaming.virtugo.digital:8002/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español-peruano",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Huancayo",
+   "genre": [
+    "rock",
+    "alternative",
+    "pop",
+    "latin-pop",
+    "electronic",
+    "cumbia",
+    "latin",
+    "techno"
+   ],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "conexion-kpop-girls-groups",
+   "name": "Conexion Kpop Girls groups",
+   "url": "https://conexionkpop.com/",
+   "stream": "https://stream.laut.fm/conexiongirlsgroups",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espanish"
+   ],
+   "state": "arequipa",
+   "genre": [
+    "kpop"
+   ],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "conexion-kpop",
+   "name": "Conexion kpop",
+   "url": "https://conexionkpop.com/",
+   "stream": "https://stream.laut.fm/conexionkpop",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espanish"
+   ],
+   "state": "Arequipa",
+   "genre": [
+    "kpop"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-amor-por-cable",
+   "name": "Radio Amor por Cable",
+   "url": "https://axcradio.com/radio/",
+   "stream": "https://conectperu.com:7111/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "baladas",
+    "music",
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rumbo-huancayo",
+   "name": "Radio Rumbo Huancayo",
+   "url": "https://radiorumbo.com.pe/",
+   "stream": "https://mediastreamm.com/8008/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "electronica"
+   ],
+   "votes": 29,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-shack-music",
+   "name": "Radio Shack Music",
+   "url": "https://radioshackmusic.pe/",
+   "stream": "https://c30.radioboss.fm:18415/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zona-5-93-3",
+   "name": "Zona 5 93.3",
+   "url": "https://radiozona5fm.com/",
+   "stream": "https://panel.innovatestream.pe:10975/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "doble-nueve-classic",
+   "name": "Doble Nueve - Classic",
+   "url": "https://doblenuevelive.com/",
+   "stream": "https://conectperu.com:7003/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lima",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-super-pucallpa",
+   "name": "Radio Super Pucallpa",
+   "url": "https://radiusac.pe/",
+   "stream": "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "el-sembrador-radio-590-am-y-100-1-fm",
+   "name": "El Sembrador Radio 590 AM Y 100.1 FM",
+   "url": "https://www.elsembrador590.com/radio",
+   "stream": "https://panel.streamenviron.com:8158/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "folk",
+    "gospel"
+   ],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "doble-nueve-heritage",
+   "name": "Doble Nueve - Heritage",
+   "url": "https://doblenuevelive.com/",
+   "stream": "https://conectperu.com:7002/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 36,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lima",
+   "genre": [
+    "80s",
+    "90s",
+    "alternative",
+    "pop",
+    "rock"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-100",
+   "name": "Radio 100",
+   "url": "https://radio100tv.blogspot.com/",
+   "stream": "https://cast6.asurahosting.com/proxy/xezar/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "baladas",
+    "love-songs",
+    "music"
+   ],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "doble-nueve-live",
+   "name": "Doble Nueve - Live",
+   "url": "https://doblenuevelive.com/",
+   "stream": "https://conectperu.com:7000/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 36,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "español-peruano",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "indie",
+    "rock"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frecuencia-1330-am-parque-azangaro-miraflores-lu",
+   "name": "FRECUENCIA 1330 AM (parque azangaro miraflores) LUIS ANGEL ANCON PATIÑO",
+   "url": "https://www.radiofrecuencia1330amondasdelmisti.com/",
+   "stream": "https://maximacenterdata.com/8124/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "castellano.-español"
+   ],
+   "state": "arequipa",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-astoria-iquitos-94-9-fm",
+   "name": "Radio Astoria Iquitos 94.9 FM",
+   "url": "https://radioastoriaiquitos.com/",
+   "stream": "https://conectperu.com:7112/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maxima-del-peru",
+   "name": "RADIO MAXIMA DEL PERU",
+   "url": "https://radio-maxima-fm.webnode.es/",
+   "stream": "https://maxradio.azuracast.com.es/listen/radio_maxima/AQP.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "espanish"
+   ],
+   "state": "Arequipa",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-hits-80s",
+   "name": "Fm Hits 80s",
+   "url": "https://fmhits80s.net.pe/",
+   "stream": "https://cast.fmhits80s.net.pe/listen/fm_hits_80s/stream128",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "classic-hits",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "full-techno",
+   "name": "Full Techno",
+   "url": "https://www.full-techno.com/",
+   "stream": "https://servistream.info:8320/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langCodes": [
+    "spa"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 3,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "senal-pirata-radio",
+   "name": "Señal Pirata Radio",
+   "url": "https://senalpirata.com/",
+   "stream": "https://conectperu.com:8082/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "español-peruano",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "carolina-fm",
+   "name": "Carolina FM",
+   "url": "https://carolinafm.pe/",
+   "stream": "https://radio.livestreamingmundial.com:8016/stream",
+   "codec": "aac",
+   "bitrate": 288,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 2,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musica-urbana-nacional",
+   "name": "Música Urbana Nacional",
+   "url": "https://www.musicaurbananacional.com/",
+   "stream": "https://a11.asurahosting.com:8760/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Lima Peru",
+   "genre": [
+    "hip-hop",
+    "reggaeton"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ritmo-romantica",
+   "name": "Radio Ritmo Romántica",
+   "url": "https://www.radiosdelperu.com.pe/radio-ritmo-romantica",
+   "stream": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27?aid=68386a6e44ba64f6064b25c9&pid=YQeaeSlag6v2H3vMjcaXlG6JY5aPlYRL&sid=vpseitxdPyRFvFeuL2tdzKVAaDfHpwnl&uid=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1786742603697&ot=1qSp-a_aaCMF2DG_fcOxUQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e2376607bdf6b2fcde27&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Lima Peru",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sensacion-chosica",
+   "name": "Radio Sensacion Chosica",
+   "url": "https://tunein.com/radio/Radio-Sensaci%C3%B3n-(Chosica)-977-s153035/",
+   "stream": "https://conectperu.com:8218/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Lima",
+   "genre": [
+    "cumbia",
+    "salsa"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rpp-noticias",
+   "name": "Radio RPP Noticias",
+   "url": "https://rpp.pe/audio/",
+   "stream": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4832,
+   "clicks": 29,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-corazon-94-3-fm-lima",
+   "name": "Radio Corazón (94.3 FM Lima)",
+   "url": "https://audioplayer.pe/corazon",
+   "stream": "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 2247,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-zona-90-5-fm-lima",
+   "name": "Radio La Zona (90.5 FM, Lima)",
+   "url": "https://www.lazona.com.pe/",
+   "stream": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 1467,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-felicidad-88-9",
+   "name": "Radio Felicidad 88.9",
+   "url": "https://www.felicidad.com.pe/",
+   "stream": "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1058,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-clasica-rock-pop",
+   "name": "Radio Clasica Rock&Pop",
+   "url": "https://radioclasicarockandpop.webnode.pe/",
+   "stream": "https://sonicpanel.globalstream.pro/8042/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Huancayo",
+   "genre": [],
+   "votes": 1033,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rpp-mundial",
+   "name": "Radio RPP Mundial",
+   "url": "https://audioplayer.pe/mundial",
+   "stream": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 970,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1160-peru",
+   "name": "Radio 1160 Peru",
+   "url": "https://www.radio1160.com.pe/",
+   "stream": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye",
+   "codec": "aac",
+   "bitrate": 127,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 862,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-loreto",
+   "name": "Radio Loreto",
+   "url": "https://radioloreto.com/",
+   "stream": "https://sp.oyotunstream.com/8006/stream",
+   "codec": "aac",
+   "bitrate": 36,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Loreto",
+   "genre": [],
+   "votes": 585,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-latidos-94-7-fm-huaral",
+   "name": "Radio Latidos 94.7 FM (Huaral)",
+   "url": "https://www.radiolatidos.com/",
+   "stream": "https://radio.pjcks.com/9944/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 544,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-voz-del-nor-oriente-utcubamba",
+   "name": "Radio La Voz del Nor Oriente - Utcubamba",
+   "url": "http://www.radiolavozdelnororiente.com/",
+   "stream": "https://sp.onliveperu.com:7038/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espanish"
+   ],
+   "state": "Amazonas",
+   "genre": [],
+   "votes": 460,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-cheverisima-utcubamba",
+   "name": "Radio La Cheverísima - Utcubamba",
+   "url": "http://www.radiolacheverisima.com/",
+   "stream": "https://sp.onliveperu.com/8114/stream/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "espanish"
+   ],
+   "state": "Amazonas",
+   "genre": [],
+   "votes": 439,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "panamericana-salsa-power",
+   "name": "Panamericana Salsa Power",
+   "url": "https://www.radiopanamericana.com/",
+   "stream": "https://mdstrm.com/audio/6598b751261d9e088a6deadd/icecast.audio",
+   "codec": "aac",
+   "bitrate": 127,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 435,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-magica-88-3-fm",
+   "name": "Radio Mágica 88.3 FM",
+   "url": "https://www.radiomagica.pe/",
+   "stream": "https://pe-p1-p-e-xm2-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&amp;pid=feTbRIuYIYCrMwO4fNUTwX6cqyUl3MUo&amp;sid=JkMZvIkbbH8f017OQm8BN32kAZ8TPYUI&amp;uid=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u&amp;es=pe-p1-p-e-xm2-audio.cdn.mdstrm.com&amp;ote=1767062598351&amp;ot=f8MpWy_qc1rzl0h33cbq6g&amp;proto=https&amp;pz=us&amp;cP=128000&amp;awCollectionId=68386a6e44ba64f6064b25c9&amp;liveId=6839e28eb3fdc597ac2e2e43&amp;listenerId=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lima Peru",
+   "genre": [],
+   "votes": 419,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "peru-folk-radio",
+   "name": "Peru folk radio",
+   "url": "https://perufolkradio.com/",
+   "stream": "https://raymistream.net/listen/perufolkradio/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-ecuador"
+   ],
+   "genre": [],
+   "votes": 409,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "levelhits",
+   "name": "Levelhits",
+   "url": "https://www.levelhits.com/",
+   "stream": "https://radio.pjcks.com/7234/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 365,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "peru-cumbia",
+   "name": "peru cumbia",
+   "url": "https://perucumbiaradio.com/",
+   "stream": "https://servistream.info:8330/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Lima Peru",
+   "genre": [],
+   "votes": 346,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rpp-mundial-check-25-11-2022",
+   "name": "RPP Mundial (Check 25/11/2022)",
+   "url": "https://audioplayer.pe/mundial",
+   "stream": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 333,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-synthpop",
+   "name": "Radio Synthpop",
+   "url": "https://radiosynthpop.com/",
+   "stream": "https://radio.blueditor.com/8250/stream;",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 300,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onda-popular",
+   "name": "Onda Popular",
+   "url": "http://radioondapopular.pe/",
+   "stream": "https://dattavolt.com/8278/stream?1634322652441",
+   "codec": "aac",
+   "bitrate": 72,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 277,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fantasia-iquitos-88-3",
+   "name": "Radio Fantasía Iquitos 88.3",
+   "url": "https://radiofantasiaiquitos.com/radio",
+   "stream": "https://sp.oyotunstream.com:10943/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 72,
+   "genre": [],
+   "votes": 263,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova-peru",
+   "name": "Radio Nova peru",
+   "url": "https://radionova.pe/",
+   "stream": "https://panel.innovatestream.pe:10990/undefined",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "chimbote",
+   "genre": [],
+   "votes": 256,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "moderna-radio-papa",
+   "name": "Moderna Radio Papá",
+   "url": "https://radiomoderna.pe/player/",
+   "stream": "https://radio.transmite.pe/8020/stream/;type=mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 255,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-exitosa",
+   "name": "Radio Exitosa",
+   "url": "https://www.exitosanoticias.pe/",
+   "stream": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima Peru",
+   "genre": [],
+   "votes": 234,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red-radio-integridad-rri",
+   "name": "Red Radio Integridad (RRI)",
+   "url": "https://rri.pe/",
+   "stream": "https://dattavolt.com/8164/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 232,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "filarmonia-ocr-4v-102-7-mhz-fm-lima-irtp",
+   "name": "Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)",
+   "url": "http://www.filarmonia.org/",
+   "stream": "https://c22.radioboss.fm:18100/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 228,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metropolitana-arequipa",
+   "name": "Radio metropolitana Arequipa",
+   "url": "https://metropolitana995.webnode.pe/",
+   "stream": "https://maximacenterdata.com/8120/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 221,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-karicia",
+   "name": "Radio Karicia",
+   "url": "https://kariciafm.com/",
+   "stream": "https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Martín",
+   "genre": [],
+   "votes": 210,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-san-martin",
+   "name": "Radio San Martín",
+   "url": "http://radiosanmartin.pe/radio-en-linea/",
+   "stream": "https://conectperu.com:7020/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Martín",
+   "genre": [],
+   "votes": 200,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jhc-107-7-fm",
+   "name": "Radio JHC 107.7 FM",
+   "url": "https://radiojhc.com/radio",
+   "stream": "https://sp.oyotunstream.com:10979/;",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lambayeque",
+   "genre": [],
+   "votes": 188,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-girasol",
+   "name": "Radio Girasol",
+   "url": "https://radiogirasol.com/portal/girasol-piura-en-vivo/",
+   "stream": "https://miradioperu.com/8008/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Piura",
+   "genre": [],
+   "votes": 175,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-estrella-trujillo-102-7-trujillo",
+   "name": "Radio Estrella Trujillo (102.7 Trujillo)",
+   "url": "http://radioestrellaperu.com/Trujillo/",
+   "stream": "https://radio.datahost.pe/9660/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Libertad",
+   "genre": [],
+   "votes": 157,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova",
+   "name": "Radio Nova",
+   "url": "https://www.radionova.com/",
+   "stream": "https://panel.innovatestream.pe:10989/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 147,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "karibena",
+   "name": "Karibeña",
+   "url": "https://lakaribena.com.pe/",
+   "stream": "https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "Lima",
+   "genre": [],
+   "votes": 146,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ondas-del-huallaga",
+   "name": "Radio Ondas del Huallaga",
+   "url": "http://www.radioondasdelhuallaga.com/",
+   "stream": "https://cloud9.ldwebstudios.net:7005/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Huanuco",
+   "genre": [],
+   "votes": 144,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-unika",
+   "name": "Radio La Unika",
+   "url": "http://radiolaunika.com/",
+   "stream": "https://cloud9.ldwebstudios.net:7011/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "state": "Huancavelica",
+   "genre": [],
+   "votes": 142,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-concierto-fm-95-1",
+   "name": "Radio Concierto - FM 95.1",
+   "url": "https://conciertofm.com/",
+   "stream": "https://conectperu.com/8012/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 134,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-armonia",
+   "name": "Radio Armonía",
+   "url": "https://radioarmoniadigital.com/",
+   "stream": "https://radio.sistemasandinos.org:10978/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ancash",
+   "genre": [],
+   "votes": 125,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stereo-99-bagua-grande",
+   "name": "Radio Stereo 99 - Bagua Grande",
+   "url": "http://radiostereo99baguagrande.com/",
+   "stream": "https://sechin.grupocentroserver.com/radio/8300/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espanish"
+   ],
+   "state": "Amazonas",
+   "genre": [],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-studio-97",
+   "name": "Radio Studio 97",
+   "url": "http://www.studio97.com.pe/",
+   "stream": "https://sechin.grupocentroserver.com/radio/8140/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Moquegua",
+   "genre": [],
+   "votes": 94,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-yaravi",
+   "name": "Radio Yaraví",
+   "url": "https://www.radioyaravi.org.pe/",
+   "stream": "https://tupanel.info/stream/radioyaravi/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fama-sur-tarata",
+   "name": "Fama Sur (Tarata)",
+   "url": "http://famasurfm.com/",
+   "stream": "https://sp.oyotunstream.com/9326/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tacna",
+   "genre": [],
+   "votes": 93,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stereo-g-la-grande-rodriguez-de-mendoza",
+   "name": "Radio Stereo G La Grande - Rodriguez de Mendoza",
+   "url": "http://stereoglagrande.blogspot.com/",
+   "stream": "https://dattavolt.com/8138/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "espanish"
+   ],
+   "state": "Amazonas",
+   "genre": [],
+   "votes": 89,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-un-hueco-en-el-espacio",
+   "name": "Radio Un Hueco en el Espacio",
+   "url": "https://unhuecoenelespacio.wixsite.com/radio",
+   "stream": "https://cloudstream2032.conectarhosting.com/8106/stream",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 87,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-intiraymi-del-cusco-830-am",
+   "name": "RADIO INTIRAYMI DEL CUSCO 830 AM",
+   "url": "https://www.radiointiraymi.com/",
+   "stream": "https://streamhotsperu.purosurfm.com:8150/intiraymi",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-milenium-bagua-grande",
+   "name": "Radio Milenium - Bagua Grande",
+   "url": "https://www.mileniumradiofm.com/",
+   "stream": "https://sp.onliveperu.com/8102/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "espanish"
+   ],
+   "state": "Amazonas",
+   "genre": [],
+   "votes": 65,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alegria-la-rompe",
+   "name": "Radio Alegria - La Rompe",
+   "url": "http://www.alegriaradio.com/",
+   "stream": "https://radio.sistemasandinos.org:10974/;stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 60,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vinilo-tu-radio-retro-70s-80s-90s-2000",
+   "name": "Vinilo ¡Tu radio retro! 70s, 80s, 90s, 2000",
+   "url": "https://viniloturadioretro.com/",
+   "stream": "https://panel.innovatestream.pe:10924/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [],
+   "votes": 58,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-nube-91-9",
+   "name": "La Nube 91.9",
+   "url": "https://www.radiolanube.com/",
+   "stream": "https://mdstrm.com/audio/6598b70f86344b02b58ce836/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sol-frecuencia-primera-radio",
+   "name": "Sol Frecuencia Primera Radio",
+   "url": "https://www.frecuenciaprimera.org/",
+   "stream": "https://cast6.asurahosting.com/proxy/solfrecu/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "french",
+    "italian",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "fr",
+    "it"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "filarmonia",
+   "name": "Filarmonía",
+   "url": "http://www.filarmonia.org/",
+   "stream": "https://c22.radioboss.fm:8100/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sol-de-los-andes",
+   "name": "Radio Sol De Los Andes",
+   "url": "https://www.radiosoldelosandes.com.pe/",
+   "stream": "https://cloudstream2036.conectarhosting.com/8036/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "Juliaca - Puno",
+   "genre": [],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-melodia-fm",
+   "name": "Radio Melodia FM",
+   "url": "https://radiomelodia.com.pe/envivofm",
+   "stream": "https://stream.radiomelodia.com.pe:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 40,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-moyobamba",
+   "name": "Radio Moyobamba",
+   "url": "https://radio.moyobamba.com/",
+   "stream": "https://radioconector.com:7005/stream",
+   "codec": "aac",
+   "bitrate": 144,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Martín",
+   "genre": [],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-coral-97-5-fm",
+   "name": "RADIO CORAL 97.5 FM",
+   "url": "https://radiocoral100-7.webnode.page/",
+   "stream": "https://maximacenterdata.com/8052/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espanish"
+   ],
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-trinidad-1070-am",
+   "name": "RADIO TRINIDAD 1070 AM",
+   "url": "https://onlineradiobox.com/pe/trinidad1070/?cs=pe.trinidad1070&played=1",
+   "stream": "https://maximacenterdata.com/8056/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español"
+   ],
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-caramelo",
+   "name": "Radio Caramelo",
+   "url": "https://radiocaramelo.com.pe/",
+   "stream": "https://panelautodj.innovatestream.pe:10857/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-enmanuel-huaycan",
+   "name": "Radio Enmanuel Huaycán",
+   "url": "https://radioenmanuel.pe/",
+   "stream": "https://conectperu.com/8220/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Lima Peru",
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-gloria-es-de-dios",
+   "name": "Radio La Gloria Es De Dios",
+   "url": "https://bemoanesca57.wixsite.com/lagloriadediosstereo",
+   "stream": "https://radio101.mjwebexperts.com/8006/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "doble-nueve-millennial",
+   "name": "Doble Nueve - Millennial",
+   "url": "https://doblenuevelive.com/",
+   "stream": "https://conectperu.com:7001/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 36,
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "panamericana-retro",
+   "name": "Panamericana Retro",
+   "url": "https://www.radiopanamericana.com/radio/retro-rock/",
+   "stream": "https://pe-p1-p-e-xm11-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a",
+   "codec": "aac",
+   "bitrate": 127,
+   "state": "Lima",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pirata-97-7-tu-radio-retro",
+   "name": "Radio Pirata 97.7 tu radio retro",
+   "url": "https://www.facebook.com/profile.php?id=100049736869387&sk=reels_tab",
+   "stream": "https://panel.innovatestream.pe:10995/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Cajamarca",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-imperial-2-am",
+   "name": "Radio Imperial 2 am",
+   "url": "https://imperial2am.com/",
+   "stream": "https://sonic.dattassd.com:8220//",
+   "codec": "aac",
+   "bitrate": 32,
+   "state": "Lima",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-chalhuanca-97-7-fm",
+   "name": "Radio Chalhuanca 97.7 fm",
+   "url": "https://radiochalhuanca.com/",
+   "stream": "https://radio.perustream.com/8030/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Apurimac",
+   "genre": [],
+   "votes": 5,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-inkafuego-en-vivo",
+   "name": "Radio inkafuego en vivo",
+   "url": "https://radioinkafuegotv.blogspot.com/",
+   "stream": "https://mediastreamm.com/8362/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Lima",
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-tremenda",
+   "name": "Radio La tremenda",
+   "url": "https://latremenda.pe/",
+   "stream": "https://radio.latremenda.pe/X7K9F2M4P8Q1W3R5T6Y",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Lima",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-los-andes-99-5-fm",
+   "name": "radio los andes 99.5 fm",
+   "url": "https://radiolosandestv.com/",
+   "stream": "https://sonic.dattassd.com:8190/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Lima",
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kodama-station",
+   "name": "Kodama Station",
+   "url": "https://kodamastation.com/koda/index.php",
+   "stream": "https://cast.kodamastation.com:8000/Rd320.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-apurimena-la-unica",
+   "name": "Radio apurimeña la unica",
+   "url": "https://onlineradiobox.com/pe/apurimena957/",
+   "stream": "https://radio.perustream.com/8014/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Apurimac",
+   "genre": [],
+   "votes": 3,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-curahuasi-104-5-fm",
+   "name": "Radio Curahuasi 104.5 fm",
+   "url": "https://www.facebook.com/radiocurahuasi/?locale=es_LA",
+   "stream": "https://radio.rtvstreaming.com/8028/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Apurimac",
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-frecuencia-poder-103-9-fm-cajamarca-san-pa",
+   "name": "Radio Frecuencia Poder 103.9 FM - Cajamarca, San Pablo",
+   "url": "https://www.radiosdelperu.com.pe/radio-frecuencia-poder",
+   "stream": "https://conectperu.com/8384/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Cajamarca, San Pablo",
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-salkantay",
+   "name": "Radio Salkantay",
+   "url": "https://radiosalkantaycusco.com/",
+   "stream": "https://stream.radiosalkantaycusco.com/7662/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "state": "Cusco",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-camana",
+   "name": "Radio Camaná",
+   "url": "https://radiocamana.com/",
+   "stream": "https://das-edge15-live365-dal02.cdnstream.com/a68417",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-onda-popular-juliaca",
+   "name": "Radio Onda Popular (Juliaca)",
+   "url": "https://radioondapopular.pe/",
+   "stream": "https://dattavolt.com/8278/stream",
+   "codec": "aac",
+   "bitrate": 72,
+   "state": "Puno",
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-santa-rosa",
+   "name": "Radio Santa Rosa",
+   "url": "https://radiosantarosa.com.pe/",
+   "stream": "https://conectperu.com/8256/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "santa-lucia-93-7-fm",
+   "name": "Santa Lucía 93.7 FM",
+   "url": "https://www.sondondo.com/radio-santa-lucia-cajamarca.html",
+   "stream": "https://sp.dattavolt.com/8014/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Cajamarca",
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-el-patron-95-7-fm-cajamarca-san-miguel",
+   "name": "Radio El Patron 95.7 FM - Cajamarca, San Miguel",
+   "url": "https://www.sondondo.com/radio-el-patron-cajamarca.html",
+   "stream": "https://streaming.zonalatinaeirl.com:8010/radio",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Cajamarca - San Miguel",
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fiesta-mix",
+   "name": "Radio fiesta Mix",
+   "url": "https://www.radiofiestamixdehuanta.com/",
+   "stream": "https://dattavolt.com:7128/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "state": "Huanta - Ayacucho",
+   "genre": [],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nor-andina-101-9-mhz-fm-cajamarca-celendin",
+   "name": "Radio Nor Andina 101.9 MHz FM - Cajamarca, Celendín",
+   "url": "https://onlineradiobox.com/pe/norandina/",
+   "stream": "https://mediastreamm.com/8012/stream/1/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Cajamarca, Celendín",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pampa-yurac-90-1-fm-pucallpa-ucayali-aguay",
+   "name": "Radio Pampa Yurac 90.1 FM - Pucallpa, Ucayali, Aguaytia",
+   "url": "https://www.sondondo.com/radio-pampa-yurac-ucayali.html",
+   "stream": "https://rr5200.globalhost1.com/8242/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Pucallpa, Ucayali, Aguaytia",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latina-live",
+   "name": "Latina Live",
+   "url": "https://latinalive.net/",
+   "stream": "https://radios.latinalive.net/listen/latina/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Arequipa",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onda-popular-cajamarca",
+   "name": "Onda Popular (Cajamarca)",
+   "url": "https://radioondapopular.com/",
+   "stream": "https://envivo.top:8443/am",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Cajamarca",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-abn-lima",
+   "name": "Radio ABN (Lima)",
+   "url": "https://envivo.abn.pe/",
+   "stream": "https://jml-stream.com/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Lima",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-activa-93-7-fm-jaen",
+   "name": "Radio Activa 93.7 FM Jaen",
+   "url": "https://www.sondondo.com/radio-activa-cajamarca.html",
+   "stream": "https://sp.onliveperu.com/8108/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Cajamarca",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bambamarca-1020-am-cajamarca-bambamarca",
+   "name": "Radio Bambamarca 1020 AM - Cajamarca, Bambamarca",
+   "url": "https://www.sondondo.com/radio-bambamarca-cajamarca.html",
+   "stream": "https://envivo.top:8443/lider",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Cajamarca, Bambamarca",
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cultural-amauta",
+   "name": "Radio cultural Amauta",
+   "url": "https://radioamautaperu.com/",
+   "stream": "https://cast5.asurahosting.com/proxy/radioamuta/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "quechua",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "qu"
+   ],
+   "state": "Huanta - Ayacucho",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mia-99-5-fm-cajamarca-san-miguel",
+   "name": "Radio Mía 99.5 FM - Cajamarca, San Miguel",
+   "url": "https://www.sondondo.com/radio-mia-cajamarca.html",
+   "stream": "https://streaming.zonalatinaeirl.com:8020/radio",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Cajamarca, San Miguel",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-planeta",
+   "name": "Radio Planeta",
+   "url": "https://www.radiosdelperu.com.pe/radio-planeta",
+   "stream": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6839e274f40e6b9832e37633?aid=68386a6e44ba64f6064b25c9&pid=XCjk5jKHdZ70qhEDSmxLOrt4Wt4uFB3w&sid=vpseitxdPyRFvFeuL2tdzKVAaDfHpwnl&uid=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1786742777112&ot=ZfUrOwFwCXCkowILFIRcSw&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e274f40e6b9832e37633&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español-peruano"
+   ],
+   "state": "Lima Peru",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

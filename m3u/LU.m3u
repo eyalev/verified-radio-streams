@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Luxembourg" tvg-genre="pop,rock",Free Radio Luxembourg FRL
+https://www.radioking.com/play/rfm-luxembourg/137599
+#EXTINF:-1 group-title="Luxembourg" tvg-genre="chillout",Eldo Radio Chill
+https://stream.rtl.lu/live/hls/radio/eldochill
+#EXTINF:-1 group-title="Luxembourg" tvg-genre="classical",FCE-CONTINUO Webradio
+https://www.radioking.com/play/fce-continuo
+#EXTINF:-1 group-title="Luxembourg" tvg-genre="indie",Radio Radijacija
+https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3
+#EXTINF:-1 group-title="Luxembourg",Radio 100komma7
+https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1 group-title="Luxembourg",RTL Gold
+https://shoutcast.rtl.lu/rtlgold
+#EXTINF:-1 group-title="Luxembourg",Braintrip Radio
+https://stream.laut.fm/braintrip-radio
+#EXTINF:-1 group-title="Luxembourg",Radio Gutt Laun
+https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1 group-title="Luxembourg",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Luxembourg",RTL Today
+https://shoutcast.rtl.lu/rtltodayradio
+#EXTINF:-1 group-title="Luxembourg",Radio C Luxembourg
+https://edge01.streamonkey.net/radioc-live

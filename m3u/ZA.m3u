@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="South Africa" tvg-genre="adult-contemporary",Kaya FM
+https://edge.iono.fm/xice/82_medium.aac
+#EXTINF:-1 group-title="South Africa" tvg-genre="top-40",Lekker FM
+https://zas3.ndx.co.za:8002/stream
+#EXTINF:-1 group-title="South Africa" tvg-genre="adult-contemporary,easy-listening,edm",Mix 93.8 FM
+https://edge.iono.fm/xice/113_medium.aac
+#EXTINF:-1 group-title="South Africa" tvg-genre="folk,funk,jazz,latin,reggae,rock,soul",UbuntuFM
+https://streaming.coollective.nl:8443/UbuntuFM
+#EXTINF:-1 group-title="South Africa",JOY GOSPEL RADIO
+https://servidor17.brlogic.com:7012/live
+#EXTINF:-1 group-title="South Africa",Power 98.7
+https://edge.iono.fm/xice/65_medium.aac
+#EXTINF:-1 group-title="South Africa",Jozi FM
+https://edge.iono.fm/xice/51_medium.aac
+#EXTINF:-1 group-title="South Africa",Hot 102.7 FM
+https://edge.iono.fm/xice/57_high.aac
+#EXTINF:-1 group-title="South Africa",East Coast Gold
+https://live.ecr.co.za/ecrgoldhigh.mp3
+#EXTINF:-1 group-title="South Africa",Smile 90.4 FM
+https://edge.iono.fm/xice/212_medium.aac
+#EXTINF:-1 group-title="South Africa",East Coast Radio
+https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono
+#EXTINF:-1 group-title="South Africa",Jozi FM (HiFi aac)
+https://edge.iono.fm/xice/51_high.aac
+#EXTINF:-1 group-title="South Africa",MFM
+https://edge.iono.fm/xice/46_medium.aac
+#EXTINF:-1 group-title="South Africa",Jacaranda FM
+https://live.jacarandafm.com/jacarandahigh.mp3
+#EXTINF:-1 group-title="South Africa",African Praise Radio
+https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
+#EXTINF:-1 group-title="South Africa",Radio Pulpit
+https://edge.iono.fm/xice/189_medium.aac?ref=https%3A%2F%2Fwww.radiopulpit.co.za%2F&adToken=
+#EXTINF:-1 group-title="South Africa",UbuntuFM Africa
+https://streaming.coollective.nl:8443/UbuntuFMafrica
+#EXTINF:-1 group-title="South Africa",CCFM 107.5
+https://edge.iono.fm/xice/69_medium.aac
+#EXTINF:-1 group-title="South Africa",Pep Feel good fm
+https://edge.iono.fm/xice/feelgood_live_high.aac
+#EXTINF:-1 group-title="South Africa",Hot 102.7 FM Club
+https://edge.iono.fm/xice/306_high.aac
+#EXTINF:-1 group-title="South Africa",Cliff Central
+https://edge.iono.fm/xice/cliffcentral_live_medium.aac
+#EXTINF:-1 group-title="South Africa",Radio Rosestad 100.6 FM
+https://edge.iono.fm/xice/122_medium.aac

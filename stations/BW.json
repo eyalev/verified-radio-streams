@@ -1,0 +1,32 @@
+{
+ "countryCode": "BW",
+ "country": "Botswana",
+ "slug": "botswana",
+ "continent": "africa",
+ "stationCount": 1,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/botswana/",
+ "stations": [
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

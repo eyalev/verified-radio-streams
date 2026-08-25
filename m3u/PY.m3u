@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Paraguay" tvg-genre="music,popular",Fabulosa FM 104.5
+https://radio.host.com.py:7034/;
+#EXTINF:-1 group-title="Paraguay" tvg-genre="pop,pop-music,pop-rock",Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Paraguay" tvg-genre="dance,hits,oldies,pop,reggaeton,rock,top-40",Educación FM 99.7
+https://proxy01.servidorenlinea.net/cdehosting/8050/;
+#EXTINF:-1 group-title="Paraguay" tvg-genre="pop",Radio ABC Cardinal 730 AM (Asunción)
+https://media.streambrothers.com:8342/stream
+#EXTINF:-1 group-title="Paraguay" tvg-genre="ambient,jazz,pop",Radio Arasuncion
+https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9
+#EXTINF:-1 group-title="Paraguay",Rock&Pop Paraguay
+https://cp9.serverse.com/proxy/rockandpop/stream
+#EXTINF:-1 group-title="Paraguay",Monumental 1080 AM
+https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio
+#EXTINF:-1 group-title="Paraguay",Radio Concierto 89.1
+https://radio.host.com.py/9572/stream
+#EXTINF:-1 group-title="Paraguay",Radio OBEDIRA Online
+https://s17.ssl-stream.com/proxy/obedira?mp=/live
+#EXTINF:-1 group-title="Paraguay",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Paraguay",super radio
+https://c32.radioboss.fm:8139/stream
+#EXTINF:-1 group-title="Paraguay",Radio Impacto 95.3
+https://radio.host.com.py:7137/;
+#EXTINF:-1 group-title="Paraguay",GO Radio
+https://rds3.desdeparaguay.net:8002/go
+#EXTINF:-1 group-title="Paraguay",Radio 1000 AM
+https://1000noticias.live:8000/radio.mp3

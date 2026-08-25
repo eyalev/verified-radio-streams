@@ -1,0 +1,302 @@
+{
+ "countryCode": "TT",
+ "country": "Trinidad & Tobago",
+ "slug": "trinidad-tobago",
+ "continent": "americas",
+ "stationCount": 18,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/trinidad-tobago/",
+ "stations": [
+  {
+   "id": "isaac-98-1fm",
+   "name": "Isaac 98.1fm",
+   "url": "http://www.isaac981.com/",
+   "stream": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Port of Spain",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 1098,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tambrin",
+   "name": "TAMBRIN",
+   "url": "",
+   "stream": "https://ice42.securenetsystems.net/TAMBRIN",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 312,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "slam-100-5",
+   "name": "Slam 100.5",
+   "url": "https://tbcradionetwork.co.tt/slam1005fm/",
+   "stream": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 156,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sangeet-fm",
+   "name": "Sangeet fm",
+   "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+   "stream": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "woods-hit-radio-ac",
+   "name": "Woods Hit Radio AC",
+   "url": "https://whrfm.webnode.page/",
+   "stream": "https://cast4.asurahosting.com/proxy/nigel/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english",
+    "french",
+    "german"
+   ],
+   "langCodes": [
+    "ar",
+    "de",
+    "en",
+    "es"
+   ],
+   "state": "Petit Valley",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "classic-rock"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "95-1-remix-live",
+   "name": "95.1 Remix live",
+   "url": "https://www.radio-trinidad.com/951-remix",
+   "stream": "https://audio-edge-vqwx4.yyz.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 10,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jo-radio-hd",
+   "name": "JO Radio HD",
+   "url": "https://app-c02qmnhobp4x.appmedo.com/",
+   "stream": "https://medncxfardtsdpzezzsb.supabase.co/functions/v1/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Port of Spain",
+   "genre": [
+    "adult-contemporary",
+    "gospel",
+    "r&b",
+    "reggae"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "95-the-ultimate-one",
+   "name": "95 the ultimate one",
+   "url": "https://tbcradionetwork.co.tt/95theultimateone/",
+   "stream": "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 307,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vibe-ct-port-of-spain",
+   "name": "Vibe CT (Port of Spain)",
+   "url": "https://tbcradionetwork.co.tt/vibect105fm/",
+   "stream": "https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 199,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "boom-94fm",
+   "name": "BOOM 94FM",
+   "url": "https://boomchampionstt.com/",
+   "stream": "https://s8.yesstreaming.net:17103/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 187,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lit-102-3fm",
+   "name": "LIT 102.3FM",
+   "url": "https://lit102fm.com/",
+   "stream": "https://s8.yesstreaming.net:17106/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 116,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "music-radio-97-1-fm",
+   "name": "Music Radio 97.1 FM",
+   "url": "https://www.musicradio97.com/",
+   "stream": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988",
+   "codec": "aac",
+   "bitrate": 32,
+   "state": "Port of Spain",
+   "genre": [],
+   "votes": 65,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bacchanal-radio",
+   "name": "Bacchanal Radio",
+   "url": "https://bacchanal-radio.com/",
+   "stream": "https://c13.radioboss.fm:18470/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 55,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "talk-city-91-1-fm",
+   "name": "Talk City 91.1 FM",
+   "url": "http://www.talkcity91fm.com/",
+   "stream": "https://media.streambrothers.com:8450/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 52,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "scorch-radio-101-1fm",
+   "name": "Scorch Radio 101.1FM",
+   "url": "https://www.thescorch.com/",
+   "stream": "https://stream.velalabs.co/scorch",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vibe-ct-105",
+   "name": "Vibe CT 105",
+   "url": "https://tbcradionetwork.co.tt/vibect105fm/",
+   "stream": "https://audio-edge-vqwx4.yyz.g.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 39,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fully-catholic-radio",
+   "name": "Fully Catholic Radio",
+   "url": "https://www.fullycatholic.com/",
+   "stream": "https://usa10.fastcast4u.com/fullycat2?x=1740578197868",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 24,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",РАДИО ВАНЯ
+https://icecast-radiovanya.cdnvideo.ru/radiovanya
+#EXTINF:-1 group-title="Russia" tvg-genre="dance",DFM RUSSIAN DANCE
+https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
+#EXTINF:-1 group-title="Russia" tvg-genre="ambient,chillout,easy-listening,jazz,lounge,relax",Спокойное радио
+https://listen1.myradio24.com/6262
+#EXTINF:-1 group-title="Russia" tvg-genre="music",Radio record - Main Channel
+https://radiorecord.hostingradio.ru/rr_main96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="rock",Радио Maximum
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,electronic,house,music",Mixadance FM
+https://stream.mixadance.fm/mixadance
+#EXTINF:-1 group-title="Russia" tvg-genre="instrumental,jazz",Instrumental Jazz
+https://jfm1.hostingradio.ru:14536/ijstream.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,pop",HIT FM
+https://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="chillout",Relax FM Chillout
+https://pub0201.101.ru/stream/trust/mp3/128/24?
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Radio Record Megamix
+https://radiorecord.hostingradio.ru/mix96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="pop-music",Пилот FM
+https://online.pilotfm.ru/pilot
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",Дорожное радио НН
+https://dorognoe.hostingradio.ru/dorognoe_acc
+#EXTINF:-1 group-title="Russia" tvg-genre="classic-hits",Радио Монте-Карло
+https://mc-mcgold.hostingradio.ru/mcgold96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="70s,80s,90s",Радио Ностальжи Россия
+https://listen7.myradio24.com/alexx333
+#EXTINF:-1 group-title="Russia" tvg-genre="trance",DFM - Vocal Trance
+https://dfm-trance.hostingradio.ru/trance96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="hits",Радио Шоколад
+https://choco.hostingradio.ru:10010/fm
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",BEST DEEP FM
+https://myradio24.org/5129
+#EXTINF:-1 group-title="Russia" tvg-genre="metal",rockfm.ru heavy
+https://jfm1.hostingradio.ru:14536/metal.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",Radio Record - Russian Gold
+https://radiorecord.hostingradio.ru/russiangold96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="music",Радио МИР
+https://icecast-mirtv.cdnvideo.ru/radio_mir_256
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Radio Record 00's
+https://radiorecord.hostingradio.ru/200096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",Русская Волна
+https://ru2.volna.top/RuWave48
+#EXTINF:-1 group-title="Russia" tvg-genre="blues",Радио Монте Карло - Wonderful Blues
+https://mc-blues.hostingradio.ru/blues96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic,music,pop",Mixadance FM Fitness
+https://stream.mixadance.fm/fitness
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Radio Record Trancehouse
+https://radiorecord.hostingradio.ru/trancehouse96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="music,pop",Спутник ФМ - Уфимская Волна
+https://radio.mediacdn.ru/sputnik_fm.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="80s,rock",Radio Maximum - Heavy 80s
+https://maximum80.hostingradio.ru/max8096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",Милицейская волна НН
+https://radiomv.hostingradio.ru:80/radiomv128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="music",DFM THE PRODIGY
+https://dfm-prodigy.hostingradio.ru/prodigy96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="bossa,jazz,latin,music",Radio Monte Carlo - Bossa Nova
+https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315
+#EXTINF:-1 group-title="Russia" tvg-genre="house",Radio Record Bass House
+https://radiorecord.hostingradio.ru/jackin96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,dance-music",Radio Record - Summer Dance
+https://radiorecord.hostingradio.ru/summerparty96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="disco,house",Radio Record - Disco Funk
+https://radiorecord.hostingradio.ru/discofunk96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="rock",Наше Радио 2.0
+https://nashe1.hostingradio.ru:18000/nashe20-128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Radio Record HQ
+https://air.unmixed.ru/record320
+#EXTINF:-1 group-title="Russia" tvg-genre="classical",101 ru enigmatic
+https://101.ru:8143/?date=201405&hash=1979c180fe0ba452a76f00d8a0f0c452&start=209
+#EXTINF:-1 group-title="Russia" tvg-genre="70s,80s,disco,pop-music",ABBA Radio
+https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788
+#EXTINF:-1 group-title="Russia" tvg-genre="chillout,music,relax,relaxing",Mixadance FM Relax
+https://stream.mixadance.fm/relax#.m4a
+#EXTINF:-1 group-title="Russia" tvg-genre="jazz",Monte Carlo Moscow
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,house",DFM 101.2
+https://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="chillout,electronic,house",M.Deep Radio
+https://deephousex.ru/live
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,house",Made In Russia Dance Radio
+https://listen7.myradio24.com/9083
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",Radio Record - Russian Hits
+https://radiorecord.hostingradio.ru/russianhits96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="classical",Record Chill-Out
+https://radiorecord.hostingradio.ru/chil96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="chillout",Kamchatka Live Chillout
+https://radio.kamchatkalive.ru:8103/chillout
+#EXTINF:-1 group-title="Russia" tvg-genre="house",DFM - Organic House
+https://dfm-organichouse.hostingradio.ru/organichouse96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,house,trance",DFM - Insomnia
+https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Dancefloor Radio
+https://air.broadcastinggroup.ro/Dancefloor_m
+#EXTINF:-1 group-title="Russia" tvg-genre="ambient,chillout",DEEP IN SPACE
+https://stream.drugradio.ru:8020/stream128
+#EXTINF:-1 group-title="Russia" tvg-genre="latin",Радио Монте Карло - Bossa Nova
+https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="trance",DFM Armin van Buuren
+https://dfm.hostingradio.ru/avburren96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,hits,pop",DFM - Party
+https://dfm-party.hostingradio.ru/dfmparty96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="instrumental",Relax FM Instrumental
+https://pub0201.101.ru/stream/pro/aac/64/28?
+#EXTINF:-1 group-title="Russia" tvg-genre="classical",Радио Орфей (Radio Orpheus)
+https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="dance",Super-Radio Remix
+https://listen2.myradio24.com/serz
+#EXTINF:-1 group-title="Russia" tvg-genre="music",DFM REMAKE
+https://dfm-remake.hostingradio.ru/remake96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="music",seva ru
+https://seva.ru/radio/stream
+#EXTINF:-1 group-title="Russia" tvg-genre="jazz,smooth-jazz",Relax FM Smooth Jazz
+https://pub0201.101.ru/stream/trust/mp3/128/31?
+#EXTINF:-1 group-title="Russia" tvg-genre="edm",Radio Record Future Bass
+https://radiorecord.hostingradio.ru/fbass96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,pop",DFM - Pop Dance
+https://dfm-popdance.hostingradio.ru/popdance96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="2000s,dance,music",DFM DANCE GOLD 2000s
+https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="house",DFM - Slap Bass
+https://dfm-slapbass.hostingradio.ru/slapbass96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",L-radio
+https://air.unmixed.ru/lradio256
+#EXTINF:-1 group-title="Russia" tvg-genre="music,pop",DFM POP GOLD 2010s
+https://dfm-popgold10.hostingradio.ru/popgold1096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="rock",101.ru ДДТ
+https://pub0101.101.ru/stream/pro/aac/64/112
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic,house",Radio Record - Nu Dance
+https://radiorecord.hostingradio.ru/nudance96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="rock",rockfm.ru progressive
+https://jfm1.hostingradio.ru:14536/prog.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="techno",Radiorecord.RU /techno
+https://radiorecord.hostingradio.ru/techno96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,house",DFM - Club
+https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="classic-rock,rock",rockfm.ru rock70
+https://jfm1.hostingradio.ru:14536/rock70.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Radio Record Live DJ-sets
+https://radiorecord.hostingradio.ru/livedjsets96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="dance,house",DFM - Dancehall
+https://dfm-dancehall.hostingradio.ru/dancehall96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="music",Радио Монте Карло - Summertime
+https://mc-summertime.hostingradio.ru/summertime96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="music,pop",Хит ФМ Сыктывкар 102.7 FM
+https://cast.severmedia.ru:5443/HIT_11_01
+#EXTINF:-1 group-title="Russia" tvg-genre="jazz",Радио JAZZ 89.1 256kbps
+https://nashe1.hostingradio.ru/jazz-256
+#EXTINF:-1 group-title="Russia" tvg-genre="jazz,pop-music,rock",Нестандарт (aac • 64)
+https://listen.radionestandart.ru:8200/64.aac
+#EXTINF:-1 group-title="Russia" tvg-genre="ambient,relax",DFM - Chill
+https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="metal,rock",Biker FM
+https://listen4.myradio24.com/69846
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Радио Монте Карло - Nights
+https://mc-mcnight.hostingradio.ru/mcnight96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="hits",Pi FM Moskow
+https://cdn.pifm.ru/mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="2000s,music,pop",DFM POP GOLD 2000s
+https://dfm-popgold00.hostingradio.ru/popgold0096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="funk",Радио Монте Карло - Funk Coctail
+https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="classic-rock,pop,pop-music,pop-rock,rock",1000 HITS RADIO
+https://stream.1000hit.ru:8000/stream128
+#EXTINF:-1 group-title="Russia" tvg-genre="70s",Record Radio 70's
+https://radiorecord.hostingradio.ru/197096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="hits",Radio 7 Moscow
+https://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",Ретро FM 80e
+https://retro80.hostingradio.ru:8025/retro80-128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="pop",101.ru Madonna
+https://srv01.gpmradio.ru/stream/pro/aac/64/128
+#EXTINF:-1 group-title="Russia" tvg-genre="music",Радио "Редкие Рыбы" - Rare Fishes radio
+https://listen1.myradio24.com/8317
+#EXTINF:-1 group-title="Russia" tvg-genre="rock",101.ru Scorpions
+https://srv01.gpmradio.ru/stream/pro/aac/64/113
+#EXTINF:-1 group-title="Russia" tvg-genre="blues,jazz,music",Радио Эрмитаж Санкт-Петербург 90.1 FM
+https://hermitage.hostingradio.ru/hermitage128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="90s,dance,music",DFM DANCE GOLD 1990s
+https://dfm-dancegold90.hostingradio.ru/dancegold9096.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="80s,90s,rap",ЯН.ФМ Диско 90х РФ
+https://radio90s.stream.laut.fm/radio90s?t302=2026-08-22_00-38-10&uuid=cf855143-ffb5-4ba6-8313-fa16af1f426f
+#EXTINF:-1 group-title="Russia" tvg-genre="classic-rock,rock",rockfm.ru
+https://nashe1.hostingradio.ru:80/rock-128.mp3
+#EXTINF:-1 group-title="Russia" tvg-genre="music,pop",Радио 7 Нижний Новгород 100.0 FM
+https://online2.gkvr.ru:8000/radio7_nno_64.aac
+#EXTINF:-1 group-title="Russia" tvg-genre="80s,dance,disco",Диско-радио SOVA
+https://evcast.mediacp.eu:1965/stream
+#EXTINF:-1 group-title="Russia" tvg-genre="anime,dance,pop,rap,rock,trance",Radio AnimKLATU
+https://animklatu.stream.laut.fm/animklatu?t302=2026-08-22_03-28-34&uuid=a40653eb-16d1-4b55-8ef3-b0e225694357
+#EXTINF:-1 group-title="Russia" tvg-genre="electronic",Radio Record 2-step
+https://radiorecord.hostingradio.ru/2step96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="house,music",DFM SWEDISH HOUSE MAFIA
+https://dfm-housemafia.hostingradio.ru/housemafia96.aacp
+#EXTINF:-1 group-title="Russia" tvg-genre="kpop,music",DFM K-POP
+https://dfm-kpop.hostingradio.ru/kpop96.aacp
+#EXTINF:-1 group-title="Russia",DFM Дискач 90-х
+https://dfm-disc90.hostingradio.ru/disc9096.aacp
+#EXTINF:-1 group-title="Russia",Radio Record - Russian Mix
+https://radiorecord.hostingradio.ru/rus96.aacp
+#EXTINF:-1 group-title="Russia",Русское Радио
+https://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 group-title="Russia",Вести FM (AAC)
+https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
+#EXTINF:-1 group-title="Russia",Соловьёв FM
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+#EXTINF:-1 group-title="Russia",Комсомольская правда
+https://kpradio.hostingradio.ru:8000/64
+#EXTINF:-1 group-title="Russia",Спутник
+https://icecast-rian.cdnvideo.ru/voicerus
+#EXTINF:-1 group-title="Russia",Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1 group-title="Russia",Русское Радио: Русский Рок
+https://rmg.hostingradio.ru:80/russkijrok96.aacp
+#EXTINF:-1 group-title="Russia",Вести FM
+https://icecast-vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 group-title="Russia",HIP HOP RADIO
+https://tntradio.hostingradio.ru:8027/hhr128.mp3
+#EXTINF:-1 group-title="Russia",Бизнес FM
+https://bfm.hostingradio.ru:9075/fm
+#EXTINF:-1 group-title="Russia",Юмор ФМ
+https://fed.fmplay.ru:8000/humor-32.aac
+#EXTINF:-1 group-title="Russia",Эхо
+https://noasrv.caster.fm:10034/stream
+#EXTINF:-1 group-title="Russia",Маруся ФМ
+https://listen.vdfm.ru:8000/marusya
+#EXTINF:-1 group-title="Russia",Радио Монте Карло
+https://montecarlo.hostingradio.ru/montecarlo128.mp3
+#EXTINF:-1 group-title="Russia",Radio Record Hardstyle
+https://radiorecord.hostingradio.ru/teo96.aacp
+#EXTINF:-1 group-title="Russia",DFM
+https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517
+#EXTINF:-1 group-title="Russia",ДИСКОТЕКА 90-Х
+https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7
+#EXTINF:-1 group-title="Russia",Musical Decadence Radio
+https://stream.musicaldecadence.ru/live
+#EXTINF:-1 group-title="Russia",Enigmatic Station
+https://listen2.myradio24.com/8226
+#EXTINF:-1 group-title="Russia",Коммерсантъ FM 93.6
+https://kommersant77.hostingradio.ru:8085/kommersant128.mp3
+#EXTINF:-1 group-title="Russia",Radio Maximum - Metallica
+https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:-1 group-title="Russia",Radio Record BREAKS AAC
+https://radiorecord.hostingradio.ru/brks96.aacp
+#EXTINF:-1 group-title="Russia",Deep One
+https://stream.deep1.ru/deep1mp3
+#EXTINF:-1 group-title="Russia",Питер FM (Piter FM)
+https://icecast-piterfm.cdnvideo.ru/piterfm
+#EXTINF:-1 group-title="Russia",Радио Sputnik (Россия) 256 кбит/с
+https://icecast-rian.cdnvideo.ru/voicerushi
+#EXTINF:-1 group-title="Russia",Sputnik News Belarussian
+https://nfw.ria.ru/flv/audio.aspx?ID=68862011&amp;type=mp3
+#EXTINF:-1 group-title="Russia",Radio Maximum - Rammstein
+https://maximum-rammstein.hostingradio.ru/rammstein96.aacp
+#EXTINF:-1 group-title="Russia",Relax FM Nature
+https://pub0101.101.ru/stream/trust/mp3/128/263
+#EXTINF:-1 group-title="Russia",Дядя Ваня на даче (18+)
+https://ic1.radiosignal.one/vanya-mp3
+#EXTINF:-1 group-title="Russia",BigTunesRadio - House
+https://bigtunesradio.com:8003/house.mp3?1712236225331
+#EXTINF:-1 group-title="Russia",Radio Record VIP House
+https://radiorecord.hostingradio.ru/vip96.aacp
+#EXTINF:-1 group-title="Russia",DFM - Tech House
+https://dfm-techhouse.hostingradio.ru/techhouse96.aacp
+#EXTINF:-1 group-title="Russia",RCM DEEP
+https://relay.radiotoolkit.com/rcmdeep
+#EXTINF:-1 group-title="Russia",Record Trance Classics
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1 group-title="Russia",DFM Trap
+https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
+#EXTINF:-1 group-title="Russia",DNB FM
+https://air.dnbfm.ru/listen/player/play
+#EXTINF:-1 group-title="Russia",Record Trancemission
+https://radiorecord.hostingradio.ru/tm96.aacp
+#EXTINF:-1 group-title="Russia",Radio Maximum - Depeche Mode
+https://depechemode.hostingradio.ru/depechemode96.aacp
+#EXTINF:-1 group-title="Russia",Monte Carlo Gold Collection
+https://montecarlo.hostingradio.ru/mcgold96.aacp
+#EXTINF:-1 group-title="Russia",Radio Record Chill House
+https://radiorecord.hostingradio.ru/organic96.aacp
+#EXTINF:-1 group-title="Russia",Radio Record Liquid Funk
+https://radiorecord.hostingradio.ru/liquidfunk96.aacp
+#EXTINF:-1 group-title="Russia",Радио 7 на семи холмах - Настроение счастья
+https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp
+#EXTINF:-1 group-title="Russia",Радио Монте Карло - Meditation
+https://mc-meditation.hostingradio.ru/meditation96.aacp
+#EXTINF:-1 group-title="Russia",Radio Record Electro
+https://radiorecord.hostingradio.ru/elect96.aacp
+#EXTINF:-1 group-title="Russia",BigTunesRadio - Trance
+https://bigtunesradio.com:8003/trance.mp3?1712236520795
+#EXTINF:-1 group-title="Russia",Радио Монте Карло - Covers
+https://mc-covers.hostingradio.ru/mccovers96.aacp
+#EXTINF:-1 group-title="Russia",ретро фм 96.4 FM
+https://online2.gkvr.ru:8001/retro_che_64.aac
+#EXTINF:-1 group-title="Russia",record rock
+https://radiorecord.hostingradio.ru/rock96.aacp

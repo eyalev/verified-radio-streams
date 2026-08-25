@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="Estonia" tvg-genre="rock",Rock FM
+https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186
+#EXTINF:-1 group-title="Estonia" tvg-genre="dance,electronic",Sky Plus DnB
+https://edge03.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1 group-title="Estonia" tvg-genre="90s,pop",Võmba FM
+https://c4.radioboss.fm:18123/stream
+#EXTINF:-1 group-title="Estonia" tvg-genre="jazz,smooth-jazz",Relax cafe
+https://stream.relaxfm.ee/cafe
+#EXTINF:-1 group-title="Estonia" tvg-genre="dance,edm",NRJ Tallinn
+https://edge03.cdn.bitflip.ee:8888/NRJ
+#EXTINF:-1 group-title="Estonia" tvg-genre="dance",NRJ
+https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb
+#EXTINF:-1 group-title="Estonia" tvg-genre="dance",Duo Party
+https://le302.euddn.net/0817876152200be138b018e5c1864161a6a619c5fb179de4208c323a637d78c86a584f803835973a6f1eb456c14c6c06a5b51497a1e98102b1aa32707e57629a282dc7bc7823cc85b9e6b4af2f18c49a10e7ac19cb5d90ca1836c12a5f65039d6d534c064cc507174bb8b7db8ce63123d8951eaaa9022981608c803b51e9cba3e32bd95e573932c978b5b8d66609d129438e16a413efe22b9212c5662ce1f6353b77fb38a7b002ab7df55c0917068f46/duodance.aac
+#EXTINF:-1 group-title="Estonia" tvg-genre="classical,jazz",KlaRa Nostalgia
+https://icecast.err.ee/klaranostalgia.mp3
+#EXTINF:-1 group-title="Estonia" tvg-genre="classical",KlaRa Klassika
+https://icecast.err.ee/klaraklassika.mp3
+#EXTINF:-1 group-title="Estonia" tvg-genre="jazz",KlaRa Jazz
+https://icecast.err.ee/klarajazz.mp3
+#EXTINF:-1 group-title="Estonia" tvg-genre="80s,90s,top-40",Star FM Eesti
+https://ice.leviracloud.eu/starFMEesti96-aac
+#EXTINF:-1 group-title="Estonia" tvg-genre="pop",Raadio Duo
+https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac
+#EXTINF:-1 group-title="Estonia" tvg-genre="pop",R2 Eesti
+https://icecast.err.ee/r2eestikorge.mp3
+#EXTINF:-1 group-title="Estonia" tvg-genre="rap",R2p
+https://icecast.err.ee/r2p.opus
+#EXTINF:-1 group-title="Estonia" tvg-genre="80s,disco,oldies,pop",Retro Love
+https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud
+#EXTINF:-1 group-title="Estonia" tvg-genre="pop",Star FM
+https://ice.leviracloud.eu/star320-mp3
+#EXTINF:-1 group-title="Estonia" tvg-genre="oldies",Radio Nostalgia
+https://c16.radioboss.fm:8327/stream
+#EXTINF:-1 group-title="Estonia" tvg-genre="pop-music",Retro fm disco
+https://edge05.cdn.bitflip.ee:8888/retro1.mp3?
+#EXTINF:-1 group-title="Estonia" tvg-genre="oldies",Duo Gold (Estonia)
+https://le303.euddn.net/157f20679a230333bb3c91ce06e53c384c5768f4c2ac103c401406e8229c75de658c50989dc01872d2c5c8e881e0c3be91eac0911f2220209f29d06eb091604dcfa56e87e83fb1692f93637cae727aae405ac55f8f2a300260aec8459df65d3425e6f6af7ac34d366c8ed0fa7f5ccd80d1c5d7abfe6e7e53dcf7e97c4b6ef2fa59a1deb77329ead8f15c718bdb228cd064864afff28760f726886a919e37f0dd4388e90cdc5a975196ec446aef28fff1/kuld.aac
+#EXTINF:-1 group-title="Estonia" tvg-genre="hip-hop,rap",Legendaarne Raadio
+https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92
+#EXTINF:-1 group-title="Estonia" tvg-genre="metal",Rock-FM Metal
+https://edge04.cdn.bitflip.ee:8888/rckmetal
+#EXTINF:-1 group-title="Estonia" tvg-genre="dance,electronic,house,techno",PCR.fm (Parnu Club Radio)
+https://pcrfm.radiocult.fm/stream
+#EXTINF:-1 group-title="Estonia" tvg-genre="pop,rock",Radio Olematu
+https://radio.olematu.ee/listen/radio_olematu/radio.mp3
+#EXTINF:-1 group-title="Estonia" tvg-genre="pop-music",Super радио
+https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=b2d6fa6f
+#EXTINF:-1 group-title="Estonia",FinEst Radio
+https://shoutcast.finestfm.fi/stream/1/:80/;stream
+#EXTINF:-1 group-title="Estonia",Raadio Kuku
+https://le304.euddn.net/5c6c53fbcb1d0df2dd70ce88b8d80e717cdea9e8625bc04bb09364beb33dd841db5ee5d630130d07e3bb770384a6d48eca55556566cac9ffe5fb407e86c68fbdcd26616e26732de4a15fa322455ee9c08fb973be8ccb720b7b2baec63366fd6cd5635ab028a63612c74a5f3ec9e2e9b6cee93046812fe34eb564e2033be49194dd5b2ef71b718ceb7857b30dcf0416435ce7789ca175ec43c41714ba1b57c71b8172dafdcaa3dd14c6e9ba8d031286c0/kuku_high.mp3
+#EXTINF:-1 group-title="Estonia",Star Fm
+https://ice.leviracloud.eu/star96-aac
+#EXTINF:-1 group-title="Estonia",Raadio Elmar
+https://le304.euddn.net/5e7d692f215b09f5b70db579a02852361cc3ada4b2b826d334cf19171453f9626eeeaab259f6779c11974f58ce46a1e31ac6a587a34e5478d9cfad8f62defeb9701a275bb872287077fb3d16321c6af38e45128de28217103a3822b3197d7f2490c098a524dc15c3664b9f6efd87952713169be86f2039f8e62d94328666ba92744a321557882375d8c194572774e19019d4fc496026d56cf1bb7d58a335da5f036c6f10f3996ea57f6c008d494505fa/elmar.aac
+#EXTINF:-1 group-title="Estonia",Sky Plus
+https://stream.skymedia.ee/live/SKYPLUS
+#EXTINF:-1 group-title="Estonia",Retro FM Estonia
+https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b
+#EXTINF:-1 group-title="Estonia",Raadio Relax International
+https://stream.relaxfm.ee/international
+#EXTINF:-1 group-title="Estonia",Raadio Relax FM
+https://stream.relaxfm.ee/relax
+#EXTINF:-1 group-title="Estonia",Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1 group-title="Estonia",Tre Raadio Ring FM
+https://cdn.treraadio.ee/ringfm
+#EXTINF:-1 group-title="Estonia",Äripäeva Raadio
+https://www.aripaev.ee/raadio/stream.mp3
+#EXTINF:-1 group-title="Estonia",Sky-Radio
+https://stream.skymedia.ee/live/SKY
+#EXTINF:-1 group-title="Estonia",Power Hit Radio
+https://ice.leviracloud.eu/phr96-aac?
+#EXTINF:-1 group-title="Estonia",Hitmix Estonia
+https://stream.hitmix.ee:8443/HIT_320
+#EXTINF:-1 group-title="Estonia",Kiss FM
+https://edge02.cdn.bitflip.ee:8888/KISS
+#EXTINF:-1 group-title="Estonia",IDA Raadio - Tallinn
+https://broadcast.idaidaida.net:8000/stream
+#EXTINF:-1 group-title="Estonia",Raadio Kadi
+https://edge06.cdn.bitflip.ee:8888/kadi
+#EXTINF:-1 group-title="Estonia",Raadio Kidzone
+https://le302.euddn.net/8ff0258b29a5c286365c6c8f11cee9dc0f4a61aee5f3904e42e053e9c4f4464ff3adf5418a992eba4c33dc78960c6042446f8d127253ec19b8ccf12818652e9864c05a15d2b5d973311fb7e2bb2e1c23c8730f091160e915223774aef65845459e10d62638d3a48e74d24d598c12dfb693c367cb99ee6cb70bfc8bb5543fbde3d81064403ca7e4653d75542d558e9651cf801dabccb78c161d7c8f999b8cc86743ac2e573b4dbc4777d1821ffe66f362/kidzone.aac
+#EXTINF:-1 group-title="Estonia",Taifuun FM
+https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream
+#EXTINF:-1 group-title="Estonia",Radio Azathoth Revival
+https://cast4.asurahosting.com/proxy/aadu/stream
+#EXTINF:-1 group-title="Estonia",Elmari Kuld
+https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac
+#EXTINF:-1 group-title="Estonia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Estonia",RUUT FM
+https://a1.asurahosting.com/listen/ruut_fm/radio.mp3
+#EXTINF:-1 group-title="Estonia",HITS RADIO ESTONIA
+https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3
+#EXTINF:-1 group-title="Estonia",HPS Bassline
+https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3
+#EXTINF:-1 group-title="Estonia",Jumor FM Estonia
+https://a10.asurahosting.com:7640/radio.mp3

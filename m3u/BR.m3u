@@ -1,0 +1,319 @@
+#EXTM3U
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-hits",Rádio Saudade FM 99.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="jazz,mpb",Bossa Jazz Brasil
+https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock,romantic",Bons Tempos FM
+https://server02.ouvir.radio.br:8050/stream?1609720768800
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",89 A Radio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="jazz,smooth-jazz",Smooth Jazz Lounge
+https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,pop-rock",Radio Mix FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="hits,pop,popular",Clube FM 99.1
+https://radio.saopaulo01.com.br:10913/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="reggae",Radio Reggae Brasil
+https://casthttps.suaradionanet.net/13805/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="jazz,smooth-jazz",Tropical Smooth Jazz
+https://servidor32-3.brlogic.com:8230/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",MGT GOSPEL
+https://cast.mgtradio.net/radio/8040/aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="instrumental",Rádio Máquina Instrumental
+https://servidor29-2.brlogic.com:8578/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="classical",Radio Motel
+https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="lounge",Groove Wave Lounge
+https://stm1.srvif.com:7576/;
+#EXTINF:-1 group-title="Brazil" tvg-genre="musica",Radio Energia 97 FM
+https://streaming.inweb.com.br/energia
+#EXTINF:-1 group-title="Brazil" tvg-genre="country,sertanejo",Sertaneja 106.7
+https://sc4s.cdn.upx.com:8067/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="dance,pop,pop-rock,top-40",Jovem Pan FM - Florianópolis - SC
+https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="romantic",Rádio I Love anos 80's
+https://shit-is-merda.stream.laut.fm/shit-is-merda
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Melodia FM 97.5
+https://server01.ouvir.radio.br:8033/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="80s",MGT ANOS 80
+https://cast.mgtradio.net/radio/8100/aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="popular",Rádio Globo 98.1 FM
+https://29326.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop-rock",Mix FM - Porto Alegre
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",MGT SERTANEJO UNIVERSITÁRIO
+https://cast.mgtradio.net/radio/8020/aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Hunter FM - Hits Brasil
+https://live.hunter.fm/hitsbrasil_normal
+#EXTINF:-1 group-title="Brazil" tvg-genre="70s,oldies",Gold Web 32kb
+https://centova.svdns.com.br:19418/stream1
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Rádio Café Viola
+https://stm6.xcast.com.br:9328/;?1685284162874
+#EXTINF:-1 group-title="Brazil" tvg-genre="funk,pagode,pop,samba,sertanejo",BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)
+https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Alpha MPB
+https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHAMPBAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="dance,edm,electronic,techno,trance",Rádio Dance Music Anos 2000
+https://cloud1.cdnseguro.com:2190/;
+#EXTINF:-1 group-title="Brazil" tvg-genre="90s,pop,rock",Radio Jovem Pan 99.1 FM Belo Horizonte
+https://8062.brasilstream.com.br//stream?origem=jovem_pan_site
+#EXTINF:-1 group-title="Brazil" tvg-genre="popular",Rádio FM O Dia 99.7 FM
+https://wz7.servidoresbrasil.com:8274/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="90s,dance",Radio Energia Dance
+https://s05.w3bserver.com:20025/;
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",89FM Radio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock,pop-rock,rock",89 Goiânia
+https://ice.fabricahost.com.br/89aradiorockgo
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Metropolitana MPB São Paulo
+https://ice.fabricahost.com.br/metropolitanampb
+#EXTINF:-1 group-title="Brazil" tvg-genre="popular",Rádio Comunitária Aconchego
+https://fm.radioaconchego.org
+#EXTINF:-1 group-title="Brazil" tvg-genre="hits",MGT LOVE HITS
+https://cast.mgtradio.net/radio/8010/aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="instrumental",instrumentales
+https://protvradiostream.com:8350/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",Radio Maquina no Rock
+https://servidor20-4.brlogic.com:8582/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Radio Liberdade 92.9 (Belo Horizonte - MG)
+https://8335.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock",Radio Putzgrila
+https://stream.ouveai.com.br/proxy/putzgrila?mp=/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pagode",Hunter FM - Pagode
+https://live.hunter.fm/pagode_normal
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,pop-rock,top-40",Jovem Pan FM - Brasília - DF - 106.3
+https://shout25.crossradio.com.br:18022/1
+#EXTINF:-1 group-title="Brazil" tvg-genre="adult-contemporary,classic-hits",GFM Salvador Bahia FM 90.1
+https://ice.fabricahost.com.br/radiogfm
+#EXTINF:-1 group-title="Brazil" tvg-genre="country,sertanejo",Conquista FM 97,7 Sertaneja
+https://rrdns-megasistema.webnow.com.br/conquista.mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop-music,pop-rock,sertanejo",Massa FM 101,1 (Ponta Grossa - PR)
+https://stm01.virtualcast.com.br:8160/massapontagrossa
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,pop-rock,top-40",Jovem Pan FM - Salvador - BA - 91.3
+https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:18022/1
+#EXTINF:-1 group-title="Brazil" tvg-genre="pagode",Piatã FM
+https://streaming.livespanel.com:9430/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Nova Brasil RJ 89.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,rock",Jovem Pan FM Campinas - 89.9
+https://paineldj5.com.br:20028/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="music",Massa FM São Paulo
+https://stm01.virtualcast.com.br:8000/massasaopaulo
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",Rockett 97,7
+https://8817.brasilstream.com.br/stream?cc=1645359200316
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Rádio BBN 92.3 FM
+https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel,instrumental",Rádio Teomidia Instrumental
+https://usa3.fastcast4u.com/proxy/teomidiainstr?mp=/1
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Rádio São Francisco Anápolis - 97.7FM
+https://cast.hoost.com.br:20150/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="classical",Itapema FM Floreanopolis
+https://27393.live.streamtheworld.com:443/ITA_FLO.mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",R.VALE VERDE FM 96,66
+https://ice.fabricahost.com.br/valeverdefm
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,rock",107 FM Tatuí
+https://f108.fabricahost.com.br/107fm?f=1787352719N01M0K8C84MSTV2D3Z1X9E8VYR0&tid=01M0K8C84M507PABEHMG7GZ8ZW
+#EXTINF:-1 group-title="Brazil" tvg-genre="dance",Rádio Furacão 2000
+https://servidor24-1.brlogic.com:7516/live?source=website
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop-rock",Sonora FM - Farroupilha
+https://casthttps1.suaradionanet.net/10318/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="music",Rádio PT
+https://s39.maxcast.com.br:8072/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock",Dixie Rebel
+https://servidor36.brlogic.com:8572/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Minas FM 104,1 MHz (Divinópolis - MG)
+https://minasfmaac.jmvstream.com/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",musical fm 2
+https://9176.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="classical,jazz",Radio Nova Instrumental
+https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="80s,90s",Torres FM 101,1
+https://cast4.audiostream.com.br:2661/mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Brahma FM
+https://casthttps1.suaradionanet.net/13385/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pagode,samba",Eldorado FM
+https://cast4.audiostream.com.br:2652/mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Rádio União FM 104,9 Mauriti
+https://servidor35-2.brlogic.com:7030/live?1599145118524
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock",Rádio Bla Rock
+https://s12.maxcast.com.br:8086/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",Rádio Liderança FM
+https://webradio.amsolution.com.br/radio/8320/lideranca
+#EXTINF:-1 group-title="Brazil" tvg-genre="popular",Rádio CBN Vale 750 AM
+https://8018.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="blues,classic-rock,pop,rock",Morena FM 98
+https://ssl1.transmissaodigital.com:2692/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Rádio Super
+https://servidor32.brlogic.com:8200/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="adult-contemporary,gospel",Atos FM
+https://s.bul.tec.br:8020/128
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",RTM Brasil
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",Kiss FM - 92.5 - São Paulo
+https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Radio Advento - Londrina
+https://9121.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="2000s,80s,90s",GOLD WEB RADIO (224kbps/mp3)
+https://centova.svdns.com.br:19418/stream2
+#EXTINF:-1 group-title="Brazil" tvg-genre="dance,pop,pop-rock,top-40",Jovem Pan FM - Blumenau - SC
+https://f100.fabricahost.com.br/jpblumenau?f=1787323274N01M0JC9N5G805DATVNQQJTG9PW&tid=01M0JC9N5G2NGP04KE2RZHN1J5
+#EXTINF:-1 group-title="Brazil" tvg-genre="dance,pop",Rádio Educadora 91.7 FM
+https://stm22.xcast.com.br:11282/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="classical",.Quran
+https://backup.qurango.net/radio/ahmad_khader_altarabulsi
+#EXTINF:-1 group-title="Brazil" tvg-genre="musica",99,5 FM Goiânia GO
+https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",Radio Ilha FM 107,1
+https://casthttps.suaradionanet.net/13325/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="samba,sertanejo",Clube FM 96,5 MHz ZYC692 (Belo Horizonte - MG)
+https://8112.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,pop-rock,top-40",Jovem Pan FM - Manaus - AM - 104.1
+https://directradios.net/proxy/jpmaceio?mp=/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Manchester FM 93.3
+https://ssl1.transmissaodigital.com:20440/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="adult-contemporary",Tribuna soft FM 90,1
+https://ice.fabricahost.com.br/tribunafm
+#EXTINF:-1 group-title="Brazil" tvg-genre="pagode",Rádio Itapoan FM 97.5
+https://cast.radiu.live:9300/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="metal,rock",Metal Heads
+https://hts01.brascast.com:9194/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock,rock",Rádio Studio Souto - The Beatles (AAC+)
+https://centova5.transmissaodigital.com:20001/;
+#EXTINF:-1 group-title="Brazil" tvg-genre="classical",Radio Vocall
+https://servidor24-1.brlogic.com:7096/live?source=
+#EXTINF:-1 group-title="Brazil" tvg-genre="musica",cbn salvador 100.7 - link 2
+https://sv1.audiostream.com.br/radio/8030/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Novabrasil FM Fortaleza, CE
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="country",Rádio Nevasca FM 104.1
+https://cast2.youngtech.radio.br/radio/8110/radio
+#EXTINF:-1 group-title="Brazil" tvg-genre="easy-listening",Hunter FM - Master
+https://live.hunter.fm/master_normal
+#EXTINF:-1 group-title="Brazil" tvg-genre="country",MGT COUNTRY
+https://cast.mgtradio.net/radio/8110/aac
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop-rock",Rádio 96 FM
+https://cast4.hoost.com.br:20079/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",Mundo Livre FM Londrina 93,1
+https://rrdns-continental.webnow.com.br/mllondrina.mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",Radio Paiquerê
+https://ice.fabricahost.com.br/paiquere917
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",FM Vale Verde
+https://f108.fabricahost.com.br/fmvaleverde?f=1787363181N01M0KJBGEA2MW8RZ0D1SNJQJXA&tid=01M0KJBGEA25HY8T0M5FP3122K
+#EXTINF:-1 group-title="Brazil" tvg-genre="adult-contemporary",Alpha FM 90.1 Curitiba p PR
+https://radio901.webnimbus.cloud/radioalpha/icecast.audio
+#EXTINF:-1 group-title="Brazil" tvg-genre="pagode,popular,samba,sertanejo",Rádio Band 106.7 FM
+https://stm2.xcast.com.br:11264/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="classical",morcegaoBr
+https://radio.morcegaofm.com.br/morcegao128
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Radio Grande FM
+https://stm21.srvaudio.com.br:9634/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",Ilha do Mel FM
+https://str1.streamhostpg.com.br:8002/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="music",Rádio Brazil Imperial
+https://hts03.brascast.com:8430/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Super Rede Boa Vontade 1230 AM
+https://9000.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Rádio Band Vale 102.9 FM
+https://centova5.transmissaodigital.com:20061/;
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Rádio Sertaneja
+https://stm5.painelcast.com:7584/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Rádio Shekinah Só Louvor
+https://player.voxpainel.com.br/proxy/7076
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",Santa Bárbara FM 95,9
+https://servidor36-4.brlogic.com:8474/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",FM Liberdade 101,1
+https://8148.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="adult-contemporary,classic-rock,pop,rock",Morena FM /Rio
+https://centova5.transmissaodigital.com:20005/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="instrumental,mpb",Web Rádio NelSons
+https://stm4.srvstm.com:9716/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Apenas Marchinha
+https://server02.ouvir.radio.br:8003/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,sertanejo",97 FM Natal
+https://azevedo.jmvstream.com/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop-rock",Rádio Atlântida FM Florianópolis
+https://27393.live.streamtheworld.com:443/ATL_FLO.mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="funk,pagode,pop,sertanejo",Sucesso FM 88,3
+https://servidor36.brlogic.com:8300/live?1696916321806
+#EXTINF:-1 group-title="Brazil" tvg-genre="mpb",Rádio JB FM 99.9
+https://26573.live.streamtheworld.com/JBFMAAC.aac?1771934687401
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",Rádio Rapadura Rock Web
+https://stm35.srvstm.com:6806/;?type=http&amp;nocache=1
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Rádio Teomidia
+https://usa3.fastcast4u.com/proxy/teomidiaradio?mp=/1
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Supersom FM 97.1 MHz ZYC813 (Uberaba - MG)
+https://9790.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock,rock",Terra FM 99.9 MHz ZYC730 (Belo Horizonte - MG)
+https://servidor28-2.brlogic.com:8424/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop",Nossa FM 105,9
+https://audiostream.i9suaradio.com:1195/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Bíblia em Áudio Rádio Web
+https://stm3.voxhd.com.br:8062/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="80s,90s,alternative,classic-hits,dance,electronic,folk,indie,jazz,lounge,mpb,pop,pop-rock,r&b,rock,soul",Conecta FM - Marília
+https://paineldj.com.br:20184/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="rock",Limeira FM
+https://centova.svdns.com.br:20050/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="blues,classic-rock,rock",Rádio LAM
+https://stream1.svrdedicado.org/8028/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="music",mkkweb radio
+https://servidor34-1.brlogic.com:8096/live?source=site
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop,rock",Novos Horizontes FM
+https://paineldj5.com.br:20013/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="pop-rock,sertanejo",Rádio Disney 91.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3
+#EXTINF:-1 group-title="Brazil" tvg-genre="musica",Rádio Notícia 88,9 FM Americana SP
+https://stm24.xcast.com.br:11928/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="gospel",Rede 3.16
+https://servidor21.brlogic.com:7976/live?1661877997950
+#EXTINF:-1 group-title="Brazil" tvg-genre="sertanejo",Studio FM 99.1
+https://paineldj.com.br:20055/stream
+#EXTINF:-1 group-title="Brazil" tvg-genre="music",Ternura FM
+https://f108.fabricahost.com.br/ternurafm?f=1787350331N01M0K63CE2AA783CJTEVDY4E36&tid=01M0K63CE2Z1SKZ119AQQ6G0A0
+#EXTINF:-1 group-title="Brazil" tvg-genre="classic-rock,rock",Rádio HT
+https://servidor39.brlogic.com:8624/live
+#EXTINF:-1 group-title="Brazil" tvg-genre="hits,pop",Radio Jandaia
+https://euroticast.com/play.php?play=8444&player=winamp
+#EXTINF:-1 group-title="Brazil" tvg-genre="music",Rádio Joinville Cultural FM
+https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio
+#EXTINF:-1 group-title="Brazil" tvg-genre="hip-hop",Phonkio Radio | OG Phonk in HQ 24/7
+https://stream.phonkioradio.com/listen/phonkio_radio/radio.mp3
+#EXTINF:-1 group-title="Brazil",Super Radio Tupi 96.5
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil",Rádio Grenal
+https://grenal.audiostream.com.br:20000/aac
+#EXTINF:-1 group-title="Brazil",CBN São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
+#EXTINF:-1 group-title="Brazil",Rádio MGT Sertanejo
+https://cast.mgtradio.net/radio/8000/aac
+#EXTINF:-1 group-title="Brazil",Alpha FM 101.7 MHz (São Paulo - SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
+#EXTINF:-1 group-title="Brazil",Fita Cassete
+https://server01.ouvir.radio.br:8018/stream
+#EXTINF:-1 group-title="Brazil",GOLD INSTRUMENTAL
+https://centova.svdns.com.br:19373/stream1
+#EXTINF:-1 group-title="Brazil",Rádio Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1 group-title="Brazil",Rádio Metropolitana 98.5 FM Sertanejo
+https://ice.fabricahost.com.br/metrospsertanejo
+#EXTINF:-1 group-title="Brazil",Rádio Itatiaia 95.7 FM
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1 group-title="Brazil",Nova Brasil Fm São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:-1 group-title="Brazil",JB FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
+#EXTINF:-1 group-title="Brazil",Antena 1 - Porto Alegre
+https://antenaone.crossradio.com.br/stream/1
+#EXTINF:-1 group-title="Brazil",Rádio Antena 1 94.7 FM
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:-1 group-title="Brazil",MGT FORRÓ
+https://cast.mgtradio.net/radio/8050/aac
+#EXTINF:-1 group-title="Brazil",Rádio Stereo Mix
+https://servidor24.brlogic.com:7134/live
+#EXTINF:-1 group-title="Brazil",Rádio Mix FM 88,9 MHz (Juiz de Fora - MG)
+https://stream02.ouveai.com.br/8034/stream
+#EXTINF:-1 group-title="Brazil",Brasil de Fato
+https://s09.hstbr.net:8238/live?1514038524061
+#EXTINF:-1 group-title="Brazil",Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz
+https://8062.brasilstream.com.br/stream?origem=task_site

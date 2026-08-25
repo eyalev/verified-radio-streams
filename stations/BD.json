@@ -1,0 +1,149 @@
+{
+ "countryCode": "BD",
+ "country": "Bangladesh",
+ "slug": "bangladesh",
+ "continent": "asia",
+ "stationCount": 8,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/bangladesh/",
+ "stations": [
+  {
+   "id": "mellow-bangla",
+   "name": "Mellow Bangla",
+   "url": "https://www.mellowbangla.com/",
+   "stream": "https://radio.mellowbangla.com/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bengali",
+    "english",
+    "hindi"
+   ],
+   "langCodes": [
+    "bn",
+    "en",
+    "hi"
+   ],
+   "genre": [
+    "folk",
+    "romantic"
+   ],
+   "votes": 376,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "a2z-radio",
+   "name": "A2Z RADIO",
+   "url": "https://www.liveonlineradio.net/bangla/a2z-radio.htm",
+   "stream": "https://listen.radioking.com/radio/1743/stream/125",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bengali"
+   ],
+   "langCodes": [
+    "bn"
+   ],
+   "genre": [],
+   "votes": 9923,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "peoples-radio-91-6-fm",
+   "name": "Peoples Radio 91.6 FM",
+   "url": "https://peoplesradio.fm/",
+   "stream": "https://s3.myradiostream.com:14498/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 4373,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-goongoon",
+   "name": "Radio GoonGoon",
+   "url": "https://radiogoongoon.com/",
+   "stream": "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "bangla",
+    "bengali"
+   ],
+   "langCodes": [
+    "bn"
+   ],
+   "genre": [],
+   "votes": 3759,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "s-radio",
+   "name": "S-Radio",
+   "url": "https://www.shibirradio.com/",
+   "stream": "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1776,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "muhammad-siddiq-al-minshawi",
+   "name": "Muhammad Siddiq al-Minshawi",
+   "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
+   "stream": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 803,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 753,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "universal-health-radio",
+   "name": "Universal Health Radio (বাংলা)",
+   "url": "https://universalhealthradio.org/",
+   "stream": "https://radio.universalhealthradio.org/uhr-bn.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "bengali"
+   ],
+   "langCodes": [
+    "bn"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  }
+ ]
+}

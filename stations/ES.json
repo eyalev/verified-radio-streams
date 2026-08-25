@@ -1,0 +1,3199 @@
+{
+ "countryCode": "ES",
+ "country": "Spain",
+ "slug": "spain",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/spain/",
+ "stations": [
+  {
+   "id": "los-40-principales-espana",
+   "name": "LOS 40 Principales España",
+   "url": "https://los40.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Spain",
+   "genre": [
+    "music",
+    "pop",
+    "top-40"
+   ],
+   "votes": 33846,
+   "clicks": 201,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80-exitos",
+   "name": "_80 EXITOS",
+   "url": "https://musica80.radioclub.es/",
+   "stream": "https://80sexitos.stream.laut.fm/80sexitos",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "dance",
+    "disco"
+   ],
+   "votes": 19756,
+   "clicks": 51,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los-40-urban",
+   "name": "Los 40 Urban",
+   "url": "https://los40.com/seccion/los40urban/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "dance",
+    "music",
+    "pop"
+   ],
+   "votes": 17037,
+   "clicks": 45,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pure-ibiza-radio",
+   "name": "Pure Ibiza Radio",
+   "url": "https://www.pureibizaradio.com/",
+   "stream": "https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 12934,
+   "clicks": 39,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-marca",
+   "name": "Radio Marca",
+   "url": "",
+   "stream": "https://sonic.mediatelekom.net/9316/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 11968,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cafe-del-mar",
+   "name": "Café del Mar",
+   "url": "https://cafedelmar.com/radio/",
+   "stream": "https://streams.radio.co/se1a320b47/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Ibiza",
+   "genre": [
+    "chillout",
+    "lounge"
+   ],
+   "votes": 8607,
+   "clicks": 79,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40-classic",
+   "name": "LOS40 Classic",
+   "url": "https://play.los40.com/emisora/los40_classic/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 7991,
+   "clicks": 69,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm",
+   "name": "KISS FM",
+   "url": "https://www.kissfm.es/",
+   "stream": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "music",
+    "musica",
+    "pop-music"
+   ],
+   "votes": 4473,
+   "clicks": 148,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "perfect-deep-house",
+   "name": "Perfect Deep House",
+   "url": "https://perfect-radio.com/perfect-deephouse.html",
+   "stream": "https://stream.radiojar.com/asngk2sg798uv?1659885393",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german",
+    "spanish"
+   ],
+   "langCodes": [
+    "de",
+    "es"
+   ],
+   "state": "Palma de Mallorca",
+   "genre": [
+    "house"
+   ],
+   "votes": 3467,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "remember-the-music-fm-96-6",
+   "name": "Remember the music FM 96.6",
+   "url": "https://rememberthemusicfm.com/",
+   "stream": "https://eu1.lhdserver.es:9041/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "catalan",
+    "spanish"
+   ],
+   "langCodes": [
+    "ca",
+    "es"
+   ],
+   "state": "Valencia",
+   "genre": [
+    "80s",
+    "90s",
+    "electronica"
+   ],
+   "votes": 1974,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-planeta-costa-del-sol",
+   "name": "Radio Planeta Costa del Sol",
+   "url": "https://www.radioplaneta.com/",
+   "stream": "https://radioplaneta.emitironline.com/radio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "r&b"
+   ],
+   "votes": 1697,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "costa-del-mar-smooth-jazz",
+   "name": "Costa Del Mar Smooth Jazz",
+   "url": "http://www.cdm-smoothsax.com/",
+   "stream": "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "espanish",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 1693,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-splash-90s-dance",
+   "name": "#1 Splash 90s Dance",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://c6.auracast.net/radio/8090/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 1597,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flaix-fm",
+   "name": "Flaix FM",
+   "url": "https://flaixfm.cat/",
+   "stream": "https://stream.flaixfm.cat/icecast",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "latin",
+    "reggaeton"
+   ],
+   "votes": 1501,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-love-radio",
+   "name": "LOVE RADIO - LOVE.radio",
+   "url": "https://love.radio/",
+   "stream": "https://loveradio.streamingmedia.it/espana",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 1392,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "intimidad-relax",
+   "name": "Intimidad Relax",
+   "url": "https://intimidadradio.com/",
+   "stream": "https://eu1.lhdserver.es:9121/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "relax"
+   ],
+   "votes": 1382,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los-40-dance",
+   "name": "LOS 40 DANCE",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 1271,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-slow-radio-laut-fm",
+   "name": "1 Slow-Radio - laut.fm",
+   "url": "https://laut.fm/1_slowradio",
+   "stream": "https://1slowradio.stream.laut.fm/1_slowradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "easy-listening",
+    "oldies",
+    "schlager"
+   ],
+   "votes": 1009,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vilasound-ibiza-92-7-fm",
+   "name": "Radio Vilasound Ibiza 92.7 FM",
+   "url": "https://www.facebook.com/radiovilasound/",
+   "stream": "https://s9.citrus3.com:8174/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance",
+    "house",
+    "techno"
+   ],
+   "votes": 767,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibiza-stardust-radio",
+   "name": "Ibiza Stardust Radio",
+   "url": "https://www.ibizastardustradio.com/",
+   "stream": "https://www.radioking.com/play/ibiza-stardust-radio-1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "house"
+   ],
+   "votes": 722,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mariskal-rock",
+   "name": "Mariskal Rock",
+   "url": "https://mariskalrock.com/",
+   "stream": "https://media.profesionalhosting.com:8047/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Madrid",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 722,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flaixbac",
+   "name": "FlaixBAC",
+   "url": "https://www.flaixbac.cat/",
+   "stream": "https://stream.flaixbac.cat/icecast",
+   "codec": "aac",
+   "bitrate": 125,
+   "format": "music",
+   "langs": [
+    "catalan",
+    "spanish"
+   ],
+   "langCodes": [
+    "ca",
+    "es"
+   ],
+   "state": "Catalunya",
+   "genre": [
+    "pop"
+   ],
+   "votes": 694,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "funky-corner-radio-spain",
+   "name": "_Funky Corner Radio (Spain)",
+   "url": "https://www.funkycorner.it/",
+   "stream": "https://ais-sa2.cdnstream1.com/2447_96.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "70s",
+    "80s",
+    "disco",
+    "funk",
+    "music",
+    "musica",
+    "oldies",
+    "r&b",
+    "rnb",
+    "soul"
+   ],
+   "votes": 581,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "catalunya-musica-catmusica",
+   "name": "Catalunya Música (CatMúsica)",
+   "url": "https://www.ccma.cat/catradio/catalunya-musica/",
+   "stream": "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Catalunya",
+   "genre": [
+    "classical"
+   ],
+   "votes": 462,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "playtrance-radio-main-channel",
+   "name": "PlayTrance Radio - Main Channel",
+   "url": "https://www.playtrance.com/",
+   "stream": "https://live-ff.playtrance.com/playtrance-main.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 414,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "adagio-radio-hd",
+   "name": "Adagio Radio HD",
+   "url": "http://www.adagioradio.es/",
+   "stream": "https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 392,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-moscatel-107-1-fm-axarquia-espana",
+   "name": "Radio Moscatel 107.1 FM Axarquía - España",
+   "url": "https://www.radiomoscatel.com/",
+   "stream": "https://axarquia.emisiononline.es/radio/8040/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Málaga",
+   "genre": [
+    "70s",
+    "80s",
+    "pop"
+   ],
+   "votes": 388,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1000-hits-classical",
+   "name": "1000 HITS Classical",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://ais-sa2.cdnstream1.com/2208_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 374,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "digital-hits-fm",
+   "name": "Digital Hits FM",
+   "url": "http://www.digitalhits.cat/",
+   "stream": "https://dhits.frilab.com:8443/dhits",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 363,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cafe-del-mar-calm",
+   "name": "Café del Mar CALM",
+   "url": "https://cafedelmar.com/radio",
+   "stream": "https://streamer.radio.co/sb748f24ad/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "castellano.-español",
+    "catalan",
+    "english"
+   ],
+   "langCodes": [
+    "ca",
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "electronic"
+   ],
+   "votes": 360,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "china-fm-fm92-9",
+   "name": "华夏之声China FM·西班牙马德里FM92.9",
+   "url": "https://chinafm.es/",
+   "stream": "https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 357,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "remember-radio",
+   "name": "Remember Radio",
+   "url": "https://radioremember.es/",
+   "stream": "https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Valencia, Castellón",
+   "genre": [
+    "dance-music"
+   ],
+   "votes": 351,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urban-revolution",
+   "name": "Urban Revolution",
+   "url": "https://www.urbanrevolution.es/",
+   "stream": "https://st1.urbanrevolution.es:8443/zonaelectronica",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 346,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1000-80s-hits",
+   "name": "1000 80s Hits",
+   "url": "https://www.1000hits80s.eu/",
+   "stream": "https://ais-sa9.cdnstream1.com/1898_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Spain",
+   "genre": [
+    "80s"
+   ],
+   "votes": 342,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rac105",
+   "name": "RAC105",
+   "url": "https://www.rac105.cat/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Catalunya",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 328,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canal-fiesta-radio",
+   "name": "Canal Fiesta Radio",
+   "url": "https://www.canalsur.es/radio_directo-2014.html?directo=player_fiesta",
+   "stream": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "castellano.-español"
+   ],
+   "state": "Andalucía",
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 315,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "graba-radio-ibiza",
+   "name": "Graba Radio Ibiza",
+   "url": "https://www.grabaradioibiza.com/",
+   "stream": "https://radio.grabamusic.com/gmr-hd",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 312,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "formula-10-musica",
+   "name": "FORMULA 10 MUSICA",
+   "url": "https://formula10musica.es.tl/",
+   "stream": "https://formula10musica.stream.laut.fm/formula10musica",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Murcia",
+   "genre": [
+    "80s",
+    "90s",
+    "hits",
+    "pop"
+   ],
+   "votes": 273,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-splash-90s",
+   "name": "#1 Splash 90s",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://c4.auracast.net/radio/8050/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 260,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "inolvidable-fm",
+   "name": "Inolvidable FM",
+   "url": "https://www.inolvidablefm.es/",
+   "stream": "https://uk1.streamingpulse.com/ssl/inolvidablefm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Las Palmas de Gran Canaria",
+   "genre": [
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 241,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los-megaexitos",
+   "name": "Los Megaexitos",
+   "url": "https://losmegaexitos.es/",
+   "stream": "https://losmegaexitos.radioca.st/lms",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Music",
+   "genre": [
+    "music"
+   ],
+   "votes": 235,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-super-dancefloor",
+   "name": "80s Super Dancefloor",
+   "url": "https://sdf80s.es/",
+   "stream": "https://s41.myradiostream.com:33604/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "80s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 232,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-intercontinental-madrid",
+   "name": "Radio Intercontinental - Madrid",
+   "url": "https://www.radiointercontinental.net/",
+   "stream": "https://cast5.servcast.net/proxy/inter/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "pop"
+   ],
+   "votes": 229,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "openlab-radio",
+   "name": "OpenLab Radio",
+   "url": "https://openlab.fm/",
+   "stream": "https://ice04.fluidstream.net/openlab.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "electronica",
+    "hip-hop",
+    "house",
+    "jazz",
+    "r&b",
+    "soul",
+    "techno"
+   ],
+   "votes": 224,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibiza-sonica",
+   "name": "Ibiza Sonica",
+   "url": "https://ibizasonica.com/",
+   "stream": "https://ibizasonica.streaming-pro.com:8000/ibizasonica",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spain"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 220,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maria-espana",
+   "name": "Radio María España",
+   "url": "https://www.radiomaria.es/",
+   "stream": "https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 220,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vuelve-el-remember",
+   "name": "Vuelve el Remember",
+   "url": "https://vuelveelremember.es/",
+   "stream": "https://cast1.asurahosting.com/proxy/javier1/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spain"
+   ],
+   "state": "Spain",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 194,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibiza-world-club-tour-channel",
+   "name": "Ibiza World Club Tour Channel",
+   "url": "https://www.hits1radio.com/",
+   "stream": "https://ibiza-audiomediaradio.radioca.st/ibiza",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "dance",
+    "electronic",
+    "hits",
+    "house"
+   ],
+   "votes": 180,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-90s-absolute-hits",
+   "name": "80s 90s Absolute Hits",
+   "url": "https://mytuner-radio.com/es/emisora/absolute-hitz-398891/",
+   "stream": "https://live.streamthe.world/absolutehits",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 178,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-salsa",
+   "name": "100 % SALSA",
+   "url": "https://www.100porcientosalsa.com/",
+   "stream": "https://stm01.streammaximum.com:8194/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "salsa"
+   ],
+   "votes": 177,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spectrum-fm-costa-almeria",
+   "name": "Spectrum FM Costa Almeria",
+   "url": "https://costaalmeria.spectrumfm.net/",
+   "stream": "https://eu8.fastcast4u.com/proxy/almeria2?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 173,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "feel-good-radio-costa-del-sol",
+   "name": "Feel Good Radio Costa del Sol",
+   "url": "https://www.feelgoodradio.es/",
+   "stream": "https://caster05.streampakket.com/proxy/8321/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 162,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-splash-coffee",
+   "name": "#1 Splash Coffee",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://ais-sa2.cdnstream1.com/2345_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "easy-listening"
+   ],
+   "votes": 150,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "beachgrooves-radio",
+   "name": "BeachGrooves Radio",
+   "url": "http://www.beachgrooves.com/",
+   "stream": "https://stream.beachgrooves.com:9000/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 148,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los40",
+   "name": "LOS40",
+   "url": "https://los40.com/",
+   "stream": "https://20103.live.streamtheworld.com/LOS40_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "popular"
+   ],
+   "votes": 146,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disco-melodia-fm",
+   "name": "Radio Disco Melodia FM",
+   "url": "https://radiodiscomelodia.es/",
+   "stream": "https://sonic.mediatelekom.net/8020/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 142,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-splash-lounge",
+   "name": "#1 Splash Lounge",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://ais-sa2.cdnstream1.com/2209_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "chillout",
+    "lounge",
+    "relax"
+   ],
+   "votes": 138,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technolovers-edm",
+   "name": "Technolovers EDM",
+   "url": "https://stream.technolovers.fm/",
+   "stream": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english/-españa/-russian-/francia-/italia"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 135,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibiza-x-radio",
+   "name": "Ibiza X Radio",
+   "url": "https://www.ibizaxradio.com/player/",
+   "stream": "https://stream.radiojar.com/p1f2vpv37reuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronica",
+    "house",
+    "trance"
+   ],
+   "votes": 129,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-surco-tomelloso",
+   "name": "Radio Surco Tomelloso",
+   "url": "https://radiosurco.es/",
+   "stream": "https://carina.streamerr.co:8032/surco",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 122,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radios-libres",
+   "name": "Radios Libres",
+   "url": "https://radioslibres.info/",
+   "stream": "https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 120,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibiza-global-classics",
+   "name": "Ibiza Global Classics",
+   "url": "https://www.ibizaglobalradio.com/",
+   "stream": "https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "trance"
+   ],
+   "votes": 118,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hits-1-ibiza",
+   "name": "Hits 1 Ibiza",
+   "url": "https://www.hits1radio.com/",
+   "stream": "https://hits1spain-audiomediaradio.radioca.st/hits1mallorca",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ibiza",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "hits",
+    "house",
+    "music",
+    "top-40"
+   ],
+   "votes": 107,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-faro-de-gracia",
+   "name": "Radio Faro de Gracia",
+   "url": "https://farodegracia.com/",
+   "stream": "https://radiorfg.com/listen/radio_faro_de_gracia/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "music"
+   ],
+   "votes": 106,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-splash-spa",
+   "name": "#1 Splash Spa",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://ais-sa2.cdnstream1.com/2347_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "easy-listening"
+   ],
+   "votes": 105,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mi-amigo-radio-de-echte",
+   "name": "Mi Amigo Radio, de échte",
+   "url": "https://miamigoradio.es/",
+   "stream": "https://stan319bisbis.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "english-uk",
+    "flemish"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 103,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eixample-barcelona-radio",
+   "name": "Eixample Barcelona Radio",
+   "url": "https://eixamplebarcelonaradio.com/",
+   "stream": "https://directe.eixamplebarcelonaradio.com:8443/radioOnline",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "catalan",
+    "spanish"
+   ],
+   "langCodes": [
+    "ca",
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "pop"
+   ],
+   "votes": 102,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-coffee",
+   "name": "Cool Coffee",
+   "url": "https://linktr.ee/coolcoffeeradio",
+   "stream": "https://listen.openstream.co/6781/audio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "lounge"
+   ],
+   "votes": 101,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energia-flamenca",
+   "name": "Energía Flamenca",
+   "url": "https://energiaflamenca.com/",
+   "stream": "https://axarquia.emisiononline.es/radio/8020/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "50s",
+    "60s",
+    "70s",
+    "music"
+   ],
+   "votes": 99,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gente-radio",
+   "name": "Gente Radio",
+   "url": "https://genteradio.net/player/",
+   "stream": "https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Islas Canarias",
+   "genre": [
+    "music"
+   ],
+   "votes": 97,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "original-edm-festival",
+   "name": "Original EDM FESTIVAL",
+   "url": "https://0nlineradio.com/",
+   "stream": "https://stream.0nlineradio.com/edm-festival?ref=radiobrowser",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english/-españa/-russian-/francia-/italia"
+   ],
+   "genre": [
+    "edm"
+   ],
+   "votes": 92,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "only-romantic-radio",
+   "name": "Only Romantic Radio",
+   "url": "https://laut.fm/",
+   "stream": "https://stream.laut.fm/only-romantic-radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Málaga",
+   "genre": [
+    "easy-listening",
+    "pop"
+   ],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-crusader",
+   "name": "Jazz Crusader",
+   "url": "https://laut.fm/jazzcrusader",
+   "stream": "https://jazzcrusader.stream.laut.fm/jazzcrusader",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Palma de Mallorca",
+   "genre": [
+    "chillout",
+    "funk",
+    "rnb",
+    "smooth-jazz",
+    "soul"
+   ],
+   "votes": 73,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-europa",
+   "name": "Radio Europa",
+   "url": "https://www.radioeuropa.fm/",
+   "stream": "https://server9.emitironline.com:19144/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tenerife",
+   "genre": [
+    "hits"
+   ],
+   "votes": 72,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "scannerfm",
+   "name": "scannerFM",
+   "url": "https://www.scannerfm.com/",
+   "stream": "https://eu10.fastcast4u.com/scannerfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espanish",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "adult-contemporary",
+    "pop-music"
+   ],
+   "votes": 72,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "adagioradio",
+   "name": "AdagioRadio",
+   "url": "http://www.adagioradio.com/",
+   "stream": "https://stream.tunerplay.com/radio/8010/adagioradio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "opera"
+   ],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "delicious-beach-formentera-lounge-radio",
+   "name": "delicious.beach - formentera lounge radio",
+   "url": "https://www.instagram.com/delicious.beach/",
+   "stream": "https://server31435.streamplus.de/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "german",
+    "spanish"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "es"
+   ],
+   "state": "Formentera",
+   "genre": [
+    "chillout",
+    "jazz",
+    "lounge"
+   ],
+   "votes": 69,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-granja",
+   "name": "Radio La Granja",
+   "url": "http://www.radiolagranja.es/",
+   "stream": "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Aragón",
+   "genre": [
+    "music"
+   ],
+   "votes": 67,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ushuaia-radio-87-7-fm-madrid",
+   "name": "Ushuaia Radio (87.7 FM) Madrid",
+   "url": "https://ushuaia.radio/",
+   "stream": "https://s4.radio.co/sc6f29e098/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Comunidad de Madrid",
+   "genre": [
+    "pop"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-andalucia-informacion-sevilla",
+   "name": "Radio Andalucía Información Sevilla",
+   "url": "https://www.canalsur.es/radio_directo-2014.html?directo=player_rai_sevilla",
+   "stream": "https://rtva-live-radio.flumotion.com/rtva/raisev.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Sevilla",
+   "genre": [
+    "music"
+   ],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-calima",
+   "name": "Radio Calima",
+   "url": "https://calima.fm/",
+   "stream": "https://escucha.calima.fm/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Gran Canaria",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 64,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sonica-tribe",
+   "name": "Sonica Tribe",
+   "url": "https://ibizasonica.com/",
+   "stream": "https://ibizasonica.streaming-pro.com:8010/sonicatribe",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Illes Balears",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 63,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-trance-radio-main-channel-high-quality",
+   "name": "Play Trance Radio Main Channel (High Quality)",
+   "url": "https://www.playtrance.com/player/radio/",
+   "stream": "https://streaming.playtrance.com/playtrance-main-high",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 61,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "free-fm-madrid",
+   "name": "Free FM Madrid",
+   "url": "http://freefmradio.net/",
+   "stream": "https://rocafmadrid.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "japanese",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "ja"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "80s",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rocksateliteone",
+   "name": "rockSateliteONE",
+   "url": "http://www.rocksatelite.com/",
+   "stream": "https://stream.tunerplay.com/radio/8050/rocksateliteradio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [
+    "80s",
+    "90s",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 59,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bob",
+   "name": "RADIO BOB",
+   "url": "",
+   "stream": "https://streams.radiobob.de/bob-national/mp3-192/homepage?mode=preroll&aw_0_1st.skey=1671400102&cb=286873666&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 58,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "costa-del-mar-chillout",
+   "name": "Costa del Mar - Chillout",
+   "url": "https://www.costadelmar-radio.com/chillout/",
+   "stream": "https://radio4.cdm-radio.com:18020/stream-mp3-Chill",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melodia-para-dos",
+   "name": "Melodia Para Dos",
+   "url": "https://melodiaparados.es/",
+   "stream": "https://sp.totalstreaming.net:8170/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 51,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sol-radio",
+   "name": "Sol Radio",
+   "url": "https://solradiomadrid.com/",
+   "stream": "https://azura.abcorp.es/radio/8220/solradio",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Comunidad de Madrid",
+   "genre": [
+    "music"
+   ],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "locafm-90-s",
+   "name": "LocaFM 90's",
+   "url": "http://www.locafm.com/loca-90-s/player.html",
+   "stream": "https://s2.we4stream.com/listen/loca_90s_/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gladys-palmera-latin-fresh",
+   "name": "Gladys Palmera Latin Fresh",
+   "url": "https://gladyspalmera.com/",
+   "stream": "https://streamer.radio.co/s00c7ec6fa/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onda-10",
+   "name": "onda 10",
+   "url": "https://onda10.es/",
+   "stream": "https://onda10.stream.laut.fm/onda10?t302=2026-08-21_20-15-33&uuid=4213e4da-241f-43c9-ac9b-86269b5dd04f",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-clave-stereo-93-6",
+   "name": "La Clave Stereo 93.6",
+   "url": "https://laclavestereo.es/",
+   "stream": "https://stream.integracionvirtual.com/proxy/laclavestereo?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "espaňol"
+   ],
+   "state": "Lanzarote",
+   "genre": [
+    "salsa",
+    "samba"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "buena-fm",
+   "name": "+Buena FM",
+   "url": "https://masbuenafm.com/",
+   "stream": "https://sonic.mediatelekom.net/8156/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "music"
+   ],
+   "votes": 40,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80-hits-barcelona",
+   "name": "80 Hits Barcelona",
+   "url": "https://musica80.radioclub.es/",
+   "stream": "https://stream.laut.fm/80sexitos",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "german",
+    "spanish"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "dance",
+    "pop",
+    "romantic"
+   ],
+   "votes": 40,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rpv-gran-canaria",
+   "name": "RPV Gran Canaria",
+   "url": "https://radio-pv.com/",
+   "stream": "https://stream.radio-pv.com/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Gran Canaria",
+   "genre": [
+    "pop"
+   ],
+   "votes": 39,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mediterrani-fm-barcelona",
+   "name": "Mediterrani FM Barcelona",
+   "url": "https://www.mediterranifm.cat/",
+   "stream": "https://listen1.myradio24.com/37511",
+   "codec": "aac",
+   "bitrate": 182,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 38,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "imagina-radio",
+   "name": "Imagina Radio",
+   "url": "https://www.imaginaradio.cat/",
+   "stream": "https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Catalunya",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "atica-fm-106-4",
+   "name": "Ática FM 106.4",
+   "url": "https://aticafm.com/",
+   "stream": "https://server8.emitironline.com:18571/atica",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "trance"
+   ],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italiana-fm",
+   "name": "Italiana FM",
+   "url": "https://online.radioplayer.ua/RadioItaliana",
+   "stream": "https://online.radioplayer.ua/RadioItaliana",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Palma de Mallorca",
+   "genre": [
+    "folk"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-castelldefels",
+   "name": "Radio Castelldefels",
+   "url": "http://radiocastelldefels.org/",
+   "stream": "https://streaming.enacast.com/radiocastelldefels128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ibiza-live-radio",
+   "name": "Ibiza Live Radio",
+   "url": "https://ibizaliveradio.com/",
+   "stream": "https://uksoutha.streaming.broadcast.radio/ibiza-live-radio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "house"
+   ],
+   "votes": 33,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alzira-radio-107-9-fm",
+   "name": "Alzira ràdio 107.9 FM",
+   "url": "https://alziraradio.com/",
+   "stream": "https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "catalan",
+    "spanish"
+   ],
+   "langCodes": [
+    "ca",
+    "es"
+   ],
+   "genre": [
+    "reggae",
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "candil-radio",
+   "name": "Candil Radio",
+   "url": "https://candilradio.com/",
+   "stream": "https://candilradio.com/liveradio/candil/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "blues",
+    "jazz",
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "esplugues-fm",
+   "name": "Esplugues FM",
+   "url": "http://www.espluguesfm.cat/",
+   "stream": "https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Barcelona",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-indie",
+   "name": "La Indie",
+   "url": "https://www.emisorasmusicales.net/emisoras/la-indie/",
+   "stream": "https://stream.emisorasmusicales.net/listen/la_indie/laindie.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "indie"
+   ],
+   "votes": 30,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lider-santiago",
+   "name": "Radio Líder Santiago",
+   "url": "https://radiolidersantiago.com/",
+   "stream": "https://server8.emitironline.com:18520/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "galego",
+    "galician",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "gl"
+   ],
+   "state": "Galiza",
+   "genre": [
+    "latin"
+   ],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hits-1-mallorca",
+   "name": "Hits 1 Mallorca",
+   "url": "https://www.hits1.com/",
+   "stream": "https://radio7.pro-fhi.net/radio/9006/hits1ibiza",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english/sotho/afrikaans",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Illes Balears",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "top-40"
+   ],
+   "votes": 29,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fiebre-latina-radio-96-6-fm",
+   "name": "Fiebre Latina Radio 96.6 FM",
+   "url": "https://fiebrelatinaradio.com/",
+   "stream": "https://eu1.lhdserver.es:9035/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Málaga",
+   "genre": [
+    "bachata",
+    "merengue",
+    "popular",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "holland-fm-gran-canaria",
+   "name": "Holland FM Gran Canaria",
+   "url": "https://hollandfm.es/",
+   "stream": "https://panel.amediastream.eu:8500/live#.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "dutch"
+   ],
+   "langCodes": [
+    "nl"
+   ],
+   "genre": [
+    "greatest-hits"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "7-7-radio-la-palma-fm-88-3-99-8",
+   "name": "7.7 RADIO LA PALMA (FM 88.3 - 99.8)",
+   "url": "https://77lapalmaradio.com/",
+   "stream": "https://radioserver11.profesionalhosting.com/proxy/suoqgqzc?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "musica",
+    "oldies"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-music-radio",
+   "name": "DISCO MUSIC RADIO",
+   "url": "https://discomusicradio.com/",
+   "stream": "https://discomusicradio.com:8100/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "disco",
+    "music"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-callao-madrid",
+   "name": "Radio Callao Madrid",
+   "url": "https://radiocallao.es/",
+   "stream": "https://server8.emitironline.com:18176/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Madrid",
+   "genre": [
+    "jazz",
+    "soul"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dunas-fm-94-4-y-94-2",
+   "name": "Dunas FM 94.4 y 94.2",
+   "url": "https://dunasfm.com/",
+   "stream": "https://sonic.mediatelekom.net/8424/stream/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hits1",
+   "name": "hits1",
+   "url": "https://www.hits1radio.com/",
+   "stream": "https://radio12.pro-fhi.net:19018/Paul%20Rudd%20-%20GLOBAL%20Sessions",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "hits"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-patrona-102-9-fm",
+   "name": "La Patrona 102.9 FM",
+   "url": "https://lapatronafm.es/",
+   "stream": "https://lapatrona-zikoxweb2.radioca.st/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "salsa"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los-40-sur",
+   "name": "Los 40 Sur",
+   "url": "https://los40.com/emisoras/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_MORON.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Sevilla",
+   "genre": [
+    "musica"
+   ],
+   "votes": 25,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-filispim",
+   "name": "Radio FilispiM",
+   "url": "https://opaii.blogspot.com/",
+   "stream": "https://streaming.cuacfm.org/filispim.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "galician",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "gl"
+   ],
+   "state": "Galicia",
+   "genre": [
+    "music"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sangeet-fm",
+   "name": "Sangeet Fm",
+   "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+   "stream": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-radio-spain-2",
+   "name": "Jazz Radio Spain",
+   "url": "https://tunerplay.com/emisoras/jazz-radio-spain/",
+   "stream": "https://server5.mediasector.es:8020/jazzradiospain.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "castellano.-español"
+   ],
+   "state": "Comunidad de Madrid",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-matorral",
+   "name": "Radio Matorral",
+   "url": "https://radiomatorral.es/",
+   "stream": "https://topradio.uno/proxy/radiomatorral/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spain"
+   ],
+   "state": "Comunidad de Madrid",
+   "genre": [
+    "music"
+   ],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marca-madrid",
+   "name": "Radio Marca Madrid",
+   "url": "https://www.marca.com/radio.html",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [],
+   "votes": 6524,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rac1",
+   "name": "RAC1",
+   "url": "https://www.rac1.cat/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Catalunya",
+   "genre": [],
+   "votes": 3048,
+   "clicks": 95,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rne-r1-madrid",
+   "name": "RNE - R1 --> Madrid",
+   "url": "https://www.rtve.es/play/audios/programa/rne_mad-live/3893534/",
+   "stream": "https://d121.rndfnk.com/star/crtve/rne1/mad/mp3/128/stream.mp3?cid=01GEM7S23A9B744SKFN04XA893&sid=2HgEg5aD71G8EuEf67MKTba5AnL&token=n_qXJorii6EVsZ_IP-RSzQP8sRamUc8gqb1nDnqiNT8&tvf=HHgasgd8KBdkMTIxLnJuZGZuay5jb20",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 3018,
+   "clicks": 45,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "catalunya-informacio-catinfo",
+   "name": "Catalunya Informació (Catinfo)",
+   "url": "https://www.catradio.cat/catinfo",
+   "stream": "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Catalunya",
+   "genre": [],
+   "votes": 2911,
+   "clicks": 46,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "punk-irratia",
+   "name": "punk irratia",
+   "url": "https://punkirratia.net/",
+   "stream": "https://punkirratia.net:8443/punk",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "basque",
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "eu"
+   ],
+   "state": "Euskal Herria",
+   "genre": [],
+   "votes": 1909,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hit-fm",
+   "name": "Hit FM",
+   "url": "https://hitfm.es/",
+   "stream": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 1870,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nacional-de-espana-radio-5-todo-noticias",
+   "name": "Radio Nacional de España - Radio 5 Todo noticias",
+   "url": "https://www.rtve.es/play/radio/radio-5/",
+   "stream": "https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2OeE42hivuba6dTGvjnMGjKByQe&token=cdczXcnimVx4AY4iamqYbTMdu3cK7oBxmS2UQN9cWc0&tvf=pdPcDBxuVxdkMTMxLnJuZGZuay5jb20",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español",
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 1776,
+   "clicks": 71,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "catalunya-radio",
+   "name": "Catalunya Radio",
+   "url": "",
+   "stream": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 1682,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "marca-valladolid",
+   "name": "Marca Valladolid",
+   "url": "http://www.radiomarcavalladolid.com/",
+   "stream": "https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Valladolid",
+   "genre": [],
+   "votes": 1655,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cope-albacete",
+   "name": "COPE Albacete",
+   "url": "https://www.cope.es/directos/albacete",
+   "stream": "https://wecast22-o-cloud.flumotion.com/copesedes/albacete.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 1461,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "esradio-principal",
+   "name": "EsRadio Principal",
+   "url": "https://esradio.libertaddigital.com/directo.html",
+   "stream": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "state": "Madrid",
+   "genre": [],
+   "votes": 1383,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rac1-1",
+   "name": "RAC1 +1",
+   "url": "https://www.rac1.cat/rac-mes-1/directe",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Catalunya",
+   "genre": [],
+   "votes": 1336,
+   "clicks": 44,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cadena-ser-radio-barcelona",
+   "name": "Cadena SER - Ràdio Barcelona",
+   "url": "https://play.cadenaser.com/emisora/radio_barcelona/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Barcelona",
+   "genre": [],
+   "votes": 1182,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-libertad",
+   "name": "Radio Libertad",
+   "url": "https://radiolibertad.es/",
+   "stream": "https://server9.emitironline.com:19482/stream?cb=1708722000350",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Madrid",
+   "genre": [],
+   "votes": 1074,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loca-progressive-house",
+   "name": "Loca Progressive House",
+   "url": "http://www.locafm.com/",
+   "stream": "https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1025,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix80radio",
+   "name": "Mix80Radio",
+   "url": "https://www.tunerplay.live/mix80radio",
+   "stream": "https://stream.tunerplay.com/radio/8040/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [],
+   "votes": 990,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "informa-radio",
+   "name": "INFORMA RADIO",
+   "url": "https://informaradio.edatv.news/",
+   "stream": "https://24x7.red:42045/informa",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español",
+    "españa",
+    "español-internacional",
+    "espaňol"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [],
+   "votes": 988,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "esradio-mp3-hq",
+   "name": "EsRadio (MP3 HQ)",
+   "url": "https://esradio.libertaddigital.com/",
+   "stream": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "state": "Madrid",
+   "genre": [],
+   "votes": 919,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioblues-flac",
+   "name": "RadioBlues Flac",
+   "url": "https://bluesflac.com/",
+   "stream": "https://streams.radiomast.io/radioblues-flac",
+   "codec": "ogg",
+   "bitrate": 1500,
+   "genre": [],
+   "votes": 912,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c-dial-baladas",
+   "name": "C. DIAL Baladas",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 897,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-humor-fm",
+   "name": "Radio Humor FM",
+   "url": "https://radiohumorfm.com/",
+   "stream": "https://stream.radiohumorfm.com/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 735,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canarias-radio",
+   "name": "Canarias Radio",
+   "url": "http://www.rtvc.es/inicio/home.aspx?ref=tm",
+   "stream": "https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 698,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c-dial-latino",
+   "name": "C. DIAL Latino",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 642,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rne-r5-madrid",
+   "name": "RNE - R5 --> Madrid",
+   "url": "https://www.rtve.es/play/audios/programa/rne5_mad-live/3894730/",
+   "stream": "https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 642,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "icat-fm",
+   "name": "iCat FM",
+   "url": "https://www.ccma.cat/catradio/directe/icat/",
+   "stream": "https://shoutcast.ccma.cat/ccma/icatHD.mp3",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Catalunya",
+   "genre": [],
+   "votes": 560,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-radio-spain",
+   "name": "Jazz Radio Spain",
+   "url": "http://www.jazzradiospain.com/",
+   "stream": "https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Madrid",
+   "genre": [],
+   "votes": 524,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-esport-valencia",
+   "name": "Radio Esport Valencia",
+   "url": "https://radioesport914.com/",
+   "stream": "https://streaming.radioesport914.com:58000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 497,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cafe-del-mar-channel-2",
+   "name": "Cafe del Mar Channel 2",
+   "url": "https://cafedelmar.com/",
+   "stream": "https://s4.radio.co/seeae9c220/listen",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 491,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ona-mediterrania",
+   "name": "Ona Mediterrània",
+   "url": "http://www.onamediterrania.cat/",
+   "stream": "https://streaming.enacast.com/onamediterrania128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "state": "Illes Balears",
+   "genre": [],
+   "votes": 461,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

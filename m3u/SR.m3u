@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Suriname" tvg-genre="music",Radio Sangeetmala
+https://rs.suricloud.com/radio/8030/radio.mp3
+#EXTINF:-1 group-title="Suriname" tvg-genre="music",Radio Shruti
+https://rs.suricloud.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Suriname" tvg-genre="music",Radio ishara
+https://a8.asurahosting.com:7030/radio.mp3
+#EXTINF:-1 group-title="Suriname",Radio 10 Magic FM
+https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1 group-title="Suriname",MPB Radio Suriname
+https://radiozender.mpbnetwerken.nl/radiosuriname.mp3
+#EXTINF:-1 group-title="Suriname",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Suriname",Radio Apintie
+https://surilive.com:8000/;

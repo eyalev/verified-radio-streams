@@ -1,0 +1,981 @@
+{
+ "countryCode": "DO",
+ "country": "Dominican Republic",
+ "slug": "dominican-republic",
+ "continent": "americas",
+ "stationCount": 54,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/dominican-republic/",
+ "stations": [
+  {
+   "id": "top-merengue-radio",
+   "name": "Top Merengue Radio",
+   "url": "https://latina104.net/top-merengue-radio/",
+   "stream": "https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Santo Domingo",
+   "genre": [
+    "merengue"
+   ],
+   "votes": 2490,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-salsa-radio",
+   "name": "Top Salsa Radio",
+   "url": "https://latina104.net/top-salsa-radio/",
+   "stream": "https://radio.dominiserver.com/proxy/topsalsaradio?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "espanish"
+   ],
+   "state": "Santo Domingo",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 2438,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-urbano",
+   "name": "Top Urbano",
+   "url": "https://latina104.net/top-urbano",
+   "stream": "https://radio.dominiserver.com/proxy/topurbano?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Santo Domingo",
+   "genre": [
+    "hip-hop",
+    "reggaeton"
+   ],
+   "votes": 2384,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-balada-radio",
+   "name": "Top Balada Radio",
+   "url": "https://latina104.net/top-balada-radio/",
+   "stream": "https://radio.dominiserver.com/proxy/topbaladaradio?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Santo Domingo",
+   "genre": [
+    "baladas"
+   ],
+   "votes": 2139,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fieramix",
+   "name": "FieraMix",
+   "url": "https://fieramix.com/",
+   "stream": "https://c11.radioboss.fm:18269/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Altagracia",
+   "genre": [
+    "bachata",
+    "merengue"
+   ],
+   "votes": 1924,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "latina-104",
+   "name": "Latina 104",
+   "url": "https://latina104.net/",
+   "stream": "https://radio.dominiserver.com/proxy/latina104?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santo Domingo",
+   "genre": [
+    "merengue",
+    "salsa"
+   ],
+   "votes": 1084,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bendicion",
+   "name": "Radio Bendicion",
+   "url": "https://radio.labiblia.in/",
+   "stream": "https://samuel.i-radio.co:9000/radiobendicion",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 360,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dominicana-fm-98-9-y-99-9-fm",
+   "name": "Dominicana FM 98.9 y 99.9 FM",
+   "url": "https://dominicanafmrd.com/",
+   "stream": "https://protvradiostream.com:8610/;",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "merengue",
+    "salsa"
+   ],
+   "votes": 256,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "platino-radio",
+   "name": "Platino Radio",
+   "url": "https://platinoradio.com/",
+   "stream": "https://platinoradio-henrsosa.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santo Domingo Este",
+   "genre": [
+    "bachata",
+    "merengue",
+    "salsa"
+   ],
+   "votes": 212,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "disco-89-88-9-fm",
+   "name": "Disco 89 88.9 FM",
+   "url": "https://disco89fm.com/",
+   "stream": "https://rgradio.net/disco89/disco89.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 104,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "criolla-106-1-fm",
+   "name": "Criolla 106.1 FM",
+   "url": "https://criolla106fm.com/",
+   "stream": "https://streaming.grupomediosdelnorte.com:8002/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "merengue"
+   ],
+   "votes": 64,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "air-romana-radio",
+   "name": "Air Romana Radio",
+   "url": "https://www.airromana.com/",
+   "stream": "https://stream.radiojar.com/4ggz3rkd838uv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "reggaeton"
+   ],
+   "votes": 35,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-nueva-106-9-fm",
+   "name": "La Nueva 106.9 FM",
+   "url": "https://www.lanueva106.com/",
+   "stream": "https://lanueva106.radioca.st/stream/1/",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santiago de los Caballeros",
+   "genre": [
+    "bachata",
+    "merengue",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 32,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-97-3-la-super-estacion",
+   "name": "FM 97.3 La Super Estación",
+   "url": "https://grupobadui.com/",
+   "stream": "https://cast4.my-control-panel.com/proxy/atlantica97/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "merengue",
+    "salsa"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estrella-92-3-fm",
+   "name": "Estrella 92.3 FM",
+   "url": "https://www.ccvdigital.com/",
+   "stream": "https://c13.radioboss.fm:18187/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "merengue",
+    "salsa"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estelar-106",
+   "name": "Estelar-106",
+   "url": "https://www.radioestelar106fm.com/",
+   "stream": "https://radio.dominiserver.com/proxy/estelar106?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "merengue",
+    "music",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fm-103-103-5",
+   "name": "Radio FM-103 - 103.5",
+   "url": "https://www.fm103.com.do/",
+   "stream": "https://radio.radiord.net/8008/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "baladas",
+    "pop"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estacion-97-7-fm",
+   "name": "Estación 97.7 FM",
+   "url": "https://estacion977.com/",
+   "stream": "https://stream2.rcast.net/61187",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "buen-pastor-radio",
+   "name": "BUEN PASTOR RADIO",
+   "url": "https://buenpastorradio.com/",
+   "stream": "https://c22.radioboss.fm:8394/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Santiago",
+   "genre": [
+    "bachata",
+    "merengue"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nex-hits",
+   "name": "Nex Hits",
+   "url": "https://nexhits.net/",
+   "stream": "https://nexhits.net:8050/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "castellano.-español",
+    "ingles-español"
+   ],
+   "state": "San Pedro de Macorís",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-cima-100-5-2",
+   "name": "Radio Cima 100.5",
+   "url": "https://www.cima100digital.com/#content",
+   "stream": "https://app.sonicpanelradio.com:8648/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santo Domingo",
+   "genre": [
+    "bachata",
+    "merengue"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fuego-90-1",
+   "name": "Fuego 90.1",
+   "url": "https://www.rdmusica.com/",
+   "stream": "https://radiordomi.com/8390/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "latin-music",
+    "salsa"
+   ],
+   "votes": 3,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-amanecer",
+   "name": "Radio Amanecer",
+   "url": "https://radioamanecer.org.do/",
+   "stream": "https://sp.sintonizapp.com:7003/;type=mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica",
+    "español-internacional"
+   ],
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-bachata-radio",
+   "name": "Top Bachata Radio",
+   "url": "https://latina104.net/top-bachata-radio/",
+   "stream": "https://radio.dominiserver.com/proxy/topbachata?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 1423,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-cristiano-radio",
+   "name": "Top Cristiano Radio",
+   "url": "https://latina104.net/top-cristiano-radio/",
+   "stream": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 1047,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cdn-radio",
+   "name": "CDN Radio",
+   "url": "https://cdnradio.com.do/",
+   "stream": "https://play.cdnradio.com.do/cdnlive",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 385,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "miss-104-fm",
+   "name": "Miss 104 FM",
+   "url": "https://latina104.net/miss-104-fm/",
+   "stream": "https://radio.dominiserver.com/proxy/miss104fm?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español-internacional"
+   ],
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 332,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "turbo-98-3-fm",
+   "name": "Turbo 98.3 FM",
+   "url": "https://turbo98.com/",
+   "stream": "https://cdn-embed.tunein.com/resources/media/blank.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 166,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fm103-rd",
+   "name": "Radio fm103 (RD)",
+   "url": "https://www.fm103.com.do/",
+   "stream": "https://radio.radiord.net/8008/;stream.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Pedro de Macorís",
+   "genre": [],
+   "votes": 141,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "monumental-100-3-fm",
+   "name": "Monumental 100.3 FM",
+   "url": "https://monumentalfm.com/",
+   "stream": "https://radio2.grupointernet.com/8103/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 103,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-santa-maria",
+   "name": "Radio Santa Maria",
+   "url": "https://radiosantamaria.net/",
+   "stream": "https://paginas.moisespaulino.com/proxy/rsantamaria/stream?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 60,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 93,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "super-k-fm",
+   "name": "Super K FM",
+   "url": "https://superkfm.com/",
+   "stream": "https://grupomedrano.stream-audio.com:8856/SuperK",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 52,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-eternidad",
+   "name": "Radio Eternidad",
+   "url": "https://radioeternidad.com/radio-eternidad-streaming/#",
+   "stream": "https://cast5.my-control-panel.com/proxy/radioete/stream?type=.mp3?ver=286200",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bendicion95-1-fm",
+   "name": "Bendicion95.1 FM",
+   "url": "https://www.ministeriobendicion.com/",
+   "stream": "https://sp.unoredcdn.net/8054/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "palma-90-7-fm",
+   "name": "Palma 90.7 FM",
+   "url": "https://empresasradiofonicas.com.do/emisora/radio-palma",
+   "stream": "https://radiordomi.com/8030/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Barahona",
+   "genre": [],
+   "votes": 21,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mc-anime-radio",
+   "name": "MC Anime Radio",
+   "url": "https://mcanimeradio.com/",
+   "stream": "https://cast.mcanimeradio.com/listen/mcradio/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-x-102-1-fm",
+   "name": "La X 102.1 FM",
+   "url": "https://lax102.fm/",
+   "stream": "https://audio.livecastnet.com:2535/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vida-fm",
+   "name": "Vida FM",
+   "url": "https://vida.siteradio.net/links",
+   "stream": "https://servidor38.brlogic.com:7104/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "state": "María Trinidad Sánchez",
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rd-700am-radio-gosen",
+   "name": "RD 700am Radio Gosen",
+   "url": "https://radiogosen.org/",
+   "stream": "https://s5.radio.co/sfc2826e6e/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Valderde",
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dbs-radio",
+   "name": "DBS Radio",
+   "url": "https://dbcradio.net/",
+   "stream": "https://stream.dbcradio.net:8005/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-cima-100-5",
+   "name": "Radio Cima 100.5",
+   "url": "https://cima100fm.com/",
+   "stream": "https://sonicpanel.streaming10.net:8146/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wxm-one-radio",
+   "name": "WXM ONE RADIO",
+   "url": "https://www.wxmradio.com/",
+   "stream": "https://jm8n.net/8024/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Villa Isabela Pueto Plata",
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "genial-fm",
+   "name": "Genial FM",
+   "url": "https://genialfm.net/#site",
+   "stream": "https://nexostream.net:8040/live",
+   "codec": "mp3",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estelar-106-2",
+   "name": "Estelar 106",
+   "url": "https://estelar106.com/",
+   "stream": "https://nexostream.net:8060/live",
+   "codec": "mp3",
+   "bitrate": 112,
+   "state": "Tropical",
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "disco-106-1",
+   "name": "Disco 106.1",
+   "url": "https://www.rdmusica.com/",
+   "stream": "https://radiordomi.com/8118/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exaltacion-fm",
+   "name": "Exaltación FM",
+   "url": "https://exaltacionfm.net/",
+   "stream": "https://exaltacionfm.net:8070/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español"
+   ],
+   "state": "San Pedro de Macorís",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-util-102-9-fm",
+   "name": "Radio Util 102.9 FM",
+   "url": "https://www.radio.net/s/radioutil102",
+   "stream": "https://shoutcast.tmcreativos.com/proxy/radioutil?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Salcedo",
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yarah-radio",
+   "name": "Yarah Radio",
+   "url": "https://yarahradio.com/",
+   "stream": "https://servidor40-4.brlogic.com:7022/live?source=website",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mortal-104-9-fm",
+   "name": "Mortal 104.9 FM",
+   "url": "https://telemicro.com.do/mortal-104-9/",
+   "stream": "https://radio.telemicro.com.do/mortal104",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "romantica-103-fm",
+   "name": "Romantica 103.FM",
+   "url": "https://romantica103fm.blogspot.com/",
+   "stream": "https://radio.dominiserver.com/proxy/romantica103fm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español",
+    "español-españa"
+   ],
+   "state": "Santo Domingo",
+   "genre": [],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exclusive-radio",
+   "name": "Exclusive Radio",
+   "url": "https://exclusiveradio.webradiosite.com/",
+   "stream": "https://servidor25-3.brlogic.com:7110/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fascinante-fm",
+   "name": "Fascinante FM",
+   "url": "https://fascinantefm.net/",
+   "stream": "https://nexostream.net:8180/live",
+   "codec": "mp3",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-z101-fm",
+   "name": "La Z101 Fm",
+   "url": "https://z101digital.com/",
+   "stream": "https://streaming.z101digital.com/z101?cb=1779372229211",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

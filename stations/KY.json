@@ -1,0 +1,124 @@
+{
+ "countryCode": "KY",
+ "country": "Cayman Islands",
+ "slug": "cayman-islands",
+ "continent": "americas",
+ "stationCount": 7,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/cayman-islands/",
+ "stations": [
+  {
+   "id": "x107-1",
+   "name": "X107.1",
+   "url": "https://dmsbroadcasting.ky/",
+   "stream": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 120,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "paradise-radio",
+   "name": "Paradise Radio",
+   "url": "https://www.paradiseradio.org/",
+   "stream": "https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rooster-101",
+   "name": "Rooster 101",
+   "url": "https://www.rooster101.ky/",
+   "stream": "https://rooster101-hurleysmedia.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english"
+   ],
+   "state": "319 Shedden Rd, George Town",
+   "genre": [
+    "country"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "z99-grand-cayman",
+   "name": "Z99 Grand Cayman",
+   "url": "https://www.z99.ky/",
+   "stream": "https://z99-hurleysmedia.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 172,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "island-fm-the-rhythm-of-cayman",
+   "name": "Island FM - The Rhythm Of Cayman",
+   "url": "https://www.islandfm.ky/",
+   "stream": "https://iriefm-hurleysmedia.radioca.st/stream?_=912521",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "big-fish-95-5fm",
+   "name": "Big Fish 95.5FM",
+   "url": "https://bigfish955.ky/",
+   "stream": "https://ice41.securenetsystems.net/BIGFISH",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "countryCode": "MQ",
+ "country": "Martinique",
+ "slug": "martinique",
+ "continent": "americas",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/martinique/",
+ "stations": [
+  {
+   "id": "radio-zoukla",
+   "name": "Radio Zoukla",
+   "url": "https://www.telezoukla.com/",
+   "stream": "https://ecmanager4.pro-fhi.net:2605/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 167,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mojito",
+   "name": "Radio Mojito",
+   "url": "https://www.ckradio.fr/",
+   "stream": "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 48,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rci-dancehall",
+   "name": "RCI Dancehall",
+   "url": "https://radoxo.com/martinique/rci-dancehall",
+   "stream": "https://stream.rcs.revma.com/5stt0yrtpwzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 13,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  }
+ ]
+}

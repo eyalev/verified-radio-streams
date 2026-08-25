@@ -1,0 +1,511 @@
+{
+ "countryCode": "SK",
+ "country": "Slovakia",
+ "slug": "slovakia",
+ "continent": "europe",
+ "stationCount": 28,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/slovakia/",
+ "stations": [
+  {
+   "id": "radio-fm",
+   "name": "Radio FM",
+   "url": "https://fm.rtvs.sk/",
+   "stream": "https://icecast.stv.livebox.sk/fm_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 9920,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "europa-2",
+   "name": "Europa 2",
+   "url": "https://www.europa2.sk/",
+   "stream": "https://stream.bauermedia.sk/europa2.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3823,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-sity",
+   "name": "Rádio Sity",
+   "url": "https://radiosity.sk/",
+   "stream": "https://radiosity.online:8000/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 791,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vlna-oldies-party",
+   "name": "Rádio Vlna Oldies Party",
+   "url": "https://radiovlna.sk/",
+   "stream": "https://stream.radiovlna.sk/party-hi.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 486,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rusyn-fm",
+   "name": "Rusyn FM",
+   "url": "https://www.rusyn.fm/play/",
+   "stream": "https://stream.rusyn.fm/rusyny.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "carpatho-rusyn"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 312,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rock",
+   "name": "Rádio ROCK",
+   "url": "https://radiorock.sk/",
+   "stream": "https://stream.bauermedia.sk/rock-hi.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 184,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kiks-rock-music",
+   "name": "Rádio KIKS - Rock Music",
+   "url": "https://www.rockmusic.sk/",
+   "stream": "https://online.radiokiks.sk:8000/kiks_rock.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 118,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fun-radio-chill",
+   "name": "Fun Radio Chill",
+   "url": "http://www.funradio.sk/",
+   "stream": "https://stream.funradio.sk:8000/chill128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "chillout",
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 116,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hitradio-slovakia",
+   "name": "Hitrádio Slovakia",
+   "url": "https://www.hitradioslovakia.com/",
+   "stream": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 105,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kiks-big-90s",
+   "name": "Rádio KIKS - Big 90s",
+   "url": "https://www.radiokiks.sk/",
+   "stream": "https://online.radiokiks.sk:8000/kiks_big90s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 90,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "top-radio",
+   "name": "Top Rádio",
+   "url": "https://www.radiotop.sk/",
+   "stream": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-devin",
+   "name": "Rádio Devín",
+   "url": "https://devin.rtvs.sk/",
+   "stream": "https://icecast.stv.livebox.sk/devin_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [
+    "classical",
+    "music"
+   ],
+   "votes": 32,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-melody",
+   "name": "Rádio Melody",
+   "url": "https://radiomelody.sk/",
+   "stream": "https://stream.bauermedia.sk/melody-hi.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3537,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-slovensko",
+   "name": "Radio Slovensko",
+   "url": "https://slovensko.rtvs.sk/",
+   "stream": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1663,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "patria-radio",
+   "name": "Pátria Rádió",
+   "url": "https://patria.rtvs.sk/",
+   "stream": "https://icecast.stv.livebox.sk/patria_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hungarian",
+    "slovak"
+   ],
+   "langCodes": [
+    "hu",
+    "sk"
+   ],
+   "genre": [],
+   "votes": 1425,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vlna-golden-hits",
+   "name": "Rádio Vlna Golden hits",
+   "url": "https://radiovlna.sk/",
+   "stream": "https://stream.radiovlna.sk/gold-hi.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 1164,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-expres",
+   "name": "RÁDIO EXPRES",
+   "url": "https://www.expres.sk/",
+   "stream": "https://stream.bauermedia.sk/128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 1002,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fresh-radio",
+   "name": "FRESH rádio",
+   "url": "https://www.freshradio.sk/",
+   "stream": "https://icecast2.radionet.sk/freshradio.sk",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 446,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-7",
+   "name": "Radio 7",
+   "url": "https://radio7.sk/",
+   "stream": "https://play.radio7.sk/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 334,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fit-family-radio",
+   "name": "Fit family Radio",
+   "url": "https://www.fitfamilyradio.com/",
+   "stream": "https://solid67.streamupsolutions.com/proxy/reqsithw/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "state": "Slovenská republika",
+   "genre": [],
+   "votes": 224,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bestfm",
+   "name": "BestFM",
+   "url": "https://www.bestfm.sk/",
+   "stream": "https://stream3.bestfm.sk:8000/160.aac",
+   "codec": "aac",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 206,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rock-sv",
+   "name": "Rádio Rock SV",
+   "url": "https://www.radiorocksv.eu/",
+   "stream": "https://s2.myradiostream.com/:4870/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 194,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "metalscena-netradio",
+   "name": "METALSCENA netRADIO",
+   "url": "https://www.metalscena.sk/",
+   "stream": "https://listen.radioking.com/radio/263218/stream/308365",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 185,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-parada",
+   "name": "Rádio Paráda",
+   "url": "https://www.radioparada.sk/",
+   "stream": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 177,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kiks-big-80s",
+   "name": "Rádio KIKS - Big 80s",
+   "url": "https://www.radiokiks.sk/",
+   "stream": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 99,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-litera",
+   "name": "Rádio Litera",
+   "url": "https://litera.rtvs.sk/",
+   "stream": "https://icecast.stv.livebox.sk/litera_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "slovak"
+   ],
+   "langCodes": [
+    "sk"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-regina-zapad",
+   "name": "Rádio REGINA ZÁPAD",
+   "url": "https://reginazapad.rtvs.sk/",
+   "stream": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Slovensko",
+   "genre": [],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-viva",
+   "name": "Radio VIVA",
+   "url": "https://radioviva.zoznam.sk/",
+   "stream": "https://stream.sepia.sk/viva128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

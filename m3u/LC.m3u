@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="St. Lucia" tvg-genre="reggae,zouk",REV-UP SLU
+https://caribspy.com/proxy/revupslu/stream
+#EXTINF:-1 group-title="St. Lucia",BLAZIN 99.3FM
+https://streams.radio.co/s5f11a7ef9/listen
+#EXTINF:-1 group-title="St. Lucia",reliable radio 89.9
+https://s2.radio.co/s5fb28a34d/listen
+#EXTINF:-1 group-title="St. Lucia",RFI 1021 fM
+https://usa3.fastcast4u.com/proxy/vaoctave?mp=/1
+#EXTINF:-1 group-title="St. Lucia",RJL Radio
+https://s3.radio.co/sc5bdee4a4/listen
+#EXTINF:-1 group-title="St. Lucia",Hype FM 89.9
+https://fwd.autopo.st/rmediaslu

@@ -1,0 +1,69 @@
+{
+ "countryCode": "KP",
+ "country": "North Korea",
+ "slug": "north-korea",
+ "continent": "asia",
+ "stationCount": 3,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/north-korea/",
+ "stations": [
+  {
+   "id": "pyongyang-radio-fm",
+   "name": "Pyongyang Radio FM",
+   "url": "https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/",
+   "stream": "https://listen7.myradio24.com/69366",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Pyongyang",
+   "genre": [],
+   "votes": 782,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "voice-of-korea-russian",
+   "name": "Voice of Korea (Russian)",
+   "url": "http://www.vok.rep.kp/index.php/home/main/ru",
+   "stream": "https://listen4.myradio24.com/60315",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 387,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "countryCode": "GT",
+ "country": "Guatemala",
+ "slug": "guatemala",
+ "continent": "americas",
+ "stationCount": 15,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/guatemala/",
+ "stations": [
+  {
+   "id": "stereo-100-quetzaltenango",
+   "name": "Stereo 100, Quetzaltenango",
+   "url": "https://stereo100.com.gt/",
+   "stream": "https://sh1.radioonlinehd.com:8056/stream?type=.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Quetzaltenango",
+   "genre": [
+    "latin-pop"
+   ],
+   "votes": 615,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "caribean-fm-105-1",
+   "name": "Caribean FM 105.1",
+   "url": "https://caribean.rcdn.com.gt/",
+   "stream": "https://sh4.radioonlinehd.com:8547/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "merengue",
+    "music",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 204,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hacker-por-cristo-network",
+   "name": "Hacker por Cristo Network",
+   "url": "https://hxcn.org/",
+   "stream": "https://radio.forensedigital.gt:8010/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "#spanish",
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 157,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "observatorio-ogdi-guatemala",
+   "name": "Observatorio OGDI Guatemala",
+   "url": "https://ogdi.org/",
+   "stream": "https://radio.forensedigital.gt:8000/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "#spanish",
+    "español-internacional",
+    "espaňol",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "techno"
+   ],
+   "votes": 156,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "azucar-fm-99-9",
+   "name": "Azúcar FM 99.9",
+   "url": "https://999azucar.com/",
+   "stream": "https://radiostreamingaac.com:8570/azucarjutiapa",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica",
+    "reggaeton"
+   ],
+   "votes": 145,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estereo-santa-sion",
+   "name": "Estéreo Santa Sion",
+   "url": "https://www.estereosantasionlive.com/",
+   "stream": "https://radio015.gt.gt/radio/8000/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 112,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estereo-solar-98-3-fm",
+   "name": "Estéreo Solar 98.3 FM",
+   "url": "https://solar983.com/",
+   "stream": "https://radiostreamingaac.com:8562/solarjutiapa",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "reggaeton"
+   ],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-infinita",
+   "name": "Radio Infinita",
+   "url": "https://radioinfinita.com/",
+   "stream": "https://streams.radio.co/see730c7ab/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [],
+   "votes": 1728,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "emaus-radio",
+   "name": "EMAUS RADIO",
+   "url": "https://emausradio.net/",
+   "stream": "https://sh2.radioonlinehd.com:8141/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 626,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-cultural-tgn",
+   "name": "Radio Cultural TGN",
+   "url": "http://www.radiocultural.org/site",
+   "stream": "https://stream.infinityhdstream.com/7054/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Guatemala",
+   "genre": [],
+   "votes": 267,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rhema-stereo",
+   "name": "Rhema Stereo",
+   "url": "https://rhemastereo.fm/",
+   "stream": "https://radio.fiberstreams.com:2000/stream/8710",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 245,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-guate-digital",
+   "name": "Radio Guate digital",
+   "url": "https://radioguatedigital.com/",
+   "stream": "https://radioguatedigital.com/live/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Guatemala city",
+   "genre": [],
+   "votes": 179,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gaiteros-de-guatemala",
+   "name": "Gaiteros de Guatemala",
+   "url": "https://venezuela.gt/",
+   "stream": "https://radio.forensedigital.gt:8030/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "español---latinoamerica",
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 106,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-activa-95-1-fm-en-linea-catolica",
+   "name": "Radio Activa 95.1 FM. En linea católica",
+   "url": "https://facebook.com/people/Radio-Activa-tu-radio-diocesana-951fm/100076825762031/",
+   "stream": "https://sh4.radioonlinehd.com:8557/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chimaltenango, Guatemala",
+   "genre": [],
+   "votes": 86,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

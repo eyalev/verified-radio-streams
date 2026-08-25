@@ -1,0 +1,143 @@
+{
+ "countryCode": "AD",
+ "country": "Andorra",
+ "slug": "andorra",
+ "continent": "europe",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/andorra/",
+ "stations": [
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 1120,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiosoleluna",
+   "name": "RadioSoleLuna",
+   "url": "https://cast3.server89.com/radio/8040/radio.mp3",
+   "stream": "https://cast3.server89.com/radio/8040/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 131,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "flaix-fm-andorra",
+   "name": "Flaix FM Andorra",
+   "url": "https://flaixfm.cat/",
+   "stream": "https://streaming.giraweb.com/8020/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "flaixbac-andorra",
+   "name": "Flaixbac Andorra",
+   "url": "https://flaixandorra.com/ca/",
+   "stream": "https://streaming.giraweb.com/8010/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "catalan"
+   ],
+   "langCodes": [
+    "ca"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ondas-de-portugal",
+   "name": "Rádio Ondas de Portugal",
+   "url": "",
+   "stream": "https://ssl.ndvendas.eu:9538/stream.mp3/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "fado",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 92,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  }
+ ]
+}

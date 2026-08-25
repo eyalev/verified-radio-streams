@@ -1,0 +1,90 @@
+{
+ "countryCode": "AO",
+ "country": "Angola",
+ "slug": "angola",
+ "continent": "africa",
+ "stationCount": 5,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/angola/",
+ "stations": [
+  {
+   "id": "radio-kuia-bue",
+   "name": "Radio Kuia Bue",
+   "url": "https://radiokuiabue.us/",
+   "stream": "https://a11.asurahosting.com:7400/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 114,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm-musica-pop-em-ingles-e-espanhol",
+   "name": "EXA FM: Música pop em inglês e espanhol",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 1568,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "powermix-fm",
+   "name": "Powermix FM",
+   "url": "https://powermixfm.com/",
+   "stream": "https://cast.iplayradio.net/listen/powermixfm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 582,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 371,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-luanda",
+   "name": "Radio Luanda",
+   "url": "https://rna.ao/",
+   "stream": "https://paineldj5.com.br:20089/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Luanda",
+   "genre": [],
+   "votes": 370,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  }
+ ]
+}

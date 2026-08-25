@@ -1,0 +1,625 @@
+{
+ "countryCode": "LT",
+ "country": "Lithuania",
+ "slug": "lithuania",
+ "continent": "europe",
+ "stationCount": 39,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/lithuania/",
+ "stations": [
+  {
+   "id": "relax-fm-lietuva",
+   "name": "RELAX FM Lietuva",
+   "url": "https://relaxfm.lt/",
+   "stream": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "lithuanian"
+   ],
+   "langCodes": [
+    "lt"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 4243,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "easy-fm",
+   "name": "Easy FM",
+   "url": "https://www.ziniuradijas.lt/easy-fm/",
+   "stream": "https://netradio.ziniur.lt/easyfm.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english",
+    "lithuanian"
+   ],
+   "langCodes": [
+    "en",
+    "lt"
+   ],
+   "genre": [
+    "classic-rock",
+    "jazz",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 3308,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiocentras",
+   "name": "Radiocentras",
+   "url": "https://rc.lt/",
+   "stream": "https://stream2.rc.lt/rc128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 2024,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zip-fm",
+   "name": "ZIP FM",
+   "url": "http://www.zipfm.lt/",
+   "stream": "https://stream1.zipfm.lt/zipfm128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "lithuanian"
+   ],
+   "langCodes": [
+    "lt"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 662,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-fm",
+   "name": "Rock FM",
+   "url": "https://rockfm.lt/",
+   "stream": "https://stream2.rockfm.lt/crf128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "lithuanian"
+   ],
+   "langCodes": [
+    "lt"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 529,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "power-hit-radio-lt",
+   "name": "Power Hit Radio LT",
+   "url": "https://powerhitradio.tv3.lt/",
+   "stream": "https://ice.leviracloud.eu/phr192-mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "lithuanian"
+   ],
+   "langCodes": [
+    "lt"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 201,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-r",
+   "name": "Radio R",
+   "url": "https://radior.lt/",
+   "stream": "https://stream1.relaxfm.lt/rrb128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "lithuanian",
+    "russian"
+   ],
+   "langCodes": [
+    "lt",
+    "ru"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 7,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estakada99",
+   "name": "estakada99",
+   "url": "https://e99.live/",
+   "stream": "https://live.e99.live/main",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "lithuanian"
+   ],
+   "langCodes": [
+    "en",
+    "lt"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zipfm",
+   "name": "ZipFM",
+   "url": "https://zipfm.lt/",
+   "stream": "https://stream2.zipfm.lt/zipfm128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2871,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m-1-dance",
+   "name": "M-1 Dance",
+   "url": "https://radio.m-1.fm/m-1dance/aac",
+   "stream": "https://radio.m-1.fm/m-1dance/aac",
+   "codec": "aac",
+   "bitrate": 256,
+   "state": "Vilniaus m.",
+   "genre": [],
+   "votes": 2083,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radijo-stotis-lietus",
+   "name": "Radijo stotis Lietus",
+   "url": "https://www.lietus.fm/",
+   "stream": "https://radio.m-1.fm/LIETUS",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 674,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "palanga-street-radio",
+   "name": "Palanga Street Radio",
+   "url": "https://palanga.live/",
+   "stream": "https://stream.palanga.live:8443/palanga128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 568,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio",
+   "name": "Play Radio",
+   "url": "https://n08.radiojar.com/d9cm273ystzuv",
+   "stream": "https://n08.radiojar.com/d9cm273ystzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Vilniaus m.",
+   "genre": [],
+   "votes": 336,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "pulsas",
+   "name": "Pulsas",
+   "url": "https://pulsas.lt/",
+   "stream": "https://pulsas.lt/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 247,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-stotis-laluna",
+   "name": "Radio stotis Laluna",
+   "url": "https://www.laluna.lt/",
+   "stream": "https://radio.m-1.fm/laluna/mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 247,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vilnius-fm",
+   "name": "Vilnius fm",
+   "url": "https://vilniusfm.lt/",
+   "stream": "https://stream.vilniusfm.lt/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 205,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m-1-plius",
+   "name": "M-1 Plius",
+   "url": "https://www.pliusas.fm/",
+   "stream": "https://radio.m-1.fm/m1plius/aacp64",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 150,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fiesta",
+   "name": "Radio Fiesta",
+   "url": "https://radiofiesta.lt/",
+   "stream": "https://stream2.radiofiesta.lt/rfs128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 82,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "power",
+   "name": "-=PoWeR=-",
+   "url": "https://powerradio.webstarts.com/",
+   "stream": "https://cast1.my-control-panel.com/proxy/eventas/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "lithuanian",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "lt",
+    "ru"
+   ],
+   "genre": [],
+   "votes": 68,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "european-hit-radio",
+   "name": "European Hit Radio",
+   "url": "https://europeanhitradio.lt/",
+   "stream": "https://stream.ehr.lt:8443/ehr",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Vilniaus m.",
+   "genre": [],
+   "votes": 55,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "topfm",
+   "name": "TOPFM",
+   "url": "https://topfm.lt/",
+   "stream": "https://radio.topfm.lt/listen/topfm/topfm-320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Klaipėdos m.",
+   "genre": [],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zip-fm-is-kasetes",
+   "name": "Zip FM is Kasetes",
+   "url": "https://zipfm.lt/",
+   "stream": "https://klausyk.radijas.lt/listen/is-kasetes/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tavo-balsas-lt",
+   "name": "Tavo Balsas LT",
+   "url": "https://tavobalsas.fm/",
+   "stream": "https://c18.radioboss.fm:8529/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 33,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fred-film-radio-24-lietuviu-kalba",
+   "name": "Fred Film Radio-24 lietuvių kalba",
+   "url": "https://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "lithuanian"
+   ],
+   "langCodes": [
+    "lt"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "freenations",
+   "name": "Радио Свободынх Народов",
+   "url": "https://freenations.online/",
+   "stream": "https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "komi",
+    "sakha",
+    "tatar",
+    "tyvan"
+   ],
+   "langCodes": [
+    "kv",
+    "tt"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radijo-musikii",
+   "name": "Radijo Musikii",
+   "url": "https://www.radijo-musikii.net/",
+   "stream": "https://stream.radijo-musikii.net/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "relax-fm-100-hitu",
+   "name": "Relax FM 100 Hitu",
+   "url": "https://100hitu.lt/",
+   "stream": "https://klausyk.radijas.lt/listen/100hitu/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 21,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "geras2-fm",
+   "name": "Geras2 FM",
+   "url": "http://www.gerasfm.lt/",
+   "stream": "https://stream.goldfm.lt/gerasfm.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lsg-radijas",
+   "name": "lsg radijas",
+   "url": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+   "stream": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "frequence-protestante",
+   "name": "Fréquence Protestante",
+   "url": "https://frequenceprotestante.com/",
+   "stream": "https://freqpro.streamakaci.com/frequenceprotestante.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gold-fm",
+   "name": "Gold FM",
+   "url": "http://goldfm.lt/",
+   "stream": "https://stream.goldfm.lt/goldfm.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "relax-fm-sentimentai",
+   "name": "Relax FM Sentimentai",
+   "url": "https://relaxfm.lt/",
+   "stream": "https://klausyk.radijas.lt/listen/sentimentai/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "leproradio",
+   "name": "Leproradio",
+   "url": "https://leproradio.com/",
+   "stream": "https://live.leproradio.com/bender.ogg",
+   "codec": "ogg",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiosignal",
+   "name": "Радио Сигнал",
+   "url": "https://radiosignal.news/",
+   "stream": "https://media-edge2.hostin.live/radio-singnal.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 11,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mantinho-dance-pulse-fm",
+   "name": "Mantinho Dance Pulse FM",
+   "url": "https://mantinhodancepulsefm.com/",
+   "stream": "https://mira.streamerr.co/listen/mantinhodancepulsefm/radio.aac",
+   "codec": "aac",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "power-gold",
+   "name": "Power Gold",
+   "url": "https://powerhitradio.lt/",
+   "stream": "https://stream.powerhitradio.lt/PHR_GOLD_AAC",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "lithuanian"
+   ],
+   "langCodes": [
+    "lt"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rdtk",
+   "name": "Радио RDTK",
+   "url": "https://rdtk.me/",
+   "stream": "https://rdtk.out.airtime.pro/rdtk_a",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Vilnius",
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-audiomastering-lt",
+   "name": "radio.audiomastering.lt",
+   "url": "https://radio.audiomastering.lt/",
+   "stream": "https://transliacija.audiomastering.lt/pure",
+   "codec": "ogg",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

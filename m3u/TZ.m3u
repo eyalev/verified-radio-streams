@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="Tanzania" tvg-genre="pop",East Africa Radio FM
+https://eatv.radioca.st/stream
+#EXTINF:-1 group-title="Tanzania",Radio One Stereo
+https://radioonetanzania.radioca.st/stream
+#EXTINF:-1 group-title="Tanzania",Capital Radio
+https://capitalradio.radioca.st/stream
+#EXTINF:-1 group-title="Tanzania",Radio Uhai
+https://s2.citrus3.com:8050/stream
+#EXTINF:-1 group-title="Tanzania",Nuru FM
+https://radiotadio.co.tz/nuru-fm-stream
+#EXTINF:-1 group-title="Tanzania",Mungu Kwanza Radio
+https://mungukwanza.radioca.st/;
+#EXTINF:-1 group-title="Tanzania",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Tanzania",Crown FM
+https://radio.crownmedia.co.tz:8443/crown
+#EXTINF:-1 group-title="Tanzania",Radio Kwizera
+https://uk4-vn.mixstream.net/:8052/;listen.mp3

@@ -1,0 +1,2673 @@
+{
+ "countryCode": "AU",
+ "country": "Australia",
+ "slug": "australia",
+ "continent": "oceania",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/australia/",
+ "stations": [
+  {
+   "id": "gold-104-3",
+   "name": "Gold 104.3",
+   "url": "https://www.gold1043.com.au/",
+   "stream": "https://ais-arn.streamguys1.com/au_004_icy",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 3352,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fresh-92-7",
+   "name": "Fresh 92.7",
+   "url": "https://fresh927.com.au/",
+   "stream": "https://live.fresh927.com.au/freshaac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "South Australia",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 1595,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-90s-super-pop-hits",
+   "name": "80s 90s Super Pop Hits",
+   "url": "https://www.radio-australia.org/",
+   "stream": "https://s4.myradiostream.com:7344/listen.mp3?",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "80s",
+    "90s",
+    "hits"
+   ],
+   "votes": 834,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "island-fm-whitsundays-88-0mhz-airlie-beach-centr",
+   "name": "Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland",
+   "url": "https://islandfm.com.au/",
+   "stream": "https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "classic-hits",
+    "pop-music"
+   ],
+   "votes": 525,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-91-9",
+   "name": "Nova 91.9",
+   "url": "http://www.nova919.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "state": "South Australia",
+   "genre": [
+    "hits"
+   ],
+   "votes": 472,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sbs-popasia",
+   "name": "SBS PopAsia",
+   "url": "https://www.sbs.com.au/popasia/",
+   "stream": "https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web",
+   "codec": "aac",
+   "bitrate": 97,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "english",
+    "japanese",
+    "korean"
+   ],
+   "langCodes": [
+    "cmn",
+    "en",
+    "ja",
+    "ko"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "cpop",
+    "jpop",
+    "kpop",
+    "pop-music"
+   ],
+   "votes": 469,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cruise-1323",
+   "name": "Cruise 1323",
+   "url": "https://www.cruise1323.com.au/",
+   "stream": "https://ais-arn.streamguys1.com/au_008_icy",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "South Australia",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 279,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-96-9",
+   "name": "Nova 96.9",
+   "url": "http://www.nova969.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "state": "New South Wales",
+   "genre": [
+    "hits"
+   ],
+   "votes": 161,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "systrum-sistum-ssr2",
+   "name": "Systrum Sistum - SSR2",
+   "url": "https://www.systrum.net/",
+   "stream": "https://systrum.net:8443/SSR2",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "electronica",
+    "techno"
+   ],
+   "votes": 135,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "3abn-australia-radio",
+   "name": "3ABN Australia Radio",
+   "url": "https://www.3abnaustralia.org.au/",
+   "stream": "https://stream.3abnaustralia.org.au:8443/stream",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 132,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wsfm-101-7",
+   "name": "WSFM 101.7",
+   "url": "https://www.wsfm.com.au/",
+   "stream": "https://ais-arn.streamguys1.com/au_002_icy",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "biloela-4brz-89-7mhz-fm-the-breeze-central-queen",
+   "name": "Biloela 4BRZ 89.7MHz FM The Breeze Central Queensland",
+   "url": "https://thebreeze.com.au/",
+   "stream": "https://s8.yesstreaming.net:17065/BrzCNQ",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Biloela Queensland",
+   "genre": [
+    "country"
+   ],
+   "votes": 112,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "5mbs-99-9fm",
+   "name": "5MBS 99.9FM",
+   "url": "https://5mbs.com/",
+   "stream": "https://stream.sigile.net/5mbs-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Adelaide SA",
+   "genre": [
+    "blues",
+    "classical",
+    "jazz"
+   ],
+   "votes": 111,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nightride-fm-chillsynth",
+   "name": "Nightride FM Chillsynth",
+   "url": "https://nightride.fm/?station=chillsynth",
+   "stream": "https://stream.nightride.fm/chillsynth.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Tasmania",
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 105,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "systrum-sistum-ssr1",
+   "name": "Systrum Sistum - SSR1",
+   "url": "https://www.systrum.net/",
+   "stream": "https://systrum.net:8443/SSR1",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "ambient",
+    "electronica"
+   ],
+   "votes": 97,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4k1g-107-1fm-tatsicm-indigenous-community-radio-",
+   "name": "4K1G 107.1FM TATSICM Indigenous Community Radio Townsville",
+   "url": "https://www.4k1g.org/",
+   "stream": "https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "australian-indigenous",
+    "english",
+    "torres-strait-creole"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland Townsville",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 94,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4mbs-classic-fm-brisbane",
+   "name": "4MBS Classic FM - Brisbane",
+   "url": "https://www.4mbs.com.au/",
+   "stream": "https://stream.4mbs.com.au/4mbsclassicfm",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "classical"
+   ],
+   "votes": 90,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "big-hits-radio-qld-townsville-north-queensland-2",
+   "name": "Big Hits Radio QLD Townsville North Queensland 20220701",
+   "url": "https://www.bighitsradio.com.au/BHR/bhr.html",
+   "stream": "https://onlineradiobox.com/json/au/bighits/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland Townsville",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 88,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vision-christian-radio-mp3",
+   "name": "Vision Christian Radio (MP3)",
+   "url": "https://vision.org.au/",
+   "stream": "https://streams2.vision.org.au/vision128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "triple-m-adelaide",
+   "name": "Triple M Adelaide",
+   "url": "https://www.triplem.com.au/adelaide",
+   "stream": "https://legacy.scahw.com.au/5mmm_32",
+   "codec": "aac",
+   "bitrate": 33,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "South Australia",
+   "genre": [
+    "80s",
+    "rock"
+   ],
+   "votes": 74,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "5mbs-99-9fm-aac-64",
+   "name": "5MBS 99.9FM (AAC 64)",
+   "url": "https://5mbs.com/",
+   "stream": "https://stream.sigile.net/5mbs-64-aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Adelaide SA",
+   "genre": [
+    "blues",
+    "classical",
+    "jazz"
+   ],
+   "votes": 68,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fsj-radio-xrn-australia",
+   "name": "FSJ Radio - XRN Australia",
+   "url": "https://xrn.com.au/",
+   "stream": "https://us01.xrn.com.au/listen/fsj/FsjSd",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "chillout",
+    "funk",
+    "jazz",
+    "smooth-jazz",
+    "soul"
+   ],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power100-100-7mhz-fm-townsville-qld-first-in-loc",
+   "name": "Power100 100.7MHz FM Townsville QLD First in Local News and Music 20220701",
+   "url": "https://www.power100.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland Townsville",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2mbs-fine-music-sydney-aac-256",
+   "name": "2MBS Fine Music Sydney AAC 256",
+   "url": "https://www.2mbsfinemusicsydney.com/",
+   "stream": "https://radio12.shoutcast.net.au:2020/stream/2MBS-ICE",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sydney NSW",
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-chill-music-to-chill-to",
+   "name": "Smooth Chill - Music to chill to",
+   "url": "https://www.radio-australia.org/gb/chill",
+   "stream": "https://media-ssl.musicradio.com/SmoothChill",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "chillout",
+    "easy-listening"
+   ],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abc-classic-qld",
+   "name": "ABC Classic (QLD)",
+   "url": "https://www.abc.net.au/listenlive/classic",
+   "stream": "https://live-radio01.mediahubaustralia.com/4FMW/aac/",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "classical"
+   ],
+   "votes": 35,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "artsound-fm",
+   "name": "ArtSound FM",
+   "url": "https://artsound.fm/",
+   "stream": "https://stream.artsound.fm/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Canberra ACT",
+   "genre": [
+    "blues",
+    "classical",
+    "folk",
+    "jazz"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2nurfm",
+   "name": "2NURFM",
+   "url": "https://www.2nurfm.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "104-1-territory-fm-darwin-104-1-fm-mp3",
+   "name": "104.1 Territory FM - Darwin - 104.1 FM (MP3)",
+   "url": "https://territoryfm.com/",
+   "stream": "https://streaming.territoryfm.com:8443/TerritoryFM",
+   "codec": "mp3",
+   "bitrate": 185,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Darwin NT",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 31,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "curtin-radio-a-lifetime-of-music",
+   "name": "Curtin Radio - A lifetime of music",
+   "url": "https://www.curtinfm.com.au/",
+   "stream": "https://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Perth WA",
+   "genre": [
+    "adult-contemporary",
+    "music"
+   ],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mbs-light-brisbane",
+   "name": "MBS Light - Brisbane",
+   "url": "https://www.mbslight.com.au/",
+   "stream": "https://stream.4mbs.com.au/mbslight",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sweet-fm-97-1mhz-community-radio-burdekin-queens",
+   "name": "Sweet FM 97.1MHz Community Radio Burdekin Queensland",
+   "url": "https://www.sweetfm.com.au/",
+   "stream": "https://onlineradiobox.com/json/au/971sweet/play?platform=web%22%20streamType=%22mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland Townsville",
+   "genre": [
+    "classic-rock",
+    "country",
+    "pop"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gem-fm-91-5mhz-bowen-gem-of-the-coral-coast",
+   "name": "Gem FM 91.5MHz Bowen - Gem of the Coral Coast",
+   "url": "https://www.951gemfm.org/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bowen Queensland",
+   "genre": [
+    "classic-rock",
+    "easy-listening"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "syn-fm",
+   "name": "SYN FM",
+   "url": "http://syn.org.au/",
+   "stream": "https://14533.live.streamtheworld.com/3SYNAAC_SC",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamworth-s-88-9-fm-tamworth-88-9-fm-aac",
+   "name": "Tamworth's 88.9 FM - Tamworth - 88.9 FM (AAC)",
+   "url": "https://www.889fmtamworth.com.au/",
+   "stream": "https://stream.889fmtamworth.com.au/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "country",
+    "hits"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-breez-102-5-wide-bay",
+   "name": "The Breez 102.5 Wide Bay",
+   "url": "https://thebreeze.com.au/widebay/",
+   "stream": "https://s8.yesstreaming.net:17099/BrzWB",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 23,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-breeze-gold-coast-100-6-fm-aac",
+   "name": "The Breeze - Gold Coast - 100.6 FM (AAC)",
+   "url": "https://thebreeze.com.au/goldcoast/",
+   "stream": "https://s8.yesstreaming.net:17065/BrzGC",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "adult-contemporary",
+    "easy-listening"
+   ],
+   "votes": 23,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "3mbs-melbourne-103-5-mhz-fm",
+   "name": "3MBS - Melbourne, 103.5 MHz FM",
+   "url": "https://3mbs.org.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [
+    "classical"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "newy-87-8-fm-newcastle-87-8-fm-mp3",
+   "name": "Newy 87.8 FM - Newcastle - 87.8 FM (MP3)",
+   "url": "https://newy.com.au/",
+   "stream": "https://radio.newy.com.au:8888/radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Newcastle NSW",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2mcr-100-3-sounds-of-macarthur-macarthur-communi",
+   "name": "2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio",
+   "url": "https://2mcr.org.au/",
+   "stream": "https://cast4.my-control-panel.com/proxy/tim1/som",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "easy-listening",
+    "oldies"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rebel-fm-106-7-rocks-wide-bay",
+   "name": "Rebel FM 106.7 Rocks Wide Bay",
+   "url": "https://rebelfm.com.au/widebay/",
+   "stream": "https://s8.yesstreaming.net:17099/RblCNQ",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tamworth-s-88-9-fm-tamworth-aac",
+   "name": "Tamworth's 88.9 FM - Tamworth (AAC)",
+   "url": "https://www.889fmtamworth.com.au/",
+   "stream": "https://stream.889fmtamworth.com.au:8443/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "country",
+    "hits"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wandering-sheep-golden-praise",
+   "name": "Wandering Sheep Golden Praise",
+   "url": "https://radio.wanderingsheep.net/",
+   "stream": "https://radio.wanderingsheep.net:8044/goldenpraise",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "worship"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "station-x-xrn-australia",
+   "name": "Station X - XRN Australia",
+   "url": "https://xrn.com.au/",
+   "stream": "https://us01.xrn.com.au/listen/stx/StxSd",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "New South Wales",
+   "genre": [
+    "adult-contemporary",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swingtime-radio",
+   "name": "Swingtime Radio",
+   "url": "https://swingtimeradio.com/",
+   "stream": "https://stream.laut.fm/swingtime",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rebel-fm-gold-coast-99-4-fm-aac-hq",
+   "name": "Rebel FM - Gold Coast - 99.4 FM (AAC) [HQ]",
+   "url": "https://rebelfm.com.au/goldcoast/",
+   "stream": "https://s8.yesstreaming.net:17145/RblGC_hq",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [
+    "rock"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c91-3-fm-macarthur-s-radio-station",
+   "name": "C91.3 FM - Macarthur's Radio Station",
+   "url": "https://c913.com.au/",
+   "stream": "https://ice9.securenetsystems.net/C913",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-sailing-radio",
+   "name": "Smooth Sailing Radio",
+   "url": "https://smoothsailingradio.com/",
+   "stream": "https://s44.myradiostream.com/9144/listen.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rnb",
+    "soul"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "iheart-dance-australia",
+   "name": "iHeart dance Australia",
+   "url": "https://www.iheart.com/live/iheartdance-6941",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "triple-a-fm-wagga-wagga-107-1-fm-https-mp3",
+   "name": "Triple A FM - Wagga Wagga - 107.1 FM (HTTPS) (MP3)",
+   "url": "https://tripleafm.net.au/",
+   "stream": "https://stream.tripleafm.com.au//",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Wagga Wagga NSW",
+   "genre": [
+    "music"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2brw-braidwood-fm",
+   "name": "2BRW Braidwood FM",
+   "url": "https://braidwoodradio.com.au/",
+   "stream": "https://audio-edge-5bkfj.fra.h.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Braidwood",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 7,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mibl-radio-instrumental",
+   "name": "MIBL Radio — Instrumental",
+   "url": "https://www.miblradio.com.au/",
+   "stream": "https://www.miblradio.com.au/mibl2",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "persian"
+   ],
+   "langCodes": [
+    "en",
+    "fa"
+   ],
+   "state": "New South Wales",
+   "genre": [
+    "ambient",
+    "electronic",
+    "instrumental"
+   ],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-prog-rock-machine",
+   "name": "The Prog Rock Machine",
+   "url": "https://progrockmachine.com/",
+   "stream": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3844,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sky-news-australia-radio",
+   "name": "Sky News Australia Radio",
+   "url": "https://www.skynews.com.au/sky-news-radio",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sydney NSW",
+   "genre": [],
+   "votes": 1115,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiis-106-5",
+   "name": "KIIS 106.5",
+   "url": "https://www.kiis1065.com.au/",
+   "stream": "https://ais-arn.streamguys1.com/au_007_icy",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New South Wales",
+   "genre": [],
+   "votes": 747,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiis-101-1",
+   "name": "KIIS 101.1",
+   "url": "https://www.kiis1011.com.au/",
+   "stream": "https://ais-arn.streamguys1.com/au_001_icy",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 555,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2fbi-fbi-radio-94-5-fm-sydney-nsw",
+   "name": "2FBI \"FBi Radio\" 94.5 FM Sydney, NSW",
+   "url": "http://fbiradio.com/",
+   "stream": "https://streamer.fbiradio.com/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "New South Wales",
+   "genre": [],
+   "votes": 484,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "3aw-693-melbourne-vic-australia-talk-am-693",
+   "name": "3AW 693 Melbourne, VIC, Australia Talk AM 693",
+   "url": "https://www.3aw.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Melbourne",
+   "genre": [],
+   "votes": 253,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "97-3fm-brisbane",
+   "name": "97.3fm Brisbane",
+   "url": "https://www.973fm.com.au/",
+   "stream": "https://ais-arn.streamguys1.com/au_011_icy",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [],
+   "votes": 244,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2sm-srn-sydney",
+   "name": "2SM SRN Sydney",
+   "url": "https://2sm.com.au/",
+   "stream": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 227,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sbs-radio-1",
+   "name": "澳大利亚SBS Radio 1",
+   "url": "",
+   "stream": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
+   "codec": "aac",
+   "bitrate": 33,
+   "genre": [],
+   "votes": 197,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4ca-846-am-far-north-qld-classic-hits",
+   "name": "4CA 846 AM Far North QLD Classic Hits",
+   "url": "https://www.4ca.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Queensland",
+   "genre": [],
+   "votes": 179,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "buddha",
+   "name": "Buddha",
+   "url": "https://www.listnr.com/stations/buddha",
+   "stream": "https://legacy.scahw.com.au/2buddha_32",
+   "codec": "aac",
+   "bitrate": 33,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 172,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sawt-sydney",
+   "name": "Sawt Sydney كل الفرق",
+   "url": "https://sawtsydney.com.au/",
+   "stream": "https://usa10.fastcast4u.com/nada22",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 153,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fox-101-9",
+   "name": "Fox 101.9",
+   "url": "https://www.hit.com.au/fox",
+   "stream": "https://legacy.scahw.com.au/3fox_128",
+   "codec": "aac",
+   "bitrate": 130,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 120,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtrfm",
+   "name": "RTRFM",
+   "url": "https://rtrfm.com.au/",
+   "stream": "https://live.rtrfm.com.au/stream1",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Western Australia",
+   "genre": [],
+   "votes": 115,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cnn",
+   "name": "CNN",
+   "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "stream": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 108,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "portuguese-radio-australia",
+   "name": "Portuguese Radio Australia",
+   "url": "https://www.portugueseradio.com/",
+   "stream": "https://s2.radio.co/sdff54b89f/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "New South Wales",
+   "genre": [],
+   "votes": 107,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rekt-network",
+   "name": "Rekt Network",
+   "url": "https://rekt.network/",
+   "stream": "https://stream.rekt.network/rekt.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 96,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sa-rock-radio",
+   "name": "sa rock radio",
+   "url": "https://sarock.radioca.st/stream",
+   "stream": "https://sarock.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4zzz",
+   "name": "4zzz",
+   "url": "https://4zzz.org.au/",
+   "stream": "https://iheart.4zzz.org.au/4zzz",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Queensland Brisbane",
+   "genre": [],
+   "votes": 83,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-9-port-stephens-fm",
+   "name": "100.9 Port Stephens FM",
+   "url": "https://www.psrfm.org.au/",
+   "stream": "https://audio-edge-jfbmv.sin.d.radiomast.io/8df8102b-51bf-45fb-aac5-aa0254d6b177?t=heatwave",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 81,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abc-rn",
+   "name": "ABC RN",
+   "url": "https://www.abc.net.au/listen/radionational",
+   "stream": "https://live-radio01.mediahubaustralia.com/2RNW/mp3/",
+   "codec": "aac",
+   "bitrate": 56,
+   "state": "National",
+   "genre": [],
+   "votes": 79,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "world-buddhist-radio",
+   "name": "World Buddhist Radio",
+   "url": "https://bdcu.org.au/listen-to-buddhist-radio/",
+   "stream": "https://26343.live.streamtheworld.com/SAM11AAC025.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "pali"
+   ],
+   "langCodes": [
+    "en",
+    "pi"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "asp-radio",
+   "name": "ASP Radio",
+   "url": "https://aspradio.au/public/asp_radio",
+   "stream": "https://aspradio.au/listen/asp_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 63,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "triple-r-102-7fm",
+   "name": "Triple R 102.7FM",
+   "url": "https://www.rrr.org.au/",
+   "stream": "https://ondemand.rrr.org.au/getstream?id=wshq",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4rph-reading-radio",
+   "name": "4RPH Reading Radio",
+   "url": "https://readingradio.org.au/",
+   "stream": "https://audio-edge-vqwx4.yyz.g.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [],
+   "votes": 60,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-fm",
+   "name": "Retro FM",
+   "url": "https://retrofm.com.au/",
+   "stream": "https://cast6.asurahosting.com/proxy/retrofmp/stream?ver=663457",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 60,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4bu-1332-am-classic-hits-bundaberg",
+   "name": "4BU 1332 AM Classic Hits Bundaberg",
+   "url": "https://www.4bu.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Queensland",
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lainchan-radio-main",
+   "name": "Lainchan Radio Main",
+   "url": "https://radio.lainchan.org/public/lainchan_radio_main",
+   "stream": "https://radio.lainchan.org/listen/lainchan_radio_main/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 56,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vintage-fm",
+   "name": "Vintage FM",
+   "url": "https://vintagefm.com.au/",
+   "stream": "https://stream.radio.co/sd60e90ab1/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 52,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "3cr",
+   "name": "3CR",
+   "url": "https://www.3cr.org.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/3CR.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89-9-the-light",
+   "name": "89.9 The Light",
+   "url": "https://thelight.com.au/",
+   "stream": "https://stream.thelight.com.au:8130/;/;stream/1",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 48,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nightride-fm",
+   "name": "Nightride FM",
+   "url": "https://nightride.fm/",
+   "stream": "https://stream.nightride.fm/nightride.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 47,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vision-christian-radio",
+   "name": "Vision Christian Radio",
+   "url": "https://vision.org.au/",
+   "stream": "https://streams3.vision.org.au/vision128.mp3?_=1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "88-5-fm",
+   "name": "88.5 fm",
+   "url": "https://885fm.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ELLENBROOK_RADIOAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "braidwood-radio",
+   "name": "Braidwood Radio",
+   "url": "http://www.braidwoodradio.com.au/",
+   "stream": "https://audio-edge-fp8o9.yyz.d.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "New South Wales",
+   "genre": [],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "teabba-radio",
+   "name": "TEABBA RADIO",
+   "url": "https://www.teabba.com.au/",
+   "stream": "https://firstnationsmedia.stream/8014/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 39,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "imc-country-radio",
+   "name": "IMC Country Radio",
+   "url": "https://www.imccountryradio.com/",
+   "stream": "https://servidor36.brlogic.com:7050/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Victoria",
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ac878-fm",
+   "name": "AC878 澳洲华语FM电台",
+   "url": "https://ac878.com.au/",
+   "stream": "https://stream4.rcast.net/71937/#?.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Sydney",
+   "genre": [],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sport-fm",
+   "name": "Sport FM",
+   "url": "http://sportfm.com.au/",
+   "stream": "https://stream.lava.net.au/au_wa_6wsm_sportfm",
+   "codec": "mp3",
+   "bitrate": 112,
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rebel-fm",
+   "name": "rebel fm",
+   "url": "https://rebelfm.com.au/logan/",
+   "stream": "https://s8.yesstreaming.net:17099/RblLgn",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 32,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "93-9",
+   "name": "93.9",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "107-9-life-adelaide",
+   "name": "107.9 LIFE Adelaide",
+   "url": "https://mylifefm.com/",
+   "stream": "https://stream04.sigile.net/1079life-64-aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "97-3-coast-fm",
+   "name": "97.3 Coast FM",
+   "url": "https://www.coastlive.com.au/",
+   "stream": "https://tls1.coastdev.net/coast-mp3?_=370422",
+   "codec": "aac",
+   "bitrate": 130,
+   "genre": [],
+   "votes": 30,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ac-dc",
+   "name": "AC/DC",
+   "url": "https://pcradio.ru/",
+   "stream": "https://stream.pcradio.ru/ac_dc-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "samadhi-hifi",
+   "name": "Samadhi HiFI",
+   "url": "https://ww.samadhihifi.net/",
+   "stream": "https://studio19.radiolize.com/radio/8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "engilsh"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4ttt-fm-103-9mhz-community-radio-townsville",
+   "name": "4TTT-FM 103.9MHz Community Radio Townsville",
+   "url": "https://www.triplet.com.au/",
+   "stream": "https://onlineradiobox.com/json/au/triplet/play?platform=web%22%20streamType=%22mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Queensland Townsville",
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "woolworths-radio",
+   "name": "Woolworths Radio",
+   "url": "https://www.iheart.com/live/woolworths-radio-9195/",
+   "stream": "https://arn-instore.streamguys1.com/wwr_007",
+   "codec": "aac",
+   "bitrate": 49,
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2cc-talking-canberra",
+   "name": "2CC Talking Canberra",
+   "url": "https://www.2cc.net.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Canberra ACT",
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4zzz-digital",
+   "name": "4ZZZ Digital",
+   "url": "https://4zzz.org.au/",
+   "stream": "https://iheart.4zzz.org.au/zed-digital",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "englsih"
+   ],
+   "genre": [],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "917thewave",
+   "name": "917TheWave",
+   "url": "https://www.917thewave.com.au/",
+   "stream": "https://tls3.coastdev.net/6mm-mp3",
+   "codec": "aac",
+   "bitrate": 130,
+   "state": "Western Australia",
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nightride-fm-datawave",
+   "name": "Nightride FM Datawave",
+   "url": "https://nightride.fm/?station=datawave",
+   "stream": "https://stream.nightride.fm/datawave.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Tasmania",
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "joy-94-9-out-loud-proud",
+   "name": "JOY 94.9 Out Loud Proud",
+   "url": "http://www.joy.org.au/",
+   "stream": "https://stream.joy.org.au/proxy/joy949?mp=/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Victoria",
+   "genre": [],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-fm-104-9",
+   "name": "Sunshine FM 104.9",
+   "url": "https://www.sunshinefm.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM_SC?dist=onlineradiobox",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-rock-geelong-95-5",
+   "name": "K Rock Geelong 95.5",
+   "url": "https://www.krock.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCKAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latinos-fm",
+   "name": "Latinos FM",
+   "url": "https://www.latinosfm.com/",
+   "stream": "https://colombiawebs.com.co/proxy/latinosf/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "latin"
+   ],
+   "langCodes": [
+    "la"
+   ],
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rebel-99-4-gold-coast",
+   "name": "Rebel 99.4 Gold Coast",
+   "url": "https://rebelfm.com.au/listen-live/goldcoast/",
+   "stream": "https://s8.yesstreaming.net:17099/RblGC",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2mce-bathurst-92-3-fm-mp3",
+   "name": "2MCE - Bathurst - 92.3 FM (MP3)",
+   "url": "https://2mce.org/",
+   "stream": "https://stream.2mce.org/2MCE",
+   "codec": "mp3",
+   "bitrate": 141,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bathurst NSW",
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "3cr-community-radio",
+   "name": "3CR Community Radio",
+   "url": "https://www.3cr.org.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/3CRAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "australian-country-radio",
+   "name": "Australian Country Radio",
+   "url": "https://www.auscountry.com.au/",
+   "stream": "https://streaming.radio.co/s5ea3fdd1c/low",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "noongar-radio",
+   "name": "Noongar Radio",
+   "url": "https://www.noongarradio.com/",
+   "stream": "https://firstnationsmedia.stream/8028/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "english",
+    "noongar",
+    "noongar-aboriginal",
+    "nyoongar"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Western Australia",
+   "genre": [],
+   "votes": 16,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c91-3",
+   "name": "C91.3",
+   "url": "https://c913.com.au/",
+   "stream": "https://c913.com.au/livestream",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "emfm-echuca-moama-community-radio-echuca-104-7-f",
+   "name": "EMFM - Echuca Moama Community Radio - Echuca - 104.7 FM (AAC+)",
+   "url": "https://radioemfm.org.au/",
+   "stream": "https://emfm-https.rezuru.com:9300/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "massive-chill-radio",
+   "name": "Massive Chill Radio",
+   "url": "https://www.massivedance.com/massive-chill/",
+   "stream": "https://puma.streemlion.com:3950/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-fm-bega-bay",
+   "name": "Power FM Bega Bay",
+   "url": "https://www.powerfmbegabay.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BEG_POWER_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "NSW Bega Bay",
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "5ebi-103-1-fm",
+   "name": "5EBI 103.1 FM",
+   "url": "https://5ebi.com.au/",
+   "stream": "https://icecast1.myradio.click/cast2_64k.aacp",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "multiculti"
+   ],
+   "state": "South Australia",
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abc-radio-south-east-nsw",
+   "name": "ABC Radio South East NSW",
+   "url": "http://abc.net.au/",
+   "stream": "https://abc.streamguys1.com/live/localsoutheastnsw/icecast.audio",
+   "codec": "aac",
+   "bitrate": 56,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "led-zeppelin",
+   "name": "Led Zeppelin",
+   "url": "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+   "stream": "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-italiana-531",
+   "name": "Radio Italiana 531",
+   "url": "https://www.radioitaliana531.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOITALIANA.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vision-australia-radio",
+   "name": "Vision Australia Radio",
+   "url": "https://radio.visionaustralia.org/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/3RPHAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4rfm-moranbah-96-9-fm-aac-320k",
+   "name": "4RFM - Moranbah - 96.9 FM (AAC+ 320k)",
+   "url": "https://4rfm.com.au/",
+   "stream": "https://stream.4rfm.com.au/1",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Queensland",
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90-1-happy-fm",
+   "name": "90.1 Happy Fm",
+   "url": "https://happyfm.org.au/",
+   "stream": "https://stream.sigile.net/happyfm-128-mp3?1692452622660",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "96five-brisbane",
+   "name": "96five Brisbane",
+   "url": "https://www.96five.com/",
+   "stream": "https://stream1.cnmns.net/96five",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eastside-radio-89-7fm",
+   "name": "Eastside Radio 89.7FM",
+   "url": "https://eastsidefm.org/",
+   "stream": "https://streamer.eastsidefm.org/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "state": "Sydney",
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hawkesbury-radio-sports",
+   "name": "Hawkesbury Radio Sports",
+   "url": "https://hawkesbury.radio/station/sports/",
+   "stream": "https://c15.radioboss.fm:8523/autodj",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-105-9",
+   "name": "Magic 105.9",
+   "url": "https://www.magic1059.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_MAGIC1059.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-adelaide-101-5",
+   "name": "Radio Adelaide 101.5",
+   "url": "https://radioadelaide.org.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADEAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "west-bremer-radio",
+   "name": "West Bremer Radio",
+   "url": "https://westbremerradio.com/",
+   "stream": "https://icecast01.goanna.network/wbr",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wow-fm-100-5",
+   "name": "WOW FM 100.5",
+   "url": "https://www.wowfm.org/",
+   "stream": "https://stream.sigile.net/wowfm-64-aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-heart-radio-countdown-australia",
+   "name": "i Heart Radio Countdown Australia",
+   "url": "https://www.iheart.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT11AAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "northside-radio-99-3",
+   "name": "Northside Radio 99.3",
+   "url": "https://northsideradio.com.au/#",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NSBAAC.aac?_=1",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1035fm-orange",
+   "name": "1035FM Orange",
+   "url": "https://1035fm.com.au/",
+   "stream": "https://stream2.cnmns.net/orange1035",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2bob-radio-104-7fm",
+   "name": "2BOB Radio 104.7FM",
+   "url": "http://www.2bobradio.org.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BOB.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "8-bit-remix-radio",
+   "name": "8-bit Remix Radio",
+   "url": "https://terminal-dystopia.com/",
+   "stream": "https://terminal-dystopia.com/radio/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 9,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bbbfm-89-1-barossa",
+   "name": "BBBfm 89.1 Barossa",
+   "url": "https://www.bbbfm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/5BBBAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "perth-6ix",
+   "name": "Perth 6IX",
+   "url": "https://www.6ix.com.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/6IX.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4eb",
+   "name": "4EB",
+   "url": "https://www.4eb.org.au/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/4EB.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bay-fm-byron",
+   "name": "Bay FM Byron",
+   "url": "https://www.bayfm.org/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BAY_FM999.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "golden-days-radio",
+   "name": "Golden Days Radio",
+   "url": "https://goldendaysradio.com/",
+   "stream": "https://a2.asurahosting.com:6350/radio.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Victoria",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tribe-fm-willunga",
+   "name": "Tribe FM Willunga",
+   "url": "https://www.tribefm.org.au/",
+   "stream": "https://stream04.sigile.net/tribefm-128-mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2cr",
+   "name": "2CR",
+   "url": "https://www.2cr.com.au/",
+   "stream": "https://stream1.rcast.net/68855",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alex-fm-radio-goolwa",
+   "name": "Alex FM - Radio Goolwa",
+   "url": "https://www.radiogoolwa-alexfm.com.au/",
+   "stream": "https://s41.myradiostream.com/27270/;",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "triple-r",
+   "name": "Triple R",
+   "url": "https://www.rrr.org.au/",
+   "stream": "https://ondemand.rrr.org.au/getstream?id=web1",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibe-nation-radio",
+   "name": "Vibe Nation Radio",
+   "url": "https://vibenation.live/",
+   "stream": "https://listen.vibenation.live/vibe",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "98-9-tyga-fm-new-norfolk",
+   "name": "98.9 TYGA FM New Norfolk",
+   "url": "https://www.tygafm.org.au/",
+   "stream": "https://radio12.shoutcast.net.au:2020/stream/8012",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-fm-98-5-shepparton",
+   "name": "One FM 98.5 Shepparton",
+   "url": "https://fm985.com.au/",
+   "stream": "https://s2.radio.co/sae3372059/listen",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "paradise-fm101-9-ballina",
+   "name": "PARADISE FM101.9 Ballina",
+   "url": "https://www.paradisefm.org.au/",
+   "stream": "https://stream2.cnmns.net/paradisefm-mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fraser-coast-fm-107-5-hervey-bay",
+   "name": "Fraser Coast FM 107.5 Hervey Bay",
+   "url": "https://www.frasercoast.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/4FCRAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mansfield-99-7fm",
+   "name": "Radio Mansfield 99.7FM",
+   "url": "https://radiomansfield.org.au/",
+   "stream": "https://c7.radioboss.fm:18291/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Victoria",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

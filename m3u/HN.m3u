@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="Honduras" tvg-genre="pop",VOX FM
+https://ice42.securenetsystems.net/VOXFM
+#EXTINF:-1 group-title="Honduras" tvg-genre="pop",ROCK N' POP
+https://ice42.securenetsystems.net/ROCKNPOP
+#EXTINF:-1 group-title="Honduras" tvg-genre="music",La Top 102.9 FM - San Pedro Sula, Honduras
+https://us9.maindigitalstream.com/ssl/latop102
+#EXTINF:-1 group-title="Honduras" tvg-genre="music,pop,pop-music,pop-rock",EXA FM: Música Pop en Español e Inglés
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Honduras" tvg-genre="70s,80s,90s,classic-hits,music,oldies",Estereo Clásica
+https://streaming.radio.co/s0c06b7076/listen
+#EXTINF:-1 group-title="Honduras" tvg-genre="bachata,cumbia,music",Girasol Stereo 102.3 FM
+https://stream.playerlive.info:8037/live.aac
+#EXTINF:-1 group-title="Honduras" tvg-genre="classic-hits,oldies",Estereo Sur 91.3 FM
+https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
+#EXTINF:-1 group-title="Honduras",Radio HRN La Voz de Honduras
+https://ice42.securenetsystems.net/HRN
+#EXTINF:-1 group-title="Honduras",Radio Globo 88.5 HN
+https://stream.radiosmundiales.com:8016/GLOBO885
+#EXTINF:-1 group-title="Honduras",GD Dubai
+https://streaming.exclusive.radio/er/gratefuldead/icecast.audio
+#EXTINF:-1 group-title="Honduras",LA RADIO GLOBAL
+https://sonicpanel.us/8022/stream
+#EXTINF:-1 group-title="Honduras",Otoro Radio
+https://stream.playerlive.info:8089/live.aac
+#EXTINF:-1 group-title="Honduras",Cortes FM
+https://cortesfm-zikoxweb.radioca.st/stream/1/
+#EXTINF:-1 group-title="Honduras",Stereo Dimensión - La 96
+https://rr5100.globalhost1.com:7328/stream
+#EXTINF:-1 group-title="Honduras",Radio Progreso HN
+https://streamingcwsradio30.com:7045/stream
+#EXTINF:-1 group-title="Honduras",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Honduras",Stereo Luz
+https://stream.playerlive.info:8081/;
+#EXTINF:-1 group-title="Honduras",LHT FM 104.1
+https://ice26.securenetsystems.net/LHTFM

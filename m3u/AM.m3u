@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="Armenia" tvg-genre="music,pop",MFM Music Radio
+https://eu.stream4cast.com/proxy/mfmradio/stream
+#EXTINF:-1 group-title="Armenia" tvg-genre="pop-music",Armenian Radio
+https://cast.thiff.com/proxy/laarmeni?mp=/stream
+#EXTINF:-1 group-title="Armenia",Armenian Christian Radio - Bashde Radio
+https://streams.radio.co/sa0bf8ec29/listen?sid=1
+#EXTINF:-1 group-title="Armenia",LOVE RADIO
+https://loveradio.streamingmedia.it/play
+#EXTINF:-1 group-title="Armenia",Radio Marshall
+https://eu.stream4cast.com/proxy/marshallfm/stream
+#EXTINF:-1 group-title="Armenia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Armenia",Lav Radio
+https://eu.stream4cast.com/proxy/lavradio/stream
+#EXTINF:-1 group-title="Armenia",Armenian Bible Study Radio
+https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722
+#EXTINF:-1 group-title="Armenia",XFM Radio
+https://eu.stream4cast.com/proxy/xfmradio/stream

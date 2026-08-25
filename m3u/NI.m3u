@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Nicaragua" tvg-genre="pop,pop-music,pop-rock",Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Nicaragua" tvg-genre="bachata,merengue,music,salsa",Fiesta Latina 89.1 FM
+https://radios.solumedia.com/6596/stream
+#EXTINF:-1 group-title="Nicaragua" tvg-genre="classic-rock,rock",Rock FM 105.5
+https://securestream.us/radio/8050/radio.mp3
+#EXTINF:-1 group-title="Nicaragua",Radio Estrella del Mar
+https://streamer.radio.co/sd5242d0b6/listen
+#EXTINF:-1 group-title="Nicaragua",Radio Juan Pablo Segundo 97.7 fm
+https://dc2.serverse.com:8040/stream
+#EXTINF:-1 group-title="Nicaragua",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Nicaragua",Radio Stereo Mundo 91.9 FM
+https://ssl.hostingtico.com:8138/smundo2014
+#EXTINF:-1 group-title="Nicaragua",The Sound of the Caribbean
+https://a10.asurahosting.com:8570/radio.mp3

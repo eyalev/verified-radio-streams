@@ -1,0 +1,266 @@
+{
+ "countryCode": "KR",
+ "country": "South Korea",
+ "slug": "south-korea",
+ "continent": "asia",
+ "stationCount": 13,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/south-korea/",
+ "stations": [
+  {
+   "id": "listen-moe-kpop",
+   "name": "Listen.moe Kpop",
+   "url": "https://listen.moe/kpop",
+   "stream": "https://listen.moe/kpop/stream",
+   "codec": "ogg",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [
+    "kpop"
+   ],
+   "votes": 2745,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "big-b-radio-kpop",
+   "name": "Big B Radio - Kpop",
+   "url": "https://bigbradio.net/kpop",
+   "stream": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 2637,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cbs-music-fm",
+   "name": "CBS 파워라디오 [Music FM]",
+   "url": "https://cbsfm.modoo.at/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 275,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm",
+   "name": "평양FM",
+   "url": "https://www.behindthecurtain-northkorea.com/audio-pyongyangfm",
+   "stream": "https://listen7.myradio24.com/69366",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 263,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "listen-moe-kpop-mp3",
+   "name": "Listen.moe Kpop (MP3)",
+   "url": "https://listen.moe/",
+   "stream": "https://listen.moe/kpop/fallback",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [
+    "kpop"
+   ],
+   "votes": 61,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "afn-go-daegu",
+   "name": "AFN GO DAEGU",
+   "url": "https://afngo.net/afnpacific/Daegu",
+   "stream": "https://22963.live.streamtheworld.com/AFNP_DGUAAC.aac?country=KR&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=11fdf19a-4184-4c11-f1ce-9c93ca088fa1",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Daegu",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 2,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fred-film-radio",
+   "name": "Fred Film Radio(한국어)",
+   "url": "http://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "state": "Seoul",
+   "genre": [],
+   "votes": 123,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "k-radio",
+   "name": "K-RADIO",
+   "url": "https://www.am1660.com/",
+   "stream": "https://s5.radio.co/s0a9796fe3/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "replay-news-5",
+   "name": "REPLAY NEWS - 한국어 5분마다 뉴스 라디오",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "state": "incheon",
+   "genre": [],
+   "votes": 20,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bsod-mbc-mini-all-that-music",
+   "name": "(BSOD) MBC mini All-That-Music",
+   "url": "https://radio.bsod.kr/",
+   "stream": "https://radio.bsod.kr/stream/?stn=mbc&ch=chm",
+   "codec": "aac",
+   "bitrate": 67,
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "state": "Seoul",
+   "genre": [],
+   "votes": 9,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kbs-1radio",
+   "name": "KBS 1RADIO",
+   "url": "http://kbs.co.kr/",
+   "stream": "https://radio.bsod.kr/stream/?stn=kbs&ch=1radio",
+   "codec": "unknown",
+   "bitrate": 0,
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "state": "Seoul",
+   "genre": [],
+   "votes": 4,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cbs-music-fm-2",
+   "name": "CBS Music FM",
+   "url": "http://www.cbs.co.kr/",
+   "stream": "https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

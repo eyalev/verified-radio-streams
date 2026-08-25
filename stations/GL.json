@@ -1,0 +1,68 @@
+{
+ "countryCode": "GL",
+ "country": "Greenland",
+ "slug": "greenland",
+ "continent": "americas",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/greenland/",
+ "stations": [
+  {
+   "id": "radiodiplopenies",
+   "name": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",
+   "url": "https://www.radiodiplopenies.gr/",
+   "stream": "https://play.streams.gr/sc/radiodiplopenies/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 69,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 39,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "knr-live-radio",
+   "name": "KNR Live Radio",
+   "url": "https://knr.gl/en/live-radio",
+   "stream": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 27,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "original-laikos",
+   "name": "Original Laikos",
+   "url": "https://radiooriginallaikos.blogspot.com/",
+   "stream": "https://play.streams.gr:22035/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

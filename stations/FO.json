@@ -1,0 +1,109 @@
+{
+ "countryCode": "FO",
+ "country": "Faroe Islands",
+ "slug": "faroe-islands",
+ "continent": "europe",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/faroe-islands/",
+ "stations": [
+  {
+   "id": "voxpop",
+   "name": "VoxPop",
+   "url": "https://www.fm1.fo/",
+   "stream": "https://stream-secure.midlar.fo/voxpop-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "faroese"
+   ],
+   "langCodes": [
+    "fo"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm1-88-7",
+   "name": "FM1 88,7",
+   "url": "https://www.fm1.fo/",
+   "stream": "https://stream-secure.midlar.fo/fm1-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nor-lysi",
+   "name": "Norðlýsið",
+   "url": "https://nordlysid.fo/",
+   "stream": "https://liveradio.stream.fo/listen/nordlysid/web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "faroese"
+   ],
+   "langCodes": [
+    "fo"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "aldan-hitt-radio",
+   "name": "Aldan: Hitt Radio",
+   "url": "https://www.aldan.fo/",
+   "stream": "https://streaming.radio.co/s4d14b9fcc/listen",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lindin-kristiligt-kringvarp",
+   "name": "Lindin: Kristiligt Kringvarp",
+   "url": "https://lindin.fo/",
+   "stream": "https://high.lindin.fo/",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

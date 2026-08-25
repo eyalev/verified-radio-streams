@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1 group-title="Czechia" tvg-genre="disco,funk",Funkstar Radio
+https://funkstar.radioca.st/stream
+#EXTINF:-1 group-title="Czechia" tvg-genre="classic-rock,rock",Rádio Beat (128 AAC)
+https://icecast2.play.cz/beat128aac
+#EXTINF:-1 group-title="Czechia" tvg-genre="rock",Rock Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="pop",Radio Blaník Morava a Slezsko
+https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==
+#EXTINF:-1 group-title="Czechia" tvg-genre="dance,house,trance",Dance Club Radio
+https://ice4.abradio.cz/dance128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="edm,electronic,hip-hop",Fed's Trap Radio
+https://backend.fedstrapradio.com:8000/radio.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="dance",Netro Life Radio 100,8 FM
+https://icecast9.play.cz/netro-life-radio.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="house",WeHouseRadio
+https://stream.zunradio.cz/zun3.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="90s",Evropa2 Youradio Flashbacky
+https://ice.actve.net/web-e2-flashback
+#EXTINF:-1 group-title="Czechia" tvg-genre="house",We House Radio (AAC+ High)
+https://stream.zunradio.cz/zun1.aac
+#EXTINF:-1 group-title="Czechia" tvg-genre="dance",Fresh radio 103.6
+https://icecast.beatzone.cz/radio/8000/128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="oldies",Rádio Blaník Oldies
+https://ice.radia.cz/oldiesradio128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="90s",Rádio Diana – Retro Club
+https://westradio.cz/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="dance,house",Sunrise Radio (Czechia)
+https://stream.laut.fm/radio-dance-eu
+#EXTINF:-1 group-title="Czechia" tvg-genre="classic-rock,dance,disco,oldies,pop",Rádio Nostalgie
+https://icecast3.play.cz/radio-nostalgie128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="rock",Rock rádio – CZ Rock
+https://ice2.radia.cz/rockzabava128.aac
+#EXTINF:-1 group-title="Czechia" tvg-genre="pop",Evropa 2 - aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac
+#EXTINF:-1 group-title="Czechia" tvg-genre="pop",Hitrádio Contact
+https://ice3.abradio.cz/hitradiocontact128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="alternative",ČRo Wave
+https://rozhlas.stream/wave_mp3_128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="dance,house,trance",BojlerRoom
+https://ice4.abradio.cz/bojler_room_128.aac
+#EXTINF:-1 group-title="Czechia" tvg-genre="hits,pop",Hitradio Zlín
+https://ice.radia.cz/radiozlin128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="blues,pop,pop-rock,rock",Radio Fonlord
+https://a5.asurahosting.com:6530/radio.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="80s,90s",BIKERS RADIO DOUPE
+https://icecast7.play.cz/bikersradiodoupe128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="pop-music",Rádio Jih
+https://icecast6.play.cz/jih32.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="pop,rock",Impuls Ráááádio
+https://stream.sepia.sk:8000/impuls128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="schlager",Rádio Písnička
+https://stream.slagr-radio.cz/pisnicka
+#EXTINF:-1 group-title="Czechia" tvg-genre="classic-rock,metal,rock",Deecibel Rock Radio
+https://stream.deecibel.com/rock
+#EXTINF:-1 group-title="Czechia" tvg-genre="schlager",Šlágr Rádio
+https://stream.slagr-radio.cz/mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="90s,dance,electronic,house,techno",Deecibel One Radio
+https://stream.deecibel.com/one
+#EXTINF:-1 group-title="Czechia" tvg-genre="2000s,90s",Radio MB
+https://ice3.abradio.cz/radiomb128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="classical",ČRo D-dur
+https://rozhlas.stream/ddur.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="jazz",ČRo Jazz
+https://rozhlas.stream/jazz.mp3
+#EXTINF:-1 group-title="Czechia" tvg-genre="ambient",Radia.cz - Fire
+https://ice2.radia.cz/relax-fire64.aac
+#EXTINF:-1 group-title="Czechia",povídka
+https://ice3.abradio.cz/povidka128.mp3
+#EXTINF:-1 group-title="Czechia",Radio Svoboda (ru) (official stream)
+https://stream.radiojar.com/hcrb063nn3quv
+#EXTINF:-1 group-title="Czechia",Rádio Blaník
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3
+#EXTINF:-1 group-title="Czechia",Evropa 2 - Radio
+https://ice.actve.net/fm-evropa2-128
+#EXTINF:-1 group-title="Czechia",Comedy Club R@dio DIANA
+https://westradio.cz/radio/8010/radio.mp3
+#EXTINF:-1 group-title="Czechia",Kiss Radio - 128MP3
+https://icecast1.play.cz/kissdelta128.mp3
+#EXTINF:-1 group-title="Czechia",Rádio humor 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac
+#EXTINF:-1 group-title="Czechia",CRo Radiozurnal
+https://rozhlas.stream/radiozurnal_aac_128.aac
+#EXTINF:-1 group-title="Czechia",Hitrádio Faktor
+https://ice.abradio.cz/faktor128.mp3
+#EXTINF:-1 group-title="Czechia",ČRO Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1 group-title="Czechia",ČRo Plus
+https://rozhlas.stream/plus_mp3_128.mp3
+#EXTINF:-1 group-title="Czechia",Český rozhlas Brno
+https://rozhlas.stream/brno.mp3
+#EXTINF:-1 group-title="Czechia",FREKVENCE 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3
+#EXTINF:-1 group-title="Czechia",Rádio DNB TV
+https://ice3.abradio.cz/shadowbox128.mp3
+#EXTINF:-1 group-title="Czechia",Rádio Čas Rock (192 kbps)
+https://icecast9.play.cz/casrock192.mp3
+#EXTINF:-1 group-title="Czechia",RadioParty.pl
+https://s2.radioparty.pl:8015/stream
+#EXTINF:-1 group-title="Czechia",Známka Punku
+https://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1 group-title="Czechia",Radio Prague International
+https://rozhlas.stream/cro7_mp3_128.mp3
+#EXTINF:-1 group-title="Czechia",Крым Реалии (rus, ukr) (official stream)
+https://stream.radiojar.com/wm9sntcpn3quv
+#EXTINF:-1 group-title="Czechia",Phonk Nation Radio
+https://radio.mxnticek.eu/listen/phonk/128.mp3
+#EXTINF:-1 group-title="Czechia",Dance rádio cz
+https://ice.actve.net/dance-radio128.mp3
+#EXTINF:-1 group-title="Czechia",ČRo Ostrava
+https://rozhlas.stream/ostrava_high.aac
+#EXTINF:-1 group-title="Czechia",Cesky Rozhlas Jazz
+https://rozhlas.stream/jazz_high.aac
+#EXTINF:-1 group-title="Czechia",ČRo Wave
+https://rozhlas.stream/wave_mp3_256.mp3
+#EXTINF:-1 group-title="Czechia",Čro Vltava Flac
+https://amp.cesnet.cz:8443/cro3.flac
+#EXTINF:-1 group-title="Czechia",Radio Prostor
+https://bcast.spmmedia.cz/prostor-mp3
+#EXTINF:-1 group-title="Czechia",Evropa 2 - mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3
+#EXTINF:-1 group-title="Czechia",Metal Heart Radio
+https://cz.radio-streamhosting.com:8443/metalheartradio128mp3
+#EXTINF:-1 group-title="Czechia",ČRo Olomouc
+https://rozhlas.stream/olomouc_low.aac
+#EXTINF:-1 group-title="Czechia",Rádio Koleda
+https://ice3.radia.cz/koleda_64.aac
+#EXTINF:-1 group-title="Czechia",CRo Vysocina
+https://rozhlas.stream/vysocina_high.aac
+#EXTINF:-1 group-title="Czechia",Český rozhlas České Budějovice
+https://rozhlas.stream/ceske_budejovice_high.aac
+#EXTINF:-1 group-title="Czechia",Rádio Energic
+https://icecast9.play.cz/energic.mp3
+#EXTINF:-1 group-title="Czechia",COLOR Music Radio
+https://icecast8.play.cz/color128.mp3
+#EXTINF:-1 group-title="Czechia",čro radiožurnál sport Stream AdHoc 2
+https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
+#EXTINF:-1 group-title="Czechia",Rádio Sázava
+https://icecast8.play.cz/sazava192.mp3
+#EXTINF:-1 group-title="Czechia",ZUN rádio
+https://icecast9.play.cz/zun48.aac
+#EXTINF:-1 group-title="Czechia",čro Radiožurnál Sport AdHoc stream 1
+https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3
+#EXTINF:-1 group-title="Czechia",Rádio Samson
+https://icecast2.play.cz/samsonfm128aac
+#EXTINF:-1 group-title="Czechia",WorldRadio
+https://worldradio100.radioca.st/stream
+#EXTINF:-1 group-title="Czechia",Radia.cz - Birds
+https://ice2.radia.cz/relax-morning-birds64.aac
+#EXTINF:-1 group-title="Czechia",Hitrádio Osmdesátka
+https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac
+#EXTINF:-1 group-title="Czechia",Radio Bonton
+https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182
+#EXTINF:-1 group-title="Czechia",Radio Slobodna Evropa
+https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg
+#EXTINF:-1 group-title="Czechia",Čas Rock Natvrdo
+https://stream.sepia.sk:8000/rnt128.mp3
+#EXTINF:-1 group-title="Czechia",Hitrádio Devadesátka
+https://ice2.radia.cz/hit90128.aac
+#EXTINF:-1 group-title="Czechia",LA RADIO PLUS ANNECY
+https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970
+#EXTINF:-1 group-title="Czechia",ČRo Sever
+https://rozhlas.stream/sever_high.aac
+#EXTINF:-1 group-title="Czechia",RADIO.IPIP.CZ: Cherry80
+https://icecast.beatzone.cz/radio/8630/cherry.mp3
+#EXTINF:-1 group-title="Czechia",Luc Radio
+https://cast1.torontocast.com:3800/stream
+#EXTINF:-1 group-title="Czechia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Czechia",CrazyRadio.cz
+https://stream.rcast.net/72851
+#EXTINF:-1 group-title="Czechia",Radio O106
+https://listen.radioking.com/radio/442799/stream/497147
+#EXTINF:-1 group-title="Czechia",Astra Radio
+https://icecast.astraradio.cz/192
+#EXTINF:-1 group-title="Czechia",Chat Rádio
+https://radio.chatujme.cz:8000/chatradio
+#EXTINF:-1 group-title="Czechia",Classic Prague
+https://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 group-title="Czechia",Rádio Povádka
+https://ice3.radia.cz/povidka128.mp3
+#EXTINF:-1 group-title="Czechia",Český rozhlas Hradec Králové
+https://rozhlas.stream/hradec_kralove.mp3
+#EXTINF:-1 group-title="Czechia",Radia.cz - Train
+https://ice2.radia.cz/relax-train64.aac
+#EXTINF:-1 group-title="Czechia",RADIO KISS
+https://stream.rcs.revma.com/asn0cmvb938uv
+#EXTINF:-1 group-title="Czechia",Rádio Orlicko
+https://mediaservice.radioorlicko.cz/stream192.mp3
+#EXTINF:-1 group-title="Czechia",Shinto
+https://s49.myradiostream.com/8142/listen.mp3
+#EXTINF:-1 group-title="Czechia",GenWave Radio
+https://genwave-radio.com/listen/genwave/radio.mp3
+#EXTINF:-1 group-title="Czechia",Radia.cz - Sea
+https://ice2.radia.cz/relax-sea64.aac
+#EXTINF:-1 group-title="Czechia",Rádio 1
+https://stream.rcs.revma.com/stk8hrvb938uv
+#EXTINF:-1 group-title="Czechia",Rádio Pohádka
+https://ice3.radia.cz/pohadka128.mp3

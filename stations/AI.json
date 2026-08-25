@@ -1,0 +1,44 @@
+{
+ "countryCode": "AI",
+ "country": "Anguilla",
+ "slug": "anguilla",
+ "continent": "americas",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/anguilla/",
+ "stations": [
+  {
+   "id": "klass-fm-92-9",
+   "name": "Klass FM 92.9",
+   "url": "https://klass929.com/",
+   "stream": "https://klassfm929.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 144,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 37,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

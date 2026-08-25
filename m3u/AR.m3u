@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia",Fm Cumbiambera
+https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance,electronic",Metro 95.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",FM Millenium 106.7
+https://sonicpanel.hostradios.com/8002/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",La Popu
+https://liveradio.mediainbox.net/popular.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance,pop",Delta 90.3
+https://cdn.instream.audio//:9069//stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="musica,rock",FM La Patriada
+https://server.laradio.online/proxy/fm_la_patriada?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,pop-music,pop-rock,top-40,top-hits",Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="classic-hits,classic-rock,eighties,nineties,oldies",Radio Shopping
+https://stream4.suenas.net/shoppingclassics
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance",La 100 Clásicos - Disco Retro Clásicos
+https://27323.live.streamtheworld.com/FCLASICOS_56AAC.aac?
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,pop,pop-music,pop-rock,top-100,top-40,top-hits",Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop",FM 97.9 Vida
+https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="easy-listening",Radio 2
+https://cdn.instream.audio/:9056/stream?_=1680ada412b
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Cadena Heat
+https://liveradio.mediainbox.net/fmcordoba.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="classic-hits,hits,music,pop,rock",Rock & Pop 95.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary",LA NACION 104.9
+https://stream.radio.co/s2ed3bec0a/listen
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary",Radio Splendid AM 900
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM990.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="tango",La 2x4
+https://media.radios.ar:9270/
+#EXTINF:-1 group-title="Argentina" tvg-genre="classic-rock",Classique: Una radio de clásicos
+https://01.solumedia.com.ar:8562/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,latin-pop,pop",Mucha Radio 94.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="techno",Delta 90.3 Buenos Aires
+https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988
+#EXTINF:-1 group-title="Argentina" tvg-genre="rock",Undinamo
+https://cdn.instream.audio/:9339/stream?in_device_id=WPU32ffbfaa3cd8ebaaa8f64ec868bf4b88XY177fdfd79a7
+#EXTINF:-1 group-title="Argentina" tvg-genre="musica",FM Bariloche
+https://streaming1.locucionar.com/proxy/colgados?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,pop",Comunidad Fan FM 105.1 Rosario
+https://radio02.ferozo.com/proxy/ra02001326?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="60s,70s,80s,90s,pop",Hollywood 101.3
+https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="classical",CVC La Voz Urbano
+https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg
+#EXTINF:-1 group-title="Argentina" tvg-genre="electronic,pop",Cristal FM
+https://radio02.ferozo.com/proxy/ra02001330?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="musica,popular",92.5 FM Radio 2000
+https://server6.hostradios.com/8390/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance,hits",Acqua FM 100.1
+https://strcdn.klm99.com:10985/acquavillagesell
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music,pop,top-40",LOS 40 SANTA FE 97.7
+https://radios.solumedia.com:6158/stream?icy=http
+#EXTINF:-1 group-title="Argentina" tvg-genre="rock",Cosquín Rock 95.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Radio UTN Bahia Blanca - FM 93.5
+https://sonic.cloudstreaming.eu:10986/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,musica",RADIO ARIAS FM 91.1 JUJUY
+https://cdn.instream.audio/:9095/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Radio Verdad (Villa Dolores)
+https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music,pop",RADIO CENTRO
+https://sonicpanel.hostradios.com/8710/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop-music",LT9 Radio Brigadier López La Líder
+https://streaming1.locucionar.com/proxy/lt9?mp=/stream?rand=718352759
+#EXTINF:-1 group-title="Argentina" tvg-genre="jazz,music",FM Blackie 89.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary,classic-hits,classic-rock",Rio FM 96.9 Rosario
+https://streaming.redboing.com/radio/8070/radio.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia",Fm 106.1 Estacion 2
+https://emisora.zonasinergia.com/8068/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,pop",Radio Rio Cuarto
+https://server6.hostradios.com/8552/stream/;/;type=mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s,music,pop,rock",rock and pop 89.7 FM
+https://streamlky.alsolnet.com/rockandpop_128k
+#EXTINF:-1 group-title="Argentina" tvg-genre="80s",Net80 Radio
+https://streaming.escuchanosonline.com/8274/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Planet Music Mar del PLata 101.1
+https://strcdn.klm99.com:10991/planetmdp
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,pop,rock",FM 90.9 Rosario
+https://streaming2.locucionar.com/proxy/radiobt?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,latin-pop,pop",Kiss FM 95.1 Rosario
+https://streaming.redboing.com/radio/8060/radio.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="music,pop-music",Radio Magic FM 100.9 Tigre
+https://radio01.ferozo.com/proxy/ra01000677/?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,pop-music,pop-rock",Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,popular",Emisora del Este 98.9 FM y 98.1 FM
+https://streaming.radiosenlinea.com.ar/8008/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,musica",Aries FM 91.1
+https://streaming3.locucionar.com/proxy/ariesonline?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop",Cienradios Radio X
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOX_56AAC.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="classical",jaja cba
+https://streaming5.locucionar.com/proxy/radiojaja?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music,popular",FM Estación Popular 101.1
+https://streaming.escuchanosonline.com:7298/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance",Radio1: ElectricCircus
+https://radio.eduneu.eu:8000/radio.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="music,musica",Antena 1 radio
+https://streaming.escuchanosonline.com/8268/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,dance,hits",Fahrenheit FM 88.7 Rosario
+https://streaming.redboing.com/radio/8010/radio.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop",Rivadavia Rosario FM 106.3 Rosario
+https://radio02.ferozo.com/proxy/ra02001331?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="popular",Andina FM 92.9
+https://streaming01.shockmedia.com.ar:10801/stream?icy=http
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary,pop,rock",XRADIO 99.1
+https://radios.streamingdha.com.ar/9826/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance,electronic,house,music",ESPACIAL 105.1 FM
+https://chino.republicahosting.com:2282/live
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,reggaeton",FM CIUDAD 94.7
+https://streaming6.locucionar.com:24028/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="alternative,rap,rock",K2 RADIO 96.3 FM
+https://cdn.instream.audio/:9568/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Planet Music Bahía Blanca
+https://strcdn.klm99.com:10987/planetbahia
+#EXTINF:-1 group-title="Argentina" tvg-genre="musica,pop",Activa FM 93.5
+https://streaming5.locucionar.com/proxy/activafm?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="alternative",Antena Libre 89.1 FM
+https://cdn.instream.audio/:9140/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="musica",Antena Uno 92.3FM Posadas
+https://radios.solumedia.com:10818/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="funk,pop,rock",Coctel online
+https://streaming01.shockmedia.com.ar:8452/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary,oldies,pop,rock",FM Horizonte (historica 94.3)
+https://14223.live.streamtheworld.com/SAM06AAC243_SC
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,music",FM Eclipse 90.5
+https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,rock",RADIO ZEN FM
+https://server.streamcasthd.com/8008/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="musica",FM 102.3
+https://radios.solumedia.com:6276/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="tango",NaranjoFM
+https://radio02.ferozo.com/proxy/ra02001228?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="80s,90s,oldies",Vinilo Mix
+https://audiopanel.com.ar:8010/radio.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s",Concepto FM 95.5
+https://radios.solumedia.com:6002/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,60s,70s,80s,90s,alternative,classic-hits,electronic,hits",De la Nueva Bahía 106.1 FM
+https://radios.solumedia.com/6136/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,popular",FM ESPERANZA 107.1 MHZ
+https://streaming01.shockmedia.com.ar:10404/stream?icy=http
+#EXTINF:-1 group-title="Argentina" tvg-genre="70s,80s,90s,adult-contemporary,music,oldies",Radio Digital San Luis 101.1 FM
+https://streamconex.com:8062/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s,classic-rock,music,rock",Cadena Express 88.1 FM
+https://streamall.alsolnet.com/cadenaexpress
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,reggaeton",Dale FM 93.1
+https://streaming01.shockmedia.com.ar:10891/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance,electronic,electronica",Elevate 102.1 FM Rosario
+https://sonic.host-live.com/8120/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music,pop",FM Cielo 93.1
+https://streaming1.locucionar.com/proxy/fmcielo931?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="blues,jazz,metal,rock",Radio UTN FRC FM 94.3
+https://01.solumedia.com.ar:8200/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="rock",XRADIO Bariloche
+https://radios.streamingdha.com.ar/8004/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,hits,pop,popular",Concierto FM 94.7
+https://01.solumedia.com.ar:8112/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop",Dale FM 93.1
+https://streaming01.shockmedia.com.ar:10891/;?hash=1659583597942
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary,music,oldies",Digital FM 102.1
+https://turadioenvivo.com/proxy/fmdigital/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s,adult-contemporary,classic-hits,music",FM de la Costa 90.5
+https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="popular",Radio Amanecer AM 1290 - FM 92.7
+https://streaming2.locucionar.com/proxy/radioamanecer?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,rock",Radio Cool FM 103.7
+https://radios.solumedia.com:10805/stream/1/
+#EXTINF:-1 group-title="Argentina" tvg-genre="chillout,house,oldies,pop,pop-music",RADIODJ
+https://pulsedeck.org/listen/radiodj/radio.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,pop,popular,reggaeton,top-40",Cadena Rio FM 88.7
+https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary,alternative,hits,indie,music,rock",Elite FM 101.5
+https://radios.solumedia.com/6314/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,popular",FM del Bosque 104.1
+https://radio01.ferozo.com/proxy/ra01000983?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Fresh Radio FM 102.9FM
+https://streaming.escuchanosonline.com:7011/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="gospel",Radio el buen samaritano 101.7 FM
+https://radios.solumedia.com:10903/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="alternative",Estación Urbana 104.7 FM
+https://streaming2.locucionar.com/proxy/estacionurbana?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="alternative,electronic,hits,music,trance",Expo Radio FM 94.3
+https://radios.tecnosoul.com.ar:8001/exporadio
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary",FM Amistad 93.5 Mhz
+https://server.laradio.online/proxy/raul_benitez?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",FM Centro Basavilbaso 105.1
+https://streamconex.com:8030/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop-rock",LVDIEZ
+https://streamserver-2.xyz:8000/radio.aac
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,70s,80s,90s,adult-contemporary,disco",Radio Infinity Classic
+https://sonic.host-live.com/8192/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music,pop",Eclipse FM 101.5 MHz
+https://01.solumedia.com.ar:8746/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="50s,60s,70s,80s,90s,music",Ecos de mis Cerros
+https://masservidor.net:7163/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s,baladas,classic-hits,music,pop",FM Club Patagonia 88.9
+https://radio01.ferozo.com/proxy/ra01000872?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",FM de la Costa 99.9
+https://streaming5.locucionar.com/proxy/fmdelacosta?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="baladas,cumbia,tango",FM Emoción 98.1
+https://streaming.escuchanosonline.com:7229/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,70s,80s,90s,classic-hits,hits,music,pop,rock",La 106.1 FM - Siempre Una Canción
+https://streamconex.com:2000/stream/La106
+#EXTINF:-1 group-title="Argentina" tvg-genre="classical",LU18 AM 640 Radio del Valle (Rio Negro)
+https://streamingraddios.online/proxy/valle?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music",Radio De La Costa 101.9 FM
+https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop",Radio Metropolitana 95.3
+https://masservidor.net:7176/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,reggaeton",Antena 1 91.5 FM
+https://s3.netradiofm.com/p/9008/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits",Antena Nueve 94.3 FM
+https://radios.solumedia.com:10918/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="music,oldies",CIUDAD 88.5 FM
+https://streaming.escuchanosonline.com:7049/live
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s,music,pop,rock",CRISTAL FM Noetinger
+https://radio02.ferozo.com/proxy/ra02001324?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music,pop,rock",Estacion 95 91.5 FM
+https://streaming2.locucionar.com/proxy/estacion95?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia",FM 98.1 Perez Millan
+https://server.radiostreaming.com.ar/8470/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,hits,popular,reggaeton",FM ABRIL Radio 90.9
+https://server.laradio.online/proxy/abdel_ortega?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,musica",FM Activa 91.5
+https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,popular",FM Barrancas 98.7
+https://server.radiostreaming.com.ar/8152/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",FM Ciudad 88.3
+https://genexservicios.com:2000/stream/ciudadtotoras
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop",FM Color 99.3 (General Roca)
+https://streamingraddios.online/proxy/cozzi?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,80s,90s,classic-hits,hits,music",FM del Lago 92.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
+#EXTINF:-1 group-title="Argentina" tvg-genre="classic-hits,rock",FM del Sol 100.5
+https://streaming2.locucionar.com/proxy/solpehuajo?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music,pop,reggaeton",Frecuencia Digital 99.1 FM
+https://radios.streamingdha.com.ar/8022/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="cumbia,music,popular",LA POCHA FM 98.1
+https://streaming.radiosenlinea.com.ar:10635/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="dance,hits,music,pop,top-40",RADIO CADENA VIDA 95.3 FM
+https://host.serviceinfinito.com.ar:7006/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary,hits",VIP Radio
+https://server6.hostradios.com:7232/;?1741613055764
+#EXTINF:-1 group-title="Argentina" tvg-genre="indie,pop,reggae,rock",Blur Radio
+https://live.radiovague.com:8443/blurfm04
+#EXTINF:-1 group-title="Argentina" tvg-genre="rock",FM 10 Bolívar 106.1
+https://ssl.radiosnethosting.com/index.php?port=8004
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,pop",FM ANGEL 94.3
+https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158
+#EXTINF:-1 group-title="Argentina" tvg-genre="70s,80s,adult-contemporary,classic-hits",FM DEL ESTE 99.3
+https://radio01.ferozo.com/proxy/ra01000956?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Radio 3 Andina AM 1200
+https://radio01.ferozo.com/proxy/ra01000982?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,90s,classic-hits,hits,music,pop,pop-rock,rock",Aura Radio
+https://cp9.serverse.com/proxy/auraradio/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,rock",FM 10 97.3
+https://streaming1.locucionar.com/proxy/fm10?mp=/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,70s,80s,90s,classic-hits,hits,pop",FM Armonía 105.1
+https://radiosar.com:9346/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="70s,80s,90s,classic-hits,music,oldies",FM Digital 100.1
+https://streaming01.radiosenlinea.com.ar:10346/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",FM Estudio Playa Pinamar 98.1
+https://radios.solumedia.com:8998/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="music",Frecuencia Arena 98.3
+https://stream.serviciowebdigital.com/8854/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,90s,adult-contemporary,classic-hits,dance-music,electronic,pop-music,pop-rock",GX Radio
+https://streaming01.radiosenlinea.com.ar:10961/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="pop,rock",Mega 98.3 Trelew
+https://cdn.instream.audio:9116/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="alternative,music,rock",Meridiano FM 98.5
+https://streaming.escuchanosonline.com:7346/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music",ROLDÁN FM 92 92.3
+https://server.laradio.online/proxy/delcia_karamoschon?mp=/stream&1692351094586
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary",FM Anta 96.1
+https://stream.radioinfo.ar/p/8092/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,oldies,pop,rock",FM Centro 100.7
+https://tolkien.republicahosting.net:2378/live
+#EXTINF:-1 group-title="Argentina" tvg-genre="adult-contemporary",FM Concepto 98.1
+https://radio.fmconcepto.com.ar/;
+#EXTINF:-1 group-title="Argentina" tvg-genre="2000s,hits,music",FM Del Buen Ayre 105.3
+https://streaming.radiosenlinea.com.ar/8738/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="popular",FM DEL VALLE 99.9
+https://01.solumedia.com.ar:8764/stream
+#EXTINF:-1 group-title="Argentina" tvg-genre="hits,music",Radio Claromecó FM 106.9
+https://irrati.radio105.ar/1069.opus
+#EXTINF:-1 group-title="Argentina" tvg-genre="classic-hits",VIP Radio Clásicos
+https://server6.hostradios.com:7232/;?1775392057693
+#EXTINF:-1 group-title="Argentina",Radio Rivadavia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3
+#EXTINF:-1 group-title="Argentina",Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
+#EXTINF:-1 group-title="Argentina",Mitre AM 790. AAC Alta. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac
+#EXTINF:-1 group-title="Argentina",Radio Rivadavia AM 630. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+#EXTINF:-1 group-title="Argentina",La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+#EXTINF:-1 group-title="Argentina",Blue FM 100.7. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
+#EXTINF:-1 group-title="Argentina",El Destape Radio
+https://ipanel.instream.audio/8004/stream
+#EXTINF:-1 group-title="Argentina",Radio La Red AM 910. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
+#EXTINF:-1 group-title="Argentina",Cadena 3 Cordoba
+https://liveradio.mediainbox.net/radio3.mp3
+#EXTINF:-1 group-title="Argentina",AM 530 Somos radio
+https://ipanel.instream.audio:7000/stream
+#EXTINF:-1 group-title="Argentina",Radio Disney Argentina 94.3. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3
+#EXTINF:-1 group-title="Argentina",Aspen 102.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
+#EXTINF:-1 group-title="Argentina",Pobre Johnny
+https://stream4.suenas.net/pobrejohnny
+#EXTINF:-1 group-title="Argentina",Metro FM 95.1. Ciudad de Buenos Aires
+https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
+#EXTINF:-1 group-title="Argentina",d-Sports radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac
+#EXTINF:-1 group-title="Argentina",Urbana Play 104.4
+https://cdn.instream.audio:9660/stream
+#EXTINF:-1 group-title="Argentina",Radio Rivadavia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets

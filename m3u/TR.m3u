@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Türkiye" tvg-genre="folk",Radyo Şiran
+https://live.radyositesihazir.com/8078/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Super Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
+#EXTINF:-1 group-title="Türkiye" tvg-genre="70s,80s,90s",Radyo 45lik yeni
+https://stream.radyo45lik.com:4545/
+#EXTINF:-1 group-title="Türkiye" tvg-genre="classical",Alem Fm
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 group-title="Türkiye" tvg-genre="classical",Halk Radyo
+https://anadolu.liderhost.com.tr:10876/;
+#EXTINF:-1 group-title="Türkiye" tvg-genre="downtempo,electronica,indie",Radio Antalya
+https://my.radiolize.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="dance,edm,house",Radyo Fenomen Clubbin
+https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:-1 group-title="Türkiye" tvg-genre="classical",Erzincan Cem Radyo
+https://erzincan.80.yayin.com.tr/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="hits,pop",Radio 44
+https://radyo44.80.yayin.com.tr/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop,rock",Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
+#EXTINF:-1 group-title="Türkiye" tvg-genre="classical",HAYATMİX
+https://hayatmix.yayin.com.tr/mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="arabesk",S1lhoutte Arabesk FM
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Süper Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Radyo Taksi
+https://live.radyo.in/8006/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="dance,house",Power Dance
+https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio
+#EXTINF:-1 group-title="Türkiye" tvg-genre="edm,trance",FG 93.8 (Future Generation) mp3 128k
+https://edge1.radyotvonline.net/shoutcast/play/fg
+#EXTINF:-1 group-title="Türkiye" tvg-genre="folk",Radyo Yalova
+https://studio25.radiolize.com/radio/8200/radio.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Retro Turk
+https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Radyo 35
+https://yayin.turkhosted.com/6012/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="classical",.Al quran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 group-title="Türkiye" tvg-genre="house",Loops Radio House Station
+https://loopsdeep.ozelip.com/7806/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="hits,oldies,pop",Mega Ask FM
+https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="hits,pop",Süper 2 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="electronic",Mayday Records
+https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="oldies,pop-music,pop-rock",Radio Line
+https://online.radioline.fm:8443/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="easy-listening",Radyo Odtu Easy
+https://stream3.radyoodtu.com.tr:8000/easy
+#EXTINF:-1 group-title="Türkiye" tvg-genre="90s,easy-listening,jazz",Radyo Gökçeada
+https://radyo.yayin.com.tr:6179/;
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Köroğlu FM
+https://yayin.turkhosted.com:6068/stream?/;stream.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="country,pop,pop-rock,rock",KTU
+https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="jazz",Kıyı Caz
+https://caz.radioca.st/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="folk,pop",Göl Radyo
+https://28553.live.streamtheworld.com/SUPER_FM_ITUNES.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Radyo Esenler
+https://yayin2.canliyayin.org:10978/;
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop-music",Radyo Venüs
+https://stream2.rtvtakip.com:7005/;stream.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="metal,rock",Türk Rock FM
+https://yayin5.radyohizmeti.com/8090/stream;
+#EXTINF:-1 group-title="Türkiye" tvg-genre="folk",101.4 HATAY TEMPO FM
+https://sslyayin.netyayin.net:1215/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="turku",ANTAKYA RENK FM HATAY
+https://radyo.yayindakiler.com:3016/renk
+#EXTINF:-1 group-title="Türkiye" tvg-genre="romantic",Romantik SES Sakarya
+https://radyo.romantikses.com/romantiksessakary/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Bodrum Fm
+https://live.bodrumfm.org/stream.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="indie,pop",Enradio
+https://radyo1.radyo-dinle.tc/8098/stream
+#EXTINF:-1 group-title="Türkiye" tvg-genre="jazz,pop",RadyoAura
+https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop",Bizim Fm Şile
+https://stream.turkiyeradyolari.com/9300/stream?_t=1786859250066
+#EXTINF:-1 group-title="Türkiye" tvg-genre="music,pop",Esas radyo
+https://yayin.turkhosted.com:6034/stream/;stream.mp3
+#EXTINF:-1 group-title="Türkiye" tvg-genre="classic-hits,hits",Heart FM 103.4
+https://live.heartfm.com.tr/listen/heart_fm/128.aac
+#EXTINF:-1 group-title="Türkiye" tvg-genre="electronic",irvess
+https://irvess.com/stream/irvess
+#EXTINF:-1 group-title="Türkiye" tvg-genre="pop,romantic",Romantik Ses ISPARTA
+https://radyo.romantikses.com/romantiksesispart/stream
+#EXTINF:-1 group-title="Türkiye",KRAL TÜRK FM
+https://live.radyositesihazir.com/8032/stream
+#EXTINF:-1 group-title="Türkiye",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1 group-title="Türkiye",Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 group-title="Türkiye",JOY TÜRK TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/
+#EXTINF:-1 group-title="Türkiye",Slow Turk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1 group-title="Türkiye",SUPER FM 2 TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/
+#EXTINF:-1 group-title="Türkiye",Metro fm turkey
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?
+#EXTINF:-1 group-title="Türkiye",Habertürk Radyo
+https://haberturkradyo.radyotvonline.net/haberturkradyo
+#EXTINF:-1 group-title="Türkiye",Kurd1 FM
+https://listen.radioking.com/radio/119251/stream/158701
+#EXTINF:-1 group-title="Türkiye",TRT FM
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1 group-title="Türkiye",BAYRAM FM TURKEY
+https://sslyayin.netyayin.net/3442/stream
+#EXTINF:-1 group-title="Türkiye",JOY TÜRK ROCK TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/
+#EXTINF:-1 group-title="Türkiye",TRT Radyo 1
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 group-title="Türkiye",Azadi Fm
+https://amed.ozelip.com/8040/;
+#EXTINF:-1 group-title="Türkiye",Türkiyem FM
+https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream
+#EXTINF:-1 group-title="Türkiye",Radyo Alaturka
+https://yayin.jumboserver.net:9100/stream
+#EXTINF:-1 group-title="Türkiye",LALEGÜL FM
+https://icecast.netmedya.net/lalegulfm
+#EXTINF:-1 group-title="Türkiye",Radyo Trio
+https://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 group-title="Türkiye",TGRT FM
+https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
+#EXTINF:-1 group-title="Türkiye",radyo mezopotamya
+https://anadolu.liderhost.com.tr/9404/stream
+#EXTINF:-1 group-title="Türkiye",Kiss Türk
+https://kiss.radyotvonline.net/kissturk
+#EXTINF:-1 group-title="Türkiye",Radio Mydonose
+https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3
+#EXTINF:-1 group-title="Türkiye",Radyo Gol
+https://edge1.radyotvonline.net/shoutcast/play/radyogol
+#EXTINF:-1 group-title="Türkiye",Hemdem Radyo
+https://radyoserver3.okeylisans.com/8040/stream
+#EXTINF:-1 group-title="Türkiye",TRT Radyo Haber
+https://trt.radyotvonline.net/trthaber
+#EXTINF:-1 group-title="Türkiye",TürküRadyo
+https://yayin.turkhosted.com/4591/stream
+#EXTINF:-1 group-title="Türkiye",Radyo Ekin
+https://yayin.turkhosted.com/6006/stream
+#EXTINF:-1 group-title="Türkiye",HaYaTMiX Slow
+https://radyo.yayin.com.tr:4090/mp3
+#EXTINF:-1 group-title="Türkiye",Mydonose Türk
+https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3
+#EXTINF:-1 group-title="Türkiye",RADYO AKDENIZ
+https://yayin.radyoakdeniz.com/9470/stream
+#EXTINF:-1 group-title="Türkiye",Küpe FM
+https://icecast.netmedya.net/kupefm
+#EXTINF:-1 group-title="Türkiye",Erkam Radyo
+https://api-tv5.yayin.com.tr:8002/mp3
+#EXTINF:-1 group-title="Türkiye",Dijital radyo
+https://anadolu.liderhost.com.tr:10961/;
+#EXTINF:-1 group-title="Türkiye",KIYI Muzik
+https://kiyi.radioca.st/stream
+#EXTINF:-1 group-title="Türkiye",Loops Radio Progressive
+https://progressive.ozelip.com/7670/stream
+#EXTINF:-1 group-title="Türkiye",Radio Glamorize
+https://live.radioglamorize.com/stream1
+#EXTINF:-1 group-title="Türkiye",Türkü Radyo
+https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1
+#EXTINF:-1 group-title="Türkiye",Fakir Fm
+https://live.radyositesihazir.com/1025/stream/
+#EXTINF:-1 group-title="Türkiye",Radyo Mori
+https://amed.ozelip.com/8040/stream
+#EXTINF:-1 group-title="Türkiye",Loops Radio Elektronica Station
+https://ssl22.radyotelekom.com/8232/stream
+#EXTINF:-1 group-title="Türkiye",Loops Radio Techno
+https://ip179.ozelip.com/7688//asistan/stream/
+#EXTINF:-1 group-title="Türkiye",Radyo Sinerji
+https://radio.guventechnology.com/9994/stream
+#EXTINF:-1 group-title="Türkiye",Max Fm 95.8 ‘Maximum Music'
+https://maxfm.radyotvonline.net/stream/164/;
+#EXTINF:-1 group-title="Türkiye",Elazığ Mavi Radyo
+https://yayin.turkhosted.com/6066/stream
+#EXTINF:-1 group-title="Türkiye",DanceLand Anthems
+https://likeradiostream.com/dancelandanthems
+#EXTINF:-1 group-title="Türkiye",Radyo 2000 Erzincan
+https://radyo.yayindakiler.com:3030/stream?/;stream.mp3
+#EXTINF:-1 group-title="Türkiye",Radyo Viva
+https://edge1.radyotvonline.net/shoutcast/play/radyoviva
+#EXTINF:-1 group-title="Türkiye",MEGASITE
+https://stream.netradyom.com/listen/megasite/radio.mp3
+#EXTINF:-1 group-title="Türkiye",Kalp FM
+https://yayin.kalpfm.com:8080/
+#EXTINF:-1 group-title="Türkiye",Radyo Nida
+https://anadolu.liderhost.com.tr/8106/stream
+#EXTINF:-1 group-title="Türkiye",Özel FM
+https://ozelfm.80.yayin.com.tr/;stream/1
+#EXTINF:-1 group-title="Türkiye",oyunpiyat
+https://yayin.hostwin.net/8888/stream%20%20oyunpiyatfm
+#EXTINF:-1 group-title="Türkiye",X Radio
+https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1 group-title="Türkiye",Show radio
+https://edge1.radyotvonline.net/shoutcast/play/showradyo
+#EXTINF:-1 group-title="Türkiye",KIYI Turkce
+https://kiyiturk.radioca.st/stream
+#EXTINF:-1 group-title="Türkiye",Radyo Duygusal
+https://radyoduygusal.kesintisizyayin.com:9596/;*.nsv
+#EXTINF:-1 group-title="Türkiye",radyo mydonose
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3
+#EXTINF:-1 group-title="Türkiye",Erzincan Nostalji Radyo
+https://erzincannostalji.ozelip.com/8238/stream
+#EXTINF:-1 group-title="Türkiye",Bayram FM
+https://sslyayin.netyayin.net:10962/320.mp3
+#EXTINF:-1 group-title="Türkiye",Konya İsra FM
+https://yayin2.canliyayin.org:8210/;stream
+#EXTINF:-1 group-title="Türkiye",Radyo 13
+https://radyo.yayindakiler.com:3050/stream?/;stream.mp3
+#EXTINF:-1 group-title="Türkiye",Radyo Kent
+https://kentfm955.ozelip.com/9306/stream
+#EXTINF:-1 group-title="Türkiye",Danceland
+https://likeradiostream.com/danceland
+#EXTINF:-1 group-title="Türkiye",ULUSAL ARABESK
+https://radio.guventechnology.com/9334/stream
+#EXTINF:-1 group-title="Türkiye",Erkam Radyo 2nd Stream
+https://yayin2.canliyayin.org:10910/stream?
+#EXTINF:-1 group-title="Türkiye",Kafa Radyo
+https://radyofitrat.radyotvonline.net/
+#EXTINF:-1 group-title="Türkiye",Radyo EN
+https://yayin2.canliyayin.org:7222/;
+#EXTINF:-1 group-title="Türkiye",Radyo Hakkın Sesi
+https://radio.mihr.com/radio/8010/hakkinsesi
+#EXTINF:-1 group-title="Türkiye",HAYATMİX ARABESK
+https://radyo.yayin.com.tr:4078/mp3
+#EXTINF:-1 group-title="Türkiye",Number 1 Türk Rap
+https://dijimedya.radyotvonline.net/turkrap
+#EXTINF:-1 group-title="Türkiye",Radyo Karadeniz
+https://radyomar.80.yayin.com.tr/;
+#EXTINF:-1 group-title="Türkiye",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Türkiye",JOY TÜRK FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
+#EXTINF:-1 group-title="Türkiye",REPLAY NEWS - Türkçe Her 5 dakikada haber radyosu
+https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3
+#EXTINF:-1 group-title="Türkiye",imaj fm Erzurum
+https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3
+#EXTINF:-1 group-title="Türkiye",Yaren FM
+https://yarenfmn.80.yayin.com.tr//stream
+#EXTINF:-1 group-title="Türkiye",Radyo Hidayet Çağı
+https://radio.mihr.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Türkiye",Radyo Mars
+https://yayin.radyomadyo.com:9400/stream
+#EXTINF:-1 group-title="Türkiye",KARMA TÜRK SLOW
+https://yayin.radyomadyo.com:8004/stream
+#EXTINF:-1 group-title="Türkiye",NUR Radyo
+https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3
+#EXTINF:-1 group-title="Türkiye",Her An Kur'an Her An Mutluluk
+https://radio.mihr.com/radio/8050/radio.mp3
+#EXTINF:-1 group-title="Türkiye",Kıyı Gece
+https://gece.radioca.st/stream
+#EXTINF:-1 group-title="Türkiye",RADYO TÜRKÜ
+https://yayin.radyomadyo.com:8008/stream
+#EXTINF:-1 group-title="Türkiye",MPL Radyo
+https://canli.hidayetradyolari.com/listen/mpl_radyo/radio.mp3
+#EXTINF:-1 group-title="Türkiye",Radio Life Kayseri
+https://yayin2.canliyayin.org:10990/;*.mp3
+#EXTINF:-1 group-title="Türkiye",Tarsus FM
+https://tarsusfm.80.yayin.com.tr//stream
+#EXTINF:-1 group-title="Türkiye",andromedaradio
+https://radyo1.radyo-dinle.tc/andromedaradio/stream
+#EXTINF:-1 group-title="Türkiye",DEDEMİN RADYOSU
+https://anadolu.liderhost.com.tr/9002/stream
+#EXTINF:-1 group-title="Türkiye",GENÇ KRAL FM
+https://anadolu.liderhost.com.tr:10853/;
+#EXTINF:-1 group-title="Türkiye",literal
+https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac
+#EXTINF:-1 group-title="Türkiye",Ostim Radyo
+https://stream.netradyom.com/radio/8010/radio.mp3%22
+#EXTINF:-1 group-title="Türkiye",POWERTÜRK SLOW
+https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio
+#EXTINF:-1 group-title="Türkiye",Tarkan
+https://stream.pcradio.ru/tarkan-hi
+#EXTINF:-1 group-title="Türkiye",Gevaş Sesi Radyosu
+https://live.radyositesihazir.com:8056/stream
+#EXTINF:-1 group-title="Türkiye",playdanceradio
+https://radyo1.radyo-dinle.tc/playdanceradio/stream
+#EXTINF:-1 group-title="Türkiye",Radyo Doğubayazıt FM 104.4
+https://radyo1.radyo-dinle.tc/8156/stream
+#EXTINF:-1 group-title="Türkiye",Mekke Fm
+https://radyodinle.cansuyufm.com/17175/stream;
+#EXTINF:-1 group-title="Türkiye",RADYO MEGA
+https://megaradyoiskenderun.ozelip.com/8024/stream
+#EXTINF:-1 group-title="Türkiye",RADYO ZERGAN (47)
+https://sslyayin.netyayin.net/radyozergan/;
+#EXTINF:-1 group-title="Türkiye",BEST SLOW
+https://hepsibest.radyotvonline.net/bestslow
+#EXTINF:-1 group-title="Türkiye",HEY RADYO
+https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128
+#EXTINF:-1 group-title="Türkiye",Radyo 13 FM 96
+https://radyo.yayindakiler.com:3050/stream
+#EXTINF:-1 group-title="Türkiye",RADYO 75
+https://anadolu.liderhost.com.tr/8126/stream
+#EXTINF:-1 group-title="Türkiye",SIZIR FM
+https://stream.radiojar.com/tamm1f7kk48uv
+#EXTINF:-1 group-title="Türkiye",95.1 TEMPO RADYO HATAY
+https://sslyayin.netyayin.net/tempo/stream

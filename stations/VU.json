@@ -1,0 +1,98 @@
+{
+ "countryCode": "VU",
+ "country": "Vanuatu",
+ "slug": "vanuatu",
+ "continent": "oceania",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/vanuatu/",
+ "stations": [
+  {
+   "id": "buzz-fm-96-3",
+   "name": "BUZZ FM 96.3",
+   "url": "https://www.buzzfm.vu/",
+   "stream": "https://streamer.dailypost.vu/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Centre, sef, Vanuatu",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "paradise-98fm",
+   "name": "Paradise 98FM",
+   "url": "https://vbtc.vu/radio-2",
+   "stream": "https://radio.vbtc.vu/paradisefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bislama",
+    "english"
+   ],
+   "langCodes": [
+    "bi",
+    "en"
+   ],
+   "state": "Port Vila, sef, Vanuatu",
+   "genre": [],
+   "votes": 21,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "femme-pawa-fm",
+   "name": "Femme Pawa FM",
+   "url": "https://vbtc.vu/radio",
+   "stream": "https://radio.vbtc.vu/femmefm",
+   "codec": "mp3",
+   "bitrate": 90,
+   "langs": [
+    "bislama",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "bi",
+    "en",
+    "fr"
+   ],
+   "state": "Port Vila, sef, Vanuatu",
+   "genre": [],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

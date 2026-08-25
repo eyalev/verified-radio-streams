@@ -1,0 +1,305 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canada" tvg-genre="chillout,reggae,relax,relaxing",REGGAE CHILL CAFE
+https://maggie.torontocast.com:2020/stream/reggaechillcafe
+#EXTINF:-1 group-title="Canada" tvg-genre="60s,70s,80s,90s,blues,classic-hits,classic-rock,country,hits,music,musica,oldies,pop-rock,rock",# RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="80s",100 GREATEST OF THE 80'S
+https://maggie.torontocast.com:2020/stream/100greatestofthe80s
+#EXTINF:-1 group-title="Canada" tvg-genre="70s,80s,90s,blues,classic-rock,pop-rock,rock",70 80 90 Vibrazioni Rock Radio
+https://maggie.torontocast.com:2020/stream/vibrazionirockradio
+#EXTINF:-1 group-title="Canada" tvg-genre="ambient,relax,relaxing",Nature Radio Rain
+https://maggie.torontocast.com:2020/stream/natureradiorain
+#EXTINF:-1 group-title="Canada" tvg-genre="classical,folk",Ancient FM
+https://mediaserv73.live-streams.nl:18058/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="60s,70s,80s,90s,classic-hits,classic-rock,metal,music,musica,oldies,rock",# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,alternative",80's New Wave Radio
+https://puma.streemlion.com:2910/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="ambient,chillout,easy-listening,house,lounge,smooth-jazz",AIRPORT LOUNGE RADIO
+https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",..tafsir coran
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1 group-title="Canada" tvg-genre="70s,80s,90s,classic-hits,classic-rock,dance,hits,music,musica,oldies,pop,pop-music,pop-rock,rock,top-100,top-hits",# 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="70s,80s,90s,classic-hits,dance,dance-music,disco,electronic,hits,house,music,musica,oldies,pop,pop-music,rap,techno",# RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,classic-hits,dance,dance-music,disco,electronic,hits,music,musica,oldies,pop,pop-music",# RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="chillout,classic-hits,jazz,lounge,music,musica,oldies,relax,relaxing,smooth-jazz",# 100 GREATEST JAZZ LOUNGE BAR
+https://cast1.torontocast.com:4640/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="music",radio classique quebec
+https://www.radioking.com/play/radio-classique-quebec-92-7/301510
+#EXTINF:-1 group-title="Canada" tvg-genre="classical,music,musica,opera",# 100 GREATEST CLASSICAL MUSIC
+https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="70s,80s,90s",RDMIX ITALIAN VINTAGE 70 80 90
+https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,jazz",Suite Jazz Radio
+https://jenny.torontocast.com:2000/stream/suitejazzradio
+#EXTINF:-1 group-title="Canada" tvg-genre="ambient,hip-hop,jazz,relax,relaxing,smooth-jazz",100% ACID JAZZ
+https://mpc1.mediacp.eu:8356/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,country,jazz,rock",A MISSISSIPPI BLUES
+https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
+#EXTINF:-1 group-title="Canada" tvg-genre="instrumental,jazz,lounge,smooth-jazz",SMOOTH JAZZ DELUXE
+https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
+#EXTINF:-1 group-title="Canada" tvg-genre="60s,70s,80s,classic-rock",Choice Classic Rock
+https://streamer.radio.co/s66f2626b4/listen
+#EXTINF:-1 group-title="Canada" tvg-genre="classical,opera",Radio-Classique
+https://listen.radioking.com/radio/228241/stream/271810
+#EXTINF:-1 group-title="Canada" tvg-genre="funk,hip-hop,soul",WEFUNK
+https://s-09.wefunkradio.com:8443/wefunk64.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="gospel",Lighthouse VOAR-FM
+https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1
+#EXTINF:-1 group-title="Canada" tvg-genre="rock",101.9 ROCK
+https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-rock,metal,rock",irock24/7
+https://streamer.radio.co/s493283a7e/listen
+#EXTINF:-1 group-title="Canada" tvg-genre="60s,70s,80s",J1 GOLD
+https://jenny.torontocast.com:2000/stream/J1GOLD
+#EXTINF:-1 group-title="Canada" tvg-genre="ambient,chillout,easy-listening,jazz,lounge,smooth-jazz",SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
+#EXTINF:-1 group-title="Canada" tvg-genre="70s,80s,90s,classic-hits,love-songs,music,musica,oldies,pop,pop-music,relax,relaxing,rnb,romantic",#1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1 group-title="Canada" tvg-genre="electronic",Lapfox Radio (FLAC)
+https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+#EXTINF:-1 group-title="Canada" tvg-genre="50s,60s,70s,80s,90s,classic-hits,oldies",RetroSouvenirs
+https://listen.radioking.com/radio/108/stream/61183
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",Red FM 88.9
+https://ice9.securenetsystems.net/CIRVFM
+#EXTINF:-1 group-title="Canada" tvg-genre="ambient,house,jazz,lounge,reggae,relax,smooth-jazz",100 % COVERS LOUNGE
+https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",CJSQ-FM 92.7 "Radio Classique" Quebec City, QC (320K MP3 Stream)
+https://listen.radioking.com/radio/256885/stream/301510
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-rock",Labgate - Classic Rock
+https://s2.ssl-stream.com/radio/8170/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="rock",CRIK - The Lynx Classic Rock - Calgary, Alberta, Canada
+https://rock-lynxradio.radioca.st/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-rock,pop,rock",Power Pop Rock Radio
+https://cheetah.streemlion.com:3430/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CJYC 98.9 "Kool 98" Saint John, NB
+https://mbsradio.leanstream.co/CJYCFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-rock,rock",Rock 95
+https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01
+#EXTINF:-1 group-title="Canada" tvg-genre="jpop",J-Pop Powerplay Kawaii
+https://kathy.torontocast.com:3060/;
+#EXTINF:-1 group-title="Canada" tvg-genre="pop-rock",Labgate Pop Rock
+https://s2.ssl-stream.com/radio/8200/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="jazz",JAZZ.FM91 (CJRT-FM)
+https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,classical,folk,jazz",CBC Music Pacific (Vancouver) MP3 Stream
+https://26283.live.streamtheworld.com/CBUFM_CBC_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="pop",CISS - Kiss FM 105.3 Ottawa
+https://rogers.leanstream.co/rogers/ott1053.stream/icy
+#EXTINF:-1 group-title="Canada" tvg-genre="electronic",Lapfox Radio (MP3 320k)
+https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CFIX-FM "Rouge FM 96.9" Saguenay, QC
+https://26373.live.streamtheworld.com/CFIXFMAAC_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",Maiqly Maher
+https://backup.qurango.net/radio/maher
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CFCH "Country 90.5" North Bay, ON
+https://vistaradio.streamb.live/SB00101
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,classical,folk,jazz",CBC Music Eastern (Toronto) MP3 Stream
+https://26373.live.streamtheworld.com/CBLFM_CBC_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",Calmradio Rossini
+https://proxy.calmradio.com:14128/;
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CKBW-FM 98.1 Bridgewater, 94.5 Liverpool, 93.1 Shelburne, NS
+https://ais-sa1.streamon.fm/7239_128k.aac
+#EXTINF:-1 group-title="Canada" tvg-genre="country",93.7 JR Country - Vancouver, BC
+https://redirect.jpbgdigital.com/CJJR
+#EXTINF:-1 group-title="Canada" tvg-genre="music,rock",jb radio 2
+https://mediacp.jb-radio.net:8001/flac
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",.Quran
+https://backup.qurango.net/radio/ahmad_khader_altarabulsi
+#EXTINF:-1 group-title="Canada" tvg-genre="pop,top-40",Radio Disney Country FM 89.1
+https://listen.radioking.com/radio/453221/stream/508076
+#EXTINF:-1 group-title="Canada" tvg-genre="music",Bolly radio Canada
+https://carina.streamerr.co/stream/8206
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CJBB 103.1 "The Train" Englehart, ON
+https://ice10.securenetsystems.net/CJBB
+#EXTINF:-1 group-title="Canada" tvg-genre="music",Bolly Radio.com
+https://onlineradiobox.com/json/ca/bolly/play?platform=web
+#EXTINF:-1 group-title="Canada" tvg-genre="jazz",Jazz Club Bandstand
+https://cast1.torontocast.com:2060/;.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,rock",JB Radio-2 (AAC)
+https://mediacp.jb-radio.net:8001/aac
+#EXTINF:-1 group-title="Canada" tvg-genre="music",CJRP-FM - Alive FM Saint John Canada
+https://us9.streamingpulse.com/ssl/NewsongFM
+#EXTINF:-1 group-title="Canada" tvg-genre="music",A9RADIO
+https://a9radio1-a9media.radioca.st/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",إذاعة القرآن الكريم
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CFHI "Boom 104.9" Hinton, AB
+https://newcap.leanstream.co/CFHIFM
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CHOO-FM "Boom 99.5" Drumheller, AB
+https://newcap.leanstream.co/CHOOFM
+#EXTINF:-1 group-title="Canada" tvg-genre="alternative",CKUT 90.3 FM
+https://ckut.out.airtime.pro/ckut_a
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,country,oldies,r&b,rock,soul",Nitty-Gritty Music Radio
+https://cast1.torontocast.com:1490/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="hip-hop,r&b,reggae",Flow 98 7 CKFG-FM - Toronto
+https://ice64.securenetsystems.net:80/CKFG
+#EXTINF:-1 group-title="Canada" tvg-genre="alternative",Ottawa Live 885 (CLIVFM)
+https://newcap.leanstream.co/CILVFM-MP3?args=web_03
+#EXTINF:-1 group-title="Canada" tvg-genre="hits",CKAY 91.7 "Coast FM" Nanaimo, BC
+https://vistaradio.streamb.live/SB00081
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,classical,folk,jazz",CBC Music Atlantic (Halifax) MP3 Stream
+https://26283.live.streamtheworld.com/CBH_CBC_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="classical",CJSQ-FM 92.7 "Radio Classique" Quebec City, QC (128K MP3 Stream)
+https://listen.radioking.com/radio/256885/stream/301504
+#EXTINF:-1 group-title="Canada" tvg-genre="disco",THE LYNX DISCO CLASSICS
+https://disco-lynxradio.radioca.st/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="country",620 CKRM The Source
+https://ais-sa1.streamon.fm/7267_64k.aac
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,oldies",CHAB 800 Moose Jaw, SK
+https://goldenwest.leanstream.co/CHABAM
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CJJM 99.3 "Moose FM" Espanola, ON
+https://vistaradio.streamb.live/SB00099
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,classic-rock",CKEZ "Z97.9" New Glasgow, NS
+https://newcap.leanstream.co/CKEZFM
+#EXTINF:-1 group-title="Canada" tvg-genre="trance",Toronto Global Radio - Trance
+https://london-dedicated.myautodj.com:3199/proxy/trance/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="pop-music",The Beat
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFM.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="blues,classical,folk,jazz",CBC Music Central (Winnipeg) - MP3 Stream
+https://26373.live.streamtheworld.com/CBWFM_CBC_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="2000s,70s,80s,90s,latin,latin-music,oldies",La Bonita X101
+https://listen.labonita.torontocast.stream/
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CJRW 102.1 "Spud FM" Summerside, PE
+https://mbsradio.leanstream.co/CJRWFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="alternative",D1 Alternative
+https://cast1.torontocast.com:2545/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CIMY-FM 104.9 "MyFM" Pembroke, ON
+https://mybroadcasting.streamb.live/SB00305
+#EXTINF:-1 group-title="Canada" tvg-genre="smooth-jazz",CIWV-FM "Wave 98.3" Vancouver, BC
+https://stream2.statsradio.com:8152/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,90s",CKNG-FM "The Chuck 92.5" Edmonton, AB (AAC Stream)
+https://corus.leanstream.co/CKNGFM
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,dance,hits,pop,rock",Radio Unicité
+https://listen.radioking.com/radio/521287/stream/579484
+#EXTINF:-1 group-title="Canada" tvg-genre="jazz,pop,rock",lumiRadio - 24/7 Unofficial Homestuck Radio
+https://audio-edge-hy4wy.blr.d.radiomast.io/abe5f558-c883-47de-91ea-e04a06ed1fd4
+#EXTINF:-1 group-title="Canada" tvg-genre="80s",ALT/80
+https://jenny.torontocast.com:8050/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="country",American Roots Radio
+https://stream.americanrootsradio.com:3035/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classical,easy-listening,opera,orchestral,romantic",CFMZ 96.3 "The New Classical FM"
+https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CILG-FM 100.7 "Country 100" Moose Jaw, SK
+https://goldenwest.leanstream.co/CILGFM
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,oldies",CJUV-FM 94.1 Sunny 94
+https://goldenwest.leanstream.co/CJUVFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="country",Country 106.7
+https://rogers.leanstream.co/rogers/kit1067.stream/icy?environment=tunein&args=tunein_01
+#EXTINF:-1 group-title="Canada" tvg-genre="hip-hop,reggae",Radio Regent.com Toronto, ON
+https://streamer.radio.co/se3e1e3815/low
+#EXTINF:-1 group-title="Canada" tvg-genre="christian-music",Spirit FM
+https://ais-sa1.streamon.fm/7155_48k.aac
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",THE LYNX CLASSIC HITS
+https://hits-lynxradio.radioca.st/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,90s",100.9 The Wave - CKTO-FM, Truro
+https://mbsradio-ais.leanstream.co/CKTOFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,folk,pop,pop-rock,rock",CHOC 88.7
+https://stream2.statsradio.com:8110/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classical,jazz,pop,rock",CBC Music (Central) - Winnipeg, MB
+https://22983.live.streamtheworld.com/CBWFM_CBC_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="hip-hop,rock",CJMD 96.9 Levis, QC
+https://arcq.streamb.live/SB00213
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,oldies",CFNV "AM 940" Montreal, QC
+https://centova.radioservers.biz/proxy/cnv3/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CIAT-FM 98.1 "Cat Country 98" Assiniboia, SK
+https://cat-country-98.streamb.live/SB00148
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-rock",CoolFM Beauce
+https://stream.statsradio.com:8040/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CJOC 94.1 "Classic Hits" Lethbridge, AB
+https://vistaradio.streamb.live/SB00093
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,oldies",CJUV-FM 94.1 "Sunny 94" Lacombe, AB (AAC Stream)
+https://goldenwest.leanstream.co/CJUVFM
+#EXTINF:-1 group-title="Canada" tvg-genre="alternative",CKCU FM 93.1
+https://stream2.statsradio.com:8124/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,90s",CKNG-FM "The Chuck 92.5" Edmonton, AB (MP3 Stream)
+https://corus.leanstream.co/CKNGFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",101.5 - The Hawk - CIGO-FM
+https://ais-sa1.streamon.fm/7932_96k.aac
+#EXTINF:-1 group-title="Canada" tvg-genre="music,worship",CJRY 105.9 Shinefm
+https://shinefm.streamguys1.com/cjry
+#EXTINF:-1 group-title="Canada" tvg-genre="ambient,electronic,instrumental,pop-rock",Canada At Large
+https://radio.canadaatlarge.com/listen/canada_at_large/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,classic-rock",CJCD-FM 100.1 "True North FM" Yellowknife, NT
+https://vistaradio.streamb.live/SB00088
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CJNY-FM 106.3 "The Journey" Vancouver, BC
+https://torres-media.streamb.live/SB00168
+#EXTINF:-1 group-title="Canada" tvg-genre="80s,90s,adult-contemporary",CJOJ-FM 95.5 "Hits FM" Belleville, ON
+https://starboard.streamb.live/SB00160
+#EXTINF:-1 group-title="Canada" tvg-genre="pop-music",CKBF-FM 104.1 "BFBS Canada" CFB Suffield, AB
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CKYQ "Hit Country 95.7 Centre-du-Quebec" Plessisville, QC
+https://14223.live.streamtheworld.com/CKYQ_FM_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="70s,80s,classic-hits",94.9 The Wave - CKPE-FM
+https://mbsradio.leanstream.co/CKPEFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="oldies,pop,top-40",Radio 854
+https://jenny.torontocast.com:8034/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CFNA 99.7 "Country 99 FM" Bonnyville, AB
+https://vistaradio.streamb.live/SB00089
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CFPW 95.7 "Coast FM" Powell River, BC
+https://vistaradio.streamb.live/SB00082
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CHTM 102.9 FM & 610 AM "Arctic Radio" Thompson, MB
+https://us2.maindigitalstream.com/ssl/CHTM
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits,easy-listening,oldies",CJRB 1220 Boissevain, MB
+https://goldenwest.leanstream.co/CJRBAM
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CKMO 101.5 "FM101" Orangeville, ON
+https://localradio.streamb.live/SB00096
+#EXTINF:-1 group-title="Canada" tvg-genre="funk,oldies,pop,rock",RADIOWAVES
+https://quincy.torontocast.com/radiowaves
+#EXTINF:-1 group-title="Canada" tvg-genre="rock,worship",CJLI am700 The Light
+https://shinefm.streamguys1.com/cjli
+#EXTINF:-1 group-title="Canada" tvg-genre="oldies",CKJR "W1440" Wetaskiwin, AB
+https://newcap.leanstream.co/CKJRAM
+#EXTINF:-1 group-title="Canada" tvg-genre="oldies",CINB-FM "Oldies96" - Saint John, NB
+https://us9.streamingpulse.com/ssl/oldies96
+#EXTINF:-1 group-title="Canada" tvg-genre="pop,rock",Hutton Orbital Radio
+https://quincy.torontocast.com/hutton
+#EXTINF:-1 group-title="Canada" tvg-genre="top-40",CHJM "Mix 99.7" Saint-Georges, QC
+https://stream.statsradio.com:8054/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="top-40",CIBM-FM 107.1 "FM107" Riviere-du-Loup, QC (128 kbps MP3)
+https://stream.statsradio.com:8050/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CFXN 106.3 "Jet FM" North Bay, ON
+https://vistaradio.streamb.live/SB00100
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CHMT "93.1 Country FM" Timmins, ON
+https://vistaradio.streamb.live/SB00105
+#EXTINF:-1 group-title="Canada" tvg-genre="hits",The Coast 89.7 CKOA-FM
+https://s45.myradiostream.com/:15204/listen.mp3/;
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CFRY 920 Portage La Prairie, MB
+https://goldenwest.leanstream.co/CFRYAM
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-rock",CIDG-FM "Rebel Rock101.7" Ottawa, ON
+https://torres-media.streamb.live/SB00189
+#EXTINF:-1 group-title="Canada" tvg-genre="downtempo,instrumental,relaxing",freeCodeCamp Code Radio
+https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CHOA-FM "WOW-FM" 96.5 Rouyn-Noranda, 103.5 Val d'Or, 103.9 La Sarre, QC
+https://18213.live.streamtheworld.com/CHOA_FM_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CHPB 98.1 "Moose FM" Cochrane, ON
+https://vistaradio.streamb.live/SB00103
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CILT-FM "Mix 96.7" Steinbach,MB
+https://goldenwest.leanstream.co/CILTFM
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CJEM 92.7 "Frontiere FM" Edmunston, NB
+https://stream2.statsradio.com:8096/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CKGS "Hit Country 105.5 Beauce" Saguenay, QC
+https://18213.live.streamtheworld.com/CHCT_FM_SC
+#EXTINF:-1 group-title="Canada" tvg-genre="blues",CKTP-FM "95.7 The Wolf" Fredericton, NB
+https://centova.radioservers.biz/proxy/cktpradi/stream
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary,baladas,pop,reggaeton,top-40",Ritmo X99
+https://listen.ritmo.torontocast.stream/
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CFBC 930 Saint John, NB
+https://mbsradio-ais.leanstream.co/CFBCAM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CFCY 95.1 Charlottetown, PE
+https://mbsradio.leanstream.co/CFCYFM-MP3
+#EXTINF:-1 group-title="Canada" tvg-genre="country",CFDC-FM 104.9 "Country 105" Shelburne, ON (AAC Stream)
+https://bayshore-ais.leanstream.co/CFDCFM
+#EXTINF:-1 group-title="Canada" tvg-genre="classic-hits",CFNI 1240 "Coast AM" Port Hardy, BC
+https://vistaradio.streamb.live/SB00083
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary",CFSF 99.3 "Moose FM" Sturgeon Falls, ON
+https://vistaradio.streamb.live/SB00102
+#EXTINF:-1 group-title="Canada" tvg-genre="adult-contemporary,country",CHRM-FM "Plaisir105.3" Matane, QC
+https://18213.live.streamtheworld.com/CHRM_FM_SC
+#EXTINF:-1 group-title="Canada",Labgate - Progressive Rock
+https://s2.ssl-stream.com/radio/8180/radio.mp3
+#EXTINF:-1 group-title="Canada",Labgate P.YG. Pink Floyd, Yes, Genesis
+https://s2.ssl-stream.com/radio/8160/radio.mp3

@@ -1,0 +1,85 @@
+{
+ "countryCode": "LY",
+ "country": "Libya",
+ "slug": "libya",
+ "continent": "africa",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/libya/",
+ "stations": [
+  {
+   "id": "qurango",
+   "name": "تفسير بن عثيمين",
+   "url": "",
+   "stream": "https://qurango.net/radio/tafseer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2236,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 761,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "almunir-radio-benghazi",
+   "name": "Almunir Radio – Benghazi",
+   "url": "https://munir.ly/",
+   "stream": "https://live.munir.ly/proxy/almunir/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Benghazi",
+   "genre": [],
+   "votes": 0,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "almunir-radio-tripoli",
+   "name": "Almunir Radio – Tripoli",
+   "url": "https://munir.ly/",
+   "stream": "https://live.munir.ly/proxy/almunirtip/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Tripoli",
+   "genre": [],
+   "votes": 0,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  }
+ ]
+}

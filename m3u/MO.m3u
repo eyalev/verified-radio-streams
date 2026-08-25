@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="music",CityFM Macau - 90.5 FM
+https://lhttp.qtfm.cn/live/20500153/64k.mp3
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="jazz,smooth-jazz",101.1 Smooth FM
+https://stream-icy.bauermedia.pt/smooth.aac
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="classic-rock",M80 Radio Macau - Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="pop,rock",M80 Radio Macau - 107.1 FM
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="90s,hits,pop,rock",M80 Radio Macau - 90s
+https://stream-icy.bauermedia.pt/m8090.aac
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="music",RTP Macau - 97.1 FM
+https://radiocast.rtp.pt/antena1madeira80a.mp3
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="classic-hits",M80 Radio Macau - 80s
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:-1 group-title="Macao SAR China" tvg-genre="top-40",Channel [V] International
+https://listen.radioking.com/radio/453221/stream/508076
+#EXTINF:-1 group-title="Macao SAR China",Record FM 100.3 Macau
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 group-title="Macao SAR China",Asia FM 106.9
+https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:-1 group-title="Macao SAR China",Lotus FM Macau HD - 97.4 FM
+https://lhttp.qtfm.cn/live/20533/64k.mp3
+#EXTINF:-1 group-title="Macao SAR China",Lotus Macau Radio - 1062 AM
+https://lhttp.qtfm.cn/live/20133/64k.mp3
+#EXTINF:-1 group-title="Macao SAR China",YW City Radio - Macau 954 AM
+https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web
+#EXTINF:-1 group-title="Macao SAR China",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

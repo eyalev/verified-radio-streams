@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ecuador" tvg-genre="latin-music,merengue,music,salsa",Radio Onda Positiva 94.1 FM
+https://streamingecuador.net:8011/radioondapositiva
+#EXTINF:-1 group-title="Ecuador" tvg-genre="christian-music,music",HCJB La Voz de los Andes 89.3 FM
+https://streamingecuador.net:8287/hcjb
+#EXTINF:-1 group-title="Ecuador" tvg-genre="merengue,pop,reggaeton,rock",Radio Canela Guayas
+https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
+#EXTINF:-1 group-title="Ecuador" tvg-genre="classical",Radio Diblu
+https://streamingecuador.net:9002/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="80s,rock",la chismosa
+https://sp.dattavolt.com/8052/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="music,musica",Radio Elite 99.7 FM
+https://streamingecuador.net:8135/radioelite
+#EXTINF:-1 group-title="Ecuador" tvg-genre="music,musica",RNC La Mundialista 103.3 FM (AAC)
+https://streamingecuador.net:7008/radiornc
+#EXTINF:-1 group-title="Ecuador" tvg-genre="80s,90s,music,musica,pop,rock",Radio 11Q 104.9 FM
+https://streamingecuador.net:8012/radio11q
+#EXTINF:-1 group-title="Ecuador" tvg-genre="bachata,cumbia,merengue",La 961 - Suprema estacion
+https://dattavolt.com/8150/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="classic-rock,rock",Antena Uno 90.5
+https://dattavolt.com/8202/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="latin-music",Radio Quito 760 AM
+https://streamingecuador.net:8332/radioquito?1679294453918
+#EXTINF:-1 group-title="Ecuador" tvg-genre="adult-contemporary",Radio Platinum Fm
+https://streamingecuador.com:8160/radioplatinum
+#EXTINF:-1 group-title="Ecuador" tvg-genre="latin-music",La Voz del Tomebamba 1070 AM
+https://streamingecuador.net:8074/lavozdeltomebamba
+#EXTINF:-1 group-title="Ecuador" tvg-genre="music,musica",Radio Gaviota 105.1 FM
+https://streamingecuador.net:9000/radiogaviota
+#EXTINF:-1 group-title="Ecuador" tvg-genre="80s",Radio Mágica 87.7 (Ecuador)
+https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387
+#EXTINF:-1 group-title="Ecuador" tvg-genre="bachata,baladas,latin-music,merengue,pop,salsa",Radio Ultimito Mix
+https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1
+#EXTINF:-1 group-title="Ecuador" tvg-genre="musica",Radio Canela Pichincha 106.5 FM
+https://canelaradio.makrodigital.com/stream/canelaradioquito
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,musica",Radio Canela El Oro 100.7 FM
+https://canelaradio.makrodigital.com/stream/canelaradiomachala
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,musica",Radio Canela 106.5 FM
+https://canelaradio.makrodigital.com/stream/canelaradiotungurahua
+#EXTINF:-1 group-title="Ecuador" tvg-genre="musica",la voz del Tomebamba
+https://streamingecuador.com:8074/lavozdeltomebamba
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,musica",Radio Canela Imbabura 92.7 FM
+https://canelaradio.makrodigital.com/stream/canelaradioibarra
+#EXTINF:-1 group-title="Ecuador" tvg-genre="hits,merengue",Modelo 97.7 FM
+https://usa3.lhdserver.es:8197/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,music,popular",Amazonas FM 92.1
+https://dattavolt.com/8346/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia",Radio Canela Napo 106.1 FM
+https://canelaradio.makrodigital.com/stream/canelaradionapo
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia",Radio Armonía 100.1 FM
+https://radiohdstreaming.com/radio/8040/armonia
+#EXTINF:-1 group-title="Ecuador" tvg-genre="pop,rock",Radio Xtrema FM
+https://s1.raudiostream.com:8004/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,musica",Radio Canela Chimborazo 94.5 FM
+https://canelaradio.makrodigital.com/stream/canelaradiochimborazo
+#EXTINF:-1 group-title="Ecuador" tvg-genre="hits",Cañar Stereo 97.3 FM
+https://ecuamedios.net:10937/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="music",Play FM 95.3
+https://streamingecuador.net:8008/radioplayfm
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,musica",Radio Canela Morona Santiago 91.7 FM
+https://canelaradio.makrodigital.com/stream/canelaradiomacas
+#EXTINF:-1 group-title="Ecuador" tvg-genre="2000s,80s,90s,classic-hits",Contigo FM 104.9
+https://panel.innovatestream.pe:10852/;
+#EXTINF:-1 group-title="Ecuador" tvg-genre="rock",super 949
+https://dattavolt.com/8028/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="reggaeton",Flama Plus 104.5 FM
+https://streaming.viphosting.cl/8286/stream?ver=541539
+#EXTINF:-1 group-title="Ecuador" tvg-genre="cumbia,music",Expresiun FM 102.9
+https://usa3.lhdserver.es:8031/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="musica",Radio Activa
+https://dattavolt.com/8394/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="electronic,house,music,techno,trance",MANIATICARADIO
+https://a7.asurahosting.com/listen/maniaticaradio/radio.mp3
+#EXTINF:-1 group-title="Ecuador" tvg-genre="pop,pop-rock,rock",MelodiaFM
+https://rr5100.globalhost1.com/8260/stream
+#EXTINF:-1 group-title="Ecuador" tvg-genre="bachata,merengue,reggaeton,salsa",Radio Alegria
+https://rr5100.globalhost1.com:8156/stream
+#EXTINF:-1 group-title="Ecuador",Radio La Otra - 91.3 FM
+https://laotrafm.makrodigital.com/stream/laotrafmquito
+#EXTINF:-1 group-title="Ecuador",Radio Canela Pichincha
+https://canelaradio.makrodigital.com:9280/stream
+#EXTINF:-1 group-title="Ecuador",Radio América 104.5 FM
+https://streamingecuador.com:7030/stream?1657848016283
+#EXTINF:-1 group-title="Ecuador",Los 40 Ecuador
+https://streamingecuador.com:7051/stream
+#EXTINF:-1 group-title="Ecuador",La Main Street (Radios Ecuador Online)
+https://radiolatina.info/9930/stream
+#EXTINF:-1 group-title="Ecuador",Radio Rumba
+https://streamingecuador.net:8078/radiorumbanetwork
+#EXTINF:-1 group-title="Ecuador",Radio Andina
+https://grupomundodigital.com:8580/stream
+#EXTINF:-1 group-title="Ecuador",Armonica FM
+https://armonicafm.makrodigital.com:9570/stream
+#EXTINF:-1 group-title="Ecuador",La Nueva Unica
+https://streamingecuador.net:8035/stream
+#EXTINF:-1 group-title="Ecuador",Radio La Red 102.1 FM
+https://icecast.radiolared.com.ec/radiolared
+#EXTINF:-1 group-title="Ecuador",area deportiva
+https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live
+#EXTINF:-1 group-title="Ecuador",La Radio Redonda Guayaquil
+https://laredondafm.makrodigital.com:9550/stream
+#EXTINF:-1 group-title="Ecuador",RTP 96.5 FM
+https://streamingecuador.net:8167/radiotropicana
+#EXTINF:-1 group-title="Ecuador",RCN CATOLICA NACIONAL
+https://dattavolt.com/8358/stream
+#EXTINF:-1 group-title="Ecuador",machdeportes
+https://ss.ecuastreamhd.com:8186/stream
+#EXTINF:-1 group-title="Ecuador",PM RADIO Quevedo
+https://as100.globalhost1.com/8010/stream
+#EXTINF:-1 group-title="Ecuador",Radio Eres
+https://sv70.ecuaradiotv.net:8000/eres933
+#EXTINF:-1 group-title="Ecuador",Radio Pichincha
+https://icecast.radiopichincha.com/radiopichincha
+#EXTINF:-1 group-title="Ecuador",Contigo Fm
+https://panel.innovatestream.pe:10852/stream
+#EXTINF:-1 group-title="Ecuador",Cómplice FM 99.7 FM
+https://dattavolt.com/8422/stream
+#EXTINF:-1 group-title="Ecuador",FM MUNDO 98.1 FM
+https://streamingecuador.com:9810/stream
+#EXTINF:-1 group-title="Ecuador",Forever Radio 92.5
+https://streamingecuador.net:8014/forever
+#EXTINF:-1 group-title="Ecuador",FB Radio 105.7 FM
+https://streamingecuador.com:7032/stream
+#EXTINF:-1 group-title="Ecuador",Radio DJ's Retro
+https://www.streamingrv.com:8000/stream
+#EXTINF:-1 group-title="Ecuador",RADIO ECOS DE RUMIÑAHUI 88.9 FM
+https://streamingecuador.com:9040/stream
+#EXTINF:-1 group-title="Ecuador",Brisa Azul FM
+https://streaming01.radiosenlinea.com.ar/8196/stream
+#EXTINF:-1 group-title="Ecuador",Radio Evolución
+https://stream.gradio.net/evolucion
+#EXTINF:-1 group-title="Ecuador",RADIO IMPACTO 107.9
+https://cast.uncuartocomunicacion.com/listen/radioimpacto/live
+#EXTINF:-1 group-title="Ecuador",Radio Rumba 107.3 FM
+https://streamingecuador.net:8078/RadioRumba
+#EXTINF:-1 group-title="Ecuador",Radio11Q 104.9 FM
+https://streamingecuador.net:8012/stream
+#EXTINF:-1 group-title="Ecuador",TURBO FM - 93.3 FM TUNGURAHUA
+https://streamingecuador.com/stream/radioturboambato
+#EXTINF:-1 group-title="Ecuador",La99Radio
+https://cast10.plugstreaming.com/stream/la99fm
+#EXTINF:-1 group-title="Ecuador",Radio Turbo 106.9 FM
+https://streamingecuador.com/stream/radioturbogye
+#EXTINF:-1 group-title="Ecuador",Radio 27 Electro
+https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3

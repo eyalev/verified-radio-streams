@@ -1,0 +1,51 @@
+{
+ "countryCode": "MM",
+ "country": "Myanmar (Burma)",
+ "slug": "myanmar-burma",
+ "continent": "asia",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/myanmar-burma/",
+ "stations": [
+  {
+   "id": "mandalayfm",
+   "name": "MandalayFM",
+   "url": "https://raddio.net/",
+   "stream": "https://edge.mixlr.com/channel/nmtev",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "burmese"
+   ],
+   "langCodes": [
+    "my"
+   ],
+   "genre": [],
+   "votes": 4728,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cherry-fm",
+   "name": "Cherry FM",
+   "url": "http://www.cherryfmmym.com/",
+   "stream": "https://cherry.akiyaresearch.com:444/stream/89/",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "burmese"
+   ],
+   "langCodes": [
+    "my"
+   ],
+   "state": "Shan",
+   "genre": [],
+   "votes": 2860,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  }
+ ]
+}

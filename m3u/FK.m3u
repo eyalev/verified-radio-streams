@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Falkland Islands" tvg-genre="music",Falklands Radio 530 Stanley
+https://streaming.broadcastradio.com:8332/flklnd
+#EXTINF:-1 group-title="Falkland Islands",BFBS Falklands
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:-1 group-title="Falkland Islands",Falklands Radio
+https://streaming.broadcastradio.com:8332/flklnd?1721893143541=
+#EXTINF:-1 group-title="Falkland Islands",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

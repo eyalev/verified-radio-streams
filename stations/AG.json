@@ -1,0 +1,54 @@
+{
+ "countryCode": "AG",
+ "country": "Antigua & Barbuda",
+ "slug": "antigua-barbuda",
+ "continent": "americas",
+ "stationCount": 3,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/antigua-barbuda/",
+ "stations": [
+  {
+   "id": "exa-fm-pop-music-in-spanish-and-english",
+   "name": "EXA FM: Pop Music in Spanish and English",
+   "url": "https://exafm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 327,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vibz-fm",
+   "name": "Vibz FM",
+   "url": "https://vibzfm.familyfm.ltd/",
+   "stream": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 138,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-la-senda-antigua",
+   "name": "Radio La Senda Antigua",
+   "url": "https://www.iglesialasendaantigua.com/",
+   "stream": "https://play10.tikast.com/proxy/lasenda?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

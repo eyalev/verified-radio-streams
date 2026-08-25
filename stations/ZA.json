@@ -1,0 +1,379 @@
+{
+ "countryCode": "ZA",
+ "country": "South Africa",
+ "slug": "south-africa",
+ "continent": "africa",
+ "stationCount": 22,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/south-africa/",
+ "stations": [
+  {
+   "id": "kaya-fm",
+   "name": "Kaya FM",
+   "url": "https://www.kayafm.co.za/",
+   "stream": "https://edge.iono.fm/xice/82_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 2915,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lekker-fm",
+   "name": "Lekker FM",
+   "url": "https://www.lekkerfm.com/",
+   "stream": "https://zas3.ndx.co.za:8002/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "afrikaans"
+   ],
+   "langCodes": [
+    "af"
+   ],
+   "genre": [
+    "top-40"
+   ],
+   "votes": 2483,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mix-93-8-fm",
+   "name": "Mix 93.8 FM",
+   "url": "http://mixfm.co.za/",
+   "stream": "https://edge.iono.fm/xice/113_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "easy-listening",
+    "edm"
+   ],
+   "votes": 1411,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ubuntufm",
+   "name": "UbuntuFM",
+   "url": "https://www.ubuntu.fm/radio",
+   "stream": "https://streaming.coollective.nl:8443/UbuntuFM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk",
+    "funk",
+    "jazz",
+    "latin",
+    "reggae",
+    "rock",
+    "soul"
+   ],
+   "votes": 1154,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "joy-gospel-radio",
+   "name": "JOY GOSPEL RADIO",
+   "url": "https://joygospelradiogroup.webradiosite.com/",
+   "stream": "https://servidor17.brlogic.com:7012/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 1708,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "power-98-7",
+   "name": "Power 98.7",
+   "url": "http://www.powerfm.co.za/",
+   "stream": "https://edge.iono.fm/xice/65_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1556,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jozi-fm",
+   "name": "Jozi FM",
+   "url": "https://www.jozifm.co.za/",
+   "stream": "https://edge.iono.fm/xice/51_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "isizulu",
+    "sepedi",
+    "sesotho"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1542,
+   "clicks": 28,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hot-102-7-fm",
+   "name": "Hot 102.7 FM",
+   "url": "https://hot1027.co.za/",
+   "stream": "https://edge.iono.fm/xice/57_high.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Gauteng",
+   "genre": [],
+   "votes": 1243,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "east-coast-gold",
+   "name": "East Coast Gold",
+   "url": "",
+   "stream": "https://live.ecr.co.za/ecrgoldhigh.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 677,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "smile-90-4-fm",
+   "name": "Smile 90.4 FM",
+   "url": "https://smile904.fm/",
+   "stream": "https://edge.iono.fm/xice/212_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "afrikaans",
+    "english"
+   ],
+   "langCodes": [
+    "af",
+    "en"
+   ],
+   "genre": [],
+   "votes": 569,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "east-coast-radio",
+   "name": "East Coast Radio",
+   "url": "https://www.ecr.co.za/",
+   "stream": "https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 534,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jozi-fm-hifi-aac",
+   "name": "Jozi FM (HiFi aac)",
+   "url": "https://www.jozifm.co.za/",
+   "stream": "https://edge.iono.fm/xice/51_high.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "sepedi",
+    "sesotho",
+    "setswana"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Gauteng",
+   "genre": [],
+   "votes": 473,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mfm",
+   "name": "MFM",
+   "url": "https://mfm.co.za/",
+   "stream": "https://edge.iono.fm/xice/46_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "afrikaans",
+    "english"
+   ],
+   "langCodes": [
+    "af",
+    "en"
+   ],
+   "genre": [],
+   "votes": 332,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jacaranda-fm",
+   "name": "Jacaranda FM",
+   "url": "https://www.jacaranda.com/",
+   "stream": "https://live.jacarandafm.com/jacarandahigh.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Johannesburg",
+   "genre": [],
+   "votes": 297,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "african-praise-radio",
+   "name": "African Praise Radio",
+   "url": "https://africanpraiseradio.com/",
+   "stream": "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 258,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pulpit",
+   "name": "Radio Pulpit",
+   "url": "https://www.radiopulpit.co.za/",
+   "stream": "https://edge.iono.fm/xice/189_medium.aac?ref=https%3A%2F%2Fwww.radiopulpit.co.za%2F&adToken=",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 255,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ubuntufm-africa",
+   "name": "UbuntuFM Africa",
+   "url": "https://www.ubuntufmafrica.com/",
+   "stream": "https://streaming.coollective.nl:8443/UbuntuFMafrica",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 236,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ccfm-107-5",
+   "name": "CCFM 107.5",
+   "url": "https://ccfm.org.za/",
+   "stream": "https://edge.iono.fm/xice/69_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Western Cape",
+   "genre": [],
+   "votes": 210,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "pep-feel-good-fm",
+   "name": "Pep Feel good fm",
+   "url": "https://pepstores.com/",
+   "stream": "https://edge.iono.fm/xice/feelgood_live_high.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 208,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hot-102-7-fm-club",
+   "name": "Hot 102.7 FM Club",
+   "url": "https://hot1027.co.za/",
+   "stream": "https://edge.iono.fm/xice/306_high.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Gauteng",
+   "genre": [],
+   "votes": 72,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cliff-central",
+   "name": "Cliff Central",
+   "url": "https://thereal-network.com/",
+   "stream": "https://edge.iono.fm/xice/cliffcentral_live_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 60,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rosestad-100-6-fm",
+   "name": "Radio Rosestad 100.6 FM",
+   "url": "https://rosestad.co.za/",
+   "stream": "https://edge.iono.fm/xice/122_medium.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "afrikaans"
+   ],
+   "langCodes": [
+    "af"
+   ],
+   "genre": [],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

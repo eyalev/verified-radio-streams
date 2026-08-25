@@ -1,0 +1,80 @@
+{
+ "countryCode": "IM",
+ "country": "Isle of Man",
+ "slug": "isle-of-man",
+ "continent": "europe",
+ "stationCount": 5,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/isle-of-man/",
+ "stations": [
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "energyfm",
+   "name": "EnergyFM",
+   "url": "https://www.energyfm.net/",
+   "stream": "https://ukwesta.streaming.broadcast.radio/energyfm",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 66,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "isle-of-man-free-radio",
+   "name": "Isle of Man Free Radio",
+   "url": "https://sites.google.com/view/isleofmanfreeradio/home",
+   "stream": "https://play.radioking.io/ian-byrne",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "3fm-48kbps-aac",
+   "name": "3FM (48Kbps AAC+)",
+   "url": "https://www.three.fm/",
+   "stream": "https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 9,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "3fm-128kbps-mp3",
+   "name": "3FM (128Kbps MP3)",
+   "url": "https://www.three.fm/",
+   "stream": "https://n07a-eu.rcs.revma.com/0kv9v43t87zuv",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 8,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  }
+ ]
+}

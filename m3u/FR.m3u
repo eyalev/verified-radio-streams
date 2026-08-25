@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1 group-title="France" tvg-genre="pop-music",EuroDance 90 radio
+https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM
+https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:-1 group-title="France" tvg-genre="folk,funk,jazz,rock,soul",Alternative Radio
+https://www.radioking.com/play/alternative-radio-1
+#EXTINF:-1 group-title="France" tvg-genre="jazz",Jazzradio.fr Jazz & Classique
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="pop,pop-rock,rock",RFM POP-ROCK
+https://stream.rfm.fr/rfm-wr10.aac
+#EXTINF:-1 group-title="France" tvg-genre="reggaeton",Latina reggaeton
+https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rap",Skyrock Hits
+https://icecast.skyrock.net/s/hit_skyrock_aac_64k?tvr_name=radiofr&tvr_section1=64aac
+#EXTINF:-1 group-title="France" tvg-genre="reggae",Reggae.fr
+https://listen.radioking.com/radio/50473/stream/87415
+#EXTINF:-1 group-title="France" tvg-genre="pop",FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1 group-title="France" tvg-genre="bachata",Latina bachata
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+#EXTINF:-1 group-title="France" tvg-genre="love-songs,romantic",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
+https://loveradio.streamingmedia.it/france
+#EXTINF:-1 group-title="France" tvg-genre="jazz,pop,rock",Le Bon Mix HiFi Flac 1411 Kbps
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
+#EXTINF:-1 group-title="France" tvg-genre="instrumental,soundtrack",Cinemix
+https://kathy.torontocast.com:1825/stream
+#EXTINF:-1 group-title="France" tvg-genre="hip-hop,jazz,reggae",RADIO NOVA
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="classical",coran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 group-title="France" tvg-genre="latin-music",Latina fiesta
+https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
+#EXTINF:-1 group-title="France" tvg-genre="trance",Record Goa Psy
+https://radiorecord.hostingradio.ru/goa96.aacp
+#EXTINF:-1 group-title="France" tvg-genre="80s,rock",OUI FM ROCK 80's
+https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
+#EXTINF:-1 group-title="France" tvg-genre="opera",France Musique Opéra
+https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
+#EXTINF:-1 group-title="France" tvg-genre="metal",Metal Invasion Radio
+https://radio.metal-invasion.fr/radio/8000/stream96
+#EXTINF:-1 group-title="France" tvg-genre="music",Allzic Radio Orientale
+https://allzic33.ice.infomaniak.ch/allzic33.aac
+#EXTINF:-1 group-title="France" tvg-genre="rap",Skyrock 100% FRANÇAIS
+https://icecast.skyrock.net/s/francais_aac_64k?tvr_name=radiofr&tvr_section1=64aac
+#EXTINF:-1 group-title="France" tvg-genre="hits",Nrj Hits
+https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits
+#EXTINF:-1 group-title="France" tvg-genre="metal",FIP Metal
+https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance
+#EXTINF:-1 group-title="France" tvg-genre="blues,classic-rock,metal,rock",Rock & Folk (rock n folk)
+https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
+#EXTINF:-1 group-title="France" tvg-genre="dance,electronic,trance",PulsRadio 2000 (64k AAC)
+https://sc6.gergosnet.com:80/puls00AAC64.mp3
+#EXTINF:-1 group-title="France" tvg-genre="jazz",Jazz Radio Electro Swing
+https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090
+#EXTINF:-1 group-title="France" tvg-genre="70s,rock",OUI FM ROCK 70's
+https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3
+#EXTINF:-1 group-title="France" tvg-genre="90s,rock",OUI FM ROCK 90's
+https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3
+#EXTINF:-1 group-title="France" tvg-genre="reggae",OUI FM REGGAE
+https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="metal",Radio Metal
+https://radio3.pro-fhi.net/live/Radio%20Metal
+#EXTINF:-1 group-title="France" tvg-genre="pop,pop-rock,rock",Europe 2 Classics
+https://europe2.lmn.fm/vr-wr2.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 group-title="France" tvg-genre="80s,90s",Frequence 3 Gold FLAC
+https://frequence3.net-radio.fr/frequence3gold.flac
+#EXTINF:-1 group-title="France" tvg-genre="classic-rock",OUI FM CLASSIC ROCK
+https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
+#EXTINF:-1 group-title="France" tvg-genre="electronic,techno",GalaxieTek
+https://fr.radioking.com/play/galaxietek
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM ROCK 2000
+https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3
+#EXTINF:-1 group-title="France" tvg-genre="electronic",* Meme dans les orties *
+https://radio.sk8ter.org:8443/stream
+#EXTINF:-1 group-title="France" tvg-genre="funk",JazzRadio.fr Funk
+https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="jazz",Couleurs JAZZ
+https://www.radioking.com/play/couleurs-jazz/216016
+#EXTINF:-1 group-title="France" tvg-genre="blues",JazzRadio.fr Blues
+https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
+#EXTINF:-1 group-title="France" tvg-genre="disco,funk,jazz,music,pop,rock,soul",Le Bon Mix Radio 97.9
+https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
+#EXTINF:-1 group-title="France" tvg-genre="dance,house",FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club
+https://onair.net-radio.fr/frequence3dance.flac
+#EXTINF:-1 group-title="France" tvg-genre="eighties",MBS Gold
+https://mbs.ice.infomaniak.ch/mbs-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="metal",Virage Radio Metal
+https://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.aac?i=65804
+#EXTINF:-1 group-title="France" tvg-genre="60s,rock",OUI FM ROCK 60's
+https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3
+#EXTINF:-1 group-title="France" tvg-genre="hits,pop",RVA radio
+https://rva.ice.infomaniak.ch/rva-high.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM ACOUSTIC
+https://ouifmacoustic.ice.infomaniak.ch/ouifmacoustic.mp3
+#EXTINF:-1 group-title="France" tvg-genre="alternative,classic-rock,electronic,electronica,house,pop,pop-rock,rock",..87,5!. Nantes
+https://listen.radioking.com/radio/15130/stream/28217
+#EXTINF:-1 group-title="France" tvg-genre="music",LYL Radio
+https://icecast.lyl.live/live
+#EXTINF:-1 group-title="France" tvg-genre="classical,jazz,music,oldies,pop,relax",CINEMUSIC Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1 group-title="France" tvg-genre="electronic,rnb",Fun Radio
+https://icecast.funradio.fr/fun-1-44-128
+#EXTINF:-1 group-title="France" tvg-genre="classical,instrumental,opera",SUN Classique
+https://diffusion.lafrap.fr/sun-classique.mp3
+#EXTINF:-1 group-title="France" tvg-genre="gospel",RadioGospel
+https://d3m456gauclwb5.cloudfront.net/radiogospel_high
+#EXTINF:-1 group-title="France" tvg-genre="downtempo,lounge",Hotel Costes
+https://s3.radio.co/s39c195d74/listen
+#EXTINF:-1 group-title="France" tvg-genre="pop",Opensky (flac)868kb
+https://audio.opensky.radio:8082/flac?_res_tag_=audio
+#EXTINF:-1 group-title="France" tvg-genre="pop-rock",Europe 2 Hits
+https://europe2.lmn.fm/vr-wr4.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 group-title="France" tvg-genre="80s",Radio ITALOPOWER!
+https://stream.deevaradio.net:10443/italopower
+#EXTINF:-1 group-title="France" tvg-genre="eighties",Le poste parisien
+https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
+#EXTINF:-1 group-title="France" tvg-genre="hip-hop,r&b,rap",Fréquence 3 Urban FLAC
+https://frequence3.net-radio.fr/frequence3urban.flac
+#EXTINF:-1 group-title="France" tvg-genre="downtempo,electronic,funk,hip-hop,rock",WAVE RADIO 89.8 Hossegor
+https://s34.myradiostream.com/12340/listen.mp3
+#EXTINF:-1 group-title="France" tvg-genre="80s",Made in 80
+https://madein80.leswebradios.fr/
+#EXTINF:-1 group-title="France" tvg-genre="rock",Rock&Folk Radio
+https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250
+#EXTINF:-1 group-title="France" tvg-genre="pop-rock,rock",Europe 2 Happy Rock Hours
+https://europe2.lmn.fm/vr-wr5.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 group-title="France" tvg-genre="pop-rock",Allzic Radio Rock FM
+https://allzic17.ice.infomaniak.ch/allzic17.mp3
+#EXTINF:-1 group-title="France" tvg-genre="hip-hop,jazz",Le Grigri
+https://www.radioking.com/play/legrigri/273715
+#EXTINF:-1 group-title="France" tvg-genre="pop,pop-rock,rock",Girl Power
+https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac
+#EXTINF:-1 group-title="France" tvg-genre="jazz,smooth-jazz",#1 Splash Jazz
+https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM ROCK FRANCAIS
+https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM GIRLS ROCK
+https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3
+#EXTINF:-1 group-title="France" tvg-genre="bossa,lounge",Algorythme Lounge & Bossa
+https://radio8.pro-fhi.net/flux-sinllzly/stream
+#EXTINF:-1 group-title="France" tvg-genre="jazz",FIP Jazz (hifi.aac)
+https://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:-1 group-title="France" tvg-genre="zouk",Guadeloupe France Télévision
+https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="dance,electronic,pop,top-40,top-hits",Hits 1
+https://radio7.pro-fhi.net/radio/9006/hits1hd
+#EXTINF:-1 group-title="France" tvg-genre="soul",SOUL RADIO Classics
+https://listen.soulradio.eu/eu
+#EXTINF:-1 group-title="France" tvg-genre="chillout,easy-listening,electronic,funk,hits,house,jazz,pop-music,pop-rock,popular,smooth-jazz,top-hits",Music Radio
+https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+#EXTINF:-1 group-title="France" tvg-genre="ambient,electronic,techno",Modular-Station
+https://broadcast.modular-station.com/radio/8000/radio.aac
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM WOODSTOCK
+https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",Heavy1
+https://listen.radioking.com/radio/119653/stream/159127
+#EXTINF:-1 group-title="France" tvg-genre="jazz",Jazzradio.fr Jazz & Cinema
+https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
+#EXTINF:-1 group-title="France" tvg-genre="hip-hop,jazz,r&b,rap",SUN Hip Hop
+https://diffusion.lafrap.fr/sun-hip-hop.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",radio brume
+https://www.radioking.com/play/brume-campus-lyon/546695
+#EXTINF:-1 group-title="France" tvg-genre="reggae",Fly Foot Selecta
+https://manager5.streamradio.fr:1185/stream
+#EXTINF:-1 group-title="France" tvg-genre="dance,electronic,hits,pop",Hits 1
+https://radio12.pro-fhi.net/live/Hits%201%20radio
+#EXTINF:-1 group-title="France" tvg-genre="musique",Radio Broussaille
+https://stream.radiobroussaille.fr:8443/broussaille-hifi
+#EXTINF:-1 group-title="France" tvg-genre="funk,house",Radio RBS
+https://www.radioking.com/play/radio-rbs-1
+#EXTINF:-1 group-title="France" tvg-genre="dance,pop",Fréquence 3 Dance
+https://frequence3.net-radio.fr/frequence3dance.mp3
+#EXTINF:-1 group-title="France" tvg-genre="funk,hip-hop,soul",SUN Soul & Funk
+https://diffusion.lafrap.fr/sun-soul.funk.mp3
+#EXTINF:-1 group-title="France" tvg-genre="ambient,relax",ISEKOI Radio | Non-Stop Ambient
+https://public.isekoi-radio.com/listen/ambient/ambientradio.flac
+#EXTINF:-1 group-title="France" tvg-genre="80s",rjfm club 80
+https://listen.radioking.com/radio/2725/stream/72647
+#EXTINF:-1 group-title="France" tvg-genre="ambient,chanson,folk,funk,hip-hop,jazz,pop,reggae",Aïoli Radio
+https://stream.aioli-radio.org/main.ogg
+#EXTINF:-1 group-title="France" tvg-genre="classical,jazz,relaxing",Soft Radio
+https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio
+#EXTINF:-1 group-title="France" tvg-genre="music,zouk",Allzic Radio Zouk
+https://allzic28.ice.infomaniak.ch/allzic28.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM BRING THE NOISE
+https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
+#EXTINF:-1 group-title="France" tvg-genre="soul",JazzRadio.fr Groove
+https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="hits",Liberté FM
+https://stream.libertefm.fr/libertefm.192.mp3
+#EXTINF:-1 group-title="France" tvg-genre="oldies,pop,rock",Radio La Belle Aventure
+https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3
+#EXTINF:-1 group-title="France" tvg-genre="metal,rock",La Grosse Radio Métal
+https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
+#EXTINF:-1 group-title="France" tvg-genre="jazz",SUN Jazz
+https://diffusion.lafrap.fr/sun-jazz.mp3
+#EXTINF:-1 group-title="France" tvg-genre="blues,pop,pop-rock,rock,soul",KISS Pop Rock
+https://radiola.me/listen/kiss_pop_rock/radio.mp3
+#EXTINF:-1 group-title="France" tvg-genre="pop,rock",Maxi France radio
+https://stream.maxifrance.radio/stream
+#EXTINF:-1 group-title="France" tvg-genre="music",Allzic Radio Electro Chill
+https://allzic57.ice.infomaniak.ch/allzic57.aac
+#EXTINF:-1 group-title="France" tvg-genre="techno",Le Bon Mix Dynamic - AAC192LC
+https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM SUMMERTIME
+https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3
+#EXTINF:-1 group-title="France" tvg-genre="chillout,electronic,house,relax",ISEKOI Radio | Chill Zone
+https://public.isekoi-radio.com/listen/chill/radio.mp3
+#EXTINF:-1 group-title="France" tvg-genre="90s,classic-hits,oldies",1000 Hits 90s
+https://c4.auracast.net:8050/;
+#EXTINF:-1 group-title="France" tvg-genre="classical",France Musique Jazz
+https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+#EXTINF:-1 group-title="France" tvg-genre="soul",Nova Soul
+https://nova-soul.ice.infomaniak.ch/nova-soul-256.aac
+#EXTINF:-1 group-title="France" tvg-genre="dance",M40 Eurodance
+https://live.m40radio.fr/listen/m40-eurodance/m40-eurodance-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",Radio Néo
+https://ice.creacast.com/radio-neo-paris
+#EXTINF:-1 group-title="France" tvg-genre="2000s,hits,latin,latin-music,latin-pop,pop-music,top-hits",Toulouse FM
+https://n32a-eu.rcs.revma.com/1x41712gy7uvv
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM TOP OF THE WEEK
+https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3
+#EXTINF:-1 group-title="France" tvg-genre="folk,music",Ràdio País
+https://stunnel2.cyber-streaming.com:9272/stream
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM GARAGE
+https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-128.mp3
+#EXTINF:-1 group-title="France" tvg-genre="pop",MyleneFarmer
+https://www.mylene.net/mp3/a_tout_jamais_npd_s_remix.mp3
+#EXTINF:-1 group-title="France" tvg-genre="70s,80s,90s,dance,house,top-40",Radio Aviva
+https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3
+#EXTINF:-1 group-title="France" tvg-genre="jazz,music",Allzic Radio Jazz Lounge
+https://allzic03.ice.infomaniak.ch/allzic03.mp3
+#EXTINF:-1 group-title="France" tvg-genre="rock",OUI FM GIRLS ROCK [AAC 64k]
+https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac
+#EXTINF:-1 group-title="France" tvg-genre="rnb",🕺 Générations R&B
+https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
+#EXTINF:-1 group-title="France" tvg-genre="alternative,music,rock",Radio Dio
+https://live.aurafm.org/RadioDio
+#EXTINF:-1 group-title="France" tvg-genre="rnb",🕺 Générations RNB Gold
+https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
+#EXTINF:-1 group-title="France" tvg-genre="pop,rock",Europe 2 Mix / Rock, Electro, Pop
+https://europe2.lmn.fm/vr-wr6.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 group-title="France" tvg-genre="dance,electronic",Hotmix Dance
+https://streaming.hotmixradio.com/hotmix-dance-en-mp3
+#EXTINF:-1 group-title="France" tvg-genre="jazz",Europa Radio Jazz HD
+https://streams.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83
+#EXTINF:-1 group-title="France" tvg-genre="electronic,reggae,rock",Radio Zaï Zaï
+https://listen.radioking.com/radio/204667/stream/247420
+#EXTINF:-1 group-title="France" tvg-genre="trance",📻 Reccord Trance Hits
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1 group-title="France" tvg-genre="classical",France Musique la B.O.
+https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
+#EXTINF:-1 group-title="France" tvg-genre="reggae",dubsideradio
+https://puma.streemlion.com:5505/stream
+#EXTINF:-1 group-title="France" tvg-genre="music,pop",Allzic Radio Pop Queens
+https://allzic54.ice.infomaniak.ch/allzic54.aac
+#EXTINF:-1 group-title="France" tvg-genre="jazz,reggae,rock",RCV 99 fm
+https://listen.radioking.com/radio/3086/stream/9476
+#EXTINF:-1 group-title="France" tvg-genre="techno",📻 Reccord Techno
+https://radiorecord.hostingradio.ru/techno96.aacp
+#EXTINF:-1 group-title="France" tvg-genre="house",Algorythme Radio
+https://radio3.pro-fhi.net/flux-ejzloxke/stream
+#EXTINF:-1 group-title="France" tvg-genre="pop-rock",Europe 2 New
+https://europe2.lmn.fm/vr-wr1.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 group-title="France" tvg-genre="classic-rock,metal,pop-rock,rock",RSTLSS
+https://stream.radiosolution.fr/rstlss.mp3
+#EXTINF:-1 group-title="France" tvg-genre="pop,pop-rock",Europe 2 Nouvelle Scène
+https://europe2.lmn.fm/vr-wr8.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1 group-title="France" tvg-genre="electronic,trance",Puls Radio - Trance
+https://icecastlb.pulsradio.com/pulstranceHD.mp3
+#EXTINF:-1 group-title="France" tvg-genre="classic-rock,pop-rock,rock",SUN Rock
+https://diffusion.lafrap.fr/sun-rock.mp3
+#EXTINF:-1 group-title="France" tvg-genre="metal",Virgin Radio Metal
+https://virginmetal.ice.infomaniak.ch/virgin-radio-metal.mp3
+#EXTINF:-1 group-title="France" tvg-genre="music",Allzic Radio Golds Français
+https://allzic30.ice.infomaniak.ch/allzic30.aac
+#EXTINF:-1 group-title="France" tvg-genre="70s,music",Allzic Radio Années 70
+https://allzic50.ice.infomaniak.ch/allzic50.aac
+#EXTINF:-1 group-title="France" tvg-genre="pop-rock",Radio collection
+https://listen.radioking.com/radio/251653/stream/296545
+#EXTINF:-1 group-title="France" tvg-genre="pop",Fréquence 3 Gold
+https://frequence3.net-radio.fr/frequence3gold.mp3
+#EXTINF:-1 group-title="France" tvg-genre="zouk",🕺 Allzic Radio Zouk
+https://allzic28.ice.infomaniak.ch/allzic28.aac
+#EXTINF:-1 group-title="France" tvg-genre="pop",EFR12 Radio
+https://listen.radioking.com/radio/151768/stream/192217
+#EXTINF:-1 group-title="France" tvg-genre="music",Allzic Radio Love
+https://allzic34.ice.infomaniak.ch/allzic34.aac
+#EXTINF:-1 group-title="France" tvg-genre="rap",Génération JUL
+https://generations-jul.ice.infomaniak.ch/generations-jul.mp3
+#EXTINF:-1 group-title="France" tvg-genre="latin-music",Latina @work
+https://latinawork.ice.infomaniak.ch/latinawork.mp3
+#EXTINF:-1 group-title="France" tvg-genre="blues,folk,hip-hop,jazz,reggae,rock",Radio campus bordeaux
+https://live.radio-campus.org:8002/campus-bordeaux
+#EXTINF:-1 group-title="France" tvg-genre="folk",Radio Uylenspiegel
+https://listen.radioking.com/radio/474857/stream/531260
+#EXTINF:-1 group-title="France" tvg-genre="music",Egregore Radio
+https://radio.egrego.re/radio/8000/radio.mp3
+#EXTINF:-1 group-title="France" tvg-genre="music",Crooner Radio - Movies
+https://croonerradio_movies.ice.infomaniak.ch/croonerradio-movies-midfi.mp3
+#EXTINF:-1 group-title="France",RMC FR
+https://audio.bfmtv.com/rmcradio_128.mp3
+#EXTINF:-1 group-title="France",Sud Radio
+https://ice.creacast.com/sudradio
+#EXTINF:-1 group-title="France",BFM radio
+https://audio.bfmtv.com/bfmradio_128.mp3
+#EXTINF:-1 group-title="France",Europe 1
+https://stream.europe1.fr/europe1.aac
+#EXTINF:-1 group-title="France",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 group-title="France",RMC Info Talk Sport
+https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web
+#EXTINF:-1 group-title="France",Urban Hit Maroc
+https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
+#EXTINF:-1 group-title="France",France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1 group-title="France",Skyrock Klassics
+https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac
+#EXTINF:-1 group-title="France",FM 80 Funky Music
+https://listen.radioking.com/radio/467555/stream/523739
+#EXTINF:-1 group-title="France",Algorythme Drum & Bass
+https://radio9.pro-fhi.net/flux-endvtlna/stream
+#EXTINF:-1 group-title="France",📺 RFI Monde
+https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3

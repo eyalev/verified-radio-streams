@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="United States" tvg-genre="classic-hits,easy-listening,jazz,lounge,oldies,orchestral",Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1 group-title="United States" tvg-genre="easy-listening",Christmas Vinyl HD
+https://icecast.walmradio.com:8443/christmas
+#EXTINF:-1 group-title="United States" tvg-genre="christian-music",WALM HD
+https://icecast.walmradio.com:8443/walm
+#EXTINF:-1 group-title="United States" tvg-genre="christian-music,orchestral",WALM 2 HD
+https://icecast.walmradio.com:8443/walm2
+#EXTINF:-1 group-title="United States" tvg-genre="easy-listening",Christmas Vinyl HD Opus
+https://icecast.walmradio.com:8443/christmas_opus
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,classic-hits",CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie
+https://radiopanther.radiolebowski.com/play
+#EXTINF:-1 group-title="United States" tvg-genre="classic-hits,easy-listening,jazz,lounge,oldies,orchestral",Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,chillout,downtempo,lounge",SomaFM Groove Salad (128k MP3)
+https://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,downtempo,jazz,lounge,samba",SomaFM Secret Agent (128k MP3)
+https://ice6.somafm.com/secretagent-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="rnb",181.FM - The Beat (HipHop/R&B)
+https://listen.181fm.com/181-beat_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="80s",SomaFM Underground 80s (128k MP3)
+https://ice2.somafm.com/u80s-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,electronica",SomaFM Space Station Soma (128k AAC)
+https://ice6.somafm.com/spacestation-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="indie",SomaFM PopTron (128k MP3)
+https://ice2.somafm.com/poptron-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="indie",SomaFM Indie Pop Rocks! (128k AAC)
+https://ice5.somafm.com/indiepop-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="easy-listening,rock",SomaFM Left Coast 70s (320k MP3)
+https://ice2.somafm.com/seventies-320-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="easy-listening",WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus
+#EXTINF:-1 group-title="United States" tvg-genre="60s,70s,80s,disco,funk,music,oldies,r&b,rnb,soul",FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="hits",Miami Beach Radio
+https://streaming.radiostreamlive.com/miamibeachradio_devices
+#EXTINF:-1 group-title="United States" tvg-genre="electronic,lounge",SomaFM Lush (128k MP3)
+https://ice6.somafm.com/lush-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="music,salsa",Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida
+https://liveaudio.lamusica.com/MIA_WCMQ_icy
+#EXTINF:-1 group-title="United States" tvg-genre="country,pop,rock",181.FM - Kickin' Country
+https://listen.181fm.com/181-kickincountry_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,funk",70s 80s Disco Funk ModernSoul Boogie
+https://discofunk.streamingmedia.it/usa
+#EXTINF:-1 group-title="United States" tvg-genre="classic-rock,metal,rock",metal rock radio
+https://kathy.torontocast.com:2800/;
+#EXTINF:-1 group-title="United States" tvg-genre="blues",181.FM - True Blues
+https://listen.181fm.com/181-blues_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="smooth-jazz",SmoothJazz.com 128k mp3
+https://smoothjazz.cdnstream1.com/2585_128.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="country",Radio Country Live New York
+https://streaming.radiostreamlive.com/radiocountrylive_devices
+#EXTINF:-1 group-title="United States" tvg-genre="classic-rock,metal",Megarock Radio 320k
+https://stream3.megarockradio.net:80/
+#EXTINF:-1 group-title="United States" tvg-genre="reggae",SomaFM Heavyweight Reggae (256k MP3)
+https://ice5.somafm.com/reggae-256-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="love-songs",Radio Love Live New York
+https://streaming.radiostreamlive.com/radiolovelive_devices
+#EXTINF:-1 group-title="United States" tvg-genre="classic-rock",181.FM - The Eagle (Classic)
+https://listen.181fm.com/181-eagle_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="80s,metal",181.FM - 80's HairBand
+https://listen.181fm.com/181-hairband_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,chillout",SomaFM Drone Zone (128k MP3)
+https://ice2.somafm.com/dronezone-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="country",Bluegrass Country
+https://ice24.securenetsystems.net/WAMU
+#EXTINF:-1 group-title="United States" tvg-genre="country",181.FM - Real Country
+https://listen.181fm.com/181-realcountry_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,downtempo,jazz,lounge,samba",SomaFM Secret Agent (32k AAC)
+https://ice2.somafm.com/secretagent-32-aac
+#EXTINF:-1 group-title="United States" tvg-genre="pop",Z100 - New York's #1 Hit Music Station WHTZ
+https://stream.revma.ihrhls.com/zc1469
+#EXTINF:-1 group-title="United States" tvg-genre="80s",#1 HITS 80s
+https://makri.cdnstream.com/1898_128
+#EXTINF:-1 group-title="United States" tvg-genre="alternative,rock",Radio Paradise Rock Mix FLAC
+https://stream.radioparadise.com/rock-flac
+#EXTINF:-1 group-title="United States" tvg-genre="country",America's Country
+https://ais-sa2.cdnstream1.com/1976_128.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,electronic",SomaFM Deep Space One (32k AAC)
+https://ice6.somafm.com/deepspaceone-32-aac
+#EXTINF:-1 group-title="United States" tvg-genre="easy-listening,rock",SomaFM Left Coast 70s (128k MP3)
+https://ice2.somafm.com/seventies-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="country",SomaFM Boot Liquor (320k MP3)
+https://ice5.somafm.com/bootliquor-320-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="jazz",SomaFM Sonic Universe (128k MP3)
+https://ice5.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,disco,funk,music,musica,oldies,r&b,rnb,soul",_Funky Corner Radio (USA)
+https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="hip-hop,r&b,soul",.100 Hip hop and RNB FM
+https://ice64.securenetsystems.net/LFTM
+#EXTINF:-1 group-title="United States" tvg-genre="pop,top-40",102.7 KIIS FM
+https://stream.revma.ihrhls.com/zc185
+#EXTINF:-1 group-title="United States" tvg-genre="worship",Christian Power Praise Dot Net
+https://listen.christianrock.net/stream/13/
+#EXTINF:-1 group-title="United States" tvg-genre="chillout,downtempo,electronica",SomaFM Beat Blender (128k MP3)
+https://ice2.somafm.com/beatblender-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="alternative",Radio Paradise Mellow Mix FLAC
+https://stream.radioparadise.com/mellow-flac
+#EXTINF:-1 group-title="United States" tvg-genre="classic-hits",181.FM - Classic Hits 181
+https://listen.181fm.com/181-greatoldies_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="indie",The Independent FM
+https://listen.radioking.com/radio/293701/stream/340084
+#EXTINF:-1 group-title="United States" tvg-genre="soul",181.FM - Soul
+https://listen.181fm.com/181-soul_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,chillout,downtempo,lounge",SomaFM Groove Salad (128k AAC)
+https://ice6.somafm.com/groovesalad-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="reggae",181.FM - Reggae Roots
+https://listen.181fm.com/181-reggae_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="electronic",chilltrax
+https://streamssl.chilltrax.com/
+#EXTINF:-1 group-title="United States" tvg-genre="edm,electronic,house",DnB&EDM
+https://edmdnb.com:448/radio/8000/radio.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="soul",SomaFM Seven Inch Soul (128k MP3)
+https://ice2.somafm.com/7soul-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,electronic",SomaFM DEF CON Radio (128k AAC)
+https://ice6.somafm.com/defcon-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="80s",SomaFM Underground 80s (256k MP3)
+https://ice2.somafm.com/u80s-256-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="love-songs",181.FM - The Heart (Love Songs)
+https://listen.181fm.com/181-heart_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="80s,90s,pop",Radio New York Live
+https://streaming.radiostreamlive.com/radionylive_devices
+#EXTINF:-1 group-title="United States" tvg-genre="latin,latin-music,latin-pop",Mega 96.3 (Los Angeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1 group-title="United States" tvg-genre="electronic,house,techno,trance",Frisky
+https://stream.frisky.friskyradio.com/frisky_mp3_high
+#EXTINF:-1 group-title="United States" tvg-genre="rock",Christian Rock Dot Net
+https://listen.christianrock.net/stream/11/
+#EXTINF:-1 group-title="United States" tvg-genre="disco",Disco Studio 54
+https://maiban00.radioca.st/stream
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,downtempo",SomaFM Groove Salad Classic (128k MP3)
+https://ice6.somafm.com/gsclassic-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,chillout,lounge",Chill Lounge Florida (USA) 128k mp3
+https://vip2.fastcast4u.com/proxy/chillfla?mp=/1
+#EXTINF:-1 group-title="United States" tvg-genre="metal,rock",Begoodradio.com 80s metal
+https://bigrradio.cdnstream1.com/5212_128
+#EXTINF:-1 group-title="United States" tvg-genre="classic-rock",Radio Rock On
+https://streaming.radiostreamlive.com/radiorockon_devices
+#EXTINF:-1 group-title="United States" tvg-genre="techno",181.FM - Techno Club
+https://listen.181fm.com/181-technoclub_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="country",104.9 Max Country
+https://ais-sa1.streamon.fm/7246_48k.aac
+#EXTINF:-1 group-title="United States" tvg-genre="soul",SOUL RADIO Classics
+https://listen.soulradio.us/us
+#EXTINF:-1 group-title="United States" tvg-genre="electronic",CHICAGO HOUSE
+https://stream.radio.co/sae989fe39/listen
+#EXTINF:-1 group-title="United States" tvg-genre="alternative",Radio Paradise Mellow Mix 64k AAC
+https://stream.radioparadise.com/mellow-64
+#EXTINF:-1 group-title="United States" tvg-genre="classical",Your Classical Chamber Music
+https://chambermusic.stream.publicradio.org/chambermusic.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="70s,oldies",Non-Stop Oldies
+https://ais-sa2.cdnstream1.com/2383_128.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="lounge",SomaFM Illinois Street Lounge (128k MP3)
+https://ice2.somafm.com/illstreet-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="country",SomaFM Boot Liquor (128k AAC)
+https://ice2.somafm.com/bootliquor-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="ambient",SomaFM Mission Control (128k MP3)
+https://ice5.somafm.com/missioncontrol-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="gospel",181.FM - Christmas Gospel
+https://listen.181fm.com/181-xgospel_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="90s,dance",181.FM - 90's Dance
+https://listen.181fm.com/181-90sdance_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="chillout",SomaFM Christmas Lounge 256k
+https://ice6.somafm.com/christmas-256-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="metal,rock",ROCK FM Classic Rock
+https://audiotainment-sw.streamabc.net/atsw-classicrock-mp3-128-2538548?
+#EXTINF:-1 group-title="United States" tvg-genre="classical",Smooth Jazz
+https://smoothjazz.cdnstream1.com/2585_320.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,90s",CLASSIC HITS RADIO
+https://classichitsradio.streamingmedia.it/usa
+#EXTINF:-1 group-title="United States" tvg-genre="jazz",SomaFM Sonic Universe (128k AAC)
+https://ice2.somafm.com/sonicuniverse-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="classical",Whisperings Solo Piano Radio
+https://pianosolo.streamguys1.com/live
+#EXTINF:-1 group-title="United States" tvg-genre="pop,top-40",106.1 KISS FM Seattle
+https://stream.revma.ihrhls.com/zc4257
+#EXTINF:-1 group-title="United States" tvg-genre="classical",KUSC 91.5 Los Angeles, CA (96kbps AAC)
+https://27283.live.streamtheworld.com/KUSCAAC96_SC
+#EXTINF:-1 group-title="United States" tvg-genre="gospel",Radio Visión Cristiana Internacional
+https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/
+#EXTINF:-1 group-title="United States" tvg-genre="chillout,downtempo,electronica",SomaFM Beat Blender (128k AAC)
+https://ice6.somafm.com/beatblender-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="chillout",181.FM - Chilled Out
+https://listen.181fm.com/181-chilled_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="salsa",181.FM - Salsa
+https://listen.181fm.com/181-salsa_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="disco",The Disco Planet
+https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
+#EXTINF:-1 group-title="United States" tvg-genre="jazz",WBGO Jazz 88.3 FM
+https://ais-sa8.cdnstream1.com/3629_128.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="hip-hop",HOT 93.5 Old School
+https://stream.revma.ihrhls.com/zc6841
+#EXTINF:-1 group-title="United States" tvg-genre="disco,funk,soul",Radio Motown
+https://broadcast.miami/proxy/motown?mp=/stream/;
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,90s",CBN Classic Christian Radio
+https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer
+#EXTINF:-1 group-title="United States" tvg-genre="classical",All Classical Portland
+https://allclassical.streamguys1.com/ac96k
+#EXTINF:-1 group-title="United States" tvg-genre="folk",Folk Music Notebook
+https://s3.radio.co/s0b5d4adb5/listen
+#EXTINF:-1 group-title="United States" tvg-genre="classical",181.FM - Classical Music
+https://listen.181fm.com/181-classical_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="classical",WQXR 105.9 FM
+https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600
+#EXTINF:-1 group-title="United States" tvg-genre="pop,top-40",100.3 KISS FM
+https://stream.revma.ihrhls.com/zc1629
+#EXTINF:-1 group-title="United States" tvg-genre="smooth-jazz",Smooth Jazz Florida
+https://streaming.live365.com/a57422
+#EXTINF:-1 group-title="United States" tvg-genre="soundtrack",Movie Soundtracks Hits Radio @ 1.fm
+https://strm112.1.fm/moviesoundtracks_mobile_mp3
+#EXTINF:-1 group-title="United States" tvg-genre="indie",SomaFM PopTron (128k AAC)
+https://ice6.somafm.com/poptron-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="classical",Classical KUSC MP3 256
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="adult-contemporary",95.7 That Station
+https://ais-sa8.cdnstream1.com/2749_64.aac
+#EXTINF:-1 group-title="United States" tvg-genre="jazz",Smooth Jazz Global Radio
+https://smoothjazz.cdnstream1.com/2585_256.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="folk",SomaFM ThistleRadio (128k AAC)
+https://ice6.somafm.com/thistle-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,90s,classic-hits,disco,pop,rock",Classic Hits 109
+https://broadcast.classichits109.com/70s-90s
+#EXTINF:-1 group-title="United States" tvg-genre="classical",Your Classical - Favorites
+https://favorites.stream.publicradio.org/favorites.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,electronic,relaxing",ambient.fm
+https://ambient.fm/live/
+#EXTINF:-1 group-title="United States" tvg-genre="electronic,lounge",SomaFM Lush (128k AAC)
+https://ice2.somafm.com/lush-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,electronic",SomaFM Deep Space One (64k AAC)
+https://ice5.somafm.com/deepspaceone-64-aac
+#EXTINF:-1 group-title="United States" tvg-genre="classic-hits",WLS 94.7-FM Chicago, IL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFM.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="classical",Classical King FM - Evergreen Channel
+https://classicalking.streamguys1.com/evergreen-aac-128k
+#EXTINF:-1 group-title="United States" tvg-genre="love-songs,romantic",LOVE RADIO Only Love Songs 70s80s90s
+https://loveradio.streamingmedia.it/usa
+#EXTINF:-1 group-title="United States" tvg-genre="80s",SomaFM Underground 80s (32k AAC)
+https://ice6.somafm.com/u80s-32-aac
+#EXTINF:-1 group-title="United States" tvg-genre="smooth-jazz",Smooth Jazz JJZ
+https://stream.revma.ihrhls.com/zc7390
+#EXTINF:-1 group-title="United States" tvg-genre="blues",Radio Art Acoustic Blues
+https://live.radioart.com/fAcoustic_blues.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="house,trance",SomaFM The Trip (128k AAC)
+https://ice5.somafm.com/thetrip-128-aac
+#EXTINF:-1 group-title="United States" tvg-genre="music",Music of China 中国音乐
+https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong
+#EXTINF:-1 group-title="United States" tvg-genre="classical,relaxing",Whisperings: Solo Piano Radio (AAC 48)
+https://pianosolo.streamguys1.com/pianosolo48.aac
+#EXTINF:-1 group-title="United States" tvg-genre="classical",KDFC Classical California Ultimate Playlist
+https://19273.live.streamtheworld.com/CC1_S01AAC_96_SC
+#EXTINF:-1 group-title="United States" tvg-genre="lounge",Radio Art Vocal Lounge
+https://live.radioart.com/fVocal_lounge.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="70s,80s,90s,disco,oldies,pop,rock",__1 oldies
+https://80sexitos.stream.laut.fm/80sexitos
+#EXTINF:-1 group-title="United States" tvg-genre="country",CBN Cross Country Christmas
+https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Cross%20Country%20Christmas
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,chillout,downtempo,lounge",SomaFM Groove Salad (64k AAC)
+https://ice5.somafm.com/groovesalad-64-aac
+#EXTINF:-1 group-title="United States" tvg-genre="edm",181.FM - Energy 93 (Euro EDM)
+https://listen.181fm.com/181-energy93_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="blues,folk,rock",WXPN 88.5 Philadelphia, PA
+https://wxpnhi.xpn.org/xpnhi
+#EXTINF:-1 group-title="United States" tvg-genre="metal,rock",CRnet Hard Rock (128)
+https://shoutcast.christianrock.net/stream/3/
+#EXTINF:-1 group-title="United States" tvg-genre="chillout,lounge",The River Of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1 group-title="United States" tvg-genre="ambient",SomaFM SF 10-33 (128k MP3)
+https://ice5.somafm.com/sf1033-128-mp3
+#EXTINF:-1 group-title="United States" tvg-genre="oldies",Oldies 93.5
+https://stream.revma.ihrhls.com/zc5110
+#EXTINF:-1 group-title="United States" tvg-genre="ambient,downtempo,jazz,lounge,samba",SomaFM Secret Agent (64k AAC)
+https://ice6.somafm.com/secretagent-64-aac
+#EXTINF:-1 group-title="United States" tvg-genre="pop,top-40",101.9 KISS FM
+https://stream.revma.ihrhls.com/zc4864
+#EXTINF:-1 group-title="United States" tvg-genre="jazz",Smooth Lounge Global Radio
+https://smoothjazz.cdnstream1.com/2586_256.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="jazz",Radio Art Vocal Jazz
+https://live.radioart.com/fVocal_jazz.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="country",99.9 Gator Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGNEAAC.aac
+#EXTINF:-1 group-title="United States" tvg-genre="electronic",Chillsynth
+https://stream.nightride.fm/chillsynth.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="dance,edm,pop",181.FM - The Vibe of Vegas
+https://listen.181fm.com/181-vibe_128k.mp3
+#EXTINF:-1 group-title="United States" tvg-genre="disco",Radio Salsoul
+https://broadcast.miami/proxy/salsoul?mp=/stream/;
+#EXTINF:-1 group-title="United States" tvg-genre="indie",SomaFM PopTron (32k AAC)
+https://ice2.somafm.com/poptron-32-aac
+#EXTINF:-1 group-title="United States" tvg-genre="reggae",SomaFM Heavyweight Reggae (32k AAC)
+https://ice5.somafm.com/reggae-32-aac
+#EXTINF:-1 group-title="United States" tvg-genre="classic-rock",KIYE 88.7 FM Kamiah, ID
+https://ais-sa1.streamon.fm/7012_24k.aac
+#EXTINF:-1 group-title="United States" tvg-genre="pop,top-40",107.5 KISS FM
+https://stream.revma.ihrhls.com/zc2740
+#EXTINF:-1 group-title="United States" tvg-genre="60s,70s,oldies",Groovy Radio - 60's and 70's Oldies
+https://r1.comcities.com/proxy/emogddug/stream
+#EXTINF:-1 group-title="United States" tvg-genre="adult-contemporary",Sunny 99.9 El Paso
+https://stream.revma.ihrhls.com/zc3188
+#EXTINF:-1 group-title="United States" tvg-genre="anime",Vocaloid Radio (320kbps)
+https://vocaloid.radioca.st/stream

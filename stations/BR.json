@@ -1,0 +1,3163 @@
+{
+ "countryCode": "BR",
+ "country": "Brazil",
+ "slug": "brazil",
+ "continent": "americas",
+ "stationCount": 159,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/brazil/",
+ "stations": [
+  {
+   "id": "radio-saudade-fm-99-7",
+   "name": "Rádio Saudade FM 99.7",
+   "url": "https://www.saudadefm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Santos, Sao Paulo (Brazil)",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 11257,
+   "clicks": 61,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bossa-jazz-brasil",
+   "name": "Bossa Jazz Brasil",
+   "url": "https://bossajazzbrasil.com/",
+   "stream": "https://centova5.transmissaodigital.com:20104/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "jazz",
+    "mpb"
+   ],
+   "votes": 8667,
+   "clicks": 72,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bons-tempos-fm",
+   "name": "Bons Tempos FM",
+   "url": "https://www.radios.com.br/aovivo/bons-tempos-fm/37027",
+   "stream": "https://server02.ouvir.radio.br:8050/stream?1609720768800",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "rock",
+    "romantic"
+   ],
+   "votes": 7771,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89-a-radio-rock",
+   "name": "89 A Radio Rock",
+   "url": "https://www.radiorock.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 7072,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cidade-rio-de-janeiro-102-9-fm-zyd462",
+   "name": "Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
+   "url": "https://radiocidade.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 5389,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-jazz-lounge",
+   "name": "Smooth Jazz Lounge",
+   "url": "https://www.vip-radios.fm/station/smooth-jazz-lounge",
+   "stream": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 4809,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mix-fm",
+   "name": "Radio Mix FM",
+   "url": "https://radiomixfm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 3574,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "clube-fm-99-1",
+   "name": "Clube FM 99.1",
+   "url": "http://www.clubepe.fm/",
+   "stream": "https://radio.saopaulo01.com.br:10913/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Brasília",
+   "genre": [
+    "hits",
+    "pop",
+    "popular"
+   ],
+   "votes": 3441,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-reggae-brasil",
+   "name": "Radio Reggae Brasil",
+   "url": "https://radioreggaebrasil.com.br/",
+   "stream": "https://casthttps.suaradionanet.net/13805/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 930,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tropical-smooth-jazz",
+   "name": "Tropical Smooth Jazz",
+   "url": "https://tropicalsmoothjazz.com/",
+   "stream": "https://servidor32-3.brlogic.com:8230/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 779,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mgt-gospel",
+   "name": "MGT GOSPEL",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8040/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Brasil",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 712,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maquina-instrumental",
+   "name": "Rádio Máquina Instrumental",
+   "url": "http://radioinstrumental.com.br/",
+   "stream": "https://servidor29-2.brlogic.com:8578/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 703,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-motel",
+   "name": "Radio Motel",
+   "url": "",
+   "stream": "https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 685,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "groove-wave-lounge",
+   "name": "Groove Wave Lounge",
+   "url": "https://www.groovewave.com/lounge/lounge.htm",
+   "stream": "https://stm1.srvif.com:7576/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "pt"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "lounge"
+   ],
+   "votes": 583,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-energia-97-fm",
+   "name": "Radio Energia 97 FM",
+   "url": "https://www.97fm.com.br/",
+   "stream": "https://streaming.inweb.com.br/energia",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "musica"
+   ],
+   "votes": 570,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sertaneja-106-7",
+   "name": "Sertaneja 106.7",
+   "url": "https://www.106sertaneja.com.br/",
+   "stream": "https://sc4s.cdn.upx.com:8067/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "country",
+    "sertanejo"
+   ],
+   "votes": 551,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-florianopolis-sc",
+   "name": "Jovem Pan FM - Florianópolis - SC",
+   "url": "https://jovempan.com.br/afiliada/floripa-fm",
+   "stream": "https://live.paineldj.com.br/proxy/jfloripa?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Santa Catarina",
+   "genre": [
+    "dance",
+    "pop",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 543,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-i-love-anos-80-s",
+   "name": "Rádio I Love anos 80's",
+   "url": "https://radioiloveanos80.blogspot.com/",
+   "stream": "https://shit-is-merda.stream.laut.fm/shit-is-merda",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portugues-do-brasil"
+   ],
+   "state": "Porto Alegre",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 540,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melodia-fm-97-5",
+   "name": "Melodia FM 97.5",
+   "url": "https://melodia.com.br/",
+   "stream": "https://server01.ouvir.radio.br:8033/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portugues-do-brasil",
+    "portuguese",
+    "português-brasil"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 452,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mgt-anos-80",
+   "name": "MGT ANOS 80",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8100/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Brasil",
+   "genre": [
+    "80s"
+   ],
+   "votes": 404,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-globo-98-1-fm",
+   "name": "Rádio Globo 98.1 FM",
+   "url": "https://radioglobo.globo.com/",
+   "stream": "https://29326.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "popular"
+   ],
+   "votes": 333,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-fm-porto-alegre",
+   "name": "Mix FM - Porto Alegre",
+   "url": "http://www.mixfmpoa.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 314,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mgt-sertanejo-universitario",
+   "name": "MGT SERTANEJO UNIVERSITÁRIO",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8020/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Brasil",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 313,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hunter-fm-hits-brasil",
+   "name": "Hunter FM - Hits Brasil",
+   "url": "https://hunter.fm/",
+   "stream": "https://live.hunter.fm/hitsbrasil_normal",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "português-brasil"
+   ],
+   "state": "Distrito Federal",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 310,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gold-web-32kb",
+   "name": "Gold Web 32kb",
+   "url": "http://www.radiogold.com.br/",
+   "stream": "https://centova.svdns.com.br:19418/stream1",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "70s",
+    "oldies"
+   ],
+   "votes": 308,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cafe-viola",
+   "name": "Rádio Café Viola",
+   "url": "https://radiocafeviola.com.br/",
+   "stream": "https://stm6.xcast.com.br:9328/;?1685284162874",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portugues-do-brasil",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Minas Gerais Brasil",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 304,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bh-fm-102-1-mhz-zyc690-belo-horizonte-mg",
+   "name": "BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)",
+   "url": "https://bhfm.globo.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "funk",
+    "pagode",
+    "pop",
+    "samba",
+    "sertanejo"
+   ],
+   "votes": 280,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alpha-mpb",
+   "name": "Alpha MPB",
+   "url": "https://www.alphafm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHAMPBAAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 269,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dance-music-anos-2000",
+   "name": "Rádio Dance Music Anos 2000",
+   "url": "https://www.dancemusic2000.com/",
+   "stream": "https://cloud1.cdnseguro.com:2190/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "techno",
+    "trance"
+   ],
+   "votes": 260,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jovem-pan-99-1-fm-belo-horizonte",
+   "name": "Radio Jovem Pan 99.1 FM Belo Horizonte",
+   "url": "https://jovempan.com.br/afiliada/bh-fm",
+   "stream": "https://8062.brasilstream.com.br//stream?origem=jovem_pan_site",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 243,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fm-o-dia-99-7-fm",
+   "name": "Rádio FM O Dia 99.7 FM",
+   "url": "https://macae.fmodia.com.br/",
+   "stream": "https://wz7.servidoresbrasil.com:8274/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "popular"
+   ],
+   "votes": 238,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-energia-dance",
+   "name": "Radio Energia Dance",
+   "url": "https://www.radioenergiadance.com/",
+   "stream": "https://s05.w3bserver.com:20025/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 233,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89fm-radio-rock",
+   "name": "89FM Radio Rock",
+   "url": "https://www.radiorock.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 225,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "89-goiania",
+   "name": "89 Goiânia",
+   "url": "http://89goiania.com.br/",
+   "stream": "https://ice.fabricahost.com.br/89aradiorockgo",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Goias",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 194,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metropolitana-mpb-sao-paulo",
+   "name": "Metropolitana MPB São Paulo",
+   "url": "https://metropolitanafm.com.br/o-melhor-da-mpb/",
+   "stream": "https://ice.fabricahost.com.br/metropolitanampb",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "portugues-do-brasil"
+   ],
+   "state": "São Paulo (SP)",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 181,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-comunitaria-aconchego",
+   "name": "Rádio Comunitária Aconchego",
+   "url": "https://radioaconchego.org/",
+   "stream": "https://fm.radioaconchego.org",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Pernambuco",
+   "genre": [
+    "popular"
+   ],
+   "votes": 177,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mgt-love-hits",
+   "name": "MGT LOVE HITS",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8010/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Brasil",
+   "genre": [
+    "hits"
+   ],
+   "votes": 173,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "instrumentales",
+   "name": "instrumentales",
+   "url": "https://protvradiostream.com:8350/live",
+   "stream": "https://protvradiostream.com:8350/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 172,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maquina-no-rock",
+   "name": "Radio Maquina no Rock",
+   "url": "https://maquinarock.webradiosite.com/",
+   "stream": "https://servidor20-4.brlogic.com:8582/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 163,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-liberdade-92-9-belo-horizonte-mg",
+   "name": "Radio Liberdade 92.9 (Belo Horizonte - MG)",
+   "url": "https://radioliberdade.com.br/",
+   "stream": "https://8335.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 160,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-putzgrila",
+   "name": "Radio Putzgrila",
+   "url": "https://radioputzgrila.com.br/site/",
+   "stream": "https://stream.ouveai.com.br/proxy/putzgrila?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 159,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hunter-fm-pagode",
+   "name": "Hunter FM - Pagode",
+   "url": "https://hunter.fm/",
+   "stream": "https://live.hunter.fm/pagode_normal",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Distrito Federal",
+   "genre": [
+    "pagode"
+   ],
+   "votes": 158,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-brasilia-df-106-3",
+   "name": "Jovem Pan FM - Brasília - DF - 106.3",
+   "url": "https://jovempan.com.br/afiliada/brasilia-fm",
+   "stream": "https://shout25.crossradio.com.br:18022/1",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Distrito Federal",
+   "genre": [
+    "pop",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 151,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gfm-salvador-bahia-fm-90-1",
+   "name": "GFM Salvador Bahia FM 90.1",
+   "url": "https://mytuner-radio.com/pt/radio/gfm-salvador-402269/",
+   "stream": "https://ice.fabricahost.com.br/radiogfm",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Bahia",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits"
+   ],
+   "votes": 150,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "conquista-fm-97-7-sertaneja",
+   "name": "Conquista FM 97,7 Sertaneja",
+   "url": "https://www.conquistafm.com.br/",
+   "stream": "https://rrdns-megasistema.webnow.com.br/conquista.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "country",
+    "sertanejo"
+   ],
+   "votes": 145,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "massa-fm-101-1-ponta-grossa-pr",
+   "name": "Massa FM 101,1 (Ponta Grossa - PR)",
+   "url": "https://massa.com.br/massa-fm-ponta-grossa/",
+   "stream": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "PR",
+   "genre": [
+    "pop-music",
+    "pop-rock",
+    "sertanejo"
+   ],
+   "votes": 129,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-salvador-ba-91-3",
+   "name": "Jovem Pan FM - Salvador - BA - 91.3",
+   "url": "https://jovempan.com.br/afiliada/salvador-fm",
+   "stream": "https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:18022/1",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Bahia",
+   "genre": [
+    "pop",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 128,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "piata-fm",
+   "name": "Piatã FM",
+   "url": "https://piatafm.com.br/",
+   "stream": "https://streaming.livespanel.com:9430/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Bahia",
+   "genre": [
+    "pagode"
+   ],
+   "votes": 128,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-brasil-rj-89-5",
+   "name": "Nova Brasil RJ 89.5",
+   "url": "https://novabrasilfm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 122,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-campinas-89-9",
+   "name": "Jovem Pan FM Campinas - 89.9",
+   "url": "https://jovempan.com.br/afiliada/campinas-fm",
+   "stream": "https://paineldj5.com.br:20028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 116,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "massa-fm-sao-paulo",
+   "name": "Massa FM São Paulo",
+   "url": "https://www.massafm.com.br/",
+   "stream": "https://stm01.virtualcast.com.br:8000/massasaopaulo",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "music"
+   ],
+   "votes": 116,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockett-97-7",
+   "name": "Rockett 97,7",
+   "url": "https://www.hfnews.com.br/",
+   "stream": "https://8817.brasilstream.com.br/stream?cc=1645359200316",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Espírito Santo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 114,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bbn-92-3-fm",
+   "name": "Rádio BBN 92.3 FM",
+   "url": "https://www.bbnradio.org/",
+   "stream": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Parana",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-teomidia-instrumental",
+   "name": "Rádio Teomidia Instrumental",
+   "url": "https://teomidia.radio.br/instrumental/",
+   "stream": "https://usa3.fastcast4u.com/proxy/teomidiainstr?mp=/1",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Sao Paulo",
+   "genre": [
+    "gospel",
+    "instrumental"
+   ],
+   "votes": 101,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sao-francisco-anapolis-97-7fm",
+   "name": "Rádio São Francisco Anápolis - 97.7FM",
+   "url": "https://radiosaochico.com.br/",
+   "stream": "https://cast.hoost.com.br:20150/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Goiás",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 99,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "itapema-fm-floreanopolis",
+   "name": "Itapema FM Floreanopolis",
+   "url": "https://www.itapemafm.com.br/",
+   "stream": "https://27393.live.streamtheworld.com:443/ITA_FLO.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 93,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "r-vale-verde-fm-96-66",
+   "name": "R.VALE VERDE FM 96,66",
+   "url": "https://www.valeverdefm.com.br/",
+   "stream": "https://ice.fabricahost.com.br/valeverdefm",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 90,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "107-fm-tatui",
+   "name": "107 FM Tatuí",
+   "url": "https://www.107fm.net/",
+   "stream": "https://f108.fabricahost.com.br/107fm?f=1787352719N01M0K8C84MSTV2D3Z1X9E8VYR0&tid=01M0K8C84M507PABEHMG7GZ8ZW",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 89,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-furacao-2000",
+   "name": "Rádio Furacão 2000",
+   "url": "https://www.radiofuracao2000.com/",
+   "stream": "https://servidor24-1.brlogic.com:7516/live?source=website",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "dance"
+   ],
+   "votes": 85,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sonora-fm-farroupilha",
+   "name": "Sonora FM - Farroupilha",
+   "url": "https://www.radiosonorafm.com.br/",
+   "stream": "https://casthttps1.suaradionanet.net/10318/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 82,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pt",
+   "name": "Rádio PT",
+   "url": "https://radio.pt.org.br/",
+   "stream": "https://s39.maxcast.com.br:8072/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 78,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dixie-rebel",
+   "name": "Dixie Rebel",
+   "url": "https://www.dixierebel.com.br/",
+   "stream": "https://servidor36.brlogic.com:8572/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 77,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "minas-fm-104-1-mhz-divinopolis-mg",
+   "name": "Minas FM 104,1 MHz (Divinópolis - MG)",
+   "url": "https://www.radiominasfm.com.br/",
+   "stream": "https://minasfmaac.jmvstream.com/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "português-brasil"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 76,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musical-fm-2",
+   "name": "musical fm 2",
+   "url": "https://fmmusical.com.br/",
+   "stream": "https://9176.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 75,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova-instrumental",
+   "name": "Radio Nova Instrumental",
+   "url": "https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream",
+   "stream": "https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portguese"
+   ],
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "torres-fm-101-1",
+   "name": "Torres FM 101,1",
+   "url": "https://www.redepampa.com.br/radios/torres-fm/",
+   "stream": "https://cast4.audiostream.com.br:2661/mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portugues-do-brasil",
+    "portuguese",
+    "português-(br)"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brahma-fm",
+   "name": "Brahma FM",
+   "url": "https://www.brahma.com.br/brahma-fm",
+   "stream": "https://casthttps1.suaradionanet.net/13385/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Goias",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eldorado-fm",
+   "name": "Eldorado FM",
+   "url": "https://www.redepampa.com.br/radios/eldorado-fm/",
+   "stream": "https://cast4.audiostream.com.br:2652/mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "pagode",
+    "samba"
+   ],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-uniao-fm-104-9-mauriti",
+   "name": "Rádio União FM 104,9 Mauriti",
+   "url": "https://www.facebook.com/pages/R%C3%A1dio-Uni%C3%A3o-Fm/625567097459428",
+   "stream": "https://servidor35-2.brlogic.com:7030/live?1599145118524",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Ceará",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 71,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bla-rock",
+   "name": "Rádio Bla Rock",
+   "url": "https://www.radiobla.com.br/",
+   "stream": "https://s12.maxcast.com.br:8086/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 69,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lideranca-fm",
+   "name": "Rádio Liderança FM",
+   "url": "https://radiolideranca.com.br/",
+   "stream": "https://webradio.amsolution.com.br/radio/8320/lideranca",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Fortaleza",
+   "genre": [
+    "pop"
+   ],
+   "votes": 68,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cbn-vale-750-am",
+   "name": "Rádio CBN Vale 750 AM",
+   "url": "https://www.cbnvale.com.br/",
+   "stream": "https://8018.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "popular"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "morena-fm-98",
+   "name": "Morena FM 98",
+   "url": "https://www.morenafm.com/",
+   "stream": "https://ssl1.transmissaodigital.com:2692/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Bahia",
+   "genre": [
+    "blues",
+    "classic-rock",
+    "pop",
+    "rock"
+   ],
+   "votes": 64,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-super",
+   "name": "Rádio Super",
+   "url": "http://www.lagoinha.com/",
+   "stream": "https://servidor32.brlogic.com:8200/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 61,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "atos-fm",
+   "name": "Atos FM",
+   "url": "https://atosfm.com.br/",
+   "stream": "https://s.bul.tec.br:8020/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "english",
+    "espanish"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ceara",
+   "genre": [
+    "adult-contemporary",
+    "gospel"
+   ],
+   "votes": 60,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtm-brasil",
+   "name": "RTM Brasil",
+   "url": "https://www.rtmbrasil.org.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-92-5-sao-paulo",
+   "name": "Kiss FM - 92.5 - São Paulo",
+   "url": "https://kissfm.com.br/aovivo/",
+   "stream": "https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 54,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-advento-londrina",
+   "name": "Radio Advento - Londrina",
+   "url": "http://adventofm.com.br/",
+   "stream": "https://9121.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Parana",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gold-web-radio-224kbps-mp3",
+   "name": "GOLD WEB RADIO (224kbps/mp3)",
+   "url": "https://www.radiosgold.com/",
+   "stream": "https://centova.svdns.com.br:19418/stream2",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Santa Catarina, SC",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-blumenau-sc",
+   "name": "Jovem Pan FM - Blumenau - SC",
+   "url": "https://jovempan.com.br/afiliada/blumenau-fm",
+   "stream": "https://f100.fabricahost.com.br/jpblumenau?f=1787323274N01M0JC9N5G805DATVNQQJTG9PW&tid=01M0JC9N5G2NGP04KE2RZHN1J5",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "português-(br)",
+    "português-(brasil)"
+   ],
+   "state": "Santa Catarina",
+   "genre": [
+    "dance",
+    "pop",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 51,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-educadora-91-7-fm",
+   "name": "Rádio Educadora 91.7 FM",
+   "url": "https://www.educadorafm.com.br/",
+   "stream": "https://stm22.xcast.com.br:11282/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "quran",
+   "name": ".Quran",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 50,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "99-5-fm-goiania-go",
+   "name": "99,5 FM Goiânia GO",
+   "url": "http://www.radio99-5fm.com.br/",
+   "stream": "https://ssl.zoeweb.net/proxy/serradourada?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "eletrica"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ilha-fm-107-1",
+   "name": "Radio Ilha FM 107,1",
+   "url": "https://www.ilhafm.com.br/",
+   "stream": "https://casthttps.suaradionanet.net/13325/stream",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "clube-fm-96-5-mhz-zyc692-belo-horizonte-mg",
+   "name": "Clube FM 96,5 MHz ZYC692 (Belo Horizonte - MG)",
+   "url": "https://clube.fm/",
+   "stream": "https://8112.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "samba",
+    "sertanejo"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-manaus-am-104-1",
+   "name": "Jovem Pan FM - Manaus - AM - 104.1",
+   "url": "https://jovempan.com.br/afiliada/manaus-fm",
+   "stream": "https://directradios.net/proxy/jpmaceio?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "pop",
+    "pop-rock",
+    "top-40"
+   ],
+   "votes": 49,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "manchester-fm-93-3",
+   "name": "Manchester FM 93.3",
+   "url": "https://www.radiomanchester.com.br/fm/",
+   "stream": "https://ssl1.transmissaodigital.com:20440/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tribuna-soft-fm-90-1",
+   "name": "Tribuna soft FM 90,1",
+   "url": "https://socialradio.com.br/radio/tribunafm/",
+   "stream": "https://ice.fabricahost.com.br/tribunafm",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Paraná(Brazil)",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-itapoan-fm-97-5",
+   "name": "Rádio Itapoan FM 97.5",
+   "url": "https://www.itapoanfm.com.br/",
+   "stream": "https://cast.radiu.live:9300/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Bahia",
+   "genre": [
+    "pagode"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-heads",
+   "name": "Metal Heads",
+   "url": "https://metalheads.com.br/",
+   "stream": "https://hts01.brascast.com:9194/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 45,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-studio-souto-the-beatles-aac",
+   "name": "Rádio Studio Souto - The Beatles (AAC+)",
+   "url": "https://studiosouto.com/",
+   "stream": "https://centova5.transmissaodigital.com:20001/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Goiás",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vocall",
+   "name": "Radio Vocall",
+   "url": "https://radiovocall.com/",
+   "stream": "https://servidor24-1.brlogic.com:7096/live?source=",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbn-salvador-100-7-link-2",
+   "name": "cbn salvador 100.7 - link 2",
+   "url": "https://tudoradio.com/player/radio/2482-cbn",
+   "stream": "https://sv1.audiostream.com.br/radio/8030/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "português-brasil"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "novabrasil-fm-fortaleza-ce",
+   "name": "Novabrasil FM Fortaleza, CE",
+   "url": "https://novabrasilfm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Fortaleza, Ceará",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nevasca-fm-104-1",
+   "name": "Rádio Nevasca FM 104.1",
+   "url": "http://www.radionevascafm.com.br/",
+   "stream": "https://cast2.youngtech.radio.br/radio/8110/radio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "country"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hunter-fm-master",
+   "name": "Hunter FM - Master",
+   "url": "https://hunter.fm/",
+   "stream": "https://live.hunter.fm/master_normal",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Brasília",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 40,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mgt-country",
+   "name": "MGT COUNTRY",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8110/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Brasil",
+   "genre": [
+    "country"
+   ],
+   "votes": 40,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-96-fm",
+   "name": "Rádio 96 FM",
+   "url": "https://radio96fm.net/",
+   "stream": "https://cast4.hoost.com.br:20079/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Goias",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 40,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mundo-livre-fm-londrina-93-1",
+   "name": "Mundo Livre FM Londrina 93,1",
+   "url": "https://mundolivrefm.com.br/",
+   "stream": "https://rrdns-continental.webnow.com.br/mllondrina.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Parana",
+   "genre": [
+    "rock"
+   ],
+   "votes": 39,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paiquere",
+   "name": "Radio Paiquerê",
+   "url": "https://www.paiquere.com.br/",
+   "stream": "https://ice.fabricahost.com.br/paiquere917",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Londrina, Paraná",
+   "genre": [
+    "pop"
+   ],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-vale-verde",
+   "name": "FM Vale Verde",
+   "url": "https://www.fmvaleverde.com.br/",
+   "stream": "https://f108.fabricahost.com.br/fmvaleverde?f=1787363181N01M0KJBGEA2MW8RZ0D1SNJQJXA&tid=01M0KJBGEA25HY8T0M5FP3122K",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alpha-fm-90-1-curitiba-p-pr",
+   "name": "Alpha FM 90.1 Curitiba p PR",
+   "url": "https://radioalphacuritiba.com.br/",
+   "stream": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Paraná(Brazil)",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-band-106-7-fm",
+   "name": "Rádio Band 106.7 FM",
+   "url": "https://www.bandfmcampinas.com/",
+   "stream": "https://stm2.xcast.com.br:11264/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "pagode",
+    "popular",
+    "samba",
+    "sertanejo"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "morcegaobr",
+   "name": "morcegaoBr",
+   "url": "",
+   "stream": "https://radio.morcegaofm.com.br/morcegao128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-grande-fm",
+   "name": "Radio Grande FM",
+   "url": "https://grandepicos.com.br/",
+   "stream": "https://stm21.srvaudio.com.br:9634/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Piauí",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ilha-do-mel-fm",
+   "name": "Ilha do Mel FM",
+   "url": "https://ilhadomelfm.com.br/",
+   "stream": "https://str1.streamhostpg.com.br:8002/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "128-brazilian-portuguese"
+   ],
+   "state": "Paraná(Brazil)",
+   "genre": [
+    "pop"
+   ],
+   "votes": 35,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-brazil-imperial",
+   "name": "Rádio Brazil Imperial",
+   "url": "https://www.webradiobrazilimperial.com.br/",
+   "stream": "https://hts03.brascast.com:8430/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "State of São Paulo",
+   "genre": [
+    "music"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-rede-boa-vontade-1230-am",
+   "name": "Super Rede Boa Vontade 1230 AM",
+   "url": "https://www.boavontade.com/pt/radio#SP1230",
+   "stream": "https://9000.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-band-vale-102-9-fm",
+   "name": "Rádio Band Vale 102.9 FM",
+   "url": "https://www.bandvale.com/",
+   "stream": "https://centova5.transmissaodigital.com:20061/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sertaneja",
+   "name": "Rádio Sertaneja",
+   "url": "https://toligado.net.br/",
+   "stream": "https://stm5.painelcast.com:7584/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portugues-do-braasil"
+   ],
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-shekinah-so-louvor",
+   "name": "Rádio Shekinah Só Louvor",
+   "url": "http://www.shekinahfm.com.br/",
+   "stream": "https://player.voxpainel.com.br/proxy/7076",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "santa-barbara-fm-95-9",
+   "name": "Santa Bárbara FM 95,9",
+   "url": "https://santabarbarafm.com/",
+   "stream": "https://servidor36-4.brlogic.com:8474/live",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-liberdade-101-1",
+   "name": "FM Liberdade 101,1",
+   "url": "http://fmliberdade.com/",
+   "stream": "https://8148.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "Patos de Minas, MG",
+   "genre": [
+    "pop"
+   ],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "morena-fm-rio",
+   "name": "Morena FM /Rio",
+   "url": "https://www.morenafmrio.com/",
+   "stream": "https://centova5.transmissaodigital.com:20005/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "state": "RJ",
+   "genre": [
+    "adult-contemporary",
+    "classic-rock",
+    "pop",
+    "rock"
+   ],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "web-radio-nelsons",
+   "name": "Web Rádio NelSons",
+   "url": "https://www.nelsons.com.br/",
+   "stream": "https://stm4.srvstm.com:9716/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brasil",
+    "brazilian-portuguese",
+    "portugues-do-brasil",
+    "português-brasil"
+   ],
+   "state": "Ceara",
+   "genre": [
+    "instrumental",
+    "mpb"
+   ],
+   "votes": 29,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "apenas-marchinha",
+   "name": "Apenas Marchinha",
+   "url": "https://./",
+   "stream": "https://server02.ouvir.radio.br:8003/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portugues-do-brasil"
+   ],
+   "state": "Web",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "97-fm-natal",
+   "name": "97 FM Natal",
+   "url": "https://97fmnatal.com.br/",
+   "stream": "https://azevedo.jmvstream.com/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese",
+    "pt-br"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio Grande do Norte",
+   "genre": [
+    "pop",
+    "sertanejo"
+   ],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-atlantida-fm-florianopolis",
+   "name": "Rádio Atlântida FM Florianópolis",
+   "url": "https://atlantidasc.com.br/",
+   "stream": "https://27393.live.streamtheworld.com:443/ATL_FLO.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Santa Catarina",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sucesso-fm-88-3",
+   "name": "Sucesso FM 88,3",
+   "url": "https://sucessofm.com.br/",
+   "stream": "https://servidor36.brlogic.com:8300/live?1696916321806",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "funk",
+    "pagode",
+    "pop",
+    "sertanejo"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jb-fm-99-9",
+   "name": "Rádio JB FM 99.9",
+   "url": "https://jb.fm/",
+   "stream": "https://26573.live.streamtheworld.com/JBFMAAC.aac?1771934687401",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "mpb"
+   ],
+   "votes": 26,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rapadura-rock-web",
+   "name": "Rádio Rapadura Rock Web",
+   "url": "https://www.rapadurarockweb.com.br/",
+   "stream": "https://stm35.srvstm.com:6806/;?type=http&amp;nocache=1",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-teomidia",
+   "name": "Rádio Teomidia",
+   "url": "https://teomidia.radio.br/teomidia/",
+   "stream": "https://usa3.fastcast4u.com/proxy/teomidiaradio?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "supersom-fm-97-1-mhz-zyc813-uberaba-mg",
+   "name": "Supersom FM 97.1 MHz ZYC813 (Uberaba - MG)",
+   "url": "http://www.radiosupersom.com.br/",
+   "stream": "https://9790.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "terra-fm-99-9-mhz-zyc730-belo-horizonte-mg",
+   "name": "Terra FM 99.9 MHz ZYC730 (Belo Horizonte - MG)",
+   "url": "https://www.radioterrafm999.net/",
+   "stream": "https://servidor28-2.brlogic.com:8424/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Minas Gerais",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nossa-fm-105-9",
+   "name": "Nossa FM 105,9",
+   "url": "https://nossafm105.com/",
+   "stream": "https://audiostream.i9suaradio.com:1195/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Patos de Minas, MG",
+   "genre": [
+    "pop"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "biblia-em-audio-radio-web",
+   "name": "Bíblia em Áudio Rádio Web",
+   "url": "https://www.adoracaogospel.com/",
+   "stream": "https://stm3.voxhd.com.br:8062/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Bahia",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "conecta-fm-marilia",
+   "name": "Conecta FM - Marília",
+   "url": "https://fmconecta.com.br/",
+   "stream": "https://paineldj.com.br:20184/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "80s",
+    "90s",
+    "alternative",
+    "classic-hits",
+    "dance",
+    "electronic",
+    "folk",
+    "indie",
+    "jazz",
+    "lounge",
+    "mpb",
+    "pop",
+    "pop-rock",
+    "r&b",
+    "rock",
+    "soul"
+   ],
+   "votes": 24,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "limeira-fm",
+   "name": "Limeira FM",
+   "url": "http://limeirafm.com.br/",
+   "stream": "https://centova.svdns.com.br:20050/stream",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "São Paulo",
+   "genre": [
+    "rock"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lam",
+   "name": "Rádio LAM",
+   "url": "https://www.radiolam.com.br/",
+   "stream": "https://stream1.svrdedicado.org/8028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "blues",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mkkweb-radio",
+   "name": "mkkweb radio",
+   "url": "https://mkkwebradio.com.br/",
+   "stream": "https://servidor34-1.brlogic.com:8096/live?source=site",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "novos-horizontes-fm",
+   "name": "Novos Horizontes FM",
+   "url": "https://www.novoshorizontesfm.com/",
+   "stream": "https://paineldj5.com.br:20013/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-91-3-fm",
+   "name": "Rádio Disney 91.3 FM",
+   "url": "http://www.disney.com.br/radio/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "português-(brasil)"
+   ],
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "pop-rock",
+    "sertanejo"
+   ],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-noticia-88-9-fm-americana-sp",
+   "name": "Rádio Notícia 88,9 FM Americana SP",
+   "url": "http://www.noticiafm.com.br/",
+   "stream": "https://stm24.xcast.com.br:11928/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hits",
+    "samba-e-pagode"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rede-3-16",
+   "name": "Rede 3.16",
+   "url": "https://rede316.com.br/",
+   "stream": "https://servidor21.brlogic.com:7976/live?1661877997950",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "português-brasil"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "studio-fm-99-1",
+   "name": "Studio FM 99.1",
+   "url": "https://www.studiofm.com.br/",
+   "stream": "https://paineldj.com.br:20055/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Santa Catarina",
+   "genre": [
+    "sertanejo"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ternura-fm",
+   "name": "Ternura FM",
+   "url": "https://www.ternurafm.com.br/",
+   "stream": "https://f108.fabricahost.com.br/ternurafm?f=1787350331N01M0K63CE2AA783CJTEVDY4E36&tid=01M0K63CE2Z1SKZ119AQQ6G0A0",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "state": "Sao Paulo (Brazil)",
+   "genre": [
+    "music"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ht",
+   "name": "Rádio HT",
+   "url": "https://radioht.com.br/",
+   "stream": "https://servidor39.brlogic.com:8624/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jandaia",
+   "name": "Radio Jandaia",
+   "url": "https://radiojandaia.com.br/",
+   "stream": "https://euroticast.com/play.php?play=8444&player=winamp",
+   "codec": "unknown",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-joinville-cultural-fm",
+   "name": "Rádio Joinville Cultural FM",
+   "url": "https://www.joinville.sc.gov.br/servicos/ouvir-radio-joinville-cultural-fm-1051/",
+   "stream": "https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Joinville - SC",
+   "genre": [
+    "music"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "phonkio-radio-og-phonk-in-hq-24-7",
+   "name": "Phonkio Radio | OG Phonk in HQ 24/7",
+   "url": "https://www.phonkioradio.com/",
+   "stream": "https://stream.phonkioradio.com/listen/phonkio_radio/radio.mp3",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Paraná(Brazil)",
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 19,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-radio-tupi-96-5",
+   "name": "Super Radio Tupi 96.5",
+   "url": "https://tupi.fm/",
+   "stream": "https://8923.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "brazilian-portuguese",
+    "português-brasil"
+   ],
+   "state": "Rio de Janeiro",
+   "genre": [],
+   "votes": 5397,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-grenal",
+   "name": "Rádio Grenal",
+   "url": "https://www.radiogrenal.com.br/",
+   "stream": "https://grenal.audiostream.com.br:20000/aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [],
+   "votes": 3093,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbn-sao-paulo",
+   "name": "CBN São Paulo",
+   "url": "https://cbn.globoradio.globo.com/programas/cbn-sao-paulo/CBN-SAO-PAULO.htm",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [],
+   "votes": 2936,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mgt-sertanejo",
+   "name": "Rádio MGT Sertanejo",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8000/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2921,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alpha-fm-101-7-mhz-sao-paulo-sp",
+   "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
+   "url": "https://www.alphafm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "São Paulo",
+   "genre": [],
+   "votes": 2900,
+   "clicks": 31,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fita-cassete",
+   "name": "Fita Cassete",
+   "url": "https://./",
+   "stream": "https://server01.ouvir.radio.br:8018/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "brazilian-portuguese",
+    "portugues-do-brasil"
+   ],
+   "genre": [],
+   "votes": 2895,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gold-instrumental",
+   "name": "GOLD INSTRUMENTAL",
+   "url": "http://www.radiogold.com.br/",
+   "stream": "https://centova.svdns.com.br:19373/stream1",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "genre": [],
+   "votes": 2625,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-transamerica-100-1-fm",
+   "name": "Rádio Transamérica 100.1 FM",
+   "url": "https://transamericafm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [],
+   "votes": 2016,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metropolitana-98-5-fm-sertanejo",
+   "name": "Rádio Metropolitana 98.5 FM Sertanejo",
+   "url": "https://metropolitanafm.com.br/",
+   "stream": "https://ice.fabricahost.com.br/metrospsertanejo",
+   "codec": "aac",
+   "bitrate": 48,
+   "state": "São Paulo",
+   "genre": [],
+   "votes": 1981,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-itatiaia-95-7-fm",
+   "name": "Rádio Itatiaia 95.7 FM",
+   "url": "https://www.itatiaia.com.br/",
+   "stream": "https://8903.brasilstream.com.br/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Minas Gerais",
+   "genre": [],
+   "votes": 1827,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-brasil-fm-sao-paulo",
+   "name": "Nova Brasil Fm São Paulo",
+   "url": "https://novabrasilfm.com.br/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "Sao Paulo (Brazil)",
+   "genre": [],
+   "votes": 1683,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jb-fm",
+   "name": "JB FM",
+   "url": "https://jb.fm/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac",
+   "codec": "aac",
+   "bitrate": 40,
+   "genre": [],
+   "votes": 1451,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-1-porto-alegre",
+   "name": "Antena 1 - Porto Alegre",
+   "url": "https://www.antena1.com.br/",
+   "stream": "https://antenaone.crossradio.com.br/stream/1",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Rio Grande do Sul",
+   "genre": [],
+   "votes": 951,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-antena-1-94-7-fm",
+   "name": "Rádio Antena 1 94.7 FM",
+   "url": "https://www.antena1.com.br/",
+   "stream": "https://antenaone.crossradio.com.br/stream/1;",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Sao Paulo",
+   "genre": [],
+   "votes": 921,
+   "clicks": 44,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mgt-forro",
+   "name": "MGT FORRÓ",
+   "url": "https://www.mgtradio.net/",
+   "stream": "https://cast.mgtradio.net/radio/8050/aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Brasil",
+   "genre": [],
+   "votes": 891,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stereo-mix",
+   "name": "Rádio Stereo Mix",
+   "url": "https://stereomix9.webradiosite.com/",
+   "stream": "https://servidor24.brlogic.com:7134/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "brazilian-portuguese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "São Paulo",
+   "genre": [],
+   "votes": 723,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mix-fm-88-9-mhz-juiz-de-fora-mg",
+   "name": "Rádio Mix FM 88,9 MHz (Juiz de Fora - MG)",
+   "url": "https://tribunademinas.com.br/mixjf-ao-vivo.html",
+   "stream": "https://stream02.ouveai.com.br/8034/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "brazilian-portuguese"
+   ],
+   "state": "Minas Gerais",
+   "genre": [],
+   "votes": 608,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brasil-de-fato",
+   "name": "Brasil de Fato",
+   "url": "https://www.brasildefato.com.br/",
+   "stream": "https://s09.hstbr.net:8238/live?1514038524061",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 502,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jovem-pan-fm-belo-horizonte-mg-99-1-mhz",
+   "name": "Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz",
+   "url": "https://jovempan.com.br/afiliada/bh-fm",
+   "stream": "https://8062.brasilstream.com.br/stream?origem=task_site",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Minas Gerais",
+   "genre": [],
+   "votes": 501,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "countryCode": "VC",
+ "country": "St. Vincent & Grenadines",
+ "slug": "st-vincent-grenadines",
+ "continent": "americas",
+ "stationCount": 7,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/st-vincent-grenadines/",
+ "stations": [
+  {
+   "id": "old-school-94-1-fm",
+   "name": "Old School 94.1 FM",
+   "url": "https://oldschoolfm784.wixsite.com/live",
+   "stream": "https://ec3.yesstreaming.net:4245/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Kingstown",
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "disco",
+    "gospel",
+    "reggae"
+   ],
+   "votes": 38,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hot-97-1-fm-svg",
+   "name": "Hot 97.1 FM SVG",
+   "url": "http://www.hot97svg.com/",
+   "stream": "https://usa7.fastcast4u.com/proxy/hot97svg?mp=/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Kingstown",
+   "genre": [
+    "hits"
+   ],
+   "votes": 16,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "caribbean-love-radio",
+   "name": "Caribbean Love Radio",
+   "url": "https://cariloveradio.weebly.com/",
+   "stream": "https://radio.sttreams.cc/listen/cariloveradio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "magic-103-7-fm-svg",
+   "name": "Magic 103.7 FM SVG",
+   "url": "https://www.facebook.com/magic1037svg/",
+   "stream": "https://video1.getstreamhosting.com:8388/stream",
+   "codec": "mp3",
+   "bitrate": 100,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dorsetshire Hill Road, Kingstown",
+   "genre": [
+    "hip-hop",
+    "oldies",
+    "pop",
+    "reggae"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nbc-radio-svg",
+   "name": "NBC Radio SVG",
+   "url": "https://www.nbcsvg.com/",
+   "stream": "https://us1.carihost.com:2020/stream/NBCSVG/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Richmond Hill, Kingstown",
+   "genre": [
+    "hip-hop",
+    "music",
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sweet-radio-svg",
+   "name": "Sweet Radio SVG",
+   "url": "https://sweetradiosvg.com/",
+   "stream": "https://streaming.radio.co/sdf4651481/listen",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country",
+    "jazz",
+    "r&b",
+    "reggae"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "we-fm-99-9-svg",
+   "name": "WE FM 99.9 SVG",
+   "url": "https://999wefm.com/",
+   "stream": "https://video1.getstreamhosting.com:2000/stream/8260",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lower Questelles",
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

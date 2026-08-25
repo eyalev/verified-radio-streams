@@ -1,0 +1,490 @@
+{
+ "countryCode": "ME",
+ "country": "Montenegro",
+ "slug": "montenegro",
+ "continent": "europe",
+ "stationCount": 30,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/montenegro/",
+ "stations": [
+  {
+   "id": "radio-elmag-pop-rock-ex-yu",
+   "name": "Radio Elmag Pop Rock EX YU",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/poprock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 239,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bruskin",
+   "name": "Bruškin",
+   "url": "https://radiobruskin.me/",
+   "stream": "https://player.radiobruskin.me/proxy/radiobruskin/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 139,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-porto-montenegro",
+   "name": "Radio Porto Montenegro",
+   "url": "https://radio-portomontenegro.com/",
+   "stream": "https://malta1491.startdedicated.de:8443/main",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "montenegrin"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Tivat",
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 122,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio-mne-party",
+   "name": "Play Radio MNE Party",
+   "url": "https://www.playradio.me/",
+   "stream": "https://stream.playradio.me:8443/party.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio-mne-balkan",
+   "name": "Play Radio MNE Balkan",
+   "url": "https://www.playradio.me/",
+   "stream": "https://stream.playradio.me:8443/balkan.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio-mne-rock",
+   "name": "PLAY radio MNE Rock",
+   "url": "https://www.playradio.me/",
+   "stream": "https://stream.playradio.me:8443/rock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio-mne-soft",
+   "name": "Play Radio MNE Soft",
+   "url": "https://www.playradio.me/",
+   "stream": "https://stream.playradio.me:8443/soft.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio-mne-urban",
+   "name": "Play Radio MNE Urban",
+   "url": "https://www.playradio.me/",
+   "stream": "https://stream.playradio.me:8443/urban.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-s1-crna-gora",
+   "name": "Radio S1 Crna Gora",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9008/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 297,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-berane",
+   "name": "Radio Berane",
+   "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+   "stream": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 210,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "play-radio-montenegro",
+   "name": "Play Radio Montenegro",
+   "url": "https://www.playradio.me/",
+   "stream": "https://stream.playradio.me:8443/play-me.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 103,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-nostalgija",
+   "name": "Radio Elmag Nostalgija",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/nostalgija.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [],
+   "votes": 102,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-s2-crna-gora",
+   "name": "Radio S2 Crna Gora",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9010/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 102,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-izvorne-i-starogradske",
+   "name": "Radio Elmag Izvorne i Starogradske",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/izvorne.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 73,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-budva",
+   "name": "Radio Budva",
+   "url": "https://www.rtvbudva.me/",
+   "stream": "https://c8.radioboss.fm:18199/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kotor",
+   "name": "Radio Kotor",
+   "url": "https://radiokotor.info/",
+   "stream": "https://stream.iradio.pro/proxy/radiokotor?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-caffe",
+   "name": "Radio Elmag Caffe",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/cafe.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-folk-gold",
+   "name": "Radio Elmag Folk Gold",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/folkgold.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "drugacija-radio-stanica",
+   "name": "Drugačija Radio Stanica",
+   "url": "http://drugacija.me/",
+   "stream": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-saraj",
+   "name": "Radio Saraj",
+   "url": "http://radiogora.org/saraj/",
+   "stream": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-party",
+   "name": "Radio Elmag Party",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/party.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-love",
+   "name": "Radio Elmag Love",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/love.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "54house-fm-club",
+   "name": "54HOUSE.FM CLUB",
+   "url": "https://www.54house.fm/en/",
+   "stream": "https://54house.fm:9013/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-evergreen",
+   "name": "Radio Elmag Evergreen",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/evergreen.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fatih",
+   "name": "Radio Fatih",
+   "url": "http://www.radiofatih.me/",
+   "stream": "https://radioservis.me/radio/8070/radiofatih?1702660538716",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegrin"
+   ],
+   "genre": [],
+   "votes": 22,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "el-radio-podgorica",
+   "name": "El Radio Podgorica",
+   "url": "https://www.elradio.me/",
+   "stream": "https://radio.elmag.me/el.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-elmag-kids",
+   "name": "Radio Elmag Kids",
+   "url": "https://www.elmag.me/",
+   "stream": "https://radio.elmag.me/kids.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-d-plus",
+   "name": "Radio D plus",
+   "url": "https://radioddplus.com/",
+   "stream": "https://radiodplus.radioca.st/xstream",
+   "codec": "mp3",
+   "bitrate": 140,
+   "langs": [
+    "montenegro"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "arena-radio",
+   "name": "Arena Radio",
+   "url": "https://radio.elmag.me/",
+   "stream": "https://radio.elmag.me/arena.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "countryCode": "TZ",
+ "country": "Tanzania",
+ "slug": "tanzania",
+ "continent": "africa",
+ "stationCount": 9,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/tanzania/",
+ "stations": [
+  {
+   "id": "east-africa-radio-fm",
+   "name": "East Africa Radio FM",
+   "url": "https://www.eastafricaradio.com/",
+   "stream": "https://eatv.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "swahili"
+   ],
+   "langCodes": [
+    "sw"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 4754,
+   "clicks": 21,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-one-stereo",
+   "name": "Radio One Stereo",
+   "url": "https://www.radio1.co.tz/",
+   "stream": "https://radioonetanzania.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 4631,
+   "clicks": 26,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "capital-radio",
+   "name": "Capital Radio",
+   "url": "https://www.capitalradio.co.tz/",
+   "stream": "https://capitalradio.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "swahili"
+   ],
+   "langCodes": [
+    "en",
+    "sw"
+   ],
+   "genre": [],
+   "votes": 1180,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-uhai",
+   "name": "Radio Uhai",
+   "url": "https://www.radiouhai.co.tz/",
+   "stream": "https://s2.citrus3.com:8050/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "swahili"
+   ],
+   "langCodes": [
+    "sw"
+   ],
+   "genre": [],
+   "votes": 896,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nuru-fm",
+   "name": "Nuru FM",
+   "url": "https://radiotadio.co.tz/nurufm/",
+   "stream": "https://radiotadio.co.tz/nuru-fm-stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 429,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mungu-kwanza-radio",
+   "name": "Mungu Kwanza Radio",
+   "url": "https://mungukwanza.com/",
+   "stream": "https://mungukwanza.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 233,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 106,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "crown-fm",
+   "name": "Crown FM",
+   "url": "https://crownmedia.co.tz/crownfm/",
+   "stream": "https://radio.crownmedia.co.tz:8443/crown",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 52,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-kwizera",
+   "name": "Radio Kwizera",
+   "url": "https://radiokwizera.co.tz/",
+   "stream": "https://uk4-vn.mixstream.net/:8052/;listen.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 30,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  }
+ ]
+}

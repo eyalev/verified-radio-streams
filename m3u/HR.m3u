@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 group-title="Croatia" tvg-genre="easy-listening,pop,rock",Otvoreni Radio
+https://stream.otvoreni.hr/otvoreni
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop",Radio Kaj
+https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Zagorski radio
+https://s8.iqstreaming.com:2020/stream/zagorski/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="hits,pop,rock",Slavonski Radio
+https://ec2s.crolive.com.hr:8035/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="hits",Otvoreni Radio - Hot
+https://stream.otvoreni.hr/hot
+#EXTINF:-1 group-title="Croatia" tvg-genre="chillout",Otvoreni Radio - Chill
+https://stream.otvoreni.hr/chill
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk",FolkyTon Radio
+https://ec2s.crolive.com.hr:6035/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="80s,pop",ZFM
+https://ec2s.crolive.com.hr:7015/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Radio Križevci
+https://s8.iqstreaming.com:8048/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="hits,pop",Radio Ritam Šibenik
+https://ec2s.crolive.com.hr:8455/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="love-songs",Otvoreni Radio - Love
+https://stream.otvoreni.hr/love
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop",Radio Jaska
+https://uk1.streamingpulse.com/ssl/RadioJaska
+#EXTINF:-1 group-title="Croatia" tvg-genre="easy-listening",Radio Otok Krk
+https://s8.iqstreaming.com:8014/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk",Radio Max 99.3 (Cerje Nebojse, Maruševec)
+https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Radio Vinkovci
+https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Radio Biograd na Moru
+https://onlineradiobox.com/json/hr/bnm/play?platform=web
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Radio 105 Selnica (HR)
+https://azuracast.novi-net.net/radio/8050/radio105.aac
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop-music",Drama radio Dubrovnik
+https://listen.radioking.com/radio/626884/stream/689500
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Radio Grubišno Polje
+https://ec2s.crolive.com.hr:8215/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="folk,pop",Radio 92 FM
+https://onlineradiobox.com/json/hr/92fm/play?platform=web
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop,rock",Tranzistor
+https://ec2s.crolive.com.hr/tranzistor
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop,rock",Radio Megaton
+https://chopin.bizmusic.net/radio/8030/radio.mp3
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop,rock",Radio Baranja
+https://s8.iqstreaming.com:2020/stream/radio_baranja/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop,rock",Radio Belišće
+https://mcp1.mydataknox.com:8006/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="rock",Thompson 24/7 - Radio NU
+https://slusaj.hr:10446/stream?type=http&nocache=9
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop-music",Radio Zelina
+https://ec2s.crolive.com.hr:1690/stream
+#EXTINF:-1 group-title="Croatia" tvg-genre="oldies,pop",Prolaznik Evergreen Lepoglava
+https://s8.ssl-stream.com/prolaznik
+#EXTINF:-1 group-title="Croatia" tvg-genre="pop,rock",Radio Đakovo
+https://ec2s.crolive.com.hr:8305/stream
+#EXTINF:-1 group-title="Croatia",Yammat FM
+https://stream.yammat.fm/radio/8000/yammat.mp3
+#EXTINF:-1 group-title="Croatia",Top Radio
+https://c5.hostingcentar.com/streams/topradio/
+#EXTINF:-1 group-title="Croatia",bravo! kids
+https://audio.social3.hr/listen/bravo_kids/stream?3367
+#EXTINF:-1 group-title="Croatia",Radio Tvornica
+https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001
+#EXTINF:-1 group-title="Croatia",Otvoreni Radio - Fitness
+https://stream.otvoreni.hr/fitness
+#EXTINF:-1 group-title="Croatia",Banovina Turbo
+https://audio.radio-banovina.hr:7010/stream
+#EXTINF:-1 group-title="Croatia",Radio Max
+https://azuracast.novi-net.net/radio/8010/radiomax.aac
+#EXTINF:-1 group-title="Croatia",KLFM.org
+https://klfmorgborg.radioca.st/stream?type=http&nocache=1089
+#EXTINF:-1 group-title="Croatia",Radio Marija Hrvatska
+https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream
+#EXTINF:-1 group-title="Croatia",Hrvatski Katolički Radio
+https://stream.hkr.hr/hkr.mp3
+#EXTINF:-1 group-title="Croatia",Top Radio Pop
+https://audio.social3.hr/listen/top_radio_pop/stream?5483
+#EXTINF:-1 group-title="Croatia",Club Music Radio - ITALO DISCO
+https://cmr-hosting.com:7005/;stream/1
+#EXTINF:-1 group-title="Croatia",Club Music Radio - 70's 80's 90's
+https://cmr-hosting.com:7003/;stream/1
+#EXTINF:-1 group-title="Croatia",Top Radio Yugo
+https://audio.social3.hr/listen/top_exyu/stream?8298
+#EXTINF:-1 group-title="Croatia",Tvoj Feel Good radio ! Otvoreni
+https://stream2.otvoreni.hr/otvoreni
+#EXTINF:-1 group-title="Croatia",Club Music Radio - CRO HITS
+https://cmr-hosting.com:7006/;stream/1
+#EXTINF:-1 group-title="Croatia",HRT HR 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
+#EXTINF:-1 group-title="Croatia",Top Radio Rock
+https://audio.social3.hr/listen/top_radio_rock/stream?7435
+#EXTINF:-1 group-title="Croatia",CMC Radio
+https://radio-stream.cmc.com.hr:9011/live
+#EXTINF:-1 group-title="Croatia",Club Music Radio - Dance
+https://cmr-hosting.com:7002/;stream/1
+#EXTINF:-1 group-title="Croatia",Top Radio Gold
+https://audio.social3.hr/listen/top_radio_gold/stream?7802
+#EXTINF:-1 group-title="Croatia",Radio Orahovica
+https://ec2s.crolive.com.hr:2595/stream
+#EXTINF:-1 group-title="Croatia",057 radio, Zadar, Croatia
+https://audio.alter-media.hr/9052/stream
+#EXTINF:-1 group-title="Croatia",HRT Radio Sljeme (mp3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3
+#EXTINF:-1 group-title="Croatia",Poslovni FM
+https://ec2s.crolive.com.hr:2665/stream
+#EXTINF:-1 group-title="Croatia",Tamburaški radio
+https://listen.radioking.com/radio/552965/stream/612287
+#EXTINF:-1 group-title="Croatia",Banovina Light
+https://audio.radio-banovina.hr:7008/stream
+#EXTINF:-1 group-title="Croatia",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Croatia",GalacticFM - Progressive House & Trance
+https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3
+#EXTINF:-1 group-title="Croatia",Radio Drniš 89,0 MHz
+https://ec2s.crolive.com.hr:2415/stream
+#EXTINF:-1 group-title="Croatia",Radio Kampus
+https://audio.alter-media.hr:7016/stream
+#EXTINF:-1 group-title="Croatia",REPLAY NEWS - Hrvatski Radio informacija svakih 5 minuta
+https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3
+#EXTINF:-1 group-title="Croatia",Happy Fest
+https://audio.social3.hr/listen/happy_fest/stream?9763
+#EXTINF:-1 group-title="Croatia",Narodni Radio Goga
+https://cmr-hosting.com:7013/;
+#EXTINF:-1 group-title="Croatia",Podravski Radio
+https://streaming.podravskiradio.hr/live
+#EXTINF:-1 group-title="Croatia",dvb.digital
+https://radio.dvb.digital/listen/dvb.digital/hq.mp3
+#EXTINF:-1 group-title="Croatia",HRT Drugi program
+https://25453.live.streamtheworld.com/PROGRAM2AAC.aac
+#EXTINF:-1 group-title="Croatia",Radio Daruvar
+https://mcp1.mydataknox.com:8020/live.mp3
+#EXTINF:-1 group-title="Croatia",Radio Županja
+https://audio.alter-media.hr:7019/stream
+#EXTINF:-1 group-title="Croatia",Extra FM
+https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707
+#EXTINF:-1 group-title="Croatia",HRT Prvi program
+https://27743.live.streamtheworld.com/PROGRAM1AAC.aac
+#EXTINF:-1 group-title="Croatia",Radio NU
+https://slusaj.hr:10445/stream?type=http&nocache=634
+#EXTINF:-1 group-title="Croatia",Radio Velika Gorica
+https://s8.iqstreaming.com:2020/stream/rvg

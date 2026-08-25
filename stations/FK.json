@@ -1,0 +1,86 @@
+{
+ "countryCode": "FK",
+ "country": "Falkland Islands",
+ "slug": "falkland-islands",
+ "continent": "americas",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/falkland-islands/",
+ "stations": [
+  {
+   "id": "falklands-radio-530-stanley",
+   "name": "Falklands Radio 530 Stanley",
+   "url": "https://radio.co.fk/",
+   "stream": "https://streaming.broadcastradio.com:8332/flklnd",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 117,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bfbs-falklands",
+   "name": "BFBS Falklands",
+   "url": "https://radio.bfbs.com/stations/bfbs-falklands/",
+   "stream": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "british-english",
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "stanley",
+   "genre": [],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "falklands-radio",
+   "name": "Falklands Radio",
+   "url": "https://radio.co.fk/",
+   "stream": "https://streaming.broadcastradio.com:8332/flklnd?1721893143541=",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 40,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,551 @@
+{
+ "countryCode": "IL",
+ "country": "Israel",
+ "slug": "israel",
+ "continent": "asia",
+ "stationCount": 34,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/israel/",
+ "stations": [
+  {
+   "id": "89-1fm",
+   "name": "Первое радио 89.1FM",
+   "url": "https://www.891fm.co.il/",
+   "stream": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2120,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "galgalatz-91-8-fm",
+   "name": "Galgalatz 91.8 FM",
+   "url": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+   "stream": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 817,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-100-90s",
+   "name": "Radio 100% 90s",
+   "url": "https://digital.100fm.co.il/",
+   "stream": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "classic-hits",
+    "dance",
+    "oldies"
+   ],
+   "votes": 152,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ze-rock-radio",
+   "name": "Ze Rock Radio",
+   "url": "https://zerockradio.com/",
+   "stream": "https://icecast.live/proxy/zerock/zerock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "hebrew"
+   ],
+   "langCodes": [
+    "en",
+    "he"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 79,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "101fm-radio-jerusalem",
+   "name": "101fm radio jerusalem",
+   "url": "https://www.rlive.co.il/station/101fm",
+   "stream": "https://radio.streamgates.net/stream/101fm",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "101-5fm",
+   "name": "101.5fm רדיו התחנה",
+   "url": "https://www.hatahana.co.il/",
+   "stream": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kol-rega-91-5-96",
+   "name": "Kol Rega קול רגע 91.5/96",
+   "url": "https://96fm.co.il/",
+   "stream": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 44,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-k-pop",
+   "name": "Radios 100FM - 100% K-pop",
+   "url": "https://digital.100fm.co.il/#kpop",
+   "stream": "https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "kpop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "glglz-rock",
+   "name": "Glglz - Rock",
+   "url": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+   "stream": "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-jazz",
+   "name": "Radios 100FM - 100% Jazz",
+   "url": "https://digital.100fm.co.il/#jazz",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-relax",
+   "name": "Radios 100FM - 100% Relax",
+   "url": "https://digital.100fm.co.il/#relax",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "relax"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ystream",
+   "name": "yStream",
+   "url": "https://ystream.live/",
+   "stream": "https://ystream.live/ystream-mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langCodes": [
+    "eng",
+    "heb"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-103fm",
+   "name": "Radio 103FM",
+   "url": "https://103fm.maariv.co.il/",
+   "stream": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 3932,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "a-shams",
+   "name": "اذاعة الشمس - A-Shams",
+   "url": "https://www.ashams.com/",
+   "stream": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 2905,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "galey-yisrael",
+   "name": "גלי ישראל Galey Yisrael",
+   "url": "http://www.gly.co.il/",
+   "stream": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 611,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "israeli-voice-radio",
+   "name": "Israeli voice radio",
+   "url": "https://israelivoiceradio.co.il/",
+   "stream": "https://icecast.live/ivr",
+   "codec": "aac",
+   "bitrate": 80,
+   "langs": [
+    "english",
+    "hebrew"
+   ],
+   "langCodes": [
+    "en",
+    "he"
+   ],
+   "genre": [],
+   "votes": 237,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kan-bet",
+   "name": "Kan Bet",
+   "url": "https://www.kan.org.il/",
+   "stream": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [],
+   "votes": 193,
+   "clicks": 26,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm",
+   "name": "Radios 100FM רדיוס",
+   "url": "https://www.100fm.co.il/",
+   "stream": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [],
+   "votes": 155,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nas",
+   "name": "Radio Nas",
+   "url": "https://nasradio.fm/",
+   "stream": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 115,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "glz",
+   "name": "גלצ",
+   "url": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+   "stream": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [],
+   "votes": 74,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "88-fm",
+   "name": "88 FM",
+   "url": "https://www.kan.org.il/content/kan/kan-88/",
+   "stream": "https://29073.live.streamtheworld.com/KAN_88.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 48,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kan-gimel",
+   "name": "KAN Gimel כאן גימל",
+   "url": "https://www.kan.org.il/content/kan/kan-gimel/",
+   "stream": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-mizrachit",
+   "name": "Radios 100FM - 100% Mizrachit (מזרחי)",
+   "url": "https://digital.100fm.co.il/#mizrachit",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-disney",
+   "name": "Radios 100FM - 100% Disney",
+   "url": "https://digital.100fm.co.il/#disney",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-gamer",
+   "name": "Radios 100FM - 100% Gamer",
+   "url": "https://digital.100fm.co.il/#gamer",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-retro",
+   "name": "Radios 100FM - 100% Retro",
+   "url": "https://digital.100fm.co.il/#retro",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "eli-nisman-radio",
+   "name": "Eli Nisman Radio",
+   "url": "https://niceman087.wixsite.com/nicemanradio",
+   "stream": "https://listen6.myradio24.com/25715",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-standup",
+   "name": "Radios 100FM - 100% StandUp",
+   "url": "https://digital.100fm.co.il/#standup",
+   "stream": "https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "hebrew"
+   ],
+   "langCodes": [
+    "he"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-100fm-100-tiktok",
+   "name": "Radios 100FM - 100% Tiktok",
+   "url": "https://digital.100fm.co.il/#tiktok",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radios-nostalgia-96-3fm",
+   "name": "Radios Nostalgia 96.3FM (רדיוס נוסטלגי)",
+   "url": "https://www.963fm.co.il/",
+   "stream": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "up2dance-radio",
+   "name": "Up2Dance Radio",
+   "url": "https://up2dance.com/",
+   "stream": "https://icecast.live/up2dance",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "khz",
+   "name": "KHZ - רדיו קול הצפון",
+   "url": "https://radio.ecast.co.il/radio-khz",
+   "stream": "https://live.ecast.co.il/stream/khz",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-100-latina",
+   "name": "Radio 100% Latina",
+   "url": "https://digital.100fm.co.il/",
+   "stream": "https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "timbr-radio",
+   "name": "TIMBR Radio",
+   "url": "https://timbr.music/",
+   "stream": "https://radio.betteradio.live/listen/better_radio/live",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

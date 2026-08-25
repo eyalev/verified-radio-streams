@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Libya" tvg-genre="classical",تفسير بن عثيمين
+https://qurango.net/radio/tafseer
+#EXTINF:-1 group-title="Libya",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Libya",Almunir Radio – Benghazi
+https://live.munir.ly/proxy/almunir/stream
+#EXTINF:-1 group-title="Libya",Almunir Radio – Tripoli
+https://live.munir.ly/proxy/almunirtip/stream

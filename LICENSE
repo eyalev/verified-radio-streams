@@ -1,0 +1,29 @@
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+-------------------------------------------------------------------------------
+
+SCOPE
+
+This dedication covers the DATA in this repository: the station records, the
+schema, the index and the generated playlists.
+
+It does NOT cover the audio streams the URLs point at. Those are operated by
+third-party broadcasters, are not ours to license, and may be geo-blocked,
+rate-limited, moved or withdrawn at any time. A "verified" date means the
+stream answered with audio on that day. It is not a grant of any right to
+rebroadcast it.
+
+Station discovery comes from Radio Browser (https://www.radio-browser.info),
+whose collected data its author placed in the public domain.

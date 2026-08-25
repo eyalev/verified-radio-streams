@@ -1,0 +1,64 @@
+{
+ "countryCode": "GD",
+ "country": "Grenada",
+ "slug": "grenada",
+ "continent": "americas",
+ "stationCount": 3,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/grenada/",
+ "stations": [
+  {
+   "id": "wee-fm-93-3-93-9-grenada",
+   "name": "Wee FM 93.3/93.9 - Grenada",
+   "url": "https://www.weefmgrenada.com/",
+   "stream": "https://usa8.fastcast4u.com/proxy/weefm2?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "St. George's",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 546,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "boss-fm-104-1-104-9-grenada",
+   "name": "Boss FM 104.1-104.9 - Grenada",
+   "url": "https://www.bossfmgrenada.net/",
+   "stream": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "St. George's",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 227,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

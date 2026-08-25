@@ -1,0 +1,128 @@
+{
+ "countryCode": "KH",
+ "country": "Cambodia",
+ "slug": "cambodia",
+ "continent": "asia",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/cambodia/",
+ "stations": [
+  {
+   "id": "pop-radio-21",
+   "name": "Pop Radio 21",
+   "url": "",
+   "stream": "https://listen.radioking.com/radio/318317/stream/365846",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "khmer"
+   ],
+   "langCodes": [
+    "km"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 46,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "family-fm-99-5-witthyu-krousar",
+   "name": "Family FM 99.5 (Witthyu Krousar)",
+   "url": "https://www.facebook.com/Familyfm99.5/",
+   "stream": "https://s14.myradiostream.com/10064/;.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "khmer"
+   ],
+   "langCodes": [
+    "km"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sweet-fm-88-siem-reap",
+   "name": "Sweet FM 88 (Siem Reap)",
+   "url": "",
+   "stream": "https://n12.rcs.revma.com/whn9hqwstk3vv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "khmer"
+   ],
+   "langCodes": [
+    "km"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 257,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ldp-radio",
+   "name": "LDP Radio",
+   "url": "",
+   "stream": "https://streaming.radio.co/sd48fd711d/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "khmer"
+   ],
+   "langCodes": [
+    "km"
+   ],
+   "genre": [],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sangkem-radio",
+   "name": "Sangkem Radio",
+   "url": "https://www.sangkemtv.com/sangkem-online-radio",
+   "stream": "https://live.sangkemtv.com/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Siem Reap",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

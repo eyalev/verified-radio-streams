@@ -1,0 +1,3314 @@
+{
+ "countryCode": "FR",
+ "country": "France",
+ "slug": "france",
+ "continent": "europe",
+ "stationCount": 162,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/france/",
+ "stations": [
+  {
+   "id": "eurodance-90-radio",
+   "name": "EuroDance 90 radio",
+   "url": "https://eurodance90.fr/",
+   "stream": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 42399,
+   "clicks": 135,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm",
+   "name": "OUI FM",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 4703,
+   "clicks": 74,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alternative-radio",
+   "name": "Alternative Radio",
+   "url": "http://alternativeradio.over-blog.com/",
+   "stream": "https://www.radioking.com/play/alternative-radio-1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk",
+    "funk",
+    "jazz",
+    "rock",
+    "soul"
+   ],
+   "votes": 3426,
+   "clicks": 52,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-fr-jazz-classique",
+   "name": "Jazzradio.fr Jazz & Classique",
+   "url": "https://www.jazzradio.fr/",
+   "stream": "https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 3156,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-pop-rock",
+   "name": "RFM POP-ROCK",
+   "url": "http://www.rfm.fr/programmes/les-webradios",
+   "stream": "https://stream.rfm.fr/rfm-wr10.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 2057,
+   "clicks": 160,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latina-reggaeton",
+   "name": "Latina reggaeton",
+   "url": "https://www.latina.fr/",
+   "stream": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "reggaeton"
+   ],
+   "votes": 1845,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skyrock-hits",
+   "name": "Skyrock Hits",
+   "url": "",
+   "stream": "https://icecast.skyrock.net/s/hit_skyrock_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rap"
+   ],
+   "votes": 1653,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reggae-fr",
+   "name": "Reggae.fr",
+   "url": "http://www.reggae.fr/popup-radio.php",
+   "stream": "https://listen.radioking.com/radio/50473/stream/87415",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 1540,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fip-pop",
+   "name": "FIP Pop",
+   "url": "https://www.fip.fr/pop/webradio",
+   "stream": "https://icecast.radiofrance.fr/fippop-hifi.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 1380,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latina-bachata",
+   "name": "Latina bachata",
+   "url": "https://www.latina.fr/",
+   "stream": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "bachata"
+   ],
+   "votes": 1347,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-only-love-songs-70s80s90s-www-love-ra",
+   "name": "LOVE RADIO Only Love Songs 70s80s90s - www.love.radio",
+   "url": "https://love.radio/",
+   "stream": "https://loveradio.streamingmedia.it/france",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 1294,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "le-bon-mix-hifi-flac-1411-kbps",
+   "name": "Le Bon Mix HiFi Flac 1411 Kbps",
+   "url": "https://www.lebonmix.radio/hifi",
+   "stream": "https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "state": "Occitanie",
+   "genre": [
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 1128,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cinemix",
+   "name": "Cinemix",
+   "url": "https://www.cinemix.us/",
+   "stream": "https://kathy.torontocast.com:1825/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "instrumental",
+    "soundtrack"
+   ],
+   "votes": 1057,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova",
+   "name": "RADIO NOVA",
+   "url": "https://www.nova.fr/",
+   "stream": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Paris",
+   "genre": [
+    "hip-hop",
+    "jazz",
+    "reggae"
+   ],
+   "votes": 946,
+   "clicks": 40,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coran-radio",
+   "name": "coran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 891,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latina-fiesta",
+   "name": "Latina fiesta",
+   "url": "https://www.latina.fr/",
+   "stream": "https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 753,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-goa-psy",
+   "name": "Record Goa Psy",
+   "url": "https://caribshebdo.wordpress.com/category/radios-web/",
+   "stream": "https://radiorecord.hostingradio.ru/goa96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 700,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-rock-80-s",
+   "name": "OUI FM ROCK 80's",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "80s",
+    "rock"
+   ],
+   "votes": 676,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "france-musique-opera",
+   "name": "France Musique Opéra",
+   "url": "https://www.francemusique.fr/opera",
+   "stream": "https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "opera"
+   ],
+   "votes": 658,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-invasion-radio",
+   "name": "Metal Invasion Radio",
+   "url": "https://metal-invasion.fr/",
+   "stream": "https://radio.metal-invasion.fr/radio/8000/stream96",
+   "codec": "aac",
+   "bitrate": 104,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Occitanie",
+   "genre": [
+    "metal"
+   ],
+   "votes": 653,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-orientale",
+   "name": "Allzic Radio Orientale",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://allzic33.ice.infomaniak.ch/allzic33.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 651,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skyrock-100-francais",
+   "name": "Skyrock 100% FRANÇAIS",
+   "url": "",
+   "stream": "https://icecast.skyrock.net/s/francais_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rap"
+   ],
+   "votes": 648,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrj-hits",
+   "name": "Nrj Hits",
+   "url": "https://www.nrj.fr/webradios/mur-des-radios/nrj-hits",
+   "stream": "https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 631,
+   "clicks": 167,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fip-metal",
+   "name": "FIP Metal",
+   "url": "https://www.radiofrance.fr/fip/radio-metal",
+   "stream": "https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 629,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-folk-rock-n-folk",
+   "name": "Rock & Folk (rock n folk)",
+   "url": "https://www.rocknfolk.com/",
+   "stream": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "blues",
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 538,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pulsradio-2000-64k-aac",
+   "name": "PulsRadio 2000 (64k AAC)",
+   "url": "https://www.pulsradio.com/2000/",
+   "stream": "https://sc6.gergosnet.com:80/puls00AAC64.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "trance"
+   ],
+   "votes": 497,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-radio-electro-swing",
+   "name": "Jazz Radio Electro Swing",
+   "url": "https://www.jazzradio.fr/",
+   "stream": "https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 466,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-rock-70-s",
+   "name": "OUI FM ROCK 70's",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "70s",
+    "rock"
+   ],
+   "votes": 444,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-rock-90-s",
+   "name": "OUI FM ROCK 90's",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "90s",
+    "rock"
+   ],
+   "votes": 431,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-reggae",
+   "name": "OUI FM REGGAE",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 395,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metal",
+   "name": "Radio Metal",
+   "url": "http://www.radiometal.com/",
+   "stream": "https://radio3.pro-fhi.net/live/Radio%20Metal",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 382,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-2-classics",
+   "name": "Europe 2 Classics",
+   "url": "https://www.europe2.fr/webradios",
+   "stream": "https://europe2.lmn.fm/vr-wr2.mp3?aw_0_1st.playerid=lagardereappVirgin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 375,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frequence-3-gold-flac",
+   "name": "Frequence 3 Gold FLAC",
+   "url": "https://www.frequence3.com/les-radios-frequence-3/gold/",
+   "stream": "https://frequence3.net-radio.fr/frequence3gold.flac",
+   "codec": "ogg",
+   "bitrate": 1536,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 360,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-classic-rock",
+   "name": "OUI FM CLASSIC ROCK",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifm3.ice.infomaniak.ch/ouifm3.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 347,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "galaxietek",
+   "name": "GalaxieTek",
+   "url": "http://www.galaxieradio.fr/",
+   "stream": "https://fr.radioking.com/play/galaxietek",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "electronic",
+    "techno"
+   ],
+   "votes": 334,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-rock-2000",
+   "name": "OUI FM ROCK 2000",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 326,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "meme-dans-les-orties",
+   "name": "* Meme dans les orties *",
+   "url": "http://memeradio.org/",
+   "stream": "https://radio.sk8ter.org:8443/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 325,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-fr-funk",
+   "name": "JazzRadio.fr Funk",
+   "url": "https://www.jazzradio.fr/",
+   "stream": "https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "funk"
+   ],
+   "votes": 323,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "couleurs-jazz",
+   "name": "Couleurs JAZZ",
+   "url": "https://couleursjazz.fr/",
+   "stream": "https://www.radioking.com/play/couleurs-jazz/216016",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 318,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-fr-blues",
+   "name": "JazzRadio.fr Blues",
+   "url": "https://www.jazzradio.fr/",
+   "stream": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "blues"
+   ],
+   "votes": 316,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "le-bon-mix-radio-97-9",
+   "name": "Le Bon Mix Radio 97.9",
+   "url": "https://www.lebonmix.radio/",
+   "stream": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "disco",
+    "funk",
+    "jazz",
+    "music",
+    "pop",
+    "rock",
+    "soul"
+   ],
+   "votes": 300,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frequence-3-dance-flac-powered-by-ikoula-m2-club",
+   "name": "FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club",
+   "url": "https://www.frequence3.com/",
+   "stream": "https://onair.net-radio.fr/frequence3dance.flac",
+   "codec": "ogg",
+   "bitrate": 1536,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Château-Renault",
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 291,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mbs-gold",
+   "name": "MBS Gold",
+   "url": "https://radiombs.fr/",
+   "stream": "https://mbs.ice.infomaniak.ch/mbs-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "eighties"
+   ],
+   "votes": 286,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virage-radio-metal",
+   "name": "Virage Radio Metal",
+   "url": "https://www.virageradio.com/",
+   "stream": "https://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.aac?i=65804",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 263,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-rock-60-s",
+   "name": "OUI FM ROCK 60's",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "60s",
+    "rock"
+   ],
+   "votes": 259,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rva-radio",
+   "name": "RVA radio",
+   "url": "https://www.radiorva.com/",
+   "stream": "https://rva.ice.infomaniak.ch/rva-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 240,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-acoustic",
+   "name": "OUI FM ACOUSTIC",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmacoustic.ice.infomaniak.ch/ouifmacoustic.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 235,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "87-5-nantes",
+   "name": "..87,5!. Nantes",
+   "url": "https://875naoned.wixsite.com/radio",
+   "stream": "https://listen.radioking.com/radio/15130/stream/28217",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Nantes",
+   "genre": [
+    "alternative",
+    "classic-rock",
+    "electronic",
+    "electronica",
+    "house",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 229,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lyl-radio",
+   "name": "LYL Radio",
+   "url": "https://lyl.live/",
+   "stream": "https://icecast.lyl.live/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "fr",
+    "en"
+   ],
+   "state": "Lyon",
+   "genre": [
+    "music"
+   ],
+   "votes": 228,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cinemusic-radio",
+   "name": "CINEMUSIC Radio",
+   "url": "https://cinemusic.fr/",
+   "stream": "https://listen.radioking.com/radio/422/stream/62785",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Yvelines",
+   "genre": [
+    "classical",
+    "jazz",
+    "music",
+    "oldies",
+    "pop",
+    "relax"
+   ],
+   "votes": 224,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fun-radio",
+   "name": "Fun Radio",
+   "url": "https://funradio.fr/",
+   "stream": "https://icecast.funradio.fr/fun-1-44-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "electronic",
+    "rnb"
+   ],
+   "votes": 220,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sun-classique",
+   "name": "SUN Classique",
+   "url": "https://www.lesonunique.com/",
+   "stream": "https://diffusion.lafrap.fr/sun-classique.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical",
+    "instrumental",
+    "opera"
+   ],
+   "votes": 218,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiogospel",
+   "name": "RadioGospel",
+   "url": "https://www.radiogospel.fr/",
+   "stream": "https://d3m456gauclwb5.cloudfront.net/radiogospel_high",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 212,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hotel-costes",
+   "name": "Hotel Costes",
+   "url": "https://www.hotelcostes.com/en",
+   "stream": "https://s3.radio.co/s39c195d74/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "downtempo",
+    "lounge"
+   ],
+   "votes": 202,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "opensky-flac-868kb",
+   "name": "Opensky (flac)868kb",
+   "url": "https://opensky.radio/",
+   "stream": "https://audio.opensky.radio:8082/flac?_res_tag_=audio",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 190,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-2-hits",
+   "name": "Europe 2 Hits",
+   "url": "https://www.europe2.fr/webradios",
+   "stream": "https://europe2.lmn.fm/vr-wr4.mp3?aw_0_1st.playerid=lagardereappVirgin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 179,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-italopower",
+   "name": "Radio ITALOPOWER!",
+   "url": "https://www.radioitalopower.com/#",
+   "stream": "https://stream.deevaradio.net:10443/italopower",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Paris",
+   "genre": [
+    "80s"
+   ],
+   "votes": 178,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "le-poste-parisien",
+   "name": "Le poste parisien",
+   "url": "https://www.posteparisien.fr/",
+   "stream": "https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "eighties"
+   ],
+   "votes": 172,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frequence-3-urban-flac",
+   "name": "Fréquence 3 Urban FLAC",
+   "url": "https://www.frequence3.com/les-radios-frequence-3/urban/",
+   "stream": "https://frequence3.net-radio.fr/frequence3urban.flac",
+   "codec": "ogg",
+   "bitrate": 1536,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "hip-hop",
+    "r&b",
+    "rap"
+   ],
+   "votes": 168,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wave-radio-89-8-hossegor",
+   "name": "WAVE RADIO 89.8 Hossegor",
+   "url": "https://waveradio.fm/",
+   "stream": "https://s34.myradiostream.com/12340/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Landes",
+   "genre": [
+    "downtempo",
+    "electronic",
+    "funk",
+    "hip-hop",
+    "rock"
+   ],
+   "votes": 167,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "made-in-80",
+   "name": "Made in 80",
+   "url": "https://madein80.fr/",
+   "stream": "https://madein80.leswebradios.fr/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Grand Est",
+   "genre": [
+    "80s"
+   ],
+   "votes": 165,
+   "clicks": 63,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-folk-radio",
+   "name": "Rock&Folk Radio",
+   "url": "https://www.rocknfolk.com/",
+   "stream": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 165,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-2-happy-rock-hours",
+   "name": "Europe 2 Happy Rock Hours",
+   "url": "https://www.europe2.fr/webradios",
+   "stream": "https://europe2.lmn.fm/vr-wr5.mp3?aw_0_1st.playerid=lagardereappVirgin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 164,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-rock-fm",
+   "name": "Allzic Radio Rock FM",
+   "url": "https://www.allzicradio.com/fr/player/listen/1087/allzic-radio-rock-fm",
+   "stream": "https://allzic17.ice.infomaniak.ch/allzic17.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Paris",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 158,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "le-grigri",
+   "name": "Le Grigri",
+   "url": "https://www.le-grigri.com/",
+   "stream": "https://www.radioking.com/play/legrigri/273715",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "hip-hop",
+    "jazz"
+   ],
+   "votes": 151,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "girl-power",
+   "name": "Girl Power",
+   "url": "http://www.radioscoop.com/",
+   "stream": "https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 147,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-splash-jazz",
+   "name": "#1 Splash Jazz",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://ais-sa2.cdnstream1.com/2346_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 144,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-rock-francais",
+   "name": "OUI FM ROCK FRANCAIS",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 142,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-girls-rock",
+   "name": "OUI FM GIRLS ROCK",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 139,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "algorythme-lounge-bossa",
+   "name": "Algorythme Lounge & Bossa",
+   "url": "https://www.algorythmeradio.com/",
+   "stream": "https://radio8.pro-fhi.net/flux-sinllzly/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "bossa",
+    "lounge"
+   ],
+   "votes": 136,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fip-jazz-hifi-aac",
+   "name": "FIP Jazz (hifi.aac)",
+   "url": "",
+   "stream": "https://icecast.radiofrance.fr/fipjazz-hifi.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 136,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guadeloupe-france-television",
+   "name": "Guadeloupe France Télévision",
+   "url": "https://caribshebdo.wordpress.com/2020/03/30/guadeloupe-1ere-radio-live/",
+   "stream": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "creole",
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Guadeloupe",
+   "genre": [
+    "zouk"
+   ],
+   "votes": 135,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hits-1",
+   "name": "Hits 1",
+   "url": "https://www.hits1.com/",
+   "stream": "https://radio7.pro-fhi.net/radio/9006/hits1hd",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "englsih",
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "pop",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 134,
+   "clicks": 42,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soul-radio-classics",
+   "name": "SOUL RADIO Classics",
+   "url": "https://soulradio.eu/",
+   "stream": "https://listen.soulradio.eu/eu",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Provence-Alpes-Côte d'Azur",
+   "genre": [
+    "soul"
+   ],
+   "votes": 134,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-radio",
+   "name": "Music Radio",
+   "url": "https://musicradio.ai/",
+   "stream": "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "easy-listening",
+    "electronic",
+    "funk",
+    "hits",
+    "house",
+    "jazz",
+    "pop-music",
+    "pop-rock",
+    "popular",
+    "smooth-jazz",
+    "top-hits"
+   ],
+   "votes": 131,
+   "clicks": 120,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "modular-station",
+   "name": "Modular-Station",
+   "url": "https://modular-station.com/",
+   "stream": "https://broadcast.modular-station.com/radio/8000/radio.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "electronic",
+    "techno"
+   ],
+   "votes": 128,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-woodstock",
+   "name": "OUI FM WOODSTOCK",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 128,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heavy1",
+   "name": "Heavy1",
+   "url": "https://www.heavy1.radio/",
+   "stream": "https://listen.radioking.com/radio/119653/stream/159127",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 127,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-fr-jazz-cinema",
+   "name": "Jazzradio.fr Jazz & Cinema",
+   "url": "https://www.jazzradio.fr/",
+   "stream": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 124,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sun-hip-hop",
+   "name": "SUN Hip Hop",
+   "url": "https://www.lesonunique.com/",
+   "stream": "https://diffusion.lafrap.fr/sun-hip-hop.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hip-hop",
+    "jazz",
+    "r&b",
+    "rap"
+   ],
+   "votes": 120,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-brume",
+   "name": "radio brume",
+   "url": "https://www.radiobrume.fr/",
+   "stream": "https://www.radioking.com/play/brume-campus-lyon/546695",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 118,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fly-foot-selecta",
+   "name": "Fly Foot Selecta",
+   "url": "https://www.radio-fly-foot-selecta.com/",
+   "stream": "https://manager5.streamradio.fr:1185/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "reggae"
+   ],
+   "votes": 113,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hits-1-2",
+   "name": "Hits 1",
+   "url": "https://www.hits1radio.com/",
+   "stream": "https://radio12.pro-fhi.net/live/Hits%201%20radio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Nouvelle-Aquitaine",
+   "genre": [
+    "dance",
+    "electronic",
+    "hits",
+    "pop"
+   ],
+   "votes": 113,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-broussaille",
+   "name": "Radio Broussaille",
+   "url": "https://radiobroussaille.fr/",
+   "stream": "https://stream.radiobroussaille.fr:8443/broussaille-hifi",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Gers",
+   "genre": [
+    "musique"
+   ],
+   "votes": 113,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rbs",
+   "name": "Radio RBS",
+   "url": "https://www.radiorbs.com/",
+   "stream": "https://www.radioking.com/play/radio-rbs-1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "funk",
+    "house"
+   ],
+   "votes": 111,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frequence-3-dance",
+   "name": "Fréquence 3 Dance",
+   "url": "https://www.frequence3.com/",
+   "stream": "https://frequence3.net-radio.fr/frequence3dance.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 110,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sun-soul-funk",
+   "name": "SUN Soul & Funk",
+   "url": "https://www.lesonunique.com/",
+   "stream": "https://diffusion.lafrap.fr/sun-soul.funk.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "funk",
+    "hip-hop",
+    "soul"
+   ],
+   "votes": 108,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "isekoi-radio-non-stop-ambient",
+   "name": "ISEKOI Radio | Non-Stop Ambient",
+   "url": "https://isekoi-radio.com/",
+   "stream": "https://public.isekoi-radio.com/listen/ambient/ambientradio.flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "ambient",
+    "relax"
+   ],
+   "votes": 105,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rjfm-club-80",
+   "name": "rjfm club 80",
+   "url": "https://fr.radioking.com/radio/rjfm-club-80",
+   "stream": "https://listen.radioking.com/radio/2725/stream/72647",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 105,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aioli-radio",
+   "name": "Aïoli Radio",
+   "url": "https://www.aioli-radio.org/",
+   "stream": "https://stream.aioli-radio.org/main.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Provence-Alpes-Côte d'Azur",
+   "genre": [
+    "ambient",
+    "chanson",
+    "folk",
+    "funk",
+    "hip-hop",
+    "jazz",
+    "pop",
+    "reggae"
+   ],
+   "votes": 104,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soft-radio",
+   "name": "Soft Radio",
+   "url": "https://www.softradio.net/",
+   "stream": "https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "classical",
+    "jazz",
+    "relaxing"
+   ],
+   "votes": 103,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-zouk",
+   "name": "Allzic Radio Zouk",
+   "url": "https://www.allzicradio.com/en/player/listen/1767/allzic-radio-zouk",
+   "stream": "https://allzic28.ice.infomaniak.ch/allzic28.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "music",
+    "zouk"
+   ],
+   "votes": 98,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-bring-the-noise",
+   "name": "OUI FM BRING THE NOISE",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 94,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzradio-fr-groove",
+   "name": "JazzRadio.fr Groove",
+   "url": "https://www.jazzradio.fr/",
+   "stream": "https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "soul"
+   ],
+   "votes": 93,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "liberte-fm",
+   "name": "Liberté FM",
+   "url": "https://libertefm.fr/",
+   "stream": "https://stream.libertefm.fr/libertefm.192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Nouvelle-Aquitaine",
+   "genre": [
+    "hits"
+   ],
+   "votes": 93,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-belle-aventure",
+   "name": "Radio La Belle Aventure",
+   "url": "https://www.radiolabelleaventure.com/",
+   "stream": "https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 92,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-grosse-radio-metal",
+   "name": "La Grosse Radio Métal",
+   "url": "https://caribshebdo.wordpress.com/2020/09/02/radio-web-la-grosse-reggae/",
+   "stream": "https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 91,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sun-jazz",
+   "name": "SUN Jazz",
+   "url": "https://www.lesonunique.com/",
+   "stream": "https://diffusion.lafrap.fr/sun-jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 91,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-pop-rock",
+   "name": "KISS Pop Rock",
+   "url": "http://kiss-pop-rock.net/",
+   "stream": "https://radiola.me/listen/kiss_pop_rock/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "blues",
+    "pop",
+    "pop-rock",
+    "rock",
+    "soul"
+   ],
+   "votes": 86,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maxi-france-radio",
+   "name": "Maxi France radio",
+   "url": "https://www.maxifrance.radio/",
+   "stream": "https://stream.maxifrance.radio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "francaise"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 86,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-electro-chill",
+   "name": "Allzic Radio Electro Chill",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://allzic57.ice.infomaniak.ch/allzic57.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 84,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "le-bon-mix-dynamic-aac192lc",
+   "name": "Le Bon Mix Dynamic - AAC192LC",
+   "url": "https://www.lebonmix.radio/",
+   "stream": "https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "techno"
+   ],
+   "votes": 84,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-summertime",
+   "name": "OUI FM SUMMERTIME",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 84,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "isekoi-radio-chill-zone",
+   "name": "ISEKOI Radio | Chill Zone",
+   "url": "https://isekoi-radio.com/",
+   "stream": "https://public.isekoi-radio.com/listen/chill/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "chillout",
+    "electronic",
+    "house",
+    "relax"
+   ],
+   "votes": 78,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1000-hits-90s",
+   "name": "1000 Hits 90s",
+   "url": "https://www.splashradio.eu/",
+   "stream": "https://c4.auracast.net:8050/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "90s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 76,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "france-musique-jazz",
+   "name": "France Musique Jazz",
+   "url": "",
+   "stream": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 76,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-soul",
+   "name": "Nova Soul",
+   "url": "https://www.nova.fr/radios/nova-soul/",
+   "stream": "https://nova-soul.ice.infomaniak.ch/nova-soul-256.aac",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "soul"
+   ],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m40-eurodance",
+   "name": "M40 Eurodance",
+   "url": "https://m40radio.fr/",
+   "stream": "https://live.m40radio.fr/listen/m40-eurodance/m40-eurodance-128.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 71,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-neo",
+   "name": "Radio Néo",
+   "url": "http://www.radioneo.org/",
+   "stream": "https://ice.creacast.com/radio-neo-paris",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "toulouse-fm",
+   "name": "Toulouse FM",
+   "url": "https://toulousefm.fr/",
+   "stream": "https://n32a-eu.rcs.revma.com/1x41712gy7uvv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "francaise",
+    "français---lëtzebuergesch",
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Toulouse",
+   "genre": [
+    "2000s",
+    "hits",
+    "latin",
+    "latin-music",
+    "latin-pop",
+    "pop-music",
+    "top-hits"
+   ],
+   "votes": 70,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-top-of-the-week",
+   "name": "OUI FM TOP OF THE WEEK",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pais",
+   "name": "Ràdio País",
+   "url": "https://www.radiopais.fr/",
+   "stream": "https://stunnel2.cyber-streaming.com:9272/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bearnese",
+    "gascon",
+    "occitan"
+   ],
+   "langCodes": [
+    "oc"
+   ],
+   "state": "Béarn",
+   "genre": [
+    "folk",
+    "music"
+   ],
+   "votes": 69,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-garage",
+   "name": "OUI FM GARAGE",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "rock"
+   ],
+   "votes": 68,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mylenefarmer",
+   "name": "MyleneFarmer",
+   "url": "https://www.mylene.net/mp3/a_tout_jamais_npd_s_remix.mp3",
+   "stream": "https://www.mylene.net/mp3/a_tout_jamais_npd_s_remix.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-aviva",
+   "name": "Radio Aviva",
+   "url": "https://www.radio-aviva.com/",
+   "stream": "https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "dance",
+    "house",
+    "top-40"
+   ],
+   "votes": 65,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-jazz-lounge",
+   "name": "Allzic Radio Jazz Lounge",
+   "url": "https://www.allzicradio.com/en/player/listen/1/allzic-radio-jazz-lounge",
+   "stream": "https://allzic03.ice.infomaniak.ch/allzic03.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 62,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oui-fm-girls-rock-aac-64k",
+   "name": "OUI FM GIRLS ROCK [AAC 64k]",
+   "url": "https://www.ouifm.fr/",
+   "stream": "https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "generations-r-b",
+   "name": "🕺 Générations R&B",
+   "url": "https://www.karibshebdo.info/radios-web/g%C3%A9n%C3%A9rations-rb",
+   "stream": "https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "rnb"
+   ],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dio",
+   "name": "Radio Dio",
+   "url": "https://radiodio.org/",
+   "stream": "https://live.aurafm.org/RadioDio",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "french",
+    "occitan",
+    "portuguese",
+    "tamazight"
+   ],
+   "langCodes": [
+    "fr",
+    "oc",
+    "pt"
+   ],
+   "genre": [
+    "alternative",
+    "music",
+    "rock"
+   ],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "generations-rnb-gold",
+   "name": "🕺 Générations RNB Gold",
+   "url": "https://www.karibshebdo.info/radios-web/g%C3%A9n%C3%A9rations-rnb-gold",
+   "stream": "https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "rnb"
+   ],
+   "votes": 58,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-2-mix-rock-electro-pop",
+   "name": "Europe 2 Mix / Rock, Electro, Pop",
+   "url": "https://www.europe2.fr/webradios",
+   "stream": "https://europe2.lmn.fm/vr-wr6.mp3?aw_0_1st.playerid=lagardereappVirgin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 57,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hotmix-dance",
+   "name": "Hotmix Dance",
+   "url": "https://web.hotmixradio.com/",
+   "stream": "https://streaming.hotmixradio.com/hotmix-dance-en-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europa-radio-jazz-hd",
+   "name": "Europa Radio Jazz HD",
+   "url": "https://www.europaradiojazz.org/",
+   "stream": "https://streams.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 56,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zai-zai",
+   "name": "Radio Zaï Zaï",
+   "url": "https://zaizai-radio.org/",
+   "stream": "https://listen.radioking.com/radio/204667/stream/247420",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [
+    "electronic",
+    "reggae",
+    "rock"
+   ],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reccord-trance-hits",
+   "name": "📻 Reccord Trance Hits",
+   "url": "https://radiosweb.karibshebdo.info/radios-web/reccord-trance-hits",
+   "stream": "https://radiorecord.hostingradio.ru/trancehits96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "france-musique-la-b-o",
+   "name": "France Musique la B.O.",
+   "url": "",
+   "stream": "https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 54,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dubsideradio",
+   "name": "dubsideradio",
+   "url": "https://www.dubsideradio.com/",
+   "stream": "https://puma.streemlion.com:5505/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-pop-queens",
+   "name": "Allzic Radio Pop Queens",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://allzic54.ice.infomaniak.ch/allzic54.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rcv-99-fm",
+   "name": "RCV 99 fm",
+   "url": "https://rcv-lille.radio-website.com/",
+   "stream": "https://listen.radioking.com/radio/3086/stream/9476",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "jazz",
+    "reggae",
+    "rock"
+   ],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reccord-techno",
+   "name": "📻 Reccord Techno",
+   "url": "https://radiosweb.karibshebdo.info/radios-web/reccord-techno",
+   "stream": "https://radiorecord.hostingradio.ru/techno96.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "techno"
+   ],
+   "votes": 50,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "algorythme-radio",
+   "name": "Algorythme Radio",
+   "url": "https://www.algorythmeradio.com/",
+   "stream": "https://radio3.pro-fhi.net/flux-ejzloxke/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "house"
+   ],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-2-new",
+   "name": "Europe 2 New",
+   "url": "https://www.europe2.fr/webradios",
+   "stream": "https://europe2.lmn.fm/vr-wr1.mp3?aw_0_1st.playerid=lagardereappVirgin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 50,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rstlss",
+   "name": "RSTLSS",
+   "url": "https://rstlss.com/",
+   "stream": "https://stream.radiosolution.fr/rstlss.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "classic-rock",
+    "metal",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 50,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-2-nouvelle-scene",
+   "name": "Europe 2 Nouvelle Scène",
+   "url": "https://www.europe2.fr/webradios",
+   "stream": "https://europe2.lmn.fm/vr-wr8.mp3?aw_0_1st.playerid=lagardereappVirgin",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "puls-radio-trance",
+   "name": "Puls Radio - Trance",
+   "url": "https://www.pulsradio.com/trance",
+   "stream": "https://icecastlb.pulsradio.com/pulstranceHD.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Morschwiller-le-Bas",
+   "genre": [
+    "electronic",
+    "trance"
+   ],
+   "votes": 49,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sun-rock",
+   "name": "SUN Rock",
+   "url": "https://www.lesonunique.com/",
+   "stream": "https://diffusion.lafrap.fr/sun-rock.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-metal",
+   "name": "Virgin Radio Metal",
+   "url": "https://www.virginradio.fr/",
+   "stream": "https://virginmetal.ice.infomaniak.ch/virgin-radio-metal.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-golds-francais",
+   "name": "Allzic Radio Golds Français",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://allzic30.ice.infomaniak.ch/allzic30.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-annees-70",
+   "name": "Allzic Radio Années 70",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://allzic50.ice.infomaniak.ch/allzic50.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "70s",
+    "music"
+   ],
+   "votes": 47,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-collection",
+   "name": "Radio collection",
+   "url": "https://www.radiocollection.fr/",
+   "stream": "https://listen.radioking.com/radio/251653/stream/296545",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frequence-3-gold",
+   "name": "Fréquence 3 Gold",
+   "url": "https://www.frequence3.com/",
+   "stream": "https://frequence3.net-radio.fr/frequence3gold.mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 46,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-zouk-2",
+   "name": "🕺 Allzic Radio Zouk",
+   "url": "https://www.karibshebdo.info/radios-web/allzic-radio-zouk",
+   "stream": "https://allzic28.ice.infomaniak.ch/allzic28.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "zouk"
+   ],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "efr12-radio",
+   "name": "EFR12 Radio",
+   "url": "https://www.efr12.com/radio/",
+   "stream": "https://listen.radioking.com/radio/151768/stream/192217",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "allzic-radio-love",
+   "name": "Allzic Radio Love",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://allzic34.ice.infomaniak.ch/allzic34.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "generation-jul",
+   "name": "Génération JUL",
+   "url": "https://generations.fr/",
+   "stream": "https://generations-jul.ice.infomaniak.ch/generations-jul.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rap"
+   ],
+   "votes": 44,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latina-work",
+   "name": "Latina @work",
+   "url": "https://www.latina.fr/",
+   "stream": "https://latinawork.ice.infomaniak.ch/latinawork.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "latin-music"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-campus-bordeaux",
+   "name": "Radio campus bordeaux",
+   "url": "https://www.radiocampusbordeaux.fr/",
+   "stream": "https://live.radio-campus.org:8002/campus-bordeaux",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Nouvelle-Aquitaine",
+   "genre": [
+    "blues",
+    "folk",
+    "hip-hop",
+    "jazz",
+    "reggae",
+    "rock"
+   ],
+   "votes": 44,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-uylenspiegel",
+   "name": "Radio Uylenspiegel",
+   "url": "http://www.uylenspiegel.eu/",
+   "stream": "https://listen.radioking.com/radio/474857/stream/531260",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "dutch",
+    "flemish",
+    "french"
+   ],
+   "langCodes": [
+    "fr",
+    "nl"
+   ],
+   "state": "Flandre",
+   "genre": [
+    "folk"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "egregore-radio",
+   "name": "Egregore Radio",
+   "url": "https://www.egrego.re/",
+   "stream": "https://radio.egrego.re/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "fr",
+    "en"
+   ],
+   "state": "Toulouse",
+   "genre": [
+    "music"
+   ],
+   "votes": 43,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "crooner-radio-movies",
+   "name": "Crooner Radio - Movies",
+   "url": "https://superradio.cc/",
+   "stream": "https://croonerradio_movies.ice.infomaniak.ch/croonerradio-movies-midfi.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 42,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-fr",
+   "name": "RMC FR",
+   "url": "https://rmc.bfmtv.com/",
+   "stream": "https://audio.bfmtv.com/rmcradio_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 74751,
+   "clicks": 403,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sud-radio",
+   "name": "Sud Radio",
+   "url": "https://www.sudradio.fr/",
+   "stream": "https://ice.creacast.com/sudradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 26048,
+   "clicks": 50,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bfm-radio",
+   "name": "BFM radio",
+   "url": "https://www.bfmtv.com/en-direct/bfm-radio/",
+   "stream": "https://audio.bfmtv.com/bfmradio_128.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 21740,
+   "clicks": 42,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europe-1",
+   "name": "Europe 1",
+   "url": "https://www.europe1.fr/",
+   "stream": "https://stream.europe1.fr/europe1.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 20789,
+   "clicks": 355,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfienchinois64k",
+   "name": "法国国际广播电台",
+   "url": "",
+   "stream": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 7819,
+   "clicks": 43,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-info-talk-sport",
+   "name": "RMC Info Talk Sport",
+   "url": "https://rmc.bfmtv.com/",
+   "stream": "https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 5922,
+   "clicks": 98,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urban-hit-maroc",
+   "name": "Urban Hit Maroc",
+   "url": "https://www.urbanhit.fr/",
+   "stream": "https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 4094,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "france-inter",
+   "name": "France Inter",
+   "url": "https://www.franceinter.fr/",
+   "stream": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France",
+   "genre": [],
+   "votes": 3799,
+   "clicks": 105,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skyrock-klassics",
+   "name": "Skyrock Klassics",
+   "url": "https://skyrock.fm/",
+   "stream": "https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "France continentale",
+   "genre": [],
+   "votes": 3223,
+   "clicks": 40,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-80-funky-music",
+   "name": "FM 80 Funky Music",
+   "url": "https://www.fm80.fr/en/",
+   "stream": "https://listen.radioking.com/radio/467555/stream/523739",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 3147,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "algorythme-drum-bass",
+   "name": "Algorythme Drum & Bass",
+   "url": "https://www.algorythmeradio.com/",
+   "stream": "https://radio9.pro-fhi.net/flux-endvtlna/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 3041,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfi-monde",
+   "name": "📺 RFI Monde",
+   "url": "https://www.karibshebdo.info/radios-web/rfi-radio",
+   "stream": "https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2116,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  }
+ ]
+}

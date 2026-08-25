@@ -1,0 +1,114 @@
+{
+ "countryCode": "GY",
+ "country": "Guyana",
+ "slug": "guyana",
+ "continent": "americas",
+ "stationCount": 7,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/guyana/",
+ "stations": [
+  {
+   "id": "radio-guyana-inc-georgetown-89-5-fm-essequibo-89",
+   "name": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
+   "url": "https://rgi89fm.com/",
+   "stream": "https://stream.radio.co/s9668e2ab5/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Georgetown",
+   "genre": [],
+   "votes": 928,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "102-5-fm-voice-of-guyana",
+   "name": "102.5 FM Voice of Guyana",
+   "url": "https://ncnguyana.com/2023/vogradio/",
+   "stream": "https://cast4.asurahosting.com/proxy/ncn1025/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Georgetown",
+   "genre": [],
+   "votes": 126,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "104-1-guyana-lite-fm",
+   "name": "104.1 Guyana Lite FM",
+   "url": "https://www.facebook.com/guyanalitefm/",
+   "stream": "https://n08.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABlyfWxAgAw4EgJHYs7gEKgA",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Georgetown",
+   "genre": [],
+   "votes": 83,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-89-1-ntn-radio",
+   "name": "FM 89.1 NTN Radio",
+   "url": "https://www.facebook.com/people/National-Television-Network-TVRadio-891-FM/100054228980719/",
+   "stream": "https://auds1.intacs.com/ntnradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Georgetown",
+   "genre": [],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gomoseley-radio",
+   "name": "GoMoseley Radio",
+   "url": "https://gomoseleyradio.com/",
+   "stream": "https://a2.asurahosting.com:8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "n1chwitiweb",
+   "name": "n1chwitiweb",
+   "url": "https://radio.chwitiweb.com/",
+   "stream": "https://radio.chwitiweb.com/listen/chwitiweb/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

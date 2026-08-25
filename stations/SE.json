@@ -1,0 +1,2587 @@
+{
+ "countryCode": "SE",
+ "country": "Sweden",
+ "slug": "sweden",
+ "continent": "europe",
+ "stationCount": 136,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/sweden/",
+ "stations": [
+  {
+   "id": "retro-fm-skane",
+   "name": "Retro FM Skåne",
+   "url": "http://www.retrofm.se/",
+   "stream": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 1497,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-plus",
+   "name": "Sveriges Radio - P4 Plus",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p4plus-aac-320",
+   "codec": "aac",
+   "bitrate": 304,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "50s",
+    "60s",
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 730,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "polushon",
+   "name": "Polushon",
+   "url": "http://polushon.com/",
+   "stream": "https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 441,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bandit-classic-rock",
+   "name": "Bandit Classic Rock",
+   "url": "https://www.ilikeradio.se/banditclassicrock/",
+   "stream": "https://wr11-ice.stream.khz.se/wr11_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "National, Sweden",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 396,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "go-country",
+   "name": "Go Country",
+   "url": "https://www.ilikeradio.se/gocountry/",
+   "stream": "https://wr14-ice.stream.khz.se/wr14_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "swedish"
+   ],
+   "langCodes": [
+    "en",
+    "sv"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 295,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rix-fm-106-7",
+   "name": "RIX FM 106,7",
+   "url": "https://www.ilikeradio.se/rixfm",
+   "stream": "https://fm01-ice.stream.khz.se/fm01_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Stockholm",
+   "genre": [
+    "pop"
+   ],
+   "votes": 268,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-54",
+   "name": "Disco 54",
+   "url": "https://www.ilikeradio.se/disco54/",
+   "stream": "https://wr15-ice.stream.khz.se/wr15_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "disco"
+   ],
+   "votes": 265,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dansbandskanalen-se",
+   "name": "Dansbandskanalen.se*",
+   "url": "https://dansbandskanalen.se/",
+   "stream": "https://stream.dbmedia.se/dbkMP3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "country"
+   ],
+   "votes": 247,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bandit-metal",
+   "name": "Bandit Metal",
+   "url": "https://www.viaplayradio.se/banditmetal/",
+   "stream": "https://wr03-ice.stream.khz.se/wr03_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 245,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mix-megapol-104-3",
+   "name": "Mix Megapol 104,3",
+   "url": "https://radioplay.se/mixmegapol",
+   "stream": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Stockholm",
+   "genre": [
+    "pop"
+   ],
+   "votes": 187,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p2-flac",
+   "name": "Sveriges Radio P2 flac",
+   "url": "https://www.sverigesradio/p2",
+   "stream": "https://edge1.sr.se/p2-flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "folk",
+    "jazz"
+   ],
+   "votes": 185,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-goteborg",
+   "name": "Sveriges Radio P4 Göteborg",
+   "url": "https://www.sverigesradio/p4goteborg",
+   "stream": "https://live1.sr.se/p4gbg-aac-320",
+   "codec": "aac",
+   "bitrate": 288,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 181,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bandit-irock",
+   "name": "Bandit ÍRock",
+   "url": "https://www.ilikeradio.se/banditrock/",
+   "stream": "https://fm02-ice.stream.khz.se/fm02_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 138,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p2-sprak-och-musik",
+   "name": "Sveriges Radio - P2 Språk och musik",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p2sm-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 125,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bandit-ballads",
+   "name": "Bandit Ballads",
+   "url": "https://www.ilikeradio.se/banditballads/",
+   "stream": "https://wr21-ice.stream.khz.se/wr21_aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 114,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p3-din-gata",
+   "name": "Sveriges Radio - P3 Din gata",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/dingata-aac-320",
+   "codec": "aac",
+   "bitrate": 248,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Malmoe",
+   "genre": [
+    "rap"
+   ],
+   "votes": 108,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p2-flac-2",
+   "name": "Sveriges Radio P2 flac",
+   "url": "https://www.sverigesradio.se/p2",
+   "stream": "https://live1.sr.se/p2-flac",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "classical",
+    "folk",
+    "jazz"
+   ],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": ". Al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 70,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "star-fm-107-1",
+   "name": "STAR FM 107,1",
+   "url": "https://www.ilikeradio.se/starfm",
+   "stream": "https://fm05-ice.stream.khz.se/fm05_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Stockholm",
+   "genre": [
+    "pop"
+   ],
+   "votes": 59,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dagnys-jukebox",
+   "name": "Dagnys Jukebox",
+   "url": "http://www.dagnysjukebox.se/",
+   "stream": "https://stream.dagnysjukebox.se/dagny",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-ericade-radio-network",
+   "name": "The ERICADE Radio Network",
+   "url": "https://ericade.radio/",
+   "stream": "https://radio.ericade.net/sc/stream/1/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radion-p4-ostergotland",
+   "name": "Sveriges Radion P4 Östergötland",
+   "url": "https://sverigesradio.se/ostergotland",
+   "stream": "https://live1.sr.se/p4ostg-mp3-96",
+   "codec": "mp3",
+   "bitrate": 136,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Select One",
+   "genre": [
+    "music"
+   ],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nostalgi",
+   "name": "Radio Nostalgi",
+   "url": "https://radioplay.se/radio-nostalgi/",
+   "stream": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "state": "-",
+   "genre": [
+    "80s"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dansbandskanalen",
+   "name": "Dansbandskanalen",
+   "url": "http://dansbandskanalen.se/",
+   "stream": "https://fm09-ice.stream.khz.se/fm09_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 33,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rainbow",
+   "name": "Radio Rainbow",
+   "url": "https://www.ilikeradio.se/radiorainbow/",
+   "stream": "https://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-blekinge",
+   "name": "Sveriges Radio - P4 Blekinge",
+   "url": "https://sverigesradio.se/blekinge",
+   "stream": "https://live1.sr.se/p4blek-mp3-96",
+   "codec": "mp3",
+   "bitrate": 152,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 16,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "workout",
+   "name": "Workout",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/workout/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "edm"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kpop",
+   "name": "Kpop",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/kpop/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "kpop"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "back-to-the-80s",
+   "name": "Back to the 80s",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "hits",
+    "pop"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-163",
+   "name": "Radio 163",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/radio_163/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-meditation",
+   "name": "Relax & Meditation",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/relax_meditation/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bollywood-bangers",
+   "name": "Bollywood Bangers",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/bollywood_bangers/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 12,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "epic-soundtracks-only",
+   "name": "Epic Soundtracks Only",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "orchestral"
+   ],
+   "votes": 12,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock",
+   "name": "Rock",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/rock/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mad-mix-curated",
+   "name": "Mad Mix Curated",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s-rewind",
+   "name": "90s Rewind",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/90s_rewind/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "hits",
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "popburst",
+   "name": "PopBurst",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/popburst/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "american-truckers",
+   "name": "American Truckers",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/american_truckers/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country",
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "edm",
+   "name": "EDM",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/edm_/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guldkanalen-60-tal",
+   "name": "Guldkanalen 60-tal",
+   "url": "https://stream.dbmedia.se/gk60tal96",
+   "stream": "https://stream.dbmedia.se/gk60tal96",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Skåne",
+   "genre": [
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mad-mix-beats",
+   "name": "Mad Mix Beats",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reggae",
+   "name": "Reggae",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/reggae/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "reggae"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blues",
+   "name": "Blues",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/blues/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues",
+    "soul"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "groove-revival-radio",
+   "name": "Groove Revival Radio",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "disco",
+    "funk",
+    "soul"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "party-247",
+   "name": "Party 247",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/party_247/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-mayhem",
+   "name": "Metal Mayhem",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/metal_mayhem/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alt-edge-radio",
+   "name": "Alt Edge Radio",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz",
+   "name": "Jazz",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/jazz/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-789",
+   "name": "Radio 789",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/radio_789/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "oldies",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "auralis-radio",
+   "name": "Auralis Radio",
+   "url": "https://auralis-radio.com/",
+   "stream": "https://auralis-radio.com/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "electronic",
+    "lounge",
+    "relax",
+    "smooth-jazz"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical",
+   "name": "Classical",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/classical/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical",
+    "orchestral"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gen-x",
+   "name": "Gen X",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/gen_x/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "alternative",
+    "hip-hop",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house",
+   "name": "House",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/house/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house"
+   ],
+   "votes": 4,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pain",
+   "name": "Pain",
+   "url": "https://pcradio.ru/",
+   "stream": "https://stream.pcradio.ru/Pain-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "engilsh"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-567",
+   "name": "Radio 567",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/radio_567/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock",
+    "soul"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "stars-on-45",
+   "name": "Stars on 45",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/stars_on_45/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "disco",
+    "oldies"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "country",
+   "name": "Country",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/country/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "decades",
+   "name": "Decades",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/decades/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "oldies"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitcity",
+   "name": "HITCITY",
+   "url": "https://hitcity.se/",
+   "stream": "https://stream.hitcity.se/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "swedish"
+   ],
+   "langCodes": [
+    "en",
+    "sv"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "pop-music",
+    "techno"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-fm-sverige",
+   "name": "Retro FM Sverige",
+   "url": "https://www.retrofm.se/",
+   "stream": "https://stream.rcs.revma.com/25knctp5vepwv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "swedish"
+   ],
+   "langCodes": [
+    "en",
+    "sv"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aftab",
+   "name": "Aftab",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/aftab/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "instrumental"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "harmony-frequencies",
+   "name": "Harmony Frequencies",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient"
+   ],
+   "votes": 2,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "latin",
+   "name": "Latin",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/latin/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "latin",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mad-mix-main",
+   "name": "Mad Mix Main",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/mad_mix_main/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-svea",
+   "name": "Radio Svea",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/radio_svea/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swedish-truckers",
+   "name": "Swedish Truckers",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/swedish_truckers/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country",
+    "folk"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-modstation-amiga-protracker-modules",
+   "name": "The ModStation - Amiga ProTracker Modules",
+   "url": "https://modstation.scandinavianretro.eu/",
+   "stream": "https://broadcast.sonologic.net/modstation.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urban-flow",
+   "name": "Urban Flow",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/urban_flow/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibe-radio",
+   "name": "VIBE Radio",
+   "url": "https://viberadio.se/",
+   "stream": "https://streamer.radio.co/s0c62f7351/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Stockholm",
+   "genre": [
+    "dance",
+    "electronic",
+    "hits"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wolf-fm",
+   "name": "Wolf FM",
+   "url": "https://wolffmradio.se/",
+   "stream": "https://sstream.ueteknik.se/listen/wolffm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Dalarna",
+   "genre": [
+    "country"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "faith-beats-radio",
+   "name": "Faith Beats Radio",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/faith_beats_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "gospel",
+    "worship"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ivory-echoes",
+   "name": "Ivory Echoes",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/ivory_echoes/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "classical",
+    "instrumental"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "midnight-silk-eros",
+   "name": "Midnight Silk Eros",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/midnight_silk_eros/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "r&b",
+    "romantic",
+    "soul"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tjenamors-radio",
+   "name": "Tjenamors Radio!",
+   "url": "https://tjenamors.se/",
+   "stream": "https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "swedish"
+   ],
+   "langCodes": [
+    "en",
+    "sv"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melancholy",
+   "name": "Melancholy",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/melancholy/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-94-3",
+   "name": "Radio 94,3",
+   "url": "https://radio943.se/",
+   "stream": "https://stream.radio943.se/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Närke",
+   "genre": [
+    "country",
+    "easy-listening",
+    "pop",
+    "rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p1",
+   "name": "Sveriges Radio - P1",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p1-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 3358,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p3",
+   "name": "Sveriges Radio - P3",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p3-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 1674,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p2",
+   "name": "Sveriges Radio - P2",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p2-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 535,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vinyl-fm",
+   "name": "Vinyl FM",
+   "url": "https://radioplay.se/vinylfm/",
+   "stream": "https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 437,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "svt-p1-192kps",
+   "name": "SVT P1 192kps",
+   "url": "https://sverigesradio.se/p1#",
+   "stream": "https://live1.sr.se/p1-mp3-96",
+   "codec": "mp3",
+   "bitrate": 98,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 426,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soul-classics",
+   "name": "Soul Classics",
+   "url": "https://www.ilikeradio.se/soulclassics/",
+   "stream": "https://wr08-ice.stream.khz.se/wr08_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 231,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "northern-metal-radio-extreme",
+   "name": "Northern Metal Radio Extreme",
+   "url": "https://www.northernmetalradio.com/station/northern-metal-radio-extreme/",
+   "stream": "https://s2.free-shoutcast.com/stream/18092",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 159,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hitmix90-s",
+   "name": "HitMix90's",
+   "url": "https://www.ilikeradio.se/hitmix90s/",
+   "stream": "https://wr19-ice.stream.khz.se/wr19_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 149,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-ekot-sander-direkt",
+   "name": "Sveriges Radio - Ekot sänder direkt",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/ekotdirekt-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 139,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rivendell",
+   "name": "Radio Rivendell",
+   "url": "https://www.radiorivendell.com/",
+   "stream": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 116,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "northern-metal-radio",
+   "name": "Northern Metal Radio",
+   "url": "https://www.northernmetalradio.com/station/northern-metal-radio/",
+   "stream": "https://dc5.serverse.com/proxy/lvzgnvcj/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p6",
+   "name": "Sveriges Radio - P6",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p6-aac-320",
+   "codec": "aac",
+   "bitrate": 336,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 99,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gamla-favoritter",
+   "name": "Gamla Favoritter",
+   "url": "https://www.ilikeradio.se/gamlafavoriter/",
+   "stream": "https://wr09-ice.stream.khz.se/wr09_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 96,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveiges-radio-p4-malmohus",
+   "name": "Sveiges Radio - P4 Malmöhus",
+   "url": "https://sverigesradio.se/malmohus",
+   "stream": "https://sverigesradio.se/topsy/direkt/207-hi.mp3",
+   "codec": "mp3",
+   "bitrate": 152,
+   "state": "Skåne",
+   "genre": [],
+   "votes": 80,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-stockholm",
+   "name": "Sveriges Radio P4 Stockholm",
+   "url": "https://www.sverigesradio.se/stockholm",
+   "stream": "https://edge1.sr.se/p4sth-aac-320",
+   "codec": "aac",
+   "bitrate": 304,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 76,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guldkanalen-80-tal",
+   "name": "Guldkanalen (80-tal)",
+   "url": "https://playnow.se/guldkanalen-webbradio/",
+   "stream": "https://stream.dbmedia.se/gk80tal96",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 73,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-hit-radio",
+   "name": "Power Hit Radio",
+   "url": "https://www.ilikeradio.se/powerhitradio/",
+   "stream": "https://fm04-ice.stream.khz.se/fm04_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 68,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-club",
+   "name": "Power Club",
+   "url": "https://www.ilikeradio.se/powerclub/",
+   "stream": "https://wr06-ice.stream.khz.se/wr06_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 63,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p1-2",
+   "name": "Sveriges Radio P1",
+   "url": "https://www.sverigesradio/p1",
+   "stream": "https://edge1.sr.se/p1-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 59,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bubb-la",
+   "name": "Radio bubb.la",
+   "url": "https://radio.bubb.la/",
+   "stream": "https://live.radio.bubb.la/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 56,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-vast",
+   "name": "Sveriges Radio - P4 Väst",
+   "url": "https://www.sverigesradio.se/vast",
+   "stream": "https://live1.sr.se/p4vast-mp3-96",
+   "codec": "mp3",
+   "bitrate": 114,
+   "genre": [],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-88-partille-golden-hits",
+   "name": "Radio 88 Partille - Golden Hits",
+   "url": "https://radio88.se/",
+   "stream": "https://streaming.943.se/radio88dans",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-halland",
+   "name": "Sveriges Radio - P4 Halland",
+   "url": "https://sverigesradio.se/halland",
+   "stream": "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "state": "Halland",
+   "genre": [],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveiges-radio-p4-kristianstad",
+   "name": "Sveiges Radio - P4 Kristianstad",
+   "url": "https://sverigesradio.se/kristianstad",
+   "stream": "https://live1.sr.se/p4krist-mp3-96",
+   "codec": "mp3",
+   "bitrate": 160,
+   "state": "Skåne",
+   "genre": [],
+   "votes": 25,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gbg-sevdah",
+   "name": "Radio Gbg Sevdah",
+   "url": "https://radiogbg.se/",
+   "stream": "https://stream.radiogbg.se:8050/relay4",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bosnian",
+    "macedonian"
+   ],
+   "langCodes": [
+    "bs",
+    "mk"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "roxette",
+   "name": "Roxette",
+   "url": "https://pcradio.ru/",
+   "stream": "https://stream.pcradio.ru/Roxette-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "engilsh"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orinoco",
+   "name": "Radio Orinoco",
+   "url": "https://www.radio-orinoco.com/",
+   "stream": "https://icecast.radio-orinoco.com/orinoco",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-kalmar",
+   "name": "P4 Kalmar",
+   "url": "https://sverigesradio.se/kalmar",
+   "stream": "https://live1.sr.se/p4kalm-mp3-96",
+   "codec": "mp3",
+   "bitrate": 148,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-vasterbotten",
+   "name": "P4 Västerbotten",
+   "url": "https://sverigesradio.se/vasterbotten",
+   "stream": "https://live1.sr.se/p4vbtn-mp3-96",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nostalgi-se",
+   "name": "Radio Nostalgi SE",
+   "url": "https://radioplay.se/radio-nostalgi/play/",
+   "stream": "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "best-of-ericade-radio",
+   "name": "Best of ericade.radio",
+   "url": "https://radio.ericade.net/best/",
+   "stream": "https://radio.ericade.net/sc/stream/2/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Stockholm",
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hope",
+   "name": "Radio Hope",
+   "url": "http://www.radiohope.se/",
+   "stream": "https://s2.radio.co/sfbf5f5b85/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sr-p4-malmohus",
+   "name": "SR P4 Malmöhus",
+   "url": "https://sverigesradio.se/tabla.aspx?programid=207",
+   "stream": "https://live1.sr.se/p4malm-mp3-96",
+   "codec": "mp3",
+   "bitrate": 152,
+   "state": "Skåne",
+   "genre": [],
+   "votes": 14,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "redback-radio",
+   "name": "Redback Radio",
+   "url": "https://redback.mywire.org/Radio/",
+   "stream": "https://redback.mywire.org/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Select state",
+   "genre": [],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "punk-classics",
+   "name": "Punk Classics",
+   "url": "https://madmix.se/",
+   "stream": "https://mml2.prostream.se/listen/punk_classics/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "linkopings-narradio",
+   "name": "Linköpings närradio",
+   "url": "https://www.linkopingsnarradio.se/",
+   "stream": "https://stream.linkopingsnarradio.se:8005/radioprogram",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zergan-radyo-47an",
+   "name": "ZERGAN RADYO (47an)",
+   "url": "http://www.radyozergan.com/",
+   "stream": "https://sslyayin.netyayin.net/radyozergan/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "kurdi",
+    "kurdish",
+    "turkçe"
+   ],
+   "langCodes": [
+    "ku"
+   ],
+   "state": "Sweden",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guldkanalen-90-tal",
+   "name": "Guldkanalen (90-tal)",
+   "url": "https://playnow.se/guldkanalen-90tal-webbradio/",
+   "stream": "https://stream.dbmedia.se/gk90tal96",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-jamtland",
+   "name": "P4 Jämtland",
+   "url": "https://sr.se/",
+   "stream": "https://live1.sr.se/p4jmtl-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "genre": [],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sandviken",
+   "name": "Radio Sandviken",
+   "url": "https://radiosandviken.se/",
+   "stream": "https://shout.rs8990.com/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-svenska",
+   "name": "REPLAY NEWS - Svenska",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-varmland",
+   "name": "P4 Värmland",
+   "url": "https://www.sverigesradio.se/",
+   "stream": "https://live1.sr.se/p4vrml-aac-320",
+   "codec": "aac",
+   "bitrate": 352,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-street",
+   "name": "Power Street",
+   "url": "https://www.viaplayradio.se/powerstreet/",
+   "stream": "https://wr07-ice.stream.khz.se/wr07_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-dalarna",
+   "name": "Sveriges Radio P4 Dalarna",
+   "url": "https://www.sverigesradio.se/nyheter/p4-dalarna",
+   "stream": "https://live1.sr.se/p4dala-aac-320",
+   "codec": "aac",
+   "bitrate": 296,
+   "state": "Dalarna",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tyresoradion",
+   "name": "Tyresöradion",
+   "url": "https://www.tyresoradion.se/",
+   "stream": "https://s5.radio.co/s8ace52d32/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-vasternorrland",
+   "name": "P4 Västernorrland",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p4vnrl-mp3-96",
+   "codec": "mp3",
+   "bitrate": 148,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-vastmanland",
+   "name": "P4 Västmanland",
+   "url": "https://sverigesradio.se/",
+   "stream": "https://live1.sr.se/p4vstm-mp3-96",
+   "codec": "mp3",
+   "bitrate": 164,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hello-africa",
+   "name": "Hello Africa",
+   "url": "https://madmix.se/",
+   "stream": "https://mml1.prostream.se/listen/hello_africa/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vinylgodis",
+   "name": "Vinylgodis",
+   "url": "https://vinylgodis.se/?#",
+   "stream": "https://fwd.autopo.st/runedervall",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bananradion",
+   "name": "BANANRADION",
+   "url": "https://www.bananradion.se/",
+   "stream": "https://lyssna.bananradion.se/listen/bananradion/128aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "swedish"
+   ],
+   "langCodes": [
+    "en",
+    "sv"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dansbandsradio-se",
+   "name": "DansBandsRadio.se",
+   "url": "https://dansbandsradio.se/",
+   "stream": "https://sc.dansbandsradio.se/dbr64.aac",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "danish",
+    "english",
+    "norwegian",
+    "swedish"
+   ],
+   "langCodes": [
+    "da",
+    "en",
+    "no",
+    "sv"
+   ],
+   "state": "Skåne",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bastad",
+   "name": "Radio Båstad",
+   "url": "https://radiobastad.se/",
+   "stream": "https://audio-edge-hy4wy.blr.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio45-dalsland-sweden",
+   "name": "Radio45 (Dalsland Sweden)",
+   "url": "https://radio45.se/",
+   "stream": "https://streaming.943.se/radio45",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Dalsland",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skargardsradion",
+   "name": "Skärgårdsradion",
+   "url": "https://skargardsradion.se/",
+   "stream": "https://fm06-ice.stream.khz.se/fm06_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-malmohus",
+   "name": "Sveriges Radio P4 Malmöhus",
+   "url": "https://www.sverigesradio.se/kanaler",
+   "stream": "https://live1.sr.se/p4malm-aac-32",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-uppland",
+   "name": "Sveriges Radio P4 Uppland",
+   "url": "https://www.sr.se/",
+   "stream": "https://live1.sr.se/p4uppl-aac-320",
+   "codec": "aac",
+   "bitrate": 312,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-cotinuous-music",
+   "name": "24/7 Cotinuous Music",
+   "url": "https://cuelightsmedia.com.au/stations/247-continuous-music",
+   "stream": "https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-sjuharad",
+   "name": "Sveriges Radio - P4 Sjuhärad",
+   "url": "https://www.sverigesradio.se/nyheter/p4-sjuharad",
+   "stream": "https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3",
+   "codec": "mp3",
+   "bitrate": 112,
+   "langs": [
+    "sv",
+    "swedish"
+   ],
+   "langCodes": [
+    "sv"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sveriges-radio-p4-gavleborg",
+   "name": "Sveriges Radio P4 Gävleborg",
+   "url": "https://www.sverigesradio.se/nyheter/p4-gavleborg",
+   "stream": "https://live1.sr.se/p4gavl-mp3-96",
+   "codec": "mp3",
+   "bitrate": 144,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

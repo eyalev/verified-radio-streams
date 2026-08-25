@@ -1,0 +1,3341 @@
+{
+ "countryCode": "IT",
+ "country": "Italy",
+ "slug": "italy",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/italy/",
+ "stations": [
+  {
+   "id": "radio-armisa",
+   "name": "Radio Armisa",
+   "url": "https://armisa.it/",
+   "stream": "https://onair.armisa.it/listen/armisa/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "dance",
+    "folk",
+    "oldies",
+    "pop"
+   ],
+   "votes": 23905,
+   "clicks": 53,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-hits-radio-italia",
+   "name": "CLASSIC HITS RADIO Italia",
+   "url": "http://classichits.radio/italy/",
+   "stream": "https://classichitsradio.streamingmedia.it/play",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 6271,
+   "clicks": 43,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italia-italia-70",
+   "name": "ITALIA Italia 70",
+   "url": "http://www.unitedmusic.it/",
+   "stream": "https://icy.unitedradio.it/um020.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "70s"
+   ],
+   "votes": 6002,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italia-italia-80",
+   "name": "ITALIA Italia 80",
+   "url": "http://www.unitedmusic.it/",
+   "stream": "https://icy.unitedradio.it/um016.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "80s"
+   ],
+   "votes": 4594,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "new-hits-radio-italia",
+   "name": "NEW HITS RADIO Italia",
+   "url": "https://newhits.radio/",
+   "stream": "https://newhitsradio.streamingmedia.it/play",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 4060,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italian-radio-only-romantic-italian-music",
+   "name": "ITALIAN RADIO - Only (romantic) Italian Music",
+   "url": "http://italian.radio/",
+   "stream": "https://italianradio.streamingmedia.it/play",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 2408,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-rockstar-rolling-stones",
+   "name": "Virgin Radio Rockstar: Rolling Stones",
+   "url": "https://www.virginradio.it/sezioni/1855/Music-Star-Rolling-Stones",
+   "stream": "https://icy.unitedradio.it/VirginSpecialEvent.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 2089,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "70-80-disco-funk-modernsoul-e-boogie",
+   "name": "70 80 Disco Funk ModernSoul e Boogie",
+   "url": "https://funky.radio/disco/",
+   "stream": "https://discofunk.streamingmedia.it/play",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "70s",
+    "80s"
+   ],
+   "votes": 1784,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "venice-classic-radio",
+   "name": "Venice Classic Radio",
+   "url": "https://www.veniceclassicradio.eu/",
+   "stream": "https://uk2.streamingpulse.com/ssl/vcr1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 1602,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtr-99-canale-pooh",
+   "name": "RTR 99 Canale Pooh",
+   "url": "https://www.rtr99.it/",
+   "stream": "https://rtr99.fluidstream.eu/rtr99_pooh.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 1384,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-70-80-90-marche",
+   "name": "Radio 70 80 90 Marche",
+   "url": "https://www.radio708090.it/",
+   "stream": "https://rblive.it:8020/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Marche",
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 965,
+   "clicks": 28,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-80-afro",
+   "name": "Radio 80 Afro",
+   "url": "https://www.radio80.it/",
+   "stream": "https://sphera.fluidstream.eu/r80_afro.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "disco",
+    "funk",
+    "r&b",
+    "soul"
+   ],
+   "votes": 963,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "neu-radio",
+   "name": "NEU RADIO",
+   "url": "https://www.neuradio.it/",
+   "stream": "https://nr9.newradio.it/proxy/ebaruffa?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "alternative",
+    "ambient",
+    "electronic",
+    "funk",
+    "house",
+    "jazz",
+    "music",
+    "reggae",
+    "soul"
+   ],
+   "votes": 945,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-dance",
+   "name": "One Dance",
+   "url": "https://onedance.fm/",
+   "stream": "https://ice04.fluidstream.net/rn1_2.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance",
+    "reggaeton"
+   ],
+   "votes": 890,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lolli-radio-dance",
+   "name": "Lolli Radio Dance",
+   "url": "http://www.lolliradio.net/",
+   "stream": "https://stream.lolliradio.net/lolli_dance.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 824,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italia-italia-90",
+   "name": "ITALIA Italia 90",
+   "url": "http://www.unitedmusic.it/",
+   "stream": "https://icy.unitedradio.it/um018.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "90s"
+   ],
+   "votes": 757,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-rockstar-queen",
+   "name": "Virgin Radio Rockstar: Queen",
+   "url": "https://www.virginradio.it/sezioni/1981/music-star-queen",
+   "stream": "https://icy.unitedradio.it/Virgin_05.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 702,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-music-star-george-michael",
+   "name": "RMC Music Star George Michael",
+   "url": "https://www.radiomontecarlo.net/sezioni/11757/music-star-george-michael",
+   "stream": "https://icy.unitedradio.it/MusicStarPrince.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 695,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-company",
+   "name": "Radio Company",
+   "url": "https://www.radiocompany.com/",
+   "stream": "https://sphera.fluidstream.eu/company.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "hits"
+   ],
+   "votes": 646,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gamma-radio-golden-hits",
+   "name": "Gamma Radio - Golden Hits",
+   "url": "https://www.gammaradio.it/",
+   "stream": "https://rn2.fluidstream.eu/gammaradio.mp3?FLID=1&type=.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 593,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italia-italia-60",
+   "name": "ITALIA Italia 60",
+   "url": "http://www.unitedmusic.it/",
+   "stream": "https://icy.unitedradio.it/um014.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "60s"
+   ],
+   "votes": 562,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forever-80",
+   "name": "FOREVER 80",
+   "url": "https://forever80.altervista.org/",
+   "stream": "https://stream.laut.fm/forever80",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "80s",
+    "dance"
+   ],
+   "votes": 560,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-relax-italia",
+   "name": "RADIO RELAX Italia",
+   "url": "https://radiorel.ax/",
+   "stream": "https://radiorelax.streamingmedia.it/play",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Lombardia",
+   "genre": [
+    "80s",
+    "90s",
+    "easy-listening",
+    "relax",
+    "relaxing",
+    "romantic"
+   ],
+   "votes": 542,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cavolo",
+   "name": "Radio Cavolo",
+   "url": "https://www.radiocavolo.org/",
+   "stream": "https://radiocavolo.org/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "electronic",
+    "pop",
+    "rock"
+   ],
+   "votes": 523,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-music-star-pino-daniele",
+   "name": "RMC Music Star Pino Daniele",
+   "url": "https://www.radiomontecarlo.net/sezioni/10487/music-star-pino-daniele",
+   "stream": "https://icy.unitedradio.it/Daniele.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 469,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-star-franco-battiato",
+   "name": "Music Star Franco Battiato",
+   "url": "https://www.radiomontecarlo.net/sezioni/12144/music-star-franco-battiato",
+   "stream": "https://icy.unitedradio.it/um057.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 458,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-70-80-90-dance-marche",
+   "name": "Radio 70 80 90 Dance Marche",
+   "url": "https://www.radio708090.it/diretta-dance/",
+   "stream": "https://rblive.it:8060/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "state": "Marche",
+   "genre": [
+    "dance",
+    "oldies"
+   ],
+   "votes": 437,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-r-b",
+   "name": "RMC R&B",
+   "url": "https://www.radiomontecarlo.net/sezioni/12052/radio-monte-carlo-r-b",
+   "stream": "https://icy.unitedradio.it/rmcweb003",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "r&b"
+   ],
+   "votes": 429,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "globo-vintage",
+   "name": "Globo Vintage",
+   "url": "http://www.globovintage.it/",
+   "stream": "https://m100.newradio.it/m100-64",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits"
+   ],
+   "votes": 418,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nature-radio-sleep",
+   "name": "NATURE RADIO SLEEP",
+   "url": "https://natureradiosleep.weebly.com/",
+   "stream": "https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "ambient",
+    "easy-listening",
+    "relax"
+   ],
+   "votes": 408,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-rockstar-bon-jovi",
+   "name": "Virgin Radio Rockstar: Bon Jovi",
+   "url": "https://www.virginradio.it/sezioni/12080/rockstar-bon-jovi",
+   "stream": "https://icy.unitedradio.it/um1027.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 398,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deegay-pop-dance",
+   "name": "DeeGay Pop & Dance",
+   "url": "https://www.deegay.fm/",
+   "stream": "https://stream.deegay.fm/deegay1.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 391,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "70-80-90",
+   "name": "70 80 90",
+   "url": "https://www.radio708090.it/",
+   "stream": "https://rblive.it:8170/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 382,
+   "clicks": 59,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lolli-radio-hits",
+   "name": "Lolli Radio Hits",
+   "url": "http://www.lolliradio.net/",
+   "stream": "https://stream.lolliradio.net/lolli_hits.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "hits",
+    "top-40"
+   ],
+   "votes": 377,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italia-rock-italiano",
+   "name": "ITALIA Rock Italiano",
+   "url": "http://www.unitedmusic.it/",
+   "stream": "https://icy.unitedradio.it/um076.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "rock"
+   ],
+   "votes": 370,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deegay-classic",
+   "name": "DeeGay Classic",
+   "url": "https://www.deegay.fm/",
+   "stream": "https://stream.deegay.fm/deegay2.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 355,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rai-radiodue",
+   "name": "Rai RadioDue",
+   "url": "https://www.raiplaysound.it/radio2",
+   "stream": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 330,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-easy-rock",
+   "name": "Radio Easy Rock",
+   "url": "https://www.radioeasyrock.it/",
+   "stream": "https://sphera.fluidstream.eu/easyrock.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 309,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deegay-club",
+   "name": "DeeGay Club",
+   "url": "https://www.deegay.fm/",
+   "stream": "https://stream.deegay.fm/deegay3.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 293,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-music-star-coldplay",
+   "name": "RMC Music Star Coldplay",
+   "url": "https://www.radiomontecarlo.net/sezioni/10489/music-star-coldplay",
+   "stream": "https://icy.unitedradio.it/ColdPlay.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 290,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-italia-anni-60-emilia-romagna-e-marche",
+   "name": "Radio Italia Anni 60 (Emilia-Romagna e Marche)",
+   "url": "https://radioitaliaannisessanta.it/",
+   "stream": "https://ice04.fluidstream.net/ria60_bo.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 288,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "milano-xr",
+   "name": "Milano XR",
+   "url": "http://milanoxr.weebly.com/",
+   "stream": "https://milanoxr.gatesweb.info:8443/live",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 265,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "china-fm-fm89-5",
+   "name": "华夏之声China FM·意大利罗马FM89.5",
+   "url": "https://chinafm.es/",
+   "stream": "https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Roma",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 263,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-network-jazz-soul",
+   "name": "Easy Network Jazz & Soul",
+   "url": "https://www.easynetwork.fm/",
+   "stream": "https://sphera.fluidstream.eu/easy_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "jazz",
+    "soul"
+   ],
+   "votes": 260,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rai-isoradio",
+   "name": "Rai Isoradio",
+   "url": "https://www.raiplaysound.it/isoradio",
+   "stream": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 237,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forever-70",
+   "name": "FOREVER 70",
+   "url": "https://forever80.altervista.org/",
+   "stream": "https://stream.laut.fm/forever70",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "70s",
+    "dance",
+    "pop"
+   ],
+   "votes": 235,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italo-disco",
+   "name": "Italo Disco",
+   "url": "https://top-radio.ru/",
+   "stream": "https://italo-disco.stream.laut.fm/italo-disco",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 225,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-music-star-tiziano-ferro",
+   "name": "RMC Music Star Tiziano Ferro",
+   "url": "https://www.radiomontecarlo.net/sezioni/10491/music-star-tiziano-ferro",
+   "stream": "https://icy.unitedradio.it/Ferro.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 204,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dimensione-relax",
+   "name": "RADIO DIMENSIONE RELAX",
+   "url": "https://rdastation.it/",
+   "stream": "https://az1.mediacp.eu/listen/radiodimensionerelax/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "englisg",
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "jazz",
+    "lounge",
+    "relax",
+    "smooth-jazz"
+   ],
+   "votes": 198,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "united-music-cinema",
+   "name": "United Music Cinema",
+   "url": "https://www.unitedmusic.com/",
+   "stream": "https://icy.unitedradio.it/um058.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "soundtrack"
+   ],
+   "votes": 194,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-international",
+   "name": "Radio International",
+   "url": "https://www.radiointernationalstore.it/",
+   "stream": "https://ice08.fluidstream.net/fluid813.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 187,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nbc-milano",
+   "name": "NBC Milano",
+   "url": "https://www.nbcmilano.it/",
+   "stream": "https://nr7.newradio.it:19350/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Milano",
+   "genre": [
+    "greatest-hits",
+    "top-40"
+   ],
+   "votes": 172,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forever-90",
+   "name": "FOREVER 90",
+   "url": "https://forever80.altervista.org/",
+   "stream": "https://stream.laut.fm/forever90",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "90s",
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 169,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-volami-nel-cuore",
+   "name": "Radio Volami nel Cuore",
+   "url": "https://canaleitalia.it/radio/radio-volami-nel-cuore/",
+   "stream": "https://rci.canaleitalia.tv:8009/;",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "classic-rock",
+    "greatest-hits",
+    "love-songs",
+    "pop",
+    "rock",
+    "top-hits"
+   ],
+   "votes": 167,
+   "clicks": 41,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-digitalia-ricordi",
+   "name": "Radio Digitalia - Ricordi",
+   "url": "https://www.radiodigitalia.net/",
+   "stream": "https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "oldies"
+   ],
+   "votes": 163,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italo-sound-radio",
+   "name": "Italo Sound Radio",
+   "url": "https://italosound.com/",
+   "stream": "https://icecast.italosound.com/italosound",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 158,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marte",
+   "name": "Radio Marte",
+   "url": "",
+   "stream": "https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 158,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-company-reggaetown",
+   "name": "Radio Company Reggaetown",
+   "url": "https://www.radiocompany.com/",
+   "stream": "https://sphera.fluidstream.eu/companyreggaetown.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "reggaeton"
+   ],
+   "votes": 146,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "electrolounge-milano",
+   "name": "Electrolounge Milano",
+   "url": "https://electrolounge.eu/",
+   "stream": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2026-08-22_00-01-09&uuid=af2e6bb8-a259-4e30-bf7a-1aceeaf302c9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "chillout",
+    "electronic",
+    "lounge"
+   ],
+   "votes": 145,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "italia-news-24",
+   "name": "Italia News 24",
+   "url": "https://www.italianews24.news/",
+   "stream": "https://stream6.xdevel.com/audio6s975889-649/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "music"
+   ],
+   "votes": 145,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "105-miami",
+   "name": "105 Miami",
+   "url": "https://www.105.net/sezioni/748/105-miami",
+   "stream": "https://icy.unitedradio.it/105Miami.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance",
+    "house",
+    "rap"
+   ],
+   "votes": 137,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lolli-radio-soul",
+   "name": "Lolli Radio Soul",
+   "url": "https://www.lolliradio.net/",
+   "stream": "https://stream.lolliradio.net/lolli_soul.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "r&b",
+    "soul"
+   ],
+   "votes": 132,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-60-70-80",
+   "name": "Radio 60 70 80",
+   "url": "https://www.607080.it/",
+   "stream": "https://ice.studiopiu.net/607080.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s"
+   ],
+   "votes": 131,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forever-80-pop",
+   "name": "FOREVER 80-POP",
+   "url": "https://forever80.altervista.org/",
+   "stream": "https://stream.laut.fm/forever80-pop",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "80s",
+    "pop"
+   ],
+   "votes": 128,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-legends",
+   "name": "Radio Legends",
+   "url": "https://radiolegends.com/",
+   "stream": "https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Roma",
+   "genre": [
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 124,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rock-106-6",
+   "name": "Radio Rock 106.6",
+   "url": "https://radiorock.it/",
+   "stream": "https://rrock.fluidstream.eu/radiorock.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 117,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-classica",
+   "name": "Radio Classica",
+   "url": "https://www.radioclassica.fm/",
+   "stream": "https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 115,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-italy",
+   "name": "Virgin Radio Italy",
+   "url": "https://www.virginradio.it/web-radio/virgin-radio-on-air/",
+   "stream": "https://icy.unitedradio.it/Virgin.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 115,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "funky-radio-classic-funk-only",
+   "name": "Funky Radio - Classic Funk Only",
+   "url": "https://funky.radio/",
+   "stream": "https://my.streamingmedia.it/listen/discofunk/play",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "funk"
+   ],
+   "votes": 113,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rouge-country-hits",
+   "name": "Radio Rouge Country Hits",
+   "url": "https://radiorouge.com/",
+   "stream": "https://uk1.streamingpulse.com/ssl/RadioRougeCountry",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Campania",
+   "genre": [
+    "country"
+   ],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mambo",
+   "name": "Radio Mambo",
+   "url": "https://www.mambo.it/",
+   "stream": "https://mambo.newradio.it/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "latin"
+   ],
+   "votes": 104,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "futura-fm-hd-ogg",
+   "name": "Futura FM (HD OGG)",
+   "url": "https://futura.fm/",
+   "stream": "https://futura.fm/stream.ogg",
+   "codec": "ogg",
+   "bitrate": 1500,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Costa Serina",
+   "genre": [
+    "80s"
+   ],
+   "votes": 103,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-precisa-i-piu-trasmessi-dal-1975-ad-oggi",
+   "name": "RADIO PRECISA I più trasmessi dal 1975 ad oggi",
+   "url": "http://www.radioprecisa.it/",
+   "stream": "https://rprecisa.radioca.st/radioprecisa",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 102,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stella-toscana",
+   "name": "Radio Stella Toscana",
+   "url": "https://radiostella.it/",
+   "stream": "https://stream4.xdevel.com/audio0s975906-620/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 102,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-wow-black",
+   "name": "Radio WoW Black",
+   "url": "https://radiowow.com/",
+   "stream": "https://sphera.fluidstream.eu/rwow_black.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "r&b",
+    "rap",
+    "soul"
+   ],
+   "votes": 102,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skyline-jazz",
+   "name": "Skyline Jazz",
+   "url": "https://www.skyline.it/",
+   "stream": "https://rblive.it:8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Marche",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 102,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "subasio-xl",
+   "name": "Subasio XL",
+   "url": "https://www.radiosubasio.it/",
+   "stream": "https://icy.unitedradio.it/SubasioXL.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Umbria",
+   "genre": [
+    "pop"
+   ],
+   "votes": 100,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-saba-sound",
+   "name": "Radio Saba Sound",
+   "url": "https://www.radiosabasound.com/",
+   "stream": "https://stream3.xdevel.com/audio0s975496-187/stream/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Abruzzo",
+   "genre": [
+    "pop"
+   ],
+   "votes": 96,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-padova-history",
+   "name": "Radio Padova History",
+   "url": "https://www.radiopadova.com/",
+   "stream": "https://sphera.fluidstream.eu/rpd_history.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 93,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-company-global-house",
+   "name": "Radio Company Global House",
+   "url": "https://www.radiocompany.com/",
+   "stream": "https://sphera.fluidstream.eu/companyhouse.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 92,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-esercito",
+   "name": "Radio Esercito",
+   "url": "https://www.esercito.difesa.it/radio-esercito",
+   "stream": "https://radio.esercito.difesa.it:8000/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-n-roll-radio",
+   "name": "Rock'n'Roll Radio",
+   "url": "https://www.rocknrollradio.it/",
+   "stream": "https://nr14.newradio.it:8643/stream?ext=.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Milano",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 90,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-delfino",
+   "name": "Radio Delfino",
+   "url": "https://radiodelfino.com/",
+   "stream": "https://nr8.newradio.it/proxy/emaamo00?mp=/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 86,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tirol",
+   "name": "Radio Tirol",
+   "url": "https://www.radiotirol.it/",
+   "stream": "https://stream.radiotirol.it/live/aac-64/app/",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Bolzano",
+   "genre": [
+    "hits",
+    "schlager"
+   ],
+   "votes": 84,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "viniles-radio",
+   "name": "Viniles Radio",
+   "url": "https://vinilesradio.it/",
+   "stream": "https://s3.radio.co/sfaf3f1f4a/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Marche",
+   "genre": [
+    "house",
+    "lounge"
+   ],
+   "votes": 82,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "time-dance-fm",
+   "name": "Time Dance FM",
+   "url": "https://www.timedancefm.it/",
+   "stream": "https://eu8.fastcast4u.com/proxy/timedancefm?mp=/1",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Friuli-Venezia Giulia",
+   "genre": [
+    "dance"
+   ],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dreamland",
+   "name": "Radio Dreamland",
+   "url": "http://www.radiodreamland.it/",
+   "stream": "https://dreamsiteradiocp3.com/proxy/dreamland?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Piemonte",
+   "genre": [
+    "music"
+   ],
+   "votes": 79,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "70-80-it",
+   "name": "70-80.it",
+   "url": "https://www.70-80.it/",
+   "stream": "https://onair18.xdevel.com/proxy/7080it?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "70s",
+    "80s"
+   ],
+   "votes": 78,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canale-italia",
+   "name": "Canale Italia+",
+   "url": "https://canaleitalia.it/radio/radio-canale-italia/",
+   "stream": "https://rci.canaleitalia.tv:8005/;",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 78,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "musica-jazz-radio",
+   "name": "Musica Jazz Radio",
+   "url": "https://www.musicajazz.it/radio/",
+   "stream": "https://ice03.fluidstream.net/mjr.aac?FLID=1",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 78,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mc2",
+   "name": "MC2",
+   "url": "https://www.rmc2.net/webradio/rmc2/",
+   "stream": "https://stream.rcs.revma.com/fxp289cp81uvv.xspf",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "lounge"
+   ],
+   "votes": 76,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-70-80-90-rock",
+   "name": "Radio 70 80 90 Rock",
+   "url": "https://www.radio708090.it/",
+   "stream": "https://rblive.it:8090/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Marche",
+   "genre": [
+    "rock"
+   ],
+   "votes": 75,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-and-italy",
+   "name": "easy and italy",
+   "url": "https://www.easyanditaly.com/",
+   "stream": "https://futura.fm/stream.ogg?ts=1723791202.627",
+   "codec": "ogg",
+   "bitrate": 1500,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 73,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-company-90",
+   "name": "Radio Company 90",
+   "url": "https://www.radiocompany.com/",
+   "stream": "https://sphera.fluidstream.eu/company90.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "90s"
+   ],
+   "votes": 73,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rock-italia",
+   "name": "Radio Rock Italia",
+   "url": "https://radiorock.it/",
+   "stream": "https://rrock.fluidstream.eu/radiorock_ita.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 73,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rmc-radio-bau-co",
+   "name": "RMC Radio Bau & Co",
+   "url": "https://www.radiomontecarlo.net/sezioni/10494/radio-bau-co",
+   "stream": "https://icy.unitedradio.it/RadioBAU.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sintony",
+   "name": "Radio Sintony",
+   "url": "https://www.sintony.it/",
+   "stream": "https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 71,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-studio-nord-80-energia",
+   "name": "Radio Studio Nord 80 Energia",
+   "url": "https://www.rsn.it/",
+   "stream": "https://nr6.newradio.it:19393/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Friuli-Venezia Giulia",
+   "genre": [
+    "80s"
+   ],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rocket-radio-1",
+   "name": "Rocket Radio 1",
+   "url": "https://rocketradiolive.com/",
+   "stream": "https://stream.radiojar.com/nvvyes7gud5tv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bologna",
+   "genre": [
+    "ambient",
+    "downtempo",
+    "electronica",
+    "funk",
+    "hip-hop",
+    "house",
+    "techno"
+   ],
+   "votes": 70,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-news",
+   "name": "Radio News",
+   "url": "https://www.italianews24.news/",
+   "stream": "https://stream5.xdevel.com/audio5s975889-479/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "music"
+   ],
+   "votes": 69,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-padova-country",
+   "name": "Radio Padova Country",
+   "url": "https://www.radiopadova.com/",
+   "stream": "https://sphera.fluidstream.eu/rpd_country.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "country"
+   ],
+   "votes": 66,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mantova",
+   "name": "Radio Mantova",
+   "url": "https://www.radiomantova.it/",
+   "stream": "https://onair20.xdevel.com/proxy/radiomantova?mp=/stream/;",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-network-classic",
+   "name": "Easy Network Classic",
+   "url": "https://www.easynetwork.fm/",
+   "stream": "https://sphera.fluidstream.eu/easy_classica.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "classical"
+   ],
+   "votes": 60,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-core-de-roma",
+   "name": "Radio Core de Roma",
+   "url": "https://www.radiocorederoma.it/",
+   "stream": "https://sr14.inmystream.it:8210/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 56,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rsc-radio-studio-centrale",
+   "name": "RSC Radio Studio Centrale",
+   "url": "https://www.studiocentrale.it/",
+   "stream": "https://stream.studiocentrale.it/radio/8020/radio.mp3?_=1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Sicilia",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 56,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtr-99-radio-pop-e-rock",
+   "name": "RTR 99 Radio Pop e Rock",
+   "url": "https://rtr99.it/",
+   "stream": "https://rtr99.fluidstream.eu/rtr99_poprock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bruno-brescia",
+   "name": "Radio Bruno Brescia",
+   "url": "https://www.radiobrunobrescia.it/",
+   "stream": "https://stream1.xdevel.com/audio1s975758-318/stream/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 54,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-company-fitness",
+   "name": "Radio Company Fitness",
+   "url": "https://www.radiocompany.com/",
+   "stream": "https://sphera.fluidstream.eu/companyfitness.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 54,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dance-anni-90",
+   "name": "RADIO DANCE anni 90",
+   "url": "https://www.radio.dance/",
+   "stream": "https://radiodance.streamingmedia.it/it.aac",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Piemonte",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 54,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-evangelo-piemonte",
+   "name": "RADIO EVANGELO PIEMONTE",
+   "url": "https://radioevangelo.it/",
+   "stream": "https://dreamsiteradiocp3.com/proxy/radioevangelo?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 51,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-raheem",
+   "name": "Radio Raheem",
+   "url": "https://www.radioraheem.it/",
+   "stream": "https://radioraheem.out.airtime.pro/radioraheem_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Milano",
+   "genre": [
+    "ambient",
+    "downtempo",
+    "electronic",
+    "hip-hop",
+    "latin",
+    "pop"
+   ],
+   "votes": 49,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m2o-originals-radio",
+   "name": "m2o originals radio",
+   "url": "https://m2ooriginals.wixsite.com/my-site",
+   "stream": "https://stream.laut.fm/m2o-originals-radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "dance-music",
+    "musica"
+   ],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forever-rock",
+   "name": "FOREVER ROCK",
+   "url": "https://forever80.altervista.org/",
+   "stream": "https://stream.laut.fm/foreverrock",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop-rock"
+   ],
+   "votes": 44,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cron",
+   "name": "Radio Cron",
+   "url": "https://radiocron.altervista.org/",
+   "stream": "https://cron.stream.laut.fm/cron",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "anime"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-linea-love",
+   "name": "Radio Linea Love",
+   "url": "https://www.radiolinea.it/",
+   "stream": "https://rblive.it:8120//radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Marche",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 43,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-skyline",
+   "name": "Radio Skyline",
+   "url": "https://www.skyline.it/",
+   "stream": "https://rblive.it:8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Marche",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 43,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-furgoncino",
+   "name": "Radio Furgoncino",
+   "url": "https://www.radiofurgoncino.xyz/",
+   "stream": "https://stream.radiojar.com/sf65dpxy9vzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "it"
+   ],
+   "genre": [
+    "blues",
+    "hip-hop",
+    "jazz",
+    "metal",
+    "rap",
+    "reggae",
+    "rnb",
+    "soul"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veneto-radio",
+   "name": "Veneto Radio",
+   "url": "https://www.venetoradio.it/",
+   "stream": "https://sr11.inmystream.it/proxy/paolo1?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "pop"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-classic-rock",
+   "name": "Virgin Radio Classic Rock",
+   "url": "https://www.virginradio.it/web-radio/virgin-radio-classic-rock/",
+   "stream": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 41,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-firenze-95-4",
+   "name": "Radio Firenze 95.4",
+   "url": "",
+   "stream": "https://sr14.inmystream.it/stream/radiofirenze/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-romeo-juliet",
+   "name": "Radio Romeo & Juliet",
+   "url": "https://radioromeoandjuliet.it/",
+   "stream": "https://onair7.xdevel.com/proxy/xautocloud_vovi_2030?mp=/;1/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "genre": [
+    "electronic",
+    "house",
+    "techno"
+   ],
+   "votes": 39,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-studio-104",
+   "name": "Radio Studio 104",
+   "url": "https://www.radiostudio104.com/",
+   "stream": "https://onair7.xdevel.com/proxy/xautocloud_v8ss_1328?mp=/;1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Sicily",
+   "genre": [
+    "pop",
+    "rock",
+    "soul",
+    "jazz",
+    "funk"
+   ],
+   "votes": 39,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenna-web-assisi",
+   "name": "_Antenna Web Assisi",
+   "url": "http://www.antennaradio.it/",
+   "stream": "https://italiavera.radioca.st/stream?type=http&nocache=296",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "it"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-san-luchino",
+   "name": "Radio San Luchino",
+   "url": "https://www.radiosanluchino.it/",
+   "stream": "https://ssl.audio1.meway.tv/proxy/sanluchino?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "musica"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gioconda",
+   "name": "Radio Gioconda",
+   "url": "https://radiogioconda.it/",
+   "stream": "https://eu7.fastcast4u.com/proxy/radiofvg?mp=/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-centrale-montorio-al-vomano",
+   "name": "Radio Centrale - Montorio al Vomano",
+   "url": "http://offline.radiocentrale.info/",
+   "stream": "https://s1.forstream.it:8070/radiocentrale.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fresh",
+   "name": "Radio Fresh",
+   "url": "https://www.radiofresh.it/",
+   "stream": "https://radiofresh.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Emilia-Romagna",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rouge-fm",
+   "name": "Radio Rouge FM",
+   "url": "https://radiorouge.com/",
+   "stream": "https://nl1.streamingpulse.com/ssl/radiorouge993",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Campania",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "toradio",
+   "name": "TOradio",
+   "url": "https://toradio.it/",
+   "stream": "https://nr5.newradio.it/proxy/fsrls?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Piemonte",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 33,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-company-rock",
+   "name": "Radio Company Rock",
+   "url": "https://www.radiocompany.com/",
+   "stream": "https://sphera.fluidstream.eu/companyrock.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "edm-radio-electronic-dance-music",
+   "name": "EDM RADIO Electronic Dance Music",
+   "url": "https://edm.radio/",
+   "stream": "https://edm.streamingmedia.it/play",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lombardia",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 31,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-monte-carlo-fm",
+   "name": "Radio Monte Carlo FM",
+   "url": "https://www.radiomontecarlo.net/radio-onair/",
+   "stream": "https://icy.unitedradio.it/RMC.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tour",
+   "name": "RADIO TOUR",
+   "url": "http://radiotour.fm/",
+   "stream": "https://radiotour.streamingmedia.it/play.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Lazio",
+   "genre": [
+    "classic-hits",
+    "pop-music"
+   ],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-rock-ballads",
+   "name": "Virgin Radio Rock Ballads",
+   "url": "https://www.virginradio.it/web-radio/virgin-radio-rock-ballads/",
+   "stream": "https://icy.unitedradio.it/Virgin_06.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-dancefloor-90s",
+   "name": "Radio Dancefloor 90s",
+   "url": "https://www.radiodancefloor.it/",
+   "stream": "https://audio.radiodancefloor.it/dancefloor.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-supersound",
+   "name": "Radio Supersound",
+   "url": "https://www.radiosupersound.it/",
+   "stream": "https://ssl2.azotosolutions.com:1010/1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdr-rainbow-diversamente-radio",
+   "name": "RDR Rainbow Diversamente Radio",
+   "url": "https://rainboweb.blogspot.com/",
+   "stream": "https://rdrtv.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Campania",
+   "genre": [
+    "music"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-base-venezia",
+   "name": "Radio Base Venezia",
+   "url": "https://radiobasevenezia.net/",
+   "stream": "https://sr11.inmystream.it/proxy/radiobase?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "margherita-giovane",
+   "name": "Margherita Giovane",
+   "url": "https://www.radiomargherita.com/",
+   "stream": "https://streaming.radiomargherita.com/stream/radiomargheritagiovane",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-x",
+   "name": "Radio X",
+   "url": "https://www.radiox.it/",
+   "stream": "https://eu2.fastcast4u.com/proxy/radiox?mp=/1",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Sardegna",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-utopia-firenze",
+   "name": "Radio Utopia Firenze",
+   "url": "https://www.radioutopia.biz/",
+   "stream": "https://nr12.newradio.it:8624/stream?ext=.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-inferno-channel",
+   "name": "Disco Inferno Channel",
+   "url": "https://www.rmc2.net/webradio/mc2_disco_inferno/",
+   "stream": "https://stream.rcs.revma.com/7akzxppp81uvv.xspf",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "70s"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-wow-latin",
+   "name": "Radio WoW Latin",
+   "url": "https://radiowow.com/",
+   "stream": "https://sphera.fluidstream.eu/rwow_latin.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Veneto",
+   "genre": [
+    "latin"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "controradio",
+   "name": "Controradio",
+   "url": "https://www.controradio.it/",
+   "stream": "https://s4.yesstreaming.net:17199/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Toscana,Firenze,Florence",
+   "genre": [
+    "blues",
+    "jazz",
+    "rock",
+    "soul"
+   ],
+   "votes": 24,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cittadella",
+   "name": "Radio Cittadella",
+   "url": "https://www.radiocittadella.it/",
+   "stream": "https://nr14.newradio.it:8960/stream?ext=.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-station-one",
+   "name": "Radio Station One",
+   "url": "https://www.stationone.it/",
+   "stream": "https://sr10.inmystream.it/proxy/bwrso?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-studio-nord-rock-cafe",
+   "name": "Radio Studio Nord Rock Cafè",
+   "url": "https://www.rsn.it/",
+   "stream": "https://nr6.newradio.it:19363/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Friuli-Venezia Giulia",
+   "genre": [
+    "rock"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rvs-radio-villa-sound",
+   "name": "RVS Radio Villa Sound",
+   "url": "http://www.villasound.net/",
+   "stream": "https://eu4.fastcast4u.com/proxy/lmarengo?mp=/;",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Piemonte",
+   "genre": [
+    "pop"
+   ],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-2000",
+   "name": "Radio 2000",
+   "url": "https://www.radio2000.it/",
+   "stream": "https://stream.radio2000.it/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Trentino-Alto Adige/Südtirol",
+   "genre": [
+    "oldies",
+    "schlager"
+   ],
+   "votes": 23,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-antenna-petrignano",
+   "name": "Radio Antenna Petrignano",
+   "url": "https://www.radioantennapetrignano.it/",
+   "stream": "https://italiavera.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Umbria",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

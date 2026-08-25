@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 group-title="Finland" tvg-genre="music",Sveriges Radio - SR Sisuradio
+https://live1.sr.se/finska-aac-320
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",YleX
+https://icecast.live.yle.fi/radio/YleX/icecast.audio
+#EXTINF:-1 group-title="Finland" tvg-genre="dance,electronic,house,lounge,trance",Doubleclap Radio
+https://s3.radio.co/scfd7273b2/listen
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",POPfm
+https://stream.madmenmedia.se/popfm
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",NRJ
+https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",Radio Nova
+https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland" tvg-genre="classical",Yle Klassinen
+https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio
+#EXTINF:-1 group-title="Finland" tvg-genre="rap",Basso
+https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",Kiss
+https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland" tvg-genre="90s,pop",Ysäri
+https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",TOP51
+https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland" tvg-genre="music,pop",Radio Tuottaja1
+https://kaupunkiradio.radiotaajuus.fi:9013/radio
+#EXTINF:-1 group-title="Finland" tvg-genre="dance,pop,top-40",Sea FM
+https://s3.myradiostream.com/4976/listen.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="classic-rock,country,rock",Roll FM
+https://rollfm.online/
+#EXTINF:-1 group-title="Finland" tvg-genre="classical",Rondo Classic Klasu Pro
+https://iradio.fi/klasupro.flac
+#EXTINF:-1 group-title="Finland" tvg-genre="classical",Rondo Classic Klasu
+https://iradio.fi/klasu.flac
+#EXTINF:-1 group-title="Finland" tvg-genre="hits,pop,rock",Radio City
+https://streaming.radioplay.fi/fi_radiocity_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="alternative,electronic",IDA Radio
+https://broadcast.idaidaida.net:8000/stream
+#EXTINF:-1 group-title="Finland" tvg-genre="dance,hits,pop",Pride Radio
+https://streaming.radioplay.fi/fi_pride_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="music",Radio Soho
+https://sohostream.djonline.fi:8008/radio
+#EXTINF:-1 group-title="Finland" tvg-genre="hip-hop,rap",SuomiRap
+https://streaming.radioplay.fi/fi_suomirap_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="alternative,indie",FinnRadio
+https://servidor39-5.brlogic.com:7076/live
+#EXTINF:-1 group-title="Finland" tvg-genre="adult-contemporary,pop,rock",Radio Auran Aallot
+https://streaming.radioplay.fi/fi_auranaallot_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="classical,instrumental",Radio Classic
+https://streaming.radioplay.fi/fi_classic_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="pop",Karjalainen Syke
+https://radio.diks.fi/karjalainensyke
+#EXTINF:-1 group-title="Finland" tvg-genre="pop,rock",Radio Mega
+https://streaming.radioplay.fi/fi_radiomega_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="hits,pop",Tekoälyradio
+https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
+#EXTINF:-1 group-title="Finland" tvg-genre="80s,90s",Vömba FM
+https://c4.radioboss.fm:18123/live
+#EXTINF:-1 group-title="Finland",Radio Voima
+https://cast2.radiovoima.fi/voima.mp3
+#EXTINF:-1 group-title="Finland",Järviradio
+https://jarviradio.radiotaajuus.fi:9000/jr
+#EXTINF:-1 group-title="Finland",Radio Santa Claus
+https://streaming.radiostreamlive.com/radiosantaclaus_devices
+#EXTINF:-1 group-title="Finland",Tick Tock Radio - 1950
+https://streaming.ticktock.radio/tt/1950/icecast.audio
+#EXTINF:-1 group-title="Finland",Radio Helsinki 98,5 Mhz
+https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1787325930&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
+#EXTINF:-1 group-title="Finland",Nostalgia
+https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland",Yle Vega Österbotten
+https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio
+#EXTINF:-1 group-title="Finland",YleRadioSuomiTampere
+https://icecast.live.yle.fi/radio/YleTampere/icecast.audio
+#EXTINF:-1 group-title="Finland",Kasari
+https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland",YLE radio Suomi, Jyväskylä
+https://icecast.live.yle.fi/radio/YleJKL/icecast.audio
+#EXTINF:-1 group-title="Finland",Yle Radio Suomi, Mikkeli
+https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio
+#EXTINF:-1 group-title="Finland",Savon Aallot
+https://cast.savonaallot.fi/savonaallot
+#EXTINF:-1 group-title="Finland",Radio Keskisuomalainen
+https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen
+#EXTINF:-1 group-title="Finland",Tampereen Kiakkoradio: Tappara
+https://st.downtime.fi/kiakko-tappara.aac
+#EXTINF:-1 group-title="Finland",YLE Radio Suomi Hämeenlinna
+https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio
+#EXTINF:-1 group-title="Finland",Yle Radio Suomi - Pori
+https://icecast.live.yle.fi/radio/YlePori/icecast.audio
+#EXTINF:-1 group-title="Finland",Yle Vega Västnyland
+https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio
+#EXTINF:-1 group-title="Finland",Radio Patmos
+https://s3.yesstreaming.net:7011/radio
+#EXTINF:-1 group-title="Finland",Ålands Radio
+https://stream.alandsradio.ax/stream.ogg
+#EXTINF:-1 group-title="Finland",Yle Radio Suomi, Kuopio
+https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio
+#EXTINF:-1 group-title="Finland",Yle Radio Suomi, Kotka
+https://icecast.live.yle.fi/radio/YleKotka/icecast.audio
+#EXTINF:-1 group-title="Finland",Nightwish
+https://stream.pcradio.ru/Nightwish-hi
+#EXTINF:-1 group-title="Finland",Radio SUN
+https://st.downtime.fi/sun.mp3
+#EXTINF:-1 group-title="Finland",Radio 957
+https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland",Radio Pori
+https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 group-title="Finland",Radio Dei Kajaani
+https://stream.dei.fi:8443/kajaani
+#EXTINF:-1 group-title="Finland",RADIO SANDELS
+https://radiosandels.radiotaajuus.fi:9050/radio
+#EXTINF:-1 group-title="Finland",Yle radio Suomi Etelä-pohjanmaa
+https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio
+#EXTINF:-1 group-title="Finland",Yle radio Suomi Pohjanmaa
+https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio
+#EXTINF:-1 group-title="Finland",Yle radio Vega Östnyland
+https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
+#EXTINF:-1 group-title="Finland",Radio Dei Lahti
+https://stream.dei.fi:8443/lahti
+#EXTINF:-1 group-title="Finland",YleRadioSuomiLahti
+https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
+#EXTINF:-1 group-title="Finland",Keygen FM
+https://keygen-fm.kodatek.app/listen/keygen-fm/radio.mp3
+#EXTINF:-1 group-title="Finland",Radio Tempo
+https://cast.radiotempo.fi/radiotempo
+#EXTINF:-1 group-title="Finland",Yle Vega Åboland
+https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio
+#EXTINF:-1 group-title="Finland",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Finland",RadioSE.fi
+https://wr2.downtime.fi/kaakko.aac
+#EXTINF:-1 group-title="Finland",REPLAY NEWS - Suomi
+https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3
+#EXTINF:-1 group-title="Finland",FugeFM
+https://streaming.broadcast.radio/fugefm
+#EXTINF:-1 group-title="Finland",Kesäseuraradio
+https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
+#EXTINF:-1 group-title="Finland",Radio Kaakko
+https://wr2.downtime.fi/kaakko.mp3
+#EXTINF:-1 group-title="Finland",Järviradio Puhe
+https://jarviradio.radiotaajuus.fi:9000/jrpuhe
+#EXTINF:-1 group-title="Finland",Kerhoradio
+https://c40.radioboss.fm:8056/stream
+#EXTINF:-1 group-title="Finland",Yle Radio Suomi, Rovaniemi
+https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio
+#EXTINF:-1 group-title="Finland",Radio Boofi
+https://radio.iranian.fi/listen/vip/radio.mp3
+#EXTINF:-1 group-title="Finland",Radio Vaasa
+https://stream.protonbroadcast.com:8443/radiovaasa.mp3
+#EXTINF:-1 group-title="Finland",Mökkiradio
+https://stream.mokkiradio.fi:18008/mokkiradio
+#EXTINF:-1 group-title="Finland",Radio Hiekka
+https://radiohiekka.ovh:8443/stream

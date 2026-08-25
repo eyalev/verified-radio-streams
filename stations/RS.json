@@ -1,0 +1,2776 @@
+{
+ "countryCode": "RS",
+ "country": "Serbia",
+ "slug": "serbia",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/serbia/",
+ "stations": [
+  {
+   "id": "radio-lola-domaca",
+   "name": "Radio Lola - Domaca",
+   "url": "http://radiolola.rs/",
+   "stream": "https://streaming.tdiradio.com/radiolola.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 3861,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-in-beograd",
+   "name": "Radio IN Beograd",
+   "url": "https://www.radioinbeograd.rs/",
+   "stream": "https://radio3-64ssl.streaming.rs:9212/;*.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Belgrade",
+   "genre": [
+    "folk",
+    "music",
+    "pop"
+   ],
+   "votes": 1854,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-radio-beograd",
+   "name": "Rock Radio Beograd",
+   "url": "https://rockradio.rs/",
+   "stream": "https://edge9.pink.rs/rockstream/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 1011,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-90s",
+   "name": "Naxi 90s",
+   "url": "",
+   "stream": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 420,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-hype",
+   "name": "Naxi - hype",
+   "url": "",
+   "stream": "https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 293,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-blues",
+   "name": "Naxi Blues",
+   "url": "",
+   "stream": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 279,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jat-radio",
+   "name": "JAT Radio",
+   "url": "https://radiojat.rs/",
+   "stream": "https://streaming.radiojat.rs/radiojat.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 235,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tdi-bez-reklama",
+   "name": "TDI BEZ REKLAMA",
+   "url": "https://tdiradio.com/",
+   "stream": "https://streaming.tdiradio.com/tdiradiobezreklama.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "hits",
+    "oldies",
+    "pop-rock"
+   ],
+   "votes": 183,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-fitness",
+   "name": "Naxi Fitness",
+   "url": "",
+   "stream": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 127,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-radio-rock",
+   "name": "Play Radio Rock",
+   "url": "https://playradio.rs/",
+   "stream": "https://stream.playradio.rs:8443/rock.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "music",
+    "rock"
+   ],
+   "votes": 112,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-ex-yu",
+   "name": "Radio S EX YU",
+   "url": "https://www.radios.rs/digitalni-radio/10/ex-yu",
+   "stream": "https://stream.radios.rs:9042/stream",
+   "codec": "aac",
+   "bitrate": 36,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 48,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-chillwave",
+   "name": "Naxi Chillwave",
+   "url": "",
+   "stream": "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-aparat",
+   "name": "Radio Aparat",
+   "url": "https://radioaparat.rs/",
+   "stream": "https://stream4.rcast.net/72355/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 30,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-rock",
+   "name": "Radio S Rock",
+   "url": "https://www.radios.rs/digitalni-radio/12/s-rock",
+   "stream": "https://stream.radios.rs:9032/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 29,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "psychedelic-travel-radio",
+   "name": "Psychedelic Travel Radio",
+   "url": "https://www.instagram.com/dj_alchemist_official",
+   "stream": "https://e20.yesstreaming.net:6148/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zrenjanin-103-6",
+   "name": "Zrenjanin 103.6",
+   "url": "https://radiozrenjanin.rs/",
+   "stream": "https://radio.dukahosting.com:7031/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mr-chem-fm",
+   "name": "mr.chem fm",
+   "url": "https://www.mrchem-fm.com/",
+   "stream": "https://e20.yesstreaming.net:6217/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "electronic",
+    "house",
+    "techno"
+   ],
+   "votes": 24,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-futog-krajina",
+   "name": "Radio Futog Krajina",
+   "url": "https://www.radiofutog.rs/",
+   "stream": "https://centova.dukahosting.com/proxy/futog/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 23,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nas-mm-radio-97-8",
+   "name": "NAŠ MM Radio 97.8",
+   "url": "https://nasradiomm.com/",
+   "stream": "https://radio.dukahosting.com:7045/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kiss-lazarevac-106-1",
+   "name": "Radio KISS Lazarevac 106.1",
+   "url": "https://kissinfo.rs/",
+   "stream": "https://cast2.asurahosting.com/proxy/kissdoog/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-rock-ballads",
+   "name": "Radio S Rock Ballads",
+   "url": "https://www.radios.rs/digitalni-radio/59/rock-ballads",
+   "stream": "https://stream.radios.rs:9058/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-rock"
+   ],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "densomaniak-radio",
+   "name": "DENSOMANIAK Radio",
+   "url": "https://www.densomaniak.com/",
+   "stream": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "state": "Belgrade",
+   "genre": [
+    "90s"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nisville-radio",
+   "name": "Nisville Radio",
+   "url": "https://radio.nisville.com/",
+   "stream": "https://radio.nisville.com/listen/live/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Niš",
+   "genre": [
+    "funk",
+    "jazz"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-2000-te-folk",
+   "name": "Radio S 2000-te Folk",
+   "url": "https://www.radios.rs/digitalni-radio/61/2000-te-folk",
+   "stream": "https://stream.radios.rs:9060/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-millennium-radio",
+   "name": "Naxi Millennium Radio",
+   "url": "https://www.naxi.rs/millennium",
+   "stream": "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 13,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-gym",
+   "name": "Radio S Gym",
+   "url": "https://www.radios.rs/digitalni-radio/68/gym",
+   "stream": "https://stream.radios.rs:9068/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "edm",
+    "pop",
+    "rock"
+   ],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bb-radio-sombor",
+   "name": "BB Radio Sombor",
+   "url": "https://bbradio.co.rs/",
+   "stream": "https://mhpanel.mediahosting025.com/radio/8383/;",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 11,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "original-fast-radio",
+   "name": "Original Fast Radio",
+   "url": "https://worldradiobeat.com/",
+   "stream": "https://az-de-01.worldradiobeat.com/listen/originalfastradio/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Serbia",
+   "genre": [
+    "blues",
+    "country",
+    "funk",
+    "pop",
+    "reggae",
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mansionnet-radio",
+   "name": "MansionNET Radio",
+   "url": "https://radio.inthemansion.com/",
+   "stream": "https://radio.inthemansion.com/listen/mansionnet/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "electronic",
+    "metal",
+    "rock"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sombor-97-5",
+   "name": "Radio Sombor 97.5",
+   "url": "https://radiosombor.rs/",
+   "stream": "https://radio.dukahosting.com/8344/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "domus-radio",
+   "name": "Domus Radio",
+   "url": "https://domusradio.com/",
+   "stream": "https://libretime.domusradio.com/icecast/main",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-996fm",
+   "name": "Radio 996FM",
+   "url": "https://radio996fm.rs/",
+   "stream": "https://radio.en.rs/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english",
+    "serbian",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "sr"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop",
+    "pop-music",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-pop-ballads",
+   "name": "Radio S Pop Ballads",
+   "url": "https://www.radios.rs/digitalni-radio/57/pop-ballads",
+   "stream": "https://stream.radios.rs:9056/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "romantic"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-sport-urban",
+   "name": "Radio S Sport Urban",
+   "url": "https://www.radios.rs/digitalni-radio/78/sport-urban",
+   "stream": "https://stream.radios.rs:9080/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "hip-hop",
+    "pop",
+    "r&b"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-80e",
+   "name": "Radio S 80e",
+   "url": "https://www.radios.rs/digitalni-radio/48/80-e",
+   "stream": "https://stream.radios.rs:9036/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-folk-stars",
+   "name": "Radio S Folk Stars",
+   "url": "https://www.radios.rs/digitalni-radio/19/folk-stars",
+   "stream": "https://stream.radios.rs:9024/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-gold",
+   "name": "Radio S Gold",
+   "url": "https://www.radios.rs/digitalni-radio/9/gold",
+   "stream": "https://stream.radios.rs:9020/stream",
+   "codec": "aac",
+   "bitrate": 36,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s4",
+   "name": "Radio S4",
+   "url": "https://www.radios.rs/radio/21/radio-s4",
+   "stream": "https://stream.radios.rs:9006/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-2000-e",
+   "name": "Radio S 2000-e",
+   "url": "https://www.radios.rs/digitalni-radio/55/2000-e",
+   "stream": "https://stream.radios.rs:9052/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "2000s",
+    "dance",
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-jazz",
+   "name": "Radio S Jazz",
+   "url": "https://www.radios.rs/digitalni-radio/74/radio-s-jazz",
+   "stream": "https://stream.radios.rs:9076/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-sport",
+   "name": "Radio S Sport",
+   "url": "https://www.radios.rs/digitalni-radio/76/radio-s-sport",
+   "stream": "https://stream.radios.rs:9078/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-chill",
+   "name": "Radio S Chill",
+   "url": "https://www.radios.rs/digitalni-radio/15/chill",
+   "stream": "https://stream.radios.rs:9066/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "ambient",
+    "pop",
+    "relax"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-classic",
+   "name": "Radio S Classic",
+   "url": "https://www.radios.rs/digitalni-radio/72/radio-s-classic",
+   "stream": "https://stream.radios.rs:9074/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "classical",
+    "instrumental",
+    "orchestral"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-lounge",
+   "name": "Radio S Lounge",
+   "url": "https://www.radios.rs/digitalni-radio/63/lounge",
+   "stream": "https://stream.radios.rs:9062/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "chillout",
+    "lounge"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-trap-rap",
+   "name": "Radio S Trap & Rap",
+   "url": "https://www.radios.rs/digitalni-radio/17/trap-rap",
+   "stream": "https://stream.radios.rs:9030/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-radio-urban",
+   "name": "Play Radio Urban",
+   "url": "https://www.playradio.rs/",
+   "stream": "https://stream.playradio.rs:8443/urban.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-dance",
+   "name": "Radio S Dance",
+   "url": "https://www.radios.rs/digitalni-radio/14/dance",
+   "stream": "https://stream.radios.rs:9014/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-mix",
+   "name": "Radio S Mix",
+   "url": "https://www.radios.rs/digitalni-radio/43/mix",
+   "stream": "https://stream.radios.rs:9010/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "folk",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-pop-rock",
+   "name": "Radio S Pop & Rock",
+   "url": "https://www.radios.rs/digitalni-radio/8/radio-s-poprock",
+   "stream": "https://stream.radios.rs:9028/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-radio-balkan",
+   "name": "Play Radio Balkan",
+   "url": "https://www.playradio.rs/",
+   "stream": "https://stream.playradio.rs:8443/balkan.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ok-radio",
+   "name": "OK radio",
+   "url": "https://www.okradio.net/",
+   "stream": "https://sslstream.okradio.net/;?type=http&nocache=8804",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 10368,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s3-juzni",
+   "name": "Radio S3 Južni",
+   "url": "https://www.radios.rs/digitalni-radio/20/juzni",
+   "stream": "https://stream.radios.rs:9038/;*.mp3",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 5022,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-exyu-radio",
+   "name": "Naxi ExYu Radio",
+   "url": "https://www.naxi.rs/exyu",
+   "stream": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 3211,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-narodni",
+   "name": "Radio S Narodni",
+   "url": "https://www.radios.rs/digitalni-radio/18/narodni",
+   "stream": "https://stream.radios.rs:9016/;*.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 2943,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-radio-serbia",
+   "name": "Play Radio Serbia",
+   "url": "https://www.playradio.rs/",
+   "stream": "https://stream.playradio.rs:8443/play.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1692,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-80-e-radio",
+   "name": "Naxi 80-e Radio",
+   "url": "https://www.naxi.rs/80e",
+   "stream": "https://naxidigital-80s128ssl.streaming.rs:8042/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 1635,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "moj-radio",
+   "name": "Moj Radio",
+   "url": "https://www.mojradio.net/",
+   "stream": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1616,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-cafe-radio",
+   "name": "Naxi Cafe Radio",
+   "url": "https://www.naxi.rs/cafe",
+   "stream": "https://naxidigital-cafe128ssl.streaming.rs:8022/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 1245,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-boem-radio",
+   "name": "Naxi Boem Radio",
+   "url": "https://www.naxi.rs/boem",
+   "stream": "https://naxidigital-boem128ssl.streaming.rs:8162/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 1065,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-dance-radio",
+   "name": "Naxi Dance Radio",
+   "url": "",
+   "stream": "https://naxidigital-dance128ssl.streaming.rs:8112/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 902,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "resavski-radio",
+   "name": "Resavski radio",
+   "url": "https://www.resavski.rs/",
+   "stream": "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 855,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-rock-radio",
+   "name": "Naxi Rock radio",
+   "url": "https://www.naxi.rs/rock",
+   "stream": "https://naxidigital-rock128ssl.streaming.rs:8182/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 726,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-morava",
+   "name": "Radio Morava",
+   "url": "",
+   "stream": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 719,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sumadinac-juzni-vetar",
+   "name": "Radio Šumadinac Južni Vetar",
+   "url": "https://www.radiosumadinac.org/forum.php",
+   "stream": "https://media.srb-streaming.com/stream/radio-sumadinac-juzni",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 545,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pink-radio",
+   "name": "Pink Radio",
+   "url": "https://pinkradio.rs/",
+   "stream": "https://edge9.pink.rs/pinkstream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 499,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-balkan-narodna",
+   "name": "Radio Balkan Narodna",
+   "url": "https://radiobalkan.live/",
+   "stream": "https://radiobalkan.live/radio/live/narodna.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 480,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-gold-radio",
+   "name": "Naxi Gold Radio",
+   "url": "https://www.naxi.rs/gold",
+   "stream": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 461,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-radio-party",
+   "name": "Play Radio Party",
+   "url": "https://playradio.rs/",
+   "stream": "https://stream.playradio.rs:8443/party.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [],
+   "votes": 395,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "laguna",
+   "name": "Laguna",
+   "url": "https://radiolaguna.rs/",
+   "stream": "https://live.radiolaguna.rs/laguna",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 389,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rsg-radio-stari-grad",
+   "name": "RSG Radio Stari Grad",
+   "url": "",
+   "stream": "https://stream.rsg.rs/live/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 389,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-evergreen-radio",
+   "name": "Naxi Evergreen Radio",
+   "url": "https://www.naxi.rs/evergreen",
+   "stream": "https://naxidigital-evergreen128ssl.streaming.rs:8012/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 353,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-classic-radio",
+   "name": "Naxi Classic Radio",
+   "url": "https://www.naxi.rs/classic",
+   "stream": "https://naxidigital-classic128ssl.streaming.rs:8032/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 352,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-mix-radio",
+   "name": "Naxi Mix Radio",
+   "url": "https://www.naxi.rs/mix",
+   "stream": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 334,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-house-radio",
+   "name": "Naxi House Radio",
+   "url": "https://www.naxi.rs/house",
+   "stream": "https://naxidigital-house128ssl.streaming.rs:8002/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 316,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s1",
+   "name": "Radio S1",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9000/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 274,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-radio-belgrade",
+   "name": "Rock Radio Belgrade (Рок Радио Београд)",
+   "url": "https://rockradio.rs/",
+   "stream": "https://edge9.pink.rs/rockstream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [],
+   "votes": 273,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-karolina",
+   "name": "Radio Karolina",
+   "url": "https://player.karolina.rs/",
+   "stream": "https://streaming.karolina.rs/karolina.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 270,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s3-trap-and-rap",
+   "name": "Radio S3 Trap And Rap",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9030/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 266,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lotel2",
+   "name": "Lotel2",
+   "url": "https://lotel.rs/",
+   "stream": "https://s1.skeletor.rs/lotel",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 258,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sumadinac",
+   "name": "Radio Šumadinac",
+   "url": "https://www.radiosumadinac.org/forum.php",
+   "stream": "https://media.srb-streaming.com/stream/radio-sumadinac-uzivo",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 258,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-balkan-zabavna",
+   "name": "Radio Balkan Zabavna",
+   "url": "https://radiobalkan.live/",
+   "stream": "https://radiobalkan.live/radio/live/zabavna.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 251,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-hype-radio",
+   "name": "Naxi Hype Radio",
+   "url": "https://www.naxi.rs/hype",
+   "stream": "https://naxidigital-hype128ssl.streaming.rs:8272/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 240,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-latino-radio",
+   "name": "Naxi Latino Radio",
+   "url": "https://www.naxi.rs/latino",
+   "stream": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 208,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sumadinac-narodna",
+   "name": "Radio Šumadinac Narodna",
+   "url": "https://www.radiosumadinac.org/forum.php",
+   "stream": "https://media.srb-streaming.com/stream/radio-sumadinac-narodna",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 205,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-021",
+   "name": "Radio 021",
+   "url": "https://radio021.rs/",
+   "stream": "https://radio.dukahosting.com/8006/stream",
+   "codec": "aac",
+   "bitrate": 80,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 202,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-love-radio",
+   "name": "Naxi Love Radio",
+   "url": "https://www.naxi.rs/love",
+   "stream": "https://naxidigital-love128ssl.streaming.rs:8102/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 188,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-patrola-021",
+   "name": "Radio Patrola 021",
+   "url": "",
+   "stream": "https://srv.mediastriming.com/8444/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 184,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-clubbing-radio",
+   "name": "Naxi Clubbing Radio",
+   "url": "https://www.naxi.rs/clubbing",
+   "stream": "https://naxidigital-clubbing128ssl.streaming.rs:8092/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 178,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ritam-srca",
+   "name": "Radio Ritam Srca",
+   "url": "https://www.radioritamsrca.com/uzivo",
+   "stream": "https://s4.radio.co/s0f65dad2d/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 160,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rsg-relax",
+   "name": "RSG Relax",
+   "url": "",
+   "stream": "https://stream.rsg.rs/relax/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 129,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "top-fm-belgrade-106-8-mhz",
+   "name": "TOP FM Belgrade - 106,8 MHz",
+   "url": "https://www.topfm.rs/",
+   "stream": "https://topfm64ssl.streaming.rs:9287/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "state": "Belgrade",
+   "genre": [],
+   "votes": 129,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red-radio-beograd",
+   "name": "Red radio Beograd",
+   "url": "",
+   "stream": "https://stream.redradio.rs/sid=1",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 128,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s3-folk-stars",
+   "name": "Radio S3 Folk stars",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9024/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 121,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-jazz-radio",
+   "name": "Naxi Jazz Radio",
+   "url": "https://www.naxi.rs/jazz",
+   "stream": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 116,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-lounge-radio",
+   "name": "Naxi Lounge Radio",
+   "url": "",
+   "stream": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 112,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s3-narodni",
+   "name": "Radio S3 Narodni",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9016/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-fresh-radio",
+   "name": "Naxi Fresh Radio",
+   "url": "",
+   "stream": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 94,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sumadinac-krajiska",
+   "name": "Radio Šumadinac Krajiška",
+   "url": "https://www.radiosumadinac.org/forum.php",
+   "stream": "https://media.srb-streaming.com/stream/radio-sumadinac-krajiska",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fruska-gora",
+   "name": "Radio Fruska Gora",
+   "url": "",
+   "stream": "https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 81,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm",
+   "name": "Kiss FM",
+   "url": "https://kissinfo.rs/",
+   "stream": "https://cast2.my-control-panel.com/proxy/kissdoog/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 80,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgie-radio-belgrade-105-2-mhz",
+   "name": "Nostalgie Radio Belgrade - 105,2 Mhz",
+   "url": "https://www.nostalgija.rs/",
+   "stream": "https://nostalgie128ssl.streaming.rs:9252/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 79,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-balkan-trending",
+   "name": "Radio Balkan Trending",
+   "url": "https://radiobalkan.live/",
+   "stream": "https://radiobalkan.live/radio/live/trending.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 78,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srce-krajine",
+   "name": "Radio Srce Krajine",
+   "url": "https://srce-krajine.com/",
+   "stream": "https://srv.mediastriming.com/8330/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "focus-radio",
+   "name": "Focus Radio",
+   "url": "",
+   "stream": "https://streamer.radio.co/s34d2c17d8/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-kids-radio",
+   "name": "Naxi Kids Radio",
+   "url": "",
+   "stream": "https://naxidigital-kids128ssl.streaming.rs:8052/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-banja-2",
+   "name": "Radio Banja 2",
+   "url": "https://banja2.com/",
+   "stream": "https://stream.iradio.pro/proxy/radiobanja2?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-adore",
+   "name": "Naxi Adore",
+   "url": "https://www.naxi.rs/adore",
+   "stream": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 60,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s2-index-radio",
+   "name": "Radio S2 - Index radio",
+   "url": "https://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9002/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-r-n-b-radio",
+   "name": "Naxi R'n'B Radio",
+   "url": "https://www.naxi.rs/rnb",
+   "stream": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-in",
+   "name": "Radio In",
+   "url": "https://radioin.co.rs/",
+   "stream": "https://radioinnis-naxinacional.streaming.rs:8622/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rsg-party-time",
+   "name": "RSG Party time",
+   "url": "",
+   "stream": "https://stream.rsg.rs/partytime/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mugadavanje",
+   "name": "Mugadavanje",
+   "url": "https://mugadavanje.rs/",
+   "stream": "https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Serbia",
+   "genre": [],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-san-loznica",
+   "name": "Radio San Loznica",
+   "url": "",
+   "stream": "https://s1.skeletor.rs/san",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-fm-beograd",
+   "name": "Super FM Beograd",
+   "url": "https://superfm.rs/",
+   "stream": "https://onair.superfm.rs/superfm.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-021-100-domace",
+   "name": "Radio 021 100% domaće",
+   "url": "https://radio021.rs/station/100-posto-domace/",
+   "stream": "https://centova.dukahosting.com/proxy/021domaca/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Vojvodina",
+   "genre": [],
+   "votes": 44,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kolo",
+   "name": "Radio Kolo",
+   "url": "https://radiokolo.net/",
+   "stream": "https://mars.streamerr.co/8280/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Belgrade",
+   "genre": [],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-radio-016",
+   "name": "Naxi Radio 016",
+   "url": "http://radio016.net/",
+   "stream": "https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-podrinje",
+   "name": "Radio Podrinje",
+   "url": "https://rtvpodrinje.rs/",
+   "stream": "https://s1.skeletor.rs/podrinje",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-krajina-019",
+   "name": "Radio Krajina 019",
+   "url": "https://radio-krajina019.com/",
+   "stream": "https://cmr-hosting.com:7021/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-easy",
+   "name": "Radio S Easy",
+   "url": "",
+   "stream": "https://stream.radios.rs:9044/stream",
+   "codec": "aac",
+   "bitrate": 36,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yu-novi-pazar",
+   "name": "Yu Novi Pazar",
+   "url": "https://yuradio.rs/",
+   "stream": "https://yuradio.ipradio.rs:9036/;",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sloboda-kraljevo",
+   "name": "Radio Sloboda Kraljevo",
+   "url": "https://radiosloboda.rs/",
+   "stream": "https://audio.slobodafm.com:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 33,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "muzicki-radio-101",
+   "name": "Muzicki Radio 101",
+   "url": "https://www.radio101.rs/",
+   "stream": "https://as1.radioserveri.com:8090/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bum-bum-radio",
+   "name": "Bum Bum Radio",
+   "url": "https://bumbumradio.rs/",
+   "stream": "https://bumbum.nlnet.rs:8443/bumbum?download=false",
+   "codec": "aac",
+   "bitrate": 48,
+   "state": "Beograd",
+   "genre": [],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-3-live",
+   "name": "Radio 3 LIVE",
+   "url": "",
+   "stream": "https://radio3-64ssl.streaming.rs:9212/;stream.nsv",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ok-prelo-radio",
+   "name": "OK Prelo Radio",
+   "url": "http://www.okradio.net/",
+   "stream": "https://stream.okplus.rs/listen/prelo/radio.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tri",
+   "name": "Radio TRI",
+   "url": "https://www.radiotri.rs/",
+   "stream": "https://radiotri-128.streaming.rs:9302/;stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "021-caffe",
+   "name": "021 caffe",
+   "url": "https://radio021.rs/station/caffe/",
+   "stream": "https://centova.dukahosting.com/proxy/021kafe/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-70e",
+   "name": "Naxi 70e",
+   "url": "https://www.naxi.rs/70e",
+   "stream": "https://naxidigital-70s128ssl.streaming.rs:8042/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-delta-31",
+   "name": "Radio Delta 31",
+   "url": "http://www.radio-delta.com/forum/",
+   "stream": "https://cast4.asurahosting.com/proxy/dejan/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naxi-70-e-3",
+   "name": "Naxi 70-e 3",
+   "url": "https://www.naxi.rs/",
+   "stream": "https://naxidigital-70s128ssl.streaming.rs:8382/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nas-radio-107-80-zabalj",
+   "name": "Nas Radio 107,80 Zabalj",
+   "url": "https://nasradio.rs/",
+   "stream": "https://radio.dukahosting.com:7043/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Serbia",
+   "genre": [],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ok-plus-radio",
+   "name": "OK Plus Radio",
+   "url": "https://okplus.rs/",
+   "stream": "https://stream.okplus.rs/listen/plus/radio.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-021-rock",
+   "name": "Radio 021 Rock",
+   "url": "https://radio021.rs/station/rock/",
+   "stream": "https://centova.dukahosting.com/proxy/rock/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Vojvodina",
+   "genre": [],
+   "votes": 19,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-skay",
+   "name": "Radio SKAY",
+   "url": "https://radioskay.com/",
+   "stream": "https://live.radioskay.com/;*.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lux-radio",
+   "name": "Lux Radio",
+   "url": "https://www.luxradio.net/",
+   "stream": "https://lux-naxinacional.streaming.rs:8607/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-xtra",
+   "name": "Radio S XTRA",
+   "url": "http://www.radios.rs/",
+   "stream": "https://stream.radios.rs:9026/;*.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-021-disco-funk",
+   "name": "Radio 021 Disco & Funk",
+   "url": "https://radio021.rs/station/disco-funk/",
+   "stream": "https://centova.dukahosting.com/proxy/021disco/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "state": "Vojvodina",
+   "genre": [],
+   "votes": 10,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "original-fast-radio-2",
+   "name": "Original Fast Radio",
+   "url": "https://originalfastradio.com/",
+   "stream": "https://az-de-01.worldradiobeat.com:8000/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maestro",
+   "name": "Radio Maestro",
+   "url": "https://radio-maestro.com/index.php",
+   "stream": "https://radio-maestro.com:8443/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-juzni",
+   "name": "Radio S Južni",
+   "url": "https://www.radios.rs/digitalni-radio/20/juzni",
+   "stream": "https://stream.radios.rs:9038/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-modern-classic",
+   "name": "Radio S Modern Classic",
+   "url": "https://www.radios.rs/digitalni-radio/70/radio-s-modern-classic",
+   "stream": "https://stream.radios.rs:9072/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "serbian"
+   ],
+   "langCodes": [
+    "en",
+    "sr"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-pop-folk",
+   "name": "Radio S Pop Folk",
+   "url": "https://www.radios.rs/digitalni-radio/51/pop-folk",
+   "stream": "https://stream.radios.rs:9046/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "luna-radio",
+   "name": "Luna Radio",
+   "url": "https://www.radioluna.info/",
+   "stream": "https://eu10.fastcast4u.com:6110/stream/7/",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-kids",
+   "name": "Radio S Kids",
+   "url": "https://www.radios.rs/digitalni-radio/7/radio-s-kids",
+   "stream": "https://stream.radios.rs:9022/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-latino",
+   "name": "Radio S Latino",
+   "url": "https://www.radios.rs/digitalni-radio/53/latino",
+   "stream": "https://stream.radios.rs:9054/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "latino",
+    "serbian",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "sr"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s-starogradski",
+   "name": "Radio S Starogradski",
+   "url": "https://www.radios.rs/digitalni-radio/65/starogradski",
+   "stream": "https://stream.radios.rs:9064/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "serbian"
+   ],
+   "langCodes": [
+    "sr"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "s21-euro",
+   "name": "S21 Euro",
+   "url": "https://s21media.pl/",
+   "stream": "https://radiozender.mpbnetwerken.nl/s21radio?v=1.0",
+   "codec": "aac",
+   "bitrate": 384,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-as-fm",
+   "name": "RADIO AS FM",
+   "url": "https://radioas.fm/",
+   "stream": "https://asfmonair-masterasfm.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vojvodina",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

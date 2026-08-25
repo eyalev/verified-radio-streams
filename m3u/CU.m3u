@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cuba" tvg-genre="pop,pop-music,pop-rock",Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 group-title="Cuba" tvg-genre="salsa",Radio Campesina Cubana
+https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-08-21_15-54-32&uuid=f27d83f9-8947-4c58-ac38-cabdd2fae52f
+#EXTINF:-1 group-title="Cuba",Cubania Radio
+https://streamingv2.shoutcast.com/cubania?type=.mp3
+#EXTINF:-1 group-title="Cuba",Canal Radio Cruces Cienfuegos
+https://stream.laut.fm/canalradio
+#EXTINF:-1 group-title="Cuba",Rádio Costa (Archipiélago Uno)
+https://radio.archipielago.uno/radiocosta
+#EXTINF:-1 group-title="Cuba",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Cuba",Radio Rebelde 1180 AM
+https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd
+#EXTINF:-1 group-title="Cuba",Radio Habana Cuba 102.5 FM
+https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/McW3fLhs
+#EXTINF:-1 group-title="Cuba",Radio Progreso 90.3 FM
+https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN
+#EXTINF:-1 group-title="Cuba",Radio María de la Caridad
+https://usa6.fastcast4u.com/proxy/aserranog/stream

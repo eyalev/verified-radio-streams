@@ -1,0 +1,190 @@
+{
+ "countryCode": "GE",
+ "country": "Georgia",
+ "slug": "georgia",
+ "continent": "asia",
+ "stationCount": 11,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/georgia/",
+ "stations": [
+  {
+   "id": "radio-amra",
+   "name": "Radio Amra",
+   "url": "",
+   "stream": "https://streamer.radio.co/s34b5469e0/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 4440,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-imedi",
+   "name": "რადიო იმედი (Radio Imedi)",
+   "url": "https://www.imedi.ge/",
+   "stream": "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
+   "codec": "aac",
+   "bitrate": 132,
+   "langs": [
+    "georgian"
+   ],
+   "langCodes": [
+    "ka"
+   ],
+   "state": "Tbilisi",
+   "genre": [],
+   "votes": 1032,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wvfj-93-3-102-1-the-joy-fm",
+   "name": "WVFJ 93.3 & 102.1 The JOY FM",
+   "url": "https://georgia.thejoyfm.com/",
+   "stream": "https://rtn.cdnstream1.com/2576_96.aac?rand=81562",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 587,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-positive",
+   "name": "რადიო პოზიტივი (Radio Positive)",
+   "url": "https://www.positive.ge/",
+   "stream": "https://stream.radiojar.com/sr4vzamzfnruv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "georgian"
+   ],
+   "langCodes": [
+    "ka"
+   ],
+   "state": "Tbilisi",
+   "genre": [],
+   "votes": 553,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lf-radio",
+   "name": "LF Radio",
+   "url": "https://lf.radio/",
+   "stream": "https://rtn.cdnstream1.com/2582_96.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 416,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-palitra",
+   "name": "რადიო პალიტრა (Radio Palitra)",
+   "url": "https://www.radiopalitra.ge/",
+   "stream": "https://radiostream.palitra.ge/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "georgian"
+   ],
+   "langCodes": [
+    "ka"
+   ],
+   "state": "Tbilisi",
+   "genre": [],
+   "votes": 323,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-sivrce",
+   "name": "რადიო სივრცე (Radio Sivrce)",
+   "url": "https://spnews.io/",
+   "stream": "https://proxy.streamer.mediabox.ge/ice/8000/sivrce",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "georgian"
+   ],
+   "langCodes": [
+    "ka"
+   ],
+   "state": "Tbilisi",
+   "genre": [],
+   "votes": 249,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sputnik",
+   "name": "Арадио Sputnik Аҧсны",
+   "url": "https://sputnik-abkhazia.info/",
+   "stream": "https://icecast-rian.cdnvideo.ru/voicesuh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Abkhazia",
+   "genre": [],
+   "votes": 229,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-adjara",
+   "name": "რადიო აჭარა (Radio Adjara)",
+   "url": "https://www.radioajara.ge/",
+   "stream": "https://edge.mixlr.com/channel/bzorq",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "georgian"
+   ],
+   "langCodes": [
+    "ka"
+   ],
+   "genre": [],
+   "votes": 223,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 86,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jukebox-94-3",
+   "name": "JUKEBOX 94.3",
+   "url": "https://www.radiojukebox.ge/",
+   "stream": "https://stream.radiojukebox.ge/stream.ogg",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,2541 @@
+{
+ "countryCode": "PT",
+ "country": "Portugal",
+ "slug": "portugal",
+ "continent": "europe",
+ "stationCount": 144,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/portugal/",
+ "stations": [
+  {
+   "id": "m80-radio-80s",
+   "name": "M80 Rádio – 80s",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m8080.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "80s",
+    "pop",
+    "romantic"
+   ],
+   "votes": 2000,
+   "clicks": 31,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fado-de-coimbra",
+   "name": "Radio Fado de Coimbra",
+   "url": "https://www.radiofadodecoimbra.pt/",
+   "stream": "https://nl.digitalrm.pt:8048/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "fado"
+   ],
+   "votes": 1370,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-ballads",
+   "name": "M80 Rádio – Ballads",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80ballads.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "romantic"
+   ],
+   "votes": 1053,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-60s",
+   "name": "M80 Rádio – 60s",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m8060.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "60s",
+    "70s",
+    "80s"
+   ],
+   "votes": 610,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-fm-aac",
+   "name": "Smooth FM (AAC)",
+   "url": "https://smoothfm.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/smooth.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 462,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-oceano-pacifico",
+   "name": "RFM Oceano Pacifico",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 390,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-aac",
+   "name": "M80 Rádio (AAC)",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 343,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-pop",
+   "name": "M80 Rádio – Pop",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80pop.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 270,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-dance",
+   "name": "M80 Rádio – Dance",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80dance.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "dance"
+   ],
+   "votes": 258,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-rock",
+   "name": "M80 Rádio – Rock",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80rock.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "80s",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 215,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-comercial-dance",
+   "name": "Rádio Comercial Dance",
+   "url": "https://radiocomercial.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/rcdance.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "dance"
+   ],
+   "votes": 211,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vizela",
+   "name": "Rádio Vizela",
+   "url": "http://www.radiovizela.pt/",
+   "stream": "https://proxy-audio.ptisp.com:8100/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Braga",
+   "genre": [
+    "hits"
+   ],
+   "votes": 209,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-xl",
+   "name": "Rádio XL",
+   "url": "https://radioxlfm.pt/",
+   "stream": "https://radios.justweb.pt/8002/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Porto",
+   "genre": [
+    "oldies",
+    "pop"
+   ],
+   "votes": 163,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-indie",
+   "name": "M80 Rádio – Indie",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80indie.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "indie"
+   ],
+   "votes": 162,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-70s",
+   "name": "M80 Rádio – 70s",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m8070.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "70s",
+    "80s",
+    "pop"
+   ],
+   "votes": 141,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mrr-manitu-rock-radio",
+   "name": "MRR Manitu Rock Radio",
+   "url": "https://maniturockradio.wixsite.com/listenlive",
+   "stream": "https://radio.streemlion.com:4515/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Lisbon",
+   "genre": [
+    "classic-rock",
+    "metal",
+    "pop"
+   ],
+   "votes": 123,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-regional-do-centro",
+   "name": "Rádio Regional do Centro",
+   "url": "https://www.radioregionalcentro.pt/",
+   "stream": "https://nl.digitalrm.pt:8030/stream?1671017145140=",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 110,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m-80-radio",
+   "name": "M 80 Rádio",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 109,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-comercial-rock",
+   "name": "Radio Comercial Rock",
+   "url": "https://radiocomercial.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/rcrock.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 105,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-freguesia-de-belem",
+   "name": "Rádio Freguesia de Belém",
+   "url": "https://radiobelem.jf-belem.pt/",
+   "stream": "https://s2.radio.co/s0ddea4a53/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 94,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-festival-madeira-98-4-fm",
+   "name": "Rádio Festival Madeira (98.4 FM)",
+   "url": "https://rfestival.pt/",
+   "stream": "https://audio.serv.pt/8012/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [
+    "pop",
+    "popular"
+   ],
+   "votes": 92,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nitfm",
+   "name": "NiTfm",
+   "url": "https://www.nit.pt/",
+   "stream": "https://sp0.redeaudio.com/8028/stream/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 77,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-soul",
+   "name": "M80 Rádio – Soul",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80soul.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [
+    "70s",
+    "soul"
+   ],
+   "votes": 67,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-dance-it",
+   "name": "RFM DANCE IT",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 60,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-popular-madeira-101-0-fm",
+   "name": "Rádio Popular Madeira (101.0 FM)",
+   "url": "https://rpopular.pt/",
+   "stream": "https://audio.serv.pt/8018/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [
+    "pop"
+   ],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-popular-de-source",
+   "name": "Rádio Popular de Source",
+   "url": "https://radiosoure.pt/",
+   "stream": "https://nl.digitalrm.pt:8072/stream?1671016403075=",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metalon-the-heavy",
+   "name": "MetalON - The Heavy",
+   "url": "https://metalon.org/",
+   "stream": "https://radiometalon.com/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Marco de Canaveses",
+   "genre": [
+    "metal"
+   ],
+   "votes": 40,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-jazzy",
+   "name": "RFM JAZZY",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-latinas",
+   "name": "RFM LATINAS",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "latin-music",
+    "latin-pop"
+   ],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "00-s-rfm",
+   "name": "00's RFM",
+   "url": "https://rfm.sapo.pt/ouvir-emissao-rfm-00s",
+   "stream": "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "2000s"
+   ],
+   "votes": 30,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-foz-do-mondego",
+   "name": "Rádio Foz do Mondego",
+   "url": "https://rfmondego.pt/",
+   "stream": "https://nl.digitalrm.pt:8216/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 30,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metal-on-the-thrasher",
+   "name": "Radio Metal On: The Thrasher",
+   "url": "https://metalon.org/",
+   "stream": "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rua-fm",
+   "name": "RUA FM",
+   "url": "https://rua.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/037?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Faro",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zarco-madeira-89-6-fm",
+   "name": "Rádio Zarco Madeira (89.6 FM)",
+   "url": "https://rzarco.pt/",
+   "stream": "https://audio.serv.pt/8014/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [
+    "popular"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sol-madeira-103-7-fm",
+   "name": "Rádio Sol Madeira (103.7 FM)",
+   "url": "https://rsol.pt/",
+   "stream": "https://audio.serv.pt/8010/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [
+    "pop",
+    "popular"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "geice-fm",
+   "name": "Geice FM",
+   "url": "https://radiogeice.com/",
+   "stream": "https://ec2.yesstreaming.net:3275/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maiorca",
+   "name": "Rádio Maiorca",
+   "url": "https://maiorcafm.pt/",
+   "stream": "https://nl.digitalrm.pt:8182/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-baia",
+   "name": "Rádio Baía",
+   "url": "https://observador.pt/radio",
+   "stream": "https://streamingv2.shoutcast.com/observador_64.aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtp-antena-3-madeira",
+   "name": "RTP Antena 3 Madeira",
+   "url": "https://madeira.rtp.pt/",
+   "stream": "https://radiocast.rtp.pt/antena3madeira80a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [
+    "alternative",
+    "pop"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mfm",
+   "name": "MFM",
+   "url": "https://radios.justweb.pt/8074/stream",
+   "stream": "https://radios.justweb.pt/8074/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Porto",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gongas-radio",
+   "name": "Gongas Radio",
+   "url": "https://instagram.com/gongasradio/",
+   "stream": "https://a6.asurahosting.com:7930/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "cascaos",
+   "genre": [
+    "80s"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metal-on-toxic",
+   "name": "Radio Metal On: Toxic",
+   "url": "https://metalon.org/",
+   "stream": "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "voz-do-neiva",
+   "name": "Voz do Neiva",
+   "url": "https://radiovozdoneiva.net/",
+   "stream": "https://sp0.redeaudio.com/8092/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-novas",
+   "name": "RFM NOVAS",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oceano-pacifico",
+   "name": "oceano Pacifico",
+   "url": "https://stm7.xradios.com.br:6944/live",
+   "stream": "https://stm7.xradios.com.br:6944/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "inglés/portugués/español"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nigga-pt-party",
+   "name": "nigga.pt (party)",
+   "url": "https://nigga.pt/",
+   "stream": "https://nigga.pt/party.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "edm",
+    "trance"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wave-vibes",
+   "name": "Wave Vibes",
+   "url": "https://a6.asurahosting.com/public/wave_vibes",
+   "stream": "https://a6.asurahosting.com/listen/wave_vibes/radio.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "downtempo",
+    "electronica"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ntr-network-radio",
+   "name": "NTR - Network Radio",
+   "url": "https://www.ntr.fm/",
+   "stream": "https://is.ntradio.pt/ntr",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tagide",
+   "name": "Rádio Tágide",
+   "url": "https://radiotagide.pt/",
+   "stream": "https://rs2.ptservidor.com/proxy/carlos31?mp=/stream?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deep-mix-radio",
+   "name": "Deep Mix Radio",
+   "url": "https://www.deepmix.net/",
+   "stream": "https://stream-new.deepmix.net/deep-mix-radio-320.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "electronic",
+    "techno"
+   ],
+   "votes": 1,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "msfs-radio",
+   "name": "MSFS Radio",
+   "url": "https://msfsradio.com/",
+   "stream": "https://radio.msfsradio.com/listen/msfs/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Porto",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "indie"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rock-pirata",
+   "name": "Radio Rock Pirata",
+   "url": "https://radio.softshell-octatonic.ts.net/",
+   "stream": "https://radio.softshell-octatonic.ts.net/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hertz",
+   "name": "Rádio Hertz",
+   "url": "https://radiohertz.pt/",
+   "stream": "https://radios2.justweb.pt/8042/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-perlepia",
+   "name": "Rádio Perlépia",
+   "url": "https://radio.nitro-server.uk/public/rdioperlpia",
+   "stream": "https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese",
+    "português-(brasil)"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-rocks",
+   "name": "RFM Rocks",
+   "url": "https://rfm.pt/",
+   "stream": "https://25583.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "total-fm",
+   "name": "Total FM",
+   "url": "https://totalfm.pt/",
+   "stream": "https://eu57-sonic.instainternet.com:8068/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Almancil",
+   "genre": [
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm",
+   "name": "RFM",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://23603.live.streamtheworld.com/RFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 11407,
+   "clicks": 29,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-comercial-portugal",
+   "name": "Radio Comercial Portugal",
+   "url": "https://radiocomercial.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/comercial.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2066,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tsf-radio-noticias",
+   "name": "TSF Rádio Notícias",
+   "url": "https://www.tsf.pt/",
+   "stream": "https://directo.tsf.pt/tsfdirecto.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese",
+    "português-brasil"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 1094,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "golofm",
+   "name": "GoloFM",
+   "url": "https://golo.fm/",
+   "stream": "https://sp0.redeaudio.com/8154/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1074,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-portugal",
+   "name": "M80 Rádio – Portugal",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80nacional.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 653,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-amor-portugal",
+   "name": "Rádio Amor Portugal",
+   "url": "https://radioamorportugal.com/",
+   "stream": "https://stream.radioamorportugal.com:8443/rap.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Viana do Castelo",
+   "genre": [],
+   "votes": 625,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wonder-80-s",
+   "name": "Wonder 80's",
+   "url": "https://mytuner-radio.com/radio/wonder-80s-492680/",
+   "stream": "https://80.streeemer.com/listen/80s/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 434,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-3-main",
+   "name": "Antena 3 - Main",
+   "url": "https://www.rtp.pt/play/direto/antena3",
+   "stream": "https://radiocast.rtp.pt/antena380a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 268,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orbital",
+   "name": "radio orbital",
+   "url": "https://www.orbital.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/401?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 266,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "futura-radio-de-autor",
+   "name": "FUTURA - Rádio de Autor",
+   "url": "http://www.radiofutura.pt/",
+   "stream": "https://s4.radio.co/s7e7b6c165/listen",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 263,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smoothfm-soul",
+   "name": "SmoothFM Soul",
+   "url": "https://smoothfm.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/smoothsoul.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 237,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "m80-radio-90s",
+   "name": "M80 Rádio – 90s",
+   "url": "https://m80.iol.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m8090.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 179,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rewind-2000-s",
+   "name": "REWIND 2000's",
+   "url": "https://mytuner-radio.com/radio/rewind-2000s-492677/",
+   "stream": "https://2000.streeemer.com/listen/2000s/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 166,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-biblia",
+   "name": "Radio Biblia",
+   "url": "https://radiobiblia.sbb.org.br/",
+   "stream": "https://servidor30-4.brlogic.com:7398/live?source=website",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 162,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cidade-fm",
+   "name": "Cidade FM",
+   "url": "https://cidade.fm/",
+   "stream": "https://stream-icy.bauermedia.pt/cidade.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 159,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cantinho-dos-emigrantes",
+   "name": "Cantinho dos Emigrantes",
+   "url": "https://cantinhodosemigrantes.pt/",
+   "stream": "https://cast.redewt.net:9825/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Viana do Castelo",
+   "genre": [],
+   "votes": 150,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maria-portugal",
+   "name": "Radio Maria Portugal",
+   "url": "https://radiomaria.pt/",
+   "stream": "https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 144,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bbn-portuguese",
+   "name": "BBN Portuguese",
+   "url": "https://bbn1.bbnradio.org/portuguese/",
+   "stream": "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 119,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-noar",
+   "name": "Rádio NoAr",
+   "url": "https://radionoar.pt/",
+   "stream": "https://radios.justweb.pt/8034/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Porto",
+   "genre": [],
+   "votes": 117,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-observador",
+   "name": "Rádio Observador",
+   "url": "https://observador.pt/radio/player/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 112,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfm-toca-portugal",
+   "name": "RFM TOCA PORTUGAL",
+   "url": "https://rfm.sapo.pt/",
+   "stream": "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 110,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-portugal-mais",
+   "name": "Radio Portugal Mais",
+   "url": "https://www.radioportugalmais.com/",
+   "stream": "https://sv15.hdradios.net:7432/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 103,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-renascenca",
+   "name": "Radio Renascença",
+   "url": "https://rr.sapo.pt/",
+   "stream": "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 101,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lusophonica",
+   "name": "Lusophonica",
+   "url": "https://www.lusophonica.com/",
+   "stream": "https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-french-radio-portugal",
+   "name": "La French Radio Portugal",
+   "url": "https://www.lafrenchradio.pt/",
+   "stream": "https://www.radioking.com/play/lfr-portugal",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 79,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "posto-emissor-do-funchal-om",
+   "name": "Posto Emissor do Funchal OM",
+   "url": "http://pef.pt/sitepef/category/canal-1/",
+   "stream": "https://centova.radio.com.pt/proxy/422?mp=/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova-era",
+   "name": "Rádio Nova Era",
+   "url": "https://radionovaera.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/478?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Porto",
+   "genre": [],
+   "votes": 66,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4dj-4drive-jazz",
+   "name": "4DJ 4Drive Jazz",
+   "url": "https://4drivejazz.wixsite.com/radio",
+   "stream": "https://radio.streemlion.com:4870/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Estoril",
+   "genre": [],
+   "votes": 65,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-comercial-kids",
+   "name": "Rádio Comercial Kids",
+   "url": "https://bauermedia.pt/radiocomercial/rc-kids",
+   "stream": "https://stream-icy.bauermedia.pt/rckids.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 64,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-2-main",
+   "name": "Antena 2 - Main",
+   "url": "https://www.rtp.pt/play/direto/antena2",
+   "stream": "https://radiocast.rtp.pt/antena280a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 59,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nove3cinco",
+   "name": "Nove3cinco",
+   "url": "https://nove3cinco.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/522?mp=/stream&1715267171",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 56,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rdp-internacional-main",
+   "name": "RDP Internacional - Main",
+   "url": "https://www.rtp.pt/play/direto/rdpinternacional",
+   "stream": "https://radiocast.rtp.pt/rdpint80a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-portuguesa-do-var",
+   "name": "Radio Portuguesa do Var",
+   "url": "https://www.rcp-var.com/",
+   "stream": "https://sonic.servsonic.com:7003/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-1-main",
+   "name": "Antena 1 - Main",
+   "url": "https://www.rtp.pt/play/direto/antena1",
+   "stream": "https://radiocast.rtp.pt/antena180a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtp-radio-zigzag",
+   "name": "RTP - Radio ZigZag",
+   "url": "https://www.rtp.pt/play/zigzag/direto/radio",
+   "stream": "https://radiocast.rtp.pt/zigzag80a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "noite-fm",
+   "name": "NOITE FM",
+   "url": "https://www.noite.fm/",
+   "stream": "https://servidor.noite.pt:9002/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-clube-de-mafra",
+   "name": "Rádio Clube de Mafra",
+   "url": "https://www.rcmafra.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/551?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "97fm-radio-clube-de-pombal",
+   "name": "97fm Rádio Clube de Pombal",
+   "url": "https://www.pombal97.com/",
+   "stream": "https://centova.radios.com.pt/proxy/410?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Pombal",
+   "genre": [],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-botareu",
+   "name": "Rádio Botareu",
+   "url": "https://www.radiobotareu.pt/",
+   "stream": "https://nl.digitalrm.pt:8238/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Águeda",
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-clube-madeira-106-8-fm",
+   "name": "Rádio Clube Madeira (106.8 FM)",
+   "url": "https://rclube.pt/",
+   "stream": "https://audio.serv.pt/8020/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alto-minho",
+   "name": "Rádio Alto Minho",
+   "url": "https://radioaltominho.pt/",
+   "stream": "https://ec2.yesstreaming.net:3705/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 25,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-livre-de-gouveia",
+   "name": "Antena Livre de Gouveia",
+   "url": "https://896fm.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/456?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-elvas",
+   "name": "Rádio Elvas",
+   "url": "https://radioelvas.com/",
+   "stream": "https://radios2.justweb.pt:8066/stream?type=http&nocache=297",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-record-porto",
+   "name": "Radio Record Porto",
+   "url": "https://www.recordfm.pt/",
+   "stream": "https://nl.digitalrm.pt:8028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "res-fm",
+   "name": "res fm",
+   "url": "https://resfmradio.com/",
+   "stream": "https://stream2.soundflux.eu:8440/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Santarém",
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rcp-var",
+   "name": "RADIO RCP-VAR",
+   "url": "https://www.rcp-var.com/",
+   "stream": "https://sonic.servsonic.com/8028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-comercial-natal",
+   "name": "Rádio Comercial Natal",
+   "url": "https://bauermedia.pt/radiocomercial/rc-natal",
+   "stream": "https://stream-icy.bauermedia.pt/rcxmas.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-valdevez",
+   "name": "Radio Valdevez",
+   "url": "https://www.radiovaldevez.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/508?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lafoes-fm",
+   "name": "Rádio Lafões FM",
+   "url": "https://www.radiolafoes.pt/no-ar/",
+   "stream": "https://sp0.redeaudio.com/9304/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metal-on-80s-hnh",
+   "name": "Radio Metal On: 80s HNH",
+   "url": "https://metalon.org/",
+   "stream": "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-movimento",
+   "name": "Rádio Movimento",
+   "url": "http://radiomovimento.pt/",
+   "stream": "https://stream.rcast.net/61025",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onda-livre",
+   "name": "Onda Livre",
+   "url": "https://ondalivrefm.net/category/informacao/informacao-regional/",
+   "stream": "https://centova.radio.com.pt/proxy/572?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fronteira",
+   "name": "Rádio Fronteira",
+   "url": "https://radiofronteira.com/",
+   "stream": "https://radios2.justweb.pt/8074/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Guarda",
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cool-fm-albufeira",
+   "name": "Cool FM Albufeira",
+   "url": "https://coolfm.live/",
+   "stream": "https://a1.asurahosting.com:9360/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "estacao-diaria-radio-viseu-96-8-fm",
+   "name": "Estação Diária Rádio, Viseu – 96.8 FM",
+   "url": "https://www.968.fm/",
+   "stream": "https://centova.radio.com.pt/proxy/430?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Viseu",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-campo-maior",
+   "name": "RADIO CAMPO MAIOR",
+   "url": "https://radiocampomaior.com/",
+   "stream": "https://radios2.justweb.pt:8064/stream?type=http&nocache=32",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marginal",
+   "name": "Rádio Marginal",
+   "url": "https://marginal.fm/",
+   "stream": "https://centova.radios.pt/proxy/499?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metal-on-the-brutal",
+   "name": "Radio Metal On: The Brutal",
+   "url": "https://metalon.org/",
+   "stream": "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova-antena",
+   "name": "RADIO NOVA ANTENA",
+   "url": "https://radionovaantena.com/",
+   "stream": "https://radios2.justweb.pt:8068/stream?type=http&nocache=82",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pax",
+   "name": "Rádio Pax",
+   "url": "https://www.radiopax.com/",
+   "stream": "https://centova.radio.com.pt/proxy/484?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Beja",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sudoeste",
+   "name": "Rádio Sudoeste",
+   "url": "https://radiosudoeste.pt/",
+   "stream": "https://centova.radios.pt/proxy/495?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rds-romantica",
+   "name": "RDS Romantica",
+   "url": "https://rds.pt/",
+   "stream": "https://s9.yesstreaming.net:9066/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Seixal",
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-calheta",
+   "name": "Rádio Calheta",
+   "url": "https://player.radiocalheta.pt/",
+   "stream": "https://player.radiocalheta.pt/listen/radiocalheta/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-meio-do-mato",
+   "name": "Radio Meio Do Mato",
+   "url": "https://radio.meiodomato.com/",
+   "stream": "https://radio.meiodomato.com/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-portugues",
+   "name": "REPLAY NEWS - Português",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rds",
+   "name": "Rádio RDS",
+   "url": "https://rds.pt/",
+   "stream": "https://s9.yesstreaming.net:7070/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Seixal",
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-fm-107-7",
+   "name": "Record FM 107,7",
+   "url": "http://www.recordfm.pt/",
+   "stream": "https://nl.digitalrm.pt:8010/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rio-radio-internacional-odemira",
+   "name": "RIO - Rádio Internacional Odemira",
+   "url": "https://radiodemira.pt/",
+   "stream": "https://hts02.brascast.com:10476/live",
+   "codec": "aac",
+   "bitrate": 320,
+   "state": "Alentejo",
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "on-the-radio-lisbon",
+   "name": "On the Radio- Lisbon",
+   "url": "https://www.mediawise.pt/",
+   "stream": "https://rs2.ptservidor.com/proxy/mediawis?mp=/stream?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-atalaia",
+   "name": "Rádio Atalaia",
+   "url": "https://www.radioatalaia.pt/",
+   "stream": "https://mpc.my-control-panel.eu/stream/radioatalaia",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nigga-pt-chill",
+   "name": "nigga.pt (chill)",
+   "url": "https://nigga.pt/",
+   "stream": "https://nigga.pt/chill.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "state": "Porto",
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "posto-emissor-do-funchal",
+   "name": "Posto Emissor do Funchal",
+   "url": "https://www.pef.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/426?mp=/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Madeira",
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "posto-emissor-do-funchal-pef-canal-2-fm",
+   "name": "Posto Emissor do Funchal (PEF) - Canal 2 FM",
+   "url": "https://www.pef.pt/",
+   "stream": "https://centova.radio.com.pt/proxy/426?mp=/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Madeira",
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-clube-de-colares",
+   "name": "Rádio clube de Colares",
+   "url": "https://www.radioclubecolarespt/",
+   "stream": "https://rs3.ptservidor.net/8012/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Colares",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-fm-105-5-santuario",
+   "name": "Record FM 105,5 santuário",
+   "url": "http://www.recordfm.pt/",
+   "stream": "https://nl.digitalrm.pt:8018/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Portugal",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "batida-fm",
+   "name": "Batida FM",
+   "url": "https://batida.fm/",
+   "stream": "https://stream-icy.rayo.pt/batidafm.mp3?direct=true",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt"
+   ],
+   "state": "Lisbon",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brutal",
+   "name": "brutal",
+   "url": "https://nigga.pt/",
+   "stream": "https://nigga.pt/brutal.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "esr-east-side-radio",
+   "name": "ESR - East Side Radio",
+   "url": "https://esr.li/",
+   "stream": "https://ice.ether.esr.li/esr-ch1.aac",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-amigos-do-mundo",
+   "name": "Radio Amigos do Mundo",
+   "url": "https://www.radioamigosdomundo.com/",
+   "stream": "https://sonic.servsonic.com:7004/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vibe",
+   "name": "Radio Vibe",
+   "url": "https://radio-vibe-101-stream-render-4tnt.onrender.com/",
+   "stream": "https://radio-vibe-101-stream-render-4tnt.onrender.com/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Amadora",
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiofutura-pt",
+   "name": "radiofutura.pt",
+   "url": "https://www.radiofutura.pt/",
+   "stream": "https://s4.radio.co/s7e7b6c165/low",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alt",
+   "name": "alt",
+   "url": "https://nigga.pt/",
+   "stream": "https://nigga.pt/alt.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "doom",
+   "name": "doom",
+   "url": "https://nigga.pt/",
+   "stream": "https://nigga.pt/doom.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "state": "Lisboa",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-eu-sou-goias",
+   "name": "RÁDIO EU SOU GOIÁS",
+   "url": "https://www.eusougoias.com.br/",
+   "stream": "https://live9.livemus.com.br:27374/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "brasil"
+   ],
+   "state": "Goiás",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marinahais",
+   "name": "Rádio Marinahais",
+   "url": "https://www.radiomarinhais.pt/",
+   "stream": "https://radios2.justweb.pt/8052/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "portuguêsa"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mirobriga",
+   "name": "Rádio Miróbriga",
+   "url": "https://www.radiom24.com/",
+   "stream": "https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-viseu",
+   "name": "Radio Viseu",
+   "url": "https://s2.radio.co/sf5c3ab01d/listen",
+   "stream": "https://s2.radio.co/sf5c3ab01d/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Viseu",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-fm-91-8-algarve",
+   "name": "Record FM 91,8 Algarve",
+   "url": "http://www.recordfm.pt/",
+   "stream": "https://nl.digitalrm.pt:8020/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Portugal",
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

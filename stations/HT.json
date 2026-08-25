@@ -1,0 +1,144 @@
+{
+ "countryCode": "HT",
+ "country": "Haiti",
+ "slug": "haiti",
+ "continent": "americas",
+ "stationCount": 8,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/haiti/",
+ "stations": [
+  {
+   "id": "intermix-93-1-fm",
+   "name": "Intermix 93.1 FM",
+   "url": "https://www.radiointermix.com/",
+   "stream": "https://studio.sitegenial.com/9310/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 403,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rfi",
+   "name": "RFI",
+   "url": "https://www.rfi.fr/",
+   "stream": "https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Port-au-Prince",
+   "genre": [],
+   "votes": 227,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "big-reggae-mix",
+   "name": "Big Reggae Mix",
+   "url": "https://www.bigreggaemix.com/",
+   "stream": "https://ais-sa2.cdnstream1.com/2294_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Port-au-Prince",
+   "genre": [],
+   "votes": 157,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radyo-tipiti",
+   "name": "Radyo Tipiti",
+   "url": "https://tipiti.biz/",
+   "stream": "https://a8.asurahosting.com:7530/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french",
+    "haitian-creole"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 139,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bonpounou",
+   "name": "Radio Bonpounou",
+   "url": "https://www.bonpounou.com/music.html",
+   "stream": "https://centova.wlservices.org/proxy/wiszuaec/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "haitian-creole"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Port-au-Prince",
+   "genre": [],
+   "votes": 49,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-scoop-fm",
+   "name": "Radio Scoop FM",
+   "url": "https://www.scoopfmhaiti.com/",
+   "stream": "https://studio.sitegenial.com/8006/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "haitian-creole"
+   ],
+   "state": "Port-au-Prince",
+   "genre": [],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hhh",
+   "name": "hhh",
+   "url": "https://jazzchristmas.stream.laut.fm/jazzchristmas?t302=2023-12-19_08-05-17&uuid=43cac575-4695-4eca-baf1-5d2f18f5897b",
+   "stream": "https://jazzchristmas.stream.laut.fm/jazzchristmas?t302=2023-12-19_08-05-17&uuid=43cac575-4695-4eca-baf1-5d2f18f5897b",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Napoli",
+   "genre": [],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

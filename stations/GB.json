@@ -1,0 +1,3331 @@
+{
+ "countryCode": "GB",
+ "country": "United Kingdom",
+ "slug": "united-kingdom",
+ "continent": "europe",
+ "stationCount": 156,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/united-kingdom/",
+ "stations": [
+  {
+   "id": "heart-80s",
+   "name": "Heart 80s",
+   "url": "https://www.heart.co.uk/80s",
+   "stream": "https://media-ssl.musicradio.com/Heart80sMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "pop"
+   ],
+   "votes": 35111,
+   "clicks": 228,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tmm-1",
+   "name": "TMM 1",
+   "url": "https://www.themusicmachine.co.uk/",
+   "stream": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Camden",
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 21335,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-70s",
+   "name": "Heart 70s",
+   "url": "https://www.heart.co.uk/70s",
+   "stream": "https://media-ssl.musicradio.com/Heart70sMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "pop"
+   ],
+   "votes": 18496,
+   "clicks": 32,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gold",
+   "name": "Gold",
+   "url": "https://www.mygoldmusic.co.uk/",
+   "stream": "https://media-ssl.musicradio.com/GoldMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 18133,
+   "clicks": 86,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-chill",
+   "name": "Smooth Chill",
+   "url": "https://www.smoothradio.com/chill/",
+   "stream": "https://media-ssl.musicradio.com/ChillMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout"
+   ],
+   "votes": 13110,
+   "clicks": 47,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-dance",
+   "name": "Heart Dance",
+   "url": "https://www.heart.co.uk/dance",
+   "stream": "https://media-ssl.musicradio.com/HeartDanceMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 12342,
+   "clicks": 57,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-90s",
+   "name": "Heart 90s",
+   "url": "https://www.heart.co.uk/90s",
+   "stream": "https://media-ssl.musicradio.com/Heart90sMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "pop"
+   ],
+   "votes": 12074,
+   "clicks": 57,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tmm-2",
+   "name": "TMM 2",
+   "url": "https://www.themusicmachine.co.uk/",
+   "stream": "https://listen-msmn.sharp-stream.com/nme2.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Camden",
+   "genre": [
+    "alternative",
+    "electronic"
+   ],
+   "votes": 11608,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-only-love-songs-70s80s90s",
+   "name": "LOVE.radio Only Love Songs 70s80s90s",
+   "url": "https://love.radio/",
+   "stream": "https://loveradio.streamingmedia.it/england",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 4545,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chillout-ibiza-fm",
+   "name": "Chillout Ibiza FM",
+   "url": "http://www.chilloutibizafm.com/",
+   "stream": "https://edge3.peta.live365.net/b05055_128mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "relaxing"
+   ],
+   "votes": 3215,
+   "clicks": 39,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-dire-straits",
+   "name": "Exclusively Dire Straits",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 2800,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-seva-novgorodsev",
+   "name": "Радио Сева (Radio Seva Novgorodsev)",
+   "url": "https://seva.ru/",
+   "stream": "https://seva.ru/radio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "London",
+   "genre": [
+    "music",
+    "rock"
+   ],
+   "votes": 2351,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-uk",
+   "name": "Virgin Radio UK",
+   "url": "https://virginradio.co.uk/",
+   "stream": "https://radio.virginradio.co.uk/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "London, England",
+   "genre": [
+    "80s",
+    "90s",
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 2055,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tmm-2-hq",
+   "name": "TMM 2 (HQ)",
+   "url": "https://www.themusicmachine.co.uk/",
+   "stream": "https://listen-msmn.sharp-stream.com/nme2high.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Camden",
+   "genre": [
+    "alternative",
+    "electronic"
+   ],
+   "votes": 1829,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-supertramp",
+   "name": "Exclusively Supertramp",
+   "url": "https://exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1586,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exclusively-ac-dc",
+   "name": "Exclusively AC/DC",
+   "url": "https://play.exclusive.radio/",
+   "stream": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 1222,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soul-radio-only-classic-soul",
+   "name": "SOUL RADIO Only Classic Soul",
+   "url": "https://soulradio.uk/",
+   "stream": "https://listen.soulradio.uk/uk",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Bristol",
+   "genre": [
+    "50s",
+    "60s",
+    "70s",
+    "oldies",
+    "soul"
+   ],
+   "votes": 1157,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-nation-uk",
+   "name": "House Nation UK",
+   "url": "https://housenationuk.com/",
+   "stream": "https://streaming.radio.co/s06bd9d805/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 1052,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-x-classic-rock",
+   "name": "Radio X Classic Rock",
+   "url": "https://www.radiox.co.uk/",
+   "stream": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "british-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 1022,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-radio-uk",
+   "name": "Magic Radio UK",
+   "url": "https://hellorayo.co.uk/magic/play/",
+   "stream": "https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "pop"
+   ],
+   "votes": 1014,
+   "clicks": 31,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "boom-radio",
+   "name": "Boom Radio",
+   "url": "https://www.boomradiouk.com/",
+   "stream": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 948,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "uk-bass-radio",
+   "name": "UK Bass Radio",
+   "url": "https://www.ukbassradio.com/",
+   "stream": "https://www.ukbassradio.com/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "british-english"
+   ],
+   "genre": [
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 725,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-calm",
+   "name": "Classic FM Calm",
+   "url": "https://www.classicfm.com/calm/",
+   "stream": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical",
+    "romantic"
+   ],
+   "votes": 699,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-relax",
+   "name": "Smooth Relax",
+   "url": "https://www.smoothradio.com/relax/",
+   "stream": "https://icecast.thisisdax.com/SmoothRelaxMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "easy-listening",
+    "relaxing"
+   ],
+   "votes": 664,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-music-radio",
+   "name": "House Music Radio",
+   "url": "https://www.housemusicradio.co.uk/",
+   "stream": "https://uk4-vn.mixstream.net/8128/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "house"
+   ],
+   "votes": 644,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "diva-radio-funk-disco-music-paradise",
+   "name": "Diva Radio - Funk & Disco Music Paradise",
+   "url": "https://deevaradio.net/",
+   "stream": "https://stream.deevaradio.net:10443/divaradiofunk",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "disco",
+    "funk",
+    "rnb",
+    "rap",
+    "soul"
+   ],
+   "votes": 595,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-hd",
+   "name": "Classic FM HD",
+   "url": "https://www.classicfm.com/",
+   "stream": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 581,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-hip-hop-nts",
+   "name": "100% Hip Hop | NTS",
+   "url": "https://www.nts.live/infinite-mixtapes/100-percent-hip-hop",
+   "stream": "https://stream-mixtape-geo.ntslive.net/mixtape2",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 563,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "danceradiouk-dance-uk",
+   "name": "DanceRadioUK - Dance UK",
+   "url": "https://danceradiouk.com/",
+   "stream": "https://dancestream.danceradiouk.com/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 558,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-uk",
+   "name": "KISS UK",
+   "url": "https://kissfmuk.com/",
+   "stream": "https://live-kiss.sharp-stream.com/kiss100.mp3",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 498,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cruiseone-radio",
+   "name": "CruiseOne Radio",
+   "url": "https://cruiseoneradio.net/",
+   "stream": "https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic",
+    "indie",
+    "pop",
+    "rock"
+   ],
+   "votes": 491,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-country",
+   "name": "Smooth Country",
+   "url": "https://www.smoothradio.com/country/",
+   "stream": "https://media-ssl.musicradio.com/SmoothCountry",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "country"
+   ],
+   "votes": 480,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "45-radio",
+   "name": "45 Radio",
+   "url": "https://www.my45radio.co.uk/",
+   "stream": "https://stream1.themediasite.co.uk:7009/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 479,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "street-sounds-radio",
+   "name": "Street Sounds Radio",
+   "url": "https://www.streetsoundsradio.com/",
+   "stream": "https://streaming.broadcastradio.com:10525/streetsd",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "funk",
+    "jazz"
+   ],
+   "votes": 478,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rinse-uk",
+   "name": "Rinse UK",
+   "url": "https://www.rinse.fm/channels/uk/",
+   "stream": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "british-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance-music",
+    "house",
+    "techno"
+   ],
+   "votes": 439,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-movies",
+   "name": "Classic FM Movies",
+   "url": "https://www.classicfm.com/movies/",
+   "stream": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 429,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "intamixx-80s-90s-radio-uk",
+   "name": "Intamixx 80s 90s Radio UK",
+   "url": "https://80s.intamixx.uk/",
+   "stream": "https://radio.intamixx.uk:8443/radio2",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "London",
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "electronic",
+    "funk",
+    "reggae"
+   ],
+   "votes": 400,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-essential-classical",
+   "name": "Classic FM Essential Classical",
+   "url": "https://www.classicfm.com/",
+   "stream": "https://icecast.thisisdax.com/ClassicFM-M-Essential",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 375,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1940s-radio-hs-pumpkin-fm",
+   "name": "1940s Radio HS - Pumpkin FM",
+   "url": "https://pumpkinfm.com/",
+   "stream": "https://cast2.asurahosting.com/proxy/1940sradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London, England",
+   "genre": [
+    "50s"
+   ],
+   "votes": 373,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "davide-of-mimic",
+   "name": "Davide of MIMIC",
+   "url": "https://www.davideofmimic.com/",
+   "stream": "https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London, England",
+   "genre": [
+    "classical"
+   ],
+   "votes": 356,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-fm-dance-music-radio",
+   "name": "Energy FM - Dance Music Radio",
+   "url": "https://www.energyfm.co.uk/",
+   "stream": "https://radio.streemlion.com:1875/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "England",
+   "genre": [
+    "dance",
+    "house",
+    "trance"
+   ],
+   "votes": 356,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-video-game-music",
+   "name": "Classic FM Video Game Music",
+   "url": "https://www.classicfm.com/",
+   "stream": "https://icecast.thisisdax.com/ClassicFM-M-Gaming",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 346,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "reprezent-radio",
+   "name": "Reprezent Radio",
+   "url": "https://www.reprezentradio.org.uk/",
+   "stream": "https://radio.canstream.co.uk:8022/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music",
+    "electronic"
+   ],
+   "votes": 335,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-england-pumpkin-fm",
+   "name": "Radio England - Pumpkin FM",
+   "url": "https://pumpkinfm.com/",
+   "stream": "https://cast2.asurahosting.com/proxy/radioengland/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London, England",
+   "genre": [
+    "50s"
+   ],
+   "votes": 329,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tmm-1-hq",
+   "name": "TMM 1 (HQ)",
+   "url": "https://www.themusicmachine.co.uk/",
+   "stream": "https://listen-msmn.sharp-stream.com/nme1high.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Camden",
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 316,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jfsr-jazz-funk-soul-radio",
+   "name": "JFSR - Jazz Funk Soul Radio",
+   "url": "https://jfsr.co.uk/",
+   "stream": "https://s2.radio.co/s22ae5a8a6/listen",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "funk",
+    "jazz",
+    "soul"
+   ],
+   "votes": 308,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aah-classical-radio-bach",
+   "name": "Aah Classical Radio - Bach",
+   "url": "http://classical.aahradio.com/channel/bach/",
+   "stream": "https://radio.hearme.fm:9040/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 259,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flashback-radio",
+   "name": "Flashback Radio",
+   "url": "https://www.flashbackradio.co.uk/",
+   "stream": "https://live.flashbackcentral.co.uk/radio/8000/apple",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 238,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "memory-lane-nts",
+   "name": "Memory Lane | NTS",
+   "url": "https://www.nts.live/infinite-mixtapes/memory-lane",
+   "stream": "https://stream-mixtape-geo.ntslive.net/mixtape6",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "soul"
+   ],
+   "votes": 235,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kaos-sound-pink-floyd-radio",
+   "name": "KAOS Sound - Pink Floyd Radio",
+   "url": "https://kaos-sound.co.uk/mrsdocs/home.html",
+   "stream": "https://s3.myradiostream.com/:59506/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 234,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-voice-of-doom",
+   "name": "The Voice Of Doom",
+   "url": "https://www.thevoiceofdoom.com/",
+   "stream": "https://streaming.galaxywebsolutions.com:9046/stream",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 217,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nu-disco-funk-radio",
+   "name": "Nu Disco Funk Radio",
+   "url": "https://nu-disco-funk-radio.com/",
+   "stream": "https://my.radiolize.com/radio/8090/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "London, England",
+   "genre": [
+    "disco",
+    "funk"
+   ],
+   "votes": 212,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "actual-radio",
+   "name": "Actual Radio",
+   "url": "https://actualradio.com/",
+   "stream": "https://securestreams.autopo.st:1174/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 211,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "labyrinth-nts",
+   "name": "Labyrinth | NTS",
+   "url": "https://www.nts.live/infinite-mixtapes/labyrinth",
+   "stream": "https://stream-mixtape-geo.ntslive.net/mixtape31",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "techno"
+   ],
+   "votes": 210,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "planet-rock-where-rock-lives",
+   "name": "PLANET ROCK: Where Rock Lives",
+   "url": "https://www.hellorayo.co.uk/planet-rock",
+   "stream": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "classic-rock",
+    "music",
+    "rock"
+   ],
+   "votes": 209,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "capital-the-uk-s-no-1-hit-music-station",
+   "name": "CAPITAL - The UK's No.1 Hit Music Station",
+   "url": "https://www.capitalfm.com/",
+   "stream": "https://media-ssl.musicradio.com/CapitalUK",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "music",
+    "pop-music",
+    "top-hits"
+   ],
+   "votes": 204,
+   "clicks": 195,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gen-x-radio",
+   "name": "Gen X Radio",
+   "url": "https://genxradio.co.uk/",
+   "stream": "https://s2.radio.co/sf25229e16/listen",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Suffolk",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "adult-contemporary",
+    "classic-hits",
+    "hits",
+    "oldies"
+   ],
+   "votes": 204,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-fusion-radio-uk",
+   "name": "House Fusion Radio (UK)",
+   "url": "https://house-fusion-radio5.webnode.co.uk/",
+   "stream": "https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "disco",
+    "house",
+    "techno"
+   ],
+   "votes": 198,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-south-wales",
+   "name": "Heart South Wales",
+   "url": "https://www.heart.co.uk/southwales",
+   "stream": "https://media-ssl.musicradio.com/HeartSouthWalesMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Wales",
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 189,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "neon-radio-80s-90s-pop-dance",
+   "name": "Neon Radio - 80s & 90s Pop & Dance",
+   "url": "https://www.neonradio.co.uk/",
+   "stream": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 184,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "total-soul-uk-192kb-mp3",
+   "name": "Total Soul (UK) 192kb mp3",
+   "url": "https://www.totalsoul.co.uk/",
+   "stream": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "disco",
+    "soul"
+   ],
+   "votes": 181,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "funkuradio",
+   "name": "FunkURadio",
+   "url": "http://www.funkuradio.co.uk/",
+   "stream": "https://furfmcou.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "disco",
+    "funk",
+    "jazz",
+    "soul"
+   ],
+   "votes": 178,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-radio",
+   "name": "Easy Radio",
+   "url": "https://www.nationplayer.com/easy-radio-south/",
+   "stream": "https://listen-nation.sharp-stream.com/breezyradiouk.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 177,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-like-it-oldskool",
+   "name": "I Like It Oldskool",
+   "url": "https://ilikeitoldskool.co.uk/",
+   "stream": "https://ilikeitoldskool.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 171,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-central-24",
+   "name": "Radio Central 24",
+   "url": "http://radiocentral24.com/",
+   "stream": "https://casper.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "punjabi",
+    "urdu"
+   ],
+   "langCodes": [
+    "en",
+    "ur"
+   ],
+   "state": "West Midlands",
+   "genre": [
+    "bollywood"
+   ],
+   "votes": 170,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trancetechnic-radio",
+   "name": "Trancetechnic Radio",
+   "url": "http://www.trancetechnic.uk/",
+   "stream": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "techno",
+    "trance"
+   ],
+   "votes": 168,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-radio",
+   "name": "Hot Radio",
+   "url": "https://www.hot.radio/",
+   "stream": "https://stream1.hippynet.co.uk/stream/hotradio/dorset",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "british-english",
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dorset",
+   "genre": [
+    "2000s",
+    "hits",
+    "pop"
+   ],
+   "votes": 166,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-x-90s",
+   "name": "Radio X 90s",
+   "url": "https://www.radiox.co.uk/90s/",
+   "stream": "https://media-ice.musicradio.com/RadioX90sMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "alternative"
+   ],
+   "votes": 162,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "netil-radio",
+   "name": "Netil Radio",
+   "url": "http://netilradio.com/",
+   "stream": "https://netilradio.out.airtime.pro/netilradio_a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "ambient",
+    "disco",
+    "electronic",
+    "hip-hop",
+    "house",
+    "reggae",
+    "techno"
+   ],
+   "votes": 159,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "boot-boy-radio",
+   "name": "Boot Boy Radio",
+   "url": "https://bootboyradio.net/",
+   "stream": "https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lowestoft, England",
+   "genre": [
+    "reggae",
+    "soul"
+   ],
+   "votes": 158,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-blues-radio",
+   "name": "24/7 Blues Radio",
+   "url": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-blues-radio/",
+   "stream": "https://ec3.yesstreaming.net:3685/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "blues"
+   ],
+   "votes": 155,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bfbs-beats",
+   "name": "BFBS Beats",
+   "url": "https://www.forces.net/",
+   "stream": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "hits"
+   ],
+   "votes": 149,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm-hall-of-fame",
+   "name": "Classic FM Hall of Fame",
+   "url": "https://www.classicfm.com/",
+   "stream": "https://icecast.thisisdax.com/ClassicFM-M-HOF",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 149,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mystery-train-radio",
+   "name": "Mystery Train Radio",
+   "url": "https://www.mysterytrainradio.com/",
+   "stream": "https://streamer.radio.co/sf662f27c0/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues",
+    "folk",
+    "indie",
+    "rock"
+   ],
+   "votes": 141,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-radio-suffolk",
+   "name": "Smooth Radio (Suffolk)",
+   "url": "https://www.smoothradio.com/suffolk/",
+   "stream": "https://media-ssl.musicradio.com/SmoothSuffolk",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Suffolk",
+   "genre": [
+    "adult-contemporary",
+    "chillout",
+    "oldies"
+   ],
+   "votes": 140,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gold-radio-uk",
+   "name": "Gold Radio UK",
+   "url": "https://www.goldradio.com/?page=2",
+   "stream": "https://media-ice.musicradio.com/GoldMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 135,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "malvern-radio-international-pumpkin-fm",
+   "name": "Malvern Radio International - Pumpkin FM",
+   "url": "https://pumpkinfm.com/",
+   "stream": "https://cast2.asurahosting.com/proxy/radiomalvernint/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english-uk"
+   ],
+   "state": "Malvern",
+   "genre": [
+    "opera"
+   ],
+   "votes": 132,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "divine-radio-london",
+   "name": "Divine Radio London",
+   "url": "https://www.divineradiolondon.co.uk/",
+   "stream": "https://uk2.internet-radio.com/proxy/divinestream?mp=/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 128,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dancefmlive-trance",
+   "name": "DanceFMLive Trance",
+   "url": "https://www.dancefmlive.com/",
+   "stream": "https://broadcast.dancefmlive.com/radio/8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Lancashire",
+   "genre": [
+    "trance"
+   ],
+   "votes": 127,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bloodstream",
+   "name": "Radio Bloodstream",
+   "url": "https://www.radiobloodstream.com/en/",
+   "stream": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 125,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "forest-gold",
+   "name": "Forest Gold",
+   "url": "https://www.forestgoldradio.com/",
+   "stream": "https://c2.prostream365.com:8000/live",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Epping Essex",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 123,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-soul",
+   "name": "Smooth Soul",
+   "url": "https://www.smoothradio.com/soul/",
+   "stream": "https://media-ice.musicradio.com/SmoothSoulMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "soul"
+   ],
+   "votes": 122,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "heart-00s",
+   "name": "Heart 00s",
+   "url": "https://media-ssl.musicradio.com/Heart00sMP3",
+   "stream": "https://media-ssl.musicradio.com/Heart00sMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 116,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swu-fm",
+   "name": "SWU FM",
+   "url": "https://rinse.fm/channels/swu/",
+   "stream": "https://admin.stream.rinse.fm/proxy/swu/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bristol",
+   "genre": [
+    "house",
+    "techno"
+   ],
+   "votes": 110,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "5-rivers-radio",
+   "name": "5 Rivers radio",
+   "url": "https://onlineradiobox.com/json/uk/5rivers/play?platform=web",
+   "stream": "https://onlineradiobox.com/json/uk/5rivers/play?platform=web",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 108,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bradford-asian-radio",
+   "name": "Bradford Asian Radio",
+   "url": "https://cast1.asurahosting.com/proxy/bradford/stream",
+   "stream": "https://cast1.asurahosting.com/proxy/bradford/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 107,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-80s",
+   "name": "Smooth 80s",
+   "url": "https://www.smoothradio.com/80s/",
+   "stream": "https://media-ice.musicradio.com/Smooth80sMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 104,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bloop-london-radio-channel-4-music-only-themed-s",
+   "name": "Bloop London Radio (channel 4) - MUSIC ONLY THEMED STREAM. NATURAL HIGH. DRENCHE",
+   "url": "https://blooplondon.com/",
+   "stream": "https://radio.canstream.co.uk:8058/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic"
+   ],
+   "votes": 103,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "foundation-fm",
+   "name": "Foundation FM",
+   "url": "https://foundation.fm/",
+   "stream": "https://streamer.radio.co/s0628bdd53/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "electronic",
+    "hip-hop",
+    "indie",
+    "jazz"
+   ],
+   "votes": 101,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-gold",
+   "name": "Hot Gold",
+   "url": "https://www.hotgold.radio/",
+   "stream": "https://stream1.hippynet.co.uk/stream/hotgold/dorset",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "british-english",
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Dorset",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 101,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hearme-beethoven",
+   "name": "HearMe-Beethoven",
+   "url": "http://www.hearme.fm/",
+   "stream": "https://radio.hearme.fm:9050/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 98,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "asian-star-radio",
+   "name": "Asian Star Radio",
+   "url": "https://radio.canstream.co.uk:9067/live.mp3",
+   "stream": "https://radio.canstream.co.uk:9067/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 97,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-mix-radio-80s",
+   "name": "The Mix Radio 80s",
+   "url": "https://www.themixradio.co.uk/",
+   "stream": "https://tmr80s.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "classic-rock",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 97,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-hits-uk-com",
+   "name": "Hot Hits UK.com",
+   "url": "https://www.hothitsuk.com/",
+   "stream": "https://443-1.autopo.st/54/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance-music",
+    "edm"
+   ],
+   "votes": 96,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ram-fm-80s-hit-radio",
+   "name": "Ram FM 80s Hit Radio",
+   "url": "https://ramfm.org/",
+   "stream": "https://usa1-vn.mixstream.net/8084/listen.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "eighties"
+   ],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "totalrock-radio",
+   "name": "TotalRock Radio",
+   "url": "https://totalrock.com/",
+   "stream": "https://s3.citrus3.com:8056/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "british-english"
+   ],
+   "state": "London, England",
+   "genre": [
+    "metal",
+    "music",
+    "rock"
+   ],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lyca-dil-se-radio",
+   "name": "Lyca Dil se radio",
+   "url": "https://edge-ads-03-gos2.sharp-stream.com/1035.mp3",
+   "stream": "https://edge-ads-03-gos2.sharp-stream.com/1035.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hindi"
+   ],
+   "langCodes": [
+    "hi"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 93,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "4tunesfm",
+   "name": "4TunesFM",
+   "url": "https://links.4tunefm.co.uk/",
+   "stream": "https://c30.radioboss.fm:18274/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "reggae"
+   ],
+   "votes": 92,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "worldwide-fm",
+   "name": "Worldwide FM",
+   "url": "https://www.worldwidefm.net/",
+   "stream": "https://worldwide-fm.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "London, England",
+   "genre": [
+    "electronica",
+    "jazz"
+   ],
+   "votes": 88,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-edm-radio",
+   "name": "24/7 EDM Radio",
+   "url": "https://www.247onlineradio.com/24-7-edm-radio/",
+   "stream": "https://ec6.yesstreaming.net:1455/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "edm"
+   ],
+   "votes": 86,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-jazz-radio",
+   "name": "24/7 Jazz Radio",
+   "url": "https://www.247onlineradio.com/24-7-jazz-radio/",
+   "stream": "https://ec3.yesstreaming.net:3455/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 84,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chocolate-radio-com",
+   "name": "chocolate-radio.com",
+   "url": "https://chocolate-radio.com/",
+   "stream": "https://stream.radio.co/sa7336b687/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "funk",
+    "jazz",
+    "soul"
+   ],
+   "votes": 83,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-rhythm",
+   "name": "80s Rhythm",
+   "url": "https://www.80srhythm.com/",
+   "stream": "https://stream.mybroadbandradio.com/80srhythmhq/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "London, England",
+   "genre": [
+    "80s",
+    "dance",
+    "pop",
+    "rock"
+   ],
+   "votes": 81,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bristol-sound-webradio",
+   "name": "Bristol Sound Webradio",
+   "url": "https://bristol-sound-webradio.tumblr.com/LISTEN",
+   "stream": "https://thebristolsoundwebradio.stream.laut.fm/thebristolsoundwebradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "downtempo"
+   ],
+   "votes": 81,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "globl-funk-radio",
+   "name": "Globl Funk Radio",
+   "url": "https://www.globalfunkradio.com/",
+   "stream": "https://securestreams2.autopo.st:1148/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "disco",
+    "funk",
+    "hip-hop"
+   ],
+   "votes": 79,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "house-fm",
+   "name": "House FM",
+   "url": "https://hse.fm/",
+   "stream": "https://uksoutha.streaming.broadcast.radio:19920/housefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London, England",
+   "genre": [
+    "house"
+   ],
+   "votes": 74,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "revolution-radio-one",
+   "name": "Revolution Radio One",
+   "url": "https://revolutionradio.online/revolutionone",
+   "stream": "https://visual.shoutca.st/stream/revolutionone/stream",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-scifi-radio",
+   "name": "24/7 SciFi Radio",
+   "url": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-scifi-radio/",
+   "stream": "https://ec6.yesstreaming.net:1465/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient"
+   ],
+   "votes": 71,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "capital-anthems",
+   "name": "Capital Anthems",
+   "url": "https://www.capitalfm.com/anthems/",
+   "stream": "https://media-ice.musicradio.com/CapitalAnthemsMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xl-uk-radio",
+   "name": "XL:UK Radio",
+   "url": "https://www.xlukradio.com/",
+   "stream": "https://s3.radio.co/s113a5dc46/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Swansea, Wales",
+   "genre": [
+    "bollywood",
+    "dance",
+    "edm",
+    "hip-hop",
+    "house",
+    "r&b",
+    "rap",
+    "reggae",
+    "reggaeton"
+   ],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-classics-uk",
+   "name": "Dance Classics UK",
+   "url": "http://www.danceclassics.co.uk/",
+   "stream": "https://stream4.themediasite.co.uk/stream/danceclassics",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 68,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": ".. Al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dance-anthems-radio",
+   "name": "Dance Anthems Radio",
+   "url": "https://www.danceanthemsradio.com/",
+   "stream": "https://stream3.themediasite.co.uk/stream/danceanthems",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 66,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-bossa-nova-radio",
+   "name": "24/7 Bossa Nova Radio",
+   "url": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-bossa-nova-radio/",
+   "stream": "https://ec6.yesstreaming.net:1605/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "malvern-radio-jrs-pumpkin-fm",
+   "name": "Malvern Radio JRS - Pumpkin FM",
+   "url": "https://pumpkinfm.com/",
+   "stream": "https://cast2.asurahosting.com/proxy/malvernradiojrs/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "playback-uk",
+   "name": "Playback UK",
+   "url": "https://www.playbackuk.com/",
+   "stream": "https://chilledstreaming.com:8650/mobile.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 64,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80s-zoom",
+   "name": "80s Zoom",
+   "url": "http://www.80szoom.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "british-english",
+    "engilsh",
+    "english-uk"
+   ],
+   "state": "London, England",
+   "genre": [
+    "80s",
+    "classic-hits",
+    "eighties",
+    "oldies",
+    "pop"
+   ],
+   "votes": 63,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dragon-radio",
+   "name": "Dragon Radio",
+   "url": "https://www.nationplayer.com/dragon-radio/",
+   "stream": "https://listen-nation.sharp-stream.com/tcnationdigital.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Wales",
+   "genre": [
+    "pop"
+   ],
+   "votes": 63,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-the-best-vibes-energy",
+   "name": "KISS - The Best Vibes & Energy",
+   "url": "https://www.hellorayo.co.uk/kiss",
+   "stream": "https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+   "codec": "aac",
+   "bitrate": 47,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "dance",
+    "dance-music",
+    "edm",
+    "music",
+    "pop",
+    "r&b"
+   ],
+   "votes": 62,
+   "clicks": 43,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "simulator-radio",
+   "name": "Simulator Radio",
+   "url": "https://simulatorradio.com/",
+   "stream": "https://simulatorradio.stream/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "top-40"
+   ],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "capital-dance-the-uk-s-official-dance-station",
+   "name": "CAPITAL DANCE: The UK's Official Dance Station",
+   "url": "https://www.capitaldance.com/",
+   "stream": "https://media-ssl.musicradio.com/CapitalDance",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "state": "London",
+   "genre": [
+    "dance",
+    "dance-music",
+    "edm",
+    "music"
+   ],
+   "votes": 61,
+   "clicks": 44,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-fm91",
+   "name": "JAZZ.FM91",
+   "url": "https://jazz.fm/",
+   "stream": "https://jazzfm91.streamb.live/SB00009",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 61,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "24-7-lounge-radio",
+   "name": "24/7 Lounge Radio",
+   "url": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-lounge-radio/",
+   "stream": "https://ec3.yesstreaming.net:3665/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "blues",
+    "chillout",
+    "jazz",
+    "lounge"
+   ],
+   "votes": 60,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "totally-wired-radio",
+   "name": "Totally Wired Radio",
+   "url": "https://totallywiredradio.com/",
+   "stream": "https://totallywired.out.airtime.pro/totallywired_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "adult-contemporary",
+    "jazz",
+    "soul"
+   ],
+   "votes": 60,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "107-8-black-diamond-fm",
+   "name": "107.8 Black Diamond FM",
+   "url": "https://www.blackdiamondfm.com/",
+   "stream": "https://icecast-s.bdfm.radio/blackdiamondfm?icecast",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "midlothian",
+   "genre": [
+    "country",
+    "music",
+    "rock"
+   ],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "like-anthems",
+   "name": "Like Anthems",
+   "url": "https://like.radio/",
+   "stream": "https://likeradiostream.com/likeanthemsaac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "dance",
+    "pop"
+   ],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hearme-love-songs",
+   "name": "HearMe - Love songs",
+   "url": "https://hearme.fm/",
+   "stream": "https://radio.hearme.fm:8140/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-northsea-uk",
+   "name": "Radio Northsea UK",
+   "url": "https://www.rniradio.net/",
+   "stream": "https://listentomystream.com:8008/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop",
+    "top-40"
+   ],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hereme-2000s-pop",
+   "name": "Hereme 2000s pop",
+   "url": "https://hearme.fm/",
+   "stream": "https://radio.hearme.fm:8040/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "2000s",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2day-mix-radio",
+   "name": "2day mix radio",
+   "url": "https://2daymixradio.org/",
+   "stream": "https://2day.2daymixradio.org:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "London, England",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 50,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-london-radio",
+   "name": "Jazz London radio",
+   "url": "https://www.jazzlondonradio.com/",
+   "stream": "https://radio.canstream.co.uk:8075/live.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english-uk"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-radio-online-uk",
+   "name": "Sunshine Radio Online UK",
+   "url": "https://sunshineradioonline.co.uk/",
+   "stream": "https://stream1.themediasite.co.uk/8036/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s-2000s-more",
+   "name": "90s 2000s & More",
+   "url": "https://lunar.citrus3.com:2020/public/90s2000sandmore",
+   "stream": "https://lunar.citrus3.com:8162/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "hits",
+    "pop"
+   ],
+   "votes": 49,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shine-879",
+   "name": "Shine 879",
+   "url": "https://shinedab.com/",
+   "stream": "https://s3.radio.co/sd4abfe69e/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soulpower-radio-com",
+   "name": "SOULPOWER-RADIO.COM",
+   "url": "https://soulpower-radio.com/",
+   "stream": "https://s2.radio.co/sb0964023c/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "funk",
+    "jazz",
+    "soul"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "crackers-radio",
+   "name": "Crackers Radio",
+   "url": "https://www.crackersradio.com/",
+   "stream": "https://crackersfresh.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Bromley",
+   "genre": [
+    "funk",
+    "soul"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "regal-radio",
+   "name": "Regal Radio",
+   "url": "https://www.regalradio.net/",
+   "stream": "https://stream.regalradio.net/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Scotland",
+   "genre": [
+    "blues",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "majestic-jukebox-radio",
+   "name": "Majestic Jukebox Radio",
+   "url": "https://www.majesticjukeboxradio.com/",
+   "stream": "https://uk3.internet-radio.com/proxy/majesticjukebox/live",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "oldies"
+   ],
+   "votes": 44,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "original-106",
+   "name": "Original 106",
+   "url": "https://www.originalfm.com/",
+   "stream": "https://listen-original.sharp-stream.com/original106.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "british-english",
+    "english",
+    "english-uk"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-buzz",
+   "name": "The Buzz",
+   "url": "https://www.thisisthebuzz.com/",
+   "stream": "https://streaming05.liveboxstream.uk/proxy/kookyinc/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Manchester",
+   "genre": [
+    "80s",
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bluesradio-uk",
+   "name": "BluesRadio UK",
+   "url": "http://www.bluesradio.co.uk/index.php",
+   "stream": "https://streaming06.liveboxstream.uk/proxy/david125/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "London, England",
+   "genre": [
+    "blues"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virgin-radio-uk-rock-n-roll-radio-from-the-top-o",
+   "name": "VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower",
+   "url": "https://virginradio.co.uk/",
+   "stream": "https://virgin.live.stream.broadcasting.news/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "music",
+    "rock"
+   ],
+   "votes": 43,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hearme-classic-rock",
+   "name": "HearMe - Classic Rock",
+   "url": "https://hearme.fm/",
+   "stream": "https://radio.hearme.fm:8270/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "clyde-built-radio",
+   "name": "Clyde Built Radio",
+   "url": "https://www.clydebuiltradio.com/",
+   "stream": "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Glasgow",
+   "genre": [
+    "music"
+   ],
+   "votes": 40,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "belters-radio",
+   "name": "Belters Radio",
+   "url": "https://www.belter-radio.com/",
+   "stream": "https://uk2.internet-radio.com/proxy/belters?mp=/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fresh-fm-radio-london",
+   "name": "Fresh Fm Radio London",
+   "url": "https://freshfmradiolondon.com/",
+   "stream": "https://eu4.fastcast4u.com/proxy/blacka?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London, England",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 39,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hearme-trance",
+   "name": "HearMe - trance",
+   "url": "https://hearme.fm/",
+   "stream": "https://radio.hearme.fm:8100/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 38,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hospital-radio-norwich",
+   "name": "Hospital Radio Norwich",
+   "url": "https://hospitalradionorwich.co.uk/",
+   "stream": "https://hospita1.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 56,
+   "format": "music",
+   "state": "Norfolk",
+   "genre": [
+    "classical",
+    "country",
+    "eighties",
+    "folk",
+    "instrumental",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aaja-radio-channel-2",
+   "name": "Aaja Radio | Channel 2",
+   "url": "https://aajamusic.com/radio",
+   "stream": "https://aaja-2.radiocult.fm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "music"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-dance-the-biggest-dance-anthems-24-7",
+   "name": "KISS DANCE: The Biggest Dance Anthems 24/7",
+   "url": "https://www.hellorayo.co.uk/kiss-dance",
+   "stream": "https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London",
+   "genre": [
+    "dance",
+    "dance-music",
+    "edm"
+   ],
+   "votes": 37,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bbc-world-service",
+   "name": "BBC World Service",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+   "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+   "codec": "mp3",
+   "bitrate": 56,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 16781,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "talksport",
+   "name": "TalkSPORT",
+   "url": "https://talksport.com/",
+   "stream": "https://radio.talksport.com/stream",
+   "codec": "aac",
+   "bitrate": 63,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 3604,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "capital-dance",
+   "name": "Capital Dance",
+   "url": "https://www.capitaldance.com/",
+   "stream": "https://icecast.thisisdax.com/CapitalDanceMP3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 2664,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lbc-news",
+   "name": "LBC News",
+   "url": "https://www.globalplayer.com/live/lbcnews/uk/",
+   "stream": "https://media-ssl.musicradio.com/LBCNewsUK",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1413,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "britcom-2-pumpkin-fm",
+   "name": "BritCom 2 - Pumpkin FM",
+   "url": "https://pumpkinfm.com/",
+   "stream": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "british-english"
+   ],
+   "state": "London, England",
+   "genre": [],
+   "votes": 1308,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "strange-radio-pumpkin-fm",
+   "name": "Strange Radio - Pumpkin FM",
+   "url": "https://pumpkinfm.com/",
+   "stream": "https://cast2.asurahosting.com/proxy/strangeradio/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "London, England",
+   "genre": [],
+   "votes": 1053,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  }
+ ]
+}

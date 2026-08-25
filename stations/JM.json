@@ -1,0 +1,208 @@
+{
+ "countryCode": "JM",
+ "country": "Jamaica",
+ "slug": "jamaica",
+ "continent": "americas",
+ "stationCount": 13,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/jamaica/",
+ "stations": [
+  {
+   "id": "unityxm",
+   "name": "UnityXM",
+   "url": "https://unityxm.com/",
+   "stream": "https://a8.asurahosting.com:7430/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "reggae"
+   ],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "suncity-104-9-fm",
+   "name": "SunCity 104.9 FM",
+   "url": "https://www.suncityradio.fm/",
+   "stream": "https://edge.mixlr.com/channel/ibrdq",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 1500,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fyah-105",
+   "name": "Fyah 105",
+   "url": "https://fyah105.com/",
+   "stream": "https://listen.radioking.com/radio/459389/stream/514595",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "No States Listed",
+   "genre": [],
+   "votes": 1193,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rebel-radio",
+   "name": "Rebel Radio",
+   "url": "https://www.facebook.com/rebelradiolink.co",
+   "stream": "https://streamer.radio.co/s830ce6f36/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1177,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ghetto-vibes-radio",
+   "name": "ghetto vibes radio",
+   "url": "https://app.site123.com/manager/wizard.php?wu=6293042d3b4b8-6293042d3b4f3-6293042d3b52d&from=dash#",
+   "stream": "https://www.radioking.com/play/ghetto-vibes-radio-station",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "st catherine",
+   "genre": [],
+   "votes": 1160,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "irie-fm",
+   "name": "Irie FM",
+   "url": "https://iriefm.net/",
+   "stream": "https://usa19.fastcast4u.com:7430/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 598,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "irie-storm-radio",
+   "name": "IRIE Storm Radio",
+   "url": "https://www.iriestormradio.com/",
+   "stream": "https://auds1.intacs.com/iriestormradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 461,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "the-edge-105-fm",
+   "name": "The Edge 105 FM",
+   "url": "https://edge105.com/",
+   "stream": "https://listen.radioking.com/radio/331171/stream/387835",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 385,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alpha-boys-school-radio",
+   "name": "Alpha Boys School Radio",
+   "url": "https://www.alphaboysschoolradio.com/",
+   "stream": "https://alphaboys-live.streamguys1.com/alphaboys.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "state": "Kingston",
+   "genre": [],
+   "votes": 210,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "baddajam",
+   "name": "baddajam",
+   "url": "https://baddajam.com/",
+   "stream": "https://dc2.serverse.com/stream/baddajam",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 25,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "newstalk-93-fm",
+   "name": "Newstalk 93 FM",
+   "url": "https://newstalk93fm.net/",
+   "stream": "https://newstalk93fm.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english",
+    "jamaicaans-patois"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Catherine's Peak",
+   "genre": [],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "art-radio",
+   "name": "ART RADIO",
+   "url": "https://artradiolive.com/",
+   "stream": "https://a3.asurahosting.com:6220/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 11,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

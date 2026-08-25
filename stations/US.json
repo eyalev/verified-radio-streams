@@ -1,0 +1,3332 @@
+{
+ "countryCode": "US",
+ "country": "United States",
+ "slug": "united-states",
+ "continent": "americas",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/united-states/",
+ "stations": [
+  {
+   "id": "classic-vinyl-hd",
+   "name": "Classic Vinyl HD",
+   "url": "https://walmradio.com/classic",
+   "stream": "https://icecast.walmradio.com:8443/classic",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York NY",
+   "genre": [
+    "classic-hits",
+    "easy-listening",
+    "jazz",
+    "lounge",
+    "oldies",
+    "orchestral"
+   ],
+   "votes": 297561,
+   "clicks": 701,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-vinyl-hd",
+   "name": "Christmas Vinyl HD",
+   "url": "https://walmradio.com/christmas",
+   "stream": "https://icecast.walmradio.com:8443/christmas",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York NY",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 165876,
+   "clicks": 184,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "walm-hd",
+   "name": "WALM HD",
+   "url": "https://walmradio.com/walm",
+   "stream": "https://icecast.walmradio.com:8443/walm",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York NY",
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 162941,
+   "clicks": 134,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "walm-2-hd",
+   "name": "WALM 2 HD",
+   "url": "https://walmradio.com/walm2",
+   "stream": "https://icecast.walmradio.com:8443/walm2",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "christian-music",
+    "orchestral"
+   ],
+   "votes": 100442,
+   "clicks": 135,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-vinyl-hd-opus",
+   "name": "Christmas Vinyl HD Opus",
+   "url": "https://walmradio.com/christmas",
+   "stream": "https://icecast.walmradio.com:8443/christmas_opus",
+   "codec": "ogg",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 64731,
+   "clicks": 53,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "classic-hits-radio-70-80-discofunk-modernsoul-bo",
+   "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+   "url": "http://classichits.radio/",
+   "stream": "https://radiopanther.radiolebowski.com/play",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "classic-hits"
+   ],
+   "votes": 57936,
+   "clicks": 108,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-vinyl-hd-opus",
+   "name": "Classic Vinyl HD Opus",
+   "url": "https://walmradio.com/classic",
+   "stream": "https://icecast.walmradio.com:8443/classic_opus",
+   "codec": "ogg",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York NY",
+   "genre": [
+    "classic-hits",
+    "easy-listening",
+    "jazz",
+    "lounge",
+    "oldies",
+    "orchestral"
+   ],
+   "votes": 49999,
+   "clicks": 84,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-groove-salad-128k-mp3",
+   "name": "SomaFM Groove Salad (128k MP3)",
+   "url": "https://somafm.com/groovesalad/",
+   "stream": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "lounge"
+   ],
+   "votes": 47507,
+   "clicks": 189,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-secret-agent-128k-mp3",
+   "name": "SomaFM Secret Agent (128k MP3)",
+   "url": "https://somafm.com/secretagent/",
+   "stream": "https://ice6.somafm.com/secretagent-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "downtempo",
+    "jazz",
+    "lounge",
+    "samba"
+   ],
+   "votes": 35912,
+   "clicks": 134,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-the-beat-hiphop-r-b",
+   "name": "181.FM - The Beat (HipHop/R&B)",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-beat_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "rnb"
+   ],
+   "votes": 32284,
+   "clicks": 94,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-underground-80s-128k-mp3",
+   "name": "SomaFM Underground 80s (128k MP3)",
+   "url": "https://somafm.com/u80s/",
+   "stream": "https://ice2.somafm.com/u80s-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "80s"
+   ],
+   "votes": 28562,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-space-station-soma-128k-aac",
+   "name": "SomaFM Space Station Soma (128k AAC)",
+   "url": "https://somafm.com/spacestation/",
+   "stream": "https://ice6.somafm.com/spacestation-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "electronica"
+   ],
+   "votes": 24274,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-poptron-128k-mp3",
+   "name": "SomaFM PopTron (128k MP3)",
+   "url": "https://somafm.com/poptron/",
+   "stream": "https://ice2.somafm.com/poptron-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "indie"
+   ],
+   "votes": 22510,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-indie-pop-rocks-128k-aac",
+   "name": "SomaFM Indie Pop Rocks! (128k AAC)",
+   "url": "https://somafm.com/indiepop/",
+   "stream": "https://ice5.somafm.com/indiepop-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "indie"
+   ],
+   "votes": 21121,
+   "clicks": 37,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-left-coast-70s-320k-mp3",
+   "name": "SomaFM Left Coast 70s (320k MP3)",
+   "url": "https://somafm.com/seventies/",
+   "stream": "https://ice2.somafm.com/seventies-320-mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "easy-listening",
+    "rock"
+   ],
+   "votes": 19807,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "walm-old-time-radio-opus",
+   "name": "WALM - Old Time Radio Opus",
+   "url": "https://walmradio.com/otr",
+   "stream": "https://icecast.walmradio.com:8443/otr_opus",
+   "codec": "ogg",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 17540,
+   "clicks": 67,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "funky-radio-only-funk-music-60-s-70-s",
+   "name": "FUNKY RADIO - Only Funk Music (60's 70's)",
+   "url": "https://funky.radio/",
+   "stream": "https://funkyradio.streamingmedia.it/play.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "italian"
+   ],
+   "langCodes": [
+    "en",
+    "it"
+   ],
+   "state": "New York NY",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "disco",
+    "funk",
+    "music",
+    "oldies",
+    "r&b",
+    "rnb",
+    "soul"
+   ],
+   "votes": 16964,
+   "clicks": 57,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "miami-beach-radio",
+   "name": "Miami Beach Radio",
+   "url": "https://www.miamibeachradio.com/",
+   "stream": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Florida",
+   "genre": [
+    "hits"
+   ],
+   "votes": 15120,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-lush-128k-mp3",
+   "name": "SomaFM Lush (128k MP3)",
+   "url": "https://somafm.com/lush/",
+   "stream": "https://ice6.somafm.com/lush-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "electronic",
+    "lounge"
+   ],
+   "votes": 12257,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "z-92-miami-92-3-fm-wcmq-fm-spanish-broadcasting-",
+   "name": "Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida",
+   "url": "https://www.lamusica.com/stations/wcmq",
+   "stream": "https://liveaudio.lamusica.com/MIA_WCMQ_icy",
+   "codec": "aac",
+   "bitrate": 323,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Florida",
+   "genre": [
+    "music",
+    "salsa"
+   ],
+   "votes": 9764,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-kickin-country",
+   "name": "181.FM - Kickin' Country",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-kickincountry_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "country",
+    "pop",
+    "rock"
+   ],
+   "votes": 8472,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "70s-80s-disco-funk-modernsoul-boogie",
+   "name": "70s 80s Disco Funk ModernSoul Boogie",
+   "url": "https://funky.radio/discofunk_modernsoul_boogie",
+   "stream": "https://discofunk.streamingmedia.it/usa",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York NY",
+   "genre": [
+    "70s",
+    "80s",
+    "funk"
+   ],
+   "votes": 8464,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-rock-radio",
+   "name": "metal rock radio",
+   "url": "http://www.metalrock.fm/",
+   "stream": "https://kathy.torontocast.com:2800/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "metal",
+    "rock"
+   ],
+   "votes": 7839,
+   "clicks": 30,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-true-blues",
+   "name": "181.FM - True Blues",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-blues_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "blues"
+   ],
+   "votes": 7233,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smoothjazz-com-128k-mp3",
+   "name": "SmoothJazz.com 128k mp3",
+   "url": "https://www.smoothjazz.com/",
+   "stream": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 6601,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-country-live-new-york",
+   "name": "Radio Country Live New York",
+   "url": "http://www.radiocountrylive.com/",
+   "stream": "https://streaming.radiostreamlive.com/radiocountrylive_devices",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "country"
+   ],
+   "votes": 5497,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megarock-radio-320k",
+   "name": "Megarock Radio 320k",
+   "url": "https://megarockradio.net/",
+   "stream": "https://stream3.megarockradio.net:80/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Missouri",
+   "genre": [
+    "classic-rock",
+    "metal"
+   ],
+   "votes": 5440,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-heavyweight-reggae-256k-mp3",
+   "name": "SomaFM Heavyweight Reggae (256k MP3)",
+   "url": "https://somafm.com/reggae/",
+   "stream": "https://ice5.somafm.com/reggae-256-mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "reggae"
+   ],
+   "votes": 5216,
+   "clicks": 36,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-love-live-new-york",
+   "name": "Radio Love Live New York",
+   "url": "http://www.radiolovelive.com/",
+   "stream": "https://streaming.radiostreamlive.com/radiolovelive_devices",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 4663,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-the-eagle-classic",
+   "name": "181.FM - The Eagle (Classic)",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-eagle_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 4623,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-80-s-hairband",
+   "name": "181.FM - 80's HairBand",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-hairband_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "80s",
+    "metal"
+   ],
+   "votes": 4321,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-drone-zone-128k-mp3",
+   "name": "SomaFM Drone Zone (128k MP3)",
+   "url": "https://somafm.com/dronezone/",
+   "stream": "https://ice2.somafm.com/dronezone-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "chillout"
+   ],
+   "votes": 3805,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bluegrass-country",
+   "name": "Bluegrass Country",
+   "url": "https://bluegrasscountry.org/",
+   "stream": "https://ice24.securenetsystems.net/WAMU",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Washington, DC",
+   "genre": [
+    "country"
+   ],
+   "votes": 3803,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-real-country",
+   "name": "181.FM - Real Country",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-realcountry_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "country"
+   ],
+   "votes": 3310,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-secret-agent-32k-aac",
+   "name": "SomaFM Secret Agent (32k AAC)",
+   "url": "https://somafm.com/secretagent/",
+   "stream": "https://ice2.somafm.com/secretagent-32-aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "downtempo",
+    "jazz",
+    "lounge",
+    "samba"
+   ],
+   "votes": 2975,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "z100-new-york-s-1-hit-music-station-whtz",
+   "name": "Z100 - New York's #1 Hit Music Station WHTZ",
+   "url": "https://z100.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc1469",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2861,
+   "clicks": 387,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-hits-80s",
+   "name": "#1 HITS 80s",
+   "url": "https://www.hits80s.com/",
+   "stream": "https://makri.cdnstream.com/1898_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 2835,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paradise-rock-mix-flac",
+   "name": "Radio Paradise Rock Mix FLAC",
+   "url": "https://radioparadise.com/",
+   "stream": "https://stream.radioparadise.com/rock-flac",
+   "codec": "ogg",
+   "bitrate": 1441,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "alternative",
+    "rock"
+   ],
+   "votes": 2762,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "america-s-country",
+   "name": "America's Country",
+   "url": "https://americascountry.us/",
+   "stream": "https://ais-sa2.cdnstream1.com/1976_128.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Utah",
+   "genre": [
+    "country"
+   ],
+   "votes": 2700,
+   "clicks": 47,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-deep-space-one-32k-aac",
+   "name": "SomaFM Deep Space One (32k AAC)",
+   "url": "https://somafm.com/deepspaceone/",
+   "stream": "https://ice6.somafm.com/deepspaceone-32-aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "electronic"
+   ],
+   "votes": 2697,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-left-coast-70s-128k-mp3",
+   "name": "SomaFM Left Coast 70s (128k MP3)",
+   "url": "https://somafm.com/seventiesr/",
+   "stream": "https://ice2.somafm.com/seventies-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "easy-listening",
+    "rock"
+   ],
+   "votes": 2643,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-boot-liquor-320k-mp3",
+   "name": "SomaFM Boot Liquor (320k MP3)",
+   "url": "https://somafm.com/bootliquor/",
+   "stream": "https://ice5.somafm.com/bootliquor-320-mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "country"
+   ],
+   "votes": 2580,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-sonic-universe-128k-mp3",
+   "name": "SomaFM Sonic Universe (128k MP3)",
+   "url": "https://somafm.com/sonicuniverse/",
+   "stream": "https://ice5.somafm.com/sonicuniverse-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 2527,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "funky-corner-radio-usa",
+   "name": "_Funky Corner Radio (USA)",
+   "url": "https://www.funkycorner.it/",
+   "stream": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Washington, DC",
+   "genre": [
+    "70s",
+    "80s",
+    "disco",
+    "funk",
+    "music",
+    "musica",
+    "oldies",
+    "r&b",
+    "rnb",
+    "soul"
+   ],
+   "votes": 2498,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-hip-hop-and-rnb-fm",
+   "name": ".100 Hip hop and RNB FM",
+   "url": "https://ice64.securenetsystems.net/LFTM",
+   "stream": "https://ice64.securenetsystems.net/LFTM",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "US",
+   "genre": [
+    "hip-hop",
+    "r&b",
+    "soul"
+   ],
+   "votes": 2455,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "102-7-kiis-fm",
+   "name": "102.7 KIIS FM",
+   "url": "https://kiisfm.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc185",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Los Angeles CA",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 2377,
+   "clicks": 998,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christian-power-praise-dot-net",
+   "name": "Christian Power Praise Dot Net",
+   "url": "https://www.christianpowerpraise.net/",
+   "stream": "https://listen.christianrock.net/stream/13/",
+   "codec": "aac",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Missouri",
+   "genre": [
+    "worship"
+   ],
+   "votes": 2325,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-beat-blender-128k-mp3",
+   "name": "SomaFM Beat Blender (128k MP3)",
+   "url": "https://somafm.com/beatblender/",
+   "stream": "https://ice2.somafm.com/beatblender-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "electronica"
+   ],
+   "votes": 2279,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paradise-mellow-mix-flac",
+   "name": "Radio Paradise Mellow Mix FLAC",
+   "url": "https://radioparadise.com/",
+   "stream": "https://stream.radioparadise.com/mellow-flac",
+   "codec": "ogg",
+   "bitrate": 1441,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 2268,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-classic-hits-181",
+   "name": "181.FM - Classic Hits 181",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-greatoldies_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 2241,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-independent-fm",
+   "name": "The Independent FM",
+   "url": "https://www.radioking.com/radio/the-independent-fm-1",
+   "stream": "https://listen.radioking.com/radio/293701/stream/340084",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Los Angeles CA",
+   "genre": [
+    "indie"
+   ],
+   "votes": 1986,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-soul",
+   "name": "181.FM - Soul",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-soul_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "soul"
+   ],
+   "votes": 1978,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-groove-salad-128k-aac",
+   "name": "SomaFM Groove Salad (128k AAC)",
+   "url": "https://somafm.com/groovesalad/",
+   "stream": "https://ice6.somafm.com/groovesalad-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "lounge"
+   ],
+   "votes": 1967,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-reggae-roots",
+   "name": "181.FM - Reggae Roots",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-reggae_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 1894,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chilltrax",
+   "name": "chilltrax",
+   "url": "",
+   "stream": "https://streamssl.chilltrax.com/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 1697,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dnb-edm",
+   "name": "DnB&EDM",
+   "url": "https://edmdnb.com/",
+   "stream": "https://edmdnb.com:448/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "edm",
+    "electronic",
+    "house"
+   ],
+   "votes": 1674,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-seven-inch-soul-128k-mp3",
+   "name": "SomaFM Seven Inch Soul (128k MP3)",
+   "url": "https://somafm.com/7soul/",
+   "stream": "https://ice2.somafm.com/7soul-128-mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "soul"
+   ],
+   "votes": 1674,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-def-con-radio-128k-aac",
+   "name": "SomaFM DEF CON Radio (128k AAC)",
+   "url": "https://somafm.com/defcon/",
+   "stream": "https://ice6.somafm.com/defcon-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "electronic"
+   ],
+   "votes": 1582,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-underground-80s-256k-mp3",
+   "name": "SomaFM Underground 80s (256k MP3)",
+   "url": "https://somafm.com/u80s/",
+   "stream": "https://ice2.somafm.com/u80s-256-mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "80s"
+   ],
+   "votes": 1486,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-the-heart-love-songs",
+   "name": "181.FM - The Heart (Love Songs)",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-heart_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "love-songs"
+   ],
+   "votes": 1481,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-new-york-live",
+   "name": "Radio New York Live",
+   "url": "http://www.radionylive.com/",
+   "stream": "https://streaming.radiostreamlive.com/radionylive_devices",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 1474,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mega-96-3-los-angeles-96-3-fm-kxol-fm-spanish-br",
+   "name": "Mega 96.3 (Los Angeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los ",
+   "url": "https://www.lamusica.com/stations/kxol",
+   "stream": "https://liveaudio.lamusica.com/LA_KXOL_icy",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "California",
+   "genre": [
+    "latin",
+    "latin-music",
+    "latin-pop"
+   ],
+   "votes": 1466,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frisky",
+   "name": "Frisky",
+   "url": "https://www.friskyradio.com/",
+   "stream": "https://stream.frisky.friskyradio.com/frisky_mp3_high",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New York",
+   "genre": [
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 1419,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christian-rock-dot-net",
+   "name": "Christian Rock Dot Net",
+   "url": "https://www.christianrock.net/",
+   "stream": "https://listen.christianrock.net/stream/11/",
+   "codec": "aac",
+   "bitrate": 120,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Missouri",
+   "genre": [
+    "rock"
+   ],
+   "votes": 1402,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-studio-54",
+   "name": "Disco Studio 54",
+   "url": "https://discostudio54.com/",
+   "stream": "https://maiban00.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "disco"
+   ],
+   "votes": 1357,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-groove-salad-classic-128k-mp3",
+   "name": "SomaFM Groove Salad Classic (128k MP3)",
+   "url": "https://somafm.com/groovesalad/",
+   "stream": "https://ice6.somafm.com/gsclassic-128-mp3",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "downtempo"
+   ],
+   "votes": 1351,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chill-lounge-florida-usa-128k-mp3",
+   "name": "Chill Lounge Florida (USA) 128k mp3",
+   "url": "https://vip2.fastcast4u.com/proxy/chillfla?mp=/1",
+   "stream": "https://vip2.fastcast4u.com/proxy/chillfla?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "chillout",
+    "lounge"
+   ],
+   "votes": 1252,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "begoodradio-com-80s-metal",
+   "name": "Begoodradio.com 80s metal",
+   "url": "http://begoodradio.com/",
+   "stream": "https://bigrradio.cdnstream1.com/5212_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 1209,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rock-on",
+   "name": "Radio Rock On",
+   "url": "http://www.radiorockon.com/",
+   "stream": "https://streaming.radiostreamlive.com/radiorockon_devices",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 1206,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-techno-club",
+   "name": "181.FM - Techno Club",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-technoclub_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "techno"
+   ],
+   "votes": 1186,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "104-9-max-country",
+   "name": "104.9 Max Country",
+   "url": "https://1049maxcountry.com/",
+   "stream": "https://ais-sa1.streamon.fm/7246_48k.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "York NE",
+   "genre": [
+    "country"
+   ],
+   "votes": 1098,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soul-radio-classics",
+   "name": "SOUL RADIO Classics",
+   "url": "https://soulradio.us/",
+   "stream": "https://listen.soulradio.us/us",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Washington, DC",
+   "genre": [
+    "soul"
+   ],
+   "votes": 1084,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chicago-house",
+   "name": "CHICAGO HOUSE",
+   "url": "",
+   "stream": "https://stream.radio.co/sae989fe39/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 1081,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-paradise-mellow-mix-64k-aac",
+   "name": "Radio Paradise Mellow Mix 64k AAC",
+   "url": "https://radioparadise.com/",
+   "stream": "https://stream.radioparadise.com/mellow-64",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 1059,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "your-classical-chamber-music",
+   "name": "Your Classical Chamber Music",
+   "url": "https://www.yourclassical.org/",
+   "stream": "https://chambermusic.stream.publicradio.org/chambermusic.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Minnesota",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1035,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "non-stop-oldies",
+   "name": "Non-Stop Oldies",
+   "url": "http://www.nonstopoldies.com/",
+   "stream": "https://ais-sa2.cdnstream1.com/2383_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Los Angeles CA",
+   "genre": [
+    "70s",
+    "oldies"
+   ],
+   "votes": 991,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-illinois-street-lounge-128k-mp3",
+   "name": "SomaFM Illinois Street Lounge (128k MP3)",
+   "url": "https://somafm.com/illstreet/",
+   "stream": "https://ice2.somafm.com/illstreet-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "lounge"
+   ],
+   "votes": 982,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-boot-liquor-128k-aac",
+   "name": "SomaFM Boot Liquor (128k AAC)",
+   "url": "https://somafm.com/bootliquor/",
+   "stream": "https://ice2.somafm.com/bootliquor-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "country"
+   ],
+   "votes": 967,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-mission-control-128k-mp3",
+   "name": "SomaFM Mission Control (128k MP3)",
+   "url": "https://somafm.com/missioncontrol/",
+   "stream": "https://ice5.somafm.com/missioncontrol-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient"
+   ],
+   "votes": 943,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-christmas-gospel",
+   "name": "181.FM - Christmas Gospel",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-xgospel_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 937,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-90-s-dance",
+   "name": "181.FM - 90's Dance",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-90sdance_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 916,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-christmas-lounge-256k",
+   "name": "SomaFM Christmas Lounge 256k",
+   "url": "https://somafm.com/christmas/",
+   "stream": "https://ice6.somafm.com/christmas-256-mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 905,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-fm-classic-rock",
+   "name": "ROCK FM Classic Rock",
+   "url": "http://www.my-radios.com/es/radio/escuchar/30420/ROCK-FM-CLASSIC-ROCK",
+   "stream": "https://audiotainment-sw.streamabc.net/atsw-classicrock-mp3-128-2538548?",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 891,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-jazz",
+   "name": "Smooth Jazz",
+   "url": "",
+   "stream": "https://smoothjazz.cdnstream1.com/2585_320.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 879,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-hits-radio",
+   "name": "CLASSIC HITS RADIO",
+   "url": "https://classichits.radio/",
+   "stream": "https://classichitsradio.streamingmedia.it/usa",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 877,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-sonic-universe-128k-aac",
+   "name": "SomaFM Sonic Universe (128k AAC)",
+   "url": "https://somafm.com/sonicuniverse/",
+   "stream": "https://ice2.somafm.com/sonicuniverse-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 872,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "whisperings-solo-piano-radio",
+   "name": "Whisperings Solo Piano Radio",
+   "url": "http://www.solopianoradio.com/",
+   "stream": "https://pianosolo.streamguys1.com/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Oregon",
+   "genre": [
+    "classical"
+   ],
+   "votes": 869,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "106-1-kiss-fm-seattle",
+   "name": "106.1 KISS FM Seattle",
+   "url": "https://kissfmseattle.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc4257",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Tacoma WA",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 860,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kusc-91-5-los-angeles-ca-96kbps-aac",
+   "name": "KUSC 91.5 Los Angeles, CA (96kbps AAC)",
+   "url": "http://www.kusc.org/",
+   "stream": "https://27283.live.streamtheworld.com/KUSCAAC96_SC",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "classical"
+   ],
+   "votes": 857,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vision-cristiana-internacional",
+   "name": "Radio Visión Cristiana Internacional",
+   "url": "https://www.radiovision.net/",
+   "stream": "https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "New Jersey",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 856,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-beat-blender-128k-aac",
+   "name": "SomaFM Beat Blender (128k AAC)",
+   "url": "https://somafm.com/beatblender/",
+   "stream": "https://ice6.somafm.com/beatblender-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "electronica"
+   ],
+   "votes": 855,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-chilled-out",
+   "name": "181.FM - Chilled Out",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-chilled_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 832,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-salsa",
+   "name": "181.FM - Salsa",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-salsa_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 790,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-disco-planet",
+   "name": "The Disco Planet",
+   "url": "https://www.thediscoplanet.com/",
+   "stream": "https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Florida",
+   "genre": [
+    "disco"
+   ],
+   "votes": 777,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wbgo-jazz-88-3-fm",
+   "name": "WBGO Jazz 88.3 FM",
+   "url": "https://www.wbgo.org/",
+   "stream": "https://ais-sa8.cdnstream1.com/3629_128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "New Jersey",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 777,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-93-5-old-school",
+   "name": "HOT 93.5 Old School",
+   "url": "https://hotelpaso.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc6841",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "El Paso Texas",
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 751,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-motown",
+   "name": "Radio Motown",
+   "url": "https://www.radio-motown.com/",
+   "stream": "https://broadcast.miami/proxy/motown?mp=/stream/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Florida",
+   "genre": [
+    "disco",
+    "funk",
+    "soul"
+   ],
+   "votes": 743,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbn-classic-christian-radio",
+   "name": "CBN Classic Christian Radio",
+   "url": "https://www1.cbn.com/radio/classicchristian",
+   "stream": "https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 740,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "all-classical-portland",
+   "name": "All Classical Portland",
+   "url": "https://www.allclassical.org/",
+   "stream": "https://allclassical.streamguys1.com/ac96k",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Portland OR",
+   "genre": [
+    "classical"
+   ],
+   "votes": 718,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "folk-music-notebook",
+   "name": "Folk Music Notebook",
+   "url": "https://folkmusicnotebook.com/",
+   "stream": "https://s3.radio.co/s0b5d4adb5/listen",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 717,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-classical-music",
+   "name": "181.FM - Classical Music",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-classical_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "classical"
+   ],
+   "votes": 709,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wqxr-105-9-fm",
+   "name": "WQXR 105.9 FM",
+   "url": "https://www.wqxr.org/",
+   "stream": "https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "New York",
+   "genre": [
+    "classical"
+   ],
+   "votes": 705,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-3-kiss-fm",
+   "name": "100.3 KISS FM",
+   "url": "https://1003kissfm.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc1629",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "High Point NC",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 703,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-jazz-florida",
+   "name": "Smooth Jazz Florida",
+   "url": "https://smoothjazzflorida.com/",
+   "stream": "https://streaming.live365.com/a57422",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Florida",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 696,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "movie-soundtracks-hits-radio-1-fm",
+   "name": "Movie Soundtracks Hits Radio @ 1.fm",
+   "url": "https://www.1.fm/station/moviesoundtracks",
+   "stream": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "soundtrack"
+   ],
+   "votes": 683,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-poptron-128k-aac",
+   "name": "SomaFM PopTron (128k AAC)",
+   "url": "https://somafm.com/poptron/",
+   "stream": "https://ice6.somafm.com/poptron-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "indie"
+   ],
+   "votes": 677,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-kusc-mp3-256",
+   "name": "Classical KUSC MP3 256",
+   "url": "https://www.kusc.org/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Los Angeles CA",
+   "genre": [
+    "classical"
+   ],
+   "votes": 676,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "95-7-that-station",
+   "name": "95.7 That Station",
+   "url": "https://thatstation.net/",
+   "stream": "https://ais-sa8.cdnstream1.com/2749_64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "state": "North Carolina",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 668,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-jazz-global-radio",
+   "name": "Smooth Jazz Global Radio",
+   "url": "",
+   "stream": "https://smoothjazz.cdnstream1.com/2585_256.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 666,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-thistleradio-128k-aac",
+   "name": "SomaFM ThistleRadio (128k AAC)",
+   "url": "https://somafm.com/thistle/",
+   "stream": "https://ice6.somafm.com/thistle-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "folk"
+   ],
+   "votes": 663,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-hits-109",
+   "name": "Classic Hits 109",
+   "url": "https://www.classichits109.com/",
+   "stream": "https://broadcast.classichits109.com/70s-90s",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "disco",
+    "pop",
+    "rock"
+   ],
+   "votes": 658,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "your-classical-favorites",
+   "name": "Your Classical - Favorites",
+   "url": "https://www.yourclassical.org/",
+   "stream": "https://favorites.stream.publicradio.org/favorites.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Minnesota",
+   "genre": [
+    "classical"
+   ],
+   "votes": 642,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ambient-fm",
+   "name": "ambient.fm",
+   "url": "https://ambient.fm/",
+   "stream": "https://ambient.fm/live/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Nevada",
+   "genre": [
+    "ambient",
+    "electronic",
+    "relaxing"
+   ],
+   "votes": 640,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-lush-128k-aac",
+   "name": "SomaFM Lush (128k AAC)",
+   "url": "https://somafm.com/lush/",
+   "stream": "https://ice2.somafm.com/lush-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic",
+    "lounge"
+   ],
+   "votes": 611,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-deep-space-one-64k-aac",
+   "name": "SomaFM Deep Space One (64k AAC)",
+   "url": "https://somafm.com/deepspaceone/",
+   "stream": "https://ice5.somafm.com/deepspaceone-64-aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "electronic"
+   ],
+   "votes": 595,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wls-94-7-fm-chicago-il",
+   "name": "WLS 94.7-FM Chicago, IL",
+   "url": "http://www.947wls.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFM.mp3",
+   "codec": "mp3",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Chicago IL",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 592,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classical-king-fm-evergreen-channel",
+   "name": "Classical King FM - Evergreen Channel",
+   "url": "https://www.king.org/",
+   "stream": "https://classicalking.streamguys1.com/evergreen-aac-128k",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "american-english",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 590,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-radio-only-love-songs-70s80s90s",
+   "name": "LOVE RADIO Only Love Songs 70s80s90s",
+   "url": "https://love.radio/",
+   "stream": "https://loveradio.streamingmedia.it/usa",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 589,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-underground-80s-32k-aac",
+   "name": "SomaFM Underground 80s (32k AAC)",
+   "url": "https://somafm.com/u80s/",
+   "stream": "https://ice6.somafm.com/u80s-32-aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "80s"
+   ],
+   "votes": 587,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-jazz-jjz",
+   "name": "Smooth Jazz JJZ",
+   "url": "https://wjjz.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc7390",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Philadelphia PA",
+   "genre": [
+    "smooth-jazz"
+   ],
+   "votes": 575,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-acoustic-blues",
+   "name": "Radio Art Acoustic Blues",
+   "url": "https://radioart.com/",
+   "stream": "https://live.radioart.com/fAcoustic_blues.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "blues"
+   ],
+   "votes": 567,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-the-trip-128k-aac",
+   "name": "SomaFM The Trip (128k AAC)",
+   "url": "https://somafm.com/thetrip/",
+   "stream": "https://ice5.somafm.com/thetrip-128-aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "house",
+    "trance"
+   ],
+   "votes": 552,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-of-china",
+   "name": "Music of China 中国音乐",
+   "url": "https://wongsong.cn/",
+   "stream": "https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "chinese"
+   ],
+   "langCodes": [
+    "yue",
+    "zh"
+   ],
+   "state": "New York",
+   "genre": [
+    "music"
+   ],
+   "votes": 550,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "whisperings-solo-piano-radio-aac-48",
+   "name": "Whisperings: Solo Piano Radio (AAC 48)",
+   "url": "https://www.solopianoradio.com/",
+   "stream": "https://pianosolo.streamguys1.com/pianosolo48.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Oregon",
+   "genre": [
+    "classical",
+    "relaxing"
+   ],
+   "votes": 535,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kdfc-classical-california-ultimate-playlist",
+   "name": "KDFC Classical California Ultimate Playlist",
+   "url": "https://classicalcalifornia.org/kdfc/streams/classicalcaliforniaultimateplaylist",
+   "stream": "https://19273.live.streamtheworld.com/CC1_S01AAC_96_SC",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 533,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-vocal-lounge",
+   "name": "Radio Art Vocal Lounge",
+   "url": "https://radioart.com/",
+   "stream": "https://live.radioart.com/fVocal_lounge.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "lounge"
+   ],
+   "votes": 523,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-oldies",
+   "name": "__1 oldies",
+   "url": "https://musica80.radioclub.es/",
+   "stream": "https://80sexitos.stream.laut.fm/80sexitos",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "New York",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "disco",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 521,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cbn-cross-country-christmas",
+   "name": "CBN Cross Country Christmas",
+   "url": "http://www1.cbn.com/radio/crosscountrychristmas",
+   "stream": "https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Cross%20Country%20Christmas",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "country"
+   ],
+   "votes": 515,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-groove-salad-64k-aac",
+   "name": "SomaFM Groove Salad (64k AAC)",
+   "url": "https://somafm.com/groovesalad/",
+   "stream": "https://ice5.somafm.com/groovesalad-64-aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "lounge"
+   ],
+   "votes": 515,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-energy-93-euro-edm",
+   "name": "181.FM - Energy 93 (Euro EDM)",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-energy93_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "edm"
+   ],
+   "votes": 509,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wxpn-88-5-philadelphia-pa",
+   "name": "WXPN 88.5 Philadelphia, PA",
+   "url": "http://www.xpn.org/",
+   "stream": "https://wxpnhi.xpn.org/xpnhi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Pennsylvania",
+   "genre": [
+    "blues",
+    "folk",
+    "rock"
+   ],
+   "votes": 509,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "crnet-hard-rock-128",
+   "name": "CRnet Hard Rock (128)",
+   "url": "https://www.christianhardrock.net/",
+   "stream": "https://shoutcast.christianrock.net/stream/3/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Missouri",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 507,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-river-of-calm",
+   "name": "The River Of Calm",
+   "url": "https://www.theriverofcalm.com/",
+   "stream": "https://listen.radioking.com/radio/49831/stream/86743",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout",
+    "lounge"
+   ],
+   "votes": 503,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-sf-10-33-128k-mp3",
+   "name": "SomaFM SF 10-33 (128k MP3)",
+   "url": "https://somafm.com/sf1033/",
+   "stream": "https://ice5.somafm.com/sf1033-128-mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient"
+   ],
+   "votes": 499,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oldies-93-5",
+   "name": "Oldies 93.5",
+   "url": "https://oldies935.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc5110",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Hudson NY",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 490,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-secret-agent-64k-aac",
+   "name": "SomaFM Secret Agent (64k AAC)",
+   "url": "https://somafm.com/secretagent/",
+   "stream": "https://ice6.somafm.com/secretagent-64-aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "ambient",
+    "downtempo",
+    "jazz",
+    "lounge",
+    "samba"
+   ],
+   "votes": 488,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-9-kiss-fm",
+   "name": "101.9 KISS FM",
+   "url": "https://1019kissfm.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc4864",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Crawfordsville AR",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 484,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-lounge-global-radio",
+   "name": "Smooth Lounge Global Radio",
+   "url": "",
+   "stream": "https://smoothjazz.cdnstream1.com/2586_256.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 479,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-vocal-jazz",
+   "name": "Radio Art Vocal Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fVocal_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 472,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "99-9-gator-country",
+   "name": "99.9 Gator Country",
+   "url": "https://www.999gatorcountry.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGNEAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Middleburg FL",
+   "genre": [
+    "country"
+   ],
+   "votes": 456,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chillsynth",
+   "name": "Chillsynth",
+   "url": "https://nightride.fm/stations?station=chillsynth",
+   "stream": "https://stream.nightride.fm/chillsynth.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 455,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "181-fm-the-vibe-of-vegas",
+   "name": "181.FM - The Vibe of Vegas",
+   "url": "http://www.181.fm/",
+   "stream": "https://listen.181fm.com/181-vibe_128k.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Virginia",
+   "genre": [
+    "dance",
+    "edm",
+    "pop"
+   ],
+   "votes": 449,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-salsoul",
+   "name": "Radio Salsoul",
+   "url": "https://www.radiosalsoul.com/",
+   "stream": "https://broadcast.miami/proxy/salsoul?mp=/stream/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Florida",
+   "genre": [
+    "disco"
+   ],
+   "votes": 431,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-poptron-32k-aac",
+   "name": "SomaFM PopTron (32k AAC)",
+   "url": "https://somafm.com/poptron/",
+   "stream": "https://ice2.somafm.com/poptron-32-aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "indie"
+   ],
+   "votes": 430,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "somafm-heavyweight-reggae-32k-aac",
+   "name": "SomaFM Heavyweight Reggae (32k AAC)",
+   "url": "https://somafm.com/reggae/",
+   "stream": "https://ice5.somafm.com/reggae-32-aac",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "California",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 419,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiye-88-7-fm-kamiah-id",
+   "name": "KIYE 88.7 FM Kamiah, ID",
+   "url": "https://kiye.org/",
+   "stream": "https://ais-sa1.streamon.fm/7012_24k.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "aboriginal-languages",
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Idaho",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 417,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "107-5-kiss-fm",
+   "name": "107.5 KISS FM",
+   "url": "https://1075kissfm.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc2740",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Des Moines IA",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 414,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "groovy-radio-60-s-and-70-s-oldies",
+   "name": "Groovy Radio - 60's and 70's Oldies",
+   "url": "https://groovyradio.us/",
+   "stream": "https://r1.comcities.com/proxy/emogddug/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Columbus Ohio",
+   "genre": [
+    "60s",
+    "70s",
+    "oldies"
+   ],
+   "votes": 413,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunny-99-9-el-paso",
+   "name": "Sunny 99.9 El Paso",
+   "url": "https://sunny999fm.iheart.com/",
+   "stream": "https://stream.revma.ihrhls.com/zc3188",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "El Paso TX",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 406,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vocaloid-radio-320kbps",
+   "name": "Vocaloid Radio (320kbps)",
+   "url": "https://vocaloidradio.com/",
+   "stream": "https://vocaloid.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "anime"
+   ],
+   "votes": 406,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  }
+ ]
+}

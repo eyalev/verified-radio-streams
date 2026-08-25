@@ -1,0 +1,3588 @@
+{
+ "countryCode": "AR",
+ "country": "Argentina",
+ "slug": "argentina",
+ "continent": "americas",
+ "stationCount": 164,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/argentina/",
+ "stations": [
+  {
+   "id": "fm-cumbiambera",
+   "name": "Fm Cumbiambera",
+   "url": "https://www.fmcumbiambera.com/",
+   "stream": "https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Salta",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 1751,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-95-1",
+   "name": "Metro 95.1",
+   "url": "https://www.metro951.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 1083,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-millenium-106-7",
+   "name": "FM Millenium 106.7",
+   "url": "https://www.fmmilenium.com.ar/",
+   "stream": "https://sonicpanel.hostradios.com/8002/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "CABA",
+   "genre": [
+    "music"
+   ],
+   "votes": 1074,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-popu",
+   "name": "La Popu",
+   "url": "https://www.lapopu.com.ar/",
+   "stream": "https://liveradio.mediainbox.net/popular.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba",
+   "genre": [
+    "music"
+   ],
+   "votes": 969,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "delta-90-3",
+   "name": "Delta 90.3",
+   "url": "https://fmdelta903.com/",
+   "stream": "https://cdn.instream.audio//:9069//stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 754,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-la-patriada",
+   "name": "FM La Patriada",
+   "url": "https://www.fmlapatriada.com.ar/",
+   "stream": "https://server.laradio.online/proxy/fm_la_patriada?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "musica",
+    "rock"
+   ],
+   "votes": 622,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-94-3-buenos-aires-argentina",
+   "name": "Radio Disney 94.3 - Buenos Aires, Argentina",
+   "url": "https://ar.radiodisney.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad de Buenos Aires",
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 580,
+   "clicks": 40,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-shopping",
+   "name": "Radio Shopping",
+   "url": "https://www.radioshopping.com.ar/",
+   "stream": "https://stream4.suenas.net/shoppingclassics",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba",
+   "genre": [
+    "classic-hits",
+    "classic-rock",
+    "eighties",
+    "nineties",
+    "oldies"
+   ],
+   "votes": 497,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-100-clasicos-disco-retro-clasicos",
+   "name": "La 100 Clásicos - Disco Retro Clásicos",
+   "url": "https://la100.cienradios.com/player/la100-4-clasicos/",
+   "stream": "https://27323.live.streamtheworld.com/FCLASICOS_56AAC.aac?",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad autonoma de Buenos Aires",
+   "genre": [
+    "dance"
+   ],
+   "votes": 457,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-argentina-94-3-fm-lrl301-ciudad-de-",
+   "name": "Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina",
+   "url": "https://ar.radiodisney.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "hits",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "top-100",
+    "top-40",
+    "top-hits"
+   ],
+   "votes": 303,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-97-9-vida",
+   "name": "FM 97.9 Vida",
+   "url": "https://www.fmvida.com.ar/",
+   "stream": "https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 299,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-2",
+   "name": "Radio 2",
+   "url": "https://radio2.com.ar/",
+   "stream": "https://cdn.instream.audio/:9056/stream?_=1680ada412b",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 167,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cadena-heat",
+   "name": "Cadena Heat",
+   "url": "https://www.cadenaheat.com/",
+   "stream": "https://liveradio.mediainbox.net/fmcordoba.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 166,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-pop-95-9-fm",
+   "name": "Rock & Pop 95.9 FM",
+   "url": "https://fmrockandpop.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 128,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-nacion-104-9",
+   "name": "LA NACION 104.9",
+   "url": "https://masmusica.lanacion.com.ar/",
+   "stream": "https://stream.radio.co/s2ed3bec0a/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad autonoma de Buenos Aires",
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 127,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-splendid-am-900",
+   "name": "Radio Splendid AM 900",
+   "url": "https://splendidam990.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM990.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español-argentina",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 125,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-2x4",
+   "name": "La 2x4",
+   "url": "https://buenosaires.gob.ar/la2x4",
+   "stream": "https://media.radios.ar:9270/",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "castellano.-español",
+    "español-argentina",
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Ciudad Autonoma de Buenos Aires",
+   "genre": [
+    "tango"
+   ],
+   "votes": 124,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classique-una-radio-de-clasicos",
+   "name": "Classique: Una radio de clásicos",
+   "url": "https://www.classique.com.ar/",
+   "stream": "https://01.solumedia.com.ar:8562/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "La Plata, Buenos Aires",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 116,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mucha-radio-94-7",
+   "name": "Mucha Radio 94.7",
+   "url": "https://mucharadio.com.ar/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "castellano.-español",
+    "español-argentina",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "latin-pop",
+    "pop"
+   ],
+   "votes": 106,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "delta-90-3-buenos-aires",
+   "name": "Delta 90.3 Buenos Aires",
+   "url": "https://fmdelta903.com/",
+   "stream": "https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Provincia de Buenos Aires",
+   "genre": [
+    "techno"
+   ],
+   "votes": 95,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "undinamo",
+   "name": "Undinamo",
+   "url": "https://undinamo.com/",
+   "stream": "https://cdn.instream.audio/:9339/stream?in_device_id=WPU32ffbfaa3cd8ebaaa8f64ec868bf4b88XY177fdfd79a7",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "rock"
+   ],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-bariloche",
+   "name": "FM Bariloche",
+   "url": "https://fmbariloche.com.ar/",
+   "stream": "https://streaming1.locucionar.com/proxy/colgados?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Río Negro",
+   "genre": [
+    "musica"
+   ],
+   "votes": 88,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "comunidad-fan-fm-105-1-rosario",
+   "name": "Comunidad Fan FM 105.1 Rosario",
+   "url": "https://comunidad.fan/",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001326?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Santa Fe",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hollywood-101-3",
+   "name": "Hollywood 101.3",
+   "url": "http://radiohollywood.com.ar/",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001328?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Rosario",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 66,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cvc-la-voz-urbano",
+   "name": "CVC La Voz Urbano",
+   "url": "https://cvclavoz.com/urbano/",
+   "stream": "https://chat-assets.frontapp.com/v1/149be82f568687535638c72a66facc34.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cristal-fm",
+   "name": "Cristal FM",
+   "url": "https://www.cristalfm.com.ar/",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001330?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santa Fe AR",
+   "genre": [
+    "electronic",
+    "pop"
+   ],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "92-5-fm-radio-2000",
+   "name": "92.5 FM Radio 2000",
+   "url": "https://radio2000camilo.com.ar/",
+   "stream": "https://server6.hostradios.com/8390/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica",
+    "popular"
+   ],
+   "votes": 61,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "acqua-fm-100-1",
+   "name": "Acqua FM 100.1",
+   "url": "http://www.acqua.fm/acqua-villagesell.php",
+   "stream": "https://strcdn.klm99.com:10985/acquavillagesell",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "hits"
+   ],
+   "votes": 59,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "los-40-santa-fe-97-7",
+   "name": "LOS 40 SANTA FE 97.7",
+   "url": "https://www.conexion40santafe.com.ar/",
+   "stream": "https://radios.solumedia.com:6158/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music",
+    "pop",
+    "top-40"
+   ],
+   "votes": 51,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cosquin-rock-95-5",
+   "name": "Cosquín Rock 95.5",
+   "url": "https://cosquinrock.net/cosquin-rock-radio/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "español-argentina"
+   ],
+   "state": "Córdoba(Argentina)",
+   "genre": [
+    "rock"
+   ],
+   "votes": 50,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-utn-bahia-blanca-fm-93-5",
+   "name": "Radio UTN Bahia Blanca - FM 93.5",
+   "url": "https://www.frbb.utn.edu.ar/radio/",
+   "stream": "https://sonic.cloudstreaming.eu:10986/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "español-argentina"
+   ],
+   "state": "Provincia de Buenos Aires",
+   "genre": [
+    "music"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-arias-fm-91-1-jujuy",
+   "name": "RADIO ARIAS FM 91.1 JUJUY",
+   "url": "https://radioarias.com/",
+   "stream": "https://cdn.instream.audio/:9095/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-verdad-villa-dolores",
+   "name": "Radio Verdad (Villa Dolores)",
+   "url": "https://radioverdad.com.ar/",
+   "stream": "https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba",
+   "genre": [
+    "music"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-centro",
+   "name": "RADIO CENTRO",
+   "url": "https://gruporadialcentro.com.ar/",
+   "stream": "https://sonicpanel.hostradios.com/8710/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Córdoba",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lt9-radio-brigadier-lopez-la-lider",
+   "name": "LT9 Radio Brigadier López La Líder",
+   "url": "http://www.lt9.com.ar/",
+   "stream": "https://streaming1.locucionar.com/proxy/lt9?mp=/stream?rand=718352759",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-blackie-89-1",
+   "name": "FM Blackie 89.1",
+   "url": "https://fmblackie.com.ar/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rio-fm-96-9-rosario",
+   "name": "Rio FM 96.9 Rosario",
+   "url": "https://www.redboing.com/",
+   "stream": "https://streaming.redboing.com/radio/8070/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Santa Fe",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "classic-rock"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-106-1-estacion-2",
+   "name": "Fm 106.1 Estacion 2",
+   "url": "https://estacion2palmira.blogspot.com/",
+   "stream": "https://emisora.zonasinergia.com/8068/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Mendoza",
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rio-cuarto",
+   "name": "Radio Rio Cuarto",
+   "url": "https://www.lv16.com.ar/",
+   "stream": "https://server6.hostradios.com/8552/stream/;/;type=mp3",
+   "codec": "mp3",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-and-pop-89-7-fm",
+   "name": "rock and pop 89.7 FM",
+   "url": "https://www.rockandpopmdp.com.ar/",
+   "stream": "https://streamlky.alsolnet.com/rockandpop_128k",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Mar del Plata",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "net80-radio",
+   "name": "Net80 Radio",
+   "url": "https://www.net80radio.com/",
+   "stream": "https://streaming.escuchanosonline.com/8274/stream",
+   "codec": "aac",
+   "bitrate": 72,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "planet-music-mar-del-plata-101-1",
+   "name": "Planet Music Mar del PLata 101.1",
+   "url": "https://www.planetmusic.fm/",
+   "stream": "https://strcdn.klm99.com:10991/planetmdp",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 30,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-90-9-rosario",
+   "name": "FM 90.9 Rosario",
+   "url": "https://www.fm909rosario.com.ar/",
+   "stream": "https://streaming2.locucionar.com/proxy/radiobt?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "pop",
+    "rock"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-95-1-rosario",
+   "name": "Kiss FM 95.1 Rosario",
+   "url": "https://www.redboing.com/",
+   "stream": "https://streaming.redboing.com/radio/8060/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Santa Fe",
+   "genre": [
+    "hits",
+    "latin-pop",
+    "pop"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-magic-fm-100-9-tigre",
+   "name": "Radio Magic FM 100.9 Tigre",
+   "url": "https://www.radiomagic1009.com.ar/",
+   "stream": "https://radio01.ferozo.com/proxy/ra01000677/?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Provincia de Buenos Aires",
+   "genre": [
+    "music",
+    "pop-music"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "emisora-del-este-98-9-fm-y-98-1-fm",
+   "name": "Emisora del Este 98.9 FM y 98.1 FM",
+   "url": "https://www.emisoradelestefm.com.ar/",
+   "stream": "https://streaming.radiosenlinea.com.ar/8008/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Entre Ríos",
+   "genre": [
+    "cumbia",
+    "popular"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aries-fm-91-1",
+   "name": "Aries FM 91.1",
+   "url": "https://ariesfmsalta.com.ar/es/",
+   "stream": "https://streaming3.locucionar.com/proxy/ariesonline?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Salta",
+   "genre": [
+    "cumbia",
+    "musica"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cienradios-radio-x",
+   "name": "Cienradios Radio X",
+   "url": "https://ar.cienradios.com/player/radio-x/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOX_56AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Provincia de Buenos Aires",
+   "genre": [
+    "pop"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jaja-cba",
+   "name": "jaja cba",
+   "url": "",
+   "stream": "https://streaming5.locucionar.com/proxy/radiojaja?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 21,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-estacion-popular-101-1",
+   "name": "FM Estación Popular 101.1",
+   "url": "https://www.fmestacionpopular.com/",
+   "stream": "https://streaming.escuchanosonline.com:7298/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "popular"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio1-electriccircus",
+   "name": "Radio1: ElectricCircus",
+   "url": "https://radio.eduneu.eu/public/radio1",
+   "stream": "https://radio.eduneu.eu:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-1-radio",
+   "name": "Antena 1 radio",
+   "url": "https://antenaunoradio.blogspot.com/",
+   "stream": "https://streaming.escuchanosonline.com/8268/stream",
+   "codec": "aac",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "musica"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fahrenheit-fm-88-7-rosario",
+   "name": "Fahrenheit FM 88.7 Rosario",
+   "url": "https://www.redboing.com/",
+   "stream": "https://streaming.redboing.com/radio/8010/radio.aac",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santa Fe",
+   "genre": [
+    "cumbia",
+    "dance",
+    "hits"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rivadavia-rosario-fm-106-3-rosario",
+   "name": "Rivadavia Rosario FM 106.3 Rosario",
+   "url": "https://www.rivadaviarosario.com.ar/",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001331?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santa Fe",
+   "genre": [
+    "pop"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "andina-fm-92-9",
+   "name": "Andina FM 92.9",
+   "url": "https://fmandina929.com.ar/",
+   "stream": "https://streaming01.shockmedia.com.ar:10801/stream?icy=http",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xradio-99-1",
+   "name": "XRADIO 99.1",
+   "url": "https://xradio.ar/radiochannel/x-radio-la-costa-99-1/",
+   "stream": "https://radios.streamingdha.com.ar/9826/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Bernardo, Pcia. de Buenos Aires",
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "rock"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "espacial-105-1-fm",
+   "name": "ESPACIAL 105.1 FM",
+   "url": "https://fmespacial.wixsite.com/my-site",
+   "stream": "https://chino.republicahosting.com:2282/live",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "music"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-ciudad-94-7",
+   "name": "FM CIUDAD 94.7",
+   "url": "http://ciudad947.com/",
+   "stream": "https://streaming6.locucionar.com:24028/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 16,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k2-radio-96-3-fm",
+   "name": "K2 RADIO 96.3 FM",
+   "url": "https://estacionk2.com/",
+   "stream": "https://cdn.instream.audio/:9568/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative",
+    "rap",
+    "rock"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "planet-music-bahia-blanca",
+   "name": "Planet Music Bahía Blanca",
+   "url": "https://www.planetmusic.fm/",
+   "stream": "https://strcdn.klm99.com:10987/planetbahia",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "activa-fm-93-5",
+   "name": "Activa FM 93.5",
+   "url": "https://activafmweb.com.ar/",
+   "stream": "https://streaming5.locucionar.com/proxy/activafm?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica",
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-libre-89-1-fm",
+   "name": "Antena Libre 89.1 FM",
+   "url": "https://www.antena-libre.com.ar/",
+   "stream": "https://cdn.instream.audio/:9140/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-uno-92-3fm-posadas",
+   "name": "Antena Uno 92.3FM Posadas",
+   "url": "https://antenamisiones.com/",
+   "stream": "https://radios.solumedia.com:10818/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Misiones",
+   "genre": [
+    "musica"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coctel-online",
+   "name": "Coctel online",
+   "url": "https://cocteltodounclasico.com.ar/",
+   "stream": "https://streaming01.shockmedia.com.ar:8452/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "BUENOS AIRES",
+   "genre": [
+    "funk",
+    "pop",
+    "rock"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-horizonte-historica-94-3",
+   "name": "FM Horizonte (historica 94.3)",
+   "url": "https://horizonte.fm/",
+   "stream": "https://14223.live.streamtheworld.com/SAM06AAC243_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "adult-contemporary",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-eclipse-90-5",
+   "name": "FM Eclipse 90.5",
+   "url": "https://fmeclipse905.com.ar/",
+   "stream": "https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "music"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zen-fm",
+   "name": "RADIO ZEN FM",
+   "url": "https://www.radiozenfm.com.ar/",
+   "stream": "https://server.streamcasthd.com/8008/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Ciudad Autonoma de Buenos Aires",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-102-3",
+   "name": "FM 102.3",
+   "url": "https://www.cba24n.com.ar/fm102",
+   "stream": "https://radios.solumedia.com:6276/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "español-argentina"
+   ],
+   "state": "Córdoba(Argentina)",
+   "genre": [
+    "musica"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "naranjofm",
+   "name": "NaranjoFM",
+   "url": "https://naranjofm.com.ar/",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001228?mp=/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba(Argentina)",
+   "genre": [
+    "tango"
+   ],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vinilo-mix",
+   "name": "Vinilo Mix",
+   "url": "https://www.radios-argentinas.org/vinilo",
+   "stream": "https://audiopanel.com.ar:8010/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Mendoza",
+   "genre": [
+    "80s",
+    "90s",
+    "oldies"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "concepto-fm-95-5",
+   "name": "Concepto FM 95.5",
+   "url": "http://www.conceptofm.com/home.php",
+   "stream": "https://radios.solumedia.com:6002/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "de-la-nueva-bahia-106-1-fm",
+   "name": "De la Nueva Bahía 106.1 FM",
+   "url": "https://delanuevabahiafm.com/",
+   "stream": "https://radios.solumedia.com/6136/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "alternative",
+    "classic-hits",
+    "electronic",
+    "hits"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-esperanza-107-1-mhz",
+   "name": "FM ESPERANZA 107.1 MHZ",
+   "url": "https://1071fmnuevaesperanza.com.ar/",
+   "stream": "https://streaming01.shockmedia.com.ar:10404/stream?icy=http",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "popular"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-digital-san-luis-101-1-fm",
+   "name": "Radio Digital San Luis 101.1 FM",
+   "url": "https://www.digitalsanluis.com.ar/",
+   "stream": "https://streamconex.com:8062/;",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "adult-contemporary",
+    "music",
+    "oldies"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cadena-express-88-1-fm",
+   "name": "Cadena Express 88.1 FM",
+   "url": "http://www.cadenaexpress.com/",
+   "stream": "https://streamall.alsolnet.com/cadenaexpress",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-rock",
+    "music",
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dale-fm-93-1",
+   "name": "Dale FM 93.1",
+   "url": "https://dalefm.ar/",
+   "stream": "https://streaming01.shockmedia.com.ar:10891/;",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba(Argentina)",
+   "genre": [
+    "hits",
+    "reggaeton"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "elevate-102-1-fm-rosario",
+   "name": "Elevate 102.1 FM Rosario",
+   "url": "https://1021elevate.com.ar/",
+   "stream": "https://sonic.host-live.com/8120/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Santa Fe",
+   "genre": [
+    "dance",
+    "electronic",
+    "electronica"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-cielo-93-1",
+   "name": "FM Cielo 93.1",
+   "url": "https://fmcieloguatrache.com/",
+   "stream": "https://streaming1.locucionar.com/proxy/fmcielo931?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-utn-frc-fm-94-3",
+   "name": "Radio UTN FRC FM 94.3",
+   "url": "https://www.frc.utn.edu.ar/radio/",
+   "stream": "https://01.solumedia.com.ar:8200/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba(Argentina)",
+   "genre": [
+    "blues",
+    "jazz",
+    "metal",
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xradio-bariloche",
+   "name": "XRADIO Bariloche",
+   "url": "https://xradio.ar/",
+   "stream": "https://radios.streamingdha.com.ar/8004/;",
+   "codec": "aac",
+   "bitrate": 2,
+   "format": "music",
+   "langs": [
+    "castellano.-español",
+    "español-argentina",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "concierto-fm-94-7",
+   "name": "Concierto FM 94.7",
+   "url": "https://concierto947.com.ar/",
+   "stream": "https://01.solumedia.com.ar:8112/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "hits",
+    "pop",
+    "popular"
+   ],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dale-fm-93-1-2",
+   "name": "Dale FM 93.1",
+   "url": "",
+   "stream": "https://streaming01.shockmedia.com.ar:10891/;?hash=1659583597942",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "digital-fm-102-1",
+   "name": "Digital FM 102.1",
+   "url": "https://www.fmdigitalcorrientes.com/",
+   "stream": "https://turadioenvivo.com/proxy/fmdigital/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Corrientes",
+   "genre": [
+    "adult-contemporary",
+    "music",
+    "oldies"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-de-la-costa-90-5",
+   "name": "FM de la Costa 90.5",
+   "url": "https://www.fmdelacosta905.com.ar/",
+   "stream": "https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "adult-contemporary",
+    "classic-hits",
+    "music"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-amanecer-am-1290-fm-92-7",
+   "name": "Radio Amanecer AM 1290 - FM 92.7",
+   "url": "https://radioamanecer.com.ar/",
+   "stream": "https://streaming2.locucionar.com/proxy/radioamanecer?mp=/stream",
+   "codec": "aac",
+   "bitrate": 24,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cool-fm-103-7",
+   "name": "Radio Cool FM 103.7",
+   "url": "https://cadenacool.ar/",
+   "stream": "https://radios.solumedia.com:10805/stream/1/",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Plata, Buenos Aires",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiodj",
+   "name": "RADIODJ",
+   "url": "https://pulsedeck.org/public/radiodj",
+   "stream": "https://pulsedeck.org/listen/radiodj/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "chillout",
+    "house",
+    "oldies",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cadena-rio-fm-88-7",
+   "name": "Cadena Rio FM 88.7",
+   "url": "https://www.cadenario.com/Novedades",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001342?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Plata",
+   "genre": [
+    "hits",
+    "pop",
+    "popular",
+    "reggaeton",
+    "top-40"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "elite-fm-101-5",
+   "name": "Elite FM 101.5",
+   "url": "https://www.elitefm.com.ar/",
+   "stream": "https://radios.solumedia.com/6314/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Córdoba(Argentina)",
+   "genre": [
+    "adult-contemporary",
+    "alternative",
+    "hits",
+    "indie",
+    "music",
+    "rock"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-del-bosque-104-1",
+   "name": "FM del Bosque 104.1",
+   "url": "https://radio3cadenapatagonia.com.ar/fmbosque/",
+   "stream": "https://radio01.ferozo.com/proxy/ra01000983?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "popular"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fresh-radio-fm-102-9fm",
+   "name": "Fresh Radio FM 102.9FM",
+   "url": "https://radios.escuchanosonline.com/#/freshradio",
+   "stream": "https://streaming.escuchanosonline.com:7011/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Mar del Plata, Pcia. Buenos Aires",
+   "genre": [
+    "music"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-el-buen-samaritano-101-7-fm",
+   "name": "Radio el buen samaritano 101.7 FM",
+   "url": "https://www.iglesiaelbuensamaritano.com.ar/radio-online/",
+   "stream": "https://radios.solumedia.com:10903/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "gospel"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "estacion-urbana-104-7-fm",
+   "name": "Estación Urbana 104.7 FM",
+   "url": "https://streaminglocucionar.com/portal/?p=9365",
+   "stream": "https://streaming2.locucionar.com/proxy/estacionurbana?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "expo-radio-fm-94-3",
+   "name": "Expo Radio FM 94.3",
+   "url": "https://exporadio.net/",
+   "stream": "https://radios.tecnosoul.com.ar:8001/exporadio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative",
+    "electronic",
+    "hits",
+    "music",
+    "trance"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-amistad-93-5-mhz",
+   "name": "FM Amistad 93.5 Mhz",
+   "url": "https://fmamistad.com.ar/",
+   "stream": "https://server.laradio.online/proxy/raul_benitez?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-centro-basavilbaso-105-1",
+   "name": "FM Centro Basavilbaso 105.1",
+   "url": "https://periodismobasavilbaso.com/",
+   "stream": "https://streamconex.com:8030/stream",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lvdiez",
+   "name": "LVDIEZ",
+   "url": "https://lvdiez.com.ar/",
+   "stream": "https://streamserver-2.xyz:8000/radio.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "español-argentina"
+   ],
+   "state": "Mendoza",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-infinity-classic",
+   "name": "Radio Infinity Classic",
+   "url": "https://radioinfinityclassic.com/",
+   "stream": "https://sonic.host-live.com/8192/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "adult-contemporary",
+    "disco"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eclipse-fm-101-5-mhz",
+   "name": "Eclipse FM 101.5 MHz",
+   "url": "https://eclipseradiofm.com.ar/",
+   "stream": "https://01.solumedia.com.ar:8746/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ecos-de-mis-cerros",
+   "name": "Ecos de mis Cerros",
+   "url": "https://ecosdemiscerros.com.ar/",
+   "stream": "https://masservidor.net:7163/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "50s",
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-club-patagonia-88-9",
+   "name": "FM Club Patagonia 88.9",
+   "url": "https://www.facebook.com/FMCLUBPATAGONIA/",
+   "stream": "https://radio01.ferozo.com/proxy/ra01000872?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "baladas",
+    "classic-hits",
+    "music",
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-de-la-costa-99-9",
+   "name": "FM de la Costa 99.9",
+   "url": "https://fmdelacosta999.com.ar/",
+   "stream": "https://streaming5.locucionar.com/proxy/fmdelacosta?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-emocion-98-1",
+   "name": "FM Emoción 98.1",
+   "url": "https://fmemosion.com.ar/",
+   "stream": "https://streaming.escuchanosonline.com:7229/;",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "baladas",
+    "cumbia",
+    "tango"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-106-1-fm-siempre-una-cancion",
+   "name": "La 106.1 FM - Siempre Una Canción",
+   "url": "https://www.la106.com/",
+   "stream": "https://streamconex.com:2000/stream/La106",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "hits",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lu18-am-640-radio-del-valle-rio-negro",
+   "name": "LU18 AM 640 Radio del Valle (Rio Negro)",
+   "url": "http://radioelvalle.com/",
+   "stream": "https://streamingraddios.online/proxy/valle?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-de-la-costa-101-9-fm",
+   "name": "Radio De La Costa 101.9 FM",
+   "url": "https://fm102radiodelacosta.com.ar/",
+   "stream": "https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-metropolitana-95-3",
+   "name": "Radio Metropolitana 95.3",
+   "url": "https://www.metropolitana953.com/",
+   "stream": "https://masservidor.net:7176/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Mendoza",
+   "genre": [
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-1-91-5-fm",
+   "name": "Antena 1 91.5 FM",
+   "url": "https://antena1sj.com.ar/",
+   "stream": "https://s3.netradiofm.com/p/9008/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antena-nueve-94-3-fm",
+   "name": "Antena Nueve 94.3 FM",
+   "url": "https://antenanueve.com.ar/",
+   "stream": "https://radios.solumedia.com:10918/;",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ciudad-88-5-fm",
+   "name": "CIUDAD 88.5 FM",
+   "url": "https://fmciudadsalto.com.ar/",
+   "stream": "https://streaming.escuchanosonline.com:7049/live",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cristal-fm-noetinger",
+   "name": "CRISTAL FM Noetinger",
+   "url": "https://www.cristalnoetinger.com.ar/",
+   "stream": "https://radio02.ferozo.com/proxy/ra02001324?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "estacion-95-91-5-fm",
+   "name": "Estacion 95 91.5 FM",
+   "url": "https://estacion95.com.ar/index.php",
+   "stream": "https://streaming2.locucionar.com/proxy/estacion95?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-98-1-perez-millan",
+   "name": "FM 98.1 Perez Millan",
+   "url": "https://laradiodelpueblo.com.ar/",
+   "stream": "https://server.radiostreaming.com.ar/8470/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-abril-radio-90-9",
+   "name": "FM ABRIL Radio 90.9",
+   "url": "https://fmabril.com.ar/",
+   "stream": "https://server.laradio.online/proxy/abdel_ortega?mp=/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "hits",
+    "popular",
+    "reggaeton"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-activa-91-5",
+   "name": "FM Activa 91.5",
+   "url": "http://fmactivasegui.com/",
+   "stream": "https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Entre Ríos",
+   "genre": [
+    "hits",
+    "musica"
+   ],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-barrancas-98-7",
+   "name": "FM Barrancas 98.7",
+   "url": "https://fmbarrancas.com.ar/",
+   "stream": "https://server.radiostreaming.com.ar/8152/stream",
+   "codec": "aac",
+   "bitrate": 72,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "popular"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-ciudad-88-3",
+   "name": "FM Ciudad 88.3",
+   "url": "https://www.fmciudaddetotoras.com.ar/",
+   "stream": "https://genexservicios.com:2000/stream/ciudadtotoras",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-color-99-3-general-roca",
+   "name": "FM Color 99.3 (General Roca)",
+   "url": "http://radioelvalle.com/",
+   "stream": "https://streamingraddios.online/proxy/cozzi?mp=/stream",
+   "codec": "aac",
+   "bitrate": 56,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-del-lago-92-1",
+   "name": "FM del Lago 92.1",
+   "url": "https://ar.cienradios.com/player/del-lago/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "hits",
+    "music"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-del-sol-100-5",
+   "name": "FM del Sol 100.5",
+   "url": "http://radiodelsolpehuajo.com.ar/",
+   "stream": "https://streaming2.locucionar.com/proxy/solpehuajo?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-hits",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frecuencia-digital-99-1-fm",
+   "name": "Frecuencia Digital 99.1 FM",
+   "url": "https://frecuenciadigital.com.ar/",
+   "stream": "https://radios.streamingdha.com.ar/8022/;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music",
+    "pop",
+    "reggaeton"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-pocha-fm-98-1",
+   "name": "LA POCHA FM 98.1",
+   "url": "https://lapochafm.com.ar/",
+   "stream": "https://streaming.radiosenlinea.com.ar:10635/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "cumbia",
+    "music",
+    "popular"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cadena-vida-95-3-fm",
+   "name": "RADIO CADENA VIDA 95.3 FM",
+   "url": "http://cadenavida.ar/#!/-inicio/",
+   "stream": "https://host.serviceinfinito.com.ar:7006/;",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "music",
+    "pop",
+    "top-40"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vip-radio",
+   "name": "VIP Radio",
+   "url": "https://www.vipradio.com.ar/",
+   "stream": "https://server6.hostradios.com:7232/;?1741613055764",
+   "codec": "aac",
+   "bitrate": 36,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Provincia de Córdoba",
+   "genre": [
+    "adult-contemporary",
+    "hits"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blur-radio",
+   "name": "Blur Radio",
+   "url": "https://www.blurfm.com/es/",
+   "stream": "https://live.radiovague.com:8443/blurfm04",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "indie",
+    "pop",
+    "reggae",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-10-bolivar-106-1",
+   "name": "FM 10 Bolívar 106.1",
+   "url": "https://fm10bolivar.com.ar/",
+   "stream": "https://ssl.radiosnethosting.com/index.php?port=8004",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-angel-94-3",
+   "name": "FM ANGEL 94.3",
+   "url": "http://www.fmangel.com.ar/",
+   "stream": "https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-del-este-99-3",
+   "name": "FM DEL ESTE 99.3",
+   "url": "https://fmdeleste993.com.ar/inicio/",
+   "stream": "https://radio01.ferozo.com/proxy/ra01000956?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "adult-contemporary",
+    "classic-hits"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-3-andina-am-1200",
+   "name": "Radio 3 Andina AM 1200",
+   "url": "https://radio3cadenapatagonia.com.ar/",
+   "stream": "https://radio01.ferozo.com/proxy/ra01000982?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Provincia de Chubut",
+   "genre": [
+    "music"
+   ],
+   "votes": 5,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aura-radio",
+   "name": "Aura Radio",
+   "url": "https://www.auraradio.com/",
+   "stream": "https://cp9.serverse.com/proxy/auraradio/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "90s",
+    "classic-hits",
+    "hits",
+    "music",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-10-97-3",
+   "name": "FM 10 97.3",
+   "url": "https://streaminglocucionar.com/portal/?p=14475",
+   "stream": "https://streaming1.locucionar.com/proxy/fm10?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-armonia-105-1",
+   "name": "FM Armonía 105.1",
+   "url": "https://fmarmonia1051.com/",
+   "stream": "https://radiosar.com:9346/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "hits",
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-digital-100-1",
+   "name": "FM Digital 100.1",
+   "url": "https://www.fmdigital.onlineradio.com.ar/",
+   "stream": "https://streaming01.radiosenlinea.com.ar:10346/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "music",
+    "oldies"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-estudio-playa-pinamar-98-1",
+   "name": "FM Estudio Playa Pinamar 98.1",
+   "url": "https://fmestudioplaya.com.ar/",
+   "stream": "https://radios.solumedia.com:8998/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "español-argentina"
+   ],
+   "state": "Provincia de Buenos Aires",
+   "genre": [
+    "music"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "frecuencia-arena-98-3",
+   "name": "Frecuencia Arena 98.3",
+   "url": "https://arena983.com.ar/",
+   "stream": "https://stream.serviciowebdigital.com/8854/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Santa Teresita, Pcia. de Buenos Aires",
+   "genre": [
+    "music"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gx-radio",
+   "name": "GX Radio",
+   "url": "https://turadioeninternet.com.ar/GXRADIO/",
+   "stream": "https://streaming01.radiosenlinea.com.ar:10961/;",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Rosario",
+   "genre": [
+    "2000s",
+    "90s",
+    "adult-contemporary",
+    "classic-hits",
+    "dance-music",
+    "electronic",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mega-98-3-trelew",
+   "name": "Mega 98.3 Trelew",
+   "url": "https://www.radiomega.fm/",
+   "stream": "https://cdn.instream.audio:9116/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Chubut",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "meridiano-fm-98-5",
+   "name": "Meridiano FM 98.5",
+   "url": "https://meridianofm.com.ar/",
+   "stream": "https://streaming.escuchanosonline.com:7346/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative",
+    "music",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "roldan-fm-92-92-3",
+   "name": "ROLDÁN FM 92 92.3",
+   "url": "https://roldanfm92.com.ar/",
+   "stream": "https://server.laradio.online/proxy/delcia_karamoschon?mp=/stream&1692351094586",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-anta-96-1",
+   "name": "FM Anta 96.1",
+   "url": "https://fmanta.com.ar/",
+   "stream": "https://stream.radioinfo.ar/p/8092/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-centro-100-7",
+   "name": "FM Centro 100.7",
+   "url": "https://www.radiofmcentro.com/",
+   "stream": "https://tolkien.republicahosting.net:2378/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-concepto-98-1",
+   "name": "FM Concepto 98.1",
+   "url": "https://fmconcepto.com.ar/",
+   "stream": "https://radio.fmconcepto.com.ar/;",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-del-buen-ayre-105-3",
+   "name": "FM Del Buen Ayre 105.3",
+   "url": "https://fmdelbuenayre.com.ar/",
+   "stream": "https://streaming.radiosenlinea.com.ar/8738/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "hits",
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-del-valle-99-9",
+   "name": "FM DEL VALLE 99.9",
+   "url": "https://fmdelvalletrevelin.com.ar/",
+   "stream": "https://01.solumedia.com.ar:8764/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "popular"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-claromeco-fm-106-9",
+   "name": "Radio Claromecó FM 106.9",
+   "url": "https://www.radioclaromeco.com.ar/",
+   "stream": "https://irrati.radio105.ar/1069.opus",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "hits",
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vip-radio-clasicos",
+   "name": "VIP Radio Clásicos",
+   "url": "https://www.vipradio.com.ar/",
+   "stream": "https://server6.hostradios.com:7232/;?1775392057693",
+   "codec": "aac",
+   "bitrate": 36,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Ciudad Autonoma de Buenos Aires",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rivadavia",
+   "name": "Radio Rivadavia",
+   "url": "",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "state": "Buenos Aires",
+   "genre": [],
+   "votes": 6666,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-and-pop-fm-95-9-rock-pop-ciudad-de-buenos-a",
+   "name": "Rock And Pop FM 95.9 (Rock & Pop) Ciudad de Buenos Aires",
+   "url": "https://fmrockandpop.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 6062,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mitre-am-790-aac-alta-ciudad-de-buenos-aires",
+   "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
+   "url": "https://radiomitre.cienradios.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4941,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rivadavia-am-630-ciudad-de-buenos-aires",
+   "name": "Radio Rivadavia AM 630. Ciudad de Buenos Aires",
+   "url": "https://rivadavia.com.ar/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 4399,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-100-99-9-fm-grupo-clarin-buenos-aires-argenti",
+   "name": "La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina",
+   "url": "https://la100.cienradios.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Buenos Aires",
+   "genre": [],
+   "votes": 4159,
+   "clicks": 43,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blue-fm-100-7-ciudad-de-buenos-aires",
+   "name": "Blue FM 100.7. Ciudad de Buenos Aires",
+   "url": "https://bluefm.com.ar/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 3402,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "el-destape-radio",
+   "name": "El Destape Radio",
+   "url": "https://www.eldestapeweb.com/eldestaperadio",
+   "stream": "https://ipanel.instream.audio/8004/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 3227,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-la-red-am-910-ciudad-de-buenos-aires",
+   "name": "Radio La Red AM 910. Ciudad de Buenos Aires",
+   "url": "https://www.lared.am/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2891,
+   "clicks": 25,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cadena-3-cordoba",
+   "name": "Cadena 3 Cordoba",
+   "url": "https://www.cadena3.com/radio-en-vivo/cadena-3",
+   "stream": "https://liveradio.mediainbox.net/radio3.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Córdoba(Argentina)",
+   "genre": [],
+   "votes": 1743,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "am-530-somos-radio",
+   "name": "AM 530 Somos radio",
+   "url": "https://www.am530somosradio.com/",
+   "stream": "https://ipanel.instream.audio:7000/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 1683,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disney-argentina-94-3-ciudad-de-buenos-air",
+   "name": "Radio Disney Argentina 94.3. Ciudad de Buenos Aires",
+   "url": "http://radiodisney.disneylatino.com/argentina",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1484,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aspen-102-3",
+   "name": "Aspen 102.3",
+   "url": "https://fmaspen.com/#",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 1046,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pobre-johnny",
+   "name": "Pobre Johnny",
+   "url": "https://www.pobrejohnny.com.ar/",
+   "stream": "https://stream4.suenas.net/pobrejohnny",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 973,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-fm-95-1-ciudad-de-buenos-aires",
+   "name": "Metro FM 95.1. Ciudad de Buenos Aires",
+   "url": "https://www.metro951.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 822,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "d-sports-radio",
+   "name": "d-Sports radio",
+   "url": "https://www.dsportsradio.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Buenos Aires",
+   "genre": [],
+   "votes": 586,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urbana-play-104-4",
+   "name": "Urbana Play 104.4",
+   "url": "https://urbanaplayfm.com/",
+   "stream": "https://cdn.instream.audio:9660/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Buenos Aires",
+   "genre": [],
+   "votes": 537,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rivadavia-2",
+   "name": "Radio Rivadavia",
+   "url": "https://rivadavia.com.ar/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 509,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

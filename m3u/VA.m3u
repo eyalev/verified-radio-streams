@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="Vatican City" tvg-genre="latin",Radio Vaticana Bulgaria
+https://radio.vaticannews.va/stream-bg
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Italia
+https://radio.vaticannews.va/stream-it
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana English
+https://radio.vaticannews.va/stream-en
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Deutsch
+https://radio.vaticannews.va/stream-de
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Ukraine
+https://radio.vaticannews.va/stream-uk
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Español spanish
+https://radio.vaticannews.va/stream-es
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Belarus
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Polska
+https://radio.vaticannews.va/stream-pl
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana România
+https://radio.vaticannews.va/stream-ro
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Hrvatski
+https://radio.vaticannews.va/stream-hr
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Solvenčina
+https://radio.vaticannews.va/stream-sk
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Portuguese
+https://radio.vaticannews.va/stream-pt
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Čeština
+https://radio.vaticannews.va/stream-cs
+#EXTINF:-1 group-title="Vatican City",Radio Vaticana Slovenščina
+https://radio.vaticannews.va/stream-sl
+#EXTINF:-1 group-title="Vatican City",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

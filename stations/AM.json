@@ -1,0 +1,152 @@
+{
+ "countryCode": "AM",
+ "country": "Armenia",
+ "slug": "armenia",
+ "continent": "asia",
+ "stationCount": 9,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/armenia/",
+ "stations": [
+  {
+   "id": "mfm-music-radio",
+   "name": "MFM Music Radio",
+   "url": "https://www.mfm.am/",
+   "stream": "https://eu.stream4cast.com/proxy/mfmradio/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 1016,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "armenian-radio",
+   "name": "Armenian Radio",
+   "url": "https://www.laarmenianradio.com/",
+   "stream": "https://cast.thiff.com/proxy/laarmeni?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "armenian",
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "hy",
+    "ru"
+   ],
+   "state": "Yerevan",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 24,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "armenian-christian-radio-bashde-radio",
+   "name": "Armenian Christian Radio - Bashde Radio",
+   "url": "http://bashde.org/",
+   "stream": "https://streams.radio.co/sa0bf8ec29/listen?sid=1",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1410,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "love-radio",
+   "name": "LOVE RADIO",
+   "url": "",
+   "stream": "https://loveradio.streamingmedia.it/play",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1257,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-marshall",
+   "name": "Radio Marshall",
+   "url": "https://www.radiomarshall.am/",
+   "stream": "https://eu.stream4cast.com/proxy/marshallfm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 336,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 47,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lav-radio",
+   "name": "Lav Radio",
+   "url": "https://www.lavradio.am/",
+   "stream": "https://eu.stream4cast.com/proxy/lavradio/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "armenian"
+   ],
+   "langCodes": [
+    "hy"
+   ],
+   "genre": [],
+   "votes": 41,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "armenian-bible-study-radio",
+   "name": "Armenian Bible Study Radio",
+   "url": "https://armenianbiblestudy.com/",
+   "stream": "https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "xfm-radio",
+   "name": "XFM Radio",
+   "url": "https://www.xfm.am/",
+   "stream": "https://eu.stream4cast.com/proxy/xfmradio/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

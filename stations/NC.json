@@ -1,0 +1,92 @@
+{
+ "countryCode": "NC",
+ "country": "New Caledonia",
+ "slug": "new-caledonia",
+ "continent": "oceania",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/new-caledonia/",
+ "stations": [
+  {
+   "id": "nouvelle-caledonie-la-premiere",
+   "name": "Nouvelle-Calédonie La Première",
+   "url": "http://nouvellecaledonie.la1ere.fr/radio/",
+   "stream": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Nouméa",
+   "genre": [
+    "music"
+   ],
+   "votes": 657,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nia-radio-lo-fi",
+   "name": "NIA Radio Lo-Fi",
+   "url": "https://nia.nc/",
+   "stream": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "chillout"
+   ],
+   "votes": 293,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nia-radio-pacifique",
+   "name": "NIA Radio - Pacifique",
+   "url": "https://nia.nc/",
+   "stream": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronica",
+    "house",
+    "techno"
+   ],
+   "votes": 212,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

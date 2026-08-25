@@ -1,0 +1,588 @@
+{
+ "countryCode": "BY",
+ "country": "Belarus",
+ "slug": "belarus",
+ "continent": "europe",
+ "stationCount": 32,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/belarus/",
+ "stations": [
+  {
+   "id": "novoeradio",
+   "name": "Новое радио",
+   "url": "https://novoeradio.by/",
+   "stream": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 22908,
+   "clicks": 37,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-2",
+   "name": "Компас FM",
+   "url": "https://vayar.mil.by/radio/",
+   "stream": "https://radio.mil.by/live",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Minsk",
+   "genre": [
+    "music"
+   ],
+   "votes": 3079,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "87-9-fm",
+   "name": "Народное радио Минск 87.9 FM",
+   "url": "https://top-radio.ru/minsk/narodnoe-belarus",
+   "stream": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 2368,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "98-9-fm",
+   "name": "Русское радио Минск 98.9 FM",
+   "url": "https://radiobitva.ru/gorod/russkoe-radio-minsk-98-9-fm",
+   "stream": "https://stream.rusradio.by:8443/live128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 1849,
+   "clicks": 25,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "megamix",
+   "name": "Новое радио - MegaMix",
+   "url": "https://www.novoeradio.by/",
+   "stream": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Minsk",
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 1764,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fresh",
+   "name": "Новое радио - Fresh",
+   "url": "https://www.novoeradio.by/",
+   "stream": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Minsk",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 1664,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-live-mg",
+   "name": "Соловьев",
+   "url": "https://radio-live-mg.rtr-vesti.ru/",
+   "stream": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 1134,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "105-7-fm",
+   "name": "Душевное радио Минск 105.7 FM",
+   "url": "https://top-radio.ru/minsk/dushevnoe-radio",
+   "stream": "https://stream2.datacenter.by/dushevnoe",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 959,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiovitebsk",
+   "name": "Радио витебск",
+   "url": "https://radiovitebsk.by/",
+   "stream": "https://stream2.datacenter.by/vtvby",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 942,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "humorfm",
+   "name": "Авторадио Минск",
+   "url": "https://live.humorfm.by:8443/avtoradio",
+   "stream": "https://live.humorfm.by:8443/avtoradio",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 352,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mvolna",
+   "name": "МВ-Радио",
+   "url": "https://mvolna.by/index.html",
+   "stream": "https://stream2.datacenter.by/mvradio",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "state": "Minsk",
+   "genre": [
+    "pop"
+   ],
+   "votes": 324,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vatican",
+   "name": "Ватыканскае радыё",
+   "url": "http://vatican.by/",
+   "stream": "https://radio.vaticannews.va/stream-be",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 322,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "104-8-fm",
+   "name": "Радио Брест 104.8 FM",
+   "url": "https://top-radio.ru/brest/brest",
+   "stream": "https://stream2.datacenter.by/trkbrest",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 195,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zefir-fm",
+   "name": "Zefir FM",
+   "url": "https://www.zefir-fm.by/",
+   "stream": "https://stream2.datacenter.by/zefirfm",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Bobruisk",
+   "genre": [
+    "dance",
+    "disco",
+    "pop"
+   ],
+   "votes": 66,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-belarus",
+   "name": "Retro Belarus",
+   "url": "https://air.sammit.tv:8443/retro",
+   "stream": "https://air.sammit.tv:8443/retro",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 61,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "i",
+   "name": "Радыё Сталiца",
+   "url": "https://www.prfm.ru/radio/radio-stalitsa.html",
+   "stream": "https://media2.datacenter.by/stream/stalica/stream",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "belarusian",
+    "russian"
+   ],
+   "langCodes": [
+    "be",
+    "ru"
+   ],
+   "state": "Minsk",
+   "genre": [
+    "rock"
+   ],
+   "votes": 51,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "roks",
+   "name": "Радио ROKS",
+   "url": "https://roks.com/onlajn",
+   "stream": "https://stream.roks.com:8443/live256",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "belarusian",
+    "russian"
+   ],
+   "langCodes": [
+    "be",
+    "ru"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 17,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm",
+   "name": "РадиусFM",
+   "url": "https://radiusfm.by/",
+   "stream": "https://stream2.datacenter.by/radiusfm_main",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "russian",
+    "язык:-русский"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 14038,
+   "clicks": 37,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "96-2fm",
+   "name": "Мелодии Века 96.2fm",
+   "url": "https://wwv.zvuch.com/radio-online/melodii-veka",
+   "stream": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Минск",
+   "genre": [],
+   "votes": 1927,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lider-fm",
+   "name": "Lider FM",
+   "url": "https://liderfm.by/",
+   "stream": "https://icecast.lider-fm.by/liderfm",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "state": "Grodno",
+   "genre": [],
+   "votes": 1308,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-97-7",
+   "name": "Город FM Брест 97,7",
+   "url": "https://gorodfm.by/",
+   "stream": "https://stream2.datacenter.by/GorodFM",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1154,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tvrmogilev",
+   "name": "Радио Могилёв",
+   "url": "https://www.tvrmogilev.by/ru/radio/",
+   "stream": "https://stream2.datacenter.by/tvrmogilev",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1118,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "92-4",
+   "name": "радио Минск 92.4",
+   "url": "https://minsknews.by/radio-minsk/",
+   "stream": "https://radio.mk.by:8443/radiominsk",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 530,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-3",
+   "name": "ЦЕНТР FM",
+   "url": "https://centerfm.by/ru",
+   "stream": "https://stream2.datacenter.by/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "langs": [
+    "rus"
+   ],
+   "state": "Minsk",
+   "genre": [],
+   "votes": 374,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "svoyoradio",
+   "name": "Свое Радио (Пинск)",
+   "url": "https://svoyoradio.by/",
+   "stream": "https://live.svoyoradio.by:8443/svoyoradio",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 161,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mfm-belarus",
+   "name": "MFM Belarus",
+   "url": "https://105fm.by/",
+   "stream": "https://radio.105fm.by/radio.105.0mfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 96,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alfa-radio-107-9-fm",
+   "name": "Alfa Radio 107.9 FM",
+   "url": "https://alfaradio.by/",
+   "stream": "https://stream.sb.by/alpha",
+   "codec": "aac",
+   "bitrate": 160,
+   "state": "Minsk",
+   "genre": [],
+   "votes": 86,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radioslovo",
+   "name": "Открытое Слово Авто Радио",
+   "url": "https://radioslovo.net/",
+   "stream": "https://rt.radioslovo.net:4145/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "russian"
+   ],
+   "langCodes": [
+    "ru"
+   ],
+   "genre": [],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wgfm-trance",
+   "name": "WGFM-Trance",
+   "url": "https://top-radio.ru/web/wargaming-fm",
+   "stream": "https://sv.netradio.by/1/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Minsk",
+   "genre": [],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gomel-fm",
+   "name": "Gomel FM",
+   "url": "https://radiogomelfm.by/",
+   "stream": "https://stream2.datacenter.by/gomelfm",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 13,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "teploe-radio-netop-fm",
+   "name": "TEPLOE RADIO NETOP FM",
+   "url": "https://teploe.net/",
+   "stream": "https://listen.teploe.net:8001/netopfm",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 9,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  }
+ ]
+}

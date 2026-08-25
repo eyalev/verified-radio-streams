@@ -1,0 +1,96 @@
+{
+ "countryCode": "VI",
+ "country": "U.S. Virgin Islands",
+ "slug": "u-s-virgin-islands",
+ "continent": "americas",
+ "stationCount": 5,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/u-s-virgin-islands/",
+ "stations": [
+  {
+   "id": "beach-bar-radio",
+   "name": "Beach Bar Radio",
+   "url": "https://beachbarstjohn.com/",
+   "stream": "https://streaming.radio.co/s23d2a636c/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "american-english"
+   ],
+   "genre": [
+    "adult-contemporary"
+   ],
+   "votes": 181,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "from-the-heart-radio",
+   "name": "From The Heart Radio",
+   "url": "https://www.fromtheheartradio.net/",
+   "stream": "https://global2.citrus3.com:2020/stream/fromtheheartradio",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Georgia",
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm-pop-music-in-spanish-and-english",
+   "name": "EXA FM: Pop music in Spanish and English",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 403,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wtjx",
+   "name": "WTJX",
+   "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
+   "stream": "https://quarrel.streamguys1.com:7405/wtjxfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 41,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "107-9-fm-da-vybe",
+   "name": "107.9 FM Da Vybe",
+   "url": "https://www.davybe.com/",
+   "stream": "https://ice3.securenetsystems.net/WLDV",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

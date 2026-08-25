@@ -1,0 +1,134 @@
+{
+ "countryCode": "PF",
+ "country": "French Polynesia",
+ "slug": "french-polynesia",
+ "continent": "oceania",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/french-polynesia/",
+ "stations": [
+  {
+   "id": "tiare-fm",
+   "name": "Tiare FM",
+   "url": "https://www.tiarefm.pf/",
+   "stream": "https://live.tiarefm.pf:8443/tiarefm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 1191,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hiti-fm",
+   "name": "Hiti FM",
+   "url": "https://hiti-fm.com/",
+   "stream": "https://n01.radiojar.com/u0yz7p0mb.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 1039,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nostalgie-100-francais-80",
+   "name": "Nostalgie 100% Francais 80",
+   "url": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-100-francais-80",
+   "stream": "https://streaming.nrjaudio.fm/out2976ubafg?origine=playernostalgie&aw_0_req.userConsentV2=CQkCxgAQkCxgAAHABBENCdFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSJk24FyJvW7JwCx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgFqSDMaESUgTNKJ6BEiFMRI2JQCFxvm4FDeQCY4kp_9kcxmB-t7dr8yNzgAgAAAUCAIAAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQCBAoCAECAAQVhABQIAgAASBggIASBgQ5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEZUBpgQgAJBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAEAAAAAAEABAAAAAAAAAAAAABAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSJk24FyJvW7JwC32EzJAzapqYKmRIAu3TBAQNtGIjURUABIIgVqTDMaESUgTNKJ6BEiHMRY2JQCFxvm4FDeQCZ4kp_90d5mR-t7dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAAAAQAAgiwACAAAAAAAAEAAAFAAEABAAAEAAAACAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-100-Francais-80",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "80s",
+    "pop"
+   ],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "polynesie-1ere",
+   "name": "Polynésie 1ère",
+   "url": "https://la1ere.francetvinfo.fr/polynesie/",
+   "stream": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 1316,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-1-pf",
+   "name": "Radio 1 PF",
+   "url": "https://www.radio1.pf/",
+   "stream": "https://live.radio1.pf:8443/radio1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 500,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

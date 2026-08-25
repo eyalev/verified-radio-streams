@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Spain" tvg-genre="music,pop,top-40",LOS 40 Principales España
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,90s,dance,disco",_80 EXITOS
+https://80sexitos.stream.laut.fm/80sexitos
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,music,pop",Los 40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance",Pure Ibiza Radio
+https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
+#EXTINF:-1 group-title="Spain" tvg-genre="classical",Radio Marca
+https://sonic.mediatelekom.net/9316/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="chillout,lounge",Café del Mar
+https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1 group-title="Spain" tvg-genre="pop-rock",LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="2000s,80s,90s,music,musica,pop-music",KISS FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="house",Perfect Deep House
+https://stream.radiojar.com/asngk2sg798uv?1659885393
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,90s,electronica",Remember the music FM 96.6
+https://eu1.lhdserver.es:9041/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,house,pop,r&b",Radio Planeta Costa del Sol
+https://radioplaneta.emitironline.com/radio
+#EXTINF:-1 group-title="Spain" tvg-genre="smooth-jazz",Costa Del Mar Smooth Jazz
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+#EXTINF:-1 group-title="Spain" tvg-genre="90s,dance",#1 Splash 90s Dance
+https://c6.auracast.net/radio/8090/radio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,house,latin,reggaeton",Flaix FM
+https://stream.flaixfm.cat/icecast
+#EXTINF:-1 group-title="Spain" tvg-genre="love-songs,romantic",LOVE RADIO - LOVE.radio
+https://loveradio.streamingmedia.it/espana
+#EXTINF:-1 group-title="Spain" tvg-genre="relax",Intimidad Relax
+https://eu1.lhdserver.es:9121/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="electronic",LOS 40 DANCE
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="easy-listening,oldies,schlager",1 Slow-Radio - laut.fm
+https://1slowradio.stream.laut.fm/1_slowradio
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,house,techno",Radio Vilasound Ibiza 92.7 FM
+https://s9.citrus3.com:8174/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="house",Ibiza Stardust Radio
+https://www.radioking.com/play/ibiza-stardust-radio-1
+#EXTINF:-1 group-title="Spain" tvg-genre="classic-rock,pop-rock,rock",Mariskal Rock
+https://media.profesionalhosting.com:8047/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="pop",FlaixBAC
+https://stream.flaixbac.cat/icecast
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,disco,funk,music,musica,oldies,r&b,rnb,soul",_Funky Corner Radio (Spain)
+https://ais-sa2.cdnstream1.com/2447_96.aac
+#EXTINF:-1 group-title="Spain" tvg-genre="classical",Catalunya Música (CatMúsica)
+https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="trance",PlayTrance Radio - Main Channel
+https://live-ff.playtrance.com/playtrance-main.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="classical",Adagio Radio HD
+https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,pop",Radio Moscatel 107.1 FM Axarquía - España
+https://axarquia.emisiononline.es/radio/8040/radio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="classical",1000 HITS Classical
+https://ais-sa2.cdnstream1.com/2208_128.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance",Digital Hits FM
+https://dhits.frilab.com:8443/dhits
+#EXTINF:-1 group-title="Spain" tvg-genre="ambient,chillout,electronic",Café del Mar CALM
+https://streamer.radio.co/sb748f24ad/listen
+#EXTINF:-1 group-title="Spain" tvg-genre="music,oldies",华夏之声China FM·西班牙马德里FM92.9
+https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="dance-music",Remember Radio
+https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB
+#EXTINF:-1 group-title="Spain" tvg-genre="electronic",Urban Revolution
+https://st1.urbanrevolution.es:8443/zonaelectronica
+#EXTINF:-1 group-title="Spain" tvg-genre="80s",1000 80s Hits
+https://ais-sa9.cdnstream1.com/1898_128
+#EXTINF:-1 group-title="Spain" tvg-genre="pop-music",RAC105
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music,musica",Canal Fiesta Radio
+https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,electronic",Graba Radio Ibiza
+https://radio.grabamusic.com/gmr-hd
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,90s,hits,pop",FORMULA 10 MUSICA
+https://formula10musica.stream.laut.fm/formula10musica
+#EXTINF:-1 group-title="Spain" tvg-genre="90s",#1 Splash 90s
+https://c4.auracast.net/radio/8050/radio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="oldies,pop,rock",Inolvidable FM
+https://uk1.streamingpulse.com/ssl/inolvidablefm
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Los Megaexitos
+https://losmegaexitos.radioca.st/lms
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,classic-hits,oldies",80s Super Dancefloor
+https://s41.myradiostream.com:33604/;
+#EXTINF:-1 group-title="Spain" tvg-genre="pop",Radio Intercontinental - Madrid
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="electronica,hip-hop,house,jazz,r&b,soul,techno",OpenLab Radio
+https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="electronic",Ibiza Sonica
+https://ibizasonica.streaming-pro.com:8000/ibizasonica
+#EXTINF:-1 group-title="Spain" tvg-genre="christian-music",Radio María España
+https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,electronic",Vuelve el Remember
+https://cast1.asurahosting.com/proxy/javier1/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,electronic,hits,house",Ibiza World Club Tour Channel
+https://ibiza-audiomediaradio.radioca.st/ibiza
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,90s",80s 90s Absolute Hits
+https://live.streamthe.world/absolutehits
+#EXTINF:-1 group-title="Spain" tvg-genre="music,salsa",100 % SALSA
+https://stm01.streammaximum.com:8194/;
+#EXTINF:-1 group-title="Spain" tvg-genre="pop-rock",Spectrum FM Costa Almeria
+https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,90s",Feel Good Radio Costa del Sol
+https://caster05.streampakket.com/proxy/8321/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="ambient,chillout,easy-listening",#1 Splash Coffee
+https://ais-sa2.cdnstream1.com/2345_128.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="house",BeachGrooves Radio
+https://stream.beachgrooves.com:9000/stream.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="hits,pop,popular",LOS40
+https://20103.live.streamtheworld.com/LOS40_SC
+#EXTINF:-1 group-title="Spain" tvg-genre="classic-hits,hits",Radio Disco Melodia FM
+https://sonic.mediatelekom.net/8020/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="chillout,lounge,relax",#1 Splash Lounge
+https://ais-sa2.cdnstream1.com/2209_128.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,edm,electronic",Technolovers EDM
+https://stream.technolovers.fm/edm?ref=radiobrowser
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,edm,electronica,house,trance",Ibiza X Radio
+https://stream.radiojar.com/p1f2vpv37reuv
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radio Surco Tomelloso
+https://carina.streamerr.co:8032/surco
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radios Libres
+https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,electronic,house,trance",Ibiza Global Classics
+https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,edm,electronic,hits,house,music,top-40",Hits 1 Ibiza
+https://hits1spain-audiomediaradio.radioca.st/hits1mallorca
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radio Faro de Gracia
+https://radiorfg.com/listen/radio_faro_de_gracia/radio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="ambient,chillout,downtempo,easy-listening",#1 Splash Spa
+https://ais-sa2.cdnstream1.com/2347_128.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="60s,70s,80s,90s",Mi Amigo Radio, de échte
+https://stan319bisbis.radioca.st/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="pop",Eixample Barcelona Radio
+https://directe.eixamplebarcelonaradio.com:8443/radioOnline
+#EXTINF:-1 group-title="Spain" tvg-genre="lounge",Cool Coffee
+https://listen.openstream.co/6781/audio
+#EXTINF:-1 group-title="Spain" tvg-genre="50s,60s,70s,music",Energía Flamenca
+https://axarquia.emisiononline.es/radio/8020/radio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Gente Radio
+https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
+#EXTINF:-1 group-title="Spain" tvg-genre="edm",Original EDM FESTIVAL
+https://stream.0nlineradio.com/edm-festival?ref=radiobrowser
+#EXTINF:-1 group-title="Spain" tvg-genre="easy-listening,pop",Only Romantic Radio
+https://stream.laut.fm/only-romantic-radio
+#EXTINF:-1 group-title="Spain" tvg-genre="chillout,funk,rnb,smooth-jazz,soul",Jazz Crusader
+https://jazzcrusader.stream.laut.fm/jazzcrusader
+#EXTINF:-1 group-title="Spain" tvg-genre="hits",Radio Europa
+https://server9.emitironline.com:19144/
+#EXTINF:-1 group-title="Spain" tvg-genre="adult-contemporary,pop-music",scannerFM
+https://eu10.fastcast4u.com/scannerfm
+#EXTINF:-1 group-title="Spain" tvg-genre="opera",AdagioRadio
+https://stream.tunerplay.com/radio/8010/adagioradio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="chillout,jazz,lounge",delicious.beach - formentera lounge radio
+https://server31435.streamplus.de/;stream.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radio La Granja
+https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="pop",Ushuaia Radio (87.7 FM) Madrid
+https://s4.radio.co/sc6f29e098/listen
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radio Andalucía Información Sevilla
+https://rtva-live-radio.flumotion.com/rtva/raisev.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="adult-contemporary",Radio Calima
+https://escucha.calima.fm/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="electronic",Sonica Tribe
+https://ibizasonica.streaming-pro.com:8010/sonicatribe
+#EXTINF:-1 group-title="Spain" tvg-genre="trance",Play Trance Radio Main Channel (High Quality)
+https://streaming.playtrance.com/playtrance-main-high
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,classic-rock,rock",Free FM Madrid
+https://rocafmadrid.radioca.st/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,90s,oldies,pop,rock",rockSateliteONE
+https://stream.tunerplay.com/radio/8050/rocksateliteradio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="rock",RADIO BOB
+https://streams.radiobob.de/bob-national/mp3-192/homepage?mode=preroll&aw_0_1st.skey=1671400102&cb=286873666&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50
+#EXTINF:-1 group-title="Spain" tvg-genre="chillout",Costa del Mar - Chillout
+https://radio4.cdm-radio.com:18020/stream-mp3-Chill
+#EXTINF:-1 group-title="Spain" tvg-genre="romantic",Melodia Para Dos
+https://sp.totalstreaming.net:8170/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Sol Radio
+https://azura.abcorp.es/radio/8220/solradio
+#EXTINF:-1 group-title="Spain" tvg-genre="90s,dance",LocaFM 90's
+https://s2.we4stream.com/listen/loca_90s_/live
+#EXTINF:-1 group-title="Spain" tvg-genre="latin",Gladys Palmera Latin Fresh
+https://streamer.radio.co/s00c7ec6fa/listen
+#EXTINF:-1 group-title="Spain" tvg-genre="pop",onda 10
+https://onda10.stream.laut.fm/onda10?t302=2026-08-21_20-15-33&uuid=4213e4da-241f-43c9-ac9b-86269b5dd04f
+#EXTINF:-1 group-title="Spain" tvg-genre="salsa,samba",La Clave Stereo 93.6
+https://stream.integracionvirtual.com/proxy/laclavestereo?mp=/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,electronic,house,music",+Buena FM
+https://sonic.mediatelekom.net/8156/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,90s,dance,pop,romantic",80 Hits Barcelona
+https://stream.laut.fm/80sexitos
+#EXTINF:-1 group-title="Spain" tvg-genre="pop",RPV Gran Canaria
+https://stream.radio-pv.com/
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,90s,pop",Mediterrani FM Barcelona
+https://listen1.myradio24.com/37511
+#EXTINF:-1 group-title="Spain" tvg-genre="2000s,80s,90s",Imagina Radio
+https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,electronic,house,trance",Ática FM 106.4
+https://server8.emitironline.com:18571/atica
+#EXTINF:-1 group-title="Spain" tvg-genre="folk",Italiana FM
+https://online.radioplayer.ua/RadioItaliana
+#EXTINF:-1 group-title="Spain" tvg-genre="80s,90s,pop",Radio Castelldefels
+https://streaming.enacast.com/radiocastelldefels128.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="house",Ibiza Live Radio
+https://uksoutha.streaming.broadcast.radio/ibiza-live-radio
+#EXTINF:-1 group-title="Spain" tvg-genre="reggae,rock",Alzira ràdio 107.9 FM
+https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="blues,jazz,rock",Candil Radio
+https://candilradio.com/liveradio/candil/live.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,90s,pop",Esplugues FM
+https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="indie",La Indie
+https://stream.emisorasmusicales.net/listen/la_indie/laindie.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="latin",Radio Líder Santiago
+https://server8.emitironline.com:18520/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,edm,electronic,top-40",Hits 1 Mallorca
+https://radio7.pro-fhi.net/radio/9006/hits1ibiza
+#EXTINF:-1 group-title="Spain" tvg-genre="bachata,merengue,popular,reggaeton,salsa",Fiebre Latina Radio 96.6 FM
+https://eu1.lhdserver.es:9035/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="greatest-hits",Holland FM Gran Canaria
+https://panel.amediastream.eu:8500/live#.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music,musica,oldies",7.7 RADIO LA PALMA (FM 88.3 - 99.8)
+https://radioserver11.profesionalhosting.com/proxy/suoqgqzc?mp=/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="70s,80s,90s,disco,music",DISCO MUSIC RADIO
+https://discomusicradio.com:8100/;
+#EXTINF:-1 group-title="Spain" tvg-genre="jazz,soul",Radio Callao Madrid
+https://server8.emitironline.com:18176/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="music,pop",Dunas FM 94.4 y 94.2
+https://sonic.mediatelekom.net/8424/stream/;
+#EXTINF:-1 group-title="Spain" tvg-genre="dance,hits",hits1
+https://radio12.pro-fhi.net:19018/Paul%20Rudd%20-%20GLOBAL%20Sessions
+#EXTINF:-1 group-title="Spain" tvg-genre="cumbia,salsa",La Patrona 102.9 FM
+https://lapatrona-zikoxweb2.radioca.st/stream
+#EXTINF:-1 group-title="Spain" tvg-genre="musica",Los 40 Sur
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_MORON.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radio FilispiM
+https://streaming.cuacfm.org/filispim.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Sangeet Fm
+https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
+#EXTINF:-1 group-title="Spain" tvg-genre="smooth-jazz",Jazz Radio Spain
+https://server5.mediasector.es:8020/jazzradiospain.mp3
+#EXTINF:-1 group-title="Spain" tvg-genre="music",Radio Matorral
+https://topradio.uno/proxy/radiomatorral/stream
+#EXTINF:-1 group-title="Spain",Radio Marca Madrid
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC
+#EXTINF:-1 group-title="Spain",RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1 group-title="Spain",RNE - R1 --> Madrid
+https://d121.rndfnk.com/star/crtve/rne1/mad/mp3/128/stream.mp3?cid=01GEM7S23A9B744SKFN04XA893&sid=2HgEg5aD71G8EuEf67MKTba5AnL&token=n_qXJorii6EVsZ_IP-RSzQP8sRamUc8gqb1nDnqiNT8&tvf=HHgasgd8KBdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="Spain",Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1 group-title="Spain",punk irratia
+https://punkirratia.net:8443/punk
+#EXTINF:-1 group-title="Spain",Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+#EXTINF:-1 group-title="Spain",Radio Nacional de España - Radio 5 Todo noticias
+https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2OeE42hivuba6dTGvjnMGjKByQe&token=cdczXcnimVx4AY4iamqYbTMdu3cK7oBxmS2UQN9cWc0&tvf=pdPcDBxuVxdkMTMxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="Spain",Catalunya Radio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+#EXTINF:-1 group-title="Spain",Marca Valladolid
+https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3
+#EXTINF:-1 group-title="Spain",COPE Albacete
+https://wecast22-o-cloud.flumotion.com/copesedes/albacete.mp3
+#EXTINF:-1 group-title="Spain",EsRadio Principal
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+#EXTINF:-1 group-title="Spain",RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1 group-title="Spain",Cadena SER - Ràdio Barcelona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
+#EXTINF:-1 group-title="Spain",Radio Libertad
+https://server9.emitironline.com:19482/stream?cb=1708722000350
+#EXTINF:-1 group-title="Spain",Loca Progressive House
+https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
+#EXTINF:-1 group-title="Spain",Mix80Radio
+https://stream.tunerplay.com/radio/8040/radio.mp3
+#EXTINF:-1 group-title="Spain",INFORMA RADIO
+https://24x7.red:42045/informa
+#EXTINF:-1 group-title="Spain",EsRadio (MP3 HQ)
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+#EXTINF:-1 group-title="Spain",RadioBlues Flac
+https://streams.radiomast.io/radioblues-flac
+#EXTINF:-1 group-title="Spain",C. DIAL Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+#EXTINF:-1 group-title="Spain",Radio Humor FM
+https://stream.radiohumorfm.com/stream
+#EXTINF:-1 group-title="Spain",Canarias Radio
+https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
+#EXTINF:-1 group-title="Spain",C. DIAL Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+#EXTINF:-1 group-title="Spain",RNE - R5 --> Madrid
+https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1 group-title="Spain",iCat FM
+https://shoutcast.ccma.cat/ccma/icatHD.mp3
+#EXTINF:-1 group-title="Spain",Jazz Radio Spain
+https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3
+#EXTINF:-1 group-title="Spain",Radio Esport Valencia
+https://streaming.radioesport914.com:58000/stream
+#EXTINF:-1 group-title="Spain",Cafe del Mar Channel 2
+https://s4.radio.co/seeae9c220/listen
+#EXTINF:-1 group-title="Spain",Ona Mediterrània
+https://streaming.enacast.com/onamediterrania128.mp3

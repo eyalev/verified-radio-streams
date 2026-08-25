@@ -1,0 +1,253 @@
+{
+ "countryCode": "HK",
+ "country": "Hong Kong SAR China",
+ "slug": "hong-kong-sar-china",
+ "continent": "asia",
+ "stationCount": 13,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/hong-kong-sar-china/",
+ "stations": [
+  {
+   "id": "fing-radio",
+   "name": "Fing Radio",
+   "url": "https://onlineradiobox.com/",
+   "stream": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1014,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-disney-asia-fm-100-7",
+   "name": "Radio Disney Asia FM 100.7",
+   "url": "https://www.radiodisney.com/",
+   "stream": "https://listen.radioking.com/radio/453221/stream/508076",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "en"
+   ],
+   "state": "Hong Kong, SAR of China",
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 309,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-lantau",
+   "name": "大嶼山廣播電台 RADIO LANTAU",
+   "url": "https://radiolantau.com/",
+   "stream": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "funk",
+    "instrumental",
+    "jazz",
+    "music",
+    "soul"
+   ],
+   "votes": 21,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-belowground",
+   "name": "FM Belowground",
+   "url": "https://belowground.fm/",
+   "stream": "https://listen.belowground.fm/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "edm",
+    "electronic",
+    "music"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-french-radio-honk-kong-et-macao",
+   "name": "La French Radio Honk-Kong et Macao",
+   "url": "https://onlineradiobox.com/",
+   "stream": "https://listen.radioking.com/radio/333865/stream/382282",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 256,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jmnews",
+   "name": "台山電台",
+   "url": "http://www.jmnews.com.cn/a/content/2024-03/21/content_2679562.htm",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "genre": [],
+   "votes": 134,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sztv",
+   "name": "深圳交通廣播",
+   "url": "https://www.sztv.com.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zsbtv",
+   "name": "中山綜合廣播",
+   "url": "http://www.zsbtv.com.cn/",
+   "stream": "https://lhttp.qingting.fm/live/1277/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "genre": [],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hizh",
+   "name": "珠海綜合廣播",
+   "url": "https://www.hizh.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1274/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lyradio",
+   "name": "良友电台友音乐频道",
+   "url": "https://r1.lyradio.net/ly-platforms",
+   "stream": "https://c25.radioboss.fm:8334/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 47,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dltv",
+   "name": "大連都市之聲廣播",
+   "url": "http://www.dltv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1086/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hits",
+   "name": "華語 HITS",
+   "url": "https://new.brg-radio.com/",
+   "stream": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+   "codec": "aac",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "universal-health-radio",
+   "name": "Universal Health Radio (粵語)",
+   "url": "https://universalhealthradio.org/",
+   "stream": "https://radio.universalhealthradio.org/uhr-yue.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

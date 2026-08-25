@@ -1,0 +1,342 @@
+{
+ "countryCode": "PA",
+ "country": "Panama",
+ "slug": "panama",
+ "continent": "americas",
+ "stationCount": 20,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/panama/",
+ "stations": [
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 341,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estereo-azul-100-9-fm",
+   "name": "Estéreo Azul 100.9 FM",
+   "url": "https://www.estereoazul.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "merengue",
+    "salsa"
+   ],
+   "votes": 304,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fabulosa-estereo-100-5-fm",
+   "name": "Fabulosa Estéreo 100.5 FM",
+   "url": "https://fabulosaestereo.com/",
+   "stream": "https://www.streaming507.net:8130/stream",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "reggae",
+    "reggaeton",
+    "salsa"
+   ],
+   "votes": 205,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "antena-8-100-1-fm",
+   "name": "Antena 8 100.1 FM",
+   "url": "https://www.antena8.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "2000s",
+    "90s",
+    "hits",
+    "musica"
+   ],
+   "votes": 178,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "omega-stereo",
+   "name": "Omega Stereo",
+   "url": "https://www.omegastereo.com/",
+   "stream": "https://www.streaming507.net:8048/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langCodes": [
+    "es-419"
+   ],
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 132,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-corazon-102-5",
+   "name": "FM Corazón 102.5",
+   "url": "https://fmcorazonellenguajedelamor.com/",
+   "stream": "https://sp4.colombiatelecom.com.co/8006/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 119,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beat-life-panama",
+   "name": "Beat Life Panama",
+   "url": "https://beatlifepanama.com/",
+   "stream": "https://cast4.asurahosting.com/proxy/ondabra2/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langCodes": [
+    "es-419"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 69,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rumba-fm",
+   "name": "Rumba FM",
+   "url": "https://radioparallevar.com/",
+   "stream": "https://laradiossl.online:10355/;stream.nsv",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 150,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ultra-stereo-98-9-fm",
+   "name": "Ultra Stereo 98.9 FM",
+   "url": "https://www.fmultrastereo.com/",
+   "stream": "https://www.streaming507.net:8134/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 91,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tropiq",
+   "name": "TropiQ",
+   "url": "https://tropiq.com/",
+   "stream": "https://www.streaming507.net:8140/stream",
+   "codec": "aac",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 90,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-tipik",
+   "name": "LA TIPIK",
+   "url": "https://x.com/latipikradio",
+   "stream": "https://stream.mixesurbanospty.com:8090/tipik.mp3",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 58,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "magic-fm",
+   "name": "Magic FM",
+   "url": "https://radioparallevar.com/magicfm/",
+   "stream": "https://laradio.stream/proxy/magicfm/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 58,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "al-tope-radio",
+   "name": "AL TOPE RADIO",
+   "url": "https://www.altoperadio.com/",
+   "stream": "https://server.laradio.online/proxy/edwin_chacon?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-maria-panama",
+   "name": "RADIO MARIA PANAMA",
+   "url": "https://radiomaria.pa/",
+   "stream": "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "original-stereo-90-7-fm",
+   "name": "Original Stereo 90.7 FM",
+   "url": "https://www.originalstereo.net/",
+   "stream": "https://original.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yxy",
+   "name": "YXY",
+   "url": "https://grupojapradiotv.com/",
+   "stream": "https://sp4.colombiatelecom.com.co:8006/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "okey-96-3-fm",
+   "name": "Okey 96.3 FM",
+   "url": "https://okey963fm.com/",
+   "stream": "https://icy.cloudrad.io/5b3fc6b1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dinamix-fm",
+   "name": "Dinamix fm",
+   "url": "https://www.dinamixfm.com/",
+   "stream": "https://jcbroadcast.org:8000/dinamixfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-mega",
+   "name": "la mega",
+   "url": "https://lamegapanama.com/",
+   "stream": "https://usest-sp1.golivestream.net/8022/stream",
+   "codec": "aac",
+   "bitrate": 112,
+   "state": "Panama",
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "super-q-panama",
+   "name": "Super Q Panama",
+   "url": "https://superqpanama.net/",
+   "stream": "https://sqserver.superqpanama.net:8005/superqpanama",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Panama",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

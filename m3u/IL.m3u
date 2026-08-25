@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="Israel" tvg-genre="pop",Первое радио 89.1FM
+https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="hits,pop",Galgalatz 91.8 FM
+https://glzicylv01.bynetcdn.com/glglz_mp3
+#EXTINF:-1 group-title="Israel" tvg-genre="90s,classic-hits,dance,oldies",Radio 100% 90s
+https://gb25.streamgates.net/radios-audio/10090s/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="metal,rock",Ze Rock Radio
+https://icecast.live/proxy/zerock/zerock
+#EXTINF:-1 group-title="Israel" tvg-genre="music",101fm radio jerusalem
+https://radio.streamgates.net/stream/101fm
+#EXTINF:-1 group-title="Israel" tvg-genre="music",101.5fm רדיו התחנה
+https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="music,pop",Kol Rega קול רגע 91.5/96
+https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="kpop",Radios 100FM - 100% K-pop
+https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="rock",Glglz - Rock
+https://glzwizzlv.bynetcdn.com/glglz_rock_mp3
+#EXTINF:-1 group-title="Israel" tvg-genre="jazz",Radios 100FM - 100% Jazz
+https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="relax",Radios 100FM - 100% Relax
+https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio
+#EXTINF:-1 group-title="Israel" tvg-genre="adult-contemporary,pop",yStream
+https://ystream.live/ystream-mp3
+#EXTINF:-1 group-title="Israel",Radio 103FM
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+#EXTINF:-1 group-title="Israel",اذاعة الشمس - A-Shams
+https://cdna.streamgates.net/Ashams/Live/icecast.audio
+#EXTINF:-1 group-title="Israel",גלי ישראל Galey Yisrael
+https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
+#EXTINF:-1 group-title="Israel",Israeli voice radio
+https://icecast.live/ivr
+#EXTINF:-1 group-title="Israel",Kan Bet
+https://28563.live.streamtheworld.com/KAN_BET.mp3
+#EXTINF:-1 group-title="Israel",Radios 100FM רדיוס
+https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
+#EXTINF:-1 group-title="Israel",Radio Nas
+https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
+#EXTINF:-1 group-title="Israel",גלצ
+https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+#EXTINF:-1 group-title="Israel",88 FM
+https://29073.live.streamtheworld.com/KAN_88.mp3
+#EXTINF:-1 group-title="Israel",KAN Gimel כאן גימל
+https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3
+#EXTINF:-1 group-title="Israel",Radios 100FM - 100% Mizrachit (מזרחי)
+https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio
+#EXTINF:-1 group-title="Israel",Radios 100FM - 100% Disney
+https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio
+#EXTINF:-1 group-title="Israel",Radios 100FM - 100% Gamer
+https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio
+#EXTINF:-1 group-title="Israel",Radios 100FM - 100% Retro
+https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio
+#EXTINF:-1 group-title="Israel",Eli Nisman Radio
+https://listen6.myradio24.com/25715
+#EXTINF:-1 group-title="Israel",Radios 100FM - 100% StandUp
+https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio
+#EXTINF:-1 group-title="Israel",Radios 100FM - 100% Tiktok
+https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio
+#EXTINF:-1 group-title="Israel",Radios Nostalgia 96.3FM (רדיוס נוסטלגי)
+https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio
+#EXTINF:-1 group-title="Israel",Up2Dance Radio
+https://icecast.live/up2dance
+#EXTINF:-1 group-title="Israel",KHZ - רדיו קול הצפון
+https://live.ecast.co.il/stream/khz
+#EXTINF:-1 group-title="Israel",Radio 100% Latina
+https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio
+#EXTINF:-1 group-title="Israel",TIMBR Radio
+https://radio.betteradio.live/listen/better_radio/live

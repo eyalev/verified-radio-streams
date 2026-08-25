@@ -1,0 +1,2835 @@
+{
+ "countryCode": "CH",
+ "country": "Switzerland",
+ "slug": "switzerland",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/switzerland/",
+ "stations": [
+  {
+   "id": "80s-forever-we-keep-the-80s-alive",
+   "name": "80s Forever - We Keep The 80s Alive",
+   "url": "https://www.80sforever.radio/",
+   "stream": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "80s",
+    "eighties",
+    "indie",
+    "rock"
+   ],
+   "votes": 2452,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vintage-radio",
+   "name": "Vintage Radio",
+   "url": "https://vintageradio.ch/",
+   "stream": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1827,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-3",
+   "name": "Radio SRF 3",
+   "url": "https://www.srf.ch/radio-srf-3",
+   "stream": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
+   "codec": "aac",
+   "bitrate": 88,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 784,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-radio-classic-rock",
+   "name": "Spoon Radio - Classic Rock",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 742,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-radio-rock-ballads",
+   "name": "Spoon Radio - Rock Ballads",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 684,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "true-house-radio",
+   "name": "True House Radio",
+   "url": "http://www.truehouse.net/",
+   "stream": "https://stream.truehouse.net:8443/house",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 669,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-suisse-classique",
+   "name": "Radio Suisse Classique",
+   "url": "http://www.srf.ch/radio-srf-1/",
+   "stream": "https://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 667,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-radio-hard-rock",
+   "name": "Spoon Radio - Hard Rock",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 600,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-melody",
+   "name": "Radio Melody",
+   "url": "https://www.radiomelody.ch/",
+   "stream": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "en",
+    "gsw"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 598,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-radio-swiss",
+   "name": "Jazz | Radio Swiss",
+   "url": "https://www.radioswissjazz.ch/",
+   "stream": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "german",
+    "italian"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "fr",
+    "gsw"
+   ],
+   "state": "Bern",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 550,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "true-house-chill",
+   "name": "True House Chill",
+   "url": "http://www.truehouse.net/",
+   "stream": "https://stream.truehouse.net:8443/chill",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "chillout"
+   ],
+   "votes": 466,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-dance-ticino",
+   "name": "One Dance Ticino",
+   "url": "https://onedancefm.ch/",
+   "stream": "https://ice15.fluidstream.net/onedancech.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "state": "Ticino",
+   "genre": [
+    "dance",
+    "electronic",
+    "pop",
+    "top-40"
+   ],
+   "votes": 463,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-basel-nrj",
+   "name": "Energy Basel (NRJ)",
+   "url": "https://energy.ch/play/basel",
+   "stream": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "state": "Basel",
+   "genre": [
+    "pop"
+   ],
+   "votes": 414,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-radio-modern-rock",
+   "name": "Spoon Radio - Modern Rock",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 409,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "swiss-groove",
+   "name": "SWISS GROOVE",
+   "url": "https://swissgroove.ch/",
+   "stream": "https://relay2.swissgroove.ch/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "funk",
+    "jazz",
+    "latin",
+    "lounge",
+    "soul"
+   ],
+   "votes": 332,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skuizz-hits-90s-00s",
+   "name": "Skuizz Hits 90s-00s",
+   "url": "https://skuizz.com/",
+   "stream": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 312,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "a-fine-jazz-gumbo-radio",
+   "name": "A Fine Jazz Gumbo Radio",
+   "url": "https://jazzgumboradio.com/",
+   "stream": "https://streaming.smartradio.ch:9502/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 305,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "virginradio",
+   "name": "VirginRadio",
+   "url": "https://virginradio.ch/",
+   "stream": "https://stream.streambase.ch/vrock/mp3-192/direct/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "rock"
+   ],
+   "votes": 296,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "al-quran-radio",
+   "name": ". Al quran radio",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 252,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-radio-acoustic-rock",
+   "name": "Spoon Radio - Acoustic Rock",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 215,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gnu-radio-metal-fm",
+   "name": "Gnu Radio - Metal FM",
+   "url": "https://www.gnuradio.org/",
+   "stream": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "metal"
+   ],
+   "votes": 207,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-fm-2000s",
+   "name": "One FM 2000s",
+   "url": "https://www.onefm.ch/",
+   "stream": "https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "2000s"
+   ],
+   "votes": 186,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-absolute-90-s-radio",
+   "name": "1.FM Absolute 90's Radio",
+   "url": "https://www.1.fm/",
+   "stream": "https://strm112.1.fm/90s_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "90s",
+    "pop"
+   ],
+   "votes": 178,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-radio-alternative-rock",
+   "name": "Spoon Radio - Alternative Rock",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "rock"
+   ],
+   "votes": 177,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zurisee",
+   "name": "Radio Zürisee",
+   "url": "https://www.radiozuerisee.ch/",
+   "stream": "https://mp3.radio.ch/radiozuerisee256k",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "St. Gallen",
+   "genre": [
+    "classic-hits",
+    "classic-rock",
+    "pop",
+    "top-100"
+   ],
+   "votes": 161,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "basspistol-radio",
+   "name": "Basspistol Radio",
+   "url": "https://basspistol.com/radio",
+   "stream": "https://radio.basspistol.com/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance",
+    "electronic",
+    "indie"
+   ],
+   "votes": 141,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "grrif",
+   "name": "GRRIF",
+   "url": "https://www.grrif.ch/",
+   "stream": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "blues",
+    "electronic",
+    "indie",
+    "rock",
+    "soul"
+   ],
+   "votes": 139,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-suisse-jazz",
+   "name": "Radio Suisse Jazz",
+   "url": "https://www.radioswissjazz.ch/en",
+   "stream": "https://stream.srg-ssr.ch/m/rsj/aacp_96",
+   "codec": "aac",
+   "bitrate": 88,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "blues",
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pop-radio-swiss",
+   "name": "Pop | Radio Swiss",
+   "url": "https://www.radioswisspop.ch/",
+   "stream": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "german",
+    "italian"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "fr",
+    "gsw"
+   ],
+   "state": "Bern",
+   "genre": [
+    "pop"
+   ],
+   "votes": 123,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio1-ch",
+   "name": "Radio1.ch",
+   "url": "https://radio1.ch/",
+   "stream": "https://stream.radio1.ch/128k",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 121,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "uzic-ch-techno-minimal-best-of-electronic-with-t",
+   "name": "UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro ho",
+   "url": "https://uzic.ch/",
+   "stream": "https://uzic.ice.infomaniak.ch/uzic-128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "house",
+    "techno"
+   ],
+   "votes": 114,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "break-radio",
+   "name": "Break Radio",
+   "url": "https://www.breakradio.ch/",
+   "stream": "https://breakradio.ice.infomaniak.ch/breakradio-192.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap",
+    "rnb"
+   ],
+   "votes": 99,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rocket",
+   "name": "Radio Rocket",
+   "url": "https://radiorocket.ch/",
+   "stream": "https://i9.streams.ovh/sc/radioroc/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "NE",
+   "genre": [
+    "alternative",
+    "rock"
+   ],
+   "votes": 98,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-32",
+   "name": "Radio 32",
+   "url": "https://www.radio32.ch/",
+   "stream": "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "state": "solothurn",
+   "genre": [
+    "pop"
+   ],
+   "votes": 90,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-2-kultur",
+   "name": "Radio SRF 2 Kultur",
+   "url": "https://www.srf.ch/radio-srf-2-kultur",
+   "stream": "https://stream.srg-ssr.ch/m/drs2/aacp_32",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arc-musique",
+   "name": "Arc Musique",
+   "url": "http://arcmusique.ch/",
+   "stream": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 86,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-radio-swiss",
+   "name": "Classic | Radio Swiss",
+   "url": "https://www.radioswissclassic.ch/",
+   "stream": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "german",
+    "italian"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "fr",
+    "gsw"
+   ],
+   "state": "Bern",
+   "genre": [
+    "classical"
+   ],
+   "votes": 82,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-top-ostschweiz",
+   "name": "Radio Top (Ostschweiz)",
+   "url": "https://www.toponline.ch/",
+   "stream": "https://radiotop.ice.infomaniak.ch/radiotop96.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "pop"
+   ],
+   "votes": 75,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-classic-rock",
+   "name": "1.fm classic rock",
+   "url": "https://www.1.fm/station/crock",
+   "stream": "https://strm112.1.fm/crock_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 71,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swiss-jazz-aac-192",
+   "name": "Radio Swiss Jazz (AAC 192)",
+   "url": "https://www.radioswissjazz.ch/de",
+   "stream": "https://stream.srg-ssr.ch/srgssr/rsj/aac/192",
+   "codec": "aac",
+   "bitrate": 176,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 55,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "20minuten-radio-dab-goat-radio",
+   "name": "20minuten.radio DAB+ (GOAT Radio)",
+   "url": "https://www.20min.ch/radio",
+   "stream": "https://www.digris.ch/stream/897a2939-b6db-42c6-8760-28908bcf8b25",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swiss-classic-de-aac-192",
+   "name": "Radio Swiss Classic DE (AAC 192)",
+   "url": "https://www.radioswissclassic.ch/de",
+   "stream": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192",
+   "codec": "aac",
+   "bitrate": 176,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 46,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-grischa",
+   "name": "Radio Grischa",
+   "url": "https://www.radiogrischa.ch/",
+   "stream": "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german",
+    "italian",
+    "romansh",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw",
+    "it",
+    "rm"
+   ],
+   "state": "Grison",
+   "genre": [
+    "music"
+   ],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "canal3-deutsch",
+   "name": "Canal3 deutsch",
+   "url": "https://web.canal3.ch/",
+   "stream": "https://radio.upstream-cloud.ch/canal3allemand-192.aac",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "state": "Kanton Bern",
+   "genre": [
+    "pop"
+   ],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-drachenblut",
+   "name": "Radio-Drachenblut",
+   "url": "https://radio-drachenblut.ch/",
+   "stream": "https://radio-drachenblut.ch:8443/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-fm-new-hits",
+   "name": "One FM New-Hits",
+   "url": "https://onefm.ch/",
+   "stream": "https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Geneve",
+   "genre": [
+    "hits"
+   ],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "neo1",
+   "name": "Neo1",
+   "url": "https://www.neo1.ch/",
+   "stream": "https://neo1.ice.infomaniak.ch/neo1.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german",
+    "schweizerdeutsch",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "state": "Bern",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swiss-pop-aac-192",
+   "name": "Radio Swiss Pop (AAC 192)",
+   "url": "https://www.radioswisspop.ch/de",
+   "stream": "https://stream.srg-ssr.ch/srgssr/rsp/aac/192",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 29,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-stadtfilter-dab",
+   "name": "Radio Stadtfilter (DAB+)",
+   "url": "https://stadtfilter.ch/",
+   "stream": "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Winterthur",
+   "genre": [
+    "pop"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockstar-radio",
+   "name": "Rockstar Radio",
+   "url": "https://rockstarradio.ch/",
+   "stream": "https://dr2101.ice.infomaniak.ch/dr2102.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 27,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "back2noize-radio",
+   "name": "Back2Noize Radio",
+   "url": "https://back2noize.com/",
+   "stream": "https://securestreams4.autopo.st:1558/Back2Noize",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [
+    "dance",
+    "dance-music",
+    "electronic",
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 26,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rasa-schaffhausen",
+   "name": "Radio Rasa Schaffhausen",
+   "url": "https://www.rasa.ch/",
+   "stream": "https://radio.upstream-cloud.ch/radiorasa-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ktfm-geneva-the-best-of-70-s-and-80-s",
+   "name": "KTfm Geneva - THE BEST OF 70'S AND 80'S",
+   "url": "https://ktfm-radio.ch/",
+   "stream": "https://ktfm.ice.infomaniak.ch/ktfm-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "70s",
+    "80s",
+    "disco"
+   ],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "all-time-urban-gospel",
+   "name": "All time Urban Gospel",
+   "url": "https://1.fm/station/gospel",
+   "stream": "https://strm112.1.fm/gospel_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hip-hop"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-3-aac-192",
+   "name": "Radio SRF 3 (AAC 192)",
+   "url": "https://www.srf.ch/radio-srf-3",
+   "stream": "https://stream.srg-ssr.ch/srgssr/srf3/aac/192",
+   "codec": "aac",
+   "bitrate": 176,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spoon-rock",
+   "name": "Spoon Rock",
+   "url": "https://www.spoonradio.com/",
+   "stream": "https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alta",
+   "name": "Radio Alta",
+   "url": "https://transmiss.ion.ovh/public/alta",
+   "stream": "https://transmiss.ion.ovh/listen/alta/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Burgenland",
+   "genre": [
+    "gospel",
+    "worship"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rundfunk-fm",
+   "name": "Rundfunk.fm",
+   "url": "https://rundfunk.fm/",
+   "stream": "https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "funk"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ta-radio",
+   "name": "Ta Radio",
+   "url": "https://www.taradio.ch/",
+   "stream": "https://stream.taradio.ch/dab",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Neuchatel",
+   "genre": [
+    "dance",
+    "funk",
+    "hits",
+    "rnb",
+    "rock"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-2-kultur-aac-192",
+   "name": "Radio SRF 2 Kultur (AAC 192)",
+   "url": "https://www.srf.ch/radio-srf-2-kultur",
+   "stream": "https://stream.srg-ssr.ch/srgssr/srf2/aac/192",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-1-aac-192",
+   "name": "Radio SRF 1 (AAC 192)",
+   "url": "https://www.srf.ch/radio-srf-1",
+   "stream": "https://stream.srg-ssr.ch/srgssr/srf1/aac/192",
+   "codec": "aac",
+   "bitrate": 200,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gaia",
+   "name": "Radio Gaia",
+   "url": "https://www.1.fm/station/radiogaia",
+   "stream": "https://strm112.1.fm/radiogaia_128",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiofr-fresh",
+   "name": "RadioFr. Fresh",
+   "url": "https://www.radiofr.ch/fresh",
+   "stream": "https://radiofresh.ice.infomaniak.ch/radiofresh.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "la-radio-du-bord-de-l-eau",
+   "name": "La Radio du bord de l’eau",
+   "url": "https://www.auborddeleau.bar/radio/",
+   "stream": "https://listen.radioking.com/radio/181657/stream/223420",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Valais",
+   "genre": [
+    "chillout",
+    "house"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maxxima",
+   "name": "MaXXima",
+   "url": "https://maxxima.ch/",
+   "stream": "https://maxxima.mine.nu/maxxima.aac",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "en",
+    "fr"
+   ],
+   "state": "Canton of Vaud",
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-schlagerpark",
+   "name": "Radio Schlagerpark",
+   "url": "https://www.schlagerpark.com/",
+   "stream": "https://radio.schlagerpark.com/",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "schlager"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-2go",
+   "name": "Radio 2Go",
+   "url": "https://www.radio2go.fm/",
+   "stream": "https://uksoutha.streaming.broadcast.radio:15830/radio2go",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "state": "Aargau",
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "top-hits"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rete-tre-32k-aac",
+   "name": "Rete Tre | 32k AAC+",
+   "url": "https://www.rsi.ch/audio/rete-tre/",
+   "stream": "https://stream.srg-ssr.ch/m/retetre/aacp_32",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "alternative",
+    "pop"
+   ],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-1-bern-freiburg-wallis-96k-aac",
+   "name": "Radio SRF 1 Bern Freiburg Wallis | 96k AAC+",
+   "url": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis",
+   "stream": "https://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-1-ostschweiz-32k-aac",
+   "name": "Radio SRF 1 Ostschweiz | 32k AAC+",
+   "url": "https://www.srf.ch/audio/regionaljournal-ostschweiz",
+   "stream": "https://stream.srg-ssr.ch/m/regi_ost/aacp_32",
+   "codec": "aac",
+   "bitrate": 104,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-1-zentralschweiz-32k-aac",
+   "name": "Radio SRF 1 Zentralschweiz | 32k AAC+",
+   "url": "https://www.srf.ch/audio/regionaljournal-zentralschweiz",
+   "stream": "https://stream.srg-ssr.ch/m/regi_zentr/aacp_32",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-neue-hoffnung-rnh",
+   "name": "Radio neue Hoffnung (RNH)",
+   "url": "https://www.mnr.ch/audio/",
+   "stream": "https://s5.radio.co/seeece1f6b/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "german",
+    "spanish"
+   ],
+   "langCodes": [
+    "ar",
+    "de",
+    "es"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-1-graubunden-32k-aac",
+   "name": "Radio SRF 1 Graubünden | 32k AAC+",
+   "url": "https://www.srf.ch/audio/regionaljournal-graubuenden",
+   "stream": "https://stream.srg-ssr.ch/m/regi_gr/aacp_32",
+   "codec": "aac",
+   "bitrate": 88,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-1-graubunden-96k-aac",
+   "name": "Radio SRF 1 Graubünden | 96k AAC+",
+   "url": "https://www.srf.ch/audio/regionaljournal-graubuenden",
+   "stream": "https://stream.srg-ssr.ch/m/regi_gr/aacp_96",
+   "codec": "aac",
+   "bitrate": 88,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rete-due-32k-aac",
+   "name": "Rete Due | 32k AAC+",
+   "url": "https://www.rsi.ch/audio/rete-due/",
+   "stream": "https://stream.srg-ssr.ch/m/retedue/aacp_32",
+   "codec": "aac",
+   "bitrate": 88,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flowstate-classical-radio",
+   "name": "Flowstate Classical Radio",
+   "url": "https://flowstateradio.net/",
+   "stream": "https://radio.flowstateradio.net/listen/classical/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "St. Gallen",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gds-fm",
+   "name": "GDS.FM",
+   "url": "https://gds.fm/",
+   "stream": "https://live.gds.fm/main.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Zürich",
+   "genre": [
+    "alternative",
+    "ambient",
+    "disco",
+    "electronica",
+    "house",
+    "indie",
+    "jazz",
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gin-radio-24",
+   "name": "GIN Radio 24",
+   "url": "https://surf.aloncast.com/s/gin-radio-24",
+   "stream": "https://app.aloncast.com/api/stream/gin-radio-24-a7f910",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "german",
+    "spanish"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "es"
+   ],
+   "state": "Basel-Landschaft",
+   "genre": [
+    "chillout",
+    "country",
+    "pop",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hifreaksradio",
+   "name": "hifreaksradio",
+   "url": "https://laut.fm/",
+   "stream": "https://stream.laut.fm/hifreaksradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Nidwalden",
+   "genre": [
+    "alternative",
+    "indie",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swiss-pop",
+   "name": "Radio Swiss Pop",
+   "url": "https://www.radioswisspop.ch/en",
+   "stream": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rete-uno-32k-aac",
+   "name": "Rete Uno | 32k AAC+",
+   "url": "https://www.rsi.ch/audio/rete-uno/",
+   "stream": "https://stream.srg-ssr.ch/m/reteuno/aacp_32",
+   "codec": "aac",
+   "bitrate": 104,
+   "format": "music",
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "blues",
+    "classical",
+    "folk",
+    "hip-hop",
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flowstate-chill-radio",
+   "name": "Flowstate Chill Radio",
+   "url": "https://flowstateradio.net/",
+   "stream": "https://radio.flowstateradio.net/listen/chill/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "St. Gallen",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flowstate-house-radio",
+   "name": "Flowstate House Radio",
+   "url": "https://flowstateradio.net/",
+   "stream": "https://radio.flowstateradio.net/listen/house/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "St. Gallen",
+   "genre": [
+    "dance",
+    "electronic",
+    "house"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-freundes-dienst-schweiz",
+   "name": "Radio Freundes-Dienst Schweiz",
+   "url": "https://www.radiofd.ch/",
+   "stream": "https://stream.radiofd.ch/radiofd/mp3_128/radiobrowser",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Kanton Bern",
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hof-bar",
+   "name": "Radio HOF—BAR",
+   "url": "https://hof-bar.ch/",
+   "stream": "https://hofbar.beatnik.ch/stream",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Bern",
+   "genre": [
+    "ambient"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swiss-classic-fr",
+   "name": "Radio Swiss Classic FR",
+   "url": "https://www.radioswissclassic.ch/fr",
+   "stream": "https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/192",
+   "codec": "aac",
+   "bitrate": 176,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 0,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wrs",
+   "name": "WRS",
+   "url": "https://www.worldradio.ch/",
+   "stream": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=540910",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kontrafunk",
+   "name": "Kontrafunk",
+   "url": "https://www.kontrafunk.radio/",
+   "stream": "https://s5.radio.co/sca4082ebb/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 2026,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-otto-s-classical-music",
+   "name": "1.fm Otto's Classical music",
+   "url": "https://www.1.fm/station/classical",
+   "stream": "https://strm112.1.fm/classical_mobile_aac",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 1409,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kontrafunk-mp3-192",
+   "name": "Kontrafunk (MP3 192)",
+   "url": "https://kontrafunk.radio/de/",
+   "stream": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 1403,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ambi-nature-radio",
+   "name": "Ambi Nature Radio",
+   "url": "https://www.ambinature.xyz/",
+   "stream": "https://nature-rex.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 1336,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-x-flac",
+   "name": "Radio X FLAC",
+   "url": "https://radiox.ch/",
+   "stream": "https://mp3.radiox.ch/standard.ogg",
+   "codec": "ogg",
+   "bitrate": 2000,
+   "genre": [],
+   "votes": 399,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-beloved-ballads",
+   "name": "1.FM Beloved Ballads",
+   "url": "",
+   "stream": "https://strm112.1.fm/onelive_mobile_mp3?",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 373,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-back-to-the-50-s",
+   "name": "1.fm Back To The 50's",
+   "url": "",
+   "stream": "https://strm112.1.fm/60s_70s_mobile_mp3?",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 369,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunshine-radio-switzerland",
+   "name": "Sunshine Radio (Switzerland)",
+   "url": "https://www.sunshine.ch/",
+   "stream": "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 352,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kontrafunk-aac-64",
+   "name": "Kontrafunk (AAC 64)",
+   "url": "https://kontrafunk.radio/de/",
+   "stream": "https://s5.radio.co/sca4082ebb/low",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 307,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-sunshine",
+   "name": "1.FM - Sunshine",
+   "url": "",
+   "stream": "https://strm112.1.fm/allmixedup_mobile_mp3?",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 274,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-movie-soundtrack-hits",
+   "name": "1.fm Movie Soundtrack Hits",
+   "url": "",
+   "stream": "https://strm112.1.fm/moviesoundtracks_mobile_mp3?",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 273,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fm1",
+   "name": "RADIO FM1",
+   "url": "https://www.radiofm1.ch/",
+   "stream": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Sankt Gallen",
+   "genre": [],
+   "votes": 267,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-pilatus",
+   "name": "Radio Pilatus",
+   "url": "https://www.radiopilatus.ch/",
+   "stream": "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 259,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-radio-com",
+   "name": "lounge-radio.com",
+   "url": "https://lounge-radio.com/",
+   "stream": "https://fr1.streamhosting.ch/lounge128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 248,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maxxima",
+   "name": "Radio Maxxima",
+   "url": "https://www.maxxima.org/",
+   "stream": "https://maxxima.mine.nu/maxxima.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 247,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-srf-4-news",
+   "name": "Radio SRF 4 News",
+   "url": "https://www.srf.ch/radio-srf-4-news",
+   "stream": "https://stream.srg-ssr.ch/m/drs4news/aacp_32",
+   "codec": "aac",
+   "bitrate": 88,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 235,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-argovia",
+   "name": "RADIO ARGOVIA",
+   "url": "https://www.argovia.ch/",
+   "stream": "https://stream.streambase.ch/argovia/mp3-192/direct/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Aargau",
+   "genre": [],
+   "votes": 224,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio24",
+   "name": "Radio24",
+   "url": "https://www.radio24.ch/",
+   "stream": "https://stream.streambase.ch/radio24/mp3-192/direct/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "state": "Zürich",
+   "genre": [],
+   "votes": 220,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtn",
+   "name": "RTN",
+   "url": "http://www.rtn.ch/",
+   "stream": "https://rtn.ice.infomaniak.ch/rtn-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [],
+   "votes": 191,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bern1",
+   "name": "RADIO BERN1",
+   "url": "https://radio.radiobern1.ch/",
+   "stream": "https://stream.streambase.ch/radiobern1/mp3-192/direct/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Kanton Bern",
+   "genre": [],
+   "votes": 186,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lac",
+   "name": "Radio Lac",
+   "url": "https://www.radiolac.ch/direct/player/",
+   "stream": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Geneva",
+   "genre": [],
+   "votes": 181,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "goat-radio",
+   "name": "GOAT Radio",
+   "url": "https://audio.20min.ch/",
+   "stream": "https://20min.dmd2streaming.com/20minuten_radio_64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 161,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-32-goldies",
+   "name": "Radio 32 Goldies",
+   "url": "https://radio.radio32.ch/?utm_source=website&utm_medium=logo&utm_campaign=header",
+   "stream": "https://stream.streambase.ch/r32goldies/mp3-192/direct/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 133,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1-fm-top-rap",
+   "name": "1.fm top rap",
+   "url": "https://www.1.fm/station/jamz",
+   "stream": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 106,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-fm-90s",
+   "name": "One FM 90s",
+   "url": "https://www.onefm.ch/",
+   "stream": "https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 98,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brazilian-birds-radio",
+   "name": "Brazilian Birds Radio",
+   "url": "https://www.1.fm/station/brazilianbirds",
+   "stream": "https://strm112.1.fm/brazilianbirds_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 96,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-swiss-classica-italia",
+   "name": "RADIO SWISS CLASSICA ITALIA",
+   "url": "https://www.radioswissclassic.ch/",
+   "stream": "https://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 96,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wrs-swiss-radio-in-english",
+   "name": "WRS \"Swiss Radio in English\"",
+   "url": "https://www.worldradio.ch/",
+   "stream": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 94,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "happy-radio",
+   "name": "Happy Radio",
+   "url": "https://www.happy-radio.ch/",
+   "stream": "https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "genre": [],
+   "votes": 89,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "world-radio-switzerland",
+   "name": "World Radio Switzerland",
+   "url": "https://www.worldradio.ch/",
+   "stream": "https://uksouth.streaming.broadcast.radio:10290/wrs",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Geneva",
+   "genre": [],
+   "votes": 79,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bear-metal-radio",
+   "name": "Bear Metal Radio",
+   "url": "https://www.bearmetalradio.com/",
+   "stream": "https://cast5.asurahosting.com/proxy/bear?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 71,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-eviva",
+   "name": "Radio Eviva",
+   "url": "https://player.eviva.ch/",
+   "stream": "https://stream.streambase.ch/reviva/mp3-192/direct/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Schwyz",
+   "genre": [],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gloria",
+   "name": "Radio Gloria",
+   "url": "https://radiogloria.ch/",
+   "stream": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "genre": [],
+   "votes": 69,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-summernight",
+   "name": "Radio Summernight",
+   "url": "https://radiosummernight.ch/",
+   "stream": "https://stream.laut.fm/radiosummernight",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Aarau",
+   "genre": [],
+   "votes": 69,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kontrafunk-mobil",
+   "name": "Kontrafunk (Mobil)",
+   "url": "https://kontrafunk.radio/",
+   "stream": "https://icecast.multhielemedia.de/listen/kontrafunk/mobil",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Thurgau",
+   "genre": [],
+   "votes": 64,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-melody-schweiz",
+   "name": "Radio Melody Schweiz",
+   "url": "https://www.radiomelody.ch/",
+   "stream": "https://stream.streambase.ch/rm/mp3-192/mytuner/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 58,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfj",
+   "name": "RFJ",
+   "url": "http://www.rfj.ch/",
+   "stream": "https://rfj.ice.infomaniak.ch/rfj-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [],
+   "votes": 58,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-bern",
+   "name": "Energy Bern",
+   "url": "https://energy.ch/stations/energy-bern",
+   "stream": "https://energybern.ice.infomaniak.ch/energybern-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "genre": [],
+   "votes": 56,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "james-fm",
+   "name": "JAMES FM",
+   "url": "https://www.jamesfm.ch/",
+   "stream": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "genre": [],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fribourg",
+   "name": "Radio Fribourg",
+   "url": "https://radiofr.ch/",
+   "stream": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-central",
+   "name": "Radio Central",
+   "url": "https://www.radiocentral.ch/",
+   "stream": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 40,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ip-music-slow-aacplus-96-kb-s",
+   "name": "IP music SLOW - aacPlus@96 Kb/s",
+   "url": "https://www.ipmusicslow.ch/",
+   "stream": "https://live9.avf.ch/ipmusicslowaacp96",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 39,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "electrons-libres",
+   "name": "Electrons Libres",
+   "url": "https://electronslibres.ch/",
+   "stream": "https://listen.radioking.com/radio/427889/stream/481502",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gorilla-fm",
+   "name": "Gorilla.fm",
+   "url": "https://pcradio.ru/radio/1fm-gorilla-fm",
+   "stream": "https://strm112.1.fm/gorillafm_mobile_mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 35,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-s",
+   "name": "Radio S",
+   "url": "https://stream.radio-s.ch/stream",
+   "stream": "https://stream.radio-s.ch/stream",
+   "codec": "mp3",
+   "bitrate": 185,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Thurgau",
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "christmas-radio-fm",
+   "name": "Christmas Radio FM",
+   "url": "http://christmasradio.fm/christmasgateway/",
+   "stream": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lfm",
+   "name": "LFM",
+   "url": "https://www.lfm.ch/",
+   "stream": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sabaton",
+   "name": "Sabaton радио",
+   "url": "https://pcradio.ru/",
+   "stream": "https://stream.pcradio.ru/sabaton-hi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "engilsh"
+   ],
+   "genre": [],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kanal-k",
+   "name": "Kanal K",
+   "url": "https://www.kanalk.ch/",
+   "stream": "https://play.kanalk.ch/kanalk/mp3-192/webseite",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-munot",
+   "name": "Radio Munot",
+   "url": "https://www.radiomunot.ch/",
+   "stream": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "state": "Schaffhausen",
+   "genre": [],
+   "votes": 28,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "country-radio-switzerland",
+   "name": "Country Radio Switzerland",
+   "url": "",
+   "stream": "https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dream-sequence",
+   "name": "Dream Sequence",
+   "url": "https://www.dreamsequence.ch/",
+   "stream": "https://listen.radioking.com/radio/453296/stream/508976",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wildmountain-radio",
+   "name": "Wildmountain Radio",
+   "url": "https://www.wildmountain.ch/",
+   "stream": "https://wildmountain.ice.infomaniak.ch/wmr.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "gernan",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "gsw"
+   ],
+   "genre": [],
+   "votes": 26,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-r-louange",
+   "name": "Radio R Louange",
+   "url": "https://radio-r.ch/",
+   "stream": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "my105-x-mas-radio-aac",
+   "name": "my105 X-MAS Radio (AAC)",
+   "url": "https://www.my105.ch/xmas",
+   "stream": "https://stream01.my105.ch/my105xmas-aac.mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "my105-x-mas",
+   "name": "my105 X-MAS",
+   "url": "https://www.my105.ch/x-mas",
+   "stream": "https://stream01.my105.ch/my105xmas.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german",
+    "swiss-german"
+   ],
+   "langCodes": [
+    "de",
+    "gsw"
+   ],
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-fm-rock-oldies",
+   "name": "One FM Rock Oldies",
+   "url": "https://www.onefm.ch/",
+   "stream": "https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Suisse Romande",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "open-broadcast",
+   "name": "Open Broadcast",
+   "url": "https://openbroadcast.ch/",
+   "stream": "https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Zürich",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80ies-dot-radio",
+   "name": "80ies dot radio",
+   "url": "https://www.80ies.radio/",
+   "stream": "https://stream.radiojar.com/6cbvkaa1mrruv?1643199882",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Zürich",
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-collector-radio",
+   "name": "Kiss Collector Radio",
+   "url": "https://kisscollector.ch/",
+   "stream": "https://dr2101.ice.infomaniak.ch/dr2101.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 20,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockstation",
+   "name": "ROCKSTATION",
+   "url": "https://rockstation.ch/",
+   "stream": "https://radio2.stream24.net:8130/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-radio-com-swiss-made",
+   "name": "LOUNGE-RADIO.COM - swiss made",
+   "url": "https://lounge-radio.com/",
+   "stream": "https://player.streamhosting.ch/lounge64.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Aargau",
+   "genre": [],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "traxx-fm-hits",
+   "name": "Traxx FM - Hits",
+   "url": "http://www.traxx.fm/",
+   "stream": "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Geneva",
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

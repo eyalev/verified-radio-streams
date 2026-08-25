@@ -1,0 +1,137 @@
+{
+ "countryCode": "BB",
+ "country": "Barbados",
+ "slug": "barbados",
+ "continent": "americas",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/barbados/",
+ "stations": [
+  {
+   "id": "hott-95-3fm",
+   "name": "HOTT 95.3FM",
+   "url": "https://starcomnetwork.net/radio-stations/stream-hott-95-3-fm",
+   "stream": "https://ice64.securenetsystems.net/HOTT953",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "River Road, St. Michael",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 225,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "the-beat-104-1-fm",
+   "name": "The BEAT 104.1 FM",
+   "url": "https://starcomnetwork.net/the-beat-104-1-stream/",
+   "stream": "https://ice66.securenetsystems.net/THEBEAT1041",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "River road, st Micheal, Bridgetown",
+   "genre": [
+    "adult-contemporary",
+    "dance",
+    "pop"
+   ],
+   "votes": 86,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "life-97-5-fm",
+   "name": "LIFE 97.5 FM",
+   "url": "https://starcomnetwork.net/radio-stations/stream-life-97-5-fm/",
+   "stream": "https://ice64.securenetsystems.net/LIFE975",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "River road, st Micheal, Bridgetown",
+   "genre": [
+    "gospel"
+   ],
+   "votes": 49,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vob-92-9-fm",
+   "name": "VOB 92.9 FM",
+   "url": "https://vob929.com/",
+   "stream": "https://ice66.securenetsystems.net:80/VOB929",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1743,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bimshire-106-1-fm",
+   "name": "Radio Bimshire 106.1 FM",
+   "url": "https://welove.radio/radio/radio-bimshire/",
+   "stream": "https://listen.radioking.com/radio/635914/stream/700051",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bridgetown",
+   "genre": [],
+   "votes": 85,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 35,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

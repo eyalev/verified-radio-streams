@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 group-title="Moldova" tvg-genre="top-hits",Kiss FM Moldova
+https://live.kissfm.md/kissfm.chisinau
+#EXTINF:-1 group-title="Moldova" tvg-genre="hits,music,pop",Jurnal Fm
+https://audio.jurnalfm.md/hq
+#EXTINF:-1 group-title="Moldova" tvg-genre="dance,electronic,house",Megapolis Fm
+https://megapolisfm.md:8443/886
+#EXTINF:-1 group-title="Moldova" tvg-genre="2000s,hits,pop",Radio ZUM 2
+https://streams.radiozum.md/listen/zum2/ZUM2
+#EXTINF:-1 group-title="Moldova" tvg-genre="dance,hits,pop",Radio ZUM 1
+https://streams.radiozum.md/listen/zum1/ZUM1
+#EXTINF:-1 group-title="Moldova" tvg-genre="rock",Radio ROKS Moldova
+https://stream.dixi.md:9443/Roks
+#EXTINF:-1 group-title="Moldova" tvg-genre="lounge,relax",Radio ZUM4
+https://streams.radiozum.md/listen/zum4/ZUM4
+#EXTINF:-1 group-title="Moldova" tvg-genre="hits,pop",Smile FM
+https://sonicssl.namehost.ro/8050/;
+#EXTINF:-1 group-title="Moldova" tvg-genre="2000s",Hit FM 2000s HITS
+https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="hits",Kiss FM Chișinău
+https://dc.digi.live.kissfm.ro/kissfm.chisinau
+#EXTINF:-1 group-title="Moldova" tvg-genre="folk,pop",Radio Plai
+https://stream.radioplai.md/live
+#EXTINF:-1 group-title="Moldova" tvg-genre="folk",Radio Moldova
+https://www.radio.md/stream/radiomoldovanews
+#EXTINF:-1 group-title="Moldova" tvg-genre="blues,jazz",Radio Relax - Jazz & Blues
+https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop",Master Class FM (MD)
+https://listen3.myradio24.com/master1
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop",Radio Ai Noștri
+https://s5.radio.co/sfd9f42d1d/listen
+#EXTINF:-1 group-title="Moldova" tvg-genre="dance,electronic",VibeFM
+https://stream.radio.co/s6a544f6c9/listen
+#EXTINF:-1 group-title="Moldova" tvg-genre="dance,hits,pop",Focul din Vatră
+https://aiciascult.eu/radio
+#EXTINF:-1 group-title="Moldova" tvg-genre="trance",HIT FM Trance Hits
+https://radio3.dixi.md/listen/hit_fm_trance/trance128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="edm",DeepNova Radio - DanceNova
+https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)
+#EXTINF:-1 group-title="Moldova" tvg-genre="latin,pop",HIT FM Latino Hits
+https://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop-rock",Radio ROKS (Moldova) - New Rock
+https://radio6.dixi.md/listen/new_rock/new_rock128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="rock",Radio ROKS (Moldova) - Rock Tricolor
+https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="hits,pop,top-hits",HIT FM Eurovision Hits
+https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="rock",Radio ROKS (Moldova) - Workout
+https://radio6.dixi.md/listen/workout_rock/workout.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="dance,hits,pop",HIT FM Tricolor de Hituri
+https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="funk,soul",Radio Relax - Funk & Soul
+https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop",Radio Relax - Tricolor
+https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="classic-rock",Radio ROKS (Moldova) - Classic Rock
+https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="oldies,pop",Realitatea FM
+https://radio.realitatea.group/realitatea
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop",CITY FM
+https://live.cityfm.md:8001/cityfm
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop-rock",Radio ROKS (Moldova) - Pop Rock
+https://radio6.dixi.md/listen/pop_rock/pop_rock.acc
+#EXTINF:-1 group-title="Moldova" tvg-genre="alternative,indie,jazz,pop,rock",IMAGO.FM
+https://radio.imago.fm:8007/_a
+#EXTINF:-1 group-title="Moldova" tvg-genre="pop",RadioBEAT
+https://ssl.omegahost.ro/9998/stream
+#EXTINF:-1 group-title="Moldova" tvg-genre="classical",HIT FM Orchestral Classics
+https://radio7.dixi.md/listen/orchestral-classics/orchestral-classics.aac
+#EXTINF:-1 group-title="Moldova" tvg-genre="90s",Radio Vintage
+https://live.radiovintage.md/vintage_main
+#EXTINF:-1 group-title="Moldova",Radio Noroc Moldova
+https://stream.noroc.tv/radionoroc_aac
+#EXTINF:-1 group-title="Moldova",Retro FM Moldova
+https://efir.retrofm.md:8000/retro
+#EXTINF:-1 group-title="Moldova",Radio RFI Moldova
+https://asculta.radiorfi.ro/live.mp3
+#EXTINF:-1 group-title="Moldova",Muz FM Moldova
+https://live.muzfm.md/muzfm
+#EXTINF:-1 group-title="Moldova",Hit FM Hot Hits
+https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac
+#EXTINF:-1 group-title="Moldova",Hit FM Best Hits
+https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac
+#EXTINF:-1 group-title="Moldova",HIT FM Русский Хит
+https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac
+#EXTINF:-1 group-title="Moldova",Hit FM Dance
+https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac
+#EXTINF:-1 group-title="Moldova",Hit Fm Drive Mode
+https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac
+#EXTINF:-1 group-title="Moldova",Hit FM Summer Hits
+https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac
+#EXTINF:-1 group-title="Moldova",Первое радио в вашем мобильном
+https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
+#EXTINF:-1 group-title="Moldova",Sex Sound Radio
+https://sexsoundradio.com:8000/radio.mp3
+#EXTINF:-1 group-title="Moldova",DeepNova Radio
+https://a8.asurahosting.com:8820/radio.mp3
+#EXTINF:-1 group-title="Moldova",RADIO MUZFM
+https://live.muzfm.md//muzfmhd
+#EXTINF:-1 group-title="Moldova",Radio Relax - Versiuni Acustice
+https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac
+#EXTINF:-1 group-title="Moldova",Radio ROKS (Moldova) - Indie Rock
+https://radio6.dixi.md/listen/indie_rock/indie_rock.aac
+#EXTINF:-1 group-title="Moldova",HIT FM K-Pop Hits
+https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac
+#EXTINF:-1 group-title="Moldova",Radio Relax - VinoPizza
+https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac
+#EXTINF:-1 group-title="Moldova",Glowwave-FM
+https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1
+#EXTINF:-1 group-title="Moldova",Radio Cafe Moldova
+https://play.radiocafe.md:7000/radio.mp3
+#EXTINF:-1 group-title="Moldova",Radio Relax - lo-fi
+https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac
+#EXTINF:-1 group-title="Moldova",Radio ROKS (Moldova) - Hard'n'Heavy
+https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
+#EXTINF:-1 group-title="Moldova",Radio ROKS (Moldova) - Rock Ballads
+https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac

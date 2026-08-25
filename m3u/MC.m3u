@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Monaco" tvg-genre="dance,pop",Yellow.radio
+https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
+#EXTINF:-1 group-title="Monaco",Radio Monte Carlo Italia
+https://icy.unitedradio.it/rmcweb005
+#EXTINF:-1 group-title="Monaco",chilli moje
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:-1 group-title="Monaco",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Monaco",Yellow Riviera
+https://yellowradio.ice.infomaniak.ch/yellow01.mp3
+#EXTINF:-1 group-title="Monaco",Yellow Party
+https://yellowradio.ice.infomaniak.ch/yellow02.aac

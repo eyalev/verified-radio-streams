@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Aruba",Canal90 FM
+https://stream.canal90.fm/live
+#EXTINF:-1 group-title="Aruba",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Aruba",MasFM 105.1
+https://c13.radioboss.fm:8647/live?type=.mp3

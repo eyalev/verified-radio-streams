@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="Thailand" tvg-genre="country,indie,top-40",ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก
+https://inter.lannaradio.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Thailand" tvg-genre="alternative,dance,rock",BKK.FM
+https://rsas.bkk.fm/radio
+#EXTINF:-1 group-title="Thailand" tvg-genre="music",Bluewave 97
+https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream
+#EXTINF:-1 group-title="Thailand" tvg-genre="2000s,70s,80s,90s,adult-contemporary",Chili Radio Thailand
+https://stream.chiliradio.app/chiliclassics
+#EXTINF:-1 group-title="Thailand" tvg-genre="music",FM 93.50 MHz บ้านใหม่ เรดิโอ
+https://radio10.plathong.net/7590/;stream.mp3
+#EXTINF:-1 group-title="Thailand" tvg-genre="electronic,folk",Fabulous 103
+https://fabulous.thailandstreaming.net/fabulous.mp3
+#EXTINF:-1 group-title="Thailand" tvg-genre="chillout,jazz,relax",Radio Samui Online
+https://stream.mixadance.fm/radiosamui
+#EXTINF:-1 group-title="Thailand" tvg-genre="dance,lounge,pop",Radio Red Phuket
+https://stream.chiliradio.app/radiored
+#EXTINF:-1 group-title="Thailand" tvg-genre="pop,pop-rock",Surf Radio
+https://stream.surf.radio/surf1025
+#EXTINF:-1 group-title="Thailand" tvg-genre="country",สถานีวิทยุจังหวัดทหารบกลพบุรี AM 1197 KHz. Stereo
+https://mdr13.ddns.net/radio/am1197
+#EXTINF:-1 group-title="Thailand",Cool fahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1 group-title="Thailand",106 Family News Radio
+https://radio11.plathong.net/7138/;stream.mp3
+#EXTINF:-1 group-title="Thailand",บ้านธัมมะ
+https://radio10.plathong.net/7238/;stream.mp3
+#EXTINF:-1 group-title="Thailand",สังฆทานธรรม
+https://cdn-th2.livestreaming.in.th/shoutcast/8615
+#EXTINF:-1 group-title="Thailand",วัดป่าไทรงาม
+https://radio10.plathong.net/7110/;stream.mp3
+#EXTINF:-1 group-title="Thailand",FM 91
+https://www.fm91bkk.com:8900/;stream.mp3
+#EXTINF:-1 group-title="Thailand",Keangun Radio เขียนกันเรดิโอ ฟังเพลงสบายสไตล์ร้านกาแฟ ร้านเหล้า ร้านนั่งชิล
+https://radio9.plathong.net/7054/;stream.mp3
+#EXTINF:-1 group-title="Thailand",วิทยุเสียงอิสลาม
+https://radio12.plathong.net/7234/;stream.mp3
+#EXTINF:-1 group-title="Thailand",City Radio Pattaya
+https://media.onair.one:8200/stream/1/?v=1769497160087
+#EXTINF:-1 group-title="Thailand",97qfm
+https://cdn-th2.livestreaming.in.th/shoutcast/8610
+#EXTINF:-1 group-title="Thailand",banmai radio
+https://radio10.plathong.net/7590/;stream.mp3?type=http
+#EXTINF:-1 group-title="Thailand",KRB Radio 1
+https://radio1.ohmi-design.com/8086/;
+#EXTINF:-1 group-title="Thailand",GOLD Radio
+https://streaming.live365.com/a94344
+#EXTINF:-1 group-title="Thailand",KRB Radio 2
+https://nontawat3664.i234.me:8443/stream
+#EXTINF:-1 group-title="Thailand",KRB Radio 3
+https://pakeefm.org/stream/300006/
+#EXTINF:-1 group-title="Thailand",วพท. am 792KHZ กรุงเทพฯ
+https://radio9.plathong.net/7162/;

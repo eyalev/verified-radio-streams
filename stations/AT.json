@@ -1,0 +1,2646 @@
+{
+ "countryCode": "AT",
+ "country": "Austria",
+ "slug": "austria",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-24",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/austria/",
+ "stations": [
+  {
+   "id": "fm4-orf",
+   "name": "FM4 | ORF",
+   "url": "https://fm4.orf.at/",
+   "stream": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "electronic",
+    "pop",
+    "rock"
+   ],
+   "votes": 2420,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-fm-100-austria",
+   "name": "Lounge.FM - 100% Austria",
+   "url": "https://www.lounge.fm/",
+   "stream": "https://s35.derstream.net/100austria.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "downtempo",
+    "easy-listening",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 1879,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-hitradio-o3-hq",
+   "name": "ORF Hitradio Ö3 | HQ",
+   "url": "http://oe3.orf.at/",
+   "stream": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1713,
+   "clicks": 117,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm4-orf-hq",
+   "name": "FM4 | ORF | HQ",
+   "url": "https://fm4.orf.at/",
+   "stream": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "electronic",
+    "pop",
+    "rock"
+   ],
+   "votes": 1582,
+   "clicks": 89,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eurodance-x-press",
+   "name": "Eurodance-X-Press",
+   "url": "https://www.eurodance.at/",
+   "stream": "https://secureonair.krone.at/eurodance.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "90s",
+    "dance"
+   ],
+   "votes": 777,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mountain-reggae-radio",
+   "name": "Mountain Reggae Radio",
+   "url": "https://www.mountainreggae-radio.at/",
+   "stream": "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tirol",
+   "genre": [
+    "hip-hop",
+    "reggae"
+   ],
+   "votes": 629,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-oldies-but-goldies",
+   "name": "Antenne Vorarlberg Oldies but Goldies",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-oldies",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 434,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-partymix",
+   "name": "Antenne Vorarlberg Partymix",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-partymix",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic"
+   ],
+   "votes": 416,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-hitradio-o3",
+   "name": "ORF Hitradio Ö3",
+   "url": "http://oe3.orf.at/",
+   "stream": "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "pop"
+   ],
+   "votes": 411,
+   "clicks": 51,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-arabella-oberosterreich",
+   "name": "Radio Arabella Oberösterreich",
+   "url": "https://www.arabella.at/oberoesterreich/",
+   "stream": "https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Upper Austria",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 369,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-classic-rock",
+   "name": "Antenne Vorarlberg Classic Rock",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "rock"
+   ],
+   "votes": 330,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-schlager",
+   "name": "Arabella schlager",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 324,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-dance-radio",
+   "name": "Antenne Vorarlberg Dance Radio",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-dance",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "dance",
+    "hits"
+   ],
+   "votes": 251,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-70er-hits",
+   "name": "Antenne Vorarlberg 70er Hits",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-70er",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "70s",
+    "classic-hits",
+    "hits"
+   ],
+   "votes": 241,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-classicrock",
+   "name": "Life Radio ClassicRock",
+   "url": "https://radioplayer.liferadio.at/classicrock",
+   "stream": "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 220,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-90s-hits",
+   "name": "Antenne Vorarlberg 90s Hits",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-90er",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "90s"
+   ],
+   "votes": 200,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenna-osterreich",
+   "name": "Antenna Österreich",
+   "url": "https://antenneoesterreich.oe24.at/",
+   "stream": "https://edge64.streamonkey.net/antoesterreich-live",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 179,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-chillout-lounge",
+   "name": "Antenne Vorarlberg Chillout Lounge",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-chillout",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "chillout",
+    "dance",
+    "edm",
+    "pop"
+   ],
+   "votes": 173,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-schlagerkult",
+   "name": "Antenne Vorarlberg Schlagerkult",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-schlagerkult",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 151,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-2000er-hits",
+   "name": "Antenne Vorarlberg 2000er Hits",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-2000er",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "2000s",
+    "hits"
+   ],
+   "votes": 133,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-fm-kanal-2-wien",
+   "name": "Lounge.FM Kanal 2 - Wien",
+   "url": "https://www.lounge.fm/",
+   "stream": "https://s35.derstream.net/ukwwien.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "downtempo",
+    "easy-listening",
+    "lounge",
+    "smooth-jazz"
+   ],
+   "votes": 127,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "up-the-irons",
+   "name": "UP THE IRONS",
+   "url": "https://laut.fm/up_the_irons",
+   "stream": "https://uptheirons.stream.laut.fm/up_the_irons?pl=m3u&t302=2026-08-22_03-05-46&uuid=15f3cb86-1956-4e14-ab14-06d137b5b586",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 121,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-coffee-hits",
+   "name": "Antenne Vorarlberg Coffee Hits",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-coffee",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "hits"
+   ],
+   "votes": 119,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio886",
+   "name": "Radio886",
+   "url": "https://www.radio886.at/",
+   "stream": "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "deutsch-fränkisch"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 116,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-2010er-hits",
+   "name": "Antenne Vorarlberg 2010er Hits",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-2010er",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "hits"
+   ],
+   "votes": 112,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazzw3",
+   "name": "JazzW3",
+   "url": "http://jazz.w3.at/",
+   "stream": "https://air.jazz.w3.at/jazzw3.ogg",
+   "codec": "ogg",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "city-jazz",
+   "name": "City Jazz",
+   "url": "https://cityjazz.at/",
+   "stream": "https://stream.radiotechnikum.at/CITYJAZZ",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 107,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technikum-gold",
+   "name": "Technikum Gold",
+   "url": "https://radiotechnikum.at/",
+   "stream": "https://stream.radiotechnikum.at/TECHGOLD",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 97,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "austria-first-osterreichs-patriotenradio",
+   "name": "AUSTRIA FIRST – Österreichs Patriotenradio",
+   "url": "https://austriafirst.at/",
+   "stream": "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 91,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-top40",
+   "name": "Antenne Vorarlberg TOP40",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-top40",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "hits"
+   ],
+   "votes": 89,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-o1-campus-hq",
+   "name": "ORF Ö1 Campus | HQ",
+   "url": "https://oe1.orf.at/campus",
+   "stream": "https://orf-live.ors-shoutcast.at/campus-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "pop"
+   ],
+   "votes": 83,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-greatest-hits",
+   "name": "Life Radio Greatest Hits",
+   "url": "https://www.liferadio.at/",
+   "stream": "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "greatest-hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 77,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-god",
+   "name": "Radio GÖD",
+   "url": "https://www.goed.at/radio",
+   "stream": "https://radiogoed.securestream.kapper.net/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "60s",
+    "70s",
+    "80s",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 77,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "flash90s",
+   "name": "Flash90s",
+   "url": "https://www.flash90s.at/",
+   "stream": "https://stream.flash90s.at/flash90s/mp3-192/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [
+    "90s",
+    "pop",
+    "rock"
+   ],
+   "votes": 72,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "viyanafm",
+   "name": "ViyanaFM",
+   "url": "https://www.viyanafm.at/",
+   "stream": "https://radyo.viyanafm.at/1453/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "türkisch"
+   ],
+   "state": "Wien",
+   "genre": [
+    "arabesk",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 68,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technikum-city",
+   "name": "Technikum City",
+   "url": "http://www.radiotechnikum.at/",
+   "stream": "https://stream.radiotechnikum.at/TECHCITY",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-rock",
+   "name": "Arabella Rock",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 64,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-chill-out-hits",
+   "name": "Life Radio Chill Out Hits",
+   "url": "https://www.liferadio.at/",
+   "stream": "https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 60,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "styrialounge",
+   "name": "Styrialounge",
+   "url": "https://styrialounge.com/",
+   "stream": "https://styrialounge.out.airtime.pro/styrialounge_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Styria",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 58,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technikum-rock",
+   "name": "Technikum Rock",
+   "url": "https://radiotechnikum.at/",
+   "stream": "https://stream.radiotechnikum.at/TECHROCK",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "rock"
+   ],
+   "votes": 57,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-osterreich",
+   "name": "Antenne Österreich",
+   "url": "https://antenneoesterreich.oe24.at/",
+   "stream": "https://edge83.streamonkey.net/antoesterreich-live",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 55,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vm1",
+   "name": "Radio VM1",
+   "url": "https://www.vm1.at/",
+   "stream": "https://radiovm1.fluidstream.eu/radiovm1.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tirol",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 50,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "popwelle-das-musikradio-autodj",
+   "name": "Popwelle. Das Musikradio,AutoDJ",
+   "url": "",
+   "stream": "https://popwelle.sp.radio.fm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "St. Gallen",
+   "genre": [
+    "indie",
+    "pop",
+    "rock"
+   ],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-rock-radio",
+   "name": "Antenne Vorarlberg Rock Radio",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-rock",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vorarlberg",
+   "genre": [
+    "rock"
+   ],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-tirol",
+   "name": "Life Radio Tirol",
+   "url": "https://www.liferadio.tirol/",
+   "stream": "https://stream.liferadio.tirol/live/mp3-192/link",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tirol",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-80er",
+   "name": "Life Radio 80er",
+   "url": "https://www.liferadio.at/",
+   "stream": "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [
+    "80s"
+   ],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-o1-campus",
+   "name": "ORF Ö1 Campus",
+   "url": "https://oe1.orf.at/campus",
+   "stream": "https://orf-live.ors-shoutcast.at/campus-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "pop"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vorarlberg-80s",
+   "name": "Vorarlberg 80s",
+   "url": "http://antennevorarlberg.at/",
+   "stream": "https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-radio",
+   "name": "Metal Radio",
+   "url": "https://metalradio.at/",
+   "stream": "https://stream.radiotechnikum.at:80/METALRadio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal"
+   ],
+   "votes": 38,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "popwelle-worthersee-autodj",
+   "name": "Popwelle Wörthersee,AutoDJ",
+   "url": "",
+   "stream": "https://popwellezwei.sp.radio.fm/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "oldies",
+    "schlager"
+   ],
+   "votes": 35,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vm1-wien",
+   "name": "Radio VM1 - Wien",
+   "url": "https://vm1.at/",
+   "stream": "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Wien",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vm1-steiermark",
+   "name": "Radio VM1 - Steiermark",
+   "url": "https://vm1.at/",
+   "stream": "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Steiermark",
+   "genre": [
+    "schlager"
+   ],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-osterreich",
+   "name": "Rock Antenne Österreich",
+   "url": "https://rockantenne.at/",
+   "stream": "https://s2-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jo-live",
+   "name": "Jö.Live",
+   "url": "https://www.joe-club.at/",
+   "stream": "https://edge63.stream.maxfive.com/max5-joelive",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Wien",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-sommersongs",
+   "name": "Life Radio Sommersongs",
+   "url": "https://www.liferadio.at/",
+   "stream": "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rudina",
+   "name": "Radio Rudina",
+   "url": "https://www.radiorudina.com/",
+   "stream": "https://azuracast.datea.services:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "electronica",
+    "techno"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super80s",
+   "name": "Super80s",
+   "url": "https://www.super80s.at/",
+   "stream": "https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [
+    "80s",
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-osterreich",
+   "name": "ENERGY ÖSTERREICH",
+   "url": "https://energy.at/",
+   "stream": "https://streaming.nrjaudio.fm/ouvfydoarp52",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "dance",
+    "hits",
+    "pop",
+    "rnb",
+    "top-40"
+   ],
+   "votes": 12,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "atnnene-ssterewich",
+   "name": "Atnnene sSterewich",
+   "url": "https://antenneoesterreich.oe24.at/",
+   "stream": "https://edge67.streamonkey.net/antoesterreich-live",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "superfly-webradio-pure",
+   "name": "Superfly Webradio Pure",
+   "url": "https://superfly.fm/player/index.php?stream=web_pure_playlist",
+   "stream": "https://edge81.stream.superfly.fm/superfly-pure",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Vienna",
+   "genre": [
+    "chillout",
+    "funk",
+    "soul"
+   ],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "callshop-radio-wien",
+   "name": "Callshop Radio Wien",
+   "url": "https://callshopradio.com/",
+   "stream": "https://icecast.callshopradio.com/callshopradio-wien",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "ambient",
+    "electronic",
+    "hip-hop",
+    "house"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "revisited",
+   "name": "Revisited",
+   "url": "https://laut.fm/revisited",
+   "stream": "https://revisited.stream.laut.fm/revisited",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Sankt Veit an der Glan",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "superfly-webradio-easy",
+   "name": "Superfly webradio Easy",
+   "url": "https://superfly.fm/player/index.php?stream=musiccast_latin_app_playlist",
+   "stream": "https://edge81.stream.superfly.fm/superfly-easy",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "funk",
+    "soul"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rtv-unirea-international",
+   "name": "RTV Unirea International",
+   "url": "https://rtvunirea.com/",
+   "stream": "https://s1.bcmsol.ro/8002/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "folk",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xxxlutz-radio",
+   "name": "XXXLutz Radio",
+   "url": "https://www.xxxlutz-dasradio.at/",
+   "stream": "https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "adult-contemporary",
+    "top-hits"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "60er70er-megamix",
+   "name": "60er70er MEGAMIX",
+   "url": "https://www.80er90ermegamix.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/mm-60er70ermegamix",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "angol",
+    "nemet"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-surprise-the-live-dj-radio",
+   "name": "Radio Surprise The Live DJ Radio",
+   "url": "https://www.calltv4u.com/",
+   "stream": "https://a12.asurahosting.com/listen/radio_surprise/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english-uk"
+   ],
+   "state": "Vienna",
+   "genre": [
+    "edm",
+    "pop",
+    "trance"
+   ],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vogal-fm",
+   "name": "Vogal FM",
+   "url": "https://www.acousticlakeside.com/",
+   "stream": "https://stream.vogalfunk.com/stream/vogalfm/vogalfm.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Kärnten",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 1,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-u1-tirol",
+   "name": "Radio U1 Tirol",
+   "url": "https://www.u1-radio.at/",
+   "stream": "https://live.u1-radio.at/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tirol",
+   "genre": [],
+   "votes": 1202,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-relax",
+   "name": "Arabella Relax",
+   "url": "https://app.arabella.at/assets/channels/image/relax-list.png",
+   "stream": "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "gernan"
+   ],
+   "state": "Wien",
+   "genre": [],
+   "votes": 956,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vorarlberg",
+   "name": "Radio Vorarlberg",
+   "url": "https://vorarlberg.orf.at/player/",
+   "stream": "https://orf-live.ors-shoutcast.at/vbg-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 853,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-wien",
+   "name": "Arabella wien",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 724,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-austropop",
+   "name": "Arabella Austropop",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vienna",
+   "genre": [],
+   "votes": 552,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-golden-oldies",
+   "name": "Arabella Golden oldies",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 420,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg",
+   "name": "Antenne Vorarlberg",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 320,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "welle-1-oberosterreich-hq",
+   "name": "WELLE 1 - Oberösterreich - HQ",
+   "url": "https://welle1.at/",
+   "stream": "https://live.welle1.at:17256/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [],
+   "votes": 313,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-chill-out",
+   "name": "Life Radio Chill Out",
+   "url": "https://www.liferadio.at/",
+   "stream": "https://stream8.liferadio.at/",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Oberösterreich",
+   "genre": [],
+   "votes": 306,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orange-94-0-secure",
+   "name": "Orange 94.0 secure",
+   "url": "https://o94.at/",
+   "stream": "https://securestream.o94.at/live.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [],
+   "votes": 302,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-oberosterreich",
+   "name": "ORF Radio Oberösterreich",
+   "url": "https://ooe.orf.at/player/",
+   "stream": "https://orf-live.ors-shoutcast.at/ooe-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [],
+   "votes": 237,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blechradio-1",
+   "name": "Blechradio 1",
+   "url": "https://www.blechradio.at/dr/",
+   "stream": "https://streamt.at/radio/8000/blechradio1.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Steiermark",
+   "genre": [],
+   "votes": 216,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-oberosterreich-hq",
+   "name": "ORF Radio Oberösterreich | HQ",
+   "url": "https://ooe.orf.at/player/",
+   "stream": "https://orf-live.ors-shoutcast.at/ooe-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [],
+   "votes": 211,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-tiamo",
+   "name": "Arabella Tiamo",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 201,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-austro-hits",
+   "name": "Antenne Austro Hits",
+   "url": "https://www.antenne.at/radioplayer/austrohits/",
+   "stream": "https://live.antenne.at/auh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Kärnten",
+   "genre": [],
+   "votes": 199,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-90-er",
+   "name": "Arabella 90 er",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 198,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vorarlberg-hq",
+   "name": "Radio Vorarlberg HQ",
+   "url": "https://vorarlberg.orf.at/player/",
+   "stream": "https://orf-live.ors-shoutcast.at/vbg-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 174,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gamesboro-radio-video-game-music-24-7",
+   "name": "Gamesboro Radio - Video Game Music 24/7",
+   "url": "https://radio.gamesboro.org/public/gamesboro_radio",
+   "stream": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Burgenland",
+   "genre": [],
+   "votes": 168,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-salzburg-hq",
+   "name": "ORF Radio Salzburg HQ",
+   "url": "https://salzburg.orf.at/player",
+   "stream": "https://orf-live.ors-shoutcast.at/sbg-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Salzburg",
+   "genre": [],
+   "votes": 163,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-niederosterreich",
+   "name": "ORF Radio Niederösterreich",
+   "url": "https://noe.orf.at/player",
+   "stream": "https://orf-live.ors-shoutcast.at/noe-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Niederösterreich",
+   "genre": [],
+   "votes": 159,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-musica-italiana",
+   "name": "Antenne Vorarlberg Musica Italiana",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-italiana",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 158,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-hot",
+   "name": "Arabella hot",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 148,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-steiermark-80er-pop",
+   "name": "Radio Steiermark 80er POP",
+   "url": "http://www.antenne.at/",
+   "stream": "https://live.antenne.at/80s",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Austria",
+   "genre": [],
+   "votes": 134,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-lovesongs",
+   "name": "Arabella Lovesongs",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 119,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "museumsradio-am-1476",
+   "name": "Museumsradio AM 1476",
+   "url": "https://plattenkiste.radio/",
+   "stream": "https://museum.streamserver24.com:8080/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 115,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-80-r",
+   "name": "Arabella 80 r",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 112,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-antenne-osterreich-aac",
+   "name": "Rock Antenne Österreich (AAC)",
+   "url": "https://www.rockantenne.at/",
+   "stream": "https://s6-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 110,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "proton-das-freie-radio",
+   "name": "Proton - das freie Radio",
+   "url": "https://radioproton.at/",
+   "stream": "https://radioproton.at:8443/proton",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 105,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-chillout",
+   "name": "Antenne Vorarlberg Chillout",
+   "url": "https://web.radio.antennevorarlberg.at/av-chillout",
+   "stream": "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 99,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "welle-1-salzburg-hq",
+   "name": "Welle 1 - Salzburg - HQ",
+   "url": "",
+   "stream": "https://live.welle1.at:18256/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Salzburg",
+   "genre": [],
+   "votes": 98,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pirate-radio-austria",
+   "name": "Pirate Radio Austria",
+   "url": "https://www.pirateradio.at/",
+   "stream": "https://secureonair.krone.at/pirate.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 94,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-70-r",
+   "name": "Arabella 70 r",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 91,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "welle-1-oberostereich",
+   "name": "WELLE 1 - Oberöstereich",
+   "url": "https://welle1.at/",
+   "stream": "https://live.welle1.at:17128/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Oberösterreich",
+   "genre": [],
+   "votes": 89,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "technikum-one",
+   "name": "Technikum One",
+   "url": "https://www.technikumone.at/",
+   "stream": "https://stream.radiotechnikum.at/TECHONE",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vienna",
+   "genre": [],
+   "votes": 81,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-burgenland",
+   "name": "ORF Radio Burgenland",
+   "url": "https://burgenland.orf.at/player",
+   "stream": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Burgenland",
+   "genre": [],
+   "votes": 80,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "res-radio",
+   "name": "RES.RADIO",
+   "url": "https://res.radio/",
+   "stream": "https://edge.mixlr.com/channel/zwtuo",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Vienna",
+   "genre": [],
+   "votes": 79,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-christkindl-radio",
+   "name": "Antenne Vorarlberg Christkindl Radio",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-christkindl",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 62,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-lovesongs",
+   "name": "Antenne Vorarlberg Lovesongs",
+   "url": "https://web.radio.antennevorarlberg.at/av-lovesongs",
+   "stream": "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-vorarlberg-non-stop",
+   "name": "Antenne vorarlberg Non Stop",
+   "url": "https://www.antennevorarlberg.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/av-nonstop",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Vorarlberg",
+   "genre": [],
+   "votes": 62,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-gold",
+   "name": "Arabella gold",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 62,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "arabella-holiday",
+   "name": "Arabella holiday",
+   "url": "https://arabella.at/",
+   "stream": "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rot-wei-rot",
+   "name": "Radio Rot Weiß Rot",
+   "url": "https://www.rotweissrot.fan/",
+   "stream": "https://secureonair.krone.at/rwr.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 59,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soundportal",
+   "name": "Soundportal",
+   "url": "https://soundportal.at/?type=1",
+   "stream": "https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 57,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yeshua-at-radio",
+   "name": "Yeshua.at Radio",
+   "url": "https://yeshua.at/server/radioArtists/index",
+   "stream": "https://yeshua.at:8443/stream",
+   "codec": "ogg",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-karnten-hq",
+   "name": "ORF Radio Kärnten HQ",
+   "url": "https://kaernten.orf.at/player",
+   "stream": "https://orf-live.ors-shoutcast.at/ktn-q2a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Kärnten",
+   "genre": [],
+   "votes": 53,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenne-salzburg",
+   "name": "Antenne Salzburg",
+   "url": "https://www.antennesalzburg.at/",
+   "stream": "https://edge69.streamonkey.net/antsalzburg-live",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Salzburg",
+   "genre": [],
+   "votes": 50,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "petersplattentek",
+   "name": "PetersPlattentek",
+   "url": "http://www.petersplattenthek.at/",
+   "stream": "https://server7524.streamplus.de/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-agora-105-5",
+   "name": "Radio Agora 105,5",
+   "url": "https://www.agora.at/",
+   "stream": "https://livestream.agora.at/agora",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "german",
+    "slowenisch"
+   ],
+   "langCodes": [
+    "de",
+    "en"
+   ],
+   "state": "Kärnten",
+   "genre": [],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-tirol-music-only",
+   "name": "Life Radio Tirol - MUSIC ONLY",
+   "url": "https://www.liferadio.tirol/",
+   "stream": "https://stream.liferadio.tirol/MUONLY/mp3-192/link",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Tirol",
+   "genre": [],
+   "votes": 43,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo",
+   "name": "Radio Flamingo",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.antenne.at/rf",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 38,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "her-st-propaganda-broadcast",
+   "name": "Her.st Propaganda Broadcast",
+   "url": "https://her.st/",
+   "stream": "https://radio.her.st/listen/listen/128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Vienna",
+   "genre": [],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo-partyschlager",
+   "name": "Radio Flamingo Partyschlager",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.radioflamingo.at/rfpartyschlager",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-tirol-schlagerpuls",
+   "name": "Life Radio Tirol - Schlagerpuls",
+   "url": "https://www.liferadio.tirol/",
+   "stream": "https://stream.liferadio.tirol/schlager/mp3-192/link",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tirol",
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-radio-2",
+   "name": "Metal Radio",
+   "url": "https://metal-radio.at/",
+   "stream": "https://stream.radiotechnikum.at/METALRadio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Vienna",
+   "genre": [],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "orf-radio-salzburg",
+   "name": "ORF - Radio Salzburg",
+   "url": "https://salzburg.orf.at/player",
+   "stream": "https://orf-live.ors-shoutcast.at/sbg-q1a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Salzburg",
+   "genre": [],
+   "votes": 30,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "superfly-radio",
+   "name": "Superfly Radio",
+   "url": "https://superfly.fm/player/index.php?stream=web_main_playlist",
+   "stream": "https://web.stream.superfly.fm/superfly-live?aggregator=Website",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 29,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo-volksmusik",
+   "name": "Radio Flamingo + Volksmusik",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.radioflamingo.at/rfplusvolksmusik",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "welle-1-salzburg",
+   "name": "Welle 1 - Salzburg",
+   "url": "https://live.welle1.at/",
+   "stream": "https://live.welle1.at:18128/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Salzburg",
+   "genre": [],
+   "votes": 25,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "i-love-radio-104",
+   "name": "I-love-Radio-104",
+   "url": "",
+   "stream": "https://ilm.stream12.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3MzU5NDM3JmQ9MjAzNGI3ZTYwODRlNjIzNzE3OWY",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 24,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erf-sud",
+   "name": "ERF Süd",
+   "url": "https://www.erfsued.com/",
+   "stream": "https://erfradio.com/ERF_Sued",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blechradio-2",
+   "name": "Blechradio 2",
+   "url": "https://www.blechradio.at/",
+   "stream": "https://streamt.at:8010/website_popandrock.mp3?ver=141186",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Steiermark",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lcr-radio",
+   "name": "LCR Radio",
+   "url": "https://www.unternehmen1230.at/lcr-radio",
+   "stream": "https://streaming.radio.co/sba5c95896/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Wien",
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-helsinki",
+   "name": "Radio Helsinki",
+   "url": "https://helsinki.at/",
+   "stream": "https://live.helsinki.at:8088/live160.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-op",
+   "name": "Radio OP",
+   "url": "https://radioop.at/",
+   "stream": "https://server4.streamserver24.com:26250/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Burgenland",
+   "genre": [],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "freies-radio-salzkammergut",
+   "name": "Freies Radio Salzkammergut",
+   "url": "https://freiesradio.at/",
+   "stream": "https://streaming.xaok.org/frs.ogg",
+   "codec": "ogg",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cr-94-4",
+   "name": "CR 94.4",
+   "url": "https://www.fhstp.ac.at/en/campus/on-campus-media/campus-city-radio-94.4",
+   "stream": "https://cr944.at:50443/cr944",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo-golden-hits",
+   "name": "Radio Flamingo + Golden Hits",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.radioflamingo.at/rfplusgoldenhits",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo-hoamat",
+   "name": "Radio Flamingo Hoamat",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.radioflamingo.at/rfhoamat",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 18,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-mora",
+   "name": "Radio MORA",
+   "url": "https://app.radio-mora.at/",
+   "stream": "https://server4.streamserver24.com:26250/stream?1655820557881",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80er90er-megamix",
+   "name": "80er90er Megamix",
+   "url": "https://www.80er90ermegamix.at/",
+   "stream": "https://web.radio.antennevorarlberg.at/mm-80er90ermegamix",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "angol",
+    "nemet"
+   ],
+   "genre": [],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blechradio-3",
+   "name": "Blechradio 3",
+   "url": "https://www.blechradio.at/",
+   "stream": "https://streamt.at:8020/website_tanzlmusi.mp3?ver=800211",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Steiermark",
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-fm-dublin",
+   "name": "Power FM Dublin",
+   "url": "https://www.powerfm.org/#",
+   "stream": "https://www.powerfm.org:8443/powerfm.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yu-radio",
+   "name": "Yu Radio",
+   "url": "https://www.yuradio.at/",
+   "stream": "https://stream.radiotechnikum.at:80/YURADIO",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-3-the-dj-johnson-somerset-remixes",
+   "name": "Radio 3: The DJ Johnson Somerset Remixes",
+   "url": "https://radio.eduneu.eu/public/radio3",
+   "stream": "https://radio.eduneu.eu:8020/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "freies-radio-innviertel",
+   "name": "Freies Radio Innviertel",
+   "url": "https://www.radio-fri.at/",
+   "stream": "https://radiofri.out.airtime.pro/radiofri_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Upper Austria",
+   "genre": [],
+   "votes": 13,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "life-radio-tirol-alles-malle",
+   "name": "Life Radio Tirol- Alles Malle",
+   "url": "https://liferadio.tirol/",
+   "stream": "https://stream.liferadio.tirol/malle/mp3-192/link",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Tirol",
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo-kultschlager",
+   "name": "Radio Flamingo + Kultschlager",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.radioflamingo.at/rfpluskultschlager",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "grun-weiss",
+   "name": "Grün-Weiss",
+   "url": "",
+   "stream": "https://live.gruen-weiss.at/rgw.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-weanerisch-gspielt",
+   "name": "Radio Weanerisch gspielt",
+   "url": "https://www.radio-weanarisch.at/",
+   "stream": "https://radiovm1.fluidstream.eu/weanarisch",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Vienna",
+   "genre": [],
+   "votes": 10,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-m1",
+   "name": "Radio-M1",
+   "url": "http://www.radio-m1.com/",
+   "stream": "https://stream.laut.fm/m1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Tirol- Südtirol/Alto Adige/",
+   "genre": [],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-flamingo-christkindl",
+   "name": "Radio Flamingo Christkindl",
+   "url": "https://radioflamingo.at/",
+   "stream": "https://live.radioflamingo.at/rfchristkindl",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rrth-austria",
+   "name": "RRTH Austria",
+   "url": "https://www.rrth.at/",
+   "stream": "https://rrth.stream.laut.fm/rrth?pl=pls&t302=2026-08-22_00-05-32&uuid=7ce93f5a-e8a4-4812-8838-840df1a8c330",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

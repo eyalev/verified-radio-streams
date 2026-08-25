@@ -1,0 +1,3344 @@
+{
+ "countryCode": "RO",
+ "country": "Romania",
+ "slug": "romania",
+ "continent": "europe",
+ "stationCount": 159,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/romania/",
+ "stations": [
+  {
+   "id": "virgin-radio-romania",
+   "name": "Virgin Radio Romania",
+   "url": "https://virginradio.ro/",
+   "stream": "https://astreaming.edi.ro:8443/VirginRadio_aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Bucuresti",
+   "genre": [
+    "hip-hop",
+    "pop",
+    "pop-music",
+    "rnb"
+   ],
+   "votes": 2089,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-fm-hard-rock",
+   "name": "Rock Fm Hard Rock",
+   "url": "https://www.rockfm.ro/",
+   "stream": "https://live.rockfm.ro/hard.rock",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 1886,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dj-radio-romania",
+   "name": "DJ Radio Romania",
+   "url": "https://djradio.ro/",
+   "stream": "https://stream.djradio.ro/radio/8000/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 1343,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-party-mix",
+   "name": "Magic Party Mix",
+   "url": "https://www.magicfm.ro/",
+   "stream": "https://live.magicfm.ro/magic.party.mix",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "oldies"
+   ],
+   "votes": 1200,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-fm-ballads",
+   "name": "Rock Fm Ballads",
+   "url": "https://www.rockfm.ro/",
+   "stream": "https://live.rockfm.ro/ballads.rock",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 1185,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-romania-actualitati",
+   "name": "Radio România Actualități",
+   "url": "https://www.romania-actualitati.ro/",
+   "stream": "https://stream4.srr.ro:8443/romania-actualitati",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1125,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockfm",
+   "name": "RockFM",
+   "url": "https://www.rockfm.ro/",
+   "stream": "https://live.rockfm.ro/rockfm.aacp",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 836,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "digi-fm",
+   "name": "Digi FM",
+   "url": "https://www.digifm.ro/",
+   "stream": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 744,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-manele",
+   "name": "Radio MANELE",
+   "url": "",
+   "stream": "https://play.wrhradios.com/8044/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 681,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-koko",
+   "name": "Rádió KoKo",
+   "url": "https://radiokokoms.ro/",
+   "stream": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Mureș",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 669,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-radio",
+   "name": "Play Radio",
+   "url": "http://energyfm.ro/",
+   "stream": "https://live.playradio.org:8443/90HD",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 496,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vacanta-gold",
+   "name": "Radio Vacanța - Gold",
+   "url": "https://www.radiovacanta.ro/",
+   "stream": "https://stream4.srr.ro:8443/gold_rv",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Constanta",
+   "genre": [
+    "80s",
+    "90s",
+    "oldies"
+   ],
+   "votes": 341,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-energy-cugir",
+   "name": "Radio Energy Cugir",
+   "url": "https://radioenergycugir.ro/",
+   "stream": "https://sonicssl.namehost.ro/8790/stream/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "2000s",
+    "70s",
+    "80s",
+    "90s",
+    "chillout",
+    "classic-rock",
+    "country",
+    "dance",
+    "folk",
+    "hits",
+    "lounge",
+    "oldies",
+    "pop",
+    "relax",
+    "rock"
+   ],
+   "votes": 310,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-gold-hits",
+   "name": "Magic Gold Hits",
+   "url": "https://www.magicfm.ro/",
+   "stream": "https://live.magicfm.ro/magic.gold.hits",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "classic-hits",
+    "greatest-hits",
+    "oldies"
+   ],
+   "votes": 308,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-disco-mix",
+   "name": "Radio Disco Mix",
+   "url": "https://discomix.ro/",
+   "stream": "https://play.discomix.ro/8002/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "disco",
+    "hits",
+    "pop"
+   ],
+   "votes": 291,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-transilvania-cluj",
+   "name": "Radio Transilvania - Cluj",
+   "url": "https://radiotransilvania.ro/helyseg/3/cluj-napoca",
+   "stream": "https://stream2.radiotransilvania.ro/Cluj",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Cluj",
+   "genre": [
+    "adult-contemporary",
+    "electronic",
+    "pop-rock",
+    "top-hits"
+   ],
+   "votes": 285,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "space-fm-dance",
+   "name": "Space Fm Dance",
+   "url": "https://spacefm.ro/",
+   "stream": "https://spacefm.live/radio/8000/spacefm128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house"
+   ],
+   "votes": 278,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-fm-blues",
+   "name": "Rock Fm Blues",
+   "url": "https://www.rockfm.ro/",
+   "stream": "https://live.rockfm.ro/blues",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "blues"
+   ],
+   "votes": 261,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rfm",
+   "name": "Radio RFM",
+   "url": "https://radiorfm.ro/",
+   "stream": "https://shout.realitatea.net:8001/mixt",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Ilfov",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 227,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "black-rhino-radio",
+   "name": "Black Rhino Radio",
+   "url": "https://blackrhinoradio.com/",
+   "stream": "https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Bucharest",
+   "genre": [
+    "ambient",
+    "electronic",
+    "hip-hop",
+    "house",
+    "indie",
+    "jazz",
+    "reggae",
+    "soul",
+    "techno"
+   ],
+   "votes": 211,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "plusz-fm-nagyvarad",
+   "name": "Plusz FM - Nagyvarad",
+   "url": "https://pluszfm.ro/helyseg/2/nagyvarad",
+   "stream": "https://stream2.radiotransilvania.ro/Nagyvarad",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Bihor",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 177,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "romania-antena-satelor",
+   "name": "ROMÂNIA Antena Satelor",
+   "url": "https://www.antenasatelor.ro/",
+   "stream": "https://stream4.srr.ro:8443/antena-satelor",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "state": "Bucuresti",
+   "genre": [
+    "music"
+   ],
+   "votes": 169,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-folclor",
+   "name": "Radio Folclor",
+   "url": "https://radiofolclor.ro/",
+   "stream": "https://ssl.omegahost.ro/8092/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 167,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-cartier-romania",
+   "name": "Radio Cartier Romania",
+   "url": "https://radiocartier.eu/",
+   "stream": "https://live.radiocartier.eu:8048/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 166,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ambiento",
+   "name": "Ambiento",
+   "url": "https://ambientoradio.com/",
+   "stream": "https://ambiento-adradio.radioca.st/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "ambient",
+    "chillout",
+    "lounge"
+   ],
+   "votes": 135,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-sunset",
+   "name": "Magic Sunset",
+   "url": "https://www.magicfm.ro/",
+   "stream": "https://live.magicfm.ro/magic.lite",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "genre": [
+    "ambient",
+    "oldies",
+    "relax"
+   ],
+   "votes": 134,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-greu-de-difuzat",
+   "name": "Radio Greu De Difuzat",
+   "url": "https://greudedifuzat.ro/",
+   "stream": "https://greudedifuzat.ro/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 132,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dark-edge-radio",
+   "name": "Dark Edge Radio",
+   "url": "https://darkedge.ro/",
+   "stream": "https://stream.darkedge.ro:8002/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Bucharest",
+   "genre": [
+    "alternative",
+    "indie"
+   ],
+   "votes": 129,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "extravaganza-radio",
+   "name": "Extravaganza Radio",
+   "url": "https://extravaganzaradio.com/",
+   "stream": "https://s3.radio.co/s1492c0564/listen",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "state": "Bucharest",
+   "genre": [
+    "dance",
+    "electronic",
+    "house"
+   ],
+   "votes": 118,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erdely-fm",
+   "name": "Erdély FM",
+   "url": "https://erdelyfm.ro/",
+   "stream": "https://efm.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Mureș",
+   "genre": [
+    "alternative",
+    "indie",
+    "rock"
+   ],
+   "votes": 116,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boom-house-music",
+   "name": "Radio Boom House Music",
+   "url": "https://radioboom.ro/",
+   "stream": "https://stream.radioboom.ro/listen/boom_house_music/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 113,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vacanta-fresh",
+   "name": "Radio Vacanța - Fresh",
+   "url": "https://www.radiovacanta.ro/",
+   "stream": "https://stream4.srr.ro:8443/fresh_rv",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Constanta",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 106,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm-80s-hits",
+   "name": "Magic FM 80s HIts",
+   "url": "https://www.magicfm.ro/magic-80s-hits",
+   "stream": "https://live.kissfm.ro/Magic-80s",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "80s"
+   ],
+   "votes": 105,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "supravibe-radio",
+   "name": "Supravibe Radio",
+   "url": "https://www.supraviberadio.ro/",
+   "stream": "https://supraviberadio-radiohosting.radioca.st/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "electronic",
+    "house"
+   ],
+   "votes": 104,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gorebel",
+   "name": "goREBEL",
+   "url": "https://gofm.ro/",
+   "stream": "https://live.gofm.ro:2000/stream/goREBEL/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "indie"
+   ],
+   "votes": 99,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aripi-spre-cer-instrumental",
+   "name": "Aripi Spre Cer Instrumental",
+   "url": "https://www.aripisprecer.ro/",
+   "stream": "https://instrumental.aac.aripisprecer.ro/radio.mp3;",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "instrumental"
+   ],
+   "votes": 88,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-blue-romania",
+   "name": "Radio Blue Romania",
+   "url": "https://xat.com/GERMANIA",
+   "stream": "https://asculta.muzicaok.de:8002/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "electronic",
+    "house",
+    "pop"
+   ],
+   "votes": 79,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pescobar-radio",
+   "name": "Pescobar Radio",
+   "url": "https://pescobar.radio/",
+   "stream": "https://listen.radioking.com/radio/701141/stream/766385",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "state": "Cluj",
+   "genre": [
+    "dance",
+    "electronic",
+    "house",
+    "relax"
+   ],
+   "votes": 70,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bistrita-fm-92-6",
+   "name": "Bistrița FM 92.6",
+   "url": "https://bistritafmradio.ro/",
+   "stream": "https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 67,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-blues",
+   "name": "EBS | Blues",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/blues/blues128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "blues"
+   ],
+   "votes": 67,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gojazz",
+   "name": "goJAZZ",
+   "url": "https://gofm.ro/",
+   "stream": "https://live.gofm.ro:2020/stream/goJAZZ",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marketescu-house-minimal",
+   "name": "Radio Marketescu House&Minimal",
+   "url": "https://marketescu.ro/",
+   "stream": "https://s31.radiolize.com/radio/8020/radio.mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Timisoara",
+   "genre": [
+    "electronic",
+    "house"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boom-gold",
+   "name": "Radio Boom Gold",
+   "url": "https://radioboom.ro/",
+   "stream": "https://stream.radioboom.ro/listen/boom_gold/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-electro",
+   "name": "EBS | Electro",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/electro/electro128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kptv",
+   "name": "Radio KPTV",
+   "url": "https://radio.kptv.ro/",
+   "stream": "https://nl1.streamingpulse.com/ssl/KPTV",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Mureș",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-folclor-buzau",
+   "name": "Radio Folclor Buzau",
+   "url": "https://www.radiofolclorbuzaufm.ro/",
+   "stream": "https://live.radiofolclorbuzaufm.ro:8910/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 53,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "getarum-radio",
+   "name": "Getarum Radio",
+   "url": "https://www.getarum.com/",
+   "stream": "https://stream.clever-host.ro/8010/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "90s",
+    "electronic",
+    "trance"
+   ],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-goldies",
+   "name": "Radio Goldies",
+   "url": "https://www.radiogoldies.org/",
+   "stream": "https://s10.streamingcloud.online/stream/13664",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "oldies",
+    "pop"
+   ],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-eco-natura",
+   "name": "Radio Eco Natura",
+   "url": "https://www.radio-econatura.ro/",
+   "stream": "https://n0a.radiojar.com/fp5c3fgbyzzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "alternative",
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boom-rock",
+   "name": "Radio Boom Rock",
+   "url": "https://radioboom.ro/",
+   "stream": "https://stream.radioboom.ro/listen/boom_rock/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 49,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "roman-fm",
+   "name": "Roman FM",
+   "url": "https://www.romanfm.ro/",
+   "stream": "https://live.romanfm.ro:8000/;rfm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "pop-music",
+    "top-40"
+   ],
+   "votes": 49,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cozy-fm",
+   "name": "Cozy FM",
+   "url": "https://www.cozyfm.ro/",
+   "stream": "https://live.cozyfm.ro:8010/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "chillout",
+    "pop",
+    "relax"
+   ],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "plusz-fm-margitta",
+   "name": "Plusz FM - Margitta",
+   "url": "https://pluszfm.ro/helyseg/3/margitta",
+   "stream": "https://stream2.radiotransilvania.ro/Margitta",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Bihor",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gorock",
+   "name": "goROCK",
+   "url": "https://gofm.ro/",
+   "stream": "https://live.gofm.ro:2020/stream/goROCK",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eveniment-fm-sibiu-103-2",
+   "name": "Eveniment FM Sibiu 103.2",
+   "url": "https://evenimentfm.ro/",
+   "stream": "https://live.gofm.ro:2000/stream/eveniment",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Sibiu",
+   "genre": [
+    "dance",
+    "house",
+    "pop"
+   ],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "love-marilena-galati",
+   "name": "Love Marilena Galați",
+   "url": "https://xat.com/Radio_Marilena_love",
+   "stream": "https://radio.sonicpanel.ro/8068/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marketescu-reggae-trip-hop",
+   "name": "Radio Marketescu Reggae&Trip-Hop",
+   "url": "https://marketescu.ro/",
+   "stream": "https://s37.radiolize.com/radio/8100/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Timisoara",
+   "genre": [
+    "reggae"
+   ],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-jazz",
+   "name": "EBS | Jazz",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "minimal-techno-radio-track-discovery-rominimal-c",
+   "name": "Minimal Techno Radio & Track Discovery - ROminimal.club",
+   "url": "https://rominimal.club/",
+   "stream": "https://r4.rominimal.club/listen/rominimal.club/radio2.m4a",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic",
+    "techno"
+   ],
+   "votes": 43,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urban-fm",
+   "name": "Urban FM",
+   "url": "https://urbanfm.ro/",
+   "stream": "https://urbanfm.ro:8777/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Bucharest",
+   "genre": [
+    "hip-hop",
+    "rnb",
+    "rap"
+   ],
+   "votes": 43,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aripi-spre-cer-popular",
+   "name": "Aripi Spre Cer Popular",
+   "url": "https://www.aripisprecer.ro/popular/",
+   "stream": "https://popular.stream.aripisprecer.ro/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "moinesti-fm",
+   "name": "Moinesti FM",
+   "url": "https://moinestifm.ro/",
+   "stream": "https://listen.moinestifm.ro/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian",
+    "româna"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-radio",
+   "name": "EBS Radio",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/live/live128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Cluj",
+   "genre": [
+    "adult-contemporary",
+    "top-hits"
+   ],
+   "votes": 38,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-folclor-muntenia",
+   "name": "Radio Folclor Muntenia",
+   "url": "https://www.radiofolclormuntenia.ro/",
+   "stream": "https://live.radiofolclormuntenia.ro:8008/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 38,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "capital-fm-dance",
+   "name": "Capital FM - Dance",
+   "url": "https://capitalfm.ro/",
+   "stream": "https://ssl.omegahost.ro:8020/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "supersonic-radio",
+   "name": "Supersonic Radio",
+   "url": "https://supersonicradio.ro/",
+   "stream": "https://s5.radio.co/s08e5c5875/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "blues",
+    "classic-rock",
+    "country",
+    "folk",
+    "pop",
+    "pop-music",
+    "pop-rock",
+    "rock",
+    "soul"
+   ],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dux-radio",
+   "name": "Dux Radio",
+   "url": "https://duxradio.ro/",
+   "stream": "https://radio.duxradio.ro:8002/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "blues",
+    "dance",
+    "edm",
+    "folk",
+    "indie",
+    "oldies",
+    "pop",
+    "rock",
+    "romantic"
+   ],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-lounge",
+   "name": "EBS | Lounge",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "lounge"
+   ],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-trib",
+   "name": "Radio Trib",
+   "url": "https://www.radiotrib.ro/",
+   "stream": "https://streams.radio.co/s78f983952/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "alternative",
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "szepviz-fm",
+   "name": "Szépvíz FM",
+   "url": "https://szepvizfm.ro/",
+   "stream": "https://szepvizfm.ro:8000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Harghita",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 33,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boom-energy",
+   "name": "Radio Boom Energy",
+   "url": "https://radioboom.ro/",
+   "stream": "https://stream.radioboom.ro/listen/boom_energy/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 32,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiopitesteanuromania",
+   "name": "RadioPitesteanuRomania",
+   "url": "",
+   "stream": "https://free.rcast.net/246157",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 31,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "oxo-radio",
+   "name": "OXO Radio",
+   "url": "https://oxoradio.eu/",
+   "stream": "https://s4.ssl-stream.com/listen/oxo_radio/radio.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "relax"
+   ],
+   "votes": 29,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nova-22",
+   "name": "Nova 22",
+   "url": "",
+   "stream": "https://s2.myradiostream.com/4520/listen.mp3",
+   "codec": "aac",
+   "bitrate": 224,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-energy-cugir-87-9-fm",
+   "name": "Radio Energy Cugir - 87,9 FM",
+   "url": "https://radioenergycugir.ro/",
+   "stream": "https://sonicssl.namehost.ro/8790/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-rock",
+    "dance",
+    "lounge",
+    "oldies"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-aquila",
+   "name": "Radio Aquila",
+   "url": "https://radio-aquila.ro/",
+   "stream": "https://s10.webradio-hosting.com/proxy/schrteam/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "dance",
+    "oldies",
+    "pop",
+    "pop-music"
+   ],
+   "votes": 25,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm-relax",
+   "name": "Magic FM Relax",
+   "url": "https://www.magicfm.ro/magic-relax",
+   "stream": "https://live.kissfm.ro/magic.lite",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "relax",
+    "relaxing"
+   ],
+   "votes": 23,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-music",
+   "name": "EBS | Music",
+   "url": "https://www.ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/music/music128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hits",
+    "indie",
+    "pop-music"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marketescu-rap-trap",
+   "name": "Radio Marketescu Rap&Trap",
+   "url": "https://marketescu.ro/",
+   "stream": "https://s45.radiolize.com/radio/8060/radio.mp3",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "state": "Timisoara",
+   "genre": [
+    "rap"
+   ],
+   "votes": 22,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "soft-rock-radio",
+   "name": "Soft Rock Radio",
+   "url": "https://www.softrockradio.net/",
+   "stream": "https://gold.streamguys1.com/softrock.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 21,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "erdelyi-magyar-radio",
+   "name": "Erdélyi Magyar Rádió",
+   "url": "https://erdelyimagyarradio.eu/",
+   "stream": "https://adas.erdelyimagyarradio.eu:8443/emr",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "classic-hits",
+    "pop-rock"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-killer-campia-turzii",
+   "name": "Radio Killer Câmpia Turzii",
+   "url": "https://radio-killer.ro/",
+   "stream": "https://s12.myradiostream.com/17492/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "oldies",
+    "pop"
+   ],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gofm",
+   "name": "goFM",
+   "url": "https://play.gofm.ro/",
+   "stream": "https://live.gofm.ro:2000/stream/goFMro",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Sibiu",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 17,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm-90s-hits",
+   "name": "Magic FM 90s Hits",
+   "url": "https://www.magicfm.ro/magic-90s-hits",
+   "stream": "https://live.kissfm.ro/Magic-90s",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "90s"
+   ],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "enjoy-radio",
+   "name": "EnJOY Radio",
+   "url": "https://enjoyradio.ro/",
+   "stream": "https://live.enjoyradio.ro/radio/8000/enjoylive.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "marlene-radio",
+   "name": "Marlene Radio",
+   "url": "https://marlene.ro/",
+   "stream": "https://live.gofm.ro:2000/stream/MARLENERADIO/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "love-songs",
+    "oldies",
+    "pop",
+    "romantic"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-greenstone",
+   "name": "Radio Greenstone",
+   "url": "https://radio.g-stone.ro/",
+   "stream": "https://stream.clever-host.ro/8018/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "pop"
+   ],
+   "votes": 16,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-magia-inimii-tale",
+   "name": "RADIO MAGIA INIMII TALE",
+   "url": "http://www.musicmagiainimiitale.com/wp/",
+   "stream": "https://a9.asurahosting.com:7030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Bucuresti",
+   "genre": [
+    "blues",
+    "country"
+   ],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioplay-dance-romania-cluj-napoca",
+   "name": "RadioPlay Dance Romania -Cluj Napoca",
+   "url": "https://radioplay.ro/",
+   "stream": "https://mscp1.gazduireradio.ro:1130/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 14,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm-love",
+   "name": "Magic FM Love",
+   "url": "https://www.magicfm.ro/magic-love",
+   "stream": "https://dc.digi.live.kissfm.ro/magiclove",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "love-songs",
+    "romantic"
+   ],
+   "votes": 13,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gaga-marosszek",
+   "name": "Rádió GaGa Marosszék",
+   "url": "https://www.radiogaga.ro/",
+   "stream": "https://a3.my-control-panel.com:6660/radio.mp3?1709995925",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Mureș",
+   "genre": [
+    "pop-rock",
+    "top-hits"
+   ],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-marketescu-travel",
+   "name": "Radio Marketescu Travel",
+   "url": "https://marketescu.ro/",
+   "stream": "https://s103.radiolize.com:8020/radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Timisoara",
+   "genre": [
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cross-one-radio",
+   "name": "Cross One Radio",
+   "url": "https://www.crossone.ro/",
+   "stream": "https://lb01.bpstream.com:8630/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "christian-music"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nostalgia-radio",
+   "name": "Nostalgia Radio",
+   "url": "https://nostalgiaradio.ro/",
+   "stream": "https://live.radionostalgia.ro:8443/nostalgia.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "90s",
+    "pop-music"
+   ],
+   "votes": 12,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "star-radio",
+   "name": "Star rádió",
+   "url": "https://magyarfeny.ro/star-radio-1",
+   "stream": "https://online.webcastradio.ro/star",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "state": "Harghita",
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibe-fm-romania-2",
+   "name": "Vibe FM România",
+   "url": "https://www.radiovibefm.eu/",
+   "stream": "https://live.radiovibefm.eu/8052/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "transilvania-statia-oradea-97-2-fm",
+   "name": "Transilvania -statia Oradea 97.2 FM",
+   "url": "https://radiotransilvania.ro/",
+   "stream": "https://stream2.radiotransilvania.ro/Oradea",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wave-radio",
+   "name": "Wave Radio",
+   "url": "https://waveradio.ro/",
+   "stream": "https://s2.ssl-stream.com/listen/wave_radio/radio.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Constanta",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "transilvania-statia-baia-mare-106-1-fm",
+   "name": "Transilvania -statia Baia Mare 106.1 FM",
+   "url": "https://radiotransilvania.ro/localitatea/5/baia-mare",
+   "stream": "https://stream2.radiotransilvania.ro/BaiaMare",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vibe-fm",
+   "name": "Vibe FM",
+   "url": "https://vibefm.ro/",
+   "stream": "https://astreaming.vibefm.ro:8443/vibe_ro64",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Bucharest",
+   "genre": [
+    "pop"
+   ],
+   "votes": 10,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm-jazz",
+   "name": "Magic FM Jazz",
+   "url": "https://www.magicfm.ro/magic-jazz",
+   "stream": "https://dc.digi.live.kissfm.ro/magic-jazz",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tequila-romania-radio-dance",
+   "name": "Tequila România -Radio Dance",
+   "url": "https://www.radiotequila.ro/",
+   "stream": "https://dance.radiotequila.ro/7000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "transylvania-hits",
+   "name": "Transylvania -Hits",
+   "url": "https://transylvaniahits.eu/",
+   "stream": "https://asculta.ascultatare.ro/8036/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop",
+    "rnb",
+    "rock",
+    "top-40"
+   ],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-fm-ckassic-music",
+   "name": "Magic FM Ckassic Music",
+   "url": "https://www.magicfm.ro/magic-classic-music",
+   "stream": "https://dc.digi.live.kissfm.ro/magic-classic",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 7,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "slager-radio-slager-fm-sepsiszentgyorgy-sfantu-g",
+   "name": "Sláger Rádió -Slager FM Sepsiszentgyörgy/Sfântu Gheorghe 105.9 FM",
+   "url": "https://www.facebook.com/radioslager/",
+   "stream": "https://slagerfm.netregator.hu:7813/slagerfm320.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "hungarian"
+   ],
+   "langCodes": [
+    "hu"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spacefm-romania-spacefm-dance",
+   "name": "SpaceFM Romania -SpaceFM Dance",
+   "url": "https://spacefm.ro/",
+   "stream": "https://spacefm.live/listen/spacefm_romania/spacefm192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "house"
+   ],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "balcan-radio-manele-braila",
+   "name": "Balcan Radio Manele -Brăila",
+   "url": "https://zeno.fm/radio/balcan-radio-manele/",
+   "stream": "https://radio.sonicpanel.ro/8112/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 6,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bella-eomania",
+   "name": "Radio Bella Eomania",
+   "url": "https://radiobella.ro/",
+   "stream": "https://ssl.asculta.live/radiobella/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Teleorman",
+   "genre": [
+    "romantic"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-now-radio",
+   "name": "Rock Now Radio",
+   "url": "https://rocknowradio.ro/",
+   "stream": "https://listen.rocknowradio.ro/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "transilvania-statia-satu-mare-99-0-fm",
+   "name": "Transilvania -statia Satu Mare 99.0 FM",
+   "url": "https://radiotransilvania.ro/",
+   "stream": "https://stream2.radiotransilvania.ro/SatuMare",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "viva-fm-statia-iasi-105-fm",
+   "name": "VIVA FM -statia Iasi 105 FM",
+   "url": "https://vivafm.ro/",
+   "stream": "https://cloud.radiosonicpanel.ro/8002/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mfm-dance-muntenia-fm-albestii-de-arges-105-7-fm",
+   "name": "MFM Dance (Muntenia FM) - Albeștii de Argeș 105,7 FM",
+   "url": "http://mfmdance.ro/",
+   "stream": "https://ssl.radios.show/8012/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "dance",
+    "house",
+    "pop",
+    "techno"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-balkan-romania",
+   "name": "Radio Balkan Romania",
+   "url": "https://radiobalkan.ro/ro/",
+   "stream": "https://live.radiobalkan.ro:8102/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "spacefm-romania-spacefm-retro",
+   "name": "SpaceFM Romania -SpaceFM Retro",
+   "url": "https://spacefm.ro/",
+   "stream": "https://retro.spacefm.live/listen/spacefm_retro/retro128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "hits",
+    "oldies"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "star-fm-romania",
+   "name": "STAR FM România",
+   "url": "https://xat.com/starfmromania2022",
+   "stream": "https://asculta.muzicaok.de:8060/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urban-sunsets",
+   "name": "Urban Sunsets",
+   "url": "https://www.urbansunsets.com/",
+   "stream": "https://stream.radio.co/sedf8bacc9/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "antenna-web-oradea",
+   "name": "Antenna Web Oradea",
+   "url": "https://antennaweb.it/antenna-web-oradea/",
+   "stream": "https://tinyurl.com/Antenna-Web-Oradea",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "italian",
+    "română"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-radio-blues-cluj-napoca",
+   "name": "EBS Radio Blues -Cluj Napoca",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/blues/blues128.mp3?refresh=1779028682377",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "blues"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "glasul-nordului-2-jurnal-fm-hudesti",
+   "name": "Glasul Nordului 2 (Jurnal FM) -Hudești",
+   "url": "https://www.glasulnordului.ro/",
+   "stream": "https://ssl.radios.show/8008/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-hits-from-the-10s",
+   "name": "Kiss Hits From The 10s",
+   "url": "https://www.kissfm.ro/hitsfromthe10s",
+   "stream": "https://live.kissfm.ro/kiss.hits.from.the.10s",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ludus-manele",
+   "name": "Luduș Manele",
+   "url": "http://radio-ludus-manele/",
+   "stream": "https://radio.gazduirejocuri.ro/8002/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "moonrise-radio",
+   "name": "Moonrise Radio",
+   "url": "https://moonriseradio.com/",
+   "stream": "https://radio.sunrise85fm.ro/listen/moonrise_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Brasov",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-liberty-dance-bucuresti",
+   "name": "Radio Liberty Dance -București",
+   "url": "https://www.radioliberty.ro/listen/radio-liberty-dance",
+   "stream": "https://sonicssl.namehost.ro/1989/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-liberty-muzica-romaneasca-bucuresti",
+   "name": "Radio Liberty Muzică Românească -București",
+   "url": "https://www.radioliberty.ro/listen/radio-liberty-muzica-romaneasca",
+   "stream": "https://sonicssl.namehost.ro/7060/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "90s",
+    "hits"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioplay-trance-romania-cluj-napoca",
+   "name": "RadioPlay Trance Romania -Cluj Napoca",
+   "url": "https://radioplay.ro/",
+   "stream": "https://mscp1.gazduireradio.ro:1220/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockstar-radio",
+   "name": "Rockstar Radio",
+   "url": "https://tanase.tapinarii.ro/",
+   "stream": "https://a5.asurahosting.com:7120/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "state": "București",
+   "genre": [
+    "alternative",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sinaia-radio-forever",
+   "name": "Sinaia Radio Forever",
+   "url": "https://xat.com/SinaiaRadioForever",
+   "stream": "https://ssl.asculta.live/8006/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sky-fm-radio-sky-constanta-101-1-fm",
+   "name": "Sky FM - Radio Sky Constanța 101.1 FM",
+   "url": "https://www.radiosky.ro/",
+   "stream": "https://live.radiosky.ro/radiosky.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "alternative",
+    "electronic",
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "center-deejay-brasov-dj-radio-romania",
+   "name": "Center Deejay Brașov -DJ Radio Romania",
+   "url": "https://www.centerdeejay.ro/",
+   "stream": "https://djradio.ro/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-radio-romanian-gold-cluj-napoca",
+   "name": "EBS Radio Romanian Gold -Cluj Napoca",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3?refresh=1779029137110",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "tango"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fmv-fit-radio-medium-energy",
+   "name": "FMV FIT Radio Medium Energy",
+   "url": "https://fmvfitradio.webicdp.com/",
+   "stream": "https://radio.webicdp.com/listen/fmvfitradiomediumenergy/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "electronic",
+    "trance"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boom-house-music-buzau-rm-sarat-102-3-fm",
+   "name": "Radio BOOM House Music -Buzău, Rm. Sarat 102,3 FM",
+   "url": "https://stream.radioboom.ro/public/boom_house_music",
+   "stream": "https://stream.radioboom.ro:8530/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "house"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-coresi-80s-brasov",
+   "name": "Radio Coresi 80s -Brașov",
+   "url": "https://coresibrasov.ro/",
+   "stream": "https://s5.radio.co/sfb029759c/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "80s",
+    "oldies"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ideal",
+   "name": "Radio Ideal",
+   "url": "http://www.radioideal.ro/",
+   "stream": "https://radio.gazduirejocuri.ro/8014/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-orion-fm-campulung-muscel-96-6-fm",
+   "name": "Radio Orion FM -Câmpulung Muscel 96,6 FM",
+   "url": "https://orionfm.ro/en",
+   "stream": "https://cast.orionfm.ro/listen/orion/public.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sky-radio-bucuresti",
+   "name": "Sky Radio Bucuresti",
+   "url": "https://www.skyradio.ro/",
+   "stream": "https://20593.live.streamtheworld.com/KNEIFM_SC",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "adult-contemporary",
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sound-four-you-craiova-128-0-dab",
+   "name": "Sound Four You -Craiova 128.0 DAB",
+   "url": "https://xat.com/Radio_SoundFourYou",
+   "stream": "https://ssl.asculta.live/8222/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urbanup-tv",
+   "name": "UrbanUP TV",
+   "url": "https://urbanup.tv/",
+   "stream": "https://s7.everestcast.com:6805/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "adjud-fm",
+   "name": "Adjud FM",
+   "url": "https://adjudfm.ro/",
+   "stream": "https://live.adjudfm.ro:8000/adjudfm.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "romania",
+    "romanian",
+    "română"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "state": "Vrancea",
+   "genre": [
+    "90s",
+    "dance",
+    "folk",
+    "pop",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dejavumusic-radio-dejavu",
+   "name": "DejaVuMusic -Radio DejaVu",
+   "url": "https://xat.com/dejavumusic",
+   "stream": "https://radio.sonicpanel.ro/8042/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "dance",
+    "house"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ebs-radio-live-cluj-napoca-90-4-fm",
+   "name": "EBS Radio Live -Cluj Napoca 90,4 FM",
+   "url": "https://ebsradio.ro/",
+   "stream": "https://azura.ebsmedia.ro/listen/live/live128.mp3?refresh=1779027831553",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-rock-athems",
+   "name": "Kiss fm • rock athems",
+   "url": "https://www.kissfm.ro/",
+   "stream": "https://dc.digi.live.kissfm.ro/rockanthemsbydanfintescu",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "news-radio-botosani",
+   "name": "News Radio Botoșani",
+   "url": "https://www.newsradio.ro/",
+   "stream": "https://servidor22-2.brlogic.com:7250/live",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pro-fm-statia-cluj-napoca-99-8-fm",
+   "name": "Pro FM -stația Cluj Napoca 99,8 FM",
+   "url": "https://www.profm.ro/",
+   "stream": "https://radioendirect.net/stream/125928",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "pop",
+    "top-40"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alpin-romania",
+   "name": "Radio Alpin Romania",
+   "url": "https://www.facebook.com/RadioAlpinRomania/",
+   "stream": "https://asculta.ascultatare.ro/8042/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "românä"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-boom-gold-buzau-rm-sarat-96-7-fm",
+   "name": "Radio BOOM Gold -Buzău, Rm. Sarat 96,7 FM",
+   "url": "https://stream.radioboom.ro/public/boom_gold",
+   "stream": "https://stream.radioboom.ro:8500/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-liberty-oldies-bucuresti",
+   "name": "Radio Liberty Oldies -București",
+   "url": "https://www.radioliberty.ro/listen/radio-liberty-oldies",
+   "stream": "https://sonicssl.namehost.ro/7790/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioplay-retro-romania-cluj-napoca",
+   "name": "RadioPlay Retro Romania -Cluj Napoca",
+   "url": "https://radioplay.ro/",
+   "stream": "https://mscp1.gazduireradio.ro:1360/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "română"
+   ],
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockradio-ro",
+   "name": "Rockradio.ro",
+   "url": "https://rockradio.ro/",
+   "stream": "https://online.webcastradio.ro/rock-u.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sighet-fm-sighetu-marmatiei-89-3-fm",
+   "name": "Sighet FM -Sighetu Marmației 89.3 FM",
+   "url": "https://sighetfm.ro/",
+   "stream": "https://radio.zifer.ro/SighetFM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romania"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-ro",
+   "name": "Kiss Fm Ro",
+   "url": "https://www.kissfm.ro/",
+   "stream": "https://live.kissfm.ro/kissfm.aacp",
+   "codec": "aac",
+   "bitrate": 80,
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [],
+   "votes": 13476,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europa-fm-romania",
+   "name": "Europa FM Romania",
+   "url": "http://www.europafm.ro/",
+   "stream": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Bucuresti",
+   "genre": [],
+   "votes": 3907,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "one-fm-dance",
+   "name": "One FM Dance",
+   "url": "https://www.onefm.ro/",
+   "stream": "https://live.onefm.ro/onefm.aacp",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 2319,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "digi24fm",
+   "name": "Digi24FM",
+   "url": "https://www.digi24.ro/live/digi24-fm",
+   "stream": "https://edge76.rcs-rds.ro/digifm/digi24fm.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 2217,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-petrecere",
+   "name": "RADIO Petrecere",
+   "url": "https://fmradiomanele.ro/",
+   "stream": "https://ssl.servereradio.ro/8123/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [],
+   "votes": 1692,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "super-fm",
+   "name": "Super FM",
+   "url": "https://superfm.ro/",
+   "stream": "https://live.superfm.ro/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [],
+   "votes": 1393,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dance-fm",
+   "name": "Dance FM",
+   "url": "https://www.dancefm.ro/",
+   "stream": "https://edge126.rcs-rds.ro/profm/dancefm.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [],
+   "votes": 1187,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "atmospheric-dnb-s0urce",
+   "name": "Atmospheric dnb s0urce",
+   "url": "https://brokenbeats.net/",
+   "stream": "https://brokenbeats.net/stream/aac",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Bucharest",
+   "genre": [],
+   "votes": 848,
+   "clicks": 35,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-vacanta-nostalgia",
+   "name": "Radio Vacanța Nostalgia",
+   "url": "https://www.radiovacanta.ro/",
+   "stream": "https://stream4.srr.ro:8443/nostalgia_rv",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 760,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  }
+ ]
+}

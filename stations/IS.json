@@ -1,0 +1,110 @@
+{
+ "countryCode": "IS",
+ "country": "Iceland",
+ "slug": "iceland",
+ "continent": "europe",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/iceland/",
+ "stations": [
+  {
+   "id": "retro",
+   "name": "Retro",
+   "url": "https://k100.mbl.is/retro/",
+   "stream": "https://ice-11.spilarinn.is/retromobile",
+   "codec": "mp3",
+   "bitrate": 170,
+   "format": "music",
+   "genre": [
+    "80s",
+    "90s",
+    "oldies",
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "flashback-60s",
+   "name": "Flashback 60s",
+   "url": "https://www.spilarinn.is/60's%20FlashBack",
+   "stream": "https://ice-11.spilarinn.is/60flashback",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 108,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "utvarp-saga",
+   "name": "Útvarp Saga",
+   "url": "https://utvarpsaga.is/",
+   "stream": "https://stream.utvarpsaga.is/Hljodver",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "icelandic"
+   ],
+   "langCodes": [
+    "is"
+   ],
+   "genre": [],
+   "votes": 104,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "k-100",
+   "name": "K 100",
+   "url": "https://k100.mbl.is/",
+   "stream": "https://ice-11.spilarinn.is/kaninnmobile",
+   "codec": "mp3",
+   "bitrate": 170,
+   "genre": [],
+   "votes": 45,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fred-film-radio-26-islenska",
+   "name": "Fred Film Radio-26 Íslenska",
+   "url": "https://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "icelandic"
+   ],
+   "langCodes": [
+    "is"
+   ],
+   "genre": [],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

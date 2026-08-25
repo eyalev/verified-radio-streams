@@ -1,0 +1,1610 @@
+{
+ "countryCode": "BG",
+ "country": "Bulgaria",
+ "slug": "bulgaria",
+ "continent": "europe",
+ "stationCount": 94,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/bulgaria/",
+ "stations": [
+  {
+   "id": "bg-estrada",
+   "name": "BG Estrada",
+   "url": "https://bgradio.bg/",
+   "stream": "https://play.global.audio/bgestrada",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [
+    "pop"
+   ],
+   "votes": 6616,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "badrock-hard-heavy",
+   "name": "BadRock Hard & Heavy",
+   "url": "https://badrockradio.net/",
+   "stream": "https://play-radio0.jump.bg:7049/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 1695,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jugomania",
+   "name": "Radio Jugomania",
+   "url": "",
+   "stream": "https://s8.yesstreaming.net:17051/autodj",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 1366,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-dance-radio",
+   "name": "Metro DANCE Radio",
+   "url": "https://metrocast.top/dance",
+   "stream": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
+   "codec": "mp3",
+   "bitrate": 112,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "english"
+   ],
+   "langCodes": [
+    "bg",
+    "en"
+   ],
+   "state": "Sofia",
+   "genre": [
+    "dance"
+   ],
+   "votes": 489,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-hits-radio",
+   "name": "Metro HITS Radio",
+   "url": "https://metrocast.top/hits",
+   "stream": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "english"
+   ],
+   "langCodes": [
+    "bg",
+    "en"
+   ],
+   "state": "Sofia",
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 332,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-love-90s-plus",
+   "name": "Metro Love 90s Plus",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/love80?mp=/MLR90S",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 299,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1-bulgaria",
+   "name": "Radio 1 Bulgaria",
+   "url": "https://radio1.bg/",
+   "stream": "https://play.global.audio:80/radio164",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "90s",
+    "classic-rock"
+   ],
+   "votes": 284,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sweet-radio-bulgaria",
+   "name": "SWEET RADIO - BULGARIA",
+   "url": "https://sweetradio.online/",
+   "stream": "https://stream.sweetradio.online:8001/HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 241,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "onlinedjradio",
+   "name": "onlineDJradio",
+   "url": "",
+   "stream": "https://play.onlinedjradio.com:7000/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "electronic"
+   ],
+   "votes": 225,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-love-80s",
+   "name": "Metro Love 80s",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 189,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bad-rock-radio-1",
+   "name": "Bad Rock Radio 1",
+   "url": "",
+   "stream": "https://play-radio0.jump.bg:7028/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 170,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "city-latin",
+   "name": "City Latin",
+   "url": "https://radioplay.bg/",
+   "stream": "https://play.global.audio/citylatin.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [
+    "latin"
+   ],
+   "votes": 160,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "city-radio-bulgaria",
+   "name": "City Radio Bulgaria",
+   "url": "http://www.city.bg/",
+   "stream": "https://play.global.audio/city.opus",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "english"
+   ],
+   "langCodes": [
+    "bg",
+    "en"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 122,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eilo-techno-radio",
+   "name": "EILO Techno Radio",
+   "url": "https://www.eilo.org/",
+   "stream": "https://eilo.org/streamer.php?ch=techno",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Sofia",
+   "genre": [
+    "techno"
+   ],
+   "votes": 118,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-party-mix",
+   "name": "Radio Party Mix",
+   "url": "https://pozdravite.net/",
+   "stream": "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "София",
+   "genre": [
+    "folk"
+   ],
+   "votes": 118,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deluxe-radio-bulgaria-hq",
+   "name": "Deluxe Radio Bulgaria | HQ",
+   "url": "https://radiomaxxfm.com/",
+   "stream": "https://play.radiomaxxfm.com/deluxe-high",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Sofia - town",
+   "genre": [
+    "ambient",
+    "chillout",
+    "lounge"
+   ],
+   "votes": 117,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zigzag",
+   "name": "Радио Зиг Заг - Най-яките парчета",
+   "url": "https://radio-zigzag.free.bg/",
+   "stream": "https://play.global.audio/radio1-koledahi.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 109,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maxx-fm-bulgaria-hq",
+   "name": "Maxx FM Bulgaria | HQ",
+   "url": "https://radiomaxxfm.com/",
+   "stream": "https://play.radiomaxxfm.com/maxx-high",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Sofia - town",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 103,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dark-wave-radomir",
+   "name": "Dark Wave Radomir",
+   "url": "https://dwr.radio/",
+   "stream": "https://dwrstream.eu/",
+   "codec": "aac",
+   "bitrate": 7,
+   "format": "music",
+   "state": "Pernik",
+   "genre": [
+    "alternative"
+   ],
+   "votes": 93,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "n-joy-bg",
+   "name": "N-Joy BG",
+   "url": "https://njoy.bg/",
+   "stream": "https://cdn.bweb.bg/radio/njoy.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 91,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-top-radio",
+   "name": "Metro Top Radio",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/mgr?mp=/MGR",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 84,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nostalgia",
+   "name": "Radio Nostalgia",
+   "url": "https://notefmbg.free.bg",
+   "stream": "https://sc.mpbnl.nl/radionostalgia.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "bg"
+   ],
+   "state": "Varna",
+   "genre": [
+    "2000s",
+    "pop-music",
+    "pop",
+    "dance"
+   ],
+   "votes": 77,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xraydio-2-your-vintage-jukebox",
+   "name": "XRaydio 2 – Your Vintage Jukebox",
+   "url": "https://xraydio.net/",
+   "stream": "https://xraydio.ddns.net/jukebox",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "state": "Plovdiv",
+   "genre": [
+    "oldies",
+    "funk"
+   ],
+   "votes": 70,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-country-rock",
+   "name": "Metro Country Rock",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/feedb?mp=/CRR64",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eilo-trance-radio",
+   "name": "EILO Trance Radio",
+   "url": "https://www.eilo.org/",
+   "stream": "https://eilo.org/streamer.php?ch=trance",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Sofia",
+   "genre": [
+    "trance"
+   ],
+   "votes": 65,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "badrock-golden-era",
+   "name": "Badrock Golden Era",
+   "url": "https://badrockradio.net/",
+   "stream": "https://streams.badrockradio.net/golden-era",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Bulgaria",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 64,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-radio-2",
+   "name": "Easy Radio",
+   "url": "",
+   "stream": "https://live.easyradio.bg/aac?type=.mp3",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xraydio-1-your-kaleidoscope-of-sounds",
+   "name": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+   "url": "https://xraydio.net/",
+   "stream": "https://xraydio.ddns.net/live",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "state": "Plovdiv",
+   "genre": [
+    "disco",
+    "indie",
+    "techno"
+   ],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "note-fm",
+   "name": "Note FM",
+   "url": "https://notefmbg.free.bg",
+   "stream": "https://sc.mpbnl.nl/notefm.mp3",
+   "codec": "aac",
+   "bitrate": 384,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "bg"
+   ],
+   "state": "Varna",
+   "genre": [
+    "pop-music",
+    "pop",
+    "dance",
+    "dance-music"
+   ],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-country-rock-hd",
+   "name": "Metro Country Rock HD",
+   "url": "https://metrocast.top/",
+   "stream": "https://radio.jump.bg/proxy/feed104?mp=/MSRR",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia",
+   "genre": [
+    "country",
+    "rock"
+   ],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-love",
+   "name": "Metro Love",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/service?mp=/service",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-virtuoso",
+   "name": "Metro Virtuoso",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/mvr?mp=/MVR",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "balkan-radio",
+   "name": "Balkan Radio",
+   "url": "https://balkanradio.com/",
+   "stream": "https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian",
+    "english",
+    "greek",
+    "macedonian"
+   ],
+   "langCodes": [
+    "bg",
+    "el",
+    "en",
+    "mk"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 41,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "badrock-classic-rock-2",
+   "name": "Badrock Classic Rock",
+   "url": "https://badrockradio.net/",
+   "stream": "https://streams.badrockradio.net/classic-rock",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Bulgaria",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 37,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "metro-urban-hits",
+   "name": "Metro Urban Hits",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rap"
+   ],
+   "votes": 37,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-love-00s",
+   "name": "Metro Love 00s",
+   "url": "",
+   "stream": "https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 31,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "muzaica-radio",
+   "name": "Muzaica Radio",
+   "url": "https://muzaica.fm/",
+   "stream": "https://radio.muzaica.fm:9000/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "blues",
+    "dance",
+    "electronic",
+    "funk",
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 26,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "victoria-radio",
+   "name": "Victoria Radio",
+   "url": "https://radiomaxxfm.com/",
+   "stream": "https://play.radiomaxxfm.com/victoriafm",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "state": "Sofia - town",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 26,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "darik-nostalgie",
+   "name": "Darik Nostalgie",
+   "url": "https://dariknostalgie.bg/",
+   "stream": "https://a10.asurahosting.com:7600/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 17,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bulgaria-on-air-103-9-fm",
+   "name": "Радио Bulgaria ON AIR Русе 103.9 FM",
+   "url": "https://www.bgonair.bg/",
+   "stream": "https://live.radio.bgonair.bg/RadioBOA",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-1-1-0-ruse-88-9-fm",
+   "name": "Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM",
+   "url": "https://radio1.bg/",
+   "stream": "https://28933.live.streamtheworld.com/RADIO_1AAC_H.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "99-0-fm",
+   "name": "Радио Вероника Русе 99.0 FM",
+   "url": "https://www.radioveronika.bg/",
+   "stream": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-100-5-fm",
+   "name": "Радио Energy Болгария Русе 100.5 FM",
+   "url": "https://radioenergy.bg/",
+   "stream": "https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-94-4-fm",
+   "name": "Радио FM+ Русе 94.4 FM",
+   "url": "https://radiofmplus.bg/",
+   "stream": "https://pulsar.atlantis.bg:8443/fmplusnew",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "99-7-fm",
+   "name": "Радио Фокус Русе 99.7 FM",
+   "url": "https://www.focus-radio.net/",
+   "stream": "https://focusradio.dataserv.cc/1",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "n-joy-101-6-fm",
+   "name": "Радио N-JOY Русе 101.6 FM",
+   "url": "https://njoy.bg/",
+   "stream": "https://cdn.btv.bg/radio/njoy.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "97-4-fm",
+   "name": "Радио БГ Русе 97.4 FM",
+   "url": "https://www.bgradio.bg/",
+   "stream": "https://27913.live.streamtheworld.com/BG_RADIOAAC_H.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "btv-radio-89-9-fm",
+   "name": "bTV Radio Русе 89.9 FM",
+   "url": "https://btvradio.bg/",
+   "stream": "https://cdn.btv.bg/radio/btv-radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-fresh-ruse-93-6-fm",
+   "name": "Radio Fresh -Ruse 93,6 FM",
+   "url": "https://radiofresh.bg/",
+   "stream": "https://streamer2.atlantis.bg:8443/fresh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "extreme-deep-house-radio",
+   "name": "Extreme Deep House Radio",
+   "url": "https://www.extremedeephouse.com/",
+   "stream": "https://whsh4u-panel.com/proxy/yfryujzw/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1364,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vanilla",
+   "name": "Vanilla",
+   "url": "https://radioplay.bg/",
+   "stream": "https://play.global.audio/vanillahi.aac",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [],
+   "votes": 1359,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "city-hiphop-r-b",
+   "name": "City HipHop R&B",
+   "url": "https://radioplay.bg/",
+   "stream": "https://play.global.audio/cityrabhi.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [],
+   "votes": 775,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "badrock-classic-rock",
+   "name": "BadRock Classic Rock",
+   "url": "https://play-radio0.jump.bg:7489/live",
+   "stream": "https://play-radio0.jump.bg:7489/live",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 579,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova-bulgaria",
+   "name": "Radio Nova Bulgaria",
+   "url": "http://www.radionova.bg/",
+   "stream": "https://play.global.audio/nova.opus",
+   "codec": "ogg",
+   "bitrate": 0,
+   "langs": [
+    "bulgarian",
+    "english"
+   ],
+   "langCodes": [
+    "bg",
+    "en"
+   ],
+   "genre": [],
+   "votes": 554,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioplay-cafe",
+   "name": "Radioplay Cafe",
+   "url": "https://radioplay.bg/",
+   "stream": "https://play.global.audio/cafehi.aac",
+   "codec": "aac",
+   "bitrate": 160,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [],
+   "votes": 428,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bnr-horizont",
+   "name": "BNR Horizont",
+   "url": "https://www.radioplay.bg/?radio=bnr",
+   "stream": "https://play.global.audio/testb.aac?dist=RADIOPLAY",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 426,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zorana-sofia",
+   "name": "Radio Zorana Sofia",
+   "url": "",
+   "stream": "https://radio.jump.bg/proxy/radio12/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 415,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maia",
+   "name": "radio Maia",
+   "url": "https://radiomaia.com/",
+   "stream": "https://radio.rn-tv.com:8000/stream/1/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Burgas",
+   "genre": [],
+   "votes": 414,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "avto-radio",
+   "name": "Avto Radio",
+   "url": "https://www.avtoradio.bg/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 315,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "btv-radio",
+   "name": "bTV Radio",
+   "url": "https://btvradio.bg/",
+   "stream": "https://cdn.bweb.bg/radio/btv-radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 295,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hot-hits-fm",
+   "name": "Hot Hits FM",
+   "url": "https://hothitsfm.com/",
+   "stream": "https://live.hothitsfm.com/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 280,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-veronika",
+   "name": "RADIO VERONIKA",
+   "url": "http://radioveronika.bg/",
+   "stream": "https://play.global.audio/veronika64",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 201,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "city-hiphop-rab",
+   "name": "City HipHop RaB",
+   "url": "https://radioplay.bg/",
+   "stream": "https://play.global.audio/cityrab.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [],
+   "votes": 187,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bgradio",
+   "name": "RADIO BGRADIO",
+   "url": "https://bgradio.bg/",
+   "stream": "https://play.global.audio/bgradio128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 144,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-fm",
+   "name": "Jazz FM",
+   "url": "https://jazzfm.bg/",
+   "stream": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 136,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "folk-mix",
+   "name": "folk mix",
+   "url": "https://radiofolkmix.com/",
+   "stream": "https://listen.radiofolkmix.com/folkmixios",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 130,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "novanews-bulgaria",
+   "name": "NovaNews Bulgaria",
+   "url": "https://nova.bg/news",
+   "stream": "https://play.global.audio/novanews.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 127,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-strimonika",
+   "name": "Radio Strimonika",
+   "url": "",
+   "stream": "https://play-radio0.jump.bg:7666/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 122,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sunny-beach-radio",
+   "name": "Sunny Beach Radio",
+   "url": "https://www.facebook.com/SunnyBeachRadio.Bulgaria/",
+   "stream": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 122,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "darik",
+   "name": "Darik",
+   "url": "https://darik.bg/",
+   "stream": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 89,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easyradio-bg-flac",
+   "name": "EasyRadio.Bg (FLAC)",
+   "url": "https://easyradio.bg/",
+   "stream": "https://c30.radioboss.fm:8758/live",
+   "codec": "ogg",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 76,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xraydio-3-your-rock-roll-partner-in-crime",
+   "name": "XRaydio 3 – Your Rock & Roll Partner In Crime",
+   "url": "https://xraydio.net/",
+   "stream": "https://xraydio.ddns.net/xraydio3",
+   "codec": "aac",
+   "bitrate": 160,
+   "state": "Plovdiv",
+   "genre": [],
+   "votes": 66,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-contact",
+   "name": "Radio Contact",
+   "url": "",
+   "stream": "https://listen.radioking.com/radio/490082/stream/546899",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 59,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ruse",
+   "name": "Radio Ruse",
+   "url": "https://radioruse.com/",
+   "stream": "https://radio.ruse.bg:8010/radioruse",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Ruse",
+   "genre": [],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "classic-fm",
+   "name": "Classic FM",
+   "url": "http://www.classicfm.bg/",
+   "stream": "https://cdn.bweb.bg/radio/classic-fm.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fred-film-radio",
+   "name": "Fred Film Radio(Български език)",
+   "url": "http://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 36,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kolednoto-radio",
+   "name": "KOLEDNOTO RADIO",
+   "url": "https://www.radioplay.bg/?radio=koledno",
+   "stream": "https://play.global.audio/radio1-koleda.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-dance-radio-hd",
+   "name": "Metro Dance Radio HD",
+   "url": "https://metrocast.top/dance/",
+   "stream": "https://radio.jump.bg/proxy/predp?mp=/MDR",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-love-xmas-radio",
+   "name": "Metro Love Xmas Radio",
+   "url": "https://metrocast.top/",
+   "stream": "https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-radio-bg",
+   "name": "Easy Radio BG",
+   "url": "https://live.easyradio.bg/192?type=.mp3",
+   "stream": "https://live.easyradio.bg/192?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nova",
+   "name": "Radio Nova",
+   "url": "https://www.radionova.bg/",
+   "stream": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "Sofia City",
+   "genre": [],
+   "votes": 9,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fusion7",
+   "name": "Fusion7",
+   "url": "https://radio.palamarka.com/public/fusion7",
+   "stream": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Плевен",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "njs-radio-new-jack-swing",
+   "name": "NJS Radio - New Jack Swing",
+   "url": "https://njsradio.com/",
+   "stream": "https://stream.njsradio.com/njs",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "energy-90s",
+   "name": "Energy 90s",
+   "url": "https://radioenergy.bg/",
+   "stream": "https://play.global.audio/energy-90s",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-lagoshevtsi",
+   "name": "Radio Lagoshevtsi",
+   "url": "https://lagushevtsi.com/",
+   "stream": "https://radio.vidinlan.com/mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "state": "vidin",
+   "genre": [],
+   "votes": 4,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veronika-6-bez-10",
+   "name": "Veronika 6 bez 10",
+   "url": "http://www.radioveronika.bg/",
+   "stream": "https://play.global.audio/6bez10.aac",
+   "codec": "aac",
+   "bitrate": 56,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "glarus-retro-fm",
+   "name": "Glarus Retro FM",
+   "url": "https://glarusretro.com/",
+   "stream": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eye-see-chaos-radio-station",
+   "name": "EYE SEE CHAOS RADIO STATION",
+   "url": "https://eyeseechaos.net/",
+   "stream": "https://radio.eyeseechaos.net/listen/eye_see_chaos_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "katra-fm",
+   "name": "KATRA FM",
+   "url": "https://katrafm.com/",
+   "stream": "https://live.katrafm.com/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-zara",
+   "name": "Radio ZARA",
+   "url": "https://www.radiozara.bg/",
+   "stream": "https://www.radiozara.bg/play",
+   "codec": "aac",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "veselina-retro",
+   "name": "Veselina Retro",
+   "url": "https://www.radioveselina.bg/",
+   "stream": "https://nova-radio.neterra.tv/veselinaretro",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "bulgarian"
+   ],
+   "langCodes": [
+    "bg"
+   ],
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dj-zone-house-radio-24-7",
+   "name": "DJ ZONE HOUSE RADIO 24/7",
+   "url": "https://djzone.mobi/",
+   "stream": "https://stream.djzone.mobi/djzone",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-lounge-radio",
+   "name": "KISS LOUNGE RADIO",
+   "url": "https://play.nova.bg/video/kisschristmas/611102",
+   "stream": "https://nova-radio.neterra.tv/kiss",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lozenets-radio",
+   "name": "Lozenets Radio",
+   "url": "https://new-age.listen2myshow.com/",
+   "stream": "https://c18.radioboss.fm/stream/784",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

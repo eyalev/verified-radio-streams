@@ -1,0 +1,44 @@
+{
+ "countryCode": "AQ",
+ "country": "Antarctica",
+ "slug": "antarctica",
+ "continent": "antarctica",
+ "stationCount": 2,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/antarctica/",
+ "stations": [
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "pastacast",
+   "name": "pastacast",
+   "url": "https://radio.nudel.cc/public/pastacast",
+   "stream": "https://radio.nudel.cc/listen/pastacast/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 7,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

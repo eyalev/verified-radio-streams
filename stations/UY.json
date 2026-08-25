@@ -1,0 +1,407 @@
+{
+ "countryCode": "UY",
+ "country": "Uruguay",
+ "slug": "uruguay",
+ "continent": "americas",
+ "stationCount": 22,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/uruguay/",
+ "stations": [
+  {
+   "id": "radio-pipi-cucu",
+   "name": "Radio Pipí Cucú",
+   "url": "https://fediverse.blog/~/RadioPip%C3%ADCuc%C3%BA",
+   "stream": "https://comodin.uy/radio/8000/320.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Montevideo",
+   "genre": [
+    "popular"
+   ],
+   "votes": 1172,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "babel",
+   "name": "Babel",
+   "url": "https://babel.uy/",
+   "stream": "https://radios.iwstreaming.uy/8030/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "instrumental",
+    "jazz",
+    "music"
+   ],
+   "votes": 661,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "concierto-fm-95-1",
+   "name": "Concierto FM 95.1",
+   "url": "https://www.conciertofm.com/",
+   "stream": "https://conectperu.com/8012/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Punta del Este, Maldonado",
+   "genre": [
+    "dance",
+    "reggaeton",
+    "rock"
+   ],
+   "votes": 580,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "azul-fm-101-9",
+   "name": "Azul FM 101.9",
+   "url": "https://azulfm.com.uy/",
+   "stream": "https://azul-2.nty.uy/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "alternative",
+    "musica",
+    "rock"
+   ],
+   "votes": 568,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-hit-90-3-uruguay",
+   "name": "FM HIT 90.3 Uruguay",
+   "url": "https://fmhit.uy/",
+   "stream": "https://hit-1.nty.uy/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "Montevideo",
+   "genre": [
+    "oldies",
+    "pop",
+    "rock"
+   ],
+   "votes": 191,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zorrilla-de-san-martin",
+   "name": "Zorrilla de San Martin",
+   "url": "",
+   "stream": "https://server-usa2.radioseninternet.net/9312/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 191,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "oceano-fm",
+   "name": "Oceano FM",
+   "url": "https://oceanofm.com/",
+   "stream": "https://oceano-2.nty.uy/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 135,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "102-3-fm-coronilla",
+   "name": "102.3 FM CORONILLA",
+   "url": "https://fmcoronilla.uy/",
+   "stream": "https://streaming01.shockmedia.com.ar/9184/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "reggaeton",
+    "rock"
+   ],
+   "votes": 125,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "laser-fm",
+   "name": "Laser FM",
+   "url": "http://www.laserfm.com.uy/",
+   "stream": "https://server.laradio.online/proxy/eduardo_correa?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "musica"
+   ],
+   "votes": 123,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm-inolvidable-93-1",
+   "name": "Fm Inolvidable 93.1",
+   "url": "",
+   "stream": "https://inolvidable-2.nty.uy/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1960,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "el-espectador-810",
+   "name": "El Espectador 810",
+   "url": "https://espectador.com/",
+   "stream": "https://espectador-1.nty.uy/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 838,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-uruguay-1050",
+   "name": "Radio Uruguay 1050",
+   "url": "https://radiouruguay.uy/",
+   "stream": "https://radios.iwstreaming.uy/8036/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 664,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "970-universal",
+   "name": "970 Universal",
+   "url": "https://970universal.com/",
+   "stream": "https://970universal-3.nty.uy/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 287,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "clasica-650-am",
+   "name": "Clásica 650 AM",
+   "url": "https://clasica.uy/",
+   "stream": "https://radios.iwstreaming.uy/8032/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 258,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sarandi-690",
+   "name": "Sarandi 690",
+   "url": "https://www.sarandi690.com.uy/",
+   "stream": "https://radiolatina.live:10977/sarandi",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 235,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "emisora-del-sur",
+   "name": "Emisora del Sur",
+   "url": "https://emisoradelsur.uy/",
+   "stream": "https://radios.iwstreaming.uy/8034/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 226,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "metropolis-104-9",
+   "name": "Metropolis 104.9",
+   "url": "",
+   "stream": "https://metropolis-web-1.nty.uy/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 172,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "del-sol-fm",
+   "name": "Del Sol FM",
+   "url": "https://delsol.uy/",
+   "stream": "https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Montevideo",
+   "genre": [],
+   "votes": 169,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cx-580-radio-rural",
+   "name": "CX 580 Radio Rural",
+   "url": "https://radiorural.uy/",
+   "stream": "https://radiolatina.live/9206/stream",
+   "codec": "mp3",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 132,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-pipi-cucu-128-kbps",
+   "name": "Radio Pipí Cucú (128 kbps)",
+   "url": "https://fediverse.blog/~/RadioPip%C3%ADCuc%C3%BA",
+   "stream": "https://comodin.uy/radio/8000/128.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Montevideo",
+   "genre": [],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-carmelo",
+   "name": "Radio Carmelo",
+   "url": "https://www.radiocarmelo.com/",
+   "stream": "https://server.laradio.online/proxy/martin_barragan05?mp=/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 121,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cx-46-radio-america",
+   "name": "CX 46 Radio America",
+   "url": "https://www.cx46.com.uy/",
+   "stream": "https://america-2.nty.uy/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 97,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

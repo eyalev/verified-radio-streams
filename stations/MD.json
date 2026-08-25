@@ -1,0 +1,1000 @@
+{
+ "countryCode": "MD",
+ "country": "Moldova",
+ "slug": "moldova",
+ "continent": "europe",
+ "stationCount": 58,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/moldova/",
+ "stations": [
+  {
+   "id": "kiss-fm-moldova",
+   "name": "Kiss FM Moldova",
+   "url": "https://www.kissfm.md/",
+   "stream": "https://live.kissfm.md/kissfm.chisinau",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "moldovian"
+   ],
+   "genre": [
+    "top-hits"
+   ],
+   "votes": 1361,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jurnal-fm",
+   "name": "Jurnal Fm",
+   "url": "https://jurnalfm.md/",
+   "stream": "https://audio.jurnalfm.md/hq",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "moldovian",
+    "romanian",
+    "russian"
+   ],
+   "langCodes": [
+    "ro",
+    "ru"
+   ],
+   "genre": [
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 742,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "megapolis-fm",
+   "name": "Megapolis Fm",
+   "url": "https://megapolisfm.md/",
+   "stream": "https://megapolisfm.md:8443/886",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "moldovian",
+    "romanian",
+    "russian"
+   ],
+   "langCodes": [
+    "ro",
+    "ru"
+   ],
+   "state": "Chișinău",
+   "genre": [
+    "dance",
+    "electronic",
+    "house"
+   ],
+   "votes": 627,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-zum-2",
+   "name": "Radio ZUM 2",
+   "url": "https://radiozum.md/",
+   "stream": "https://streams.radiozum.md/listen/zum2/ZUM2",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "moldovian",
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "2000s",
+    "hits",
+    "pop"
+   ],
+   "votes": 247,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-zum-1",
+   "name": "Radio ZUM 1",
+   "url": "https://radiozum.md/",
+   "stream": "https://streams.radiozum.md/listen/zum1/ZUM1",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "moldovian",
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 155,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova",
+   "name": "Radio ROKS Moldova",
+   "url": "https://www.radioroks.md/",
+   "stream": "https://stream.dixi.md:9443/Roks",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Chișinău",
+   "genre": [
+    "rock"
+   ],
+   "votes": 111,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-zum4",
+   "name": "Radio ZUM4",
+   "url": "https://www.radiozum.md/",
+   "stream": "https://streams.radiozum.md/listen/zum4/ZUM4",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "state": "Chișinău",
+   "genre": [
+    "lounge",
+    "relax"
+   ],
+   "votes": 81,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "smile-fm",
+   "name": "Smile FM",
+   "url": "https://www.smilefm.md/",
+   "stream": "https://sonicssl.namehost.ro/8050/;",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-2000s-hits",
+   "name": "Hit FM 2000s HITS",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian"
+   ],
+   "langCodes": [
+    "en",
+    "ru"
+   ],
+   "genre": [
+    "2000s"
+   ],
+   "votes": 60,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kiss-fm-chisinau",
+   "name": "Kiss FM Chișinău",
+   "url": "https://www.kissfm.md/",
+   "stream": "https://dc.digi.live.kissfm.ro/kissfm.chisinau",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 24,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-plai",
+   "name": "Radio Plai",
+   "url": "https://www.radioplai.md/",
+   "stream": "https://stream.radioplai.md/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 22,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-moldova",
+   "name": "Radio Moldova",
+   "url": "https://radiomoldova.md/",
+   "stream": "https://www.radio.md/stream/radiomoldovanews",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 21,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-relax-jazz-blues",
+   "name": "Radio Relax - Jazz & Blues",
+   "url": "https://radiorelax.md/",
+   "stream": "https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "blues",
+    "jazz"
+   ],
+   "votes": 19,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "master-class-fm-md",
+   "name": "Master Class FM (MD)",
+   "url": "",
+   "stream": "https://listen3.myradio24.com/master1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 16,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ai-nostri",
+   "name": "Radio Ai Noștri",
+   "url": "https://www.ainostri.com/",
+   "stream": "https://s5.radio.co/sfd9f42d1d/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vibefm",
+   "name": "VibeFM",
+   "url": "https://www.vibefm.md/",
+   "stream": "https://stream.radio.co/s6a544f6c9/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "dance",
+    "electronic"
+   ],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "focul-din-vatra",
+   "name": "Focul din Vatră",
+   "url": "https://aiciascult.eu/",
+   "stream": "https://aiciascult.eu/radio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 12,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-trance-hits",
+   "name": "HIT FM Trance Hits",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio3.dixi.md/listen/hit_fm_trance/trance128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "trance"
+   ],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "deepnova-radio-dancenova",
+   "name": "DeepNova Radio - DanceNova",
+   "url": "https://deepnovaradio.com/ro/blog/radiochannel/best-dance-house/",
+   "stream": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "edm"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-latino-hits",
+   "name": "HIT FM Latino Hits",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "portuguese",
+    "spanish"
+   ],
+   "langCodes": [
+    "es",
+    "pt"
+   ],
+   "genre": [
+    "latin",
+    "pop"
+   ],
+   "votes": 5,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-new-rock",
+   "name": "Radio ROKS (Moldova) - New Rock",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio6.dixi.md/listen/new_rock/new_rock128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 5,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-rock-tricolor",
+   "name": "Radio ROKS (Moldova) - Rock Tricolor",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-eurovision-hits",
+   "name": "HIT FM Eurovision Hits",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "moldovian",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "ro"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "top-hits"
+   ],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-workout",
+   "name": "Radio ROKS (Moldova) - Workout",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio6.dixi.md/listen/workout_rock/workout.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-tricolor-de-hituri",
+   "name": "HIT FM Tricolor de Hituri",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-relax-funk-soul",
+   "name": "Radio Relax - Funk & Soul",
+   "url": "https://radiorelax.md/",
+   "stream": "https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "funk",
+    "soul"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-relax-tricolor",
+   "name": "Radio Relax - Tricolor",
+   "url": "https://radiorelax.md/",
+   "stream": "https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "romanian"
+   ],
+   "langCodes": [
+    "ro"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-classic-rock",
+   "name": "Radio ROKS (Moldova) - Classic Rock",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "realitatea-fm",
+   "name": "Realitatea FM",
+   "url": "https://realitatea.md/realitatea-fm/",
+   "stream": "https://radio.realitatea.group/realitatea",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "oldies",
+    "pop"
+   ],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "city-fm",
+   "name": "CITY FM",
+   "url": "https://cityfm.md/",
+   "stream": "https://live.cityfm.md:8001/cityfm",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-pop-rock",
+   "name": "Radio ROKS (Moldova) - Pop Rock",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio6.dixi.md/listen/pop_rock/pop_rock.acc",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop-rock"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "imago-fm",
+   "name": "IMAGO.FM",
+   "url": "https://imago.fm/",
+   "stream": "https://radio.imago.fm:8007/_a",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "alternative",
+    "indie",
+    "jazz",
+    "pop",
+    "rock"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiobeat",
+   "name": "RadioBEAT",
+   "url": "https://radiobeat.md/",
+   "stream": "https://ssl.omegahost.ro/9998/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-orchestral-classics",
+   "name": "HIT FM Orchestral Classics",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio7.dixi.md/listen/orchestral-classics/orchestral-classics.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-vintage",
+   "name": "Radio Vintage",
+   "url": "https://radiovintage.md/",
+   "stream": "https://live.radiovintage.md/vintage_main",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "90s"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-noroc-moldova",
+   "name": "Radio Noroc Moldova",
+   "url": "https://www.radionoroc.md/",
+   "stream": "https://stream.noroc.tv/radionoroc_aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 1379,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "retro-fm-moldova",
+   "name": "Retro FM Moldova",
+   "url": "https://retrofm.md/",
+   "stream": "https://efir.retrofm.md:8000/retro",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "romanian",
+    "russian"
+   ],
+   "langCodes": [
+    "ro",
+    "ru"
+   ],
+   "state": "Chișinău",
+   "genre": [],
+   "votes": 521,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rfi-moldova",
+   "name": "Radio RFI Moldova",
+   "url": "http://www.rfi.ro/r-moldova",
+   "stream": "https://asculta.radiorfi.ro/live.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english",
+    "french",
+    "romanian"
+   ],
+   "langCodes": [
+    "en",
+    "fr",
+    "ro"
+   ],
+   "genre": [],
+   "votes": 399,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "muz-fm-moldova",
+   "name": "Muz FM Moldova",
+   "url": "https://muzfm.md/",
+   "stream": "https://live.muzfm.md/muzfm",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 398,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-hot-hits",
+   "name": "Hit FM Hot Hits",
+   "url": "http://hitfm.md/",
+   "stream": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 259,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-best-hits",
+   "name": "Hit FM Best Hits",
+   "url": "http://hitfm.md/",
+   "stream": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 225,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm",
+   "name": "HIT FM Русский Хит",
+   "url": "https://hitfm.md/ru",
+   "stream": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "молдавский",
+    "язык:-русский"
+   ],
+   "genre": [],
+   "votes": 199,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-dance",
+   "name": "Hit FM Dance",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 170,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-drive-mode",
+   "name": "Hit Fm Drive Mode",
+   "url": "http://hitfm.md/",
+   "stream": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 115,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-summer-hits",
+   "name": "Hit FM Summer Hits",
+   "url": "http://hitfm.md/",
+   "stream": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 108,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "891fm",
+   "name": "Первое радио в вашем мобильном",
+   "url": "https://www.891fm.co.il/",
+   "stream": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 74,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sex-sound-radio",
+   "name": "Sex Sound Radio",
+   "url": "https://sexsoundradio.com/",
+   "stream": "https://sexsoundradio.com:8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 39,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "deepnova-radio",
+   "name": "DeepNova Radio",
+   "url": "https://deepnovaradio.com/blog/radiochannel/deepnova-320/",
+   "stream": "https://a8.asurahosting.com:8820/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-muzfm",
+   "name": "RADIO MUZFM",
+   "url": "https://muzfm.md/",
+   "stream": "https://live.muzfm.md//muzfmhd",
+   "codec": "aac",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-relax-versiuni-acustice",
+   "name": "Radio Relax - Versiuni Acustice",
+   "url": "https://radiorelax.md/",
+   "stream": "https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-indie-rock",
+   "name": "Radio ROKS (Moldova) - Indie Rock",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio6.dixi.md/listen/indie_rock/indie_rock.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hit-fm-k-pop-hits",
+   "name": "HIT FM K-Pop Hits",
+   "url": "https://hitfm.md/",
+   "stream": "https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "korean"
+   ],
+   "langCodes": [
+    "ko"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-relax-vinopizza",
+   "name": "Radio Relax - VinoPizza",
+   "url": "https://radiorelax.md/",
+   "stream": "https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "italian"
+   ],
+   "langCodes": [
+    "it"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "glowwave-fm",
+   "name": "Glowwave-FM",
+   "url": "https://glowlinks.net/radio",
+   "stream": "https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1",
+   "codec": "ogg",
+   "bitrate": 0,
+   "state": "Chişinǎu",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-cafe-moldova",
+   "name": "Radio Cafe Moldova",
+   "url": "https://radiocafe.md/",
+   "stream": "https://play.radiocafe.md:7000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-relax-lo-fi",
+   "name": "Radio Relax - lo-fi",
+   "url": "https://radiorelax.md/",
+   "stream": "https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-hard-n-heavy",
+   "name": "Radio ROKS (Moldova) - Hard'n'Heavy",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-roks-moldova-rock-ballads",
+   "name": "Radio ROKS (Moldova) - Rock Ballads",
+   "url": "https://radioroks.md/",
+   "stream": "https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

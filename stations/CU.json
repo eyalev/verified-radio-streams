@@ -1,0 +1,189 @@
+{
+ "countryCode": "CU",
+ "country": "Cuba",
+ "slug": "cuba",
+ "continent": "americas",
+ "stationCount": 10,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/cuba/",
+ "stations": [
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 1931,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-campesina-cubana",
+   "name": "Radio Campesina Cubana",
+   "url": "https://radioscuba.com/312-radio-campesina-cubana.html",
+   "stream": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-08-21_15-54-32&uuid=f27d83f9-8947-4c58-ac38-cabdd2fae52f",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Habana",
+   "genre": [
+    "salsa"
+   ],
+   "votes": 127,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cubania-radio",
+   "name": "Cubania Radio",
+   "url": "https://radiosdecuba.com/cubania/",
+   "stream": "https://streamingv2.shoutcast.com/cubania?type=.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 623,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "canal-radio-cruces-cienfuegos",
+   "name": "Canal Radio Cruces Cienfuegos",
+   "url": "https://canalradio.caster.fm/",
+   "stream": "https://stream.laut.fm/canalradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espanish"
+   ],
+   "genre": [],
+   "votes": 616,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-costa-archipielago-uno",
+   "name": "Rádio Costa (Archipiélago Uno)",
+   "url": "https://radio.archipielago.uno/",
+   "stream": "https://radio.archipielago.uno/radiocosta",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espaňol"
+   ],
+   "genre": [],
+   "votes": 174,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 133,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rebelde-1180-am",
+   "name": "Radio Rebelde 1180 AM",
+   "url": "https://radiorebelde.cu/",
+   "stream": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "La Habana",
+   "genre": [],
+   "votes": 44,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-habana-cuba-102-5-fm",
+   "name": "Radio Habana Cuba 102.5 FM",
+   "url": "https://radiohc.cu/",
+   "stream": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/McW3fLhs",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "arabic",
+    "creol",
+    "english",
+    "esperanto"
+   ],
+   "langCodes": [
+    "ar",
+    "en",
+    "eo",
+    "es"
+   ],
+   "state": "La Habana",
+   "genre": [],
+   "votes": 26,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-progreso-90-3-fm",
+   "name": "Radio Progreso 90.3 FM",
+   "url": "https://www.radioprogreso.icrt.cu/",
+   "stream": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "La Habana",
+   "genre": [],
+   "votes": 24,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-maria-de-la-caridad",
+   "name": "Radio María de la Caridad",
+   "url": "https://soloist.ai/radiomariadelacaridad",
+   "stream": "https://usa6.fastcast4u.com/proxy/aserranog/stream",
+   "codec": "mp3",
+   "bitrate": 80,
+   "state": "Santiago de Cuba",
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

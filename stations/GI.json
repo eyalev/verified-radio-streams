@@ -1,0 +1,98 @@
+{
+ "countryCode": "GI",
+ "country": "Gibraltar",
+ "slug": "gibraltar",
+ "continent": "europe",
+ "stationCount": 6,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/gibraltar/",
+ "stations": [
+  {
+   "id": "gbc-radio-gibraltar",
+   "name": "GBC Radio Gibraltar",
+   "url": "https://www.gbc.gi/radio",
+   "stream": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 695,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radioseu",
+   "name": "RadioSeu",
+   "url": "https://www.radioseu.cat/",
+   "stream": "https://streaming.enacast.com/radiolaseu128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-gibraltar-plus-100-5",
+   "name": "Radio Gibraltar Plus 100.5",
+   "url": "https://www.gbc.gi/radio/#RadioGibraltarPlusFM",
+   "stream": "https://s2.myradiostream.com/32910/listen.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 43,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "alpha-fm",
+   "name": "Alpha FM",
+   "url": "https://goiania.alphafm.com.br/index/inicio",
+   "stream": "https://ice.fabricahost.com.br/alphafm1021",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 33,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiogibraltar-mw",
+   "name": "RadioGibraltar MW",
+   "url": "https://www.gbc.gi/radio/#RadioGibraltar",
+   "stream": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

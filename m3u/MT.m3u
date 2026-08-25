@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Malta" tvg-genre="music",Calypso Radio
+https://s4.radio.co/sf3aa4c25a/listen
+#EXTINF:-1 group-title="Malta" tvg-genre="country",MALTIN BISS
+https://s4.voscast.com:8837/default
+#EXTINF:-1 group-title="Malta",Bay Easy 100.2
+https://stream.v3.network/proxy/easy/stream.mp3
+#EXTINF:-1 group-title="Malta",Bay 89.7
+https://stream.v3.network/proxy/897bay/stream.mp3?_=1
+#EXTINF:-1 group-title="Malta",Campus 103.7
+https://campusfm.radioca.st/campusfm_live
+#EXTINF:-1 group-title="Malta",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Malta",89.7 Bay
+https://stream.v3.network/proxy/897bay/stream.mp3

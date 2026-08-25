@@ -1,0 +1,335 @@
+{
+ "countryCode": "HN",
+ "country": "Honduras",
+ "slug": "honduras",
+ "continent": "americas",
+ "stationCount": 18,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/honduras/",
+ "stations": [
+  {
+   "id": "vox-fm",
+   "name": "VOX FM",
+   "url": "https://streamdb3web.securenetsystems.net/cirrusencore/VOXFM",
+   "stream": "https://ice42.securenetsystems.net/VOXFM",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1848,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-n-pop",
+   "name": "ROCK N' POP",
+   "url": "https://streamdb3web.securenetsystems.net/cirrusencore/ROCKNPOP",
+   "stream": "https://ice42.securenetsystems.net/ROCKNPOP",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 1257,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-top-102-9-fm-san-pedro-sula-honduras",
+   "name": "La Top 102.9 FM - San Pedro Sula, Honduras",
+   "url": "https://www.latop.hn/",
+   "stream": "https://us9.maindigitalstream.com/ssl/latop102",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "San Pedro Sula",
+   "genre": [
+    "music"
+   ],
+   "votes": 338,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm-musica-pop-en-espanol-e-ingles",
+   "name": "EXA FM: Música Pop en Español e Inglés",
+   "url": "https://exafm.com/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Veracruz, México",
+   "genre": [
+    "music",
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 277,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estereo-clasica",
+   "name": "Estereo Clásica",
+   "url": "https://www.estereoclasica.com/",
+   "stream": "https://streaming.radio.co/s0c06b7076/listen",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "classic-hits",
+    "music",
+    "oldies"
+   ],
+   "votes": 206,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "girasol-stereo-102-3-fm",
+   "name": "Girasol Stereo 102.3 FM",
+   "url": "https://radiogirasolfm.girasolradiotvhn.com/",
+   "stream": "https://stream.playerlive.info:8037/live.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "cumbia",
+    "music"
+   ],
+   "votes": 96,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "estereo-sur-91-3-fm",
+   "name": "Estereo Sur 91.3 FM",
+   "url": "https://radiovolna.net/en/428799-estereo-sur.html",
+   "stream": "https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 91,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-hrn-la-voz-de-honduras",
+   "name": "Radio HRN La Voz de Honduras",
+   "url": "https://radiohrn.hn/",
+   "stream": "https://ice42.securenetsystems.net/HRN",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tegucigalpa",
+   "genre": [],
+   "votes": 6487,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-globo-88-5-hn",
+   "name": "Radio Globo 88.5 HN",
+   "url": "https://radioglobohonduras.com/",
+   "stream": "https://stream.radiosmundiales.com:8016/GLOBO885",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 1037,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gd-dubai",
+   "name": "GD Dubai",
+   "url": "https://exclusive.radio/how-to-listen/",
+   "stream": "https://streaming.exclusive.radio/er/gratefuldead/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Just Dubai",
+   "genre": [],
+   "votes": 656,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-radio-global",
+   "name": "LA RADIO GLOBAL",
+   "url": "https://infinityradiohn.com/",
+   "stream": "https://sonicpanel.us/8022/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 106,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "otoro-radio",
+   "name": "Otoro Radio",
+   "url": "https://radios.hn/",
+   "stream": "https://stream.playerlive.info:8089/live.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 86,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cortes-fm",
+   "name": "Cortes FM",
+   "url": "https://radios.hn/",
+   "stream": "https://cortesfm-zikoxweb.radioca.st/stream/1/",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "stereo-dimension-la-96",
+   "name": "Stereo Dimensión - La 96",
+   "url": "https://crh.hn/",
+   "stream": "https://rr5100.globalhost1.com:7328/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 77,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-progreso-hn",
+   "name": "Radio Progreso HN",
+   "url": "https://www.radioprogresohn.net/",
+   "stream": "https://streamingcwsradio30.com:7045/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "state": "Tegucigalpa",
+   "genre": [],
+   "votes": 74,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "stereo-luz",
+   "name": "Stereo Luz",
+   "url": "https://estereoluz.com/",
+   "stream": "https://stream.playerlive.info:8081/;",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "genre": [],
+   "votes": 45,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lht-fm-104-1",
+   "name": "LHT FM 104.1",
+   "url": "https://lhtoficial.com/",
+   "stream": "https://ice26.securenetsystems.net/LHTFM",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "engish"
+   ],
+   "genre": [],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

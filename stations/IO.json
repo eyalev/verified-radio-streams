@@ -1,0 +1,86 @@
+{
+ "countryCode": "IO",
+ "country": "British Indian Ocean Territory",
+ "slug": "british-indian-ocean-territory",
+ "continent": null,
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/british-indian-ocean-territory/",
+ "stations": [
+  {
+   "id": "tick-tock-radio-2022",
+   "name": "Tick Tock Radio - 2022",
+   "url": "https://ticktock.radio/",
+   "stream": "https://streaming.ticktock.radio/tt/2022/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Pangea",
+   "genre": [
+    "music"
+   ],
+   "votes": 290,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tick-tock-radio-1993",
+   "name": "Tick Tock Radio - 1993",
+   "url": "https://ticktock.radio/",
+   "stream": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Pangea",
+   "genre": [
+    "music"
+   ],
+   "votes": 113,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tick-tock-radio-1992",
+   "name": "Tick Tock Radio - 1992",
+   "url": "https://ticktock.radio/",
+   "stream": "https://streaming.ticktock.radio/tt/1992/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Pangea",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 93,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tick-tock-radio-1994",
+   "name": "Tick Tock Radio - 1994",
+   "url": "https://ticktock.radio/",
+   "stream": "https://streaming.ticktock.radio/tt/1994/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Pangea",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 91,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

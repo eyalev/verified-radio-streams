@@ -1,0 +1,814 @@
+{
+ "countryCode": "JP",
+ "country": "Japan",
+ "slug": "japan",
+ "continent": "asia",
+ "stationCount": 47,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/japan/",
+ "stations": [
+  {
+   "id": "listen-moe-jpop-vorbis",
+   "name": "Listen.Moe JPop Vorbis",
+   "url": "https://listen.moe/",
+   "stream": "https://listen.moe/stream",
+   "codec": "ogg",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "japanese"
+   ],
+   "langCodes": [
+    "en",
+    "ja"
+   ],
+   "genre": [
+    "jpop"
+   ],
+   "votes": 3312,
+   "clicks": 24,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gensokyo-radio",
+   "name": "Gensokyo Radio",
+   "url": "https://gensokyoradio.net/",
+   "stream": "https://stream.gensokyoradio.net/3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "anime"
+   ],
+   "votes": 2363,
+   "clicks": 36,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "r-a-dio",
+   "name": "R/a/dio",
+   "url": "http://r-a-d.io/",
+   "stream": "https://relay0.r-a-d.io/main.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "anime",
+    "jpop"
+   ],
+   "votes": 2222,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "big-b-radio-jpop",
+   "name": "Big B Radio - Jpop",
+   "url": "https://bigbradio.net/jpop",
+   "stream": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 737,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-rock-powerplay-asia-dream-radio",
+   "name": "J-Rock Powerplay(Asia DREAM Radio)",
+   "url": "http://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3340/;?shoutcast",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 463,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-pop-powerplay-kawaii-asia-dream-radio",
+   "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+   "url": "http://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3060/;?shoutcast",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 401,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fm",
+   "name": "FM世田谷",
+   "url": "https://fmsetagaya.com/",
+   "stream": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "state": "tokyo",
+   "genre": [
+    "music"
+   ],
+   "votes": 400,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ashiyaradio",
+   "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+   "url": "https://ashiya.radio/",
+   "stream": "https://s3.radio.co/sc8d895604/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 294,
+   "clicks": 22,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wvvv-v96-9",
+   "name": "WVVV V96.9",
+   "url": "https://www.v969radio.net/",
+   "stream": "https://ice5.securenetsystems.net/WVVVFM",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 269,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "tilderadio",
+   "name": "tilderadio",
+   "url": "https://tilderadio.org/",
+   "stream": "https://tilderadio.org/listen",
+   "codec": "ogg",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 242,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-club-powerplay-hiphop-asia-dream-radio",
+   "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+   "url": "http://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3350/;?shoutcast",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 194,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-club-club-bandstand",
+   "name": "J-Club Club Bandstand",
+   "url": "https://asiadreamradio.com/",
+   "stream": "https://cast1.torontocast.com:2060/;.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 192,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-quran",
+   "name": "#Radio Quran",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 142,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gotanno-fm-89-2",
+   "name": "Gotanno FM 89.2",
+   "url": "https://stcat.com/",
+   "stream": "https://radio.gotanno.love/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "state": "Tokyo",
+   "genre": [
+    "jpop"
+   ],
+   "votes": 108,
+   "clicks": 30,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-pop-sakura-asia-dream-radio",
+   "name": "J-Pop Sakura (asia DREAM radio)",
+   "url": "https://asiadreamradio.com/",
+   "stream": "https://quincy.torontocast.com:2070/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "jpop",
+    "oldies"
+   ],
+   "votes": 97,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sound-up-station-nfrs",
+   "name": "SOUND UP STATION NFRS",
+   "url": "https://www.nfrsradio.com/",
+   "stream": "https://stream2.rcast.net/70945",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "state": "Osaka",
+   "genre": [
+    "indie",
+    "jpop"
+   ],
+   "votes": 84,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hitsujikai-radio",
+   "name": "羊飼いラジオ Hitsujikai Radio",
+   "url": "https://www.hitsujikai-radio.com/",
+   "stream": "https://streaming.radio.co/se4a8e6a93/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Hokaido",
+   "genre": [
+    "classical"
+   ],
+   "votes": 59,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "asia-dream-radio-japan-hits",
+   "name": "asia DREAM radio - Japan Hits",
+   "url": "https://asiadreamradio.com/",
+   "stream": "https://quincy.torontocast.com:2020/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [
+    "jpop",
+    "pop"
+   ],
+   "votes": 53,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "stereo-anime",
+   "name": "stereo anime",
+   "url": "https://www.stereoanime.com/",
+   "stream": "https://radio.stereoanime.com/listen/stereoanime/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "japanese",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es",
+    "ja"
+   ],
+   "state": "tokyo",
+   "genre": [
+    "anime"
+   ],
+   "votes": 51,
+   "clicks": 36,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nfrs-radio",
+   "name": "NFRS Radio",
+   "url": "https://www.nfrsradio.com/",
+   "stream": "https://securestreams.autopo.st:2592/stream?t=1769818665235",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english",
+    "japanese"
+   ],
+   "langCodes": [
+    "en",
+    "ja"
+   ],
+   "state": "Osaka",
+   "genre": [
+    "country",
+    "pop"
+   ],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "justplay",
+   "name": "Justplay",
+   "url": "https://radiostream.novawap.com/",
+   "stream": "https://justplay.stream.laut.fm/justplay",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop",
+    "pop-rock"
+   ],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "box-japan-city-pop",
+   "name": "BOX : Japan City Pop - 日本のシティポップ",
+   "url": "https://boxradio.net/",
+   "stream": "https://play.streamafrica.net/japancitypop",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "japanese"
+   ],
+   "langCodes": [
+    "en",
+    "ja"
+   ],
+   "genre": [],
+   "votes": 1144,
+   "clicks": 53,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "super-tokio-radio",
+   "name": "Súper Tokio Radio",
+   "url": "https://supertokio.com/",
+   "stream": "https://streamer.radio.co/s83eb8ff39/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 723,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fred-film-radio",
+   "name": "Fred Film Radio(日本語)",
+   "url": "http://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "state": "Tokyo",
+   "genre": [],
+   "votes": 707,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "listen-moe-j-pop-mp3",
+   "name": "Listen.moe J-Pop (MP3)",
+   "url": "https://listen.moe/",
+   "stream": "https://listen.moe/fallback",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 517,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "onlyhits-japan",
+   "name": "OnlyHits Japan",
+   "url": "https://j.onlyhit.us/",
+   "stream": "https://j.onlyhit.us/play",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [],
+   "votes": 478,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j1-hits",
+   "name": "J1 HITS",
+   "url": "https://www.j1fm.tokyo/",
+   "stream": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "tokyo",
+   "genre": [],
+   "votes": 443,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jazz-sakura",
+   "name": "Jazz Sakura",
+   "url": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3330/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 308,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-pop-powerplay-kawaii",
+   "name": "J-Pop Powerplay Kawaii",
+   "url": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3060/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 277,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gensokyo-radio-original",
+   "name": "Gensokyo Radio (Original)",
+   "url": "https://stream.gensokyoradio.net/",
+   "stream": "https://stream.gensokyoradio.net/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 180,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rainwave-all",
+   "name": "Rainwave All",
+   "url": "https://rainwave.cc/all/",
+   "stream": "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "tokyo",
+   "genre": [],
+   "votes": 133,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "miku-radio",
+   "name": "Miku Radio",
+   "url": "https://miku.fm/public/miku",
+   "stream": "https://miku.fm/listen/miku/mp3-128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 128,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-rock-powerplay",
+   "name": "J-Rock PowerPlay",
+   "url": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3340/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 124,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kamakura-fm",
+   "name": "Kamakura FM",
+   "url": "https://kamakurafm.co.jp/",
+   "stream": "https://stream.laut.fm/kamakura",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 105,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "otaku-music-radio",
+   "name": "Otaku Music Radio",
+   "url": "https://www.otakumusicradio.com/",
+   "stream": "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 105,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-club-powerplay-hiphop",
+   "name": "J-Club Powerplay HipHop",
+   "url": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3350/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "moon-mission-recordings-tokyo-deep-and-electroni",
+   "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
+   "url": "https://www.moonmission.jp/",
+   "stream": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 90,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "replay-news-5",
+   "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "state": "Osaka",
+   "genre": [],
+   "votes": 90,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hitsujikai-radio-shepherd-radio",
+   "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
+   "url": "https://www.hitsujikai-radio.com/",
+   "stream": "https://streaming.radio.co/se4a8e6a93/low",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 77,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gensokyo-radio-ogg",
+   "name": "Gensokyo Radio (OGG)",
+   "url": "https://stream.gensokyoradio.net/",
+   "stream": "https://stream.gensokyoradio.net/2",
+   "codec": "ogg",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 62,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-pop-powerplay",
+   "name": "J-Pop Powerplay",
+   "url": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "stream": "https://kathy.torontocast.com:3560/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "a-radio-for-acg-others",
+   "name": "A Radio for ACG & others",
+   "url": "https://hkradio.myaddr.io/public/new_radio",
+   "stream": "https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF",
+   "codec": "aac",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 13,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "shmupradio",
+   "name": "SHMUPRADIO",
+   "url": "https://shmupradio.com/",
+   "stream": "https://stream.shmupradio.com/320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 13,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radicro",
+   "name": "RadiCro",
+   "url": "https://www.radicro.com/#01",
+   "stream": "https://radicrojapan.out.airtime.pro/radicrojapan_b",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 9,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vrc",
+   "name": "VRC放送局",
+   "url": "https://vrctv.jp/",
+   "stream": "https://vrc.gate.vrtv.jp/live?p=g&u=d",
+   "codec": "aac",
+   "bitrate": 1321,
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "j-pop-christmas",
+   "name": "J-Pop Christmas",
+   "url": "https://asiadreamradio.com/",
+   "stream": "https://cast3.torontocast.com:1170/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

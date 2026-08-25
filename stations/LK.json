@@ -1,0 +1,511 @@
+{
+ "countryCode": "LK",
+ "country": "Sri Lanka",
+ "slug": "sri-lanka",
+ "continent": "asia",
+ "stationCount": 28,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/sri-lanka/",
+ "stations": [
+  {
+   "id": "siyatha-fm",
+   "name": "Siyatha Fm",
+   "url": "https://siyathafm.lk/",
+   "stream": "https://srv01.onlineradio.voaplus.com/siyathafm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 526,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lakhanda",
+   "name": "Lakhanda",
+   "url": "https://www.lakhandaradio.lk/",
+   "stream": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 503,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kothmale-fm",
+   "name": "Kothmale FM",
+   "url": "https://kothmalefm.lk/",
+   "stream": "https://s11.myradiostream.com:25116/listen.mp3",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 254,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-plus-sri-lanka",
+   "name": "Radio Plus Sri Lanka",
+   "url": "https://radioplus.lk/",
+   "stream": "https://altair.streamerr.co/stream/8036",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 211,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-plus-hitz",
+   "name": "Radio Plus Hitz",
+   "url": "https://radioplus.lk/",
+   "stream": "https://altair.streamerr.co/stream/8054",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 120,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "real-radio-sri-lanka-97-1",
+   "name": "Real Radio Sri Lanka 97.1",
+   "url": "http://www.realradio.lk/",
+   "stream": "https://srv02.onlineradio.voaplus.com/realfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "colombo",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "dance",
+    "pop",
+    "top-40"
+   ],
+   "votes": 109,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "y-fm-hi-res",
+   "name": "Y FM - Hi-Res",
+   "url": "https://myy.lk/",
+   "stream": "https://mbc.thestreamtech.com:7032/",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 72,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "life-87-8-sri-lanka",
+   "name": "Life 87.8 Sri Lanka",
+   "url": "https://lite878.com/",
+   "stream": "https://srv02.onlineradio.voaplus.com/lite878",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "dutch-colombo"
+   ],
+   "genre": [
+    "dance",
+    "hip-hop",
+    "pop",
+    "top-40"
+   ],
+   "votes": 63,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "shakthi-fm",
+   "name": "Shakthi Fm",
+   "url": "https://shakthifm.com/",
+   "stream": "https://mbc.thestreamtech.com:8086/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Colombo",
+   "genre": [
+    "music"
+   ],
+   "votes": 34,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kiss-fm-sri-lanka",
+   "name": "Kiss FM Sri Lanka",
+   "url": "https://kissfm.lk/",
+   "stream": "https://srv02.onlineradio.voaplus.com/kissfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 28,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ran-fm",
+   "name": "Ran FM",
+   "url": "http://ranfm.lk/",
+   "stream": "https://a3.asurahosting.com/listen/ranfm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 17,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "legends-96-6-fm",
+   "name": "Legends 96.6 FM",
+   "url": "https://legends966.com/",
+   "stream": "https://mbc.thestreamtech.com:8585/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "2000s",
+    "80s",
+    "90s",
+    "classic-hits"
+   ],
+   "votes": 9,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hiru-fm",
+   "name": "Hiru FM",
+   "url": "https://www.hirufm.lk/",
+   "stream": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2902,
+   "clicks": 29,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gold-fm",
+   "name": "Gold FM",
+   "url": "https://www.goldfm.lk/",
+   "stream": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 1123,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rangiri-sri-lanka",
+   "name": "Rangiri Sri Lanka",
+   "url": "https://rangirisrilanka.lk/radio/",
+   "stream": "https://rangiri.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [],
+   "votes": 694,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "classic-radio",
+   "name": "Classic Radio",
+   "url": "https://trn.lk/",
+   "stream": "https://cp11.serverse.com/proxy/classic/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "sinhala"
+   ],
+   "langCodes": [
+    "si"
+   ],
+   "genre": [],
+   "votes": 609,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sunfm",
+   "name": "SunFM",
+   "url": "https://www.sunfm.lk/",
+   "stream": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 312,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hiru-fm-2",
+   "name": "Hiru FM",
+   "url": "https://onlineradiofm.in/stations/hiru-fm",
+   "stream": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 300,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "neth-fm",
+   "name": "NETH FM",
+   "url": "http://www.nethfm.com/",
+   "stream": "https://cp11.serverse.com/proxy/nethfm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 297,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lakhanda-radio",
+   "name": "LAKHANDA RADIO",
+   "url": "http://www.itnfm.lk/",
+   "stream": "https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Colombo",
+   "genre": [],
+   "votes": 236,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "star-fm-srilanka",
+   "name": "Star FM Srilanka",
+   "url": "https://www.starfm.lk/",
+   "stream": "https://stream.starfm.lk:12025/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 235,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yfm-srilanka",
+   "name": "YFM-SRiLanka",
+   "url": "https://myy.lk/",
+   "stream": "https://mbc.thestreamtech.com:7032/index.html",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 81,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lite-87-8",
+   "name": "Lite 87.8",
+   "url": "https://lite878.com/",
+   "stream": "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 60,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wellon-radio-cafe",
+   "name": "Wellon Radio Cafe",
+   "url": "https://wellonradio.com/",
+   "stream": "https://wellonradio.out.airtime.pro/wellonradio_a",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vasantham-fm",
+   "name": "Vasantham FM",
+   "url": "https://www.vasanthamfm.lk/",
+   "stream": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Colombo",
+   "genre": [],
+   "votes": 30,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jothi-fm",
+   "name": "Jothi FM",
+   "url": "https://jothi.appj.uk/",
+   "stream": "https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "english-uk",
+    "sinhala"
+   ],
+   "langCodes": [
+    "en",
+    "si"
+   ],
+   "state": "Sri lanka",
+   "genre": [],
+   "votes": 15,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dreamzlanka-fm",
+   "name": "DreamzLanka FM",
+   "url": "https://dreamzlanka.appj.uk/",
+   "stream": "https://radio-station.hadawatha.lk/listen/dreamzlanka-fm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Sri lanka",
+   "genre": [],
+   "votes": 7,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hadawatha-fm",
+   "name": "Hadawatha FM",
+   "url": "https://fm.hadawatha.lk/",
+   "stream": "https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Sri lanka",
+   "genre": [],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

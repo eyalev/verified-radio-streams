@@ -1,0 +1,2566 @@
+{
+ "countryCode": "CN",
+ "country": "China",
+ "slug": "china",
+ "continent": "asia",
+ "stationCount": 123,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/china/",
+ "stations": [
+  {
+   "id": "hj0758",
+   "name": "怀集音乐之声",
+   "url": "http://www.hj0758.cn/",
+   "stream": "https://lhttp.qingting.fm/live/4804/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 10026,
+   "clicks": 112,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "500",
+   "name": "500首华语经典",
+   "url": "https://www.qingting.fm/radios/5022308",
+   "stream": "https://lhttp.qtfm.cn/live/5022308/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 4383,
+   "clicks": 23,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qingting",
+   "name": "两广之声音乐台",
+   "url": "https://www.qingting.fm/radios/20500149/",
+   "stream": "https://lhttp.qtfm.cn/live/20500149/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "chinese"
+   ],
+   "langCodes": [
+    "yue",
+    "zh"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "oldies"
+   ],
+   "votes": 2470,
+   "clicks": 48,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chinese-music-world",
+   "name": "Chinese Music World",
+   "url": "https://chinesemusicworld.com/",
+   "stream": "https://radio.chinesemusicworld.com/chinesemusic.ogg",
+   "codec": "ogg",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 925,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "asiafm-2",
+   "name": "AsiaFM亚洲经典台",
+   "url": "http://www.asiafm.cn/",
+   "stream": "https://lhttp.qingting.fm/live/5021912/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Hong Kong",
+   "genre": [
+    "music"
+   ],
+   "votes": 770,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fstv",
+   "name": "顺德音乐之声",
+   "url": "https://www.fstv.com.cn/shundepindao/index.html",
+   "stream": "https://lhttp.qtfm.cn/live/20500150/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 598,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cityfm",
+   "name": "CityFM城市音乐台",
+   "url": "https://www.qingting.fm/radios/20500153",
+   "stream": "https://lhttp.qtfm.cn/live/20500153/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 563,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "star-radio",
+   "name": "星空电台 STAR RADIO",
+   "url": "https://www.douyin.com/hashtag/1601349392489475",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 492,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qtfm",
+   "name": "动听音乐台",
+   "url": "https://www.qtfm.cn/radios/5022107",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5022107/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "chinese"
+   ],
+   "langCodes": [
+    "yue",
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 431,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "big-b-radio",
+   "name": "Big B Radio亚洲音乐台",
+   "url": "https://bigbradio.net/",
+   "stream": "https://antares.dribbcast.com/proxy/apop?mp=/s",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "japanese",
+    "korean"
+   ],
+   "langCodes": [
+    "ja",
+    "ko",
+    "zh"
+   ],
+   "state": "Liaoning",
+   "genre": [
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 373,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qm",
+   "name": "云梦音乐台",
+   "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XaH2pt6TEUo8nb1a3WgZyZZNWZeJxG3D&authKey=D1dLycK1I%2BUvgnHTbwUl7%2FJJgSBC01xPZgMX13Nph2VdWTze9X7xE9y7%2BPPe%2B65P&noverify=0&group_code=849566628",
+   "stream": "https://lhttp.qtfm.cn/live/20500187/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 340,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "feiyang971",
+   "name": "深圳音乐广播",
+   "url": "https://www.feiyang971.com/",
+   "stream": "https://lhttp.qtfm.cn/live/1271/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 311,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "50",
+   "name": "50首经典古典音乐",
+   "url": "https://www.qtfm.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5022308/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "classical",
+    "instrumental"
+   ],
+   "votes": 299,
+   "clicks": 20,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chinese-classical-music-mp3-stream",
+   "name": "Chinese Classical Music (Mp3 stream)",
+   "url": "https://chinesemusicworld.com/",
+   "stream": "https://radio.chinesemusicworld.com/chinesemusic.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "zh"
+   ],
+   "state": "Beijing",
+   "genre": [
+    "classical",
+    "instrumental"
+   ],
+   "votes": 293,
+   "clicks": 16,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm94-7",
+   "name": "上海经典音乐广播 FM94.7",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/267/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [
+    "classical"
+   ],
+   "votes": 269,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mediacp",
+   "name": "休息音乐🎶",
+   "url": "http://mediacp.eu/",
+   "stream": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "中国"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 261,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "big-b-radio-cpop",
+   "name": "Big B Radio - Cpop",
+   "url": "https://bigbradio.net/cpop",
+   "stream": "https://antares.dribbcast.com/proxy/cpop?mp=/s",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Liaoning",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 248,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smg",
+   "name": "上海戏剧曲艺广播",
+   "url": "https://www.smg.cn/review/channel/channel_26/index.html",
+   "stream": "https://lhttp.qingting.fm/live/269/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [
+    "opera"
+   ],
+   "votes": 209,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gensokyo-radio",
+   "name": "幻想乡电台Gensokyo Radio",
+   "url": "https://gensokyoradio.net/",
+   "stream": "https://stream.gensokyoradio.net/3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "japanese"
+   ],
+   "langCodes": [
+    "ja"
+   ],
+   "state": "Liaoning",
+   "genre": [
+    "anime",
+    "music"
+   ],
+   "votes": 189,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "959",
+   "name": "涿州综合广播年代音乐959",
+   "url": "http://bd.hebei.com.cn/zhuozhou/",
+   "stream": "https://lhttp.qtfm.cn/live/5021381/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Beijing",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 172,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "czgd",
+   "name": "沧州长书文艺广播",
+   "url": "http://www.czgd.tv/",
+   "stream": "https://lhttp.qingting.fm/live/5021902/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Hopei",
+   "genre": [
+    "music"
+   ],
+   "votes": 162,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xmtv",
+   "name": "厦门音乐广播",
+   "url": "https://www.xmtv.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/1739/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Fukien",
+   "genre": [
+    "music"
+   ],
+   "votes": 157,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music887",
+   "name": "济南音乐广播",
+   "url": "http://www.music887.com/",
+   "stream": "https://lhttp.qtfm.cn/live/1671/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shantung",
+   "genre": [
+    "hits",
+    "indie",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 151,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "csbtv",
+   "name": "长沙音乐广播",
+   "url": "https://www.csbtv.com/",
+   "stream": "https://lhttp.qtfm.cn/live/20847/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Hunan",
+   "genre": [
+    "folk",
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 147,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm891",
+   "name": "Fm891线上音乐台",
+   "url": "https://www.fm891.net/",
+   "stream": "https://lhttp.qtfm.cn/live/20500215/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music",
+    "pop-music"
+   ],
+   "votes": 139,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "huadu",
+   "name": "花都人民广播电台",
+   "url": "https://www.huadu.gov.cn/hdzx/hdxw/mindex.html",
+   "stream": "https://lhttp.qingting.fm/live/1263/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 123,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bridge-radio-hits",
+   "name": "Bridge Radio - 华语 HITS",
+   "url": "https://new.brg-radio.com/",
+   "stream": "https://das-edge11-live365-dal03.cdnstream.com/a57743_2",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "chinese"
+   ],
+   "langCodes": [
+    "yue",
+    "zh"
+   ],
+   "state": "Dalian",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 115,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cutv",
+   "name": "太原音乐广播",
+   "url": "http://ty.cutv.com/",
+   "stream": "https://lhttp.qingting.fm/live/1185/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shansi",
+   "genre": [
+    "music"
+   ],
+   "votes": 112,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wztv",
+   "name": "温州音乐之声",
+   "url": "http://www.wztv.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/1149/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chekiang",
+   "genre": [
+    "music"
+   ],
+   "votes": 108,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xzgd",
+   "name": "徐州音乐广播",
+   "url": "http://www.xzgd.com/login/Login.jsp?logintype=1",
+   "stream": "https://lhttp.qingting.fm/live/4923/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsu",
+   "genre": [
+    "music"
+   ],
+   "votes": 105,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "576tv",
+   "name": "台州音乐广播",
+   "url": "http://www.576tv.com/",
+   "stream": "https://lhttp.qingting.fm/live/1144/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chekiang",
+   "genre": [
+    "music"
+   ],
+   "votes": 104,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jxntv",
+   "name": "江西故事广播",
+   "url": "https://www.jxntv.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/20500092/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsi",
+   "genre": [
+    "electronic",
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 98,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "phate-radio-anime-games-and-pop",
+   "name": "Phate Radio 飛特電台 - anime, games and pop",
+   "url": "https://phate.io/",
+   "stream": "https://phate.io/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "anime",
+    "music"
+   ],
+   "votes": 88,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bridge-radio-hits-2",
+   "name": "Bridge Radio - 华语 HITS （2）",
+   "url": "https://new.brg-radio.com/",
+   "stream": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "chinese"
+   ],
+   "langCodes": [
+    "yue",
+    "zh"
+   ],
+   "state": "Dalian",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 84,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "qwmedia",
+   "name": "黄岛综合广播",
+   "url": "http://www.qwmedia.cn/web/index.html",
+   "stream": "https://lhttp.qingting.fm/live/20176/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shantung",
+   "genre": [
+    "music"
+   ],
+   "votes": 82,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ynradio",
+   "name": "云南音乐广播",
+   "url": "http://www.ynradio.com/v2/",
+   "stream": "https://lhttp.qtfm.cn/live/1929/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Yunnan",
+   "genre": [
+    "music"
+   ],
+   "votes": 80,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hljtv",
+   "name": "黑龙江音乐广播",
+   "url": "http://www.hljtv.com/",
+   "stream": "https://lhttp.qtfm.cn/live/4969/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Amur River",
+   "genre": [
+    "music"
+   ],
+   "votes": 80,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nctv",
+   "name": "南昌交通音乐广播",
+   "url": "https://www.nctv.net.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/1804/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsi",
+   "genre": [
+    "music"
+   ],
+   "votes": 75,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dcdown",
+   "name": "英德综合广播",
+   "url": "https://dcdown.pc6.com/apk/22c4185e163ff460e9557c1be753012f/2107/29/2222658.apk",
+   "stream": "https://lhttp.qtfm.cn/live/5022392/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 74,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "am1197-fm97-2",
+   "name": "上海戏剧曲艺广播 AM1197 FM97.2",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/269/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [
+    "opera"
+   ],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nbbltv",
+   "name": "北仑电台",
+   "url": "http://www.nbbltv.com/",
+   "stream": "https://lhttp.qingting.fm/live/1153/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chekiang",
+   "genre": [
+    "music"
+   ],
+   "votes": 73,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eprtv",
+   "name": "恩平人民广播电台",
+   "url": "http://www.eprtv.cn/",
+   "stream": "https://lhttp.qingting.fm/live/20701/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 73,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "baike",
+   "name": "新兴电台",
+   "url": "https://baike.baidu.com/item/%E6%96%B0%E5%85%B4%E5%8E%BF%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0/56874672",
+   "stream": "https://lhttp.qingting.fm/live/20211602/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "vos",
+   "name": "福建海峡之声",
+   "url": "https://www.vos.com.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1744/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Fukien",
+   "genre": [
+    "music"
+   ],
+   "votes": 71,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "xytv",
+   "name": "信阳平桥广播",
+   "url": "http://www.xytv.cn/",
+   "stream": "https://lhttp.qingting.fm/live/15318156/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Honan",
+   "genre": [
+    "music"
+   ],
+   "votes": 70,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "0515yc",
+   "name": "盐城音乐广播",
+   "url": "http://www.0515yc.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/5022380/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsu",
+   "genre": [
+    "music"
+   ],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm950",
+   "name": "广西文艺广播 FM950广西音乐台",
+   "url": "https://www.gxtv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/4875/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangsi",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 69,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sdba-classics-94-7-shanghai",
+   "name": "SDBA Classics 94.7 Shanghai",
+   "url": "https://www.smgradio.cn/",
+   "stream": "https://lhttp.qingting.fm/live/267/64k.mp3?listening-from-radio-garden=1696445196",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn"
+   ],
+   "state": "Shanghai",
+   "genre": [
+    "classical"
+   ],
+   "votes": 65,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "994",
+   "name": "中江综合广播年代音乐994",
+   "url": "http://m.downcc.com/d/497313",
+   "stream": "https://lhttp.qtfm.cn/live/20500148/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Szechuan",
+   "genre": [
+    "music",
+    "oldies",
+    "pop"
+   ],
+   "votes": 64,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dlr-5",
+   "name": "DLR-5 大连音乐广播",
+   "url": "http://www.dltv.cn/test/",
+   "stream": "https://lhttp.qingting.fm/live/1084/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Dalian",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm88-9",
+   "name": "金堂综合广播FM88.9 成都年代音乐怀旧好声音",
+   "url": "https://www.qingting.fm/radios/20500160",
+   "stream": "https://lhttp-hw.qtfm.cn/live/20500160/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Szechuan",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "quran",
+   "name": ".Quran",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 61,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "999",
+   "name": "涞水县流行音乐广播999正青春",
+   "url": "https://www.laishui.gov.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/20211620/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm98-6",
+   "name": "FM98.6城市音乐广播·信都区融媒体中心",
+   "url": "https://www.xinduqu.gov.cn/",
+   "stream": "https://lhttp.qingting.fm/live/20500196/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Hopei",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 59,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100-7",
+   "name": "永川之声100.7",
+   "url": "http://www.yongchuanwang.com.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/20210236/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chungking",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 59,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "am1161",
+   "name": "无锡新闻综合广播AM1161",
+   "url": "http://btv.thmz.com/",
+   "stream": "https://lhttp.qtfm.cn/live/2776/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsu",
+   "genre": [
+    "opera"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "970",
+   "name": "广西经济广播 970女主播电台",
+   "url": "https://www.gxtv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1754/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangsi",
+   "genre": [
+    "music"
+   ],
+   "votes": 55,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1055",
+   "name": "陕西青少广播好听1055（经典流行金曲）",
+   "url": "http://www.sxtvs.com/",
+   "stream": "https://lhttp.qtfm.cn/live/4885/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shensi",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1007",
+   "name": "新安县乐享1007",
+   "url": "https://weibo.com/u/1859158462?is_all=1&sudaref=m.baidu.com",
+   "stream": "https://lhttp.qtfm.cn/live/20500141/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Honan",
+   "genre": [
+    "music"
+   ],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "88-1",
+   "name": "潍坊新闻广播·88.1音乐之声",
+   "url": "http://www.wfcmw.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/15318631/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shantung",
+   "genre": [
+    "music"
+   ],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "910",
+   "name": "广西综合广播 新闻910",
+   "url": "https://www.gxtv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1753/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangsi",
+   "genre": [
+    "music"
+   ],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm1008",
+   "name": "永吉县魅力FM1008",
+   "url": "http://www.jlyj.gov.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/5021975/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Jilin",
+   "genre": [
+    "music"
+   ],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "930",
+   "name": "广西教育广播 私家车930",
+   "url": "https://www.gxtv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1756/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangsi",
+   "genre": [
+    "music"
+   ],
+   "votes": 41,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "882",
+   "name": "盐城农村广播·经典882",
+   "url": "http://www.0515yc.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/20332/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsu",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm105-6",
+   "name": "苏家屯区盛京FM105.6",
+   "url": "https://space.bilibili.com/1282009513/dynamic",
+   "stream": "https://lhttp.qtfm.cn/live/5022520/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Liaoning",
+   "genre": [
+    "music"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm946",
+   "name": "安溪FM946茶频率",
+   "url": "http://www.anxinews.com/",
+   "stream": "https://lhttp.qtfm.cn/live/5022135/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Fukien",
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "901",
+   "name": "辽源市东辽县901综合文艺广播",
+   "url": "http://www.dongliao.gov.cn/xxgk/dtxw/dlxw/index_2.html",
+   "stream": "https://lhttp.qtfm.cn/live/20211585/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "jilin",
+   "genre": [
+    "music"
+   ],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pop-radio912",
+   "name": "绵阳科技生活Pop-Radio912",
+   "url": "http://www.myntv.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/4025/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Szechuan",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm90-7",
+   "name": "杭州城市资讯广播 FM90.7杭州潮流音乐电台",
+   "url": "https://www.hoolo.tv/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/15318146/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chekiang",
+   "genre": [
+    "electronic",
+    "hits",
+    "music",
+    "pop",
+    "rock"
+   ],
+   "votes": 35,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "956",
+   "name": "开平电台 飞扬956",
+   "url": "http://www.kaiping.gov.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5037/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 34,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm100-1",
+   "name": "浦东文艺生活广播 城市沸点FM100.1",
+   "url": "https://www.pudongtv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5022341/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [
+    "music"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm100-5",
+   "name": "澄海电台FM100.5",
+   "url": "https://www.dahuawang.com/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "hokkien"
+   ],
+   "state": "Kwangtung",
+   "genre": [
+    "music"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cnr-1",
+   "name": "CNR-1 中国之声",
+   "url": "http://www.cnr.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/15318317/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 9847,
+   "clicks": 73,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ajmide",
+   "name": "国际新闻",
+   "url": "http://www.ajmide.com/",
+   "stream": "https://lhttp.qtfm.cn/live/20500172/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 7004,
+   "clicks": 62,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "asiafm",
+   "name": "AsiaFM 亚洲粤语台",
+   "url": "https://superradio.cc/",
+   "stream": "https://lhttp.qtfm.cn/live/15318569/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 1990,
+   "clicks": 22,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rfi",
+   "name": "新闻联播",
+   "url": "https://www.rfi.fr/cn/",
+   "stream": "https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 1856,
+   "clicks": 79,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "gdtv",
+   "name": "广东珠江经济台",
+   "url": "https://m.gdtv.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/1259/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [],
+   "votes": 1849,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ahrtv",
+   "name": "安徽小说评书广播",
+   "url": "http://www.ahrtv.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/1951/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Anhwei",
+   "genre": [],
+   "votes": 1664,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bbn",
+   "name": "BBN 中文",
+   "url": "https://bbn1.bbnradio.org/",
+   "stream": "https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 1317,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rbc",
+   "name": "北京新闻广播",
+   "url": "https://www.rbc.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/339/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Beijing",
+   "genre": [],
+   "votes": 1164,
+   "clicks": 17,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90-7mixfm",
+   "name": "90.7mixfm",
+   "url": "https://tingfm.com/radio/976",
+   "stream": "https://lhttp.qingting.fm/live/15318146/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 891,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "shanghai-fm-101-101",
+   "name": "Shanghai FM 101 上海动感101",
+   "url": "http://www.fm101.cn/",
+   "stream": "https://lhttp.qingting.fm/live/274/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 753,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jnradio",
+   "name": "济南故事广播",
+   "url": "http://jnradio.ijntv.cn/fm1043/",
+   "stream": "https://lhttp.qtfm.cn/live/1672/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shantung",
+   "genre": [],
+   "votes": 680,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fred-film-radio",
+   "name": "Fred Film Radio(中文)",
+   "url": "http://www.fred.fm/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Jilin",
+   "genre": [],
+   "votes": 414,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-maria-chinese",
+   "name": "Radio Maria Chinese",
+   "url": "https://voiceofourmother.cn/",
+   "stream": "https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "chinese",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "zh"
+   ],
+   "genre": [],
+   "votes": 381,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm103-7",
+   "name": "上海经典金曲广播 FM103.7",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/273/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 337,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "101-fm101-7",
+   "name": "上海流行音乐广播 动感101 FM101.7",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/274/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 273,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "23-11",
+   "name": "恐怖在線（周一至周五23:11）",
+   "url": "https://www.edmondpoon.com/",
+   "stream": "https://acast01.kolorboxlab.com/radio/8010/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Hong Kong",
+   "genre": [],
+   "votes": 264,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm90-9",
+   "name": "上海第一财经广播 FM90.9",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/276/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 222,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-5",
+   "name": "REPLAY NEWS - 中文 每5分钟播报一次新闻的电台",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewszh.ice.infomaniak.ch/replaynewszh-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Dalian",
+   "genre": [],
+   "votes": 221,
+   "clicks": 19,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "888",
+   "name": "中山环保旅游之声·快乐888",
+   "url": "http://www.zsbtv.com.cn/",
+   "stream": "https://lhttp.qingting.fm/live/1278/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [],
+   "votes": 216,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2",
+   "name": "湖北之声（调频版）（2）",
+   "url": "http://news.hbtv.com.cn/",
+   "stream": "https://lhttp.qingting.fm/live/1303/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Hupei",
+   "genre": [],
+   "votes": 195,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "967",
+   "name": "中山综合广播·新锐967",
+   "url": "http://www.zsbtv.com.cn/",
+   "stream": "https://lhttp.qingting.fm/live/1277/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Kwangtung",
+   "genre": [],
+   "votes": 180,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ep-3",
+   "name": "他她说：EP.3 读本书吧《百岁人生》",
+   "url": "https://superradio.cc/",
+   "stream": "https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 151,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm93-4-am990",
+   "name": "上海新闻广播 FM93.4 AM990",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/270/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 146,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fred-film-radio-2",
+   "name": "Fred Film Radio - 普通话",
+   "url": "https://global.superradio.cc/",
+   "stream": "https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 142,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kbs",
+   "name": "KBS韩国国际广播电台",
+   "url": "https://kbsworld.kbs.co.kr/program/list.php",
+   "stream": "https://api.xmgspace.me/api/kbs-stream/",
+   "codec": "aac",
+   "bitrate": 127,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Beijing",
+   "genre": [],
+   "votes": 138,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sichuan-news-fm98-1",
+   "name": "Sichuan News 四川综合广播FM98.1",
+   "url": "http://www.sctv.com/",
+   "stream": "https://lhttp.qingting.fm/live/4906/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Sichuan",
+   "genre": [],
+   "votes": 116,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "8",
+   "name": "测试8",
+   "url": "https://www.fqxww.cn/",
+   "stream": "https://s1-fmt2.liveatc.net/vhhh5?nocache=2022041008372197157",
+   "codec": "mp3",
+   "bitrate": 32,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm89-9",
+   "name": "上海长三角之声广播 FM89.9",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/275/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 94,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "991",
+   "name": "深圳龙岗星光991",
+   "url": "https://www.fmshiting.com/radio/szlgdt.html#comments",
+   "stream": "https://lhttp.qingting.fm/live/20160/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 86,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm105-7",
+   "name": "上海交通广播 FM105.7",
+   "url": "https://www.smg.cn/review/index.html",
+   "stream": "https://lhttp-hw.qtfm.cn/live/266/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Shanghai",
+   "genre": [],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "986",
+   "name": "张家口986音乐广播",
+   "url": "https://superradio.cc/",
+   "stream": "https://lhttp.qtfm.cn/live/5021801/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "河北",
+   "genre": [],
+   "votes": 65,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm106-5",
+   "name": "十三师广播电视台FM106.5",
+   "url": "http://www.hndt.com/",
+   "stream": "https://lhttp.qtfm.cn/live/5022506/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Sinkiang",
+   "genre": [],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm93-7",
+   "name": "无锡新闻综合广播FM93.7",
+   "url": "http://btv.thmz.com/",
+   "stream": "https://lhttp.qtfm.cn/live/2777/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsu",
+   "genre": [],
+   "votes": 64,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "105-9",
+   "name": "项城广播-国风国潮105.9",
+   "url": "http://www.xiangcheng.gov.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/20210757/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Honan",
+   "genre": [],
+   "votes": 63,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "935",
+   "name": "都江堰935爱旅游",
+   "url": "http://www.djy.gov.cn/dyjgb_rmzfwz/index.shtml",
+   "stream": "https://lhttp.qtfm.cn/live/20207773/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Szechuan",
+   "genre": [],
+   "votes": 58,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm9-26",
+   "name": "青岛FM9.26",
+   "url": "https://www.qingting.fm/radios/20176/",
+   "stream": "https://lhttp.qtfm.cn/live/20176/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "china"
+   ],
+   "genre": [],
+   "votes": 56,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "up-radio-fm97-3",
+   "name": "长兴人民广播电台·Up Radio FM97.3太湖之声",
+   "url": "http://zjcxnews.com.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/5022311/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chekiang",
+   "genre": [],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jianli-national-radio",
+   "name": "监利电台Jianli National Radio",
+   "url": "http://m.2265.com/down/136104.html",
+   "stream": "https://lhttp.qtfm.cn/live/15318507/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Hupei",
+   "genre": [],
+   "votes": 54,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2-2",
+   "name": "吉林旅游广播(2)",
+   "url": "https://fm1033.jlradio.cn/",
+   "stream": "https://lhttp.qingting.fm/live/20487/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Jilin",
+   "genre": [],
+   "votes": 49,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "dlr-3",
+   "name": "DLR-3 大连体育广播",
+   "url": "http://www.dltv.cn/test/",
+   "stream": "https://lhttp.qingting.fm/live/1085/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Dalian",
+   "genre": [],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm106-6",
+   "name": "永康电台FM106.6",
+   "url": "https://www.qingting.fm/radios/5022570",
+   "stream": "https://lhttp.qtfm.cn/live/5022570/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Chekiang",
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "919",
+   "name": "祥符广播919",
+   "url": "http://www.xiangfuqu.gov.cn/index.html",
+   "stream": "https://lhttp.qtfm.cn/live/20500156/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Honan",
+   "genre": [],
+   "votes": 48,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "anison-fm",
+   "name": "ANISON.FM",
+   "url": "https://en.anison.fm/",
+   "stream": "https://anison.fm/anison.m3u",
+   "codec": "unknown",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 47,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-voice-of-beibu-gulf",
+   "name": "北部湾之声 The Voice of Beibu Gulf",
+   "url": "https://www.gxtv.cn/",
+   "stream": "https://lhttp-hw.qtfm.cn/live/1757/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kwangsi",
+   "genre": [],
+   "votes": 47,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2-3",
+   "name": "赣州综合广播（2）",
+   "url": "http://www.jxgztv.com/",
+   "stream": "https://lhttp.qingting.fm/live/20266/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Kiangsi",
+   "genre": [],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "11",
+   "name": "测试11",
+   "url": "https://www.fqxww.cn/",
+   "stream": "https://s1-fmt2.liveatc.net/rjoo1?nocache=2022041005004784106",
+   "codec": "mp3",
+   "bitrate": 16,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 43,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "12",
+   "name": "测试12",
+   "url": "https://www.fqxww.cn/",
+   "stream": "https://s1-fmt2.liveatc.net/rjaa_app_s?nocache=2022041005033131990",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 39,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm99-1",
+   "name": "FM99.1大连都市之声广播",
+   "url": "http://www.dltv.cn/channel/dsgb/index.shtml",
+   "stream": "https://lhttp.qtfm.cn/live/1086/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Dalian",
+   "genre": [],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "13",
+   "name": "测试13",
+   "url": "https://www.fqxww.cn/",
+   "stream": "https://s1-fmt2.liveatc.net/rjaa_atis?nocache=2022041005060023921",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 37,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "15",
+   "name": "测试15",
+   "url": "https://www.fqxww.cn/",
+   "stream": "https://s1-fmt2.liveatc.net/rjtt_atis?nocache=2022041008015119728",
+   "codec": "mp3",
+   "bitrate": 16,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm102-0",
+   "name": "济源广播电台FM102.0",
+   "url": "http://www.jyrb.cn/",
+   "stream": "https://lhttp.qingting.fm/live/5022142/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "chinese"
+   ],
+   "langCodes": [
+    "zh"
+   ],
+   "state": "Honan",
+   "genre": [],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

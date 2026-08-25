@@ -1,0 +1,234 @@
+{
+ "countryCode": "KW",
+ "country": "Kuwait",
+ "slug": "kuwait",
+ "continent": "asia",
+ "stationCount": 11,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/kuwait/",
+ "stations": [
+  {
+   "id": "qurango",
+   "name": "تفسير بن عثيمين رحمه الله",
+   "url": "",
+   "stream": "https://qurango.net/radio/tafseer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 698,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gov",
+   "name": "الكويت - البرنامج الثاني",
+   "url": "https://media.gov.kw/LiveRadio.aspx?PanStation=Program2",
+   "stream": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 2481,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-abdulbasit-abdulsamad",
+   "name": "Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 2416,
+   "clicks": 31,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-mishary-alafasy",
+   "name": "Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/mishary/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 1954,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-abdulrahman-alsudais",
+   "name": "Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/sudais/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 1535,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-saud-al-shuraim",
+   "name": "Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/alshuraim/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 1372,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-muhammad-al-minshawi",
+   "name": "Quran Radio راديو القرآن - Muhammad Al-Minshawi محمد صديق المنشاوي",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/minshawi/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 1164,
+   "clicks": 16,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-ali-alhuthaifi",
+   "name": "Quran Radio راديو القرآن - Ali Alhuthaifi - علي الحذيفي",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 925,
+   "clicks": 11,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-yasser-aldosari",
+   "name": "Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/yaser/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 906,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-kuwait",
+   "name": "Quran Radio راديو القرآن - Kuwait الكويت",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/quran_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 728,
+   "clicks": 15,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "quran-radio-maher-al-mueaqly",
+   "name": "Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/maher/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic",
+    "العربية",
+    "عربي"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "state": "Kuwait City",
+   "genre": [],
+   "votes": 701,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  }
+ ]
+}

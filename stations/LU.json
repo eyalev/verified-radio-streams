@@ -1,0 +1,189 @@
+{
+ "countryCode": "LU",
+ "country": "Luxembourg",
+ "slug": "luxembourg",
+ "continent": "europe",
+ "stationCount": 11,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/luxembourg/",
+ "stations": [
+  {
+   "id": "free-radio-luxembourg-frl",
+   "name": "Free Radio Luxembourg FRL",
+   "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
+   "stream": "https://www.radioking.com/play/rfm-luxembourg/137599",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "luxembourgish"
+   ],
+   "langCodes": [
+    "lb"
+   ],
+   "state": "Luxembourg",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 437,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "eldo-radio-chill",
+   "name": "Eldo Radio Chill",
+   "url": "https://www.eldo.lu/radio/livestream/chill",
+   "stream": "https://stream.rtl.lu/live/hls/radio/eldochill",
+   "codec": "aac",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 114,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fce-continuo-webradio",
+   "name": "FCE-CONTINUO Webradio",
+   "url": "https://fce-continuo.websiteradio.co/",
+   "stream": "https://www.radioking.com/play/fce-continuo",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "français---lëtzebuergesch"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-radijacija",
+   "name": "Radio Radijacija",
+   "url": "https://radio.radijacija.eu/",
+   "stream": "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "indie"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-100komma7",
+   "name": "Radio 100komma7",
+   "url": "https://100komma7.lu/",
+   "stream": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french",
+    "luxembourgish"
+   ],
+   "langCodes": [
+    "fr",
+    "lb"
+   ],
+   "genre": [],
+   "votes": 139,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rtl-gold",
+   "name": "RTL Gold",
+   "url": "https://play.rtl.lu/live/rtl-gold",
+   "stream": "https://shoutcast.rtl.lu/rtlgold",
+   "codec": "mp3",
+   "bitrate": 256,
+   "genre": [],
+   "votes": 104,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "braintrip-radio",
+   "name": "Braintrip Radio",
+   "url": "https://laut.fm/braintrip-radio",
+   "stream": "https://stream.laut.fm/braintrip-radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 80,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-gutt-laun",
+   "name": "Radio Gutt Laun",
+   "url": "https://www.rgl.lu/index.php",
+   "stream": "https://streams.radio.co/sa631ff66a/listen",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rtl-today",
+   "name": "RTL Today",
+   "url": "http://today.rtl.lu/",
+   "stream": "https://shoutcast.rtl.lu/rtltodayradio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-c-luxembourg",
+   "name": "Radio C Luxembourg",
+   "url": "https://radioc.eu/",
+   "stream": "https://edge01.streamonkey.net/radioc-live",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 0,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "countryCode": "CV",
+ "country": "Cape Verde",
+ "slug": "cape-verde",
+ "continent": "africa",
+ "stationCount": 13,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/cape-verde/",
+ "stations": [
+  {
+   "id": "crioula-fm",
+   "name": "Crioula FM",
+   "url": "https://www.crioulafm.cv/",
+   "stream": "https://nl.digitalrm.pt:8098/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "music"
+   ],
+   "votes": 3,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "caboradio",
+   "name": "Caboradio",
+   "url": "https://caboradio.wixsite.com/caboradio",
+   "stream": "https://listen.radioking.com/radio/281506/stream/327253",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 923,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 70,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-maria-cabo-verde",
+   "name": "Radio Maria - Cabo Verde",
+   "url": "https://radiomaria.cv/",
+   "stream": "https://dreamsiteradiocp4.com/proxy/rmcapover?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 18,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-atlantico",
+   "name": "Radio Atlantico",
+   "url": "https://www.radioatlantico.net/",
+   "stream": "https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rcv-radio-cabo-verde-jovem",
+   "name": "RCV+ Radio Cabo Verde Jovem",
+   "url": "https://www.rtc.cv/rcvm",
+   "stream": "https://a8.my-control-panel.com:8670/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 12,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kriola",
+   "name": "Kriola",
+   "url": "https://laut.fm/kriola",
+   "stream": "https://stream.laut.fm/kriola",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ribeira-brava-fm-ilha-de-sao-nicolau",
+   "name": "Ribeira Brava FM - Ilha de Sao Nicolau",
+   "url": "https://ribeirabravafm.com/",
+   "stream": "https://sc1.xdevel.com/ribeirabrava",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "praia-fm",
+   "name": "Praia FM",
+   "url": "https://praiafm.biz/",
+   "stream": "https://mpc1.mediacp.eu:8030/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-morabeza",
+   "name": "Radio Morabeza",
+   "url": "https://radiomorabeza.cv/",
+   "stream": "https://sp0.redeaudio.com:10988/9798/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 6,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-de-santo-antao-rsa",
+   "name": "Radio de Santo Antao - RSA",
+   "url": "https://rsa.cv/",
+   "stream": "https://stream.cvhosting.uk/listen/radio_santo_antao/radio.mp3?refresh=1781085695418",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rcv-radio-cabo-verde-direct",
+   "name": "RCV Radio Cabo Verde direct",
+   "url": "https://www.rtc.cv/rcv/direto",
+   "stream": "https://a3.asurahosting.com/listen/rcv/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rte-radio-educativa",
+   "name": "RTE – Radio Educativa",
+   "url": "https://radioeducativa.gov.cv/",
+   "stream": "https://a13.my-control-panel.com/listen/rte/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 1,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

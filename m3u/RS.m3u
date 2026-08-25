@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Serbia" tvg-genre="classical",Radio Lola - Domaca
+https://streaming.tdiradio.com/radiolola.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk,music,pop",Radio IN Beograd
+https://radio3-64ssl.streaming.rs:9212/;*.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="rock",Rock Radio Beograd
+https://edge9.pink.rs/rockstream/
+#EXTINF:-1 group-title="Serbia" tvg-genre="pop",Naxi 90s
+https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk",Naxi - hype
+https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv
+#EXTINF:-1 group-title="Serbia" tvg-genre="rock",Naxi Blues
+https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv
+#EXTINF:-1 group-title="Serbia" tvg-genre="pop",JAT Radio
+https://streaming.radiojat.rs/radiojat.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="hits,oldies,pop-rock",TDI BEZ REKLAMA
+https://streaming.tdiradio.com/tdiradiobezreklama.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="electronic",Naxi Fitness
+https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv
+#EXTINF:-1 group-title="Serbia" tvg-genre="music,rock",Play Radio Rock
+https://stream.playradio.rs:8443/rock.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="pop,rock",Radio S EX YU
+https://stream.radios.rs:9042/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="pop",Naxi Chillwave
+https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv
+#EXTINF:-1 group-title="Serbia" tvg-genre="alternative",Radio Aparat
+https://stream4.rcast.net/72355/
+#EXTINF:-1 group-title="Serbia" tvg-genre="rock",Radio S Rock
+https://stream.radios.rs:9032/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="trance",Psychedelic Travel Radio
+https://e20.yesstreaming.net:6148/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk",Zrenjanin 103.6
+https://radio.dukahosting.com:7031/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="chillout,downtempo,electronic,house,techno",mr.chem fm
+https://e20.yesstreaming.net:6217/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk",Radio Futog Krajina
+https://centova.dukahosting.com/proxy/futog/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk,pop",NAŠ MM Radio 97.8
+https://radio.dukahosting.com:7045/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk,pop",Radio KISS Lazarevac 106.1
+https://cast2.asurahosting.com/proxy/kissdoog/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="2000s,80s,90s,classic-rock",Radio S Rock Ballads
+https://stream.radios.rs:9058/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="90s",DENSOMANIAK Radio
+https://stream.iradio.pro/proxy/densomaniak?mp=/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="funk,jazz",Nisville Radio
+https://radio.nisville.com/listen/live/live
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk",Radio S 2000-te Folk
+https://stream.radios.rs:9060/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="top-hits",Naxi Millennium Radio
+https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv
+#EXTINF:-1 group-title="Serbia" tvg-genre="edm,pop,rock",Radio S Gym
+https://stream.radios.rs:9068/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk",BB Radio Sombor
+https://mhpanel.mediahosting025.com/radio/8383/;
+#EXTINF:-1 group-title="Serbia" tvg-genre="blues,country,funk,pop,reggae,rock",Original Fast Radio
+https://az-de-01.worldradiobeat.com/listen/originalfastradio/live
+#EXTINF:-1 group-title="Serbia" tvg-genre="alternative,electronic,metal,rock",MansionNET Radio
+https://radio.inthemansion.com/listen/mansionnet/radio.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk,pop",Radio Sombor 97.5
+https://radio.dukahosting.com/8344/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="alternative",Domus Radio
+https://libretime.domusradio.com/icecast/main
+#EXTINF:-1 group-title="Serbia" tvg-genre="classic-rock,pop,pop-music,rock",Radio 996FM
+https://radio.en.rs/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="romantic",Radio S Pop Ballads
+https://stream.radios.rs:9056/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="hip-hop,pop,r&b",Radio S Sport Urban
+https://stream.radios.rs:9080/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="80s",Radio S 80e
+https://stream.radios.rs:9036/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk",Radio S Folk Stars
+https://stream.radios.rs:9024/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="60s,70s,80s,oldies,pop,rock",Radio S Gold
+https://stream.radios.rs:9020/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="dance,house,pop,rock",Radio S4
+https://stream.radios.rs:9006/;
+#EXTINF:-1 group-title="Serbia" tvg-genre="2000s,dance,pop",Radio S 2000-e
+https://stream.radios.rs:9052/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="jazz",Radio S Jazz
+https://stream.radios.rs:9076/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="dance,pop,rock",Radio S Sport
+https://stream.radios.rs:9078/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="ambient,pop,relax",Radio S Chill
+https://stream.radios.rs:9066/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="60s,70s,80s,classical,instrumental,orchestral",Radio S Classic
+https://stream.radios.rs:9074/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="chillout,lounge",Radio S Lounge
+https://stream.radios.rs:9062/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="hip-hop,rap",Radio S Trap & Rap
+https://stream.radios.rs:9030/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="dance,pop,rock",Play Radio Urban
+https://stream.playradio.rs:8443/urban.mp3
+#EXTINF:-1 group-title="Serbia" tvg-genre="dance",Radio S Dance
+https://stream.radios.rs:9014/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="folk,pop,rock",Radio S Mix
+https://stream.radios.rs:9010/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="pop-rock,rock",Radio S Pop & Rock
+https://stream.radios.rs:9028/stream
+#EXTINF:-1 group-title="Serbia" tvg-genre="hip-hop,rap",Play Radio Balkan
+https://stream.playradio.rs:8443/balkan.mp3
+#EXTINF:-1 group-title="Serbia",OK radio
+https://sslstream.okradio.net/;?type=http&nocache=8804
+#EXTINF:-1 group-title="Serbia",Radio S3 Južni
+https://stream.radios.rs:9038/;*.mp3
+#EXTINF:-1 group-title="Serbia",Naxi ExYu Radio
+https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Radio S Narodni
+https://stream.radios.rs:9016/;*.mp3
+#EXTINF:-1 group-title="Serbia",Play Radio Serbia
+https://stream.playradio.rs:8443/play.mp3
+#EXTINF:-1 group-title="Serbia",Naxi 80-e Radio
+https://naxidigital-80s128ssl.streaming.rs:8042/;
+#EXTINF:-1 group-title="Serbia",Moj Radio
+https://eu4.fastcast4u.com/proxy/svidakov?mp=/1
+#EXTINF:-1 group-title="Serbia",Naxi Cafe Radio
+https://naxidigital-cafe128ssl.streaming.rs:8022/;
+#EXTINF:-1 group-title="Serbia",Naxi Boem Radio
+https://naxidigital-boem128ssl.streaming.rs:8162/;
+#EXTINF:-1 group-title="Serbia",Naxi Dance Radio
+https://naxidigital-dance128ssl.streaming.rs:8112/;
+#EXTINF:-1 group-title="Serbia",Resavski radio
+https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
+#EXTINF:-1 group-title="Serbia",Naxi Rock radio
+https://naxidigital-rock128ssl.streaming.rs:8182/;
+#EXTINF:-1 group-title="Serbia",Radio Morava
+https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
+#EXTINF:-1 group-title="Serbia",Radio Šumadinac Južni Vetar
+https://media.srb-streaming.com/stream/radio-sumadinac-juzni
+#EXTINF:-1 group-title="Serbia",Pink Radio
+https://edge9.pink.rs/pinkstream
+#EXTINF:-1 group-title="Serbia",Radio Balkan Narodna
+https://radiobalkan.live/radio/live/narodna.mp3
+#EXTINF:-1 group-title="Serbia",Naxi Gold Radio
+https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Play Radio Party
+https://stream.playradio.rs:8443/party.mp3
+#EXTINF:-1 group-title="Serbia",Laguna
+https://live.radiolaguna.rs/laguna
+#EXTINF:-1 group-title="Serbia",RSG Radio Stari Grad
+https://stream.rsg.rs/live/
+#EXTINF:-1 group-title="Serbia",Naxi Evergreen Radio
+https://naxidigital-evergreen128ssl.streaming.rs:8012/;
+#EXTINF:-1 group-title="Serbia",Naxi Classic Radio
+https://naxidigital-classic128ssl.streaming.rs:8032/;
+#EXTINF:-1 group-title="Serbia",Naxi Mix Radio
+https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Naxi House Radio
+https://naxidigital-house128ssl.streaming.rs:8002/;
+#EXTINF:-1 group-title="Serbia",Radio S1
+https://stream.radios.rs:9000/;
+#EXTINF:-1 group-title="Serbia",Rock Radio Belgrade (Рок Радио Београд)
+https://edge9.pink.rs/rockstream
+#EXTINF:-1 group-title="Serbia",Radio Karolina
+https://streaming.karolina.rs/karolina.mp3
+#EXTINF:-1 group-title="Serbia",Radio S3 Trap And Rap
+https://stream.radios.rs:9030/;
+#EXTINF:-1 group-title="Serbia",Lotel2
+https://s1.skeletor.rs/lotel
+#EXTINF:-1 group-title="Serbia",Radio Šumadinac
+https://media.srb-streaming.com/stream/radio-sumadinac-uzivo
+#EXTINF:-1 group-title="Serbia",Radio Balkan Zabavna
+https://radiobalkan.live/radio/live/zabavna.mp3
+#EXTINF:-1 group-title="Serbia",Naxi Hype Radio
+https://naxidigital-hype128ssl.streaming.rs:8272/;
+#EXTINF:-1 group-title="Serbia",Naxi Latino Radio
+https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Radio Šumadinac Narodna
+https://media.srb-streaming.com/stream/radio-sumadinac-narodna
+#EXTINF:-1 group-title="Serbia",Radio 021
+https://radio.dukahosting.com/8006/stream
+#EXTINF:-1 group-title="Serbia",Naxi Love Radio
+https://naxidigital-love128ssl.streaming.rs:8102/;
+#EXTINF:-1 group-title="Serbia",Radio Patrola 021
+https://srv.mediastriming.com/8444/stream
+#EXTINF:-1 group-title="Serbia",Naxi Clubbing Radio
+https://naxidigital-clubbing128ssl.streaming.rs:8092/;
+#EXTINF:-1 group-title="Serbia",Radio Ritam Srca
+https://s4.radio.co/s0f65dad2d/listen
+#EXTINF:-1 group-title="Serbia",RSG Relax
+https://stream.rsg.rs/relax/
+#EXTINF:-1 group-title="Serbia",TOP FM Belgrade - 106,8 MHz
+https://topfm64ssl.streaming.rs:9287/;stream.mp3
+#EXTINF:-1 group-title="Serbia",Red radio Beograd
+https://stream.redradio.rs/sid=1
+#EXTINF:-1 group-title="Serbia",Radio S3 Folk stars
+https://stream.radios.rs:9024/;
+#EXTINF:-1 group-title="Serbia",Naxi Jazz Radio
+https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Naxi Lounge Radio
+https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Radio S3 Narodni
+https://stream.radios.rs:9016/;
+#EXTINF:-1 group-title="Serbia",Naxi Fresh Radio
+https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Radio Šumadinac Krajiška
+https://media.srb-streaming.com/stream/radio-sumadinac-krajiska
+#EXTINF:-1 group-title="Serbia",Radio Fruska Gora
+https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream
+#EXTINF:-1 group-title="Serbia",Kiss FM
+https://cast2.my-control-panel.com/proxy/kissdoog/stream
+#EXTINF:-1 group-title="Serbia",Nostalgie Radio Belgrade - 105,2 Mhz
+https://nostalgie128ssl.streaming.rs:9252/;stream.mp3
+#EXTINF:-1 group-title="Serbia",Radio Balkan Trending
+https://radiobalkan.live/radio/live/trending.mp3
+#EXTINF:-1 group-title="Serbia",Radio Srce Krajine
+https://srv.mediastriming.com/8330/stream
+#EXTINF:-1 group-title="Serbia",Focus Radio
+https://streamer.radio.co/s34d2c17d8/listen
+#EXTINF:-1 group-title="Serbia",Naxi Kids Radio
+https://naxidigital-kids128ssl.streaming.rs:8052/;
+#EXTINF:-1 group-title="Serbia",Radio Banja 2
+https://stream.iradio.pro/proxy/radiobanja2?mp=/stream
+#EXTINF:-1 group-title="Serbia",Naxi Adore
+https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Radio S2 - Index radio
+https://stream.radios.rs:9002/;
+#EXTINF:-1 group-title="Serbia",Naxi R'n'B Radio
+https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv
+#EXTINF:-1 group-title="Serbia",Radio In
+https://radioinnis-naxinacional.streaming.rs:8622/;
+#EXTINF:-1 group-title="Serbia",RSG Party time
+https://stream.rsg.rs/partytime/
+#EXTINF:-1 group-title="Serbia",Mugadavanje
+https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje
+#EXTINF:-1 group-title="Serbia",Radio San Loznica
+https://s1.skeletor.rs/san
+#EXTINF:-1 group-title="Serbia",Super FM Beograd
+https://onair.superfm.rs/superfm.mp3
+#EXTINF:-1 group-title="Serbia",Radio 021 100% domaće
+https://centova.dukahosting.com/proxy/021domaca/stream
+#EXTINF:-1 group-title="Serbia",Radio Kolo
+https://mars.streamerr.co/8280/stream
+#EXTINF:-1 group-title="Serbia",Naxi Radio 016
+https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1
+#EXTINF:-1 group-title="Serbia",Radio Podrinje
+https://s1.skeletor.rs/podrinje
+#EXTINF:-1 group-title="Serbia",Radio Krajina 019
+https://cmr-hosting.com:7021/;
+#EXTINF:-1 group-title="Serbia",Radio S Easy
+https://stream.radios.rs:9044/stream
+#EXTINF:-1 group-title="Serbia",Yu Novi Pazar
+https://yuradio.ipradio.rs:9036/;
+#EXTINF:-1 group-title="Serbia",Radio Sloboda Kraljevo
+https://audio.slobodafm.com:8000/radio.mp3
+#EXTINF:-1 group-title="Serbia",Muzicki Radio 101
+https://as1.radioserveri.com:8090/radio.mp3
+#EXTINF:-1 group-title="Serbia",Bum Bum Radio
+https://bumbum.nlnet.rs:8443/bumbum?download=false
+#EXTINF:-1 group-title="Serbia",Radio 3 LIVE
+https://radio3-64ssl.streaming.rs:9212/;stream.nsv
+#EXTINF:-1 group-title="Serbia",OK Prelo Radio
+https://stream.okplus.rs/listen/prelo/radio.mp3
+#EXTINF:-1 group-title="Serbia",Radio TRI
+https://radiotri-128.streaming.rs:9302/;stream.mp3
+#EXTINF:-1 group-title="Serbia",021 caffe
+https://centova.dukahosting.com/proxy/021kafe/stream
+#EXTINF:-1 group-title="Serbia",Naxi 70e
+https://naxidigital-70s128ssl.streaming.rs:8042/;
+#EXTINF:-1 group-title="Serbia",Radio Delta 31
+https://cast4.asurahosting.com/proxy/dejan/stream
+#EXTINF:-1 group-title="Serbia",Naxi 70-e 3
+https://naxidigital-70s128ssl.streaming.rs:8382/;
+#EXTINF:-1 group-title="Serbia",Nas Radio 107,80 Zabalj
+https://radio.dukahosting.com:7043/;
+#EXTINF:-1 group-title="Serbia",OK Plus Radio
+https://stream.okplus.rs/listen/plus/radio.mp3
+#EXTINF:-1 group-title="Serbia",Radio 021 Rock
+https://centova.dukahosting.com/proxy/rock/stream
+#EXTINF:-1 group-title="Serbia",Radio SKAY
+https://live.radioskay.com/;*.mp3
+#EXTINF:-1 group-title="Serbia",Lux Radio
+https://lux-naxinacional.streaming.rs:8607/;
+#EXTINF:-1 group-title="Serbia",Radio S XTRA
+https://stream.radios.rs:9026/;*.mp3
+#EXTINF:-1 group-title="Serbia",Radio 021 Disco & Funk
+https://centova.dukahosting.com/proxy/021disco/stream
+#EXTINF:-1 group-title="Serbia",Original Fast Radio
+https://az-de-01.worldradiobeat.com:8000/live
+#EXTINF:-1 group-title="Serbia",Radio Maestro
+https://radio-maestro.com:8443/stream.mp3
+#EXTINF:-1 group-title="Serbia",Radio S Južni
+https://stream.radios.rs:9038/stream
+#EXTINF:-1 group-title="Serbia",Radio S Modern Classic
+https://stream.radios.rs:9072/stream
+#EXTINF:-1 group-title="Serbia",Radio S Pop Folk
+https://stream.radios.rs:9046/stream
+#EXTINF:-1 group-title="Serbia",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Serbia",Luna Radio
+https://eu10.fastcast4u.com:6110/stream/7/
+#EXTINF:-1 group-title="Serbia",Radio S Kids
+https://stream.radios.rs:9022/stream
+#EXTINF:-1 group-title="Serbia",Radio S Latino
+https://stream.radios.rs:9054/stream
+#EXTINF:-1 group-title="Serbia",Radio S Starogradski
+https://stream.radios.rs:9064/stream
+#EXTINF:-1 group-title="Serbia",S21 Euro
+https://radiozender.mpbnetwerken.nl/s21radio?v=1.0
+#EXTINF:-1 group-title="Serbia",RADIO AS FM
+https://asfmonair-masterasfm.radioca.st/stream

@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="merengue",Top Merengue Radio
+https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="salsa",Top Salsa Radio
+https://radio.dominiserver.com/proxy/topsalsaradio?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="hip-hop,reggaeton",Top Urbano
+https://radio.dominiserver.com/proxy/topurbano?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="baladas",Top Balada Radio
+https://radio.dominiserver.com/proxy/topbaladaradio?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue",FieraMix
+https://c11.radioboss.fm:18269/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="merengue,salsa",Latina 104
+https://radio.dominiserver.com/proxy/latina104?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="gospel",Radio Bendicion
+https://samuel.i-radio.co:9000/radiobendicion
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue,salsa",Dominicana FM 98.9 y 99.9 FM
+https://protvradiostream.com:8610/;
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue,salsa",Platino Radio
+https://platinoradio-henrsosa.radioca.st/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="music",Disco 89 88.9 FM
+https://rgradio.net/disco89/disco89.mp3
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue",Criolla 106.1 FM
+https://streaming.grupomediosdelnorte.com:8002/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="dance,reggaeton",Air Romana Radio
+https://stream.radiojar.com/4ggz3rkd838uv
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue,reggaeton,salsa",La Nueva 106.9 FM
+https://lanueva106.radioca.st/stream/1/
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue,salsa",FM 97.3 La Super Estación
+https://cast4.my-control-panel.com/proxy/atlantica97/;
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue,salsa",Estrella 92.3 FM
+https://c13.radioboss.fm:18187/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="merengue,music,reggaeton,salsa",Estelar-106
+https://radio.dominiserver.com/proxy/estelar106?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="baladas,pop",Radio FM-103 - 103.5
+https://radio.radiord.net/8008/;
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="love-songs",Estación 97.7 FM
+https://stream2.rcast.net/61187
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue",BUEN PASTOR RADIO
+https://c22.radioboss.fm:8394/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="hits,pop",Nex Hits
+https://nexhits.net:8050/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="bachata,merengue",Radio Cima 100.5
+https://app.sonicpanelradio.com:8648/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="latin-music,salsa",Fuego 90.1
+https://radiordomi.com/8390/stream
+#EXTINF:-1 group-title="Dominican Republic" tvg-genre="christian-music",Radio Amanecer
+https://sp.sintonizapp.com:7003/;type=mp3
+#EXTINF:-1 group-title="Dominican Republic",Top Bachata Radio
+https://radio.dominiserver.com/proxy/topbachata?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic",Top Cristiano Radio
+https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic",CDN Radio
+https://play.cdnradio.com.do/cdnlive
+#EXTINF:-1 group-title="Dominican Republic",Miss 104 FM
+https://radio.dominiserver.com/proxy/miss104fm?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic",Turbo 98.3 FM
+https://cdn-embed.tunein.com/resources/media/blank.mp3
+#EXTINF:-1 group-title="Dominican Republic",Radio fm103 (RD)
+https://radio.radiord.net/8008/;stream.mp3
+#EXTINF:-1 group-title="Dominican Republic",Monumental 100.3 FM
+https://radio2.grupointernet.com/8103/stream
+#EXTINF:-1 group-title="Dominican Republic",Radio Santa Maria
+https://paginas.moisespaulino.com/proxy/rsantamaria/stream?type=.mp3
+#EXTINF:-1 group-title="Dominican Republic",Super K FM
+https://grupomedrano.stream-audio.com:8856/SuperK
+#EXTINF:-1 group-title="Dominican Republic",Radio Eternidad
+https://cast5.my-control-panel.com/proxy/radioete/stream?type=.mp3?ver=286200
+#EXTINF:-1 group-title="Dominican Republic",Bendicion95.1 FM
+https://sp.unoredcdn.net/8054/stream
+#EXTINF:-1 group-title="Dominican Republic",Palma 90.7 FM
+https://radiordomi.com/8030/stream
+#EXTINF:-1 group-title="Dominican Republic",MC Anime Radio
+https://cast.mcanimeradio.com/listen/mcradio/radio.aac
+#EXTINF:-1 group-title="Dominican Republic",La X 102.1 FM
+https://audio.livecastnet.com:2535/stream
+#EXTINF:-1 group-title="Dominican Republic",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Dominican Republic",Vida FM
+https://servidor38.brlogic.com:7104/live
+#EXTINF:-1 group-title="Dominican Republic",RD 700am Radio Gosen
+https://s5.radio.co/sfc2826e6e/listen
+#EXTINF:-1 group-title="Dominican Republic",DBS Radio
+https://stream.dbcradio.net:8005/live
+#EXTINF:-1 group-title="Dominican Republic",Radio Cima 100.5
+https://sonicpanel.streaming10.net:8146/stream
+#EXTINF:-1 group-title="Dominican Republic",WXM ONE RADIO
+https://jm8n.net/8024/stream
+#EXTINF:-1 group-title="Dominican Republic",Genial FM
+https://nexostream.net:8040/live
+#EXTINF:-1 group-title="Dominican Republic",Estelar 106
+https://nexostream.net:8060/live
+#EXTINF:-1 group-title="Dominican Republic",Disco 106.1
+https://radiordomi.com/8118/stream
+#EXTINF:-1 group-title="Dominican Republic",Exaltación FM
+https://exaltacionfm.net:8070/stream
+#EXTINF:-1 group-title="Dominican Republic",Radio Util 102.9 FM
+https://shoutcast.tmcreativos.com/proxy/radioutil?mp=/stream
+#EXTINF:-1 group-title="Dominican Republic",Yarah Radio
+https://servidor40-4.brlogic.com:7022/live?source=website
+#EXTINF:-1 group-title="Dominican Republic",Mortal 104.9 FM
+https://radio.telemicro.com.do/mortal104
+#EXTINF:-1 group-title="Dominican Republic",Romantica 103.FM
+https://radio.dominiserver.com/proxy/romantica103fm/stream
+#EXTINF:-1 group-title="Dominican Republic",Exclusive Radio
+https://servidor25-3.brlogic.com:7110/live
+#EXTINF:-1 group-title="Dominican Republic",Fascinante FM
+https://nexostream.net:8180/live
+#EXTINF:-1 group-title="Dominican Republic",La Z101 Fm
+https://streaming.z101digital.com/z101?cb=1779372229211

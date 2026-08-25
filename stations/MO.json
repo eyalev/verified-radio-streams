@@ -1,0 +1,328 @@
+{
+ "countryCode": "MO",
+ "country": "Macao SAR China",
+ "slug": "macao-sar-china",
+ "continent": "asia",
+ "stationCount": 14,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/macao-sar-china/",
+ "stations": [
+  {
+   "id": "cityfm-macau-90-5-fm",
+   "name": "CityFM Macau - 90.5 FM",
+   "url": "https://m.qtfm.cn/",
+   "stream": "https://lhttp.qtfm.cn/live/20500153/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt",
+    "zh"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "music"
+   ],
+   "votes": 111,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "101-1-smooth-fm",
+   "name": "101.1 Smooth FM",
+   "url": "https://smoothfm.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/smooth.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt",
+    "zh"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 98,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m80-radio-macau-rock",
+   "name": "M80 Radio Macau - Rock",
+   "url": "https://bauermedia.pt/m80/m80-rock",
+   "stream": "https://stream-icy.bauermedia.pt/m80rock.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt",
+    "zh"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 82,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m80-radio-macau-107-1-fm",
+   "name": "M80 Radio Macau - 107.1 FM",
+   "url": "https://m80.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m80.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt",
+    "zh"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 72,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m80-radio-macau-90s",
+   "name": "M80 Radio Macau - 90s",
+   "url": "https://bauermedia.pt/m80/m80-90",
+   "stream": "https://stream-icy.bauermedia.pt/m8090.aac",
+   "codec": "aac",
+   "bitrate": 127,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt",
+    "zh"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "90s",
+    "hits",
+    "pop",
+    "rock"
+   ],
+   "votes": 68,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rtp-macau-97-1-fm",
+   "name": "RTP Macau - 97.1 FM",
+   "url": "https://madeira.rtp.pt/",
+   "stream": "https://radiocast.rtp.pt/antena1madeira80a.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "mandarin",
+    "portuguese"
+   ],
+   "langCodes": [
+    "cmn",
+    "pt"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "music"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "m80-radio-macau-80s",
+   "name": "M80 Radio Macau - 80s",
+   "url": "https://m80.pt/",
+   "stream": "https://stream-icy.bauermedia.pt/m8080.aac",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "cantonese",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "yue"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "channel-v-international",
+   "name": "Channel [V] International",
+   "url": "https://en.m.wikipedia.org/wiki/Channel_V",
+   "stream": "https://listen.radioking.com/radio/453221/stream/508076",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [
+    "top-40"
+   ],
+   "votes": 27,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "record-fm-100-3-macau",
+   "name": "Record FM 100.3 Macau",
+   "url": "https://www.recordfm.pt/player_m_lisboa.htm",
+   "stream": "https://nl.digitalrm.pt:8028/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "cantonese",
+    "portuguese"
+   ],
+   "langCodes": [
+    "pt",
+    "yue"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [],
+   "votes": 63,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "asia-fm-106-9",
+   "name": "Asia FM 106.9",
+   "url": "http://www.asiafm.net/",
+   "stream": "https://lhttp.qingting.fm/live/20071/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "cantonese"
+   ],
+   "langCodes": [
+    "yue"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [],
+   "votes": 46,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lotus-fm-macau-hd-97-4-fm",
+   "name": "Lotus FM Macau HD - 97.4 FM",
+   "url": "https://wap.macaulotustv.cc/wap.php",
+   "stream": "https://lhttp.qtfm.cn/live/20533/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "en"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lotus-macau-radio-1062-am",
+   "name": "Lotus Macau Radio - 1062 AM",
+   "url": "https://wap.macaulotustv.cc/wap.php",
+   "stream": "https://lhttp.qtfm.cn/live/20133/64k.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "en"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "yw-city-radio-macau-954-am",
+   "name": "YW City Radio - Macau 954 AM",
+   "url": "https://www.ywcity.cn/#/homepage",
+   "stream": "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn"
+   ],
+   "state": "Macao, SAR of China",
+   "genre": [],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 7,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

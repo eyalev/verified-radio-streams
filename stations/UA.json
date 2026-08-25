@@ -1,0 +1,2047 @@
+{
+ "countryCode": "UA",
+ "country": "Ukraine",
+ "slug": "ukraine",
+ "continent": "europe",
+ "stationCount": 107,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/ukraine/",
+ "stations": [
+  {
+   "id": "kiss-fm-ukrainian",
+   "name": "Kiss FM Ukrainian",
+   "url": "https://www.kissfm.ua/",
+   "stream": "https://online.kissfm.ua/KissFM_Ukr",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 9248,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio1",
+   "name": "Радіо Перше",
+   "url": "https://radio1.com.ua/",
+   "stream": "https://online-news.radioplayer.ua/RadioNews",
+   "codec": "mp3",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 7306,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "brokenbeats",
+   "name": "Brokenbeats",
+   "url": "http://brokenbeats.net/",
+   "stream": "https://stream.brokenbeats.net/tune",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "ru",
+    "uk"
+   ],
+   "genre": [
+    "downtempo"
+   ],
+   "votes": 5459,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm",
+   "name": "Мелодія FM",
+   "url": "",
+   "stream": "https://online.melodiafm.ua/MelodiaFM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 3856,
+   "clicks": 11,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm",
+   "name": "Kiss FM",
+   "url": "https://www.kissfm.ua/",
+   "stream": "https://online.kissfm.ua/KissFM_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "edm"
+   ],
+   "votes": 2069,
+   "clicks": 24,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-2",
+   "name": "Хіт FM",
+   "url": "https://www.hitfm.ua/",
+   "stream": "https://online.hitfm.ua/HitFM_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 1357,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nrj-ukraine",
+   "name": "NRJ Ukraine",
+   "url": "https://nrj.ua/",
+   "stream": "https://cast.mediaonline.net.ua/nrj320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "dance",
+    "electronic",
+    "pop",
+    "top-40"
+   ],
+   "votes": 1219,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-relax",
+   "name": "Radio Relax",
+   "url": "https://www.radiorelax.ua/",
+   "stream": "https://online.radiorelax.ua/RadioRelax",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 958,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rocks-kyiv-103-6fm-hd",
+   "name": "Radio ROCKS Kyiv 103.6FM HD",
+   "url": "https://play.tavr.media/radioroks/",
+   "stream": "https://online.radioroks.ua/RadioROKS_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 950,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-roks-classic-rock",
+   "name": "Radio ROKS Classic Rock",
+   "url": "https://www.radioroks.ua/",
+   "stream": "https://online.radioroks.ua/RadioROKS_ClassicRock_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 945,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-3",
+   "name": "Перець FM",
+   "url": "https://perec.fm/",
+   "stream": "https://radio.perec.fm/radio-stilnoe",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 883,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rocks-103-6fm-hd",
+   "name": "Radio ROCKS Новий Рок 103.6FM HD",
+   "url": "https://play.tavr.media/radioroks/newrock/",
+   "stream": "https://online.radioroks.ua/RadioROKS_NewRock_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "rock"
+   ],
+   "votes": 810,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-4",
+   "name": "Радіо Шлягер FM",
+   "url": "https://shlager.fm/",
+   "stream": "https://cast.brg.ua/shanson_main_public_mp3_hq",
+   "codec": "mp3",
+   "bitrate": 224,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 647,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "svoboda-fm",
+   "name": "Радіо Svoboda FM",
+   "url": "https://radio.svoboda.fm/",
+   "stream": "https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 641,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "loungefm-chill-out",
+   "name": "LoungeFm Chill Out",
+   "url": "https://loungefm.com.ua/chill",
+   "stream": "https://cast.mediaonline.net.ua/chillout320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kiev",
+   "genre": [
+    "chillout"
+   ],
+   "votes": 548,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "europa-plus",
+   "name": "Europa Plus",
+   "url": "https://europaplus.kiev.ua/",
+   "stream": "https://s5.radioforge.com:7908/live?n=77357",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 540,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "galychyna",
+   "name": "Galychyna",
+   "url": "https://www.galychyna.fm/",
+   "stream": "https://stream320.galychyna.fm/WebSite",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Lviv Oblast",
+   "genre": [
+    "pop-music",
+    "rock"
+   ],
+   "votes": 430,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-disco-melody",
+   "name": "FM Disco Melody",
+   "url": "https://www.melodiafm.ua/",
+   "stream": "https://online.melodiafm.ua/MelodiaFM_Disco",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "disco",
+    "pop"
+   ],
+   "votes": 324,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1",
+   "name": "1] Авторадіо",
+   "url": "https://avtoradio.ua/",
+   "stream": "https://cast.mediaonline.net.ua/avtoradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 278,
+   "clicks": 13,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "myradio24",
+   "name": "Ретро",
+   "url": "",
+   "stream": "https://listen1.myradio24.com/5967",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 254,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-digital-sd",
+   "name": "Kiss FM Digital SD",
+   "url": "https://play.tavr.media/kissfm/digital/",
+   "stream": "https://online.kissfm.ua/KissFM_Digital",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "dance"
+   ],
+   "votes": 242,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guliayradio",
+   "name": "Гуляй Радіо",
+   "url": "https://www.guliayradio.ua/",
+   "stream": "https://online.radioplayer.ua/GuliayRadio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "disco"
+   ],
+   "votes": 241,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megapolis-fm-105-2-kryvyi-rih",
+   "name": "Megapolis FM 105.2 Kryvyi Rih",
+   "url": "https://cast.megapolis.fm/public/kryvyi_rih",
+   "stream": "https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "DP",
+   "genre": [
+    "pop"
+   ],
+   "votes": 237,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mfm-station",
+   "name": "MFM STATION",
+   "url": "https://mfm.ua/",
+   "stream": "https://radio.mfm.ua/online128",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kharkiv",
+   "genre": [
+    "dance",
+    "electronic",
+    "pop",
+    "top-40"
+   ],
+   "votes": 229,
+   "clicks": 14,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "garmonia-mira",
+   "name": "Garmonia Mira",
+   "url": "https://garmoniamira.com/",
+   "stream": "https://garmonia-stream.fakel.com.ua/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical",
+    "jazz"
+   ],
+   "votes": 226,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-fm-acoustic",
+   "name": "Lounge FM Acoustic",
+   "url": "https://loungefm.com.ua/",
+   "stream": "https://cast.mediaonline.net.ua/acoustic320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Kiev",
+   "genre": [
+    "lounge",
+    "relax"
+   ],
+   "votes": 222,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ptrk",
+   "name": "Радіо ПТРК",
+   "url": "https://ptrk.tv/radio",
+   "stream": "https://service.ptrk.tv:8443/PTRK",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 205,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "avtoradio",
+   "name": "Авторадіо",
+   "url": "https://avtoradio.ua/",
+   "stream": "https://cast.mediaonline.net.ua/avtoradio320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 203,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-fm-terrace",
+   "name": "Lounge FM Terrace",
+   "url": "https://loungefm.com.ua/",
+   "stream": "https://cast.mediaonline.net.ua/terrace320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Kiev",
+   "genre": [
+    "lounge",
+    "relax"
+   ],
+   "votes": 185,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "true-black-metal-radio",
+   "name": "True Black Metal Radio",
+   "url": "",
+   "stream": "https://trueblackmetalradio.com:8000/radio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 154,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-fm",
+   "name": "Lounge FM",
+   "url": "https://loungefm.com.ua/",
+   "stream": "https://cast.mediaonline.net.ua/loungefm320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kiev",
+   "genre": [
+    "chillout",
+    "lounge"
+   ],
+   "votes": 153,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tvoeradio",
+   "name": "Твоє радіо",
+   "url": "https://www.tvoeradio.com/",
+   "stream": "https://complex.in.ua/tvoeRadio",
+   "codec": "aac",
+   "bitrate": 80,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 145,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jazz-gold-fm",
+   "name": "Radio Jazz Gold FM",
+   "url": "https://play.tavr.media/radiojazz/gold/",
+   "stream": "https://online.radiojazz.ua/RadioJazz_Gold",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 119,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sfm",
+   "name": "Слобожанське ФМ",
+   "url": "https://www.sfm.in.ua/",
+   "stream": "https://globalic.stream:1810/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 109,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiopyatnica",
+   "name": "Радіо П'ятниця",
+   "url": "https://radiopyatnica.com.ua/",
+   "stream": "https://cast.mediaonline.net.ua/radiopyatnica320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 107,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "megapolis",
+   "name": "Радіо Мегаполіс (Кам'янське)",
+   "url": "https://www.megapolis.fm/",
+   "stream": "https://cast.megapolis.fm/listen/kamyanske/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 99,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "powerfm",
+   "name": "PowerFM",
+   "url": "https://powerfm.ua/",
+   "stream": "https://cast.brg.ua/powerfm_main_public_mp3_hq",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop",
+    "top-40"
+   ],
+   "votes": 98,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "play-fm-105-5",
+   "name": "Play FM Луганск 105.5ФМ",
+   "url": "http://play-fm.ru/",
+   "stream": "https://radio.play-fm.ru:8001/playfm",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "язык:-русский"
+   ],
+   "genre": [
+    "dance"
+   ],
+   "votes": 97,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "109fm",
+   "name": "109FM",
+   "url": "https://www.109fm.net/",
+   "stream": "https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "house",
+    "techno",
+    "trance"
+   ],
+   "votes": 95,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fm-7",
+   "name": "Богуслав FM",
+   "url": "https://boguslav.media/",
+   "stream": "https://complex.in.ua/b320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 92,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "smart-zeros",
+   "name": "Smart Zeros",
+   "url": "https://smart2000s.com/cool-songs-for-2000-theme-party/",
+   "stream": "https://s61.radiolize.com//radio//8000//radio.mp3",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "2000s",
+    "dance",
+    "hip-hop",
+    "house",
+    "pop",
+    "rock"
+   ],
+   "votes": 89,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tim-fm-chernihiv",
+   "name": "Tim FM Chernihiv",
+   "url": "https://timfm.online/",
+   "stream": "https://tim-fm.tim.ua/mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Chernihiv",
+   "genre": [
+    "pop"
+   ],
+   "votes": 87,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yantarne-fm",
+   "name": "Yantarne FM",
+   "url": "https://yantarne.fm/",
+   "stream": "https://complex.in.ua/yantarne",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 87,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yavir",
+   "name": "Явір ФМ",
+   "url": "https://yavir.fm/",
+   "stream": "https://complex.in.ua/Yavir",
+   "codec": "aac",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 83,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-shanson",
+   "name": "Radio Shanson",
+   "url": "https://brg.ua/radio-shanson/",
+   "stream": "https://cast.brg.ua/newshanson_main_public_mp3_hq",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "oldies",
+    "pop"
+   ],
+   "votes": 81,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "100fm",
+   "name": "Буковинська Хвиля",
+   "url": "https://www.100fm.cv.ua/",
+   "stream": "https://100.cv.ua:8443/play",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 81,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "maximum",
+   "name": "Радіо Максимум",
+   "url": "https://maximum.fm/",
+   "stream": "https://lux.radio.tvstitch.com/kyiv/max_adv_sd",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 77,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ax-radio",
+   "name": "Ax Radio!",
+   "url": "https://axradio.net/",
+   "stream": "https://m.axradio.net/stream.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "state": "Zaporizhzhia",
+   "genre": [
+    "dance",
+    "hits",
+    "house",
+    "pop"
+   ],
+   "votes": 73,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "djfm-dance",
+   "name": "DJFM DANCE",
+   "url": "https://djfm.ua/",
+   "stream": "https://cast.brg.ua/djfmdance_main_public_mp3_hq",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "dance",
+    "music",
+    "pop"
+   ],
+   "votes": 71,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "magic-radio",
+   "name": "MAGIC Radio",
+   "url": "https://brg.ua/magic-radio/",
+   "stream": "https://cast.brg.ua/business_main_public_mp3_hq",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "7-rays-radio",
+   "name": "7 Rays Radio",
+   "url": "https://7promeniv.com.ua/radio",
+   "stream": "https://7rays.stream.laut.fm/7rays",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Lviv",
+   "genre": [
+    "ambient",
+    "chillout",
+    "relax"
+   ],
+   "votes": 53,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-social-net-ua",
+   "name": "Radio Social.net.ua",
+   "url": "https://radio.social.net.ua/",
+   "stream": "https://radio.social.net.ua/live.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 53,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-nakypilo",
+   "name": "Радіо Накипіло / Radio Nakypilo",
+   "url": "https://radio.nakypilo.ua/",
+   "stream": "https://radiostream.nakypilo.ua/full",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Kharkiv",
+   "genre": [
+    "electronic",
+    "jazz",
+    "pop"
+   ],
+   "votes": 49,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1tv",
+   "name": "Перше міське радіо (Одеса)",
+   "url": "https://1tv.od.ua/",
+   "stream": "https://live.1tv.od.ua/radio/stream/icecast.audio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 46,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "novaline",
+   "name": "Радіо NovaLine",
+   "url": "https://novaline.fm/en/",
+   "stream": "https://stream.novaline.net.ua/Novaline_320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 45,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zfm",
+   "name": "ZFM+ (Захид ФМ +)",
+   "url": "https://zfm.com.ua/",
+   "stream": "https://radio.zfm.com.ua:8443/zfm",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "dance",
+    "edm",
+    "pop"
+   ],
+   "votes": 44,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coma-fm",
+   "name": "coma.fm",
+   "url": "https://coma.fm/",
+   "stream": "https://stream.radio.co/s4360dbc20/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Kyiv",
+   "genre": [
+    "blues",
+    "jazz",
+    "rock"
+   ],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "zvukrradio",
+   "name": "Звичайне україномовне радіо",
+   "url": "https://zvukrradio.wixsite.com/mysite",
+   "stream": "https://whsh4u-panel.com/proxy/yvlxzzdx?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ua",
+   "name": "Радіо Інді.UA",
+   "url": "https://play.tavr.media/radioindieua/",
+   "stream": "https://online.radioplayer.ua/RadioIndieUA",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "pop",
+    "rnb",
+    "rock"
+   ],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "c4",
+   "name": "Радіо C4",
+   "url": "https://c4.com.ua/",
+   "stream": "https://radio.c4.com.ua:8443/320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 30,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "urc-radio",
+   "name": "URC Radio",
+   "url": "https://urcradio.com/",
+   "stream": "https://streamer.radio.co/sdff2fd6a8/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "ukranian"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 21,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-italiana-ua",
+   "name": "radio Italiana(UA)",
+   "url": "https://o.tavr.media/radio3italiano",
+   "stream": "https://online.radioplayer.ua/RadioItaliana",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "укр"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radivo",
+   "name": "RadiVo",
+   "url": "https://radivo.thx8te.kh.ua/public/radivo",
+   "stream": "https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "russian",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "ru",
+    "uk"
+   ],
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 14,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ulyublene-radio-horodyshche-98-fm",
+   "name": "Ulyublene radio Horodyshche 98 FM",
+   "url": "https://ufm.24media.com.ua/",
+   "stream": "https://listen7.myradio24.com/ulyublene",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 10,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "style-fm",
+   "name": "STYLE FM",
+   "url": "https://fm.co.ua/",
+   "stream": "https://myradio24.org/station",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "russian",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "ru",
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "chillout",
+    "jazz",
+    "lounge"
+   ],
+   "votes": 8,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chill-and-relax",
+   "name": "Люкс ФМ – Chill and Relax",
+   "url": "https://lux.fm/",
+   "stream": "https://lux.radio.tvstitch.com/chill-sd",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "chillout",
+    "relax"
+   ],
+   "votes": 6,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-pop-24",
+   "name": "K-Pop 24",
+   "url": "https://lux.fm/",
+   "stream": "https://lux.radio.tvstitch.com/k-pop-sd",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [
+    "kpop"
+   ],
+   "votes": 5,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "mj-play-fm",
+   "name": "Mj Play FM",
+   "url": "https://mjplay.empirecraft.lv/",
+   "stream": "https://mjplay.empirecraft.lv/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "uk"
+   ],
+   "genre": [
+    "country",
+    "rock"
+   ],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jam-progressive",
+   "name": "Jam progressive",
+   "url": "https://jam5.uk/",
+   "stream": "https://jam5.uk/listen/progressiveua/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "techno"
+   ],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "worship",
+   "name": "Worship",
+   "url": "https://radio.dobreff.com/",
+   "stream": "https://radio.dobreff.com/worship.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [
+    "worship"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "lounge-music",
+   "name": "Lounge Music",
+   "url": "https://radio.dobreff.com/",
+   "stream": "https://radio.dobreff.com/lounge.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "lounge"
+   ],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trance-is-star-radio",
+   "name": "TRANCE IS STAR RADIO",
+   "url": "https://twitter.com/tranceisstar",
+   "stream": "https://myradio24.org/tisradio",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "english",
+    "russian",
+    "ukrainian"
+   ],
+   "langCodes": [
+    "en",
+    "ru",
+    "uk"
+   ],
+   "state": "Novosyolky",
+   "genre": [],
+   "votes": 7470,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "96-0",
+   "name": "Радіо НВ 96.0",
+   "url": "https://radio.nv.ua/",
+   "stream": "https://online-radio.nv.ua/radionv.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [],
+   "votes": 7420,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-digital-hd",
+   "name": "Kiss FM Digital HD",
+   "url": "https://play.tavr.media/kissfm/digital/",
+   "stream": "https://online.kissfm.ua/KissFM_Digital_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Kiev",
+   "genre": [],
+   "votes": 5488,
+   "clicks": 21,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-ukraine-hd",
+   "name": "Kiss FM Ukraine HD",
+   "url": "https://www.kissfm.ua/",
+   "stream": "https://online.kissfm.ua/KissFM_Ukr_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 3676,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "98-fm",
+   "name": "РАДІО КИЇВ – 98 FM",
+   "url": "https://radio.kyiv.media/",
+   "stream": "https://cdn.vsnw.net:8943/kyiv_fm_128k",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kyiv",
+   "genre": [],
+   "votes": 3135,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiorelax-instrumental-hd",
+   "name": "RadioRelax_Instrumental_HD",
+   "url": "https://online.radiorelax.ua/",
+   "stream": "https://online.radiorelax.ua/RadioRelax_Instrumental_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 2154,
+   "clicks": 9,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jazz-cover",
+   "name": "Radio Jazz Cover",
+   "url": "https://play.tavr.media/radiojazz/cover/",
+   "stream": "https://online.radiojazz.ua/RadioJazz_Cover_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 713,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-fm-deep",
+   "name": "Kiss FM Deep",
+   "url": "https://www.kissfm.ua/",
+   "stream": "https://online.kissfm.ua/KissFM_Deep",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Kyiv",
+   "genre": [],
+   "votes": 688,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "informator-fm",
+   "name": "Informator FM",
+   "url": "https://informator.fm/",
+   "stream": "https://main.inf.fm:8101/;?type=http&nocache=221893",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Dnepr",
+   "genre": [],
+   "votes": 687,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hd",
+   "name": "Наше Радіо HD",
+   "url": "https://www.nasheradio.ua/",
+   "stream": "https://online.nasheradio.ua/NasheRadio_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Kyiv",
+   "genre": [],
+   "votes": 427,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-gold-ukraine",
+   "name": "Radio Gold Ukraine",
+   "url": "https://www.radiogold.com.ua/",
+   "stream": "https://online.radioplayer.ua/RadioGold",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 395,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rockradio-ua-ua",
+   "name": "RockRadio UA (РокРадіо UA)",
+   "url": "https://rockradioua.online/",
+   "stream": "https://rockradioua.online:8433/rock_256",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Kherson",
+   "genre": [],
+   "votes": 344,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "djfm-ua-mp3-256k",
+   "name": "DJFM.UA [MP3 256k]",
+   "url": "https://djfm.ua/",
+   "stream": "https://cast.fex.net/djfm_x",
+   "codec": "mp3",
+   "bitrate": 256,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [],
+   "votes": 342,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-trek",
+   "name": "Radio TREK",
+   "url": "https://radiotrek.rv.ua/",
+   "stream": "https://cast.radiotrek.rv.ua:8433/MP3_320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 330,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "relax-int",
+   "name": "relax int",
+   "url": "https://www.radiorelax.ua/",
+   "stream": "https://online.radiorelax.ua/RadioRelax_Int",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "engilsh"
+   ],
+   "genre": [],
+   "votes": 236,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-relax-christmas",
+   "name": "Radio Relax Christmas",
+   "url": "https://radiorelax.ua/",
+   "stream": "https://online.radiorelax.ua/RadioRelax_Christmas_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 182,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "record-dance-radio",
+   "name": "RECORD DANCE RADIO",
+   "url": "https://www.radiorecord.com.ua/",
+   "stream": "https://online.radiorecord.com.ua/rr_320",
+   "codec": "aac",
+   "bitrate": 320,
+   "langs": [
+    "украина"
+   ],
+   "langCodes": [
+    "ua"
+   ],
+   "genre": [],
+   "votes": 180,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-jazz-christmas",
+   "name": "Radio Jazz Christmas",
+   "url": "https://radiojazz.ua/",
+   "stream": "https://online.radiojazz.ua/RadioJazz_Christmas_HD",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 140,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "west-pole-64k-aac",
+   "name": "Західний полюс West Pole 64k AAC+",
+   "url": "https://z-polus.info/",
+   "stream": "https://online.z-polus.info/mobilehq",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Ivano Frankivsk",
+   "genre": [],
+   "votes": 134,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "west-pole-32k-aac",
+   "name": "Західний полюс West Pole 32k AAC",
+   "url": "https://z-polus.info/",
+   "stream": "https://online.z-polus.info/mobile",
+   "codec": "aac",
+   "bitrate": 32,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Ivano Frankivsk",
+   "genre": [],
+   "votes": 95,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "garta",
+   "name": "Радіо Ґарта / Garta",
+   "url": "https://rockradioua.online/",
+   "stream": "https://rockradioua.online:8433/metal_256",
+   "codec": "aac",
+   "bitrate": 256,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [],
+   "votes": 66,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-west-pole-radio",
+   "name": "The West Pole Radio",
+   "url": "https://z-polus.info/",
+   "stream": "https://online.z-polus.info/hq",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "state": "Ivano Frankivsk",
+   "genre": [],
+   "votes": 62,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": ". Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "freshrock-internet-radio-station",
+   "name": "FreshRock Internet Radio Station",
+   "url": "https://freshrock.net/page/main",
+   "stream": "https://stream.freshrock.net/128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Kyiv",
+   "genre": [],
+   "votes": 15,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "replay-news-5",
+   "name": "REPLAY NEWS - Українська Новинне радіо кожні 5 хвилин",
+   "url": "https://www.replaynews.net/",
+   "stream": "https://replaynewsuk.ice.infomaniak.ch/replaynewsuk-128.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-khartia",
+   "name": "Радіо Хартія (Radio Khartia)",
+   "url": "https://www.radiokhartia.com/",
+   "stream": "https://a9.asurahosting.com/listen/radio_khartia/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "state": "Kharkiv",
+   "genre": [],
+   "votes": 14,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "live-dy-chat-sound",
+   "name": "Live.dy Chat Sound",
+   "url": "https://www.last.fm/",
+   "stream": "https://www.myinstants.com/media/sounds/live-dy-chat-sound.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Oblast",
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "minatrix-fm",
+   "name": "Minatrix.FM: Независимое онлайн-радио и сообщество артистов для публикации музык",
+   "url": "https://minatrix.fm/",
+   "stream": "https://minatrix.fm:8002/play",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Odessa",
+   "genre": [],
+   "votes": 4,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-raid",
+   "name": "Radio «RAID»",
+   "url": "https://radio.raid.army/",
+   "stream": "https://a9.asurahosting.com/listen/radio_raid/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 4,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-hooligan",
+   "name": "RADIO-HOOLIGAN",
+   "url": "https://radio-hooligan.com/",
+   "stream": "https://radio-hooligan.com/stream",
+   "codec": "mp3",
+   "bitrate": 0,
+   "state": "Kiev",
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "k-pop-radio",
+   "name": "K-Pop Radio",
+   "url": "",
+   "stream": "https://online.radioplayer.ua/KpopRadio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pihota-fm",
+   "name": "Pihota.FM",
+   "url": "https://pihota.fm/",
+   "stream": "https://online.pihota.fm/listen/radio/128",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "khvylia-shchastia",
+   "name": "Волна счастья Khvylia Shchastia",
+   "url": "https://volnaschastiya.com/",
+   "stream": "https://listen.radioking.com/radio/562580/stream/622265",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "misto-fm-juda",
+   "name": "Misto FM Juda",
+   "url": "https://mistofm.com/juda",
+   "stream": "https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "teren-fm",
+   "name": "Teren.fm",
+   "url": "https://teren.fm/",
+   "stream": "https://online.teren.fm/teren_320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "ukrainian"
+   ],
+   "langCodes": [
+    "uk"
+   ],
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "wolf-music-radio",
+   "name": "Wolf Music Radio",
+   "url": "https://wolfmusicradio.com/",
+   "stream": "https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 0,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  }
+ ]
+}

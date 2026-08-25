@@ -1,0 +1,83 @@
+{
+ "countryCode": "MV",
+ "country": "Maldives",
+ "slug": "maldives",
+ "continent": "asia",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/maldives/",
+ "stations": [
+  {
+   "id": "dhivehi-fm",
+   "name": "Dhivehi FM",
+   "url": "https://psmnews.mv/stream/tvm",
+   "stream": "https://radio.psm.mv/fmair",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 137,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 102,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "dhivehi-raajjeyge-adu",
+   "name": "Dhivehi Raajjeyge Adu",
+   "url": "https://psmnews.mv/stream/radio-dhivehi-raajjeyge-adu",
+   "stream": "https://radio.psm.mv/draair",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dhivehi"
+   ],
+   "genre": [],
+   "votes": 83,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kinozal-tv",
+   "name": "Kinozal.TV",
+   "url": "https://kinozal.tv/radio.php",
+   "stream": "https://listen7.myradio24.com/kinozaltv",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "dhivehi",
+    "english",
+    "french",
+    "german"
+   ],
+   "langCodes": [
+    "de",
+    "en",
+    "es",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 51,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

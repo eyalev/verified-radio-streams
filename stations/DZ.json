@@ -1,0 +1,947 @@
+{
+ "countryCode": "DZ",
+ "country": "Algeria",
+ "slug": "algeria",
+ "continent": "africa",
+ "stationCount": 53,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/algeria/",
+ "stations": [
+  {
+   "id": "hits-1-algerie",
+   "name": "Hits 1 Algérie",
+   "url": "https://www.hits1radio.com/",
+   "stream": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Alger",
+   "genre": [
+    "pop"
+   ],
+   "votes": 35644,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiojar",
+   "name": "إذاعة القرآن الكريم",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 10680,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": "تفسير بن عثيمين رحمه الله",
+   "url": "",
+   "stream": "https://qurango.net/radio/tafseer",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 6316,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango-2",
+   "name": ". إذاعة ماهر المعيقلي",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/maher",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 4387,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "algerie-chaine-3",
+   "name": "Algérie Chaîne 3",
+   "url": "https://my.radioalgerie.dz/fr/chaine3",
+   "stream": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 2786,
+   "clicks": 18,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beautiful-recitation",
+   "name": "beautiful recitation",
+   "url": "",
+   "stream": "https://qurango.net/radio/salma",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2426,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jil-fm",
+   "name": "Jil FM",
+   "url": "https://my.radioalgerie.dz/fr/jilfm",
+   "stream": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "arabic",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1264,
+   "clicks": 32,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hitradio-rtl-chemnitz",
+   "name": "Hitradio RTL Chemnitz",
+   "url": "https://www.hitradio-rtl.de/",
+   "stream": "https://web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "german"
+   ],
+   "langCodes": [
+    "de"
+   ],
+   "state": "Sachsen",
+   "genre": [
+    "pop"
+   ],
+   "votes": 171,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "antinea-radio",
+   "name": "Antinea Radio",
+   "url": "https://www.antinearadio.com/",
+   "stream": "https://listen.radioking.com/radio/6640/stream/347",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Tizi-Ouzou",
+   "genre": [],
+   "votes": 21858,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "france-maghreb-2",
+   "name": "France Maghreb 2",
+   "url": "",
+   "stream": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 8702,
+   "clicks": 9,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beur-fm",
+   "name": "Beur FM",
+   "url": "",
+   "stream": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7937,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "exa-fm",
+   "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 3063,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tizi-ouzou",
+   "name": "Radio Tizi Ouzou",
+   "url": "https://radioalgerie.dz/",
+   "stream": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "state": "Tizi-Ouzou",
+   "genre": [],
+   "votes": 3062,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 1497,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-el-bahdja",
+   "name": "Radio El Bahdja",
+   "url": "https://my.radioalgerie.dz/fr/bahdja",
+   "stream": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 1039,
+   "clicks": 27,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "algerie-chaine-2",
+   "name": "Algérie Chaine 2",
+   "url": "https://my.radioalgerie.dz/ar/chaine2",
+   "stream": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 892,
+   "clicks": 10,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "algerie-chaine-1",
+   "name": "Algérie Chaine 1",
+   "url": "https://my.radioalgerie.dz/",
+   "stream": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 825,
+   "clicks": 22,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tlemcen",
+   "name": "Radio Tlemcen",
+   "url": "https://radioalgerie.dz/player/fr/live/13-tlemcen",
+   "stream": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 533,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-algerie-internationale",
+   "name": "Radio Algérie Internationale",
+   "url": "https://my.radioalgerie.dz/fr/rai",
+   "stream": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic",
+    "english",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 516,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-setif",
+   "name": "Radio Setif",
+   "url": "https://my.radioalgerie.dz/fr/setif",
+   "stream": "https://radiosetif.ice.infomaniak.ch/setif.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 487,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bejaia",
+   "name": "Radio Bejaïa",
+   "url": "https://my.radioalgerie.dz/fr/bejaia",
+   "stream": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 472,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-coran",
+   "name": "Radio Coran",
+   "url": "https://my.radioalgerie.dz/fr/coran",
+   "stream": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 407,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "zaman-fm",
+   "name": "Zaman FM",
+   "url": "https://my.radioalgerie.dz/fr/zamanfm",
+   "stream": "https://radiozamen.ice.infomaniak.ch/zamen.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic",
+    "french"
+   ],
+   "langCodes": [
+    "ar",
+    "fr"
+   ],
+   "genre": [],
+   "votes": 393,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-culture",
+   "name": "Radio Culture",
+   "url": "https://my.radioalgerie.dz/fr/culture",
+   "stream": "https://radioculture.ice.infomaniak.ch/culture.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 343,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-blida",
+   "name": "Radio Blida",
+   "url": "https://my.radioalgerie.dz/fr/blida",
+   "stream": "https://radioblida.ice.infomaniak.ch/blida.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 269,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-constantine",
+   "name": "Radio Constantine",
+   "url": "https://my.radioalgerie.dz/fr/constantine",
+   "stream": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 244,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-oran",
+   "name": "Radio Oran",
+   "url": "https://my.radioalgerie.dz/fr/oran",
+   "stream": "https://radiooran.ice.infomaniak.ch/oran.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 198,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tebessa",
+   "name": "Radio Tebessa",
+   "url": "https://my.radioalgerie.dz/fr/tebessa",
+   "stream": "https://radiotebessa-1.ice.infomaniak.ch/tebessa.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 169,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-chlef",
+   "name": "Radio Chlef",
+   "url": "https://my.radioalgerie.dz/fr/chlef",
+   "stream": "https://radiochlef.ice.infomaniak.ch/chlef.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 151,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-m-sila",
+   "name": "Radio M'sila",
+   "url": "https://my.radioalgerie.dz/fr/msila",
+   "stream": "https://radiomsila.ice.infomaniak.ch/msila.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 149,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-laghouat",
+   "name": "Radio Laghouat",
+   "url": "https://my.radioalgerie.dz/fr/laghouat",
+   "stream": "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 144,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bechar",
+   "name": "Radio Bechar",
+   "url": "https://my.radioalgerie.dz/fr/bechar",
+   "stream": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 133,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-adrar",
+   "name": "Radio Adrar",
+   "url": "https://my.radioalgerie.dz/fr/adrar",
+   "stream": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 122,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-annaba",
+   "name": "Radio Annaba",
+   "url": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
+   "stream": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 109,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-skikda",
+   "name": "Radio Skikda",
+   "url": "https://my.radioalgerie.dz/fr/skikda",
+   "stream": "https://radioskikda.ice.infomaniak.ch/skikda.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 107,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-batna",
+   "name": "Radio Batna",
+   "url": "https://my.radioalgerie.dz/fr/batna",
+   "stream": "https://radiobatna.ice.infomaniak.ch/batna.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 104,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-sidi-bel-abbes",
+   "name": "Radio Sidi Bel Abbes",
+   "url": "https://my.radioalgerie.dz/fr/sba",
+   "stream": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 97,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-oum-bouaghi",
+   "name": "Radio Oum Bouaghi",
+   "url": "https://my.radioalgerie.dz/fr/oeb",
+   "stream": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 79,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-biskra",
+   "name": "Radio Biskra",
+   "url": "https://my.radioalgerie.dz/fr/biskra",
+   "stream": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 75,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mostaganem",
+   "name": "Radio Mostaganem",
+   "url": "https://my.radioalgerie.dz/fr/mostaganem",
+   "stream": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tiaret",
+   "name": "Radio Tiaret",
+   "url": "https://my.radioalgerie.dz/fr/tiaret",
+   "stream": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 62,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-jijel",
+   "name": "Radio Jijel",
+   "url": "https://my.radioalgerie.dz/fr/jijel",
+   "stream": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ouargla",
+   "name": "Radio Ouargla",
+   "url": "https://my.radioalgerie.dz/fr/ouargla",
+   "stream": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 59,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-medea",
+   "name": "Radio Medea",
+   "url": "https://my.radioalgerie.dz/fr/medea",
+   "stream": "https://radiomedea.ice.infomaniak.ch/medea.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 58,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-djelfa",
+   "name": "Radio Djelfa",
+   "url": "https://my.radioalgerie.dz/fr/djelfa",
+   "stream": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 57,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "international-radio",
+   "name": "International radio",
+   "url": "https://xat.com/Internacional_1",
+   "stream": "https://radio.jump.bg/proxy/mariana4/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "Bulgaria",
+   "genre": [],
+   "votes": 56,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-guelma",
+   "name": "Radio Guelma",
+   "url": "https://my.radioalgerie.dz/fr/guelma",
+   "stream": "https://radioguelma.ice.infomaniak.ch/guelma.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 55,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bouira",
+   "name": "Radio Bouira",
+   "url": "https://my.radioalgerie.dz/fr/bouira",
+   "stream": "https://radiobouira.ice.infomaniak.ch/bouira.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 52,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mascara",
+   "name": "Radio Mascara",
+   "url": "https://my.radioalgerie.dz/fr/mascara",
+   "stream": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 49,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-el-bayadh",
+   "name": "Radio El Bayadh",
+   "url": "https://my.radioalgerie.dz/fr/elbayadh",
+   "stream": "https://radioelbayedh.ice.infomaniak.ch/radioelbayedh.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-tamanrasset",
+   "name": "Radio Tamanrasset",
+   "url": "https://my.radioalgerie.dz/fr/tamanrasset",
+   "stream": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 47,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-illizi",
+   "name": "Radio Illizi",
+   "url": "https://my.radioalgerie.dz/fr/illizi",
+   "stream": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-saida",
+   "name": "Radio Saïda",
+   "url": "https://my.radioalgerie.dz/fr/saida",
+   "stream": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 46,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

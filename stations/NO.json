@@ -1,0 +1,1478 @@
+{
+ "countryCode": "NO",
+ "country": "Norway",
+ "slug": "norway",
+ "continent": "europe",
+ "stationCount": 83,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/norway/",
+ "stations": [
+  {
+   "id": "p5-nonstop-hits-aac-hq",
+   "name": "P5 Nonstop Hits (AAC HQ)",
+   "url": "https://www.lydenavnorge.no/p5-nonstop-hits",
+   "stream": "https://p5n.p4groupaudio.com/P05AAH",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 1115,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p12-hitmix-mp3-128k",
+   "name": "P12 Hitmix (MP3 128k)",
+   "url": "https://www.p12hitmix.no/",
+   "stream": "https://nrj.p4groupaudio.com/NRJ_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 660,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-norge-aac-hq",
+   "name": "P4 Norge (AAC HQ)",
+   "url": "https://www.p4.no/",
+   "stream": "https://p4.p4groupaudio.com/P04_AH",
+   "codec": "aac",
+   "bitrate": 191,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 656,
+   "clicks": 15,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p6-rock-mp3-128k",
+   "name": "P6 Rock (MP3 128k)",
+   "url": "https://p6.no/",
+   "stream": "https://p6.p4groupaudio.com/P06_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "rock",
+    "classic-rock"
+   ],
+   "votes": 495,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p10-country-aac-hq",
+   "name": "P10 Country (AAC HQ)",
+   "url": "https://www.lydenavnorge.no/p10",
+   "stream": "https://p10.p4groupaudio.com/P10_AH",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "country"
+   ],
+   "votes": 445,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p8-pop-mp3-128k",
+   "name": "P8 Pop (MP3 128k)",
+   "url": "https://www.p8pop.no/",
+   "stream": "https://p8.p4groupaudio.com/P08_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "80s",
+    "90s",
+    "classic-hits",
+    "oldies"
+   ],
+   "votes": 442,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rock-no",
+   "name": "Radio Rock (NO)",
+   "url": "https://radioplay.no/radio-rock/",
+   "stream": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Oslo",
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 392,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p9-retro-mp3-128k",
+   "name": "P9 Retro (MP3 128k)",
+   "url": "https://www.p9retro.no/",
+   "stream": "https://p9.p4groupaudio.com/P09_MH",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "60s",
+    "70s",
+    "80s"
+   ],
+   "votes": 349,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrj-norge",
+   "name": "NRJ Norge",
+   "url": "https://radioplay.no/nrj/",
+   "stream": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Oslo",
+   "genre": [
+    "pop",
+    "hits",
+    "top-40"
+   ],
+   "votes": 345,
+   "clicks": 8,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p7-klem-aac-hq",
+   "name": "P7 Klem (AAC HQ)",
+   "url": "https://www.p7klem.no/",
+   "stream": "https://p7.p4groupaudio.com/P07_AH",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 325,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-norge-mp3-128k",
+   "name": "P4 Norge (MP3 128k)",
+   "url": "https://www.p4.no/",
+   "stream": "https://p4.p4groupaudio.com/P04_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "hits",
+    "music",
+    "pop"
+   ],
+   "votes": 292,
+   "clicks": 10,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p12-hitmix-aac-hq",
+   "name": "P12 Hitmix (AAC HQ)",
+   "url": "https://www.p12hitmix.no/",
+   "stream": "https://nrj.p4groupaudio.com/NRJ_AH",
+   "codec": "aac",
+   "bitrate": 191,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "hits",
+    "pop",
+    "top-40"
+   ],
+   "votes": 266,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p5-hits-mp3-128k",
+   "name": "P5 Hits (MP3 128k)",
+   "url": "https://www.p5.no/",
+   "stream": "https://p5.p4groupaudio.com/P05_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "hits",
+    "pop"
+   ],
+   "votes": 192,
+   "clicks": 26,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p11-dance-aac-hq",
+   "name": "P11 Dance (AAC HQ)",
+   "url": "https://www.p11dance.no/",
+   "stream": "https://p11.p4groupaudio.com/P11_AH",
+   "codec": "aac",
+   "bitrate": 191,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "dance"
+   ],
+   "votes": 189,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p11-dance-mp3-128k",
+   "name": "P11 Dance (MP3 128k)",
+   "url": "https://www.p11dance.no/",
+   "stream": "https://p11.p4groupaudio.com/P11_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "dance"
+   ],
+   "votes": 145,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p24-7-kos",
+   "name": "P24-7 Kos",
+   "url": "https://radioplay.no/p24-7kos/",
+   "stream": "https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true",
+   "codec": "aac",
+   "bitrate": 63,
+   "format": "music",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 69,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p11-dance-mp3-192k",
+   "name": "P11 Dance (MP3 192k)",
+   "url": "https://www.p11dance.no/",
+   "stream": "https://p11.p4groupaudio.com/P11_MH",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [
+    "dance"
+   ],
+   "votes": 66,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nrk-klassisk-radio",
+   "name": "NRK Klassisk Radio",
+   "url": "https://radio.nrk.no/direkte/klassisk",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 47,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tr-ndelag",
+   "name": "RADIO Trøndelag",
+   "url": "https://www.radiotrondelag.no/",
+   "stream": "https://nettradio.radiotrondelag.no:8443/radio_trondelag",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 44,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hamar-radioen",
+   "name": "Hamar Radioen",
+   "url": "http://radioene.no/radioplayer/hamar/",
+   "stream": "https://lyd.radioene.no/hamar.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Innlandet",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 22,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p3-musikk",
+   "name": "NRK P3 Musikk",
+   "url": "https://radio.nrk.no/direkte/p3",
+   "stream": "https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norsk"
+   ],
+   "genre": [
+    "alternative"
+   ],
+   "votes": 22,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-troms-hits",
+   "name": "Radio Tromsø Hits",
+   "url": "https://radiotromso.no/",
+   "stream": "https://stream.rthits.no/rthits192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Tromsø",
+   "genre": [
+    "hits"
+   ],
+   "votes": 20,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-3-bod",
+   "name": "Radio 3 Bodø",
+   "url": "https://radio3bodo.no/",
+   "stream": "https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Nordland",
+   "genre": [
+    "music"
+   ],
+   "votes": 17,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rock-norway-aac",
+   "name": "Radio Rock Norway AAC",
+   "url": "https://radioplay.no/radio-rock",
+   "stream": "https://live-bauerno.sharp-stream.com/radiorock_no_aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 12,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "tune-tribe-radio",
+   "name": "Tune Tribe Radio",
+   "url": "https://www.tunetriberadio.com/",
+   "stream": "https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "ambient",
+    "electronic",
+    "jazz",
+    "soul"
+   ],
+   "votes": 6,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1fm-jazz",
+   "name": "1FM Jazz",
+   "url": "https://www.1fmmolde.com/",
+   "stream": "https://lyd.1fm.no/1fmjazz_mq?rp_source=1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Møre og Romsdal",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p24-7-mix",
+   "name": "P24-7 Mix",
+   "url": "http://p247mix.no/",
+   "stream": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 354,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiolatinamerika",
+   "name": "radiolatinamerika",
+   "url": "https://radiolatinamerika.no/",
+   "stream": "https://stream.radiolatinamerika.no/latam_hq",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 163,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-norge",
+   "name": "Radio Norge",
+   "url": "https://radioplay.no/radio-norge/",
+   "stream": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Oslo",
+   "genre": [],
+   "votes": 160,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p3",
+   "name": "NRK P3",
+   "url": "https://www.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 155,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-stor-oslo",
+   "name": "Nrk P1 Stor-Oslo",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "OSLO",
+   "genre": [],
+   "votes": 152,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-nyheter",
+   "name": "NRK Nyheter",
+   "url": "https://radio.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
+   "codec": "aac",
+   "bitrate": 158,
+   "langs": [
+    "norwegian",
+    "sami"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 146,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-mp3",
+   "name": "NRK MP3",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norsk"
+   ],
+   "genre": [],
+   "votes": 136,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p2-aac-h",
+   "name": "NRK P2 aac_h",
+   "url": "https://radio.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
+   "codec": "aac",
+   "bitrate": 158,
+   "genre": [],
+   "votes": 123,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radi-b",
+   "name": "Radiø Bø",
+   "url": "https://radiobo.no/",
+   "stream": "https://nettradio.radiobo.com/radiobo-high",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 115,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p24-7-juleradioen",
+   "name": "P24-7 JuleRadioen",
+   "url": "https://www.radio-norge.org/julerradioen",
+   "stream": "https://live-bauerno.sharp-stream.com/station17_no_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 95,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "klem-fm",
+   "name": "Klem FM",
+   "url": "https://www.p7klem.no/",
+   "stream": "https://p7.p4groupaudio.com/P07_MM",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 70,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nrk-nyhter-mp3-hi",
+   "name": "NRK Nyhter (MP3 - HI)",
+   "url": "https://radio.nrk.no/direkte/alltid_nyheter",
+   "stream": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 58,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio102",
+   "name": "Radio102",
+   "url": "https://radio102.no/",
+   "stream": "https://stream.radio102.no/radio102_hq",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Rogaland",
+   "genre": [],
+   "votes": 58,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-kos",
+   "name": "Radio Kos",
+   "url": "https://www.facebook.com/radiokos",
+   "stream": "https://lyd.radiokos.no/kos_lq",
+   "codec": "aac",
+   "bitrate": 128,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Rogaland",
+   "genre": [],
+   "votes": 56,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-nordland",
+   "name": "NRK P1 Nordland",
+   "url": "https://www.nrk.no/",
+   "stream": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4",
+   "codec": "aac",
+   "bitrate": 159,
+   "langs": [
+    "norsk"
+   ],
+   "genre": [],
+   "votes": 51,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "p7-kristen-pop",
+   "name": "P7 Kristen Pop",
+   "url": "https://www.p7.no/p7-kristen-pop",
+   "stream": "https://radio.p7.no/listen/p7_kristen_pop/kristen_pop",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "english",
+    "norwegian"
+   ],
+   "langCodes": [
+    "en",
+    "no"
+   ],
+   "genre": [],
+   "votes": 48,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-sport",
+   "name": "NRK Sport",
+   "url": "https://radio.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
+   "codec": "aac",
+   "bitrate": 158,
+   "langs": [
+    "norwegian",
+    "sami"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 40,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-tr-ndelag",
+   "name": "NRK Trøndelag",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Trøndelag",
+   "genre": [],
+   "votes": 39,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-3-16-hele-norges-kristne-radiokanal",
+   "name": "Radio 3,16 - hele Norges kristne radiokanal",
+   "url": "https://www.radio316.no/",
+   "stream": "https://streaming.radio.co:80/se326fb378/listen",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 38,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-sotra",
+   "name": "Radio Sotra",
+   "url": "https://radiosotra.no/",
+   "stream": "https://streaming.radiosotra.no:8443/radiosotra",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Hordaland",
+   "genre": [],
+   "votes": 35,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-sogn-og-fjordane-h-y-kvalitet-mp3",
+   "name": "NRK P1 Sogn og Fjordane (Høy kvalitet MP3)",
+   "url": "https://radio.nrk.no/",
+   "stream": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 30,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "nrk-p1-hordaland",
+   "name": "Nrk p1 Hordaland",
+   "url": "https://.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 28,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-troms-h-y-kvalitet-aac",
+   "name": "NRK P1 Troms (Høy kvalitet AAC)",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h",
+   "codec": "aac",
+   "bitrate": 159,
+   "genre": [],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p7",
+   "name": "P7",
+   "url": "https://p7.no/",
+   "stream": "https://radio.p7.no/listen/p7_kristen_riksradio/kristen_riksradio",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 24,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-buskerud-aac-high",
+   "name": "NRK P1 Buskerud (AAC High)",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h",
+   "codec": "aac",
+   "bitrate": 159,
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-sogn-og-fjordane-h-y-kvalitet-aac",
+   "name": "NRK P1 Sogn og Fjordane (Høy kvalitet AAC)",
+   "url": "https://radio.nrk.no/",
+   "stream": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
+   "codec": "aac",
+   "bitrate": 159,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 23,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-rogaland",
+   "name": "NRK P1 Rogaland",
+   "url": "https://nrk.no/",
+   "stream": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
+   "codec": "aac",
+   "bitrate": 159,
+   "state": "Rogaland",
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "trysilradioen",
+   "name": "Trysilradioen",
+   "url": "https://radioene.no/trysilradioen",
+   "stream": "https://lyd.radioene.no/trysil.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 22,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "guovdageainnu-lagasradio",
+   "name": "Guovdageainnu Lagasradio",
+   "url": "https://glr.no/",
+   "stream": "https://streaming.radio.co/s5b773f8d3/listen",
+   "codec": "aac",
+   "bitrate": 192,
+   "state": "Finnmark",
+   "genre": [],
+   "votes": 18,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-m-re-og-romsdal",
+   "name": "NRK P1 Møre og Romsdal",
+   "url": "http://www.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 17,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-bardufoss",
+   "name": "Radio Bardufoss",
+   "url": "https://bardufoss.no/",
+   "stream": "https://stream.bardufoss.no/radiobardufoss192",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 17,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1fm-molde",
+   "name": "1FM Molde",
+   "url": "https://www.1fmmolde.com/",
+   "stream": "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 15,
+   "clicks": 7,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "p4-lyden-av-norge",
+   "name": "P4 – Lyden av Norge",
+   "url": "https://www.lydenavnorge.no/",
+   "stream": "https://p4.p4groupaudio.com/P04_MH",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "s-rlandsradioen",
+   "name": "Sørlandsradioen",
+   "url": "https://sorlandsradioen.no/",
+   "stream": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq",
+   "codec": "mp3",
+   "bitrate": 160,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 15,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiorakel-fm-99-3",
+   "name": "radiOrakel FM 99.3",
+   "url": "https://radiorakel.no/",
+   "stream": "https://stream.radiorakel.no/fm993.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 14,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-haugaland-96",
+   "name": "Radio Haugaland 96",
+   "url": "https://radioh.no/",
+   "stream": "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 13,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-stfold",
+   "name": "NRK P1 Østfold",
+   "url": "https://radio.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 12,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-mp3",
+   "name": "NRK P1+ (mp3)",
+   "url": "https://radio.nrk.no/direkte/p1pluss",
+   "stream": "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-alesund",
+   "name": "Radio Ålesund",
+   "url": "https://radioaalesund.no/",
+   "stream": "https://audio.radioaalesund.no/aalesund_mq",
+   "codec": "aac",
+   "bitrate": 128,
+   "state": "Møre og Romsdal",
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "the-beat",
+   "name": "The Beat",
+   "url": "https://dinlyd.no/thebeat/",
+   "stream": "https://live-nors.sharp-stream.com/nors17.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 11,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 8,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "n-rkanalen",
+   "name": "Nærkanalen",
+   "url": "https://narkanalen.no/",
+   "stream": "https://stream.radiomeloy.no:8003/radiomeloy",
+   "codec": "mp3",
+   "bitrate": 160,
+   "state": "Nordland",
+   "genre": [],
+   "votes": 8,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nf-radio",
+   "name": "NF Radio",
+   "url": "https://nfradio.fr/",
+   "stream": "https://player.nfradio.fr/listen/nf_radio/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Oslo",
+   "genre": [],
+   "votes": 6,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-sapmi",
+   "name": "NRK Sápmi",
+   "url": "https://radio.nrk.no/direkte/sapmi",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "genre": [],
+   "votes": 6,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-t-nsberg",
+   "name": "Radio Tønsberg",
+   "url": "https://radiotonsberg.no/",
+   "stream": "https://audio.jaerradiogruppen.no/tonsberg_hq",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 5,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiorakel",
+   "name": "radiOrakel",
+   "url": "https://radiorakel.no/",
+   "stream": "https://stream.radiorakel.no/radiorakel_hq",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Oslo",
+   "genre": [],
+   "votes": 5,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-folkemusikk",
+   "name": "NRK Folkemusikk",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk",
+   "codec": "aac",
+   "bitrate": 159,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 4,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-finnmark",
+   "name": "NRK P1 Finnmark",
+   "url": "https://www.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Finnmark",
+   "genre": [],
+   "votes": 4,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "harrys-radio",
+   "name": "Harrys Radio",
+   "url": "https://radio.aasterud.com/",
+   "stream": "https://mpc1.mediacp.eu:8208/stream",
+   "codec": "aac",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrk-p1-innlandet",
+   "name": "NRK P1 Innlandet",
+   "url": "https://lyd.nrk.no/",
+   "stream": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "state": "Innlandet",
+   "genre": [],
+   "votes": 3,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-rox",
+   "name": "Radio Rox",
+   "url": "https://dinlyd.no/radiorox/",
+   "stream": "https://live-nors.sharp-stream.com/nors13.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1fm-rock",
+   "name": "1FM Rock",
+   "url": "https://www.1fmmolde.com/",
+   "stream": "https://lyd.1fm.no/1fmrock_hq",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "Møre og Romsdal",
+   "genre": [],
+   "votes": 2,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "norsk-pop",
+   "name": "Norsk Pop",
+   "url": "",
+   "stream": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ordentlig-radio",
+   "name": "Ordentlig Radio",
+   "url": "https://oradio.no/",
+   "stream": "https://stream.oradio.no/oradio_hq",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "scansat-radio-scandinavian-satellite-radio",
+   "name": "Scansat Radio (Scandinavian Satellite Radio)",
+   "url": "https://www.scansat.no/",
+   "stream": "https://stream.rcast.net/67165",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "norsk",
+    "norwegian"
+   ],
+   "langCodes": [
+    "no"
+   ],
+   "genre": [],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-ai-norge",
+   "name": "Radio AI Norge",
+   "url": "https://radioai.mobirisesite.com/",
+   "stream": "https://a13.asurahosting.com/listen/radio_ai/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 1,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-tropoli",
+   "name": "Radio Tropoli",
+   "url": "https://tropoli.roganett.com/",
+   "stream": "https://radio.roganett.com/listen/radio_tropoli/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

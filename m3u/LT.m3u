@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lithuania" tvg-genre="pop",RELAX FM Lietuva
+https://stream1.relaxfm.lt/relaxfm128.mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="classic-rock,jazz,lounge,smooth-jazz",Easy FM
+https://netradio.ziniur.lt/easyfm.mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="pop-rock",Radiocentras
+https://stream2.rc.lt/rc128.mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="pop-music",ZIP FM
+https://stream1.zipfm.lt/zipfm128.mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="metal,rock",Rock FM
+https://stream2.rockfm.lt/crf128.mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="dance",Power Hit Radio LT
+https://ice.leviracloud.eu/phr192-mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="pop-music",Radio R
+https://stream1.relaxfm.lt/rrb128.mp3
+#EXTINF:-1 group-title="Lithuania" tvg-genre="alternative",estakada99
+https://live.e99.live/main
+#EXTINF:-1 group-title="Lithuania",ZipFM
+https://stream2.zipfm.lt/zipfm128.mp3
+#EXTINF:-1 group-title="Lithuania",M-1 Dance
+https://radio.m-1.fm/m-1dance/aac
+#EXTINF:-1 group-title="Lithuania",Radijo stotis Lietus
+https://radio.m-1.fm/LIETUS
+#EXTINF:-1 group-title="Lithuania",Palanga Street Radio
+https://stream.palanga.live:8443/palanga128.mp3
+#EXTINF:-1 group-title="Lithuania",Play Radio
+https://n08.radiojar.com/d9cm273ystzuv
+#EXTINF:-1 group-title="Lithuania",Pulsas
+https://pulsas.lt/stream
+#EXTINF:-1 group-title="Lithuania",Radio stotis Laluna
+https://radio.m-1.fm/laluna/mp3
+#EXTINF:-1 group-title="Lithuania",Vilnius fm
+https://stream.vilniusfm.lt/stream
+#EXTINF:-1 group-title="Lithuania",M-1 Plius
+https://radio.m-1.fm/m1plius/aacp64
+#EXTINF:-1 group-title="Lithuania",Radio Fiesta
+https://stream2.radiofiesta.lt/rfs128.mp3
+#EXTINF:-1 group-title="Lithuania",-=PoWeR=-
+https://cast1.my-control-panel.com/proxy/eventas/stream
+#EXTINF:-1 group-title="Lithuania",European Hit Radio
+https://stream.ehr.lt:8443/ehr
+#EXTINF:-1 group-title="Lithuania",TOPFM
+https://radio.topfm.lt/listen/topfm/topfm-320
+#EXTINF:-1 group-title="Lithuania",Zip FM is Kasetes
+https://klausyk.radijas.lt/listen/is-kasetes/live
+#EXTINF:-1 group-title="Lithuania",Tavo Balsas LT
+https://c18.radioboss.fm:8529/stream
+#EXTINF:-1 group-title="Lithuania",Fred Film Radio-24 lietuvių kalba
+https://s10.webradio-hosting.com/proxy/fredradiolt/stream
+#EXTINF:-1 group-title="Lithuania",Радио Свободынх Народов
+https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250
+#EXTINF:-1 group-title="Lithuania",Radijo Musikii
+https://stream.radijo-musikii.net/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Lithuania",Relax FM 100 Hitu
+https://klausyk.radijas.lt/listen/100hitu/live
+#EXTINF:-1 group-title="Lithuania",Geras2 FM
+https://stream.goldfm.lt/gerasfm.mp3
+#EXTINF:-1 group-title="Lithuania",lsg radijas
+https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9
+#EXTINF:-1 group-title="Lithuania",Fréquence Protestante
+https://freqpro.streamakaci.com/frequenceprotestante.mp3
+#EXTINF:-1 group-title="Lithuania",Gold FM
+https://stream.goldfm.lt/goldfm.mp3
+#EXTINF:-1 group-title="Lithuania",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Lithuania",Relax FM Sentimentai
+https://klausyk.radijas.lt/listen/sentimentai/live
+#EXTINF:-1 group-title="Lithuania",Leproradio
+https://live.leproradio.com/bender.ogg
+#EXTINF:-1 group-title="Lithuania",Радио Сигнал
+https://media-edge2.hostin.live/radio-singnal.mp3
+#EXTINF:-1 group-title="Lithuania",Mantinho Dance Pulse FM
+https://mira.streamerr.co/listen/mantinhodancepulsefm/radio.aac
+#EXTINF:-1 group-title="Lithuania",Power Gold
+https://stream.powerhitradio.lt/PHR_GOLD_AAC
+#EXTINF:-1 group-title="Lithuania",Радио RDTK
+https://rdtk.out.airtime.pro/rdtk_a
+#EXTINF:-1 group-title="Lithuania",radio.audiomastering.lt
+https://transliacija.audiomastering.lt/pure

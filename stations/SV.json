@@ -1,0 +1,475 @@
+{
+ "countryCode": "SV",
+ "country": "El Salvador",
+ "slug": "el-salvador",
+ "continent": "americas",
+ "stationCount": 31,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/el-salvador/",
+ "stations": [
+  {
+   "id": "radio-verdad-95-7-fm-voz-del-pentecostes",
+   "name": "Radio Verdad 95.7 FM | Voz del Pentecostes",
+   "url": "https://www.radioverdad.com/",
+   "stream": "https://cloudstream2036.conectarhosting.com/8168/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "espanish"
+   ],
+   "state": "San Salvador",
+   "genre": [
+    "worship"
+   ],
+   "votes": 1891,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-astral-102-9-fm",
+   "name": "Radio Astral 102.9 FM",
+   "url": "https://radios.com.sv/astral-san-salvador",
+   "stream": "https://streaming.rcs.com.sv/proxy/astral/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "rock"
+   ],
+   "votes": 363,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-la-paz-fm",
+   "name": "Radio La Paz FM",
+   "url": "https://www.lapaz.fm/",
+   "stream": "https://stream.consultoradas.com/8042/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 190,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-abc-stereo-100-1-fm",
+   "name": "Radio ABC Stereo 100.1 FM",
+   "url": "https://radiocorporacionelsalvador.com/",
+   "stream": "https://streaming.rcs.com.sv/proxy/abc/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "san-salvador"
+   ],
+   "genre": [
+    "electronic",
+    "pop",
+    "top-40"
+   ],
+   "votes": 186,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "aura-fm-99-3",
+   "name": "AURA FM 99.3",
+   "url": "https://auraradio.fm/",
+   "stream": "https://stream.miradio.in/proxy/aura/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "spanish"
+   ],
+   "langCodes": [
+    "en",
+    "es"
+   ],
+   "state": "San Salvador",
+   "genre": [
+    "electronica"
+   ],
+   "votes": 2,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-laser-ingles",
+   "name": "Radio Láser Inglés",
+   "url": "https://www.laser.com.sv/",
+   "stream": "https://sp4.colombiatelecom.com.co/8032/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2509,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "restauracion-100-5-fm-mision-cristiana-elim",
+   "name": "Restauracion / 100.5 FM - Mision Cristiana Elim",
+   "url": "https://www.elim.org.sv/restauracion/",
+   "stream": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "espanish"
+   ],
+   "genre": [],
+   "votes": 1997,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-tribu-fm",
+   "name": "La Tribu FM",
+   "url": "https://latribu.fm/",
+   "stream": "https://streamer.radio.co/s3a3c12873/listen",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "espanish"
+   ],
+   "genre": [],
+   "votes": 1475,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-bautista",
+   "name": "Radio Bautista",
+   "url": "https://tabernaculo.net/radio/",
+   "stream": "https://s2.radio.co/s3a7dc3d82/listen",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "espanish"
+   ],
+   "genre": [],
+   "votes": 1253,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "100-7-stereo",
+   "name": "100.7 Stereo",
+   "url": "https://rocknpopsv.com/",
+   "stream": "https://stream20.usastreams.com/8138/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 993,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-nacional-de-el-salvador-96-9",
+   "name": "Radio Nacional de El Salvador - 96.9",
+   "url": "https://tunein.com/radio/Radio-El-Salvador-s306352/",
+   "stream": "https://streamingcwsradio30.com/8156/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 795,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-yskl-104-1-fm",
+   "name": "Radio YSKL 104.1 FM",
+   "url": "https://radioyskl.com/",
+   "stream": "https://media.dominiocreativo.com:8000/stream/1/",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 794,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "femenina",
+   "name": "Femenina",
+   "url": "https://femenina.com.sv/",
+   "stream": "https://sp4.colombiatelecom.com.co/8028/stream",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 786,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ysuca-91-7-fm",
+   "name": "Radio YSUCA, 91.7 FM",
+   "url": "https://ysuca.org.sv/",
+   "stream": "https://fast.citrus3.com:8314/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "castellano.-español"
+   ],
+   "genre": [],
+   "votes": 777,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-laser-espanol",
+   "name": "Radio Láser Español",
+   "url": "https://www.laser.com.sv/",
+   "stream": "https://sp4.colombiatelecom.com.co/8030/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 627,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-rumba-latina",
+   "name": "Radio Rumba Latina",
+   "url": "https://radiorumbalatina.com/#",
+   "stream": "https://c11.radioboss.fm:8303/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "genre": [],
+   "votes": 258,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-ranchera",
+   "name": "Radio Ranchera",
+   "url": "https://ranchera.com.sv/",
+   "stream": "https://sp4.colombiatelecom.com.co/8024/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 143,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-fiesta",
+   "name": "Radio Fiesta",
+   "url": "https://www.fiesta.com.sv/",
+   "stream": "https://sp4.colombiatelecom.com.co/8026/stream",
+   "codec": "aac",
+   "bitrate": 96,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-mercado-metapan",
+   "name": "Radio Mercado Metapan",
+   "url": "https://radiomercadometapan.com/",
+   "stream": "https://centova.playerfullhd.com/proxy/brfrtxcf/stream",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "español-internacional",
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 123,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "plenitud-radio",
+   "name": "Plenitud Radio",
+   "url": "https://radio.elim.org.sv/plenitud/",
+   "stream": "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 106,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-la-chvere-100-9",
+   "name": "Radio la Chvere 100.9",
+   "url": "https://radiocorporacionelsalvador.com/",
+   "stream": "https://streaming.rcs.com.sv/proxy/chevere/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 102,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-que-buena-88-9",
+   "name": "Radio Que Buena 88.9",
+   "url": "https://www.quebuena.com.sv/",
+   "stream": "https://cast3.my-control-panel.com/proxy/gabriel4/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 94,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "xtremevibes",
+   "name": "Xtremevibes",
+   "url": "https://xtremevibes.com/",
+   "stream": "https://c17.radioboss.fm:8162/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 89,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "la-urbana-94-9",
+   "name": "La Urbana 94.9",
+   "url": "https://radiocorporacionelsalvador.com/",
+   "stream": "https://streaming.rcs.com.sv/proxy/urbana/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-el-camino",
+   "name": "Radio El Camino",
+   "url": "https://iglesiadelcamino.org/medios/radio/",
+   "stream": "https://www.streamingcp.com:2000/stream/elcaminofm/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 52,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "vox-fm",
+   "name": "Vox FM",
+   "url": "https://www.voxfm.com/",
+   "stream": "https://cast3.asurahosting.com/proxy/gabriel/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "San Salvador",
+   "genre": [],
+   "votes": 39,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "plus-101-3",
+   "name": "Plus 101.3",
+   "url": "https://plus1013.com/",
+   "stream": "https://media.dominiocreativo.com:9006/;?type=http&nocache=1693284624",
+   "codec": "mp3",
+   "bitrate": 192,
+   "state": "San Sala",
+   "genre": [],
+   "votes": 34,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 20,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-campirana",
+   "name": "Radio Campirana",
+   "url": "https://lacampirana973.com/",
+   "stream": "https://sonicpanel.cloudstreaming.eu/7206/stream",
+   "codec": "mp3",
+   "bitrate": 64,
+   "langs": [
+    "español---latinoamerica"
+   ],
+   "state": "Metapan",
+   "genre": [],
+   "votes": 11,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "doremix-92-5-fm",
+   "name": "DOREMIX 92.5 FM",
+   "url": "http://www.doremix.net/",
+   "stream": "https://media.dominiocreativo.com:8056/doremix",
+   "codec": "mp3",
+   "bitrate": 160,
+   "genre": [],
+   "votes": 3,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "c3-radio",
+   "name": "C3 Radio",
+   "url": "https://www.iglesiac3.org/",
+   "stream": "https://azuracast.myautodj.com/radio/8170/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "state": "La libertad",
+   "genre": [],
+   "votes": 0,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}

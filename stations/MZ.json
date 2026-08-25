@@ -1,0 +1,75 @@
+{
+ "countryCode": "MZ",
+ "country": "Mozambique",
+ "slug": "mozambique",
+ "continent": "africa",
+ "stationCount": 3,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/mozambique/",
+ "stations": [
+  {
+   "id": "lm-radio",
+   "name": "LM Radio",
+   "url": "https://lmradio.co.mz/",
+   "stream": "https://ukwesta.streaming.broadcast.radio/lmradio",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 157,
+   "clicks": 5,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 273,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lm-radio-mozambique",
+   "name": "LM Radio Mozambique",
+   "url": "https://lmradio.co.mz/",
+   "stream": "https://edge.iono.fm/xice/392_medium.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "english",
+    "portuguese"
+   ],
+   "langCodes": [
+    "en",
+    "pt"
+   ],
+   "genre": [],
+   "votes": 252,
+   "clicks": 8,
+   "verified": "2026-08-23"
+  }
+ ]
+}

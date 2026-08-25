@@ -1,0 +1,439 @@
+{
+ "countryCode": "MY",
+ "country": "Malaysia",
+ "slug": "malaysia",
+ "continent": "asia",
+ "stationCount": 23,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/malaysia/",
+ "stations": [
+  {
+   "id": "radio-rosak",
+   "name": "Radio Rosak",
+   "url": "http://radiorosak.com/",
+   "stream": "https://radiorosak.radioca.st/stream",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "malay"
+   ],
+   "langCodes": [
+    "ms"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 986,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "terengganu-fm",
+   "name": "Terengganu FM",
+   "url": "https://terengganufm.rtm.gov.my/",
+   "stream": "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "malay"
+   ],
+   "langCodes": [
+    "ms"
+   ],
+   "state": "terengganu",
+   "genre": [
+    "classic-rock",
+    "pop-music"
+   ],
+   "votes": 458,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "myfriends-station",
+   "name": "MyFriends Station",
+   "url": "https://myfriendsstation.blogspot.com/",
+   "stream": "https://cast3.asurahosting.com/proxy/myfriend/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "malay"
+   ],
+   "langCodes": [
+    "ms"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 286,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "lite-fm-malaysia",
+   "name": "LITE FM Malaysia",
+   "url": "https://lite.syok.my/",
+   "stream": "https://stream.rcs.revma.com/bn4ex8sbv4uvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classic-hits"
+   ],
+   "votes": 202,
+   "clicks": 13,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "wadah-fm",
+   "name": "Wadah FM",
+   "url": "https://www.facebook.com/",
+   "stream": "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "malay"
+   ],
+   "langCodes": [
+    "ms"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop"
+   ],
+   "votes": 128,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "stay-fm",
+   "name": "Stay.FM",
+   "url": "https://stayfm.com/",
+   "stream": "https://stayfm.com:8443/archive",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "easy-listening",
+    "hits",
+    "jazz",
+    "music",
+    "pop",
+    "soul"
+   ],
+   "votes": 113,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "redfm",
+   "name": "REDfm",
+   "url": "https://radio.rtm.gov.my/station/red-fm",
+   "stream": "https://22273.live.streamtheworld.com/RED_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "chinese",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "zh"
+   ],
+   "state": "Sarawak",
+   "genre": [
+    "adult-contemporary",
+    "classic-hits",
+    "classical",
+    "easy-listening",
+    "pop",
+    "pop-music",
+    "relaxing",
+    "top-40"
+   ],
+   "votes": 13,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "988-fm",
+   "name": "988 FM",
+   "url": "https://www.988.com.my/on-air/",
+   "stream": "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Kuala Lumpur",
+   "genre": [],
+   "votes": 3393,
+   "clicks": 19,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "jei-fm-klang-tamil-radio",
+   "name": "Jei FM Klang Tamil Radio",
+   "url": "http://www.jeifm.com/",
+   "stream": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "langs": [
+    "tamil"
+   ],
+   "langCodes": [
+    "ta"
+   ],
+   "state": "Selangor",
+   "genre": [],
+   "votes": 2943,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "ai-fm",
+   "name": "ai fm",
+   "url": "https://rtmklik.rtm.gov.my/radio/nasional/72171#!",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 2158,
+   "clicks": 6,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kelantan-fm",
+   "name": "Kelantan FM",
+   "url": "https://kelantanfm.rtm.gov.my/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "malay"
+   ],
+   "langCodes": [
+    "ms"
+   ],
+   "state": "Kelantan",
+   "genre": [],
+   "votes": 1659,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sabah-fm",
+   "name": "Sabah FM",
+   "url": "https://sabahfm.rtm.gov.my/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "state": "Sabah",
+   "genre": [],
+   "votes": 600,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "traxxfm-90-3-100-1",
+   "name": "TraXXFM [90.3 / 100.1]",
+   "url": "https://traxxfm.rtm.gov.my/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 360,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "goxuan",
+   "name": "GOXUAN",
+   "url": "https://goxuan.syok.my/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 241,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "eight-fm",
+   "name": "Eight无限 FM",
+   "url": "https://www.eight.audio/",
+   "stream": "https://stream.rcs.revma.com/qp0xrd9mtd3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "zh"
+   ],
+   "genre": [],
+   "votes": 145,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gold",
+   "name": "Gold",
+   "url": "https://radiomalaysia.net/gold-fm.html",
+   "stream": "https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 139,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fly-fm",
+   "name": "Fly FM",
+   "url": "https://www.flyfm.audio/",
+   "stream": "https://stream.rcs.revma.com/q17aka9mtd3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 61,
+   "clicks": 4,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "hitz-malaysia-s-1-hit-music-station-all-the-hitz",
+   "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+   "url": "https://hitz.com.my/",
+   "stream": "https://stream.rcs.revma.com/488kt4sbv4uvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 55,
+   "clicks": 7,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cityplus-fm",
+   "name": "CITYPlus FM",
+   "url": "https://cityplusfm.my/",
+   "stream": "https://stream.rcs.revma.com/9ykdmcawe1bwv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "chinese",
+    "mandarin"
+   ],
+   "langCodes": [
+    "cmn",
+    "zh"
+   ],
+   "genre": [],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "bfm-89-9",
+   "name": "BFM 89.9",
+   "url": "https://www.bfm.my/",
+   "stream": "https://stream.rcs.revma.com/s91qy9p0zs3vv",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [],
+   "votes": 47,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "gegar-muzik-fm",
+   "name": "GeGar Muzik FM",
+   "url": "http://gegarmuzikfm.blogspot.com/?m=1",
+   "stream": "https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1",
+   "codec": "aac",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "red-fm",
+   "name": "Red FM",
+   "url": "https://so.zuiai.tv/link/?s=https://www.rtm.gov.my/",
+   "stream": "https://22253.live.streamtheworld.com/RED_FMAAC.aac",
+   "codec": "aac",
+   "bitrate": 64,
+   "langs": [
+    "chinese",
+    "english"
+   ],
+   "langCodes": [
+    "en",
+    "zh"
+   ],
+   "state": "sarawak",
+   "genre": [],
+   "votes": 15,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "cats-fm",
+   "name": "Cats FM",
+   "url": "https://www.catsfm.my/",
+   "stream": "https://stream.rcs.revma.com/51qe53rv0y3vv.m4a",
+   "codec": "aac",
+   "bitrate": 0,
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Sarawak",
+   "genre": [],
+   "votes": 3,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  }
+ ]
+}

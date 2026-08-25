@@ -1,0 +1,3228 @@
+{
+ "countryCode": "GR",
+ "country": "Greece",
+ "slug": "greece",
+ "continent": "europe",
+ "stationCount": 150,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-24"
+ },
+ "listen": "https://globalradio.app/greece/",
+ "stations": [
+  {
+   "id": "zeppelin-106-7",
+   "name": "Zeppelin 106.7",
+   "url": "https://webradio.ert.gr/",
+   "stream": "https://radiostreaming.ert.gr/ert-zeppelin",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 8523,
+   "clicks": 27,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-fm-972",
+   "name": "Easy FM 972",
+   "url": "https://www.easy972.gr/",
+   "stream": "https://stream.radiojar.com/cthtwxk5yvduv.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "alternative",
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 2444,
+   "clicks": 2,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "disco-net",
+   "name": "Disco Net",
+   "url": "https://disco-net-radio6.webnode.gr/",
+   "stream": "https://stream1.468.gr/8004/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Athens",
+   "genre": [
+    "70s",
+    "80s",
+    "90s",
+    "disco",
+    "pop"
+   ],
+   "votes": 1856,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-cuban",
+   "name": "Radio Art - Cuban",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fCuban_lounge.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 1450,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "pepper-96-6",
+   "name": "Pepper 96.6",
+   "url": "https://www.pepper966.gr/",
+   "stream": "https://stream.radiojar.com/pepper",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Attica",
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 1352,
+   "clicks": 18,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "7000fm",
+   "name": "7000FM",
+   "url": "https://7000fm.gr/",
+   "stream": "https://stream.7000fm.gr/radio/8000/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "techno"
+   ],
+   "votes": 984,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "disco-cafe",
+   "name": "Disco Cafe",
+   "url": "https://www.discocafe.eu/",
+   "stream": "https://azuracast.streams.ovh:8260/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "chillout",
+    "disco",
+    "lounge",
+    "oldies"
+   ],
+   "votes": 845,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "imagine-897-thessaloniki-gr",
+   "name": "Imagine 897 Thessaloniki,gr",
+   "url": "https://www.imagine897.gr/el/",
+   "stream": "https://imagine897.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Thessaloniki",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 805,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kosmos-jazz-gr",
+   "name": "Kosmos Jazz GR",
+   "url": "https://www.ertecho.gr/radio/kosmos-jazz/",
+   "stream": "https://radiostreaming.ert.gr/ert-webjazz",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Attiki",
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 750,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "corfu-dee-jay-97-5",
+   "name": "Corfu Dee Jay 97.5",
+   "url": "https://djradio.gr/",
+   "stream": "https://sh.onweb.gr:7083/stream?type=http&nocache=35812",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Corfu",
+   "genre": [
+    "dance",
+    "electronic",
+    "pop",
+    "trance"
+   ],
+   "votes": 638,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-guitar-jazz",
+   "name": "Radio Art - Guitar Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fGuitar_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 592,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-fm-96-9",
+   "name": "Rock FM 96.9",
+   "url": "https://www.atticaradios.gr/rockfm969/",
+   "stream": "https://az10.yesstreaming.net:8060/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "genre": [
+    "classic-rock",
+    "pop-rock"
+   ],
+   "votes": 580,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "red-96-3",
+   "name": "Red 96.3",
+   "url": "https://www.redfm.gr/",
+   "stream": "https://netradio.live24.gr/red9630",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Attica",
+   "genre": [
+    "rock"
+   ],
+   "votes": 558,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "deejay-97-5-greece-corfu",
+   "name": "DeeJay 97.5 Greece Corfu",
+   "url": "https://djradio.gr/",
+   "stream": "https://sh.onweb.gr:7083/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 526,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "citizen",
+   "name": "Citizen",
+   "url": "https://citizenradio.gr/",
+   "stream": "https://sp3.streams.ovh/8082/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "lounge",
+    "pop"
+   ],
+   "votes": 442,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-philip-glass",
+   "name": "Radio Art - Philip Glass",
+   "url": "https://www.radioart.com/I",
+   "stream": "https://live.radioart.com/fPhilip_glass.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical",
+    "instrumental"
+   ],
+   "votes": 432,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-89-2",
+   "name": "Music 89.2",
+   "url": "https://www.music892.gr/",
+   "stream": "https://netradio.live24.gr/music892",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Athens Greece",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 407,
+   "clicks": 12,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2o",
+   "name": "2o ΠΑΡΑΔΟΣΙΑΚΑ",
+   "url": "https://www.ertecho.gr/radio/deytero-paradosiaka/",
+   "stream": "https://radiostreaming.ert.gr/ert-defteroparadosiaka",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 399,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-roots-reggae",
+   "name": "Radio Art - Roots Reggae",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fRoots_reggae.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music",
+    "reggae"
+   ],
+   "votes": 385,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-mellow-piano-jazz",
+   "name": "Radio Art - Mellow Piano Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fMellow_piano_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 384,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "groove-radio",
+   "name": "Groove Radio",
+   "url": "https://www.grooveradio.rf.gd/",
+   "stream": "https://cast.magicstreams.gr/ic/grooveradio/stream",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "genre": [
+    "2000s",
+    "80s",
+    "90s"
+   ],
+   "votes": 356,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kavala-news",
+   "name": "Kavala News",
+   "url": "https://www.kavalanews.gr/",
+   "stream": "https://sp3.streams.ovh/8052/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Kavala",
+   "genre": [
+    "pop"
+   ],
+   "votes": 352,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rythmos-fm-gr",
+   "name": "Rythmos FM.GR",
+   "url": "https://www.rythmosfm.gr/",
+   "stream": "https://n01.radiojar.com/g4tyehk5yvduv.mp3",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "music",
+    "pop"
+   ],
+   "votes": 329,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-jazz-piano",
+   "name": "Radio Art - Jazz Piano",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fJazz_piano.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "instrumental",
+    "jazz"
+   ],
+   "votes": 319,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1055-rock-thessaloniki",
+   "name": "1055 Rock - Thessaloniki",
+   "url": "https://1055rock.gr/",
+   "stream": "https://radio.1055rock.gr:31056/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 310,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-smooth-bossa-nova",
+   "name": "Radio Art - Smooth Bossa Nova",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fSmooth_bossa_nova.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 307,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radioactive",
+   "name": "RadioActive",
+   "url": "https://radioactivefm.gr/",
+   "stream": "https://streamyourdream.org:8050/radioactive",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "french",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en",
+    "fr"
+   ],
+   "genre": [
+    "electronic",
+    "rock"
+   ],
+   "votes": 299,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-mellow-smooth-jazz",
+   "name": "Radio Art - Mellow Smooth Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fMellow_smooth_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 278,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "alpha-98-9-athens",
+   "name": "Alpha 98.9 Athens",
+   "url": "https://www.alpha989.com/",
+   "stream": "https://n0e.radiojar.com/xcdg6yggzfeuv?rj-ttl=5&rj-tok=AAABeGu7-YMAAjbbx7O97iNbyw",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 274,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metro-radio",
+   "name": "Metro Radio",
+   "url": "http://www.metroradio.gr/",
+   "stream": "https://stream.crete.ovh:8443/metro",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Heraclion",
+   "genre": [
+    "pop"
+   ],
+   "votes": 268,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "blue-space-107-2-fm-athens",
+   "name": "Blue Space 107,2 FM Athens",
+   "url": "https://bluespaceradio.com/",
+   "stream": "https://sp1.19cloudsnetwork.gr/8008/stream?1701442520261",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Athens Greece",
+   "genre": [
+    "80s"
+   ],
+   "votes": 244,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "metal-zone",
+   "name": "METAL ZONE",
+   "url": "https://www.metalzone.gr/",
+   "stream": "https://neos.win:48282/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "metal",
+    "music"
+   ],
+   "votes": 229,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "chillout-treepines",
+   "name": "Chillout TreePines",
+   "url": "https://www.chillouttreepines.com/",
+   "stream": "https://n07.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABhNTTrbwAVrK_m_qtIxI5pQ",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "chillout",
+    "downtempo",
+    "electronic",
+    "lounge"
+   ],
+   "votes": 227,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "90s-heaven",
+   "name": "90s Heaven",
+   "url": "https://www.facebook.com/90s-Heaven-RadioTV-2022853267998216/",
+   "stream": "https://sp3.streams.ovh/8070/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "house",
+    "pop",
+    "rap",
+    "rnb",
+    "rock"
+   ],
+   "votes": 224,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bar-legend-radio",
+   "name": "Bar Legend Radio",
+   "url": "https://www.barlegendradio.net/",
+   "stream": "https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Larisa",
+   "genre": [
+    "blues",
+    "jazz",
+    "rock"
+   ],
+   "votes": 221,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-and-blues-athens",
+   "name": "Rock and Blues Athens",
+   "url": "http://www.facebook.com/rocknblues.athens/?ref=br_rs",
+   "stream": "https://tls-chrome.live24.gr/3253?http://78.129.132.7:35663/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "blues",
+    "reggae",
+    "rock"
+   ],
+   "votes": 221,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-love-smooth-jazz",
+   "name": "Radio Art - Love Smooth Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fLove_smooth_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "smooth-jazz"
+   ],
+   "votes": 202,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "omega-radio-greek-music",
+   "name": "Omega Radio Greek Music",
+   "url": "http://live24.gr/radio/generic.jsp?sid=1939",
+   "stream": "https://rdst.win:59962/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "folk"
+   ],
+   "votes": 194,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-jazz-ballads",
+   "name": "Radio Art - Jazz Ballads",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fJazz_ballads.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 192,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "92-9-kiss",
+   "name": "92.9 KISS",
+   "url": "https://www.kiss929.gr/",
+   "stream": "https://kissfm.live24.gr/kissfmathens",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Attiki",
+   "genre": [
+    "pop"
+   ],
+   "votes": 188,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-vocal-jazz",
+   "name": "Radio Art - Vocal Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fVocal_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 178,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "106-6",
+   "name": "Μελωδία 106.6",
+   "url": "https://fmmelodia.com/",
+   "stream": "https://rdst.win:59316/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Heraclion",
+   "genre": [
+    "pop"
+   ],
+   "votes": 178,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-fado",
+   "name": "Radio Art - Fado",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fFado.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "fado",
+    "music"
+   ],
+   "votes": 176,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sfera-98-7",
+   "name": "Sfera 98.7",
+   "url": "https://www.sfera987.gr/",
+   "stream": "https://i5.streams.ovh:2200/ssl/web100?mp=/stream&1603386012927",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Heraclion",
+   "genre": [
+    "pop"
+   ],
+   "votes": 176,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "offradio-320",
+   "name": "OFFradio (320)",
+   "url": "http://offradio.gr/",
+   "stream": "https://s7.yesstreaming.net/stream/8000",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "alternative",
+    "ambient",
+    "chillout",
+    "indie",
+    "lounge"
+   ],
+   "votes": 172,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "bravo-89-6",
+   "name": "Bravo 89.6",
+   "url": "https://www.bravofm.gr/",
+   "stream": "https://sp3.streams.ovh/8046/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Zakynthos",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 168,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-sinatra-style",
+   "name": "Radio Art - Sinatra Style",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fSinatra_style.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 152,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-smooth-jazz",
+   "name": "Radio Art - Smooth Jazz",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fSmooth_jazz.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "music",
+    "smooth-jazz"
+   ],
+   "votes": 146,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yellow",
+   "name": "Yellow",
+   "url": "https://yellowradio.gr/",
+   "stream": "https://ice.greekstream.net/yellow",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Thessaloniki",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 143,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "liquid-fm",
+   "name": "Liquid fm",
+   "url": "https://liquidfm.gr/",
+   "stream": "https://netradio.live24.gr/freeradio-1000",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Attika",
+   "genre": [
+    "electronica"
+   ],
+   "votes": 141,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "nrg-91",
+   "name": "NRG 91",
+   "url": "https://nrg91.gr/",
+   "stream": "https://sh.onweb.gr/9100/stream/;",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Larisa",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 140,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-jazz-trios",
+   "name": "Radio Art - Jazz Trios",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fJazz_trios.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 139,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2000-fm-99-8",
+   "name": "2000 FM 99.8",
+   "url": "http://live24.gr/radio/generic.jsp?sid=500",
+   "stream": "https://i8.streams.ovh/ic/2000fm/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 129,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "athens-noise-rocks",
+   "name": "Athens Noise Rocks",
+   "url": "https://www.athensnoise.rocks/radio/",
+   "stream": "https://radio.athensnoise.rocks/listen/athensnoise.rocks/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 126,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "star-corfu-88-8",
+   "name": "Star Corfu 88.8",
+   "url": "https://star888.gr/",
+   "stream": "https://sh.onweb.gr/8800/stream/",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Corfu",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 126,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jadore",
+   "name": "Jadore",
+   "url": "https://xat.com/jadore_radio",
+   "stream": "https://i6.streams.ovh:2200/ssl/jadore?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 124,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-love-songs",
+   "name": "Radio Art - Love Songs",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fLove_songs.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "love-songs",
+    "music"
+   ],
+   "votes": 122,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jockey",
+   "name": "Jockey",
+   "url": "https://cosmopolitanradio.com/",
+   "stream": "https://ec4.yesstreaming.net:2135/stream",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "pop"
+   ],
+   "votes": 120,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "99-2",
+   "name": "Μελωδία 99.2",
+   "url": "https://www.melodia.gr/",
+   "stream": "https://stream.rcs.revma.com/8tdwa6ez1duvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Attica",
+   "genre": [
+    "pop"
+   ],
+   "votes": 119,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melodies-web-radio",
+   "name": "Melodies Web Radio",
+   "url": "https://melodieswebradio.wixsite.com/",
+   "stream": "https://i.streams.ovh/sc/melodies/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 115,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "opa",
+   "name": "Opa",
+   "url": "https://oparadio.com/",
+   "stream": "https://eu3.fastcast4u.com/proxy/opar?mp=/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 115,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiokyklos-greek-hiphop",
+   "name": "RadioKyklos - Greek Hiphop",
+   "url": "https://azuracast.streams.ovh/public/radiokyklos",
+   "stream": "https://azuracast.streams.ovh/listen/radiokyklos/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "hip-hop",
+    "rap"
+   ],
+   "votes": 115,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "camara",
+   "name": "Camara",
+   "url": "https://www.camararadio.com/",
+   "stream": "https://n06.radiojar.com/252ry9dgytzuv?rj-ttl=5&rj-tok=AAABeKi3emcATmr2vFF6A41gwQ",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Thessaloniki",
+   "genre": [
+    "house"
+   ],
+   "votes": 113,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-smooth-vocal",
+   "name": "Radio Art - Smooth Vocal",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fSmooth_vocal.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 113,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-romantic-latin",
+   "name": "Radio Art - Romantic Latin",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fRomantic_latin.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "dance",
+    "latin",
+    "romantic"
+   ],
+   "votes": 110,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "houseradio",
+   "name": "Houseradio",
+   "url": "https://houseradio.gr/",
+   "stream": "https://i9.streams.ovh/sc/contactradio/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "genre": [
+    "house"
+   ],
+   "votes": 109,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kral-100",
+   "name": "Kral 100",
+   "url": "http://www.kralfm.gr/",
+   "stream": "https://onairmediagroup.live24.gr/kralfm100xanthi",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "state": "Xanthi",
+   "genre": [
+    "pop"
+   ],
+   "votes": 109,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skglobe-net-powershots",
+   "name": "SKGLOBE.NET | POWERSHOTS!",
+   "url": "https://skglobe.net/",
+   "stream": "https://smartstream.link/powershots",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Attica",
+   "genre": [
+    "hits",
+    "pop",
+    "pop-music",
+    "rnb",
+    "top-hits"
+   ],
+   "votes": 108,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "coffee-web-radio",
+   "name": "Coffee Web Radio",
+   "url": "https://www.thewebradio.gr/index.php/coffee",
+   "stream": "https://solid9.streamupsolutions.com/proxy/teqgebwz/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 107,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-martino",
+   "name": "Radio Martino",
+   "url": "https://www.radiomartino.gr/",
+   "stream": "https://eu1.fastcast4u.com/proxy/radiomartino?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "easy-listening"
+   ],
+   "votes": 105,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skylos-69",
+   "name": "Skylos 69",
+   "url": "https://skylos69.blogspot.com/",
+   "stream": "https://i6.streams.ovh/ic/skylos69/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "folk"
+   ],
+   "votes": 104,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "a-patras-94-4",
+   "name": "A Patras 94.4",
+   "url": "https://alphapatras.gr/",
+   "stream": "https://netradio.live24.gr/alpha944patra",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Patra",
+   "genre": [
+    "music"
+   ],
+   "votes": 98,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "athens-dee-jay-95-2",
+   "name": "Athens Dee Jay 95.2",
+   "url": "https://www.athensdeejay.gr/",
+   "stream": "https://netradio.live24.gr/athensdeejay",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Attiki",
+   "genre": [
+    "pop"
+   ],
+   "votes": 96,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-oldies",
+   "name": "Radio Art - Oldies",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fOldies.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music",
+    "oldies"
+   ],
+   "votes": 92,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-98",
+   "name": "Kiss 98",
+   "url": "https://kiss98.gr/",
+   "stream": "https://s6.onweb.gr:7029/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Volos",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 91,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hit-ellinikos",
+   "name": "Hit Ellinikos",
+   "url": "http://hitradio.website/",
+   "stream": "https://solid9.streamupsolutions.com/proxy/zvbgdllc?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "pop"
+   ],
+   "votes": 88,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-ethnic",
+   "name": "Radio Art - Ethnic",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fEthnic.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 88,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-maria-callas",
+   "name": "Radio Art - Maria Callas",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fMaria_callas.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 86,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-corner",
+   "name": "Music Corner",
+   "url": "http://musicorneradio.com/",
+   "stream": "https://stream1.468.gr/8010/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "disco",
+    "rnb",
+    "smooth-jazz",
+    "soul"
+   ],
+   "votes": 84,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-paris",
+   "name": "Radio Art - Paris",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fParis.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "smooth-radio-thessaloniki",
+   "name": "Smooth Radio Thessaloniki",
+   "url": "http://smooth.radiostation.gr/",
+   "stream": "https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Thessaloniki",
+   "genre": [
+    "dance",
+    "relax"
+   ],
+   "votes": 84,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "2000stafm",
+   "name": "2000staFM",
+   "url": "https://www.2000stafm.gr/",
+   "stream": "https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Corfu",
+   "genre": [
+    "80s",
+    "90s",
+    "disco",
+    "rock"
+   ],
+   "votes": 80,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kids-radio",
+   "name": "Kids Radio",
+   "url": "https://www.kidsradio.com/",
+   "stream": "https://n03.rcs.revma.com/n7d6z9ez1duvv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 78,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "master",
+   "name": "Master",
+   "url": "https://masterfm.gr/",
+   "stream": "https://stream1.468.gr/9902/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Aigio",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 78,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "memories-radio",
+   "name": "Memories Radio",
+   "url": "https://memoriesradio.gr/",
+   "stream": "https://stream1.468.gr/8108/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "80s",
+    "90s",
+    "pop"
+   ],
+   "votes": 78,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "movement-radio-2",
+   "name": "movement.radio 2",
+   "url": "http://www.movement.radio/",
+   "stream": "https://movementathens2.out.airtime.pro/movementathens2_a",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Athens",
+   "genre": [
+    "ambient",
+    "electronic",
+    "hip-hop",
+    "jazz"
+   ],
+   "votes": 78,
+   "clicks": 5,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-guitar-for-sleep",
+   "name": "Radio Art - Guitar for Sleep",
+   "url": "https://www.radioart.com/",
+   "stream": "https://air.radioart.online/fGuitar_for_sleep.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "instrumental",
+    "relax"
+   ],
+   "votes": 76,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-ludovico-einaudi",
+   "name": "Radio Art - Ludovico Einaudi",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fLudovico_einaudi.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical"
+   ],
+   "votes": 76,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "movement-radio-1",
+   "name": "movement.radio 1",
+   "url": "http://www.movement.radio/",
+   "stream": "https://movementathens.out.airtime.pro/movementathens_a",
+   "codec": "aac",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Athens",
+   "genre": [
+    "ambient",
+    "electronic",
+    "hip-hop",
+    "jazz"
+   ],
+   "votes": 74,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-nortena",
+   "name": "Radio Art - Norteña",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fNortena.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 74,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "athens-radio-trance",
+   "name": "Athens Radio Trance",
+   "url": "http://www.tranceathena.com/",
+   "stream": "https://cast.streams.ovh:8008/;",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "trance"
+   ],
+   "votes": 72,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-93-2",
+   "name": "Easy 93.2",
+   "url": "https://easyfm.gr/",
+   "stream": "https://solid48.streamupsolutions.com/proxy/lhlamody?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Chania",
+   "genre": [
+    "80s",
+    "90s",
+    "pop-music"
+   ],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "x-radio-91-3",
+   "name": "X Radio 91.3",
+   "url": "https://www.xradiofm.gr/",
+   "stream": "https://live.sugarweb.gr/913.aac",
+   "codec": "aac",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Livadia",
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 71,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-galaxy-99",
+   "name": "Radio Galaxy 99",
+   "url": "http://www.radiogalaxy99.com/",
+   "stream": "https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "dance",
+    "hits",
+    "house"
+   ],
+   "votes": 70,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ert-now-hits",
+   "name": "ERT Now Hits",
+   "url": "https://www.ertecho.gr/radio/nowhitsradio/",
+   "stream": "https://radiostreaming.ert.gr/hits-radio",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "pop"
+   ],
+   "votes": 68,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-tokyo",
+   "name": "Radio Art - Tokyo",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fTokyo.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical",
+    "music"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "retro-937",
+   "name": "Retro 937",
+   "url": "https://retro937.blogspot.com/",
+   "stream": "https://sp.streams.ovh/8056/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "folk",
+    "oldies"
+   ],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "focus-99-6",
+   "name": "Focus 99.6",
+   "url": "http://focus-radio.gr/",
+   "stream": "https://cast.magicstreams.gr:9056/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Kalamata",
+   "genre": [
+    "music"
+   ],
+   "votes": 66,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melody",
+   "name": "Melody",
+   "url": "https://www.radiomelody.online/",
+   "stream": "https://i9.streams.ovh/sc/radiome2/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "dance",
+    "pop"
+   ],
+   "votes": 65,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "kiss-91-1",
+   "name": "Kiss 91.1",
+   "url": "https://thekiss.gr/",
+   "stream": "https://rdst.win:59110/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Ioannina",
+   "genre": [
+    "pop"
+   ],
+   "votes": 63,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hit-classic",
+   "name": "Hit classic",
+   "url": "http://www.facebook.com/HitMediaGroup/",
+   "stream": "https://solid67.streamupsolutions.com/proxy/smzyynlm?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "80s",
+    "90s"
+   ],
+   "votes": 61,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-x",
+   "name": "Radio X",
+   "url": "https://www.radiox.gr/",
+   "stream": "https://n07.radiojar.com/yv5xu5h7zwwtv?rj-ttl=5&rj-tok=AAABeMgD8O4ADk3iEmxYJju41w",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "alternative",
+    "indie",
+    "jazz",
+    "rock"
+   ],
+   "votes": 61,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skglobe-net-senses",
+   "name": "SKGLOBE.NET | SENSES",
+   "url": "https://skglobe.net/",
+   "stream": "https://smartstream.link/senses",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Attica",
+   "genre": [
+    "easy-listening",
+    "lounge"
+   ],
+   "votes": 60,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "thess-94-5",
+   "name": "Thess 94.5",
+   "url": "https://www.rthess.gr/",
+   "stream": "https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Thessaloniki",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 60,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "music-art-club",
+   "name": "Music Art Club",
+   "url": "http://www.musicartclub.gr/",
+   "stream": "https://eu9.fastcast4u.com/proxy/musicart?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "jazz",
+    "pop"
+   ],
+   "votes": 59,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-luciano-pavarotti",
+   "name": "Radio Art - Luciano Pavarotti",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fLuciano_pavarotti.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "opera"
+   ],
+   "votes": 59,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-vocal-legends",
+   "name": "Radio Art - Vocal Legends",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fVocal_legends.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-angels",
+   "name": "Rock Angels",
+   "url": "https://teogiota.blogspot.com/",
+   "stream": "https://azuracast.streams.ovh/radio/8030/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "metal",
+    "rock"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "skglobe-net-mixed-emotions",
+   "name": "SKGLOBE.NET | MIXED EMOTIONS",
+   "url": "https://skglobe.net/",
+   "stream": "https://smartstream.link/mixedemotions",
+   "codec": "aac",
+   "bitrate": 64,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Attica",
+   "genre": [
+    "edm",
+    "house"
+   ],
+   "votes": 57,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "aqua-radio-the-80s",
+   "name": "Aqua Radio The 80s",
+   "url": "https://aquadisco80s.gr/",
+   "stream": "https://s2.e-resellers.gr/proxy/aquadisco80s/stream",
+   "codec": "mp3",
+   "bitrate": 160,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "80s",
+    "oldies"
+   ],
+   "votes": 56,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "emerson-athens",
+   "name": "Emerson Athens",
+   "url": "https://radioemerson.gr/",
+   "stream": "https://azuracast.streams.ovh/listen/radioemerson/radio.mp3?refresh=1672345562511",
+   "codec": "aac",
+   "bitrate": 128,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "pop"
+   ],
+   "votes": 55,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "power-92-3",
+   "name": "Power 92.3",
+   "url": "http://www.powerfm923.gr/",
+   "stream": "https://neos.win:59230/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Arta",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-contemporary-vocal",
+   "name": "Radio Art - Contemporary Vocal",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fContemporary_vocal.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "jazz",
+    "music"
+   ],
+   "votes": 54,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ert-80s",
+   "name": "ERT 80s",
+   "url": "https://radiostreaming.ert.gr/radio-80s",
+   "stream": "https://radiostreaming.ert.gr/radio-80s",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "80s"
+   ],
+   "votes": 53,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jackson-palace",
+   "name": "Jackson Palace",
+   "url": "https://jacksonpalace.gr/",
+   "stream": "https://jacksonspalace.radioca.st/stream?type=http&nocache=220",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "70s",
+    "80s",
+    "90s"
+   ],
+   "votes": 53,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "jazz-breeze",
+   "name": "Jazz Breeze",
+   "url": "https://www.jazzbreezeradio.com/",
+   "stream": "https://n03.radiojar.com/8tqwqkrhk48uv?rj-ttl=5&rj-tok=AAABhWUzD2oAZxpriF75OruLjw",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "jazz"
+   ],
+   "votes": 53,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiokalavryta",
+   "name": "Καλάβρυτα",
+   "url": "https://www.radiokalavryta.gr/",
+   "stream": "https://rdst.win:48030/live",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Kalavryta",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 52,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "feel-good-104-9",
+   "name": "Feel Good 104.9",
+   "url": "https://feelgoodradio.gr/",
+   "stream": "https://feelgood.radioca.st/stream",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Rhodes",
+   "genre": [
+    "pop-music"
+   ],
+   "votes": 51,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "comfuzio-24",
+   "name": "Comfuzio 24",
+   "url": "https://www.comfuzio24.com/",
+   "stream": "https://i8.streams.ovh/sc/comfuzio/stream/",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 50,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "hit-88-9",
+   "name": "HiT 88.9",
+   "url": "https://www.hit889.gr/",
+   "stream": "https://n10a-eu.rcs.revma.com/e4661aft4c3vv?rj-ttl=5&rj-tok=AAABnRbVaDAA1aczyKJ3F05MOw",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "pop"
+   ],
+   "votes": 50,
+   "clicks": 4,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-classical-crossover",
+   "name": "Radio Art - Classical Crossover",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fClassical_crossover.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical",
+    "opera"
+   ],
+   "votes": 50,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "cosmos-93-2",
+   "name": "Cosmos 93.2",
+   "url": "http://932.gr/",
+   "stream": "https://neos.win:59320/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Kavala",
+   "genre": [
+    "pop"
+   ],
+   "votes": 48,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1st-greek-new-age-flac-radio-aac-320kbps",
+   "name": "1st Greek New Age FLAC Radio AAC+ 320kbps",
+   "url": "https://newageradio.gr/",
+   "stream": "https://stream.newageradio.gr/listen/hq/radio.aac",
+   "codec": "aac",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "state": "Attica, Athens",
+   "genre": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "electronic",
+    "instrumental",
+    "lounge",
+    "relax"
+   ],
+   "votes": 45,
+   "clicks": 6,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "downtuned",
+   "name": "Downtuned",
+   "url": "http://www.downtunedmag.com/",
+   "stream": "https://free.rcast.net/62232",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "genre": [
+    "rock"
+   ],
+   "votes": 45,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "apps-96-6",
+   "name": "Apps 96.6",
+   "url": "https://www.appsradio.gr/",
+   "stream": "https://stream.myip.gr/proxy/app966?mp=/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Alexandroupolis",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-a-cappella",
+   "name": "Radio Art - A Cappella",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fA_Cappella.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music"
+   ],
+   "votes": 43,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "galaxy-fm-92-0",
+   "name": "Galaxy FM 92.0",
+   "url": "https://live24.gr/radio/galaxy",
+   "stream": "https://galaxy.live24.gr/galaxy9292",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "genre": [
+    "classic-hits",
+    "hits",
+    "pop"
+   ],
+   "votes": 42,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-baby-sleep",
+   "name": "Radio Art - Baby Sleep",
+   "url": "https://www.radioart.com/",
+   "stream": "https://air.radioart.online/fBaby_sleep.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "instrumental",
+    "music",
+    "relax"
+   ],
+   "votes": 42,
+   "clicks": 3,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-cello-for-sleep",
+   "name": "Radio Art - Cello for Sleep",
+   "url": "https://www.radioart.com/",
+   "stream": "https://air.radioart.online/fCello_for_sleep.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "music",
+    "relax"
+   ],
+   "votes": 42,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-deep-focus-concentration",
+   "name": "Radio Art - Deep Focus & Concentration",
+   "url": "https://www.radioart.com/",
+   "stream": "https://air.radioart.online/fDeep_focus.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "relax"
+   ],
+   "votes": 42,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "80smania-gr",
+   "name": "80smania GR",
+   "url": "https://www.80smania.gr/",
+   "stream": "https://solid9.streamupsolutions.com/proxy/glzzkced/streamor",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "80s"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "legend-fm-88-6",
+   "name": "Legend FM 88.6",
+   "url": "https://www.legend886.gr/",
+   "stream": "https://stream.radiojar.com/gphtvb4env5tv",
+   "codec": "aac",
+   "bitrate": 0,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "pop",
+    "pop-rock",
+    "rock"
+   ],
+   "votes": 41,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "velvet-ballads-96-8-fm",
+   "name": "Velvet Ballads 96.8 FM",
+   "url": "https://velvet968.gr/",
+   "stream": "https://metromedia.live24.gr/velvet968thess",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "english",
+    "greek"
+   ],
+   "langCodes": [
+    "el",
+    "en"
+   ],
+   "genre": [
+    "hits"
+   ],
+   "votes": 41,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "fasma-99-7",
+   "name": "Fasma 99.7",
+   "url": "https://www.fasmaradio.gr/",
+   "stream": "https://fasmafm.radioca.st/stream?type=http&nocache=83",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Patra",
+   "genre": [
+    "pop"
+   ],
+   "votes": 40,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-indie",
+   "name": "Radio Art - Indie",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fIndie.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "indie",
+    "music",
+    "rock"
+   ],
+   "votes": 38,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "melody-96-7",
+   "name": "Melody 96.7",
+   "url": "https://melodylimnosnews.gr/",
+   "stream": "https://eu4.fastcast4u.com/proxy/jlwmwogj?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Limnos",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 36,
+   "clicks": 2,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "my-radio-89-6",
+   "name": "My Radio 89.6",
+   "url": "https://myradionet.gr/",
+   "stream": "https://eco.onestreaming.com/proxy/myradioice/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Loutraki",
+   "genre": [
+    "pop"
+   ],
+   "votes": 36,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "1",
+   "name": "Πειραιάς Κανάλι 1",
+   "url": "https://kanaliena.gr/",
+   "stream": "https://netradio.live24.gr/kanali1peiraia",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Piraeus",
+   "genre": [
+    "music"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "92-5-2",
+   "name": "Στουρναραίικα 92.5",
+   "url": "https://www.radiostournareika.gr/",
+   "stream": "https://i8.streams.ovh/sc/radiostournareika/stream",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Trikala",
+   "genre": [
+    "folk"
+   ],
+   "votes": 34,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radio-art-today-s-sopranos",
+   "name": "Radio Art - Today’s Sopranos",
+   "url": "https://www.radioart.com/",
+   "stream": "https://live.radioart.com/fTodays_Sopranos.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "genre": [
+    "classical",
+    "opera"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "rock-radio-station-rrs",
+   "name": "Rock Radio Station RRS",
+   "url": "https://rockradiostation.eu/",
+   "stream": "https://i8.streams.ovh/sc/rockrad1/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "rock"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "yes-91-2",
+   "name": "Yes! 91.2",
+   "url": "http://yesradio.gr/",
+   "stream": "https://ams-pioneer02.dedicateware.com:1060/;?type=http&nocache=10656",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Patra",
+   "genre": [
+    "pop"
+   ],
+   "votes": 32,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "eton7art",
+   "name": "Βeton7Art",
+   "url": "https://www.beton7artradio.gr/",
+   "stream": "https://uk1.streamingpulse.com/ssl/b7artradio",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "classical"
+   ],
+   "votes": 31,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "notes",
+   "name": "Notes",
+   "url": "https://www.radionotes.eu/",
+   "stream": "https://neos.win:48720/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "star-radio",
+   "name": "Star Radio",
+   "url": "https://starradio.eu/",
+   "stream": "https://sp.streams.ovh/8026/;stream/1",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Athens",
+   "genre": [
+    "classic-rock"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "true-story-102-8",
+   "name": "True Story 102.8",
+   "url": "https://truestoryradio.gr/",
+   "stream": "https://sp1.19cloudsnetwork.gr/8040/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Ptolemaida",
+   "genre": [
+    "pop",
+    "rock"
+   ],
+   "votes": 29,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "ert-90s",
+   "name": "ERT 90s",
+   "url": "https://www.ertecho.gr/radio/radio90s/",
+   "stream": "https://radiostreaming.ert.gr/radio-90s",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "90s"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "sampotaz",
+   "name": "Sampotaz",
+   "url": "https://radiosampotaz.blogspot.com/",
+   "stream": "https://eu10.fastcast4u.com/sampotaz",
+   "codec": "mp3",
+   "bitrate": 192,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "genre": [
+    "blues",
+    "folk",
+    "rock"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "radiotakhs",
+   "name": "Τάκης",
+   "url": "http://radiotakhs.com/",
+   "stream": "https://i9.streams.ovh/sc/radiotak/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "format": "music",
+   "langs": [
+    "greek"
+   ],
+   "langCodes": [
+    "el"
+   ],
+   "state": "Heraclion",
+   "genre": [
+    "folk",
+    "pop"
+   ],
+   "votes": 28,
+   "clicks": 0,
+   "verified": "2026-08-24"
+  },
+  {
+   "id": "easy-80s",
+   "name": "Easy 80s",
+   "url": "https://www.soundis.gr/",
+   "stream": "https://n32a-eu.rcs.revma.com/wvt5ty5r4a0uv?rj-ttl=5&rj-tok=AAABnRyLl80AVJHYnMSEDODixA",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "state": "Athens",
+   "genre": [
+    "80s"
+   ],
+   "votes": 27,
+   "clicks": 1,
+   "verified": "2026-08-24"
+  }
+ ]
+}

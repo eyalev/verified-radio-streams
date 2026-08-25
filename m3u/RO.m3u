@@ -1,0 +1,319 @@
+#EXTM3U
+#EXTINF:-1 group-title="Romania" tvg-genre="hip-hop,pop,pop-music,rnb",Virgin Radio Romania
+https://astreaming.edi.ro:8443/VirginRadio_aac
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-rock,rock",Rock Fm Hard Rock
+https://live.rockfm.ro/hard.rock
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house,pop,pop-music",DJ Radio Romania
+https://stream.djradio.ro/radio/8000/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="80s,90s,dance,oldies",Magic Party Mix
+https://live.magicfm.ro/magic.party.mix
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-rock,rock",Rock Fm Ballads
+https://live.rockfm.ro/ballads.rock
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Radio România Actualități
+https://stream4.srr.ro:8443/romania-actualitati
+#EXTINF:-1 group-title="Romania" tvg-genre="rock",RockFM
+https://live.rockfm.ro/rockfm.aacp
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Digi FM
+https://edge76.rcs-rds.ro/digifm/digifm.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="folk",Radio MANELE
+https://play.wrhradios.com/8044/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="adult-contemporary,classic-hits,pop-music,pop-rock",Rádió KoKo
+https://az10.yesstreaming.net:8210/radiokoko.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="hits",Play Radio
+https://live.playradio.org:8443/90HD
+#EXTINF:-1 group-title="Romania" tvg-genre="80s,90s,oldies",Radio Vacanța - Gold
+https://stream4.srr.ro:8443/gold_rv
+#EXTINF:-1 group-title="Romania" tvg-genre="2000s,70s,80s,90s,chillout,classic-rock,country,dance,folk,hits,lounge,oldies,pop,relax,rock",Radio Energy Cugir
+https://sonicssl.namehost.ro/8790/stream/;
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-hits,greatest-hits,oldies",Magic Gold Hits
+https://live.magicfm.ro/magic.gold.hits
+#EXTINF:-1 group-title="Romania" tvg-genre="disco,hits,pop",Radio Disco Mix
+https://play.discomix.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="adult-contemporary,electronic,pop-rock,top-hits",Radio Transilvania - Cluj
+https://stream2.radiotransilvania.ro/Cluj
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,edm,electronic,house",Space Fm Dance
+https://spacefm.live/radio/8000/spacefm128
+#EXTINF:-1 group-title="Romania" tvg-genre="blues",Rock Fm Blues
+https://live.rockfm.ro/blues
+#EXTINF:-1 group-title="Romania" tvg-genre="hits,pop",Radio RFM
+https://shout.realitatea.net:8001/mixt
+#EXTINF:-1 group-title="Romania" tvg-genre="ambient,electronic,hip-hop,house,indie,jazz,reggae,soul,techno",Black Rhino Radio
+https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
+#EXTINF:-1 group-title="Romania" tvg-genre="top-hits",Plusz FM - Nagyvarad
+https://stream2.radiotransilvania.ro/Nagyvarad
+#EXTINF:-1 group-title="Romania" tvg-genre="music",ROMÂNIA Antena Satelor
+https://stream4.srr.ro:8443/antena-satelor
+#EXTINF:-1 group-title="Romania" tvg-genre="folk",Radio Folclor
+https://ssl.omegahost.ro/8092/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="hip-hop,rap",Radio Cartier Romania
+https://live.radiocartier.eu:8048/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="ambient,chillout,lounge",Ambiento
+https://ambiento-adradio.radioca.st/128
+#EXTINF:-1 group-title="Romania" tvg-genre="ambient,oldies,relax",Magic Sunset
+https://live.magicfm.ro/magic.lite
+#EXTINF:-1 group-title="Romania" tvg-genre="hip-hop,rap",Radio Greu De Difuzat
+https://greudedifuzat.ro/stream/
+#EXTINF:-1 group-title="Romania" tvg-genre="alternative,indie",Dark Edge Radio
+https://stream.darkedge.ro:8002/stream/1/
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,electronic,house",Extravaganza Radio
+https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-genre="alternative,indie,rock",Erdély FM
+https://efm.radioca.st/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house",Radio Boom House Music
+https://stream.radioboom.ro/listen/boom_house_music/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="hits,pop",Radio Vacanța - Fresh
+https://stream4.srr.ro:8443/fresh_rv
+#EXTINF:-1 group-title="Romania" tvg-genre="80s",Magic FM 80s HIts
+https://live.kissfm.ro/Magic-80s
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,electronic,house",Supravibe Radio
+https://supraviberadio-radiohosting.radioca.st/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="indie",goREBEL
+https://live.gofm.ro:2000/stream/goREBEL/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="instrumental",Aripi Spre Cer Instrumental
+https://instrumental.aac.aripisprecer.ro/radio.mp3;
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,edm,electronic,house,pop",Radio Blue Romania
+https://asculta.muzicaok.de:8002/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,electronic,house,relax",Pescobar Radio
+https://listen.radioking.com/radio/701141/stream/766385
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,pop",Bistrița FM 92.6
+https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8
+#EXTINF:-1 group-title="Romania" tvg-genre="blues",EBS | Blues
+https://azura.ebsmedia.ro/listen/blues/blues128.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="jazz,smooth-jazz",goJAZZ
+https://live.gofm.ro:2020/stream/goJAZZ
+#EXTINF:-1 group-title="Romania" tvg-genre="electronic,house",Radio Marketescu House&Minimal
+https://s31.radiolize.com/radio/8020/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="hits,oldies,pop",Radio Boom Gold
+https://stream.radioboom.ro/listen/boom_gold/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="electronic",EBS | Electro
+https://azura.ebsmedia.ro/listen/electro/electro128.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-rock,rock",Radio KPTV
+https://nl1.streamingpulse.com/ssl/KPTV
+#EXTINF:-1 group-title="Romania" tvg-genre="folk",Radio Folclor Buzau
+https://live.radiofolclorbuzaufm.ro:8910/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="90s,electronic,trance",Getarum Radio
+https://stream.clever-host.ro/8010/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="80s,90s,dance,oldies,pop",Radio Goldies
+https://s10.streamingcloud.online/stream/13664
+#EXTINF:-1 group-title="Romania" tvg-genre="alternative,classic-rock,rock",Radio Eco Natura
+https://n0a.radiojar.com/fp5c3fgbyzzuv
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-rock,rock",Radio Boom Rock
+https://stream.radioboom.ro/listen/boom_rock/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,pop,pop-music,top-40",Roman FM
+https://live.romanfm.ro:8000/;rfm
+#EXTINF:-1 group-title="Romania" tvg-genre="chillout,pop,relax",Cozy FM
+https://live.cozyfm.ro:8010/live
+#EXTINF:-1 group-title="Romania" tvg-genre="top-hits",Plusz FM - Margitta
+https://stream2.radiotransilvania.ro/Margitta
+#EXTINF:-1 group-title="Romania" tvg-genre="metal,rock",goROCK
+https://live.gofm.ro:2020/stream/goROCK
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house,pop",Eveniment FM Sibiu 103.2
+https://live.gofm.ro:2000/stream/eveniment
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Love Marilena Galați
+https://radio.sonicpanel.ro/8068/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="reggae",Radio Marketescu Reggae&Trip-Hop
+https://s37.radiolize.com/radio/8100/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="jazz",EBS | Jazz
+https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="electronic,techno",Minimal Techno Radio & Track Discovery - ROminimal.club
+https://r4.rominimal.club/listen/rominimal.club/radio2.m4a
+#EXTINF:-1 group-title="Romania" tvg-genre="hip-hop,rnb,rap",Urban FM
+https://urbanfm.ro:8777/live
+#EXTINF:-1 group-title="Romania" tvg-genre="christian-music",Aripi Spre Cer Popular
+https://popular.stream.aripisprecer.ro/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,pop,pop-music",Moinesti FM
+https://listen.moinestifm.ro/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="adult-contemporary,top-hits",EBS Radio
+https://azura.ebsmedia.ro/listen/live/live128.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="folk",Radio Folclor Muntenia
+https://live.radiofolclormuntenia.ro:8008/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,hits,pop",Capital FM - Dance
+https://ssl.omegahost.ro:8020/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="blues,classic-rock,country,folk,pop,pop-music,pop-rock,rock,soul",Supersonic Radio
+https://s5.radio.co/s08e5c5875/listen
+#EXTINF:-1 group-title="Romania" tvg-genre="blues,dance,edm,folk,indie,oldies,pop,rock,romantic",Dux Radio
+https://radio.duxradio.ro:8002/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="chillout,lounge",EBS | Lounge
+https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="alternative,classic-rock,pop-rock,rock",Radio Trib
+https://streams.radio.co/s78f983952/listen
+#EXTINF:-1 group-title="Romania" tvg-genre="top-hits",Szépvíz FM
+https://szepvizfm.ro:8000/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,pop",Radio Boom Energy
+https://stream.radioboom.ro/listen/boom_energy/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="folk",RadioPitesteanuRomania
+https://free.rcast.net/246157
+#EXTINF:-1 group-title="Romania" tvg-genre="relax",OXO Radio
+https://s4.ssl-stream.com/listen/oxo_radio/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="pop",Nova 22
+https://s2.myradiostream.com/4520/listen.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="70s,80s,90s,classic-rock,dance,lounge,oldies",Radio Energy Cugir - 87,9 FM
+https://sonicssl.namehost.ro/8790/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="80s,90s,dance,oldies,pop,pop-music",Radio Aquila
+https://s10.webradio-hosting.com/proxy/schrteam/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="relax,relaxing",Magic FM Relax
+https://live.kissfm.ro/magic.lite
+#EXTINF:-1 group-title="Romania" tvg-genre="hits,indie,pop-music",EBS | Music
+https://azura.ebsmedia.ro/listen/music/music128.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="rap",Radio Marketescu Rap&Trap
+https://s45.radiolize.com/radio/8060/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-rock,rock",Soft Rock Radio
+https://gold.streamguys1.com/softrock.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-hits,pop-rock",Erdélyi Magyar Rádió
+https://adas.erdelyimagyarradio.eu:8443/emr
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,hits,oldies,pop",Radio Killer Câmpia Turzii
+https://s12.myradiostream.com/17492/listen.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="top-hits",goFM
+https://live.gofm.ro:2000/stream/goFMro
+#EXTINF:-1 group-title="Romania" tvg-genre="90s",Magic FM 90s Hits
+https://live.kissfm.ro/Magic-90s
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,hits,pop",EnJOY Radio
+https://live.enjoyradio.ro/radio/8000/enjoylive.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="love-songs,oldies,pop,romantic",Marlene Radio
+https://live.gofm.ro:2000/stream/MARLENERADIO/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house,pop",Radio Greenstone
+https://stream.clever-host.ro/8018/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="blues,country",RADIO MAGIA INIMII TALE
+https://a9.asurahosting.com:7030/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",RadioPlay Dance Romania -Cluj Napoca
+https://mscp1.gazduireradio.ro:1130/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="love-songs,romantic",Magic FM Love
+https://dc.digi.live.kissfm.ro/magiclove
+#EXTINF:-1 group-title="Romania" tvg-genre="pop-rock,top-hits",Rádió GaGa Marosszék
+https://a3.my-control-panel.com:6660/radio.mp3?1709995925
+#EXTINF:-1 group-title="Romania" tvg-genre="oldies,pop,rock",Radio Marketescu Travel
+https://s103.radiolize.com:8020/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="christian-music",Cross One Radio
+https://lb01.bpstream.com:8630/;
+#EXTINF:-1 group-title="Romania" tvg-genre="90s,pop-music",Nostalgia Radio
+https://live.radionostalgia.ro:8443/nostalgia.aac
+#EXTINF:-1 group-title="Romania" tvg-genre="top-hits",Star rádió
+https://online.webcastradio.ro/star
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house",Vibe FM România
+https://live.radiovibefm.eu/8052/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Transilvania -statia Oradea 97.2 FM
+https://stream2.radiotransilvania.ro/Oradea
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,pop",Wave Radio
+https://s2.ssl-stream.com/listen/wave_radio/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Transilvania -statia Baia Mare 106.1 FM
+https://stream2.radiotransilvania.ro/BaiaMare
+#EXTINF:-1 group-title="Romania" tvg-genre="pop",Vibe FM
+https://astreaming.vibefm.ro:8443/vibe_ro64
+#EXTINF:-1 group-title="Romania" tvg-genre="jazz,smooth-jazz",Magic FM Jazz
+https://dc.digi.live.kissfm.ro/magic-jazz
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Tequila România -Radio Dance
+https://dance.radiotequila.ro/7000/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,hits,pop,rnb,rock,top-40",Transylvania -Hits
+https://asculta.ascultatare.ro/8036/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="classical",Magic FM Ckassic Music
+https://dc.digi.live.kissfm.ro/magic-classic
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Sláger Rádió -Slager FM Sepsiszentgyörgy/Sfântu Gheorghe 105.9 FM
+https://slagerfm.netregator.hu:7813/slagerfm320.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,hits,house",SpaceFM Romania -SpaceFM Dance
+https://spacefm.live/listen/spacefm_romania/spacefm192
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Balcan Radio Manele -Brăila
+https://radio.sonicpanel.ro/8112/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="romantic",Radio Bella Eomania
+https://ssl.asculta.live/radiobella/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="classic-rock,rock",Rock Now Radio
+https://listen.rocknowradio.ro/
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Transilvania -statia Satu Mare 99.0 FM
+https://stream2.radiotransilvania.ro/SatuMare
+#EXTINF:-1 group-title="Romania" tvg-genre="music",VIVA FM -statia Iasi 105 FM
+https://cloud.radiosonicpanel.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house,pop,techno",MFM Dance (Muntenia FM) - Albeștii de Argeș 105,7 FM
+https://ssl.radios.show/8012/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Radio Balkan Romania
+https://live.radiobalkan.ro:8102/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="70s,80s,90s,hits,oldies",SpaceFM Romania -SpaceFM Retro
+https://retro.spacefm.live/listen/spacefm_retro/retro128
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",STAR FM România
+https://asculta.muzicaok.de:8060/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="pop,rock",Urban Sunsets
+https://stream.radio.co/sedf8bacc9/listen
+#EXTINF:-1 group-title="Romania" tvg-genre="adult-contemporary,pop,rock",Antenna Web Oradea
+https://tinyurl.com/Antenna-Web-Oradea
+#EXTINF:-1 group-title="Romania" tvg-genre="blues",EBS Radio Blues -Cluj Napoca
+https://azura.ebsmedia.ro/listen/blues/blues128.mp3?refresh=1779028682377
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Glasul Nordului 2 (Jurnal FM) -Hudești
+https://ssl.radios.show/8008/;
+#EXTINF:-1 group-title="Romania" tvg-genre="hits",Kiss Hits From The 10s
+https://live.kissfm.ro/kiss.hits.from.the.10s
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Luduș Manele
+https://radio.gazduirejocuri.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,electronic",Moonrise Radio
+https://radio.sunrise85fm.ro/listen/moonrise_radio/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Radio Liberty Dance -București
+https://sonicssl.namehost.ro/1989/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="90s,hits",Radio Liberty Muzică Românească -București
+https://sonicssl.namehost.ro/7060/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="trance",RadioPlay Trance Romania -Cluj Napoca
+https://mscp1.gazduireradio.ro:1220/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="alternative,rock",Rockstar Radio
+https://a5.asurahosting.com:7120/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Sinaia Radio Forever
+https://ssl.asculta.live/8006/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="alternative,electronic,oldies,pop,rock",Sky FM - Radio Sky Constanța 101.1 FM
+https://live.radiosky.ro/radiosky.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Center Deejay Brașov -DJ Radio Romania
+https://djradio.ro/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="tango",EBS Radio Romanian Gold -Cluj Napoca
+https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3?refresh=1779029137110
+#EXTINF:-1 group-title="Romania" tvg-genre="electronic,trance",FMV FIT Radio Medium Energy
+https://radio.webicdp.com/listen/fmvfitradiomediumenergy/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="house",Radio BOOM House Music -Buzău, Rm. Sarat 102,3 FM
+https://stream.radioboom.ro:8530/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="80s,oldies",Radio Coresi 80s -Brașov
+https://s5.radio.co/sfb029759c/listen
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Radio Ideal
+https://radio.gazduirejocuri.ro/8014/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Radio Orion FM -Câmpulung Muscel 96,6 FM
+https://cast.orionfm.ro/listen/orion/public.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="adult-contemporary,pop",Sky Radio Bucuresti
+https://20593.live.streamtheworld.com/KNEIFM_SC
+#EXTINF:-1 group-title="Romania" tvg-genre="80s,90s,oldies,pop",Sound Four You -Craiova 128.0 DAB
+https://ssl.asculta.live/8222/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="hits",UrbanUP TV
+https://s7.everestcast.com:6805/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="90s,dance,folk,pop,rock",Adjud FM
+https://live.adjudfm.ro:8000/adjudfm.aac
+#EXTINF:-1 group-title="Romania" tvg-genre="dance,house",DejaVuMusic -Radio DejaVu
+https://radio.sonicpanel.ro/8042/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="music",EBS Radio Live -Cluj Napoca 90,4 FM
+https://azura.ebsmedia.ro/listen/live/live128.mp3?refresh=1779027831553
+#EXTINF:-1 group-title="Romania" tvg-genre="rock",Kiss fm • rock athems
+https://dc.digi.live.kissfm.ro/rockanthemsbydanfintescu
+#EXTINF:-1 group-title="Romania" tvg-genre="music",News Radio Botoșani
+https://servidor22-2.brlogic.com:7250/live
+#EXTINF:-1 group-title="Romania" tvg-genre="pop,top-40",Pro FM -stația Cluj Napoca 99,8 FM
+https://radioendirect.net/stream/125928
+#EXTINF:-1 group-title="Romania" tvg-genre="dance",Radio Alpin Romania
+https://asculta.ascultatare.ro/8042/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="hits",Radio BOOM Gold -Buzău, Rm. Sarat 96,7 FM
+https://stream.radioboom.ro:8500/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-genre="oldies",Radio Liberty Oldies -București
+https://sonicssl.namehost.ro/7790/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="oldies",RadioPlay Retro Romania -Cluj Napoca
+https://mscp1.gazduireradio.ro:1360/stream
+#EXTINF:-1 group-title="Romania" tvg-genre="metal,rock",Rockradio.ro
+https://online.webcastradio.ro/rock-u.aac
+#EXTINF:-1 group-title="Romania" tvg-genre="music",Sighet FM -Sighetu Marmației 89.3 FM
+https://radio.zifer.ro/SighetFM
+#EXTINF:-1 group-title="Romania",Kiss Fm Ro
+https://live.kissfm.ro/kissfm.aacp
+#EXTINF:-1 group-title="Romania",Europa FM Romania
+https://astreaming.edi.ro:8443/EuropaFM_aac
+#EXTINF:-1 group-title="Romania",One FM Dance
+https://live.onefm.ro/onefm.aacp
+#EXTINF:-1 group-title="Romania",Digi24FM
+https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
+#EXTINF:-1 group-title="Romania",RADIO Petrecere
+https://ssl.servereradio.ro/8123/stream
+#EXTINF:-1 group-title="Romania",Super FM
+https://live.superfm.ro/stream.mp3
+#EXTINF:-1 group-title="Romania",Dance FM
+https://edge126.rcs-rds.ro/profm/dancefm.mp3
+#EXTINF:-1 group-title="Romania",Atmospheric dnb s0urce
+https://brokenbeats.net/stream/aac
+#EXTINF:-1 group-title="Romania",Radio Vacanța Nostalgia
+https://stream4.srr.ro:8443/nostalgia_rv

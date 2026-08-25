@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Siyatha Fm
+https://srv01.onlineradio.voaplus.com/siyathafm
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Lakhanda
+https://cp12.serverse.com/proxy/itnfm?mp=/stream
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Kothmale FM
+https://s11.myradiostream.com:25116/listen.mp3
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Radio Plus Sri Lanka
+https://altair.streamerr.co/stream/8036
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Radio Plus Hitz
+https://altair.streamerr.co/stream/8054
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="dance,pop,top-40",Real Radio Sri Lanka 97.1
+https://srv02.onlineradio.voaplus.com/realfm
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Y FM - Hi-Res
+https://mbc.thestreamtech.com:7032/
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="dance,hip-hop,pop,top-40",Life 87.8 Sri Lanka
+https://srv02.onlineradio.voaplus.com/lite878
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Shakthi Fm
+https://mbc.thestreamtech.com:8086/stream
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="hits,pop,top-40",Kiss FM Sri Lanka
+https://srv02.onlineradio.voaplus.com/kissfm
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="music",Ran FM
+https://a3.asurahosting.com/listen/ranfm/radio.mp3
+#EXTINF:-1 group-title="Sri Lanka" tvg-genre="2000s,80s,90s,classic-hits",Legends 96.6 FM
+https://mbc.thestreamtech.com:8585/stream
+#EXTINF:-1 group-title="Sri Lanka",Hiru FM
+https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/
+#EXTINF:-1 group-title="Sri Lanka",Gold FM
+https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden
+#EXTINF:-1 group-title="Sri Lanka",Rangiri Sri Lanka
+https://rangiri.radioca.st/stream
+#EXTINF:-1 group-title="Sri Lanka",Classic Radio
+https://cp11.serverse.com/proxy/classic/stream
+#EXTINF:-1 group-title="Sri Lanka",SunFM
+https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden
+#EXTINF:-1 group-title="Sri Lanka",Hiru FM
+https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384
+#EXTINF:-1 group-title="Sri Lanka",NETH FM
+https://cp11.serverse.com/proxy/nethfm/stream
+#EXTINF:-1 group-title="Sri Lanka",LAKHANDA RADIO
+https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036
+#EXTINF:-1 group-title="Sri Lanka",Star FM Srilanka
+https://stream.starfm.lk:12025/stream
+#EXTINF:-1 group-title="Sri Lanka",YFM-SRiLanka
+https://mbc.thestreamtech.com:7032/index.html
+#EXTINF:-1 group-title="Sri Lanka",Lite 87.8
+https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3
+#EXTINF:-1 group-title="Sri Lanka",Wellon Radio Cafe
+https://wellonradio.out.airtime.pro/wellonradio_a
+#EXTINF:-1 group-title="Sri Lanka",Vasantham FM
+https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream
+#EXTINF:-1 group-title="Sri Lanka",Jothi FM
+https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3
+#EXTINF:-1 group-title="Sri Lanka",DreamzLanka FM
+https://radio-station.hadawatha.lk/listen/dreamzlanka-fm/radio.mp3
+#EXTINF:-1 group-title="Sri Lanka",Hadawatha FM
+https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3

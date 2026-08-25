@@ -1,0 +1,89 @@
+{
+ "countryCode": "CD",
+ "country": "Congo - Kinshasa",
+ "slug": "congo-kinshasa",
+ "continent": "africa",
+ "stationCount": 4,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/congo-kinshasa/",
+ "stations": [
+  {
+   "id": "top-congo-fm",
+   "name": "Top Congo FM",
+   "url": "http://domain.com/",
+   "stream": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+   "codec": "mp3",
+   "bitrate": 96,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 2281,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rmbb",
+   "name": "rmbb",
+   "url": "https://www.radiomoto.net/",
+   "stream": "https://radio4.pro-fhi.net/live/RadioMotoButemboBeni?1712401009868",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "french",
+    "kinand",
+    "kiswahili"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "genre": [],
+   "votes": 130,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 67,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "kolo-mboka-fm",
+   "name": "Kolo-mboka fm",
+   "url": "https://volticast.com/r/kolo-mbokafm",
+   "stream": "https://kolo-mbokafm.volticast.net/kolo-mbokafm.mp3",
+   "codec": "aac",
+   "bitrate": 96,
+   "langs": [
+    "french"
+   ],
+   "langCodes": [
+    "fr"
+   ],
+   "state": "Kinshasa",
+   "genre": [],
+   "votes": 1,
+   "clicks": 3,
+   "verified": "2026-08-23"
+  }
+ ]
+}

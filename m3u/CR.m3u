@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="music,r&b,reggae",Urbano 106 - 105.9 FM - San José, Costa Rica
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="hits,music,musica",103 (FM 103.1)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="musica",Amor FM 93.9
+https://player.hostingtico.com/proxy/8094
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="instrumental,jazz,smooth-jazz",95.5 Jazz
+https://streaming.radio.co/s36bd2a451/listen
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="gospel",Faro del Caribe 97.1 FM y 1080 AM
+https://sp.unoredcdn.net/8032/stream
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="alternative,metal,rock",Tiquicia Rock
+https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="80s,90s,blues,classic-rock,country,hits,rock,top-hits",Radio Dos (2) Costa Rica
+https://s5.radio.co/sd515b7b34/listen
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="alternative,hits,indie,pop,rock",959 Conexion
+https://29308.live.streamtheworld.com/CRC_959AAC.aac?_=
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="gospel",Avance Radio
+https://radios.solumedia.com:6512/;
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="hip-hop,rap",Urbano 106 105.9
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/
+#EXTINF:-1 group-title="Costa Rica" tvg-genre="gospel",FRECUENCIA CCI
+https://streaming.radio.co/s6729aeaac/listen
+#EXTINF:-1 group-title="Costa Rica",Radio Mil Recuerdos Stereo
+https://sechin.grupocentroserver.com/radio/8060/radio.mp3
+#EXTINF:-1 group-title="Costa Rica",1047hit
+https://live.turadio.stream:7004/stream;
+#EXTINF:-1 group-title="Costa Rica",Radio Musical 97.5
+https://live.turadio.stream:7005/stream?type=http&nocache=596
+#EXTINF:-1 group-title="Costa Rica",Planet 107.5
+https://stream20.usastreams.com/8094/stream
+#EXTINF:-1 group-title="Costa Rica",Azul 99.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac
+#EXTINF:-1 group-title="Costa Rica",Nueve Cuatro Siete - 94.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140
+#EXTINF:-1 group-title="Costa Rica",Columbia Estéreo 92.7 FM
+https://s5.radio.co/sca838cc60/listen
+#EXTINF:-1 group-title="Costa Rica",Radio Hit 104.7
+https://live.turadio.stream:7004/stream?type=http&nocache=596
+#EXTINF:-1 group-title="Costa Rica",Radio Casino 98.3FM
+https://host.rowrigo.com/listen/radiocasino/radiocasino
+#EXTINF:-1 group-title="Costa Rica",Mundo Rock Radio
+https://as100.globalhost1.com/8046/stream
+#EXTINF:-1 group-title="Costa Rica",Radio Costa
+https://sonicpanel.globalstream.pro:10979/;
+#EXTINF:-1 group-title="Costa Rica",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Costa Rica",Influencia Positiva Radio
+https://panel.gruponovaradial.com/listen/influencia_positiva_radio/radio.mp3
+#EXTINF:-1 group-title="Costa Rica",Radio Nosara
+https://sonicpanel.zonaradio.net/8038/stream
+#EXTINF:-1 group-title="Costa Rica",Conexiones del Ayer
+https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3
+#EXTINF:-1 group-title="Costa Rica",Osa Radio Online
+https://radioscr.digitaltvcr.xyz/listen/osaonline/osaradio
+#EXTINF:-1 group-title="Costa Rica",Conexión Positiva Radio
+https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3
+#EXTINF:-1 group-title="Costa Rica",onda digital fm sancarlos
+https://radio.serviciosderadio.com/listen/onda_digital_fm_costa_rica/radio.aac

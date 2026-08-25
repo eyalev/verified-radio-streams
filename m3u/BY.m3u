@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="Belarus" tvg-genre="classical",Новое радио
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+#EXTINF:-1 group-title="Belarus" tvg-genre="music",Компас FM
+https://radio.mil.by/live
+#EXTINF:-1 group-title="Belarus" tvg-genre="music,pop",Народное радио Минск 87.9 FM
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1 group-title="Belarus" tvg-genre="music,pop",Русское радио Минск 98.9 FM
+https://stream.rusradio.by:8443/live128
+#EXTINF:-1 group-title="Belarus" tvg-genre="dance,hits,pop",Новое радио - MegaMix
+https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
+#EXTINF:-1 group-title="Belarus" tvg-genre="dance,pop",Новое радио - Fresh
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1 group-title="Belarus" tvg-genre="rock",Соловьев
+https://solovievfm.hostingradio.ru/solovievfm128.aacp
+#EXTINF:-1 group-title="Belarus" tvg-genre="music",Душевное радио Минск 105.7 FM
+https://stream2.datacenter.by/dushevnoe
+#EXTINF:-1 group-title="Belarus" tvg-genre="pop-music",Радио витебск
+https://stream2.datacenter.by/vtvby
+#EXTINF:-1 group-title="Belarus" tvg-genre="classic-rock",Авторадио Минск
+https://live.humorfm.by:8443/avtoradio
+#EXTINF:-1 group-title="Belarus" tvg-genre="pop",МВ-Радио
+https://stream2.datacenter.by/mvradio
+#EXTINF:-1 group-title="Belarus" tvg-genre="classical",Ватыканскае радыё
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1 group-title="Belarus" tvg-genre="music,pop",Радио Брест 104.8 FM
+https://stream2.datacenter.by/trkbrest
+#EXTINF:-1 group-title="Belarus" tvg-genre="dance,disco,pop",Zefir FM
+https://stream2.datacenter.by/zefirfm
+#EXTINF:-1 group-title="Belarus" tvg-genre="oldies",Retro Belarus
+https://air.sammit.tv:8443/retro
+#EXTINF:-1 group-title="Belarus" tvg-genre="rock",Радыё Сталiца
+https://media2.datacenter.by/stream/stalica/stream
+#EXTINF:-1 group-title="Belarus" tvg-genre="rock",Радио ROKS
+https://stream.roks.com:8443/live256
+#EXTINF:-1 group-title="Belarus",РадиусFM
+https://stream2.datacenter.by/radiusfm_main
+#EXTINF:-1 group-title="Belarus",Мелодии Века 96.2fm
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1 group-title="Belarus",Lider FM
+https://icecast.lider-fm.by/liderfm
+#EXTINF:-1 group-title="Belarus",Город FM Брест 97,7
+https://stream2.datacenter.by/GorodFM
+#EXTINF:-1 group-title="Belarus",Радио Могилёв
+https://stream2.datacenter.by/tvrmogilev
+#EXTINF:-1 group-title="Belarus",радио Минск 92.4
+https://radio.mk.by:8443/radiominsk
+#EXTINF:-1 group-title="Belarus",ЦЕНТР FM
+https://stream2.datacenter.by/stream
+#EXTINF:-1 group-title="Belarus",Свое Радио (Пинск)
+https://live.svoyoradio.by:8443/svoyoradio
+#EXTINF:-1 group-title="Belarus",MFM Belarus
+https://radio.105fm.by/radio.105.0mfm
+#EXTINF:-1 group-title="Belarus",Alfa Radio 107.9 FM
+https://stream.sb.by/alpha
+#EXTINF:-1 group-title="Belarus",Открытое Слово Авто Радио
+https://rt.radioslovo.net:4145/stream
+#EXTINF:-1 group-title="Belarus",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Belarus",WGFM-Trance
+https://sv.netradio.by/1/128
+#EXTINF:-1 group-title="Belarus",Gomel FM
+https://stream2.datacenter.by/gomelfm
+#EXTINF:-1 group-title="Belarus",TEPLOE RADIO NETOP FM
+https://listen.teploe.net:8001/netopfm

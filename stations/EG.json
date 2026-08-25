@@ -1,0 +1,225 @@
+{
+ "countryCode": "EG",
+ "country": "Egypt",
+ "slug": "egypt",
+ "continent": "africa",
+ "stationCount": 15,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/egypt/",
+ "stations": [
+  {
+   "id": "radiojar",
+   "name": "إذاعة القرآن الكريم",
+   "url": "",
+   "stream": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+   "codec": "mp3",
+   "bitrate": 0,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 6257,
+   "clicks": 36,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango",
+   "name": ".. مختصر التفسير",
+   "url": "",
+   "stream": "https://qurango.net/radio/mukhtasartafsir",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2927,
+   "clicks": 20,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "qurango-2",
+   "name": ".إذاعة ماهر المعيقلي",
+   "url": "",
+   "stream": "https://backup.qurango.net/radio/maher",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 2494,
+   "clicks": 35,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "beautiful-recitation",
+   "name": ". beautiful recitation",
+   "url": "",
+   "stream": "https://qurango.net/radio/salma",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "genre": [
+    "classical"
+   ],
+   "votes": 1807,
+   "clicks": 17,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "phantomsw",
+   "name": "إذاعة محمود خليل الحصري",
+   "url": "http://www.phantomsw.com/",
+   "stream": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 15002,
+   "clicks": 112,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "on-sports-fm",
+   "name": "On sports FM",
+   "url": "http://www.onsportfm.com/",
+   "stream": "https://carina.streamerr.co:2020/stream/OnSportFM",
+   "codec": "mp3",
+   "bitrate": 96,
+   "genre": [],
+   "votes": 11406,
+   "clicks": 83,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulrasheed-soufi",
+   "name": "Abdulrasheed Soufi",
+   "url": "https://qurango.net/radio",
+   "stream": "https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 7904,
+   "clicks": 14,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-quran",
+   "name": "Radio Quran",
+   "url": "https://surahquran.com/Radio-Quran-Cairo.html",
+   "stream": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+   "codec": "mp3",
+   "bitrate": 0,
+   "genre": [],
+   "votes": 6824,
+   "clicks": 35,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-9090",
+   "name": "Radio 9090",
+   "url": "https://www.9090.fm/",
+   "stream": "https://9090streaming.mobtada.com/9090FMEGYPT",
+   "codec": "mp3",
+   "bitrate": 64,
+   "genre": [],
+   "votes": 5283,
+   "clicks": 59,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "sha3by-fm",
+   "name": "SHA3BY FM",
+   "url": "http://95-fm.com/en",
+   "stream": "https://radio95.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 4487,
+   "clicks": 87,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-hits-88-2-cairo",
+   "name": "Radio Hits 88.2 Cairo",
+   "url": "http://radiohits882.com/",
+   "stream": "https://radiohits882.radioca.st/;",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 3589,
+   "clicks": 37,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "90s-fm",
+   "name": "90s FM",
+   "url": "https://news.ninetiesfm.com/",
+   "stream": "https://eu1.fastcast4u.com/proxy/prontofm?mp=/1",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 2123,
+   "clicks": 37,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 645,
+   "clicks": 12,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radiowayak",
+   "name": "راديو وياك | Radiowayak",
+   "url": "https://radiowayak.vercel.app/",
+   "stream": "https://work.radiowayak.org/listen/live/live.mp3",
+   "codec": "mp3",
+   "bitrate": 32,
+   "genre": [],
+   "votes": 196,
+   "clicks": 30,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "thomas-lawrence",
+   "name": "Thomas Lawrence",
+   "url": "https://rebelradio.online/",
+   "stream": "https://azuracast-nuremberg.myautodj.com/listen/station_660_1777579648/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "state": "Cairo",
+   "genre": [],
+   "votes": 16,
+   "clicks": 23,
+   "verified": "2026-08-23"
+  }
+ ]
+}

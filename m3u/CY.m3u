@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cyprus" tvg-genre="chillout,pop-music,pop-rock,rock",MixFM Cyprus
+https://link.radiojar.com/c27wx6pdh8vtv
+#EXTINF:-1 group-title="Cyprus" tvg-genre="trance",Mix4.me uplifitng trance web radio
+https://s9.webradio-hosting.com/proxy/mix4me/stream
+#EXTINF:-1 group-title="Cyprus" tvg-genre="music",Active 107.4
+https://securestreams3.autopo.st:1417/active
+#EXTINF:-1 group-title="Cyprus" tvg-genre="80s,pop,rock",Radio Turbo21
+https://radioturbo21.com/radio/stream
+#EXTINF:-1 group-title="Cyprus",Super Sport FM 104.0
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1 group-title="Cyprus",Radio Sfera 102.2
+https://securestreams3.autopo.st:1417/sfera
+#EXTINF:-1 group-title="Cyprus",Dance FM
+https://live.enerjiplay.com/stream/dancefm
+#EXTINF:-1 group-title="Cyprus",Zenith
+https://live3.istoikona.net:9836/stream
+#EXTINF:-1 group-title="Cyprus",BitrRcord
+https://c10.radioboss.fm:18095/stream
+#EXTINF:-1 group-title="Cyprus",РУССКОЕ РАДИО КИПР
+https://live.vblcast.com/proxy/russianradio/stream/
+#EXTINF:-1 group-title="Cyprus",FEELGOOD.FM
+https://radio.feelgood.fm/mp3
+#EXTINF:-1 group-title="Cyprus",KISS FM 89.0 - 88.5
+https://securestreams3.autopo.st:1417/89FM
+#EXTINF:-1 group-title="Cyprus",NJOY Radio
+https://stream.radiojar.com/mg7kftnzka3vv
+#EXTINF:-1 group-title="Cyprus",VIVA FM 104.3
+https://stream1.themediasite.co.uk/8060/stream
+#EXTINF:-1 group-title="Cyprus",Ναυάγιο
+https://radio-navagio.com/stream
+#EXTINF:-1 group-title="Cyprus",Rock FM Cyprus
+https://live3.istoikona.net/proxy/rockfm/stream
+#EXTINF:-1 group-title="Cyprus",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 group-title="Cyprus",Zucca
+https://stream.zuccaradio.com/stream?
+#EXTINF:-1 group-title="Cyprus",Radio ReyMod
+https://server.streamcasthd.com:7092/;

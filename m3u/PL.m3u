@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="Poland" tvg-genre="metal,rock",Antyradio
+https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
+#EXTINF:-1 group-title="Poland" tvg-genre="adult-contemporary",Radio 357
+https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
+#EXTINF:-1 group-title="Poland" tvg-genre="classic-rock,pop,pop-rock,rock",Radio RMF24.pl
+https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",Rock Radio
+https://radiostream.pl/tuba8-1.mp3?cache=1650763965
+#EXTINF:-1 group-title="Poland" tvg-genre="jazz,smooth-jazz",SmoothJazz.com.pl 320k MP3
+https://bcast.vigormultimedia.com:48888/sjcompl320mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="hits,pop",RadioFEST
+https://play.radiofest.pl:8443/fest
+#EXTINF:-1 group-title="Poland" tvg-genre="electronic,rap",Radio Party - Kanał Główny
+https://s2.radioparty.pl:8015/stream?nocache=4171
+#EXTINF:-1 group-title="Poland" tvg-genre="classical",Radio RMF FM
+https://rs203-krk-cyfronet.rmfstream.pl/rmf_fm
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop,pop-music,rock",ESKA - Do Pracy
+https://waw.ic.smcdn.pl/6140-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop,pop-music,rock",ESKA - Gorąca 20
+https://waw.ic.smcdn.pl/6130-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop,pop-music",ESKA - Summer City
+https://waw.ic.smcdn.pl/6120-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="classic-hits,classic-rock,pop,rock",Radio Złote Przeboje Wrocław
+https://radiostream.pl/tuba9-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="dance",Radio Disco Party - Disco Polo
+https://s1.slotex.pl/shoutcast/7432/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop",Meloradio FM
+https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",RMF MAXXX 99.7 Pomorze
+https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473
+#EXTINF:-1 group-title="Poland" tvg-genre="classic-rock",Antyradio Classic Rock
+https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",Radio Centrum Lublin
+https://stream12.hosterion.pl/stream/akademickieradiocentrum
+#EXTINF:-1 group-title="Poland" tvg-genre="blues,jazz,metal,pop,rock",Radio SAR - Studencka Agencja Radiowa
+https://stream.radiosar.pl/hdmain.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="smooth-jazz",SmoothJazz.com.pl 192k aac+
+https://bcast.vigormultimedia.com:48888/sjcompl192aac
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,hits,oldies",Kiss FM Poland
+https://streaming.g-news.pl:8090/kissfm
+#EXTINF:-1 group-title="Poland" tvg-genre="70s,80s,90s,disco",Radio Disco-Dance
+https://radiodd.cloud/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="classic-hits",Radio Plus Gdansk
+https://pl05.cdn.eurozet.pl/plu-gdn.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="classic-rock,rock",RMF Classic Rock
+https://rs201-krk.rmfstream.pl/rmf_classic_rock
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,hits,pop",Radio Zet na Rower -om
+https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06
+#EXTINF:-1 group-title="Poland" tvg-genre="alternative,oldies,pop,rock",Radio DHT (kanał główny)
+https://radiodht.com/stream_main/
+#EXTINF:-1 group-title="Poland" tvg-genre="classical",Radio Plus Krakow
+https://ic2.smcdn.pl/4070-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="hits",RMF FM 128 Kbps
+https://rs101-krk.rmfstream.pl/rmf_fm
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",Antyradio Made In Poland
+https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04
+#EXTINF:-1 group-title="Poland" tvg-genre="disco",Radio pejpal
+https://radio.pejpal.cloud/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="adult-contemporary,music",Radio Lublin
+https://streaming.radio.lublin.pl:8843/128k
+#EXTINF:-1 group-title="Poland" tvg-genre="pop,pop-music,pop-rock",ESKA - Impreska
+https://waw.ic.smcdn.pl/6030-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop",Meloradio Wrocław
+https://ml02.cdn.eurozet.pl/mel-wro.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="90s,dance,disco",Radio Disco Party - Disco Impreza
+https://s3.slotex.pl/shoutcast/7046/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="electronic,house",House of Funk
+https://houseoffunk.eu:8443/live
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,edm,electronic,house,techno,trance",CYBERStacja
+https://sc.cyberstacja.pl:8000/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="edm,pop",Melo Radio Śląsk (Katowice)
+https://ml01.cdn.eurozet.pl/mel-ktw.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="smooth-jazz",SmoothJazz.com.pl 64k aac+
+https://bcast.vigormultimedia.com:48888/sjcompl64aac
+#EXTINF:-1 group-title="Poland" tvg-genre="disco,pop",Disco Party - Lata 90.
+https://s3.slotex.pl:7170/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="ambient,techno",Kapitał
+https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,r&b",RMF 4 DANCE & RNB
+https://rs6-krk2.rmfstream.pl/rmf_4
+#EXTINF:-1 group-title="Poland" tvg-genre="greatest-hits,rock",Antyradio Greatest
+https://an02.cdn.eurozet.pl/ANTGRE.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",SuperNova Rock
+https://waw.ic.smcdn.pl/6090-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",I Love Music
+https://s3.slotex.pl:7150/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="dance",Meloradio Kielce
+https://ml03.cdn.eurozet.pl/mel-klc.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="hits,relax,smooth-jazz",Chillizet Ladies -om
+https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,house",Radio 7 Poland
+https://stream.radio7.pl/;
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",RADIO ZAWIERCIE
+https://ssl-1.radiohost.pl:9078/live
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Trendy Radio Mobile
+https://stream.trendyradio.pl/m
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",Antyradio Hard
+https://an05.cdn.eurozet.pl/ANTHAR.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="adult-contemporary",Radio Gdańsk REGIONY DAB2
+https://stream.task.gda.pl:8443/rg4
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Mbox - Polska Muzyka
+https://s3.slotex.pl:7072/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="music",Radio Eska Opole
+https://ic2.smcdn.pl/2120-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="ambient,electronic",CoSTa's Ambient Radio
+https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Cyganeczka
+https://s1.slotex.pl/shoutcast/7474/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="dance-music",Radio MIX
+https://radiozender.mpbnetwerken.nl/radiomix.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",4Music
+https://s1.slotex.pl/shoutcast/7102/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="top-hits",Radio ZET 128
+https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1 group-title="Poland" tvg-genre="hits",Radio ZET 128 Kbps
+https://zt02.cdn.eurozet.pl/zet-old.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="pop-music",RMF MAXX Podlasie
+https://rs101-krk.rmfstream.pl/rmf_maxxx_lom
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop,rock",Radio Bielsko
+https://stream.rcs.revma.com/062uq3z3kwzuv
+#EXTINF:-1 group-title="Poland" tvg-genre="edm",24Dubstep.pl || DropZone Radio
+https://stream.24dubstep.pl/radio/8000/mp3_normal
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop,pop-music,pop-rock",Eska - Białystok
+https://waw.ic.smcdn.pl/2020-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Mbox
+https://s1.slotex.pl/shoutcast/7462/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Melody Express
+https://s1.slotex.pl/shoutcast/7588/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Eska Starachowice
+https://ic1.smcdn.pl/2400-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="hip-hop,pop,rap",VibeFM
+https://ic2.smcdn.pl/6490-1.aac
+#EXTINF:-1 group-title="Poland" tvg-genre="edm,electronic",FUTRZAK.FM - 320kbps
+https://audio.futrzak.fm/futrzakfm-320
+#EXTINF:-1 group-title="Poland" tvg-genre="alternative,pop,rock",Radio Orbit
+https://s1.slotex.pl/shoutcast/7390/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",UJOT FM
+https://stream.ujot.fm/
+#EXTINF:-1 group-title="Poland" tvg-genre="hits",RMF FM 48 Kbps
+https://rs101-krk.rmfstream.pl/RMFFM48
+#EXTINF:-1 group-title="Poland" tvg-genre="adult-contemporary",Radio Freee 89.9
+https://streaming.radio.lublin.pl:8843/radiofreeeacp
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",RMF MAXX ŚLĄSK
+https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK?aw_0_req.gdpr=true&aw_0_req.userConsentV2=CPwKwZzPwKwZzFKACAPLDNCsAP_AAEPAAB5YJitX_H__bW9r8f7_aft0eY1P9_j77uQxBhfJk-4F3LvW-JwX52E5NF36tqoKmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMRM2dYCF5rmxtjeQKY5_p_d3fx2D-t_dv839z3z81Xn3dZf--0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_9_rk2_eT13_79_7_D9-f_87_WCYoBJhqXEAXYEDITaBhFCiBGFYQEUCgAAAEgaICAFwYFOiMAn1gMgBQigCOCAEMAKMiAQAAAQBIRABIEWCAACAQCAAEACAQCAAgYABQAWAgEAAIDoGKYUACgWECRAREKYEJUCQQEtlQglBdIaYQBVlgBQCI2CgARAACKwABAWLgGCJASoSCBLqDaAAAgAQCiVCsQSemgAUEjZagAAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=false
+#EXTINF:-1 group-title="Poland" tvg-genre="music",Radio SOK Sulecin
+https://s3.slotex.pl:7230/stream/1/?sid=1
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop-music",Radio Na Stoku
+https://sluchaj.link:5443/nastoku
+#EXTINF:-1 group-title="Poland" tvg-genre="house",Radio Mbox - Club
+https://s3.slotex.pl:7204/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="2000s,90s,dance,pop",Mega Radio
+https://stream.rcs.revma.com/q18ty3qhwzzuv
+#EXTINF:-1 group-title="Poland" tvg-genre="dance",RADIO BEZPIECZNA PODRÓŻ
+https://ssl-1.radiohost.pl:9344/live
+#EXTINF:-1 group-title="Poland" tvg-genre="folk",Nasz Hajmat
+https://s3.slotex.pl:7126/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="edm",DanisMania DJ Radio
+https://s1.slotex.pl/shoutcast/7512/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Savana
+https://s1.slotex.pl/shoutcast/7434/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="ambient,chillout",24Dubstep.pl || CalmFlow
+https://stream.24dubstep.pl/listen/chillstep/mp3_normal
+#EXTINF:-1 group-title="Poland" tvg-genre="adult-contemporary",Radio Super FM 97,5 FM - Szczecin
+https://stream.super.fm:8443/superfm.mp3?1703660705890
+#EXTINF:-1 group-title="Poland" tvg-genre="worship",Głos Nadziei
+https://ssl-1.radiohost.pl:9548/index
+#EXTINF:-1 group-title="Poland" tvg-genre="disco",Supernova Party
+https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",MaxPlay FM
+https://s1.slotex.pl/shoutcast/8880/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="oldies,pop",Radio Duch
+https://s1.slotex.pl/shoutcast/7174/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="folk",Radio Bahary
+https://s1.slotex.pl/shoutcast/7838/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop,rock",Radio Guardian
+https://s1.slotex.pl/shoutcast/7508/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop",Fitness Music
+https://s3.slotex.pl:7414/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",TobiFM
+https://s1.slotex.pl/shoutcast/7822/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="folk,pop",Radio Sekret
+https://s1.slotex.pl/shoutcast/7556/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="folk",Radio Moni Raj
+https://s1.slotex.pl/shoutcast/7646/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="tango",Radio Tango Uno
+https://radiotangouno-online.pl/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="music",PR PRZEBOJE PRL
+https://mpantusa-danidi01.radioca.st/id1
+#EXTINF:-1 group-title="Poland" tvg-genre="80s,90s,pop",SuperOrbita
+https://s1.slotex.pl/shoutcast/7086/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="christian-music,instrumental",nadzieja.FM
+https://s5.radio.co/s34fca8455/listen
+#EXTINF:-1 group-title="Poland" tvg-genre="lounge,smooth-jazz,soul",Radio RAM
+https://stream2.prw.pl:8001/radioram
+#EXTINF:-1 group-title="Poland" tvg-genre="folk,oldies,pop,rock",Radio Nestolatki
+https://s1.slotex.pl/shoutcast/7306/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="hip-hop,rap,reggae",Radio Macabrismix
+https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="funk",RMF Funk
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk
+#EXTINF:-1 group-title="Poland" tvg-genre="classical,jazz,pop",Radio TPI
+https://s1.slotex.pl/shoutcast/7632/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Strefa Muzy
+https://radiosm.pl:8000/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="edm,electronic",FUTRZAK.FM
+https://audio.futrzak.fm/futrzakfm-128
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop,rock",Nasze Nowe Radio
+https://s3.slotex.pl:7388/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop,top-40",Radio FTM
+https://s1.slotex.pl:7792/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop,pop-rock,rock",Xvibe
+https://xvibe.pl/stream.php
+#EXTINF:-1 group-title="Poland" tvg-genre="edm",Lagoon FM
+https://s1.slotex.pl/shoutcast/7828/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Muzyczna Oaza
+https://s3.slotex.pl:7100/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="oldies",Supernova Super 13
+https://ic2.smcdn.pl/6230-1.mp3#Supernova_Party
+#EXTINF:-1 group-title="Poland" tvg-genre="folk",Radio Kącik Rodzinny
+https://s3.slotex.pl:7374/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="house,techno,trance",Red7 - Kanał EDM
+https://s.red7.pl/edm256
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Start
+https://s1.slotex.pl/shoutcast/7644/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Music Family
+https://s3.slotex.pl:7216/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="house",Red7
+https://red7.pl/play.m3u
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,disco,electronic,house,techno",Red7.pl - Kanał Główny
+https://s.red7.pl/stream256
+#EXTINF:-1 group-title="Poland" tvg-genre="indie",Radio Odzew
+https://stream12.hosterion.pl/stream/odzew
+#EXTINF:-1 group-title="Poland" tvg-genre="pop-rock,rock",Radio Dzwiek
+https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="folk",Radio Wiatraczek
+https://s3.slotex.pl:7082/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",DzikieRadio
+https://ssl-1.radiohost.pl:11250/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,pop",Radio Styl FM
+https://s3.slotex.pl:7196/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="dance",Chilli ZET Biega
+https://ch03.cdn.eurozet.pl/CHIRUN.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="soul",Chilli ZET Soul
+https://zt02.cdn.eurozet.pl/CHISOU.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="oldies,rock",Happy Station
+https://s3.slotex.pl/shoutcast/7496/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="2000s,80s,90s,electronic,hits,oldies",RADIO 100
+https://s3.slotex.pl:7278/stream/
+#EXTINF:-1 group-title="Poland" tvg-genre="music",Radio Nowy Świat 64k
+https://stream.nowyswiat.online/aac
+#EXTINF:-1 group-title="Poland" tvg-genre="dance,disco,techno",RadioCmp3.eu - Kanał Główny
+https://s1.cmp3.eu/stream128
+#EXTINF:-1 group-title="Poland" tvg-genre="downtempo,electronica",trip radio
+https://a13.asurahosting.com/listen/trip-radio/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="indie",Radio Bunt
+https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl
+#EXTINF:-1 group-title="Poland" tvg-genre="country",Radio Mrągowo
+https://stream.radiomragowo.pl/listen/radio_mragowo/radio.mp3?t=1773333890924
+#EXTINF:-1 group-title="Poland" tvg-genre="country",RadioBEST.pl
+https://stream.rcs.revma.com/k7z0hu129s3vv
+#EXTINF:-1 group-title="Poland" tvg-genre="alternative",Pawarota
+https://pawarota-radio-c82a7d2e.radiocult.fm/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="80s,90s,pop",Radio Fiorda
+https://radiofiorda.pl/stream/
+#EXTINF:-1 group-title="Poland" tvg-genre="disco",Radio Podlasie 2
+https://s3.slotex.pl:7438/stream/1/
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Osjaków
+https://stream20.hosterion.pl:7095/stream
+#EXTINF:-1 group-title="Poland" tvg-genre="pop",Radio Złote Przeboje - Bieszczady
+https://radiostream.pl/tuba8946-1.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="rock",Reverb Riff Radio
+https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3
+#EXTINF:-1 group-title="Poland" tvg-genre="music,pop",Radio RSC
+https://stream.rcs.revma.com/94fud6a6z72vv
+#EXTINF:-1 group-title="Poland",Radio RMF MAXXX
+https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48
+#EXTINF:-1 group-title="Poland",Radio ZET
+https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1 group-title="Poland",TOK FM
+https://radiostream.pl/tuba10-1.mp3#TOK_FM
+#EXTINF:-1 group-title="Poland",ESKA ROCK
+https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
+#EXTINF:-1 group-title="Poland",TokFM
+https://radiostream.pl/tuba10-1.mp3
+#EXTINF:-1 group-title="Poland",Radio Nowy Świat 256k
+https://go-audio.toya.net.pl/63214
+#EXTINF:-1 group-title="Poland",Radio Plus
+https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02
+#EXTINF:-1 group-title="Poland",Chilli Zet
+https://ch.cdn.eurozet.pl/chi-net.mp3
+#EXTINF:-1 group-title="Poland",Wnet.fm
+https://media.wnet.fm/wnet.fm
+#EXTINF:-1 group-title="Poland",VOX FM 128
+https://ic2.smcdn.pl/3990-1.mp3
+#EXTINF:-1 group-title="Poland",Anty Radio
+https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361
+#EXTINF:-1 group-title="Poland",Radio Złote Przeboje Białystok
+https://radiostream.pl/tuba8900-1.mp3?cache=1647512038
+#EXTINF:-1 group-title="Poland",Radio Republika
+https://ssl-1.radiotvrepublika.pl:12698/stream

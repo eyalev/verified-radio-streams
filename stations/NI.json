@@ -1,0 +1,159 @@
+{
+ "countryCode": "NI",
+ "country": "Nicaragua",
+ "slug": "nicaragua",
+ "continent": "americas",
+ "stationCount": 8,
+ "verified": {
+  "oldest": "2026-08-23",
+  "newest": "2026-08-23"
+ },
+ "listen": "https://globalradio.app/nicaragua/",
+ "stations": [
+  {
+   "id": "exa-fm",
+   "name": "Exa FM",
+   "url": "https://www.exafm.com/veracruz/",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+   "codec": "aac",
+   "bitrate": 48,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "pop",
+    "pop-music",
+    "pop-rock"
+   ],
+   "votes": 468,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "fiesta-latina-89-1-fm",
+   "name": "Fiesta Latina 89.1 FM",
+   "url": "https://fiestalatina.com.ni/",
+   "stream": "https://radios.solumedia.com/6596/stream",
+   "codec": "mp3",
+   "bitrate": 128,
+   "format": "music",
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [
+    "bachata",
+    "merengue",
+    "music",
+    "salsa"
+   ],
+   "votes": 318,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "rock-fm-105-5",
+   "name": "Rock FM 105.5",
+   "url": "https://rockfm.com.ni/",
+   "stream": "https://securestream.us/radio/8050/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 256,
+   "format": "music",
+   "langs": [
+    "english"
+   ],
+   "langCodes": [
+    "en"
+   ],
+   "state": "Managua",
+   "genre": [
+    "classic-rock",
+    "rock"
+   ],
+   "votes": 315,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-estrella-del-mar",
+   "name": "Radio Estrella del Mar",
+   "url": "https://www.radioestrelladelmar.org/",
+   "stream": "https://streamer.radio.co/sd5242d0b6/listen",
+   "codec": "mp3",
+   "bitrate": 0,
+   "langs": [
+    "spanish"
+   ],
+   "langCodes": [
+    "es"
+   ],
+   "genre": [],
+   "votes": 527,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-juan-pablo-segundo-97-7-fm",
+   "name": "Radio Juan Pablo Segundo 97.7 fm",
+   "url": "http://radiojuanpablosegundo.com/?i=1",
+   "stream": "https://dc2.serverse.com:8040/stream",
+   "codec": "mp3",
+   "bitrate": 320,
+   "genre": [],
+   "votes": 80,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "abdulbasit-abdulsamad",
+   "name": "Abdulbasit Abdulsamad",
+   "url": "https://mp3islam.com/",
+   "stream": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 192,
+   "langs": [
+    "arabic"
+   ],
+   "langCodes": [
+    "ar"
+   ],
+   "genre": [],
+   "votes": 56,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "radio-stereo-mundo-91-9-fm",
+   "name": "Radio Stereo Mundo 91.9 FM",
+   "url": "https://www.stereomundo919.com/",
+   "stream": "https://ssl.hostingtico.com:8138/smundo2014",
+   "codec": "mp3",
+   "bitrate": 128,
+   "langs": [
+    "castellano.-español"
+   ],
+   "genre": [],
+   "votes": 33,
+   "clicks": 0,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "the-sound-of-the-caribbean",
+   "name": "The Sound of the Caribbean",
+   "url": "https://thesoundofthecarebbeanradio.com/",
+   "stream": "https://a10.asurahosting.com:8570/radio.mp3",
+   "codec": "mp3",
+   "bitrate": 128,
+   "genre": [],
+   "votes": 19,
+   "clicks": 1,
+   "verified": "2026-08-23"
+  }
+ ]
+}
