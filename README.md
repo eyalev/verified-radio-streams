@@ -4,16 +4,23 @@
 opened and returned audio before it was written here, and every row carries the
 date that happened.
 
+## Just want to listen?
+
+**[→ Browse radio by country](countries/)** — no code, no download. Or press play
+at **[globalradio.app](https://globalradio.app)**, which is built from this same data.
+
+Browsable country pages exist so far for 🇵🇹 **[Portugal](countries/portugal/)**, with 12 station pages inside. The other 187 countries are listed there too and link to the site.
+
+## Or take the data
+
 ```
+countries/            browsable pages, one folder per country
 stations/index.json   the country list, counts, and where each file is
 stations/<CC>.json    one country, self-describing
 stations/all.json     all of it, one file (3.3 MB)
 m3u/<CC>.m3u          the same country as a playlist
 m3u/all.m3u           everything, grouped by country
 ```
-
-Listen to any of it at **[globalradio.app](https://globalradio.app)**, which is built from this
-same data.
 
 ## What "verified" means here, exactly
 
