@@ -50,7 +50,10 @@
    ],
    "votes": 1817,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.3
+   ]
   },
   {
    "id": "radio-cooperativa",
@@ -825,7 +828,10 @@
    ],
    "votes": 18,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.5
+   ]
   },
   {
    "id": "radio-arcoiris-fm-99-3",
@@ -931,7 +937,10 @@
    ],
    "votes": 10,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "venus-radio-fm-chile",
@@ -975,7 +984,10 @@
    ],
    "votes": 7,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.7
+   ]
   },
   {
    "id": "radiorara",
@@ -2265,7 +2277,10 @@
    "genre": [],
    "votes": 26,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.5
+   ]
   },
   {
    "id": "radio-manantial-de-vida",
@@ -2377,7 +2392,10 @@
    "genre": [],
    "votes": 18,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.5
+   ]
   },
   {
    "id": "vilas-radio-100-1",
@@ -2459,7 +2477,10 @@
    "genre": [],
    "votes": 11,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.7
+   ]
   },
   {
    "id": "alta-fidelidad-radio",

@@ -21,6 +21,10 @@
   "mixed": 0,
   "unlabelled": 3255
  },
+ "withFrequency": {
+  "fm": 518,
+  "am": 72
+ },
  "excluded": 3,
  "countries": [
   {

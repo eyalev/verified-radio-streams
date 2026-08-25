@@ -200,7 +200,10 @@
    ],
    "votes": 950,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.6
+   ]
   },
   {
    "id": "radio-roks-classic-rock",
@@ -258,7 +261,10 @@
    ],
    "votes": 810,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.6
+   ]
   },
   {
    "id": "fm-4",

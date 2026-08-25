@@ -30,7 +30,10 @@
    ],
    "votes": 225,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.3
+   ]
   },
   {
    "id": "the-beat-104-1-fm",
@@ -54,7 +57,10 @@
    ],
    "votes": 86,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.1
+   ]
   },
   {
    "id": "life-97-5-fm",
@@ -76,7 +82,10 @@
    ],
    "votes": 49,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.5
+   ]
   },
   {
    "id": "vob-92-9-fm",
@@ -94,7 +103,10 @@
    "genre": [],
    "votes": 1743,
    "clicks": 8,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92.9
+   ]
   },
   {
    "id": "radio-bimshire-106-1-fm",
@@ -113,7 +125,10 @@
    "genre": [],
    "votes": 85,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",

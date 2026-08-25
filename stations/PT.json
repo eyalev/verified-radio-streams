@@ -489,7 +489,10 @@
    ],
    "votes": 92,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.4
+   ]
   },
   {
    "id": "nitfm",
@@ -577,7 +580,10 @@
    ],
    "votes": 53,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101
+   ]
   },
   {
    "id": "radio-popular-de-source",
@@ -760,7 +766,10 @@
    ],
    "votes": 28,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.6
+   ]
   },
   {
    "id": "radio-sol-madeira-103-7-fm",
@@ -783,7 +792,10 @@
    ],
    "votes": 27,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.7
+   ]
   },
   {
    "id": "geice-fm",
@@ -1838,7 +1850,10 @@
    "genre": [],
    "votes": 26,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.8
+   ]
   },
   {
    "id": "radio-alto-minho",
@@ -2046,7 +2061,10 @@
    "genre": [],
    "votes": 9,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.8
+   ]
   },
   {
    "id": "radio-campo-maior",

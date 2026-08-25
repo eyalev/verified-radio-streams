@@ -703,7 +703,10 @@
    "genre": [],
    "votes": 219,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.5
+   ]
   },
   {
    "id": "nostalgia",

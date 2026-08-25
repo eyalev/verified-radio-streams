@@ -197,7 +197,10 @@
    "genre": [],
    "votes": 429,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.8
+   ]
   },
   {
    "id": "capital-958",

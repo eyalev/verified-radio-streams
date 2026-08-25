@@ -179,7 +179,10 @@
    ],
    "votes": 125,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.3
+   ]
   },
   {
    "id": "laser-fm",
@@ -279,7 +282,10 @@
    "genre": [],
    "votes": 258,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    650
+   ]
   },
   {
    "id": "sarandi-690",

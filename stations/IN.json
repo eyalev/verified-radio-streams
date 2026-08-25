@@ -534,7 +534,10 @@
    ],
    "votes": 142,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.6
+   ]
   },
   {
    "id": "radio-24",
@@ -679,7 +682,10 @@
    ],
    "votes": 107,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.8
+   ]
   },
   {
    "id": "jaipur-radio",
@@ -1216,7 +1222,10 @@
    "genre": [],
    "votes": 919,
    "clicks": 14,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.5
+   ]
   },
   {
    "id": "hot-now-bangla",
@@ -1249,7 +1258,10 @@
    "genre": [],
    "votes": 862,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "bhaktisudha",
@@ -1782,7 +1794,10 @@
    "genre": [],
    "votes": 363,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1458
+   ]
   },
   {
    "id": "harris-jayaraj-radio",
@@ -1944,7 +1959,10 @@
    "genre": [],
    "votes": 331,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.8
+   ]
   },
   {
    "id": "radio-girmit-kannada",
@@ -2374,7 +2392,10 @@
    "genre": [],
    "votes": 254,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "radio-suno-malayalam-91-7",
@@ -2410,7 +2431,10 @@
    "genre": [],
    "votes": 243,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.3
+   ]
   },
   {
    "id": "sangeet-radio-usa",
@@ -2533,7 +2557,10 @@
    "genre": [],
    "votes": 230,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "tamilkaterumbufm",
@@ -2624,7 +2651,10 @@
    "genre": [],
    "votes": 226,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.8
+   ]
   },
   {
    "id": "ebcradio",

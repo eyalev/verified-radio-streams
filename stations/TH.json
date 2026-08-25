@@ -112,7 +112,10 @@
    ],
    "votes": 234,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    93.5
+   ]
   },
   {
    "id": "fabulous-103",
@@ -223,7 +226,10 @@
    ],
    "votes": 2,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1197
+   ]
   },
   {
    "id": "cool-fahrenheit",
@@ -486,7 +492,10 @@
    "genre": [],
    "votes": 0,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    792
+   ]
   }
  ]
 }

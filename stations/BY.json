@@ -67,7 +67,10 @@
    ],
    "votes": 2368,
    "clicks": 15,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    87.9
+   ]
   },
   {
    "id": "98-9-fm",
@@ -89,7 +92,10 @@
    ],
    "votes": 1849,
    "clicks": 25,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.9
+   ]
   },
   {
    "id": "megamix",
@@ -166,7 +172,10 @@
    ],
    "votes": 959,
    "clicks": 18,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    105.7
+   ]
   },
   {
    "id": "radiovitebsk",
@@ -261,7 +270,10 @@
    ],
    "votes": 195,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.8
+   ]
   },
   {
    "id": "zefir-fm",
@@ -387,7 +399,10 @@
    "genre": [],
    "votes": 1927,
    "clicks": 18,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.2
+   ]
   },
   {
    "id": "lider-fm",
@@ -509,7 +524,10 @@
    "genre": [],
    "votes": 86,
    "clicks": 9,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    107.9
+   ]
   },
   {
    "id": "radioslovo",

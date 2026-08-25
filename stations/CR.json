@@ -32,7 +32,10 @@
    ],
    "votes": 1172,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    105.9
+   ]
   },
   {
    "id": "103-fm-103-1",
@@ -120,7 +123,13 @@
    ],
    "votes": 160,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.1
+   ],
+   "amKhz": [
+    1080
+   ]
   },
   {
    "id": "tiquicia-rock",
@@ -336,7 +345,10 @@
    "genre": [],
    "votes": 276,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "nueve-cuatro-siete-94-7-fm",
@@ -348,7 +360,10 @@
    "genre": [],
    "votes": 223,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    94.7
+   ]
   },
   {
    "id": "columbia-estereo-92-7-fm",
@@ -366,7 +381,10 @@
    "genre": [],
    "votes": 212,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92.7
+   ]
   },
   {
    "id": "radio-hit-104-7",
@@ -391,7 +409,10 @@
    "genre": [],
    "votes": 74,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.3
+   ]
   },
   {
    "id": "mundo-rock-radio",

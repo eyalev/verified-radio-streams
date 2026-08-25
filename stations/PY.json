@@ -104,7 +104,10 @@
    ],
    "votes": 46,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    730
+   ]
   },
   {
    "id": "radio-arasuncion",
@@ -150,7 +153,10 @@
    "genre": [],
    "votes": 541,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1080
+   ]
   },
   {
    "id": "radio-concierto-89-1",
@@ -253,7 +259,10 @@
    "genre": [],
    "votes": 7,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1000
+   ]
   }
  ]
 }

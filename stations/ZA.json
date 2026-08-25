@@ -73,7 +73,10 @@
    ],
    "votes": 1411,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    93.8
+   ]
   },
   {
    "id": "ubuntufm",
@@ -158,7 +161,10 @@
    "genre": [],
    "votes": 1243,
    "clicks": 11,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.7
+   ]
   },
   {
    "id": "east-coast-gold",
@@ -190,7 +196,10 @@
    "genre": [],
    "votes": 569,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    90.4
+   ]
   },
   {
    "id": "east-coast-radio",
@@ -337,7 +346,10 @@
    "genre": [],
    "votes": 72,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.7
+   ]
   },
   {
    "id": "cliff-central",
@@ -373,7 +385,10 @@
    "genre": [],
    "votes": 55,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.6
+   ]
   }
  ]
 }

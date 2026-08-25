@@ -75,7 +75,10 @@
    ],
    "votes": 10893,
    "clicks": 35,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    590
+   ]
   },
   {
    "id": "amor-ciudad-de-mexico-95-3-fm-xhsh-fm-grupo-acir",
@@ -97,7 +100,10 @@
    ],
    "votes": 9676,
    "clicks": 16,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.3
+   ]
   },
   {
    "id": "mix-ciudad-de-mexico-106-5-fm-xhdfm-fm-grupo-aci",
@@ -122,7 +128,10 @@
    ],
    "votes": 7417,
    "clicks": 7,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.5
+   ]
   },
   {
    "id": "el-fonografo-musica-las-24-horas-elfonografo-mx-",
@@ -173,7 +182,10 @@
    ],
    "votes": 7025,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.1
+   ]
   },
   {
    "id": "alfa-91-3-ciudad-de-mexico-91-3-fm-xhfaj-fm-grup",
@@ -197,7 +209,10 @@
    ],
    "votes": 6549,
    "clicks": 15,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.3
+   ]
   },
   {
    "id": "radio-felicidad-1180-am-xefr-am-grupo-acir-ciuda",
@@ -223,7 +238,10 @@
    ],
    "votes": 6330,
    "clicks": 22,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1180
+   ]
   },
   {
    "id": "banda-93-3-monterrey-93-3-fm-xhqq-fm-grupo-radio",
@@ -246,7 +264,10 @@
    ],
    "votes": 5749,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.3
+   ]
   },
   {
    "id": "radio-felicidad-ciudad-de-mexico-1180-am-xefr-am",
@@ -271,7 +292,10 @@
    ],
    "votes": 4869,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1180
+   ]
   },
   {
    "id": "llego-el-mariachi-iheart-radio-online-acir-onlin",
@@ -394,7 +418,10 @@
    ],
    "votes": 3135,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    690
+   ]
   },
   {
    "id": "amor-de-divas-iheart-radio-online-acir-online-ih",
@@ -489,7 +516,10 @@
    ],
    "votes": 2578,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.5
+   ]
   },
   {
    "id": "beat-100-9-fm-xhson-fm-nrm-comunicaciones-ciudad",
@@ -514,7 +544,10 @@
    ],
    "votes": 2336,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.9
+   ]
   },
   {
    "id": "stereo-cien-100-1-fm-xhmm-fm-nrm-comunicaciones-",
@@ -540,7 +573,10 @@
    ],
    "votes": 2177,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.1
+   ]
   },
   {
    "id": "oldies-internet-radio-online-www-oldiesinternetr",
@@ -612,7 +648,10 @@
    ],
    "votes": 1782,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.7
+   ]
   },
   {
    "id": "formula-melodica-guadalajara-97-9-fm-xetia-fm-gr",
@@ -637,7 +676,10 @@
    ],
    "votes": 1761,
    "clicks": 10,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.9
+   ]
   },
   {
    "id": "match-ciudad-de-mexico-99-3-fm-xhpop-fm-grupo-ac",
@@ -661,7 +703,10 @@
    ],
    "votes": 1709,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.3
+   ]
   },
   {
    "id": "historia-y-corridos-de-la-comadre-iheart-radio-o",
@@ -775,7 +820,10 @@
    ],
    "votes": 1209,
    "clicks": 10,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    690
+   ]
   },
   {
    "id": "la-mejor-monterrey-92-5-fm-xhsro-fm-mvs-radio-mo",
@@ -797,7 +845,10 @@
    ],
    "votes": 1204,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "la-comadre-pa-bailar-iheart-radio-online-acir-on",
@@ -962,7 +1013,10 @@
    ],
    "votes": 954,
    "clicks": 7,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.1
+   ]
   },
   {
    "id": "fitness-music-iheart-radio-online-acir-online-ih",
@@ -1053,7 +1107,10 @@
    ],
    "votes": 783,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1230
+   ]
   },
   {
    "id": "la-bestia-grupera-leon-90-3-fm-xhml-fm-grupo-aud",
@@ -1075,7 +1132,10 @@
    ],
    "votes": 702,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.3
+   ]
   },
   {
    "id": "llego-el-mariachi-iheart-radio-online-acir-onlin-2",
@@ -1121,7 +1181,10 @@
    ],
    "votes": 628,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.1
+   ]
   },
   {
    "id": "amor-puebla-103-3-fm-xhrh-fm-grupo-acir-puebla-p",
@@ -1143,7 +1206,10 @@
    ],
    "votes": 624,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.3
+   ]
   },
   {
    "id": "sounds-of-yesterday-iheart-radio-online-acir-onl",
@@ -1190,7 +1256,10 @@
    ],
    "votes": 590,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.5
+   ]
   },
   {
    "id": "la-invasora-san-diego-xhty-fm-99-7-fm-uniradio-t",
@@ -1212,7 +1281,10 @@
    ],
    "votes": 579,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.7
+   ]
   },
   {
    "id": "radio-centro-y-el-fonografo-690-am-xen-am-grupo-",
@@ -1239,7 +1311,10 @@
    ],
    "votes": 559,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    690
+   ]
   },
   {
    "id": "mix-queretaro-106-5-fm-xhgv-fm-grupo-acir-queret",
@@ -1263,7 +1338,10 @@
    ],
    "votes": 499,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.5
+   ]
   },
   {
    "id": "radio-formula-monterrey-89-3-fm-monterrey-nuevo-",
@@ -1285,7 +1363,10 @@
    ],
    "votes": 493,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.3
+   ]
   },
   {
    "id": "la-buena-onda-guadalajara-101-9-fm-xead-fm-grupo",
@@ -1310,7 +1391,10 @@
    ],
    "votes": 454,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.9
+   ]
   },
   {
    "id": "la-inolvidable-perote-101-1-fm-xhper-fm-rradiotl",
@@ -1334,7 +1418,10 @@
    ],
    "votes": 451,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "exa-fm-ciudad-de-mexico-104-9-fm-xhexa-fm-mvs-ra",
@@ -1358,7 +1445,10 @@
    ],
    "votes": 419,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.9
+   ]
   },
   {
    "id": "fm-globo-mexicali-101-9-fm-xhpf-fm-mvs-radio-mex",
@@ -1385,7 +1475,10 @@
    ],
    "votes": 417,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.9
+   ]
   },
   {
    "id": "amor-en-concierto-iheart-radio-online-acir-onlin",
@@ -1431,7 +1524,10 @@
    ],
    "votes": 392,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    570
+   ]
   },
   {
    "id": "antologia-vallenata-xeh-14-20-monterrey-1420-am-",
@@ -1456,7 +1552,10 @@
    ],
    "votes": 390,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1420
+   ]
   },
   {
    "id": "radio-disney-ciudad-de-mexico-92-1-fm-xhfo-fm-gr",
@@ -1479,7 +1578,10 @@
    ],
    "votes": 386,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.1
+   ]
   },
   {
    "id": "let-it-beat-iheart-radio-online-acir-online-ihea",
@@ -1571,7 +1673,10 @@
    ],
    "votes": 358,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.1
+   ]
   },
   {
    "id": "mix-cancun-93-1-fm-xhyi-fm-grupo-acir-cancun-qr",
@@ -1596,7 +1701,10 @@
    ],
    "votes": 338,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.1
+   ]
   },
   {
    "id": "760-am-ciudad-de-mexico-760-am-xeabc-am-radio-ca",
@@ -1618,7 +1726,10 @@
    ],
    "votes": 334,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    760
+   ]
   },
   {
    "id": "premier-91-7-monterrey-91-7-fm-xhxl-fm-grupo-rad",
@@ -1645,7 +1756,10 @@
    ],
    "votes": 328,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "match-puebla-90-1-fm-xhrs-fm-grupo-acir-puebla-p",
@@ -1668,7 +1782,10 @@
    ],
    "votes": 323,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.1
+   ]
   },
   {
    "id": "la-q-940-am-xeq-am-radiopolis-ciudad-de-mexico",
@@ -1690,7 +1807,10 @@
    ],
    "votes": 317,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    940
+   ]
   },
   {
    "id": "exa-fm-mexicali-91-5-fm-xhjc-fm-mvs-radio-mexica",
@@ -1718,7 +1838,10 @@
    ],
    "votes": 315,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.5
+   ]
   },
   {
    "id": "vox-fm-94-5-el-salvador-94-5-fm-ysec-san-salvado",
@@ -1743,7 +1866,10 @@
    ],
    "votes": 306,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.5
+   ]
   },
   {
    "id": "fm-globo-monterrey-88-1-fm-xhjm-fm-mvs-radio-mon",
@@ -1770,7 +1896,10 @@
    ],
    "votes": 300,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.1
+   ]
   },
   {
    "id": "los40",
@@ -1826,7 +1955,10 @@
    ],
    "votes": 281,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.3
+   ]
   },
   {
    "id": "pulsar-tijuana-107-3-fm-xhfg-fm-uniradio-tijuana",
@@ -1854,7 +1986,10 @@
    ],
    "votes": 264,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.3
+   ]
   },
   {
    "id": "la-tremenda-durango-96-5-fm-xhdng-fm-grupo-garza",
@@ -1876,7 +2011,10 @@
    ],
    "votes": 260,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.5
+   ]
   },
   {
    "id": "oye-ciudad-de-mexico-89-7-fm-xeoye-fm-nrm-comuni",
@@ -1902,7 +2040,10 @@
    ],
    "votes": 249,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.7
+   ]
   },
   {
    "id": "ultra-huauchinango-91-7-fm-xhphbp-fm-grupo-ultra",
@@ -1930,7 +2071,10 @@
    ],
    "votes": 245,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "la-zeta-navojoa-88-9-fm-xhens-fm-uniradio-navojo",
@@ -1954,7 +2098,10 @@
    ],
    "votes": 241,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "fm-globo-guadalajara-98-7-fm-xhlc-fm-mvs-radio-g",
@@ -1981,7 +2128,10 @@
    ],
    "votes": 239,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.7
+   ]
   },
   {
    "id": "los40-queretaro-90-1-fm-xhpsji-fm-globalmedia-sa",
@@ -2009,7 +2159,10 @@
    ],
    "votes": 237,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.1
+   ]
   },
   {
    "id": "w-radio-queretaro-1310-am-xeqrmd-am-globalmedia-",
@@ -2032,7 +2185,10 @@
    ],
    "votes": 232,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1310
+   ]
   },
   {
    "id": "abc-noticias-1310-am-xevb-am-grupo-radio-alegria",
@@ -2056,7 +2212,10 @@
    ],
    "votes": 231,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1310
+   ]
   },
   {
    "id": "amor-toluca-92-5-fm-xhrj-fm-grupo-acir-toluca-em",
@@ -2078,7 +2237,10 @@
    ],
    "votes": 230,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "la-gigante-piedras-negras-ver-95-3-fm-xhgn-fm-pi",
@@ -2100,7 +2262,10 @@
    ],
    "votes": 229,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.3
+   ]
   },
   {
    "id": "mix-puebla-91-7-fm-xhrc-fm-grupo-acir-puebla-pu",
@@ -2124,7 +2289,10 @@
    ],
    "votes": 222,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "oye-89-7-89-7-fm-xeoye-fm-nrm-comunicaciones-ciu",
@@ -2147,7 +2315,10 @@
    ],
    "votes": 221,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.7
+   ]
   },
   {
    "id": "radio-formula-guadalajara-790-am-guadalajara-jal",
@@ -2169,7 +2340,10 @@
    ],
    "votes": 218,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    790
+   ]
   },
   {
    "id": "super-mexicali-89-9-fm-xhsol-fm-grupo-audiorama-",
@@ -2198,7 +2372,10 @@
    ],
    "votes": 214,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.9
+   ]
   },
   {
    "id": "radio-formula-tampico-103-9-fm-tampico-tamaulipa",
@@ -2220,7 +2397,10 @@
    ],
    "votes": 213,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.9
+   ]
   },
   {
    "id": "radio-disney-toluca-102-1-fm-xhtom-fm-grupo-siet",
@@ -2247,7 +2427,10 @@
    ],
    "votes": 209,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "radio-formula-baja-california-950-am-tijuana-baj",
@@ -2269,7 +2452,10 @@
    ],
    "votes": 206,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    950
+   ]
   },
   {
    "id": "la-invasora-tijuana-xha-fm-94-5-fm-uniradio-tiju",
@@ -2291,7 +2477,10 @@
    ],
    "votes": 202,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.5
+   ]
   },
   {
    "id": "exa-fm-veracruz-93-3-fm-xhps-fm-mvs-radio-veracr",
@@ -2320,7 +2509,10 @@
    ],
    "votes": 196,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.3
+   ]
   },
   {
    "id": "k-digital-102-7-fm-xhpqui-fm-tequisquiapan-quere",
@@ -2346,7 +2538,10 @@
    ],
    "votes": 192,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.7
+   ]
   },
   {
    "id": "exa-fm-san-juan-del-rio-99-1-fm-xhvi-fm-san-juan",
@@ -2374,7 +2569,10 @@
    ],
    "votes": 190,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.1
+   ]
   },
   {
    "id": "la-mejor-puerto-vallarta-99-9-fm-xhcjx-fm-mvs-ra",
@@ -2396,7 +2594,10 @@
    ],
    "votes": 189,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "trion-ciudad-de-mexico-103-3-hd4-xerfr-fm-grupo-",
@@ -2443,7 +2644,10 @@
    ],
    "votes": 187,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "classic-106-9-fm-monterrey",
@@ -2464,7 +2668,10 @@
    ],
    "votes": 185,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.9
+   ]
   },
   {
    "id": "rclasicos-96-9-fm",
@@ -2487,7 +2694,10 @@
    ],
    "votes": 185,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.9
+   ]
   },
   {
    "id": "radio-esperanza-monterrey-1140-am-xemr-am-grupo-",
@@ -2510,7 +2720,10 @@
    ],
    "votes": 184,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1140
+   ]
   },
   {
    "id": "radio-formula-monterrey-770-am-monterrey-nuevo-l",
@@ -2532,7 +2745,10 @@
    ],
    "votes": 182,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    770
+   ]
   },
   {
    "id": "senal-90-90-7-fm-xhoy-fm-grupo-unidifusion-guada",
@@ -2555,7 +2771,10 @@
    ],
    "votes": 182,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.7
+   ]
   },
   {
    "id": "new-century-by-match-iheart-radio-online-acir-on",
@@ -2608,7 +2827,10 @@
    ],
    "votes": 174,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.5
+   ]
   },
   {
    "id": "retro-107-5-gdl-107-5-fm-xhvoz-fm-grupo-audioram",
@@ -2631,7 +2853,10 @@
    ],
    "votes": 173,
    "clicks": 5,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.5
+   ]
   },
   {
    "id": "la-bestia-grupera-ciudad-de-mexico-540-am-xewf-a",
@@ -2653,7 +2878,10 @@
    ],
    "votes": 172,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    540
+   ]
   },
   {
    "id": "exa-fm-tijuana-91-7-fm-xhglx-fm-mvs-radio-tijuan",
@@ -2684,7 +2912,10 @@
    ],
    "votes": 166,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "radio-lobo-san-jose-iturbide-88-3-fm-xhsji-fm-co",
@@ -2707,7 +2938,10 @@
    ],
    "votes": 165,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.3
+   ]
   },
   {
    "id": "radio-anime-nexus",
@@ -2755,7 +2989,10 @@
    ],
    "votes": 159,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.3
+   ]
   },
   {
    "id": "digital-102-9-monterrey-102-9-fm-xhmg-fm-grupo-r",
@@ -2784,7 +3021,10 @@
    ],
    "votes": 158,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "exclusively-dua-lipa",
@@ -2831,7 +3071,13 @@
    ],
    "votes": 152,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.9
+   ],
+   "amKhz": [
+    1050
+   ]
   },
   {
    "id": "mundo-cuernavaca-96-5-fm-xhjmg-fm-grupo-mundo-co",
@@ -2857,7 +3103,10 @@
    ],
    "votes": 152,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.5
+   ]
   },
   {
    "id": "radio-formula-bajio-101-1-fm-leon-guanajuato",
@@ -2879,7 +3128,10 @@
    ],
    "votes": 152,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "radio-formula-merida-94-5-fm-merida-yucatan",
@@ -2901,7 +3153,10 @@
    ],
    "votes": 151,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.5
+   ]
   },
   {
    "id": "mix-pachuca-92-5-fm-xhpk-fm-grupo-acir-pachuca-h",
@@ -2925,7 +3180,10 @@
    ],
    "votes": 150,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "stereo-cristal-queretaro-101-1-fm-xhjhs-fm-grupo",
@@ -2947,7 +3205,10 @@
    ],
    "votes": 150,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "trion-san-luis-90-1-fm-xhsmr-fm-globalmedia-san-",
@@ -2971,7 +3232,10 @@
    ],
    "votes": 150,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.1
+   ]
   },
   {
    "id": "clasics-morelia-99-1-fm-xhmom-fm-medios-radiofon",
@@ -2994,7 +3258,10 @@
    ],
    "votes": 148,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.1
+   ]
   },
   {
    "id": "mega-96-3-los-angeles-96-3-fm-kxol-fm-spanish-br",
@@ -3020,7 +3287,10 @@
    ],
    "votes": 147,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.3
+   ]
   },
   {
    "id": "radio-disney-94-3-buenos-aires-argentina",
@@ -3071,7 +3341,10 @@
    ],
    "votes": 143,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    580
+   ]
   },
   {
    "id": "la-mejor-torreon-estereo-gallito-97-1-fm-xhpe-fm",
@@ -3093,7 +3366,10 @@
    ],
    "votes": 143,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.1
+   ]
   },
   {
    "id": "radio-formula-cd-juarez-1460-am-cd-juarez-chihua",
@@ -3115,7 +3391,10 @@
    ],
    "votes": 143,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1460
+   ]
   },
   {
    "id": "mix-leon-103-1-fm-xhxf-fm-grupo-acir-leon-gt",
@@ -3139,7 +3418,10 @@
    ],
    "votes": 142,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.1
+   ]
   },
   {
    "id": "vox-love-station-san-luis-potosi-96-9-fm-xhod-fm",
@@ -3162,7 +3444,10 @@
    ],
    "votes": 140,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.9
+   ]
   },
   {
    "id": "rock-en-espanol-rock-de-mexico-espana-y-argentin",
@@ -3209,7 +3494,10 @@
    ],
    "votes": 136,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1120
+   ]
   },
   {
    "id": "radio-chilango-cdmx-105-3-fm-xhinfo-fm-ciudad-de",
@@ -3232,7 +3520,10 @@
    ],
    "votes": 136,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.3
+   ]
   },
   {
    "id": "mas-fm-san-luis-potosi-99-3-fm-xhtl-fm-mg-radio-",
@@ -3258,7 +3549,10 @@
    ],
    "votes": 131,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.3
+   ]
   },
   {
    "id": "los40-mexicali-90-7-fm-xhmoe-fm-radiopolis-mexic",
@@ -3281,7 +3575,10 @@
    ],
    "votes": 128,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.7
+   ]
   },
   {
    "id": "match-guadalajara-90-3-fm-xhemia-fm-grupo-acir-g",
@@ -3306,7 +3603,10 @@
    ],
    "votes": 127,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.3
+   ]
   },
   {
    "id": "amor-queretaro-97-9-fm-xhqto-fm-grupo-acir-quere",
@@ -3328,7 +3628,10 @@
    ],
    "votes": 125,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.9
+   ]
   },
   {
    "id": "1030-am-ciudad-de-mexico-1030-am-xeqr-am-grupo-r",
@@ -3355,7 +3658,10 @@
    ],
    "votes": 124,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1030
+   ]
   },
   {
    "id": "d99-98-9-fm-monterrey",
@@ -3382,7 +3688,10 @@
    ],
    "votes": 123,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.9
+   ]
   },
   {
    "id": "el-fonografo-musica-las-24-horas-cdmx-online-gru",
@@ -3431,7 +3740,10 @@
    ],
    "votes": 123,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    860
+   ]
   },
   {
    "id": "los40-san-luis-potosi-103-9-fm-xhewa-fm-globalme",
@@ -3454,7 +3766,10 @@
    ],
    "votes": 123,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.9
+   ]
   },
   {
    "id": "radiomas-orizaba-105-5-fm-xhoba-fm-rtv-radio-tel",
@@ -3477,7 +3792,10 @@
    ],
    "votes": 121,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.5
+   ]
   },
   {
    "id": "ultra-puebla-92-5-fm-xhzm-fm-grupo-ultra-puebla-",
@@ -3505,7 +3823,10 @@
    ],
    "votes": 121,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "la-jefa-camargo-96-1-fm-xheoh-fm-camargo-chihuah",
@@ -3527,7 +3848,10 @@
    ],
    "votes": 120,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.1
+   ]
   },
   {
    "id": "match-morelia-93-9-fm-xhmo-fm-morelia-mi",
@@ -3551,7 +3875,10 @@
    ],
    "votes": 119,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.9
+   ]
   },
   {
    "id": "radio-formula-merida-105-1-fm-merida-yucatan",
@@ -3573,7 +3900,10 @@
    ],
    "votes": 114,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.1
+   ]
   },
   {
    "id": "exa-fm-tampico-95-3-fm-xhox-fm-mvs-radio-tampico",
@@ -3597,7 +3927,10 @@
    ],
    "votes": 109,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.3
+   ]
   },
   {
    "id": "kiuu-91-1-fm-torreon-coahuila",
@@ -3619,7 +3952,10 @@
    ],
    "votes": 105,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.1
+   ]
   }
  ]
 }

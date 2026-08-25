@@ -61,7 +61,10 @@
    ],
    "votes": 94,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    103.7
+   ]
   },
   {
    "id": "softlife-afrofusion-radio",
@@ -205,7 +208,10 @@
    ],
    "votes": 3,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "vicinity-95-3-fm",
@@ -228,7 +234,10 @@
    ],
    "votes": 2,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.3
+   ]
   },
   {
    "id": "splash-fm-105-5",
@@ -379,7 +388,10 @@
    "genre": [],
    "votes": 107,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    106.9
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",
@@ -499,7 +511,10 @@
    "genre": [],
    "votes": 22,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    94.5
+   ]
   },
   {
    "id": "memories-96-5fm-uyo",
@@ -511,7 +526,10 @@
    "genre": [],
    "votes": 16,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.5
+   ]
   },
   {
    "id": "cool-fm-lagos",
@@ -555,7 +573,10 @@
    "genre": [],
    "votes": 6,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    88.7
+   ]
   },
   {
    "id": "mob-urban-radio",

@@ -140,7 +140,10 @@
    ],
    "votes": 15,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.7
+   ]
   },
   {
    "id": "k-lite-101-9-fm-manila",
@@ -163,7 +166,10 @@
    ],
    "votes": 15,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.9
+   ]
   },
   {
    "id": "opm-christmas",
@@ -201,7 +207,10 @@
    ],
    "votes": 4,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.5
+   ]
   },
   {
    "id": "105-5-sky-radio",
@@ -348,7 +357,10 @@
    "genre": [],
    "votes": 1406,
    "clicks": 14,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.9
+   ]
   },
   {
    "id": "rmn-dyri-iloilo",
@@ -375,7 +387,10 @@
    "genre": [],
    "votes": 550,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.7
+   ]
   },
   {
    "id": "bible-radio",
@@ -856,7 +871,10 @@
    "genre": [],
    "votes": 53,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "amfmph-streams-demo-24k-mp3",
@@ -1036,7 +1054,10 @@
    "genre": [],
    "votes": 33,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.9
+   ]
   },
   {
    "id": "taps-radio-ilagan",
@@ -1210,7 +1231,10 @@
    "genre": [],
    "votes": 23,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "cloudstaff-radio",
@@ -1274,7 +1298,10 @@
    "genre": [],
    "votes": 21,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.3
+   ]
   },
   {
    "id": "amfmph-streams-demo-48k-mp3",
@@ -1688,7 +1715,10 @@
    "genre": [],
    "votes": 5,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.9
+   ]
   },
   {
    "id": "103-1-mor-baguio",

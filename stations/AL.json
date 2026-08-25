@@ -125,7 +125,10 @@
    "genre": [],
    "votes": 4256,
    "clicks": 12,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92
+   ]
   },
   {
    "id": "my-music-radio-tirana-97-3-fm",
@@ -137,7 +140,10 @@
    "genre": [],
    "votes": 3560,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.3
+   ]
   },
   {
    "id": "radioone",
@@ -183,7 +189,10 @@
    "genre": [],
    "votes": 1680,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.4
+   ]
   },
   {
    "id": "phish-radio",
@@ -231,7 +240,10 @@
    "genre": [],
    "votes": 348,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.2
+   ]
   },
   {
    "id": "chili-moje",

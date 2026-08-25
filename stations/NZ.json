@@ -673,7 +673,10 @@
    ],
    "votes": 27,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.6
+   ]
   },
   {
    "id": "531pi-aac",
@@ -896,7 +899,10 @@
    ],
    "votes": 8,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.7
+   ]
   },
   {
    "id": "more-fm-bay-of-plenty",
@@ -1307,7 +1313,10 @@
    "genre": [],
    "votes": 74,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    87.7
+   ]
   },
   {
    "id": "radio-control-99-4fm",
@@ -1327,7 +1336,10 @@
    "genre": [],
    "votes": 67,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.4
+   ]
   },
   {
    "id": "sleep-radio",
@@ -1461,7 +1473,10 @@
    "genre": [],
    "votes": 36,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.2
+   ]
   },
   {
    "id": "more-fm-nelson",

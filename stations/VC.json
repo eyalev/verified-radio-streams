@@ -35,7 +35,10 @@
    ],
    "votes": 38,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    94.1
+   ]
   },
   {
    "id": "hot-97-1-fm-svg",
@@ -57,7 +60,10 @@
    ],
    "votes": 16,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.1
+   ]
   },
   {
    "id": "caribbean-love-radio",
@@ -103,7 +109,10 @@
    ],
    "votes": 8,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    103.7
+   ]
   },
   {
    "id": "nbc-radio-svg",

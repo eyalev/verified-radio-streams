@@ -1806,7 +1806,10 @@
    ],
    "votes": 38,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.5
+   ]
   },
   {
    "id": "g-os-nadziei",

@@ -39,7 +39,10 @@
    "genre": [],
    "votes": 1291,
    "clicks": 6,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.4
+   ]
   },
   {
    "id": "central-radio-98-5",

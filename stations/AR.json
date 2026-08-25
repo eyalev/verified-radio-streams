@@ -246,7 +246,10 @@
    ],
    "votes": 303,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.3
+   ]
   },
   {
    "id": "fm-97-9-vida",
@@ -329,7 +332,10 @@
    ],
    "votes": 128,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.9
+   ]
   },
   {
    "id": "la-nacion-104-9",
@@ -624,7 +630,10 @@
    ],
    "votes": 61,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "acqua-fm-100-1",
@@ -909,7 +918,10 @@
    ],
    "votes": 31,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.7
+   ]
   },
   {
    "id": "net80-radio",
@@ -1069,7 +1081,11 @@
    ],
    "votes": 22,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.1,
+    98.9
+   ]
   },
   {
    "id": "aries-fm-91-1",
@@ -1309,7 +1325,10 @@
    ],
    "votes": 16,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.1
+   ]
   },
   {
    "id": "fm-ciudad-94-7",
@@ -1354,7 +1373,10 @@
    ],
    "votes": 16,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.3
+   ]
   },
   {
    "id": "planet-music-bahia-blanca",
@@ -1418,7 +1440,10 @@
    ],
    "votes": 15,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.1
+   ]
   },
   {
    "id": "antena-uno-92-3fm-posadas",
@@ -1440,7 +1465,10 @@
    ],
    "votes": 15,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.3
+   ]
   },
   {
    "id": "coctel-online",
@@ -1647,7 +1675,10 @@
    ],
    "votes": 12,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "fm-esperanza-107-1-mhz",
@@ -1669,7 +1700,10 @@
    ],
    "votes": 12,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.1
+   ]
   },
   {
    "id": "radio-digital-san-luis-101-1-fm",
@@ -1695,7 +1729,10 @@
    ],
    "votes": 12,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "cadena-express-88-1-fm",
@@ -1721,7 +1758,10 @@
    ],
    "votes": 11,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.1
+   ]
   },
   {
    "id": "dale-fm-93-1",
@@ -1770,7 +1810,10 @@
    ],
    "votes": 11,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "fm-cielo-93-1",
@@ -2096,7 +2139,10 @@
    ],
    "votes": 9,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "radio-el-buen-samaritano-101-7-fm",
@@ -2117,7 +2163,10 @@
    ],
    "votes": 9,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.7
+   ]
   },
   {
    "id": "estacion-urbana-104-7-fm",
@@ -2138,7 +2187,10 @@
    ],
    "votes": 8,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.7
+   ]
   },
   {
    "id": "expo-radio-fm-94-3",
@@ -2184,7 +2236,10 @@
    ],
    "votes": 8,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.5
+   ]
   },
   {
    "id": "fm-centro-basavilbaso-105-1",
@@ -2273,7 +2328,10 @@
    ],
    "votes": 7,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.5
+   ]
   },
   {
    "id": "ecos-de-mis-cerros",
@@ -2400,7 +2458,10 @@
    ],
    "votes": 7,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "lu18-am-640-radio-del-valle-rio-negro",
@@ -2437,7 +2498,10 @@
    ],
    "votes": 7,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.9
+   ]
   },
   {
    "id": "radio-metropolitana-95-3",
@@ -2481,7 +2545,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.5
+   ]
   },
   {
    "id": "antena-nueve-94-3-fm",
@@ -2502,7 +2569,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.3
+   ]
   },
   {
    "id": "ciudad-88-5-fm",
@@ -2524,7 +2594,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.5
+   ]
   },
   {
    "id": "cristal-fm-noetinger",
@@ -2574,7 +2647,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.5
+   ]
   },
   {
    "id": "fm-98-1-perez-millan",
@@ -2772,7 +2848,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.1
+   ]
   },
   {
    "id": "la-pocha-fm-98-1",
@@ -2820,7 +2899,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.3
+   ]
   },
   {
    "id": "vip-radio",
@@ -3417,7 +3499,10 @@
    "genre": [],
    "votes": 4159,
    "clicks": 43,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "blue-fm-100-7-ciudad-de-buenos-aires",

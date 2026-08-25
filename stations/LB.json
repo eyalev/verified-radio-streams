@@ -149,7 +149,10 @@
    ],
    "votes": 11,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.2
+   ]
   },
   {
    "id": "3j-radio",

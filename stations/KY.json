@@ -100,7 +100,10 @@
    "genre": [],
    "votes": 28,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.5
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",

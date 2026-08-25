@@ -32,7 +32,10 @@
    ],
    "votes": 111,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    90.5
+   ]
   },
   {
    "id": "101-1-smooth-fm",
@@ -106,7 +109,10 @@
    ],
    "votes": 72,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    107.1
+   ]
   },
   {
    "id": "m80-radio-macau-90s",
@@ -157,7 +163,10 @@
    ],
    "votes": 50,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.1
+   ]
   },
   {
    "id": "m80-radio-macau-80s",
@@ -264,7 +273,10 @@
    "genre": [],
    "votes": 36,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.4
+   ]
   },
   {
    "id": "lotus-macau-radio-1062-am",
@@ -285,7 +297,10 @@
    "genre": [],
    "votes": 30,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1062
+   ]
   },
   {
    "id": "yw-city-radio-macau-954-am",
@@ -304,7 +319,10 @@
    "genre": [],
    "votes": 27,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    954
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",

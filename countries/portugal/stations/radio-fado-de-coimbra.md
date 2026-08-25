@@ -29,6 +29,11 @@ mpv "https://nl.digitalrm.pt:8048/stream"
 above was opened and returned audio bytes. It is not a promise about today, and
 it is not an endorsement — just the last time anybody checked.
 
+**No broadcast frequency is listed** for this station. That means nobody wrote
+one into its name — the only place frequencies here come from. It is not
+evidence that the station is internet-only, and for a national broadcaster it
+usually means the opposite: too many transmitters to name one.
+
 ## More from Portugal
 
 - [RFM](rfm.md)

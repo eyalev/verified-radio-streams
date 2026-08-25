@@ -70,6 +70,31 @@ ever written one** — currently 0 of the first and 0 of the
 second, so every station in this repo is either `music` or unknown. Do not read the absence of `talk` as evidence that a country
 has no talk radio; read it as nobody having checked.
 
+## Frequencies, and why most stations have none
+
+518 stations carry `fmMhz` and 72 carry `amKhz` — out of 7,707.
+
+They come from **one** place: the station's own name. `Rádio Sol Madeira (103.7 FM)`
+is its operators stating their own frequency, so reading it off is not an
+inference. Nothing else in this dataset carries one — Radio Browser has no
+frequency field, and Wikidata's coverage (checked 2026-08-26) is 9,478 US
+stations against **one** in all of Portugal, so filling the gap from there would
+mean matching names to entities, which is guessing with a citation attached.
+
+Two things follow, and both matter more than the number itself:
+
+- **An absent frequency means nobody wrote one down.** It is not evidence that
+  a station is online-only. Portugal's most-voted broadcaster, RFM, has no
+  frequency here precisely *because* it has dozens.
+- **The field is a list, never a scalar.** A national broadcaster has a
+  transmitter per region; this data contains
+  `Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM`.
+  One entry means one was written down, not that it broadcasts on one.
+
+Values are gated to the real broadcast bands (87.5–108.0 MHz, plus 65.8–74.0
+for OIRT; 148–1710 kHz for AM), so a bitrate or a stray number in a name cannot
+arrive looking like a frequency.
+
 ## Schema
 
 Each entry in `stations`:
@@ -89,6 +114,8 @@ Each entry in `stations`:
 | `state` | string? | region or city, when known |
 | `votes` | number | Radio Browser votes — a rough popularity signal |
 | `clicks` | number | Radio Browser plays in the last 24h |
+| `fmMhz` | number[]? | FM frequencies, MHz — **only when the station put them in its own name**, see below |
+| `amKhz` | number[]? | AM frequencies, kHz — same source |
 | `verified` | string | `YYYY-MM-DD`, the day the stream last answered |
 
 `?` marks a field that is absent when unknown. **Nothing here is filled in with

@@ -60,7 +60,10 @@
    ],
    "votes": 338,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "exa-fm-musica-pop-en-espanol-e-ingles",
@@ -136,7 +139,10 @@
    ],
    "votes": 96,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.3
+   ]
   },
   {
    "id": "estereo-sur-91-3-fm",
@@ -158,7 +164,10 @@
    ],
    "votes": 91,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    91.3
+   ]
   },
   {
    "id": "radio-hrn-la-voz-de-honduras",

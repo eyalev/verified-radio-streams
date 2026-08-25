@@ -27,7 +27,10 @@
    ],
    "votes": 239,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    99.7
+   ]
   },
   {
    "id": "radio-active-104-5-fm",
@@ -46,7 +49,10 @@
    ],
    "votes": 163,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.5
+   ]
   },
   {
    "id": "radio-deltha-92-7-fm",
@@ -65,7 +71,10 @@
    ],
    "votes": 89,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92.7
+   ]
   },
   {
    "id": "paradise-fm-60s-70s",
@@ -221,7 +230,10 @@
    "genre": [],
    "votes": 123,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    107.1
+   ]
   },
   {
    "id": "meio-norte-fm-99-9",

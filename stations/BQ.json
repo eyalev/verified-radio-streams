@@ -101,7 +101,10 @@
    "genre": [],
    "votes": 826,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    800
+   ]
   },
   {
    "id": "tropical-spice-radio",

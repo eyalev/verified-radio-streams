@@ -27,7 +27,12 @@
    "genre": [],
    "votes": 928,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    89.3,
+    89.5,
+    89.7
+   ]
   },
   {
    "id": "102-5-fm-voice-of-guyana",
@@ -40,7 +45,10 @@
    "genre": [],
    "votes": 126,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.5
+   ]
   },
   {
    "id": "104-1-guyana-lite-fm",

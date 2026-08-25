@@ -239,7 +239,10 @@
    "genre": [],
    "votes": 162,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "planetfm-88-7",

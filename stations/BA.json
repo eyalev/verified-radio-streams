@@ -146,7 +146,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    93.1
+   ]
   },
   {
    "id": "esoterica-radio-s5",

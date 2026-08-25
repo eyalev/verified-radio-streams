@@ -765,7 +765,10 @@
    ],
    "votes": 7,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.9
+   ]
   },
   {
    "id": "radio-1-1-0-ruse-88-9-fm",
@@ -786,7 +789,10 @@
    ],
    "votes": 5,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "99-0-fm",
@@ -807,7 +813,10 @@
    ],
    "votes": 5,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99
+   ]
   },
   {
    "id": "energy-100-5-fm",
@@ -828,7 +837,10 @@
    ],
    "votes": 3,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.5
+   ]
   },
   {
    "id": "fm-94-4-fm",
@@ -849,7 +861,10 @@
    ],
    "votes": 3,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.4
+   ]
   },
   {
    "id": "99-7-fm",
@@ -870,7 +885,10 @@
    ],
    "votes": 2,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.7
+   ]
   },
   {
    "id": "n-joy-101-6-fm",
@@ -891,7 +909,10 @@
    ],
    "votes": 1,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.6
+   ]
   },
   {
    "id": "97-4-fm",
@@ -912,7 +933,10 @@
    ],
    "votes": 1,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.4
+   ]
   },
   {
    "id": "btv-radio-89-9-fm",
@@ -933,7 +957,10 @@
    ],
    "votes": 0,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.9
+   ]
   },
   {
    "id": "radio-fresh-ruse-93-6-fm",
@@ -955,7 +982,10 @@
    ],
    "votes": 0,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.6
+   ]
   },
   {
    "id": "extreme-deep-house-radio",

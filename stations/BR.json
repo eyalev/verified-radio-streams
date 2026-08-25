@@ -113,7 +113,10 @@
    ],
    "votes": 5389,
    "clicks": 10,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "smooth-jazz-lounge",
@@ -446,7 +449,10 @@
    ],
    "votes": 333,
    "clicks": 10,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.1
+   ]
   },
   {
    "id": "mix-fm-porto-alegre",
@@ -567,7 +573,10 @@
    ],
    "votes": 280,
    "clicks": 7,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "alpha-mpb",
@@ -630,7 +639,10 @@
    ],
    "votes": 243,
    "clicks": 5,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.1
+   ]
   },
   {
    "id": "radio-fm-o-dia-99-7-fm",
@@ -649,7 +661,10 @@
    ],
    "votes": 238,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.7
+   ]
   },
   {
    "id": "radio-energia-dance",
@@ -1094,7 +1109,10 @@
    ],
    "votes": 109,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.3
+   ]
   },
   {
    "id": "radio-teomidia-instrumental",
@@ -1130,7 +1148,10 @@
    ],
    "votes": 99,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.7
+   ]
   },
   {
    "id": "itapema-fm-floreanopolis",
@@ -1275,7 +1296,10 @@
    ],
    "votes": 76,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.1
+   ]
   },
   {
    "id": "musical-fm-2",
@@ -1459,7 +1483,10 @@
    ],
    "votes": 67,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    750
+   ]
   },
   {
    "id": "morena-fm-98",
@@ -1662,7 +1689,10 @@
    ],
    "votes": 51,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "quran",
@@ -1695,7 +1725,10 @@
    ],
    "votes": 50,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.5
+   ]
   },
   {
    "id": "radio-ilha-fm-107-1",
@@ -1730,7 +1763,10 @@
    ],
    "votes": 49,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.5
+   ]
   },
   {
    "id": "jovem-pan-fm-manaus-am-104-1",
@@ -2089,7 +2125,10 @@
    ],
    "votes": 37,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.7
+   ]
   },
   {
    "id": "morcegaobr",
@@ -2180,7 +2219,10 @@
    ],
    "votes": 35,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1230
+   ]
   },
   {
    "id": "radio-band-vale-102-9-fm",
@@ -2202,7 +2244,10 @@
    ],
    "votes": 34,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "radio-sertaneja",
@@ -2496,7 +2541,10 @@
    ],
    "votes": 26,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.1
+   ]
   },
   {
    "id": "terra-fm-99-9-mhz-zyc730-belo-horizonte-mg",
@@ -2520,7 +2568,10 @@
    ],
    "votes": 26,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "nossa-fm-105-9",
@@ -2697,7 +2748,10 @@
    ],
    "votes": 23,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.3
+   ]
   },
   {
    "id": "radio-noticia-88-9-fm-americana-sp",
@@ -2716,7 +2770,10 @@
    ],
    "votes": 22,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "rede-3-16",
@@ -2932,7 +2989,10 @@
    "genre": [],
    "votes": 2900,
    "clicks": 31,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.7
+   ]
   },
   {
    "id": "fita-cassete",
@@ -2982,7 +3042,10 @@
    "genre": [],
    "votes": 2016,
    "clicks": 16,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.1
+   ]
   },
   {
    "id": "radio-metropolitana-98-5-fm-sertanejo",
@@ -2995,7 +3058,10 @@
    "genre": [],
    "votes": 1981,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.5
+   ]
   },
   {
    "id": "radio-itatiaia-95-7-fm",
@@ -3014,7 +3080,10 @@
    "genre": [],
    "votes": 1827,
    "clicks": 25,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.7
+   ]
   },
   {
    "id": "nova-brasil-fm-sao-paulo",
@@ -3077,7 +3146,10 @@
    "genre": [],
    "votes": 921,
    "clicks": 44,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.7
+   ]
   },
   {
    "id": "mgt-forro",
@@ -3126,7 +3198,10 @@
    "genre": [],
    "votes": 608,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "brasil-de-fato",
@@ -3157,7 +3232,10 @@
    "genre": [],
    "votes": 501,
    "clicks": 10,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.1
+   ]
   }
  ]
 }

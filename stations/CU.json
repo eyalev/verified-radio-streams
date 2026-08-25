@@ -126,7 +126,10 @@
    "genre": [],
    "votes": 44,
    "clicks": 11,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1180
+   ]
   },
   {
    "id": "radio-habana-cuba-102-5-fm",
@@ -151,7 +154,10 @@
    "genre": [],
    "votes": 26,
    "clicks": 10,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.5
+   ]
   },
   {
    "id": "radio-progreso-90-3-fm",
@@ -170,7 +176,10 @@
    "genre": [],
    "votes": 24,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    90.3
+   ]
   },
   {
    "id": "radio-maria-de-la-caridad",

@@ -27,7 +27,10 @@
    ],
    "votes": 1891,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.7
+   ]
   },
   {
    "id": "radio-astral-102-9-fm",
@@ -48,7 +51,10 @@
    ],
    "votes": 363,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "radio-la-paz-fm",
@@ -89,7 +95,10 @@
    ],
    "votes": 186,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.1
+   ]
   },
   {
    "id": "aura-fm-99-3",
@@ -140,7 +149,10 @@
    "genre": [],
    "votes": 1997,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.5
+   ]
   },
   {
    "id": "la-tribu-fm",
@@ -207,7 +219,10 @@
    "genre": [],
    "votes": 794,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.1
+   ]
   },
   {
    "id": "femenina",
@@ -234,7 +249,10 @@
    "genre": [],
    "votes": 777,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "radio-laser-espanol",
@@ -456,7 +474,10 @@
    "genre": [],
    "votes": 3,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "c3-radio",

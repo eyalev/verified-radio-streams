@@ -270,7 +270,10 @@
    "genre": [],
    "votes": 101,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.5
+   ]
   },
   {
    "id": "radio-bubamara-105-2-skopje-macedonia",
@@ -420,7 +423,10 @@
    "genre": [],
    "votes": 18,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.8
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",

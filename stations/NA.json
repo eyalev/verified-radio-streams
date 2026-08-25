@@ -168,7 +168,10 @@
    "genre": [],
    "votes": 644,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.7
+   ]
   },
   {
    "id": "afrika-boom",

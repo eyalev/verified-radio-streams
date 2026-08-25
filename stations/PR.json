@@ -122,7 +122,10 @@
    ],
    "votes": 100,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.1
+   ]
   },
   {
    "id": "cumbre-1470-am-106-3-fm",
@@ -144,7 +147,13 @@
    ],
    "votes": 68,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    106.3
+   ],
+   "amKhz": [
+    1470
+   ]
   },
   {
    "id": "oldiville",
@@ -236,7 +245,10 @@
    "genre": [],
    "votes": 595,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.7
+   ]
   },
   {
    "id": "radio-tropical-pr",
@@ -278,7 +290,10 @@
    "genre": [],
    "votes": 154,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1500
+   ]
   },
   {
    "id": "zeta-93",
@@ -383,7 +398,10 @@
    "genre": [],
    "votes": 30,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1480
+   ]
   },
   {
    "id": "fidelity-95-7",
@@ -456,7 +474,10 @@
    "genre": [],
    "votes": 17,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    1320
+   ]
   },
   {
    "id": "caribe-clasico",
@@ -493,7 +514,10 @@
    "genre": [],
    "votes": 10,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    740
+   ]
   },
   {
    "id": "z93-fm",

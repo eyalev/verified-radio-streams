@@ -27,6 +27,21 @@ The most-voted stations in Portugal, each with a page of its own:
 - **[Smooth FM (AAC)](stations/smooth-fm-aac.md)** — jazz, smooth-jazz · 127 kbps AAC · 462 votes
 - **[Wonder 80's](stations/wonder-80-s.md)** — genre not labelled · 128 kbps MP3 · 434 votes
 
+## On FM and AM
+
+6 of these stations state a broadcast frequency in their own name — the only
+place this dataset gets one, so the other 138 are unrecorded rather than
+internet-only.
+
+| Station | On air | Listen |
+|---|---|---|
+| Rádio Zarco Madeira (89.6 FM) | **89.6 FM** | [▶︎ listen](https://audio.serv.pt/8014/stream.mp3) |
+| Estação Diária Rádio, Viseu – 96.8 FM | **96.8 FM** | [▶︎ listen](https://centova.radio.com.pt/proxy/430?mp=/stream) |
+| Rádio Festival Madeira (98.4 FM) | **98.4 FM** | [▶︎ listen](https://audio.serv.pt/8012/stream.mp3) |
+| Rádio Popular Madeira (101.0 FM) | **101.0 FM** | [▶︎ listen](https://audio.serv.pt/8018/stream.mp3) |
+| Rádio Sol Madeira (103.7 FM) | **103.7 FM** | [▶︎ listen](https://audio.serv.pt/8010/stream.mp3) |
+| Rádio Clube Madeira (106.8 FM) | **106.8 FM** | [▶︎ listen](https://audio.serv.pt/8020/stream.mp3) |
+
 ## Browse by genre
 
 **pop** (19) — [M80 Rádio – 80s](stations/m80-radio-80s.md) · RFM Oceano Pacifico · M80 Rádio – Pop · Rádio XL · M80 Rádio – 70s · MRR Manitu Rock Radio · Rádio Regional do Centro · M 80 Rádio

@@ -55,7 +55,10 @@
    ],
    "votes": 318,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    89.1
+   ]
   },
   {
    "id": "rock-fm-105-5",
@@ -108,7 +111,10 @@
    "genre": [],
    "votes": 80,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.7
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",
@@ -141,7 +147,10 @@
    "genre": [],
    "votes": 33,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    91.9
+   ]
   },
   {
    "id": "the-sound-of-the-caribbean",

@@ -53,7 +53,10 @@
    ],
    "votes": 304,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.9
+   ]
   },
   {
    "id": "fabulosa-estereo-100-5-fm",
@@ -77,7 +80,10 @@
    ],
    "votes": 205,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.5
+   ]
   },
   {
    "id": "antena-8-100-1-fm",
@@ -101,7 +107,10 @@
    ],
    "votes": 178,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.1
+   ]
   },
   {
    "id": "omega-stereo",
@@ -184,7 +193,10 @@
    "genre": [],
    "votes": 91,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.9
+   ]
   },
   {
    "id": "tropiq",
@@ -256,7 +268,10 @@
    "genre": [],
    "votes": 31,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    90.7
+   ]
   },
   {
    "id": "yxy",
@@ -286,7 +301,10 @@
    "genre": [],
    "votes": 10,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.3
+   ]
   },
   {
    "id": "dinamix-fm",

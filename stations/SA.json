@@ -120,7 +120,10 @@
    ],
    "votes": 37,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    105.9
+   ]
   },
   {
    "id": "ufm-ksa-80s-95-5-fm",
@@ -144,7 +147,10 @@
    ],
    "votes": 31,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.5
+   ]
   },
   {
    "id": "skyradio-105-5-fm",
@@ -168,7 +174,10 @@
    ],
    "votes": 19,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    105.5
+   ]
   },
   {
    "id": "105-5-soft-rock-fm-ksa",
@@ -366,7 +375,10 @@
    "genre": [],
    "votes": 432,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    103.6
+   ]
   },
   {
    "id": "voice-of-grace",
@@ -453,7 +465,10 @@
    "genre": [],
    "votes": 179,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    720
+   ]
   },
   {
    "id": "v81-radio-ksa-101-8-fm",
@@ -469,7 +484,10 @@
    "genre": [],
    "votes": 48,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.8
+   ]
   },
   {
    "id": "jeddah",

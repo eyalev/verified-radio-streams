@@ -100,7 +100,10 @@
    ],
    "votes": 525,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88
+   ]
   },
   {
    "id": "nova-91-9",
@@ -274,7 +277,10 @@
    ],
    "votes": 112,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.7
+   ]
   },
   {
    "id": "5mbs-99-9fm",
@@ -298,7 +304,10 @@
    ],
    "votes": 111,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "nightride-fm-chillsynth",
@@ -361,7 +370,10 @@
    ],
    "votes": 94,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.1
+   ]
   },
   {
    "id": "4mbs-classic-fm-brisbane",
@@ -473,7 +485,10 @@
    ],
    "votes": 68,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "fsj-radio-xrn-australia",
@@ -521,7 +536,10 @@
    ],
    "votes": 46,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.7
+   ]
   },
   {
    "id": "2mbs-fine-music-sydney-aac-256",
@@ -658,7 +676,10 @@
    ],
    "votes": 31,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.1
+   ]
   },
   {
    "id": "curtin-radio-a-lifetime-of-music",
@@ -728,7 +749,10 @@
    ],
    "votes": 28,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.1
+   ]
   },
   {
    "id": "gem-fm-91-5mhz-bowen-gem-of-the-coral-coast",
@@ -751,7 +775,10 @@
    ],
    "votes": 27,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.5
+   ]
   },
   {
    "id": "syn-fm",
@@ -800,7 +827,10 @@
    ],
    "votes": 25,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "the-breez-102-5-wide-bay",
@@ -845,7 +875,10 @@
    ],
    "votes": 23,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.6
+   ]
   },
   {
    "id": "3mbs-melbourne-103-5-mhz-fm",
@@ -867,7 +900,10 @@
    ],
    "votes": 22,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.5
+   ]
   },
   {
    "id": "newy-87-8-fm-newcastle-87-8-fm-mp3",
@@ -889,7 +925,10 @@
    ],
    "votes": 22,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    87.8
+   ]
   },
   {
    "id": "2mcr-100-3-sounds-of-macarthur-macarthur-communi",
@@ -961,7 +1000,10 @@
    ],
    "votes": 16,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "wandering-sheep-golden-praise",
@@ -1038,7 +1080,10 @@
    ],
    "votes": 12,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.4
+   ]
   },
   {
    "id": "c91-3-fm-macarthur-s-radio-station",
@@ -1060,7 +1105,10 @@
    ],
    "votes": 9,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.3
+   ]
   },
   {
    "id": "smooth-sailing-radio",
@@ -1125,7 +1173,10 @@
    ],
    "votes": 8,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.1
+   ]
   },
   {
    "id": "2brw-braidwood-fm",
@@ -1255,7 +1306,10 @@
    "genre": [],
    "votes": 484,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.5
+   ]
   },
   {
    "id": "3aw-693-melbourne-vic-australia-talk-am-693",
@@ -1293,7 +1347,10 @@
    "genre": [],
    "votes": 244,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.3
+   ]
   },
   {
    "id": "2sm-srn-sydney",
@@ -1336,7 +1393,10 @@
    "genre": [],
    "votes": 179,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    846
+   ]
   },
   {
    "id": "buddha",
@@ -1572,7 +1632,10 @@
    "genre": [],
    "votes": 62,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.7
+   ]
   },
   {
    "id": "4rph-reading-radio",
@@ -1616,7 +1679,10 @@
    "genre": [],
    "votes": 59,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1332
+   ]
   },
   {
    "id": "lainchan-radio-main",
@@ -1713,7 +1779,10 @@
    "genre": [],
    "votes": 43,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.5
+   ]
   },
   {
    "id": "braidwood-radio",
@@ -1882,7 +1951,10 @@
    "genre": [],
    "votes": 26,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.9
+   ]
   },
   {
    "id": "woolworths-radio",
@@ -2046,7 +2118,10 @@
    "genre": [],
    "votes": 17,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.3
+   ]
   },
   {
    "id": "3cr-community-radio",
@@ -2123,7 +2198,10 @@
    "genre": [],
    "votes": 15,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.7
+   ]
   },
   {
    "id": "massive-chill-radio",
@@ -2176,7 +2254,10 @@
    "genre": [],
    "votes": 14,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.1
+   ]
   },
   {
    "id": "abc-radio-south-east-nsw",
@@ -2249,7 +2330,10 @@
    "genre": [],
    "votes": 12,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.9
+   ]
   },
   {
    "id": "90-1-happy-fm",
@@ -2292,7 +2376,10 @@
    "genre": [],
    "votes": 12,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.7
+   ]
   },
   {
    "id": "hawkesbury-radio-sports",
@@ -2412,7 +2499,10 @@
    "genre": [],
    "votes": 9,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.7
+   ]
   },
   {
    "id": "8-bit-remix-radio",
@@ -2667,7 +2757,10 @@
    "genre": [],
    "votes": 5,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.7
+   ]
   }
  ]
 }

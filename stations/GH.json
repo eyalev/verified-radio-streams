@@ -171,7 +171,10 @@
    ],
    "votes": 22,
    "clicks": 6,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "yfm-accra",
@@ -419,7 +422,10 @@
    "genre": [],
    "votes": 34,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.5
+   ]
   },
   {
    "id": "asempa-fm",
@@ -474,7 +480,10 @@
    "genre": [],
    "votes": 20,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    103.9
+   ]
   },
   {
    "id": "luv-fm",
@@ -515,7 +524,10 @@
    "genre": [],
    "votes": 13,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.9
+   ]
   },
   {
    "id": "gbc-uniiq-95-7fm",
@@ -534,7 +546,10 @@
    "genre": [],
    "votes": 12,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.7
+   ]
   },
   {
    "id": "atl-fm-100-5mhz",
@@ -555,7 +570,10 @@
    "genre": [],
    "votes": 7,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.5
+   ]
   },
   {
    "id": "kente-radio",

@@ -156,7 +156,10 @@
    ],
    "votes": 442,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.8
+   ]
   },
   {
    "id": "wehouseradio",

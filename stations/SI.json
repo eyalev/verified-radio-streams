@@ -98,7 +98,10 @@
    ],
    "votes": 225,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    105.2
+   ]
   },
   {
    "id": "toti-radio",
@@ -483,7 +486,10 @@
    "genre": [],
    "votes": 112,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    107.9
+   ]
   },
   {
    "id": "retro-radio",

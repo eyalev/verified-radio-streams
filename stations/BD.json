@@ -64,7 +64,10 @@
    "genre": [],
    "votes": 4373,
    "clicks": 7,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    91.6
+   ]
   },
   {
    "id": "radio-goongoon",

@@ -166,7 +166,10 @@
    ],
    "votes": 72,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.3
+   ]
   },
   {
    "id": "radio-infinita",
@@ -281,7 +284,10 @@
    "genre": [],
    "votes": 86,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.1
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",

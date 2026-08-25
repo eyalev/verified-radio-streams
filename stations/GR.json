@@ -685,7 +685,10 @@
    ],
    "votes": 244,
    "clicks": 5,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.2
+   ]
   },
   {
    "id": "metal-zone",
@@ -2861,7 +2864,10 @@
    ],
    "votes": 41,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.8
+   ]
   },
   {
    "id": "fasma-99-7",

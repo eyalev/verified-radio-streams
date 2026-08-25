@@ -1651,7 +1651,10 @@
    ],
    "votes": 26,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    87.9
+   ]
   },
   {
    "id": "radio-aquila",
@@ -2129,7 +2132,10 @@
    ],
    "votes": 11,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.2
+   ]
   },
   {
    "id": "wave-radio",
@@ -2170,7 +2176,10 @@
    ],
    "votes": 10,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "vibe-fm",
@@ -2301,7 +2310,10 @@
    ],
    "votes": 7,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.9
+   ]
   },
   {
    "id": "spacefm-romania-spacefm-dance",
@@ -2395,7 +2407,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99
+   ]
   },
   {
    "id": "viva-fm-statia-iasi-105-fm",
@@ -2434,7 +2449,10 @@
    ],
    "votes": 5,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.7
+   ]
   },
   {
    "id": "radio-balkan-romania",
@@ -2755,7 +2773,10 @@
    ],
    "votes": 4,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "center-deejay-brasov-dj-radio-romania",
@@ -2831,7 +2852,10 @@
    ],
    "votes": 3,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.3
+   ]
   },
   {
    "id": "radio-coresi-80s-brasov",
@@ -2886,7 +2910,10 @@
    ],
    "votes": 3,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.6
+   ]
   },
   {
    "id": "sky-radio-bucuresti",
@@ -3014,7 +3041,10 @@
    ],
    "votes": 2,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.4
+   ]
   },
   {
    "id": "kiss-fm-rock-athems",
@@ -3072,7 +3102,10 @@
    ],
    "votes": 2,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.8
+   ]
   },
   {
    "id": "radio-alpin-romania",
@@ -3108,7 +3141,10 @@
    ],
    "votes": 2,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.7
+   ]
   },
   {
    "id": "radio-liberty-oldies-bucuresti",
@@ -3186,7 +3222,10 @@
    ],
    "votes": 2,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.3
+   ]
   },
   {
    "id": "kiss-fm-ro",

@@ -110,7 +110,10 @@
    "genre": [],
    "votes": 9430,
    "clicks": 27,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.2
+   ]
   },
   {
    "id": "bbc-nepali",

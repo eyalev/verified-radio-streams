@@ -175,7 +175,10 @@
    ],
    "votes": 256,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    99.9
+   ]
   },
   {
    "id": "platino-radio",
@@ -220,7 +223,10 @@
    ],
    "votes": 104,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "criolla-106-1-fm",
@@ -242,7 +248,10 @@
    ],
    "votes": 64,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "air-romana-radio",
@@ -289,7 +298,10 @@
    ],
    "votes": 32,
    "clicks": 6,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    106.9
+   ]
   },
   {
    "id": "fm-97-3-la-super-estacion",
@@ -335,7 +347,10 @@
    ],
    "votes": 27,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92.3
+   ]
   },
   {
    "id": "estelar-106",
@@ -402,7 +417,10 @@
    ],
    "votes": 19,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.7
+   ]
   },
   {
    "id": "buen-pastor-radio",
@@ -581,7 +599,10 @@
    "genre": [],
    "votes": 166,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.3
+   ]
   },
   {
    "id": "radio-fm103-rd",
@@ -619,7 +640,10 @@
    "genre": [],
    "votes": 103,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    100.3
+   ]
   },
   {
    "id": "radio-santa-maria",
@@ -680,7 +704,10 @@
    "genre": [],
    "votes": 26,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    95.1
+   ]
   },
   {
    "id": "palma-90-7-fm",
@@ -693,7 +720,10 @@
    "genre": [],
    "votes": 21,
    "clicks": 5,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    90.7
+   ]
   },
   {
    "id": "mc-anime-radio",
@@ -724,7 +754,10 @@
    "genre": [],
    "votes": 16,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "abdulbasit-abdulsamad",
@@ -777,7 +810,10 @@
    "genre": [],
    "votes": 9,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    700
+   ]
   },
   {
    "id": "dbs-radio",
@@ -886,7 +922,10 @@
    "genre": [],
    "votes": 2,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "yarah-radio",
@@ -910,7 +949,10 @@
    "genre": [],
    "votes": 1,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.9
+   ]
   },
   {
    "id": "romantica-103-fm",

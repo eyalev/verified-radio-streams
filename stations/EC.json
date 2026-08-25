@@ -33,7 +33,10 @@
    ],
    "votes": 1530,
    "clicks": 7,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.1
+   ]
   },
   {
    "id": "hcjb-la-voz-de-los-andes-89-3-fm",
@@ -56,7 +59,10 @@
    ],
    "votes": 1156,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.3
+   ]
   },
   {
    "id": "radio-canela-guayas",
@@ -144,7 +150,10 @@
    ],
    "votes": 567,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.7
+   ]
   },
   {
    "id": "rnc-la-mundialista-103-3-fm-aac",
@@ -167,7 +176,10 @@
    ],
    "votes": 527,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.3
+   ]
   },
   {
    "id": "radio-11q-104-9-fm",
@@ -194,7 +206,10 @@
    ],
    "votes": 521,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.9
+   ]
   },
   {
    "id": "la-961-suprema-estacion",
@@ -262,7 +277,10 @@
    ],
    "votes": 429,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    760
+   ]
   },
   {
    "id": "radio-platinum-fm",
@@ -309,7 +327,10 @@
    ],
    "votes": 379,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    1070
+   ]
   },
   {
    "id": "radio-gaviota-105-1-fm",
@@ -332,7 +353,10 @@
    ],
    "votes": 349,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.1
+   ]
   },
   {
    "id": "radio-magica-87-7-ecuador",
@@ -392,7 +416,10 @@
    ],
    "votes": 216,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.5
+   ]
   },
   {
    "id": "radio-canela-el-oro-100-7-fm",
@@ -415,7 +442,10 @@
    ],
    "votes": 209,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.7
+   ]
   },
   {
    "id": "radio-canela-106-5-fm",
@@ -438,7 +468,10 @@
    ],
    "votes": 140,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.5
+   ]
   },
   {
    "id": "la-voz-del-tomebamba",
@@ -482,7 +515,10 @@
    ],
    "votes": 106,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.7
+   ]
   },
   {
    "id": "modelo-97-7-fm",
@@ -505,7 +541,10 @@
    ],
    "votes": 104,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.7
+   ]
   },
   {
    "id": "amazonas-fm-92-1",
@@ -550,7 +589,10 @@
    ],
    "votes": 60,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.1
+   ]
   },
   {
    "id": "radio-armonia-100-1-fm",
@@ -571,7 +613,10 @@
    ],
    "votes": 58,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100.1
+   ]
   },
   {
    "id": "radio-xtrema-fm",
@@ -619,7 +664,10 @@
    ],
    "votes": 56,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.5
+   ]
   },
   {
    "id": "canar-stereo-97-3-fm",
@@ -640,7 +688,10 @@
    ],
    "votes": 55,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.3
+   ]
   },
   {
    "id": "play-fm-95-3",
@@ -686,7 +737,10 @@
    ],
    "votes": 43,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.7
+   ]
   },
   {
    "id": "contigo-fm-104-9",
@@ -753,7 +807,10 @@
    ],
    "votes": 31,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.5
+   ]
   },
   {
    "id": "expresiun-fm-102-9",
@@ -885,7 +942,10 @@
    "genre": [],
    "votes": 3494,
    "clicks": 21,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.3
+   ]
   },
   {
    "id": "radio-canela-pichincha",
@@ -913,7 +973,10 @@
    "genre": [],
    "votes": 2910,
    "clicks": 16,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.5
+   ]
   },
   {
    "id": "los-40-ecuador",
@@ -1013,7 +1076,10 @@
    "genre": [],
    "votes": 244,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "area-deportiva",
@@ -1053,7 +1119,10 @@
    "genre": [],
    "votes": 100,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.5
+   ]
   },
   {
    "id": "rcn-catolica-nacional",
@@ -1168,7 +1237,10 @@
    "genre": [],
    "votes": 58,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    99.7
+   ]
   },
   {
    "id": "fm-mundo-98-1-fm",
@@ -1180,7 +1252,10 @@
    "genre": [],
    "votes": 48,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.1
+   ]
   },
   {
    "id": "forever-radio-92-5",
@@ -1214,7 +1289,10 @@
    "genre": [],
    "votes": 40,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.7
+   ]
   },
   {
    "id": "radio-dj-s-retro",
@@ -1244,7 +1322,10 @@
    "genre": [],
    "votes": 33,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    88.9
+   ]
   },
   {
    "id": "brisa-azul-fm",
@@ -1296,7 +1377,10 @@
    "genre": [],
    "votes": 8,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.3
+   ]
   },
   {
    "id": "radio11q-104-9-fm",
@@ -1308,7 +1392,10 @@
    "genre": [],
    "votes": 4,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.9
+   ]
   },
   {
    "id": "turbo-fm-93-3-fm-tungurahua",
@@ -1320,7 +1407,10 @@
    "genre": [],
    "votes": 4,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.3
+   ]
   },
   {
    "id": "la99radio",
@@ -1344,7 +1434,10 @@
    "genre": [],
    "votes": 2,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.9
+   ]
   },
   {
    "id": "radio-27-electro",

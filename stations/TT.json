@@ -30,7 +30,10 @@
    ],
    "votes": 1098,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.1
+   ]
   },
   {
    "id": "tambrin",
@@ -199,7 +202,10 @@
    "genre": [],
    "votes": 116,
    "clicks": 8,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.3
+   ]
   },
   {
    "id": "music-radio-97-1-fm",
@@ -212,7 +218,10 @@
    "genre": [],
    "votes": 65,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.1
+   ]
   },
   {
    "id": "bacchanal-radio",
@@ -236,7 +245,10 @@
    "genre": [],
    "votes": 52,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    91.1
+   ]
   },
   {
    "id": "scorch-radio-101-1fm",
@@ -254,7 +266,10 @@
    "genre": [],
    "votes": 50,
    "clicks": 9,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.1
+   ]
   },
   {
    "id": "vibe-ct-105",

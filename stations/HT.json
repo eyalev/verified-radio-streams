@@ -20,7 +20,10 @@
    "genre": [],
    "votes": 403,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    93.1
+   ]
   },
   {
    "id": "rfi",

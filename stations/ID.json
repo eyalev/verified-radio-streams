@@ -45,7 +45,10 @@
    ],
    "votes": 1552,
    "clicks": 6,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "amKhz": [
+    756
+   ]
   },
   {
    "id": "dengerin-musik-indonesia",
@@ -85,7 +88,10 @@
    ],
    "votes": 1062,
    "clicks": 7,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.5
+   ]
   },
   {
    "id": "rama-fm-bandung-104-7-fm",
@@ -101,7 +107,10 @@
    ],
    "votes": 946,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.7
+   ]
   },
   {
    "id": "rri-voice-of-indonesia",
@@ -402,7 +411,10 @@
    ],
    "votes": 155,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.3
+   ]
   },
   {
    "id": "sun-fm-103-5mhz-banjarmasin",
@@ -417,7 +429,10 @@
    ],
    "votes": 151,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    103.5
+   ]
   },
   {
    "id": "classy-netradio",
@@ -1357,7 +1372,10 @@
    ],
    "votes": 12,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    95.6
+   ]
   },
   {
    "id": "cakra-90-5-fm-bandung",
@@ -1372,7 +1390,10 @@
    ],
    "votes": 12,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.5
+   ]
   },
   {
    "id": "iswara-banjarmasin",
@@ -1546,7 +1567,10 @@
    ],
    "votes": 9,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    91.2
+   ]
   },
   {
    "id": "i-love-music-i-k-pop",
@@ -1907,7 +1931,10 @@
    ],
    "votes": 6,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    94.6
+   ]
   },
   {
    "id": "yasika-fm-jogja",
@@ -1999,7 +2026,10 @@
    ],
    "votes": 5,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.4
+   ]
   },
   {
    "id": "radio-kita-tasikmalaya",
@@ -2063,7 +2093,10 @@
    ],
    "votes": 5,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.3
+   ]
   },
   {
    "id": "100-rock",
@@ -2103,7 +2136,10 @@
    ],
    "votes": 4,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    87.6
+   ]
   },
   {
    "id": "megadeth",
@@ -2318,7 +2354,10 @@
    ],
    "votes": 2,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    93.9
+   ]
   },
   {
    "id": "arif-channel",
@@ -2643,7 +2682,10 @@
    "genre": [],
    "votes": 7999,
    "clicks": 19,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89.2
+   ]
   },
   {
    "id": "suara-surabaya-fm",
@@ -2732,7 +2774,10 @@
    "genre": [],
    "votes": 1051,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    101.4
+   ]
   },
   {
    "id": "campursari-fm-jakarta",
@@ -2815,7 +2860,10 @@
    "genre": [],
    "votes": 547,
    "clicks": 2,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.1
+   ]
   },
   {
    "id": "rasika-fm-usa-semarang",
@@ -2902,7 +2950,10 @@
    "genre": [],
    "votes": 350,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    97.8
+   ]
   },
   {
    "id": "rodja-bandung-104-3-fm",
@@ -2914,7 +2965,10 @@
    "genre": [],
    "votes": 339,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    104.3
+   ]
   },
   {
    "id": "radio-gentara",
@@ -2938,7 +2992,10 @@
    "genre": [],
    "votes": 288,
    "clicks": 3,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    98.6
+   ]
   },
   {
    "id": "rri-pro1-banjarmasin",

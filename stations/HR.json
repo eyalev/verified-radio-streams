@@ -1062,7 +1062,10 @@
    "genre": [],
    "votes": 8,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    89
+   ]
   },
   {
    "id": "radio-kampus",

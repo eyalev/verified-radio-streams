@@ -1478,7 +1478,10 @@
    ],
    "votes": 155,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.7
+   ]
   },
   {
    "id": "jazz-89-1-256kbps",
@@ -1819,7 +1822,10 @@
    ],
    "votes": 110,
    "clicks": 4,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.1
+   ]
   },
   {
    "id": "dfm-dance-gold-1990s",
@@ -1900,7 +1906,10 @@
    ],
    "votes": 101,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    100
+   ]
   },
   {
    "id": "sova",
@@ -2800,7 +2809,10 @@
    "genre": [],
    "votes": 506,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.4
+   ]
   },
   {
    "id": "record-rock",

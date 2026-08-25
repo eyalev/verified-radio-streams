@@ -1510,7 +1510,10 @@
    ],
    "votes": 54,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    90.3
+   ]
   },
   {
    "id": "nitty-gritty-music-radio",
@@ -2711,7 +2714,13 @@
    ],
    "votes": 16,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ],
+   "amKhz": [
+    610
+   ]
   },
   {
    "id": "cjrb-1220-boissevain-mb",

@@ -78,7 +78,10 @@
    ],
    "votes": 465,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    92.5
+   ]
   },
   {
    "id": "stereo97",
@@ -126,7 +129,10 @@
    ],
    "votes": 274,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    98.5
+   ]
   },
   {
    "id": "el-fin-del-silencio",
@@ -177,7 +183,10 @@
    ],
    "votes": 206,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    97.3
+   ]
   },
   {
    "id": "radio-estrella-93-1-fm",
@@ -210,7 +219,10 @@
    ],
    "votes": 184,
    "clicks": 4,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    93.1
+   ]
   },
   {
    "id": "diana-d-102-1-fm",
@@ -242,7 +254,10 @@
    ],
    "votes": 168,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    102.1
+   ]
   },
   {
    "id": "melodia",
@@ -283,7 +298,10 @@
    ],
    "votes": 99,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.5
+   ]
   },
   {
    "id": "radio-pop-red-uyuni",
@@ -348,7 +366,10 @@
    ],
    "votes": 59,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    105.4
+   ]
   },
   {
    "id": "animax-radio",
@@ -568,7 +589,10 @@
    "genre": [],
    "votes": 679,
    "clicks": 2,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "amKhz": [
+    620
+   ]
   },
   {
    "id": "radio-qhana-fm98-5",

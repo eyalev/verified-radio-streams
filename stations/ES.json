@@ -427,7 +427,10 @@
    ],
    "votes": 767,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    92.7
+   ]
   },
   {
    "id": "ibiza-stardust-radio",
@@ -612,7 +615,10 @@
    ],
    "votes": 388,
    "clicks": 5,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.1
+   ]
   },
   {
    "id": "1000-hits-classical",
@@ -1795,7 +1801,10 @@
    ],
    "votes": 67,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    87.7
+   ]
   },
   {
    "id": "radio-andalucia-informacion-sevilla",
@@ -2300,7 +2309,10 @@
    ],
    "votes": 32,
    "clicks": 1,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    107.9
+   ]
   },
   {
    "id": "candil-radio",
@@ -2446,7 +2458,10 @@
    ],
    "votes": 28,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    96.6
+   ]
   },
   {
    "id": "holland-fm-gran-canaria",
@@ -2599,7 +2614,10 @@
    ],
    "votes": 25,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    102.9
+   ]
   },
   {
    "id": "los-40-sur",

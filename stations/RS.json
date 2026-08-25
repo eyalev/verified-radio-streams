@@ -1797,7 +1797,10 @@
    "genre": [],
    "votes": 129,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    106.8
+   ]
   },
   {
    "id": "red-radio-beograd",
@@ -1971,7 +1974,10 @@
    "genre": [],
    "votes": 79,
    "clicks": 0,
-   "verified": "2026-08-24"
+   "verified": "2026-08-24",
+   "fmMhz": [
+    105.2
+   ]
   },
   {
    "id": "radio-balkan-trending",

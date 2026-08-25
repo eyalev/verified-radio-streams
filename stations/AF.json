@@ -248,7 +248,10 @@
    ],
    "votes": 82,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    104.1
+   ]
   },
   {
    "id": "cosmo-hi",

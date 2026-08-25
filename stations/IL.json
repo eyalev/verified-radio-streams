@@ -23,7 +23,10 @@
    ],
    "votes": 2120,
    "clicks": 8,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    89.1
+   ]
   },
   {
    "id": "galgalatz-91-8-fm",
@@ -45,7 +48,10 @@
    ],
    "votes": 817,
    "clicks": 3,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    91.8
+   ]
   },
   {
    "id": "radio-100-90s",
@@ -135,7 +141,10 @@
    ],
    "votes": 55,
    "clicks": 0,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    101.5
+   ]
   },
   {
    "id": "kol-rega-91-5-96",
@@ -497,7 +506,10 @@
    "genre": [],
    "votes": 1,
    "clicks": 1,
-   "verified": "2026-08-23"
+   "verified": "2026-08-23",
+   "fmMhz": [
+    96.3
+   ]
   },
   {
    "id": "up2dance-radio",
