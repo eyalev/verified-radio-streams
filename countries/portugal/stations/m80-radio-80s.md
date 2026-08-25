@@ -1,6 +1,6 @@
 # M80 Rádio – 80s
 
-🇵🇹 Radio from **[Portugal](README.md)** · Lisbon
+🇵🇹 Radio from **[Portugal](../README.md)** · Lisbon
 
 ## Listen
 
@@ -16,7 +16,7 @@ mpv "https://stream-icy.bauermedia.pt/m8080.aac"
 
 | | |
 |---|---|
-| Country | 🇵🇹 [Portugal](README.md) |
+| Country | 🇵🇹 [Portugal](../README.md) |
 | Region | Lisbon |
 | Genre | `80s` `pop` `romantic` |
 | Language | portuguese |
@@ -39,8 +39,8 @@ it is not an endorsement — just the last time anybody checked.
 - [GoloFM](golofm.md)
 - [M80 Rádio – Ballads](m80-radio-ballads.md) — 70s, 80s, 90s, romantic
 
-[**All 144 stations in Portugal →**](README.md)
+[**All 144 stations in Portugal →**](../README.md)
 
 ---
 
-[← Portugal](README.md) · [All countries](../README.md) · [Repo home](../../README.md) · [globalradio.app](https://globalradio.app)
+[← Portugal](../README.md) · [All countries](../../README.md) · [Repo home](../../../README.md) · [globalradio.app](https://globalradio.app)

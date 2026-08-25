@@ -14,30 +14,30 @@
 
 The most-voted stations in Portugal, each with a page of its own:
 
-- **[RFM](rfm.md)** — genre not labelled · 64 kbps AAC · 11,407 votes
-- **[Radio Comercial Portugal](radio-comercial-portugal.md)** — genre not labelled · 128 kbps MP3 · 2,066 votes
-- **[M80 Rádio – 80s](m80-radio-80s.md)** — 80s, pop, romantic · 128 kbps AAC · 2,000 votes
-- **[Radio Fado de Coimbra](radio-fado-de-coimbra.md)** — fado · 128 kbps MP3 · 1,370 votes
-- **[TSF Rádio Notícias](tsf-radio-noticias.md)** — genre not labelled · 128 kbps MP3 · 1,094 votes
-- **[GoloFM](golofm.md)** — genre not labelled · 192 kbps MP3 · 1,074 votes
-- **[M80 Rádio – Ballads](m80-radio-ballads.md)** — 70s, 80s, 90s, romantic · 128 kbps AAC · 1,053 votes
-- **[M80 Rádio – Portugal](m80-radio-portugal.md)** — genre not labelled · 128 kbps AAC · 653 votes
-- **[Rádio Amor Portugal](radio-amor-portugal.md)** — genre not labelled · 128 kbps MP3 · 625 votes
-- **[M80 Rádio – 60s](m80-radio-60s.md)** — 60s, 70s, 80s · 128 kbps AAC · 610 votes
-- **[Smooth FM (AAC)](smooth-fm-aac.md)** — jazz, smooth-jazz · 127 kbps AAC · 462 votes
-- **[Wonder 80's](wonder-80-s.md)** — genre not labelled · 128 kbps MP3 · 434 votes
+- **[RFM](stations/rfm.md)** — genre not labelled · 64 kbps AAC · 11,407 votes
+- **[Radio Comercial Portugal](stations/radio-comercial-portugal.md)** — genre not labelled · 128 kbps MP3 · 2,066 votes
+- **[M80 Rádio – 80s](stations/m80-radio-80s.md)** — 80s, pop, romantic · 128 kbps AAC · 2,000 votes
+- **[Radio Fado de Coimbra](stations/radio-fado-de-coimbra.md)** — fado · 128 kbps MP3 · 1,370 votes
+- **[TSF Rádio Notícias](stations/tsf-radio-noticias.md)** — genre not labelled · 128 kbps MP3 · 1,094 votes
+- **[GoloFM](stations/golofm.md)** — genre not labelled · 192 kbps MP3 · 1,074 votes
+- **[M80 Rádio – Ballads](stations/m80-radio-ballads.md)** — 70s, 80s, 90s, romantic · 128 kbps AAC · 1,053 votes
+- **[M80 Rádio – Portugal](stations/m80-radio-portugal.md)** — genre not labelled · 128 kbps AAC · 653 votes
+- **[Rádio Amor Portugal](stations/radio-amor-portugal.md)** — genre not labelled · 128 kbps MP3 · 625 votes
+- **[M80 Rádio – 60s](stations/m80-radio-60s.md)** — 60s, 70s, 80s · 128 kbps AAC · 610 votes
+- **[Smooth FM (AAC)](stations/smooth-fm-aac.md)** — jazz, smooth-jazz · 127 kbps AAC · 462 votes
+- **[Wonder 80's](stations/wonder-80-s.md)** — genre not labelled · 128 kbps MP3 · 434 votes
 
 ## Browse by genre
 
-**pop** (19) — [M80 Rádio – 80s](m80-radio-80s.md) · RFM Oceano Pacifico · M80 Rádio – Pop · Rádio XL · M80 Rádio – 70s · MRR Manitu Rock Radio · Rádio Regional do Centro · M 80 Rádio
+**pop** (19) — [M80 Rádio – 80s](stations/m80-radio-80s.md) · RFM Oceano Pacifico · M80 Rádio – Pop · Rádio XL · M80 Rádio – 70s · MRR Manitu Rock Radio · Rádio Regional do Centro · M 80 Rádio
 
-**80s** (9) — [M80 Rádio – 80s](m80-radio-80s.md) · [M80 Rádio – Ballads](m80-radio-ballads.md) · [M80 Rádio – 60s](m80-radio-60s.md) · M80 Rádio (AAC) · M80 Rádio – Pop · M80 Rádio – Dance · M80 Rádio – Rock · M80 Rádio – 70s
+**80s** (9) — [M80 Rádio – 80s](stations/m80-radio-80s.md) · [M80 Rádio – Ballads](stations/m80-radio-ballads.md) · [M80 Rádio – 60s](stations/m80-radio-60s.md) · M80 Rádio (AAC) · M80 Rádio – Pop · M80 Rádio – Dance · M80 Rádio – Rock · M80 Rádio – 70s
 
-**70s** (7) — [M80 Rádio – Ballads](m80-radio-ballads.md) · [M80 Rádio – 60s](m80-radio-60s.md) · M80 Rádio (AAC) · M80 Rádio – Pop · M80 Rádio – Dance · M80 Rádio – 70s · M80 Rádio – Soul
+**70s** (7) — [M80 Rádio – Ballads](stations/m80-radio-ballads.md) · [M80 Rádio – 60s](stations/m80-radio-60s.md) · M80 Rádio (AAC) · M80 Rádio – Pop · M80 Rádio – Dance · M80 Rádio – 70s · M80 Rádio – Soul
 
 **rock** (7) — M80 Rádio – Rock · Radio Comercial Rock · NiTfm · RUA FM · NTR - Network Radio · Radio Rock Pirata · RFM Rocks
 
-**90s** (5) — [M80 Rádio – Ballads](m80-radio-ballads.md) · M80 Rádio (AAC) · M80 Rádio – Pop · M80 Rádio – Dance · NTR - Network Radio
+**90s** (5) — [M80 Rádio – Ballads](stations/m80-radio-ballads.md) · M80 Rádio (AAC) · M80 Rádio – Pop · M80 Rádio – Dance · NTR - Network Radio
 
 **metal** (5) — MRR Manitu Rock Radio · MetalON - The Heavy · Radio Metal On: The Thrasher · Radio Metal On: Toxic · Radio Rock Pirata
 
@@ -69,18 +69,18 @@ name is a link only when it has a page in this repo.
 
 | Station | Genre | Quality | Listen | |
 |---|---|---|---|---|
-| [RFM](rfm.md) | — | 64 kbps AAC | [▶︎ listen](https://23603.live.streamtheworld.com/RFMAAC.aac) | [site](https://rfm.sapo.pt/) |
-| [Radio Comercial Portugal](radio-comercial-portugal.md) | — | 128 kbps MP3 | [▶︎ listen](https://stream-icy.bauermedia.pt/comercial.mp3) | [site](https://radiocomercial.pt/) |
-| [M80 Rádio – 80s](m80-radio-80s.md) | 80s, pop, romantic | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m8080.aac) | [site](https://m80.iol.pt/) |
-| [Radio Fado de Coimbra](radio-fado-de-coimbra.md) | fado | 128 kbps MP3 | [▶︎ listen](https://nl.digitalrm.pt:8048/stream) | [site](https://www.radiofadodecoimbra.pt/) |
-| [TSF Rádio Notícias](tsf-radio-noticias.md) | — | 128 kbps MP3 | [▶︎ listen](https://directo.tsf.pt/tsfdirecto.mp3) | [site](https://www.tsf.pt/) |
-| [GoloFM](golofm.md) | — | 192 kbps MP3 | [▶︎ listen](https://sp0.redeaudio.com/8154/stream) | [site](https://golo.fm/) |
-| [M80 Rádio – Ballads](m80-radio-ballads.md) | 70s, 80s, 90s, romantic | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m80ballads.aac) | [site](https://m80.iol.pt/) |
-| [M80 Rádio – Portugal](m80-radio-portugal.md) | — | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m80nacional.aac) | [site](https://m80.iol.pt/) |
-| [Rádio Amor Portugal](radio-amor-portugal.md) | — | 128 kbps MP3 | [▶︎ listen](https://stream.radioamorportugal.com:8443/rap.mp3) | [site](https://radioamorportugal.com/) |
-| [M80 Rádio – 60s](m80-radio-60s.md) | 60s, 70s, 80s | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m8060.aac) | [site](https://m80.iol.pt/) |
-| [Smooth FM (AAC)](smooth-fm-aac.md) | jazz, smooth-jazz | 127 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/smooth.aac) | [site](https://smoothfm.iol.pt/) |
-| [Wonder 80's](wonder-80-s.md) | — | 128 kbps MP3 | [▶︎ listen](https://80.streeemer.com/listen/80s/radio.mp3) | [site](https://mytuner-radio.com/radio/wonder-80s-492680/) |
+| [RFM](stations/rfm.md) | — | 64 kbps AAC | [▶︎ listen](https://23603.live.streamtheworld.com/RFMAAC.aac) | [site](https://rfm.sapo.pt/) |
+| [Radio Comercial Portugal](stations/radio-comercial-portugal.md) | — | 128 kbps MP3 | [▶︎ listen](https://stream-icy.bauermedia.pt/comercial.mp3) | [site](https://radiocomercial.pt/) |
+| [M80 Rádio – 80s](stations/m80-radio-80s.md) | 80s, pop, romantic | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m8080.aac) | [site](https://m80.iol.pt/) |
+| [Radio Fado de Coimbra](stations/radio-fado-de-coimbra.md) | fado | 128 kbps MP3 | [▶︎ listen](https://nl.digitalrm.pt:8048/stream) | [site](https://www.radiofadodecoimbra.pt/) |
+| [TSF Rádio Notícias](stations/tsf-radio-noticias.md) | — | 128 kbps MP3 | [▶︎ listen](https://directo.tsf.pt/tsfdirecto.mp3) | [site](https://www.tsf.pt/) |
+| [GoloFM](stations/golofm.md) | — | 192 kbps MP3 | [▶︎ listen](https://sp0.redeaudio.com/8154/stream) | [site](https://golo.fm/) |
+| [M80 Rádio – Ballads](stations/m80-radio-ballads.md) | 70s, 80s, 90s, romantic | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m80ballads.aac) | [site](https://m80.iol.pt/) |
+| [M80 Rádio – Portugal](stations/m80-radio-portugal.md) | — | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m80nacional.aac) | [site](https://m80.iol.pt/) |
+| [Rádio Amor Portugal](stations/radio-amor-portugal.md) | — | 128 kbps MP3 | [▶︎ listen](https://stream.radioamorportugal.com:8443/rap.mp3) | [site](https://radioamorportugal.com/) |
+| [M80 Rádio – 60s](stations/m80-radio-60s.md) | 60s, 70s, 80s | 128 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m8060.aac) | [site](https://m80.iol.pt/) |
+| [Smooth FM (AAC)](stations/smooth-fm-aac.md) | jazz, smooth-jazz | 127 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/smooth.aac) | [site](https://smoothfm.iol.pt/) |
+| [Wonder 80's](stations/wonder-80-s.md) | — | 128 kbps MP3 | [▶︎ listen](https://80.streeemer.com/listen/80s/radio.mp3) | [site](https://mytuner-radio.com/radio/wonder-80s-492680/) |
 | RFM Oceano Pacifico | pop, pop-rock | 64 kbps AAC | [▶︎ listen](https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac) | [site](https://rfm.sapo.pt/) |
 | M80 Rádio (AAC) | 2000s, 70s, 80s, 90s | 127 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m80.aac) | [site](https://m80.iol.pt/) |
 | M80 Rádio – Pop | 70s, 80s, 90s, pop | 127 kbps AAC | [▶︎ listen](https://stream-icy.bauermedia.pt/m80pop.aac) | [site](https://m80.iol.pt/) |

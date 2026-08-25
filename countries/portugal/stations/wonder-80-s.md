@@ -1,26 +1,27 @@
-# Radio Comercial Portugal
+# Wonder 80's
 
-🇵🇹 Radio from **[Portugal](README.md)**
+🇵🇹 Radio from **[Portugal](../README.md)** · Lisbon
 
 ## Listen
 
-- ▶︎ **[Play it on globalradio.app](https://globalradio.app/portugal/radio-comercial-portugal/)** — plays in the browser, nothing to install
-- 🌐 [The station's own website](https://radiocomercial.pt/)
-- 🎧 Direct stream: [`https://stream-icy.bauermedia.pt/comercial.mp3`](https://stream-icy.bauermedia.pt/comercial.mp3) — paste into VLC, mpv, or any player
+- ▶︎ **[Play it on globalradio.app](https://globalradio.app/portugal/wonder-80-s/)** — plays in the browser, nothing to install
+- 🌐 [The station's own website](https://mytuner-radio.com/radio/wonder-80s-492680/)
+- 🎧 Direct stream: [`https://80.streeemer.com/listen/80s/radio.mp3`](https://80.streeemer.com/listen/80s/radio.mp3) — paste into VLC, mpv, or any player
 
 ```bash
-mpv "https://stream-icy.bauermedia.pt/comercial.mp3"
+mpv "https://80.streeemer.com/listen/80s/radio.mp3"
 ```
 
 ## What we know about it
 
 | | |
 |---|---|
-| Country | 🇵🇹 [Portugal](README.md) |
+| Country | 🇵🇹 [Portugal](../README.md) |
+| Region | Lisbon |
 | Quality | 128 kbps MP3 |
 | Format | _not known — see below_ |
-| Votes | 2,066 |
-| Plays (24h) | 13 |
+| Votes | 434 |
+| Plays (24h) | 11 |
 | Stream last answered | **2026-08-24** |
 
 **Stream last answered 2026-08-24** means exactly that: on that day the URL
@@ -35,14 +36,14 @@ crowd-submitted and are not evidence of speech content, so this project infers
 ## More from Portugal
 
 - [RFM](rfm.md)
+- [Radio Comercial Portugal](radio-comercial-portugal.md)
 - [M80 Rádio – 80s](m80-radio-80s.md) — 80s, pop, romantic
 - [Radio Fado de Coimbra](radio-fado-de-coimbra.md) — fado
 - [TSF Rádio Notícias](tsf-radio-noticias.md)
 - [GoloFM](golofm.md)
-- [M80 Rádio – Ballads](m80-radio-ballads.md) — 70s, 80s, 90s, romantic
 
-[**All 144 stations in Portugal →**](README.md)
+[**All 144 stations in Portugal →**](../README.md)
 
 ---
 
-[← Portugal](README.md) · [All countries](../README.md) · [Repo home](../../README.md) · [globalradio.app](https://globalradio.app)
+[← Portugal](../README.md) · [All countries](../../README.md) · [Repo home](../../../README.md) · [globalradio.app](https://globalradio.app)

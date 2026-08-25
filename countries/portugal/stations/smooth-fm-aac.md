@@ -1,6 +1,6 @@
 # Smooth FM (AAC)
 
-🇵🇹 Radio from **[Portugal](README.md)** · Lisbon
+🇵🇹 Radio from **[Portugal](../README.md)** · Lisbon
 
 ## Listen
 
@@ -16,7 +16,7 @@ mpv "https://stream-icy.bauermedia.pt/smooth.aac"
 
 | | |
 |---|---|
-| Country | 🇵🇹 [Portugal](README.md) |
+| Country | 🇵🇹 [Portugal](../README.md) |
 | Region | Lisbon |
 | Genre | `jazz` `smooth-jazz` |
 | Language | portuguese |
@@ -39,8 +39,8 @@ it is not an endorsement — just the last time anybody checked.
 - [TSF Rádio Notícias](tsf-radio-noticias.md)
 - [GoloFM](golofm.md)
 
-[**All 144 stations in Portugal →**](README.md)
+[**All 144 stations in Portugal →**](../README.md)
 
 ---
 
-[← Portugal](README.md) · [All countries](../README.md) · [Repo home](../../README.md) · [globalradio.app](https://globalradio.app)
+[← Portugal](../README.md) · [All countries](../../README.md) · [Repo home](../../../README.md) · [globalradio.app](https://globalradio.app)

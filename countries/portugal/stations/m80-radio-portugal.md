@@ -1,6 +1,6 @@
 # M80 Rádio – Portugal
 
-🇵🇹 Radio from **[Portugal](README.md)** · Lisbon
+🇵🇹 Radio from **[Portugal](../README.md)** · Lisbon
 
 ## Listen
 
@@ -16,7 +16,7 @@ mpv "https://stream-icy.bauermedia.pt/m80nacional.aac"
 
 | | |
 |---|---|
-| Country | 🇵🇹 [Portugal](README.md) |
+| Country | 🇵🇹 [Portugal](../README.md) |
 | Region | Lisbon |
 | Language | portuguese |
 | Quality | 128 kbps AAC |
@@ -43,8 +43,8 @@ crowd-submitted and are not evidence of speech content, so this project infers
 - [TSF Rádio Notícias](tsf-radio-noticias.md)
 - [GoloFM](golofm.md)
 
-[**All 144 stations in Portugal →**](README.md)
+[**All 144 stations in Portugal →**](../README.md)
 
 ---
 
-[← Portugal](README.md) · [All countries](../README.md) · [Repo home](../../README.md) · [globalradio.app](https://globalradio.app)
+[← Portugal](../README.md) · [All countries](../../README.md) · [Repo home](../../../README.md) · [globalradio.app](https://globalradio.app)
