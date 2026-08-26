@@ -15,6 +15,19 @@ a claim about who owns the audio, and not a grant of any right to rebroadcast
 it. If you intend to redistribute a stream rather than link to it, that is
 between you and the broadcaster.
 
+WHAT IS DELIBERATELY NOT HERE
+
+Nothing in this repository is derived from a share-alike or otherwise
+restrictive source, and that is enforced rather than intended: the generator
+publishes station fields from an allowlist and STOPS if it meets a field
+nobody has classified, because a licence that depends on no one having made a
+mistake is a claim and not a fact.
+
+In particular, transmitter coordinates from OpenStreetMap are ODbL
+(share-alike) and are excluded. Where globalradio.app uses such data it keeps
+it in a separate place under its own licence. Broadcast frequencies here are
+read off the stations' own names and are plain fact.
+
 SOURCE
 
 Station discovery comes from Radio Browser (https://www.radio-browser.info),
